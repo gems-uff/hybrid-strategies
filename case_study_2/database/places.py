@@ -29,6 +29,7 @@ JSS = journal("JSS", "Journal of Systems and Software")
 
 MIS = conference("MIS", "Management Information Systems Quarterly")
 MODELSWARD = conference("MODELSWARD", "Model-Driven Engineering and Software Development (MODELSWARD), 2016 4th International Conference on")
+MS = journal("MS", "Management Science")
 
 ICSTW = conference("ICSTW", "Software Testing, Verification and Validation Workshops")
 

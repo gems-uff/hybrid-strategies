@@ -14,6 +14,8 @@ wohlin2014a = DB(WorkSnowball(
     references = 21, 
     citations = 200,
     snowball=datetime(2017, 9, 18),
+    scopus="1",
+    acm="1",
 ))
 
 wohlin2014b = DB(WorkOk(

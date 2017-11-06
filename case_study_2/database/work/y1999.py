@@ -22,7 +22,7 @@ briand1999a = DB(Work(
     1999, "An assessment and comparison of common software cost estimation modeling techniques",
     display="briand1999a",
     authors="Briand, L.C., Emam, K. El, Surmann, D., Wieczorek, I. and Maxwell, K.",
-    place1="In 21st International Conference on Software Engineering (ICSE 99)",
+    place=ICSE,
     other1="313–323",   
 ))
 
@@ -38,7 +38,7 @@ maxwell1999a = DB(Work(
     1999, "Performance evaluation of general and company specific models in software development effort estimation",
     display="maxwell",
     authors="Maxwell, K., Wassenhove, L.V., and Dutta, S.",
-    place1="In Proceedings Management Science",
+    place=MS,
     other1="787-803",   
 ))
 

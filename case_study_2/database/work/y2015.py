@@ -67,8 +67,8 @@ li2015a = DB(WorkForward(
     cluster_id="12427643046150454848",
     scholar="http://scholar.google.com/scholar?cites=12427643046150454848&as_sdt=2005&sciodt=0,5&hl=en",
     dglibrary = "Scopus,ACM",
-    scopus="existe",
-    acm="existe",
+    scopus="1",
+    acm="1",
     references = "31", 
     citations = "200",
 ))
