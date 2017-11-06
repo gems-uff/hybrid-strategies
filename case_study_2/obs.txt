@@ -1,0 +1,16 @@
+Dúvidas:
+
+1)São obrigatórios: 
+Nome do artigo tem q ter ponto final;
+variavel place1 tem que ser place em todos;
+incluiu atributo scholar
+
+2) Posso criar uma categoria para backward e outra para forward
+
+3)Existe no forward uma linha com o arquivo.pdf - ele faz dowload?
+
+4)Quando ele busca os artigos no google, ele pega todos os artigos da pagina?
+
+5)Variável start no forward é a partir do numero do ultimo artigo selecionado?
+
+6)Como eliminiar o captcha que ocorre várias vezes?
