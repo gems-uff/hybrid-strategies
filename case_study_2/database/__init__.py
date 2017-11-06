@@ -46,7 +46,7 @@ config.WORK_FIELDS = [
     "doi", "isbn",  "proceedings", "issn",
     "organization", "publisher", "school", "institution", "track",
     "ref", "local", "editors", "awards",
-    "special", "website", "link", "scholar", "shorttitle", "address",
+    "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations"
 ]
 
 ### Ignore fields when exporting to BibTeX

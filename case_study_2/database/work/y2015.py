@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-babur2015a = DB(WorkOk(
+babur2015a = DB(WorkForward(
     2015, "Multiphysics and multiscale software frameworks: an annotated bibliography",
     display="babur2015a",
     authors="Babur, Ö and Verhoeff, T and van den Brand, M",
@@ -15,7 +15,7 @@ babur2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=11826893758434149180&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-badampudi2015a = DB(WorkOk(
+badampudi2015a = DB(WorkForward(
     2015, "Experiences from using snowballing and database searches in systematic literature studies",
     display="badampudi",
     authors="Badampudi, Deepika and Wohlin, Claes and Petersen, Kai",
@@ -28,7 +28,7 @@ badampudi2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=12066422021541053808&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-giraldo2015a = DB(WorkOk(
+giraldo2015a = DB(WorkForward(
     2015, "Modelling language quality evaluation in model-driven information systems engineering: A roadmap",
     display="giraldo2015a",
     authors="Giraldo, Fáber D and España, Sergio and Giraldo, William J and Pastor, Oscar",
@@ -41,7 +41,7 @@ giraldo2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=11566151361657329177&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-klotins2015a = DB(WorkOk(
+klotins2015a = DB(WorkForward(
     2015, "Software engineering knowledge areas in startup companies: a mapping study",
     display="klotins2015a",
     authors="Klotins, Eriks and Unterkalmsteiner, Michael and Gorschek, Tony",
@@ -54,7 +54,7 @@ klotins2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=17734406287758408843&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-li2015a = DB(WorkOk(
+li2015a = DB(WorkForward(
     2015, "A systematic mapping study on technical debt and its management",
     display="li",
     authors="Li, Zengyang and Avgeriou, Paris and Liang, Peng",
@@ -66,9 +66,14 @@ li2015a = DB(WorkOk(
     ID="li2015systematic",
     cluster_id="12427643046150454848",
     scholar="http://scholar.google.com/scholar?cites=12427643046150454848&as_sdt=2005&sciodt=0,5&hl=en",
+    dglibrary = "Scopus,ACM",
+    scopus="existe",
+    acm="existe",
+    references = "31", 
+    citations = "200",
 ))
 
-lopez2015a = DB(WorkOk(
+lopez2015a = DB(WorkForward(
     2015, "A first systematic mapping study on combinatorial interaction testing for software product lines",
     display="lopez",
     authors="Lopez-Herrejon, Roberto E and Fischer, Stefan and Ramler, Rudolf and Egyed, Alexander",
@@ -81,7 +86,7 @@ lopez2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=14519788416493916704&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-lopez2015b = DB(WorkOk(
+lopez2015b = DB(WorkForward(
     2015, "A systematic mapping study of search-based software engineering for software product lines",
     display="lopez2015b",
     authors="Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander",
@@ -95,7 +100,7 @@ lopez2015b = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=13522552218322721099&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-mendez2015a = DB(WorkOk(
+mendez2015a = DB(WorkForward(
     2015, "Automated testing of mobile applications: a systematic map and review",
     display="mendez2015a",
     authors="Méndez-Porras, Abel and Quesada-López, Christian and Jenkins, Marcelo",
@@ -107,7 +112,7 @@ mendez2015a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=10594051043388520144&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-petersen2015a = DB(WorkOk(
+petersen2015a = DB(WorkForward(
     2015, "Guidelines for conducting systematic mapping studies in software engineering: An update",
     display="petersen2015a",
     authors="Petersen, Kai and Vakkalanka, Sairam and Kuzniarz, Ludwik",
@@ -122,7 +127,7 @@ petersen2015a = DB(WorkOk(
 ))
 
 
-rasool2015a = DB(WorkOk(
+rasool2015a = DB(WorkForward(
     2015, "A review of code smell mining techniques",
     display="rasool2015a",
     authors="Rasool, Ghulam and Arshad, Zeeshan",

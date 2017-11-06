@@ -5,10 +5,22 @@ document
   entity(s0, [type="Set", length="1"])
   wasGeneratedBy(g0; s0, start, -)
 
-  activity(backward1, -, -, [found="1", related="0"])
+  activity(backward1, -, -, [found="21", related="1"])
   used(u0; backward1, s0, -)
+  entity(s1, [type="Set", length="2"])
+  wasGeneratedBy(g1; s1, backward1, -)
+  wasDerivedFrom(s1, s0, backward1, g1, u0, [prov:type="prov:Revision"])
 
-  activity(forward1, -, -, [found="1", related="0"])
-  used(u1; forward1, s0, -)
+  activity(backward2, -, -, [found="0", related="0"])
+  used(u1; backward2, s1, -)
+
+  activity(forward1, -, -, [found="42", related="10"])
+  used(u2; forward1, s1, -)
+  entity(s2, [type="Set", length="12"])
+  wasGeneratedBy(g2; s2, forward1, -)
+  wasDerivedFrom(s2, s1, forward1, g2, u2, [prov:type="prov:Revision"])
+
+  activity(forward2, -, -, [found="0", related="0"])
+  used(u3; forward2, s2, -)
 
 endDocument

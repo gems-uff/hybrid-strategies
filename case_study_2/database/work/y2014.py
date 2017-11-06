@@ -10,6 +10,9 @@ wohlin2014a = DB(WorkSnowball(
     place=EASE,
     other1="321-330",
     scholar	= "http://scholar.google.com/scholar?cites=8727281463705144333&as_sdt=2005&sciodt=0,5&hl=en",
+    dglibrary = "Scopus",
+    references = 21, 
+    citations = 200,
     snowball=datetime(2017, 9, 18),
 ))
 
