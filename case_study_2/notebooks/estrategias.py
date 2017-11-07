@@ -49,6 +49,7 @@ def aplica_par_backward_forward(initial_set, filter_function=None):
             
     return frontier, log, visited
 
-padrao = partial(create_provenance, backward_first=True)
+alternado_a = partial(create_provenance, backward_first=True)
+alternado_b = partial(create_provenance, backward_first=False)
 
 

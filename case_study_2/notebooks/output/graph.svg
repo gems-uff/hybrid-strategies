@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="422" version="1.1" width="1638" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id2" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8983945785073745034&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="0" y="38"><title>Combining empirical results in software engineering
+<svg baseProfile="full" height="422" version="1.1" width="1714" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id1" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8983945785073745034&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="0" y="38"><title>Combining empirical results in software engineering
 Pickard, Lesley M and Kitchenham, Barbara A and Jones, Peter W
 
 @article{pickard1998a,
@@ -55,7 +55,25 @@ Basili, Victor R and Shull, Forrest and Lanubile, Filippo
   year = {1999}
 }
 
-</title><tspan x="97" y="53">basil</tspan><tspan x="97" y="65">i</tspan></text></a><rect fill="#68BDF6" height="42" stroke="black" width="42" x="76" y="114"><title>Research synthesis in software engineering: A case for meta-analysis
+</title><tspan x="97" y="53">basil</tspan><tspan x="97" y="65">i</tspan></text></a><rect fill="#FFD86E" height="42" stroke="black" width="42" x="76" y="114"><title>An assessment and comparison of common software cost estimation modeling techniques
+Briand, L.C., Emam, K. El, Surmann, D., Wieczorek, I. and Maxwell, K.
+
+@misc{briand1999a,
+  author = {Briand, L.C., Emam, K. El, Surmann, D., Wieczorek, I. and Maxwell, K.},
+  title = {{A}n assessment and comparison of common software cost estimation modeling techniques},
+  year = {1999}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="135"><title>An assessment and comparison of common software cost estimation modeling techniques
+Briand, L.C., Emam, K. El, Surmann, D., Wieczorek, I. and Maxwell, K.
+
+@misc{briand1999a,
+  author = {Briand, L.C., Emam, K. El, Surmann, D., Wieczorek, I. and Maxwell, K.},
+  title = {{A}n assessment and comparison of common software cost estimation modeling techniques},
+  year = {1999}
+}
+
+</title><tspan x="97" y="123">brian</tspan><tspan x="97" y="135">d1999</tspan><tspan x="97" y="147">a</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="76" y="190"><title>Research synthesis in software engineering: A case for meta-analysis
 Hayes, W.
 
 @misc{hayes1999a,
@@ -64,7 +82,7 @@ Hayes, W.
   year = {1999}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="135"><title>Research synthesis in software engineering: A case for meta-analysis
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="211"><title>Research synthesis in software engineering: A case for meta-analysis
 Hayes, W.
 
 @misc{hayes1999a,
@@ -73,7 +91,25 @@ Hayes, W.
   year = {1999}
 }
 
-</title><tspan x="97" y="135">hayes</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="76" y="190"><title>Can results from software engineering experiments be safely combined?
+</title><tspan x="97" y="211">hayes</tspan></text><rect fill="#FFD86E" height="42" stroke="black" width="42" x="76" y="266"><title>Performance evaluation of general and company specific models in software development effort estimation
+Maxwell, K., Wassenhove, L.V., and Dutta, S.
+
+@misc{maxwell1999a,
+  author = {Maxwell, K., Wassenhove, L.V., and Dutta, S.},
+  title = {{P}erformance evaluation of general and company specific models in software development effort estimation},
+  year = {1999}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="287"><title>Performance evaluation of general and company specific models in software development effort estimation
+Maxwell, K., Wassenhove, L.V., and Dutta, S.
+
+@misc{maxwell1999a,
+  author = {Maxwell, K., Wassenhove, L.V., and Dutta, S.},
+  title = {{P}erformance evaluation of general and company specific models in software development effort estimation},
+  year = {1999}
+}
+
+</title><tspan x="97" y="281">maxwe</tspan><tspan x="97" y="293">ll</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="76" y="342"><title>Can results from software engineering experiments be safely combined?
 Miller, J.
 
 @misc{miller1999a,
@@ -82,7 +118,7 @@ Miller, J.
   year = {1999}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="211"><title>Can results from software engineering experiments be safely combined?
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="363"><title>Can results from software engineering experiments be safely combined?
 Miller, J.
 
 @misc{miller1999a,
@@ -91,7 +127,25 @@ Miller, J.
   year = {1999}
 }
 
-</title><tspan x="97" y="205">mille</tspan><tspan x="97" y="217">r</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="152" y="38"><title>Analyzing the past to prepare for the future: Writing a literature review
+</title><tspan x="97" y="357">mille</tspan><tspan x="97" y="369">r</tspan></text><rect fill="#FFD86E" height="42" stroke="black" width="42" x="152" y="38"><title>A replicated assessment and comparison of common software cost modeling techniques
+Briand, L.C., Langley, T. and Wieczorek, I.
+
+@misc{briand2000a,
+  author = {Briand, L.C., Langley, T. and Wieczorek, I.},
+  title = {{A} replicated assessment and comparison of common software cost modeling techniques},
+  year = {2000}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="173" y="59"><title>A replicated assessment and comparison of common software cost modeling techniques
+Briand, L.C., Langley, T. and Wieczorek, I.
+
+@misc{briand2000a,
+  author = {Briand, L.C., Langley, T. and Wieczorek, I.},
+  title = {{A} replicated assessment and comparison of common software cost modeling techniques},
+  year = {2000}
+}
+
+</title><tspan x="173" y="47">brian</tspan><tspan x="173" y="59">d2000</tspan><tspan x="173" y="71">a</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="228" y="38"><title>Analyzing the past to prepare for the future: Writing a literature review
 Webster, J. and Watson, R. T.
 
 @misc{webster2002a,
@@ -100,7 +154,7 @@ Webster, J. and Watson, R. T.
   year = {2002}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="173" y="59"><title>Analyzing the past to prepare for the future: Writing a literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="249" y="59"><title>Analyzing the past to prepare for the future: Writing a literature review
 Webster, J. and Watson, R. T.
 
 @misc{webster2002a,
@@ -109,7 +163,7 @@ Webster, J. and Watson, R. T.
   year = {2002}
 }
 
-</title><tspan x="173" y="53">webst</tspan><tspan x="173" y="65">er</tspan></text><rect fill="blue" height="42" stroke="black" width="42" x="228" y="38"><title>Evidence-based software engineering
+</title><tspan x="249" y="53">webst</tspan><tspan x="249" y="65">er</tspan></text><rect fill="blue" height="42" stroke="black" width="42" x="304" y="38"><title>Evidence-based software engineering
 Kitchenham, B. A., Dyba, T. and Jorgensen, M.
 
 @misc{kitchenham2004a,
@@ -118,7 +172,7 @@ Kitchenham, B. A., Dyba, T. and Jorgensen, M.
   year = {2004}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="249" y="59"><title>Evidence-based software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="59"><title>Evidence-based software engineering
 Kitchenham, B. A., Dyba, T. and Jorgensen, M.
 
 @misc{kitchenham2004a,
@@ -127,7 +181,7 @@ Kitchenham, B. A., Dyba, T. and Jorgensen, M.
   year = {2004}
 }
 
-</title><tspan x="249" y="53">kitch</tspan><tspan x="249" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="304" y="38"><title>Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources
+</title><tspan x="325" y="53">kitch</tspan><tspan x="325" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="380" y="38"><title>Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources
 Greenhalgh T. and Peacock, R.
 
 @misc{greenhalgh2005a,
@@ -136,7 +190,7 @@ Greenhalgh T. and Peacock, R.
   year = {2005}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="59"><title>Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="401" y="59"><title>Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources
 Greenhalgh T. and Peacock, R.
 
 @misc{greenhalgh2005a,
@@ -145,7 +199,7 @@ Greenhalgh T. and Peacock, R.
   year = {2005}
 }
 
-</title><tspan x="325" y="47">green</tspan><tspan x="325" y="59">halgh</tspan><tspan x="325" y="71">2005a</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="380" y="38"><title>Guidelines for performing systematic literature reviews in software engineering
+</title><tspan x="401" y="47">green</tspan><tspan x="401" y="59">halgh</tspan><tspan x="401" y="71">2005a</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="456" y="38"><title>Guidelines for performing systematic literature reviews in software engineering
 Kitchenham B. A. and Charters S.
 
 @misc{kitchenham2007a,
@@ -154,7 +208,7 @@ Kitchenham B. A. and Charters S.
   year = {2007}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="401" y="59"><title>Guidelines for performing systematic literature reviews in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="59"><title>Guidelines for performing systematic literature reviews in software engineering
 Kitchenham B. A. and Charters S.
 
 @misc{kitchenham2007a,
@@ -163,7 +217,7 @@ Kitchenham B. A. and Charters S.
   year = {2007}
 }
 
-</title><tspan x="401" y="53">kitch</tspan><tspan x="401" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="456" y="38"><title>Systematic mapping studies in software engineering
+</title><tspan x="477" y="53">kitch</tspan><tspan x="477" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="532" y="38"><title>Systematic mapping studies in software engineering
 Petersen K., Feldt R., Mujtaba S. and Mattsson M.
 
 @misc{petersen2008a,
@@ -172,7 +226,7 @@ Petersen K., Feldt R., Mujtaba S. and Mattsson M.
   year = {2008}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="59"><title>Systematic mapping studies in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="59"><title>Systematic mapping studies in software engineering
 Petersen K., Feldt R., Mujtaba S. and Mattsson M.
 
 @misc{petersen2008a,
@@ -181,7 +235,7 @@ Petersen K., Feldt R., Mujtaba S. and Mattsson M.
   year = {2008}
 }
 
-</title><tspan x="477" y="53">peter</tspan><tspan x="477" y="65">sen</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="532" y="38"><title>Systematic literature reviews in software engineering: A systematic literature review
+</title><tspan x="553" y="53">peter</tspan><tspan x="553" y="65">sen</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="608" y="38"><title>Systematic literature reviews in software engineering: A systematic literature review
 Kitchenham, B. A., Brereton, O. P., Budgen, D., Turner, M., Bailey, J. and Linkman, S.
 
 @misc{kitchenham2009a,
@@ -190,7 +244,7 @@ Kitchenham, B. A., Brereton, O. P., Budgen, D., Turner, M., Bailey, J. and Linkm
   year = {2009}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="59"><title>Systematic literature reviews in software engineering: A systematic literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="59"><title>Systematic literature reviews in software engineering: A systematic literature review
 Kitchenham, B. A., Brereton, O. P., Budgen, D., Turner, M., Bailey, J. and Linkman, S.
 
 @misc{kitchenham2009a,
@@ -199,7 +253,7 @@ Kitchenham, B. A., Brereton, O. P., Budgen, D., Turner, M., Bailey, J. and Linkm
   year = {2009}
 }
 
-</title><tspan x="553" y="53">kitch</tspan><tspan x="553" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="532" y="114"><title>Reference-based search strategies in systematic reviews
+</title><tspan x="629" y="53">kitch</tspan><tspan x="629" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="608" y="114"><title>Reference-based search strategies in systematic reviews
 Skoglund, M. and Runeson, P.
 
 @misc{skoglund2009a,
@@ -208,7 +262,7 @@ Skoglund, M. and Runeson, P.
   year = {2009}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="135"><title>Reference-based search strategies in systematic reviews
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="135"><title>Reference-based search strategies in systematic reviews
 Skoglund, M. and Runeson, P.
 
 @misc{skoglund2009a,
@@ -217,7 +271,7 @@ Skoglund, M. and Runeson, P.
   year = {2009}
 }
 
-</title><tspan x="553" y="129">skogl</tspan><tspan x="553" y="141">und</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="608" y="38"><title>Systematic literature reviews in software engineering: A tertiary study
+</title><tspan x="629" y="129">skogl</tspan><tspan x="629" y="141">und</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="684" y="38"><title>Systematic literature reviews in software engineering: A tertiary study
 Kitchenham, B. A., Pretorius, R., Budgen, D., Brereton, O. P., Turner, M., Niazi, M. and Linkman, S.
 
 @misc{kitchenham2010a,
@@ -226,7 +280,7 @@ Kitchenham, B. A., Pretorius, R., Budgen, D., Brereton, O. P., Turner, M., Niazi
   year = {2010}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="59"><title>Systematic literature reviews in software engineering: A tertiary study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="59"><title>Systematic literature reviews in software engineering: A tertiary study
 Kitchenham, B. A., Pretorius, R., Budgen, D., Brereton, O. P., Turner, M., Niazi, M. and Linkman, S.
 
 @misc{kitchenham2010a,
@@ -235,7 +289,7 @@ Kitchenham, B. A., Pretorius, R., Budgen, D., Brereton, O. P., Turner, M., Niazi
   year = {2010}
 }
 
-</title><tspan x="629" y="53">kitch</tspan><tspan x="629" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="608" y="114"><title>How reliable are systematic reviews in empirical software engineering?
+</title><tspan x="705" y="53">kitch</tspan><tspan x="705" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="684" y="114"><title>How reliable are systematic reviews in empirical software engineering?
 MacDonell, S., Shepperd, M., Kitchenham, B. A. and Mendes, E.
 
 @misc{macdonell2010a,
@@ -244,7 +298,7 @@ MacDonell, S., Shepperd, M., Kitchenham, B. A. and Mendes, E.
   year = {2010}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="135"><title>How reliable are systematic reviews in empirical software engineering?
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="135"><title>How reliable are systematic reviews in empirical software engineering?
 MacDonell, S., Shepperd, M., Kitchenham, B. A. and Mendes, E.
 
 @misc{macdonell2010a,
@@ -253,7 +307,7 @@ MacDonell, S., Shepperd, M., Kitchenham, B. A. and Mendes, E.
   year = {2010}
 }
 
-</title><tspan x="629" y="129">macdo</tspan><tspan x="629" y="141">nell</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="684" y="38"><title>Using mapping studies as the basis for further research - a participant-observer case study
+</title><tspan x="705" y="129">macdo</tspan><tspan x="705" y="141">nell</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="38"><title>Using mapping studies as the basis for further research - a participant-observer case study
 Kitchenham B. A., Budgen, D. and Brereton, O. P.
 
 @misc{kitchenham2011a,
@@ -262,7 +316,7 @@ Kitchenham B. A., Budgen, D. and Brereton, O. P.
   year = {2011}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="59"><title>Using mapping studies as the basis for further research - a participant-observer case study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="59"><title>Using mapping studies as the basis for further research - a participant-observer case study
 Kitchenham B. A., Budgen, D. and Brereton, O. P.
 
 @misc{kitchenham2011a,
@@ -271,7 +325,7 @@ Kitchenham B. A., Budgen, D. and Brereton, O. P.
   year = {2011}
 }
 
-</title><tspan x="705" y="53">kitch</tspan><tspan x="705" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="684" y="114"><title>Repeatability of systematic literature reviews
+</title><tspan x="781" y="53">kitch</tspan><tspan x="781" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="114"><title>Repeatability of systematic literature reviews
 Kitchenham, B. A., Brereton, O. P., Li, Z., Budgen, D. and Burn, A.
 
 @misc{kitchenham2011b,
@@ -280,7 +334,7 @@ Kitchenham, B. A., Brereton, O. P., Li, Z., Budgen, D. and Burn, A.
   year = {2011}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="135"><title>Repeatability of systematic literature reviews
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="135"><title>Repeatability of systematic literature reviews
 Kitchenham, B. A., Brereton, O. P., Li, Z., Budgen, D. and Burn, A.
 
 @misc{kitchenham2011b,
@@ -289,7 +343,7 @@ Kitchenham, B. A., Brereton, O. P., Li, Z., Budgen, D. and Burn, A.
   year = {2011}
 }
 
-</title><tspan x="705" y="123">kitch</tspan><tspan x="705" y="135">enham</tspan><tspan x="705" y="147">2011b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="684" y="190"><title>Identifying relevant studies in software engineering
+</title><tspan x="781" y="123">kitch</tspan><tspan x="781" y="135">enham</tspan><tspan x="781" y="147">2011b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="190"><title>Identifying relevant studies in software engineering
 Zhang, H., Babar, M. A. and Tell, P.
 
 @misc{zhang2011a,
@@ -298,7 +352,7 @@ Zhang, H., Babar, M. A. and Tell, P.
   year = {2011}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="211"><title>Identifying relevant studies in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="211"><title>Identifying relevant studies in software engineering
 Zhang, H., Babar, M. A. and Tell, P.
 
 @misc{zhang2011a,
@@ -307,7 +361,7 @@ Zhang, H., Babar, M. A. and Tell, P.
   year = {2011}
 }
 
-</title><tspan x="705" y="211">zhang</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="38"><title>Systematic literature studies: Database searches vs. backward snowballing
+</title><tspan x="781" y="211">zhang</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="836" y="38"><title>Systematic literature studies: Database searches vs. backward snowballing
 Jalali, S. and Wohlin, C.
 
 @misc{jalali2012a,
@@ -316,7 +370,7 @@ Jalali, S. and Wohlin, C.
   year = {2012}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="59"><title>Systematic literature studies: Database searches vs. backward snowballing
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="857" y="59"><title>Systematic literature studies: Database searches vs. backward snowballing
 Jalali, S. and Wohlin, C.
 
 @misc{jalali2012a,
@@ -325,7 +379,7 @@ Jalali, S. and Wohlin, C.
   year = {2012}
 }
 
-</title><tspan x="781" y="53">jalal</tspan><tspan x="781" y="65">i</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="114"><title>Global software engineering and agile practices: A systematic review
+</title><tspan x="857" y="53">jalal</tspan><tspan x="857" y="65">i</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="836" y="114"><title>Global software engineering and agile practices: A systematic review
 Jalali, S. and Wohlin, C.
 
 @misc{jalali2012b,
@@ -334,7 +388,7 @@ Jalali, S. and Wohlin, C.
   year = {2012}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="135"><title>Global software engineering and agile practices: A systematic review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="857" y="135"><title>Global software engineering and agile practices: A systematic review
 Jalali, S. and Wohlin, C.
 
 @misc{jalali2012b,
@@ -343,7 +397,7 @@ Jalali, S. and Wohlin, C.
   year = {2012}
 }
 
-</title><tspan x="781" y="123">jalal</tspan><tspan x="781" y="135">i2012</tspan><tspan x="781" y="147">b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="760" y="190"><title>An empirically based terminology and taxonomy for global software engineering
+</title><tspan x="857" y="123">jalal</tspan><tspan x="857" y="135">i2012</tspan><tspan x="857" y="147">b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="836" y="190"><title>An empirically based terminology and taxonomy for global software engineering
 Smite, D., Wohlin, C., Galvina, Z. and Prikladnicki, R.
 
 @misc{smite2012a,
@@ -352,7 +406,7 @@ Smite, D., Wohlin, C., Galvina, Z. and Prikladnicki, R.
   year = {2012}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="211"><title>An empirically based terminology and taxonomy for global software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="857" y="211"><title>An empirically based terminology and taxonomy for global software engineering
 Smite, D., Wohlin, C., Galvina, Z. and Prikladnicki, R.
 
 @misc{smite2012a,
@@ -361,7 +415,7 @@ Smite, D., Wohlin, C., Galvina, Z. and Prikladnicki, R.
   year = {2012}
 }
 
-</title><tspan x="781" y="211">smite</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="836" y="38"><title>Systematic literature reviews in software engineering
+</title><tspan x="857" y="211">smite</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="912" y="38"><title>Systematic literature reviews in software engineering
 Wohlin C. and Prikladnicki R.
 
 @misc{wohlin2013a,
@@ -370,7 +424,7 @@ Wohlin C. and Prikladnicki R.
   year = {2013}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="857" y="59"><title>Systematic literature reviews in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="933" y="59"><title>Systematic literature reviews in software engineering
 Wohlin C. and Prikladnicki R.
 
 @misc{wohlin2013a,
@@ -379,7 +433,7 @@ Wohlin C. and Prikladnicki R.
   year = {2013}
 }
 
-</title><tspan x="857" y="53">wohli</tspan><tspan x="857" y="65">n</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="836" y="114"><title>On the reliability of mapping studies in software engineering
+</title><tspan x="933" y="53">wohli</tspan><tspan x="933" y="65">n</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="912" y="114"><title>On the reliability of mapping studies in software engineering
 Wohlin, C., Runeson, P., da Mota Silveira Neto, P. A., Engstrom, E., do Carmo Machado, I. and de Almeida, E. S.
 
 @misc{wohlin2013b,
@@ -388,7 +442,7 @@ Wohlin, C., Runeson, P., da Mota Silveira Neto, P. A., Engstrom, E., do Carmo Ma
   year = {2013}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="857" y="135"><title>On the reliability of mapping studies in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="933" y="135"><title>On the reliability of mapping studies in software engineering
 Wohlin, C., Runeson, P., da Mota Silveira Neto, P. A., Engstrom, E., do Carmo Machado, I. and de Almeida, E. S.
 
 @misc{wohlin2013b,
@@ -397,7 +451,7 @@ Wohlin, C., Runeson, P., da Mota Silveira Neto, P. A., Engstrom, E., do Carmo Ma
   year = {2013}
 }
 
-</title><tspan x="857" y="123">wohli</tspan><tspan x="857" y="135">n2013</tspan><tspan x="857" y="147">b</tspan></text><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8727281463705144333&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="912" y="38"><title>Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering
+</title><tspan x="933" y="123">wohli</tspan><tspan x="933" y="135">n2013</tspan><tspan x="933" y="147">b</tspan></text><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8727281463705144333&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="988" y="38"><title>Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering
 C. Wohlin
 
 @misc{wohlin2014a,
@@ -409,7 +463,7 @@ C. Wohlin
   year = {2014}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="933" y="59"><title>Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="59"><title>Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering
 C. Wohlin
 
 @misc{wohlin2014a,
@@ -421,7 +475,7 @@ C. Wohlin
   year = {2014}
 }
 
-</title><tspan x="933" y="53">wohli</tspan><tspan x="933" y="65">n</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8450698508367773593&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="912" y="114"><title>Writing for synthesis of evidence in empirical software engineering
+</title><tspan x="1009" y="53">wohli</tspan><tspan x="1009" y="65">n</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=8450698508367773593&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="988" y="114"><title>Writing for synthesis of evidence in empirical software engineering
 Wohlin, Claes
 
 @inproceedings{wohlin2014b,
@@ -433,7 +487,7 @@ Wohlin, Claes
   year = {2014}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="933" y="135"><title>Writing for synthesis of evidence in empirical software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="135"><title>Writing for synthesis of evidence in empirical software engineering
 Wohlin, Claes
 
 @inproceedings{wohlin2014b,
@@ -445,7 +499,7 @@ Wohlin, Claes
   year = {2014}
 }
 
-</title><tspan x="933" y="129">wohli</tspan><tspan x="933" y="141">n b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11826893758434149180&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="988" y="38"><title>Multiphysics and multiscale software frameworks: an annotated bibliography
+</title><tspan x="1009" y="129">wohli</tspan><tspan x="1009" y="141">n b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11826893758434149180&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="38"><title>Multiphysics and multiscale software frameworks: an annotated bibliography
 Babur, &#214; and Verhoeff, T and van den Brand, M
 
 @techreport{babur2015a,
@@ -455,7 +509,7 @@ Babur, &#214; and Verhoeff, T and van den Brand, M
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="59"><title>Multiphysics and multiscale software frameworks: an annotated bibliography
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="59"><title>Multiphysics and multiscale software frameworks: an annotated bibliography
 Babur, &#214; and Verhoeff, T and van den Brand, M
 
 @techreport{babur2015a,
@@ -465,7 +519,7 @@ Babur, &#214; and Verhoeff, T and van den Brand, M
   year = {2015}
 }
 
-</title><tspan x="1009" y="53">babur</tspan><tspan x="1009" y="65">2015a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12066422021541053808&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="988" y="114"><title>Experiences from using snowballing and database searches in systematic literature studies
+</title><tspan x="1085" y="53">babur</tspan><tspan x="1085" y="65">2015a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12066422021541053808&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="114"><title>Experiences from using snowballing and database searches in systematic literature studies
 Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
 
 @inproceedings{badampudi2015a,
@@ -477,7 +531,7 @@ Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="135"><title>Experiences from using snowballing and database searches in systematic literature studies
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="135"><title>Experiences from using snowballing and database searches in systematic literature studies
 Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
 
 @inproceedings{badampudi2015a,
@@ -489,7 +543,7 @@ Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
   year = {2015}
 }
 
-</title><tspan x="1009" y="129">badam</tspan><tspan x="1009" y="141">pudi</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11566151361657329177&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="988" y="190"><title>Modelling language quality evaluation in model-driven information systems engineering: A roadmap
+</title><tspan x="1085" y="129">badam</tspan><tspan x="1085" y="141">pudi</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11566151361657329177&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="190"><title>Modelling language quality evaluation in model-driven information systems engineering: A roadmap
 Giraldo, F&#225;ber D and Espa&#241;a, Sergio and Giraldo, William J and Pastor, Oscar
 
 @inproceedings{giraldo2015a,
@@ -501,7 +555,7 @@ Giraldo, F&#225;ber D and Espa&#241;a, Sergio and Giraldo, William J and Pastor,
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="211"><title>Modelling language quality evaluation in model-driven information systems engineering: A roadmap
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="211"><title>Modelling language quality evaluation in model-driven information systems engineering: A roadmap
 Giraldo, F&#225;ber D and Espa&#241;a, Sergio and Giraldo, William J and Pastor, Oscar
 
 @inproceedings{giraldo2015a,
@@ -513,7 +567,7 @@ Giraldo, F&#225;ber D and Espa&#241;a, Sergio and Giraldo, William J and Pastor,
   year = {2015}
 }
 
-</title><tspan x="1009" y="199">giral</tspan><tspan x="1009" y="211">do201</tspan><tspan x="1009" y="223">5a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17734406287758408843&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="988" y="266"><title>Software engineering knowledge areas in startup companies: a mapping study
+</title><tspan x="1085" y="199">giral</tspan><tspan x="1085" y="211">do201</tspan><tspan x="1085" y="223">5a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17734406287758408843&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="266"><title>Software engineering knowledge areas in startup companies: a mapping study
 Klotins, Eriks and Unterkalmsteiner, Michael and Gorschek, Tony
 
 @inproceedings{klotins2015a,
@@ -525,7 +579,7 @@ Klotins, Eriks and Unterkalmsteiner, Michael and Gorschek, Tony
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="287"><title>Software engineering knowledge areas in startup companies: a mapping study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="287"><title>Software engineering knowledge areas in startup companies: a mapping study
 Klotins, Eriks and Unterkalmsteiner, Michael and Gorschek, Tony
 
 @inproceedings{klotins2015a,
@@ -537,7 +591,7 @@ Klotins, Eriks and Unterkalmsteiner, Michael and Gorschek, Tony
   year = {2015}
 }
 
-</title><tspan x="1009" y="275">kloti</tspan><tspan x="1009" y="287">ns201</tspan><tspan x="1009" y="299">5a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12427643046150454848&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="988" y="342"><title>A systematic mapping study on technical debt and its management
+</title><tspan x="1085" y="275">kloti</tspan><tspan x="1085" y="287">ns201</tspan><tspan x="1085" y="299">5a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12427643046150454848&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="342"><title>A systematic mapping study on technical debt and its management
 Li, Zengyang and Avgeriou, Paris and Liang, Peng
 
 @article{li2015a,
@@ -553,7 +607,7 @@ Li, Zengyang and Avgeriou, Paris and Liang, Peng
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1009" y="363"><title>A systematic mapping study on technical debt and its management
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="363"><title>A systematic mapping study on technical debt and its management
 Li, Zengyang and Avgeriou, Paris and Liang, Peng
 
 @article{li2015a,
@@ -569,7 +623,7 @@ Li, Zengyang and Avgeriou, Paris and Liang, Peng
   year = {2015}
 }
 
-</title><tspan x="1009" y="363">li</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14519788416493916704&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="38"><title>A first systematic mapping study on combinatorial interaction testing for software product lines
+</title><tspan x="1085" y="363">li</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14519788416493916704&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1140" y="38"><title>A first systematic mapping study on combinatorial interaction testing for software product lines
 Lopez-Herrejon, Roberto E and Fischer, Stefan and Ramler, Rudolf and Egyed, Alexander
 
 @inproceedings{lopez2015a,
@@ -581,7 +635,7 @@ Lopez-Herrejon, Roberto E and Fischer, Stefan and Ramler, Rudolf and Egyed, Alex
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="59"><title>A first systematic mapping study on combinatorial interaction testing for software product lines
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="59"><title>A first systematic mapping study on combinatorial interaction testing for software product lines
 Lopez-Herrejon, Roberto E and Fischer, Stefan and Ramler, Rudolf and Egyed, Alexander
 
 @inproceedings{lopez2015a,
@@ -593,7 +647,7 @@ Lopez-Herrejon, Roberto E and Fischer, Stefan and Ramler, Rudolf and Egyed, Alex
   year = {2015}
 }
 
-</title><tspan x="1085" y="59">lopez</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13522552218322721099&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="114"><title>A systematic mapping study of search-based software engineering for software product lines
+</title><tspan x="1161" y="59">lopez</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13522552218322721099&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1140" y="114"><title>A systematic mapping study of search-based software engineering for software product lines
 Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander
 
 @article{lopez2015b,
@@ -606,7 +660,7 @@ Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="135"><title>A systematic mapping study of search-based software engineering for software product lines
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="135"><title>A systematic mapping study of search-based software engineering for software product lines
 Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander
 
 @article{lopez2015b,
@@ -619,7 +673,7 @@ Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander
   year = {2015}
 }
 
-</title><tspan x="1085" y="129">lopez</tspan><tspan x="1085" y="141">2015b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=10594051043388520144&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="190"><title>Automated testing of mobile applications: a systematic map and review
+</title><tspan x="1161" y="129">lopez</tspan><tspan x="1161" y="141">2015b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=10594051043388520144&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1140" y="190"><title>Automated testing of mobile applications: a systematic map and review
 M&#233;ndez-Porras, Abel and Quesada-L&#243;pez, Christian and Jenkins, Marcelo
 
 @inproceedings{mendez2015a,
@@ -630,7 +684,7 @@ M&#233;ndez-Porras, Abel and Quesada-L&#243;pez, Christian and Jenkins, Marcelo
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="211"><title>Automated testing of mobile applications: a systematic map and review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="211"><title>Automated testing of mobile applications: a systematic map and review
 M&#233;ndez-Porras, Abel and Quesada-L&#243;pez, Christian and Jenkins, Marcelo
 
 @inproceedings{mendez2015a,
@@ -641,7 +695,7 @@ M&#233;ndez-Porras, Abel and Quesada-L&#243;pez, Christian and Jenkins, Marcelo
   year = {2015}
 }
 
-</title><tspan x="1085" y="199">mende</tspan><tspan x="1085" y="211">z2015</tspan><tspan x="1085" y="223">a</tspan></text></a><a target="_blank" xlink:href="https://scholar.google.com/scholar?cites=5808083306683133008&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="266"><title>Guidelines for conducting systematic mapping studies in software engineering: An update
+</title><tspan x="1161" y="199">mende</tspan><tspan x="1161" y="211">z2015</tspan><tspan x="1161" y="223">a</tspan></text></a><a target="_blank" xlink:href="https://scholar.google.com/scholar?cites=5808083306683133008&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1140" y="266"><title>Guidelines for conducting systematic mapping studies in software engineering: An update
 Petersen, Kai and Vakkalanka, Sairam and Kuzniarz, Ludwik
 
 @inproceedings{petersen2015a,
@@ -654,7 +708,7 @@ Petersen, Kai and Vakkalanka, Sairam and Kuzniarz, Ludwik
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="287"><title>Guidelines for conducting systematic mapping studies in software engineering: An update
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="287"><title>Guidelines for conducting systematic mapping studies in software engineering: An update
 Petersen, Kai and Vakkalanka, Sairam and Kuzniarz, Ludwik
 
 @inproceedings{petersen2015a,
@@ -667,7 +721,7 @@ Petersen, Kai and Vakkalanka, Sairam and Kuzniarz, Ludwik
   year = {2015}
 }
 
-</title><tspan x="1085" y="275">peter</tspan><tspan x="1085" y="287">sen20</tspan><tspan x="1085" y="299">15a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13513340225045196051&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1064" y="342"><title>A review of code smell mining techniques
+</title><tspan x="1161" y="275">peter</tspan><tspan x="1161" y="287">sen20</tspan><tspan x="1161" y="299">15a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13513340225045196051&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="red" height="42" stroke="black" width="42" x="1140" y="342"><title>A review of code smell mining techniques
 Rasool, Ghulam and Arshad, Zeeshan
 
 @article{rasool2015a,
@@ -681,7 +735,7 @@ Rasool, Ghulam and Arshad, Zeeshan
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1085" y="363"><title>A review of code smell mining techniques
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="363"><title>A review of code smell mining techniques
 Rasool, Ghulam and Arshad, Zeeshan
 
 @article{rasool2015a,
@@ -695,7 +749,7 @@ Rasool, Ghulam and Arshad, Zeeshan
   year = {2015}
 }
 
-</title><tspan x="1085" y="351">rasoo</tspan><tspan x="1085" y="363">l2015</tspan><tspan x="1085" y="375">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=1964900815505362886&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1140" y="38"><title>A Survey on Software Release Planning Models
+</title><tspan x="1161" y="351">rasoo</tspan><tspan x="1161" y="363">l2015</tspan><tspan x="1161" y="375">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=1964900815505362886&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="38"><title>A Survey on Software Release Planning Models
 Ameller, David and Farr&#233;, Carles and Franch, Xavier and Rufian, Guillem
 
 @inproceedings{ameller2016a,
@@ -707,7 +761,7 @@ Ameller, David and Farr&#233;, Carles and Franch, Xavier and Rufian, Guillem
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="59"><title>A Survey on Software Release Planning Models
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="59"><title>A Survey on Software Release Planning Models
 Ameller, David and Farr&#233;, Carles and Franch, Xavier and Rufian, Guillem
 
 @inproceedings{ameller2016a,
@@ -719,7 +773,7 @@ Ameller, David and Farr&#233;, Carles and Franch, Xavier and Rufian, Guillem
   year = {2016}
 }
 
-</title><tspan x="1161" y="47">amell</tspan><tspan x="1161" y="59">er201</tspan><tspan x="1161" y="71">6a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=6006688461636263779&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1140" y="114"><title>Software component decision-making: In-house, OSS, COTS or outsourcing-A systematic literature review
+</title><tspan x="1237" y="47">amell</tspan><tspan x="1237" y="59">er201</tspan><tspan x="1237" y="71">6a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=6006688461636263779&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="114"><title>Software component decision-making: In-house, OSS, COTS or outsourcing-A systematic literature review
 Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
 
 @article{badampudi2016a,
@@ -732,7 +786,7 @@ Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="135"><title>Software component decision-making: In-house, OSS, COTS or outsourcing-A systematic literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="135"><title>Software component decision-making: In-house, OSS, COTS or outsourcing-A systematic literature review
 Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
 
 @article{badampudi2016a,
@@ -745,7 +799,7 @@ Badampudi, Deepika and Wohlin, Claes and Petersen, Kai
   year = {2016}
 }
 
-</title><tspan x="1161" y="123">badam</tspan><tspan x="1161" y="135">pudi2</tspan><tspan x="1161" y="147">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11205193555823763241&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1140" y="190"><title>A faceted classification scheme for change-based industrial code review processes
+</title><tspan x="1237" y="123">badam</tspan><tspan x="1237" y="135">pudi2</tspan><tspan x="1237" y="147">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11205193555823763241&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="190"><title>A faceted classification scheme for change-based industrial code review processes
 Baum, Tobias and Liskin, Olga and Niklas, Kai and Schneider, Kurt
 
 @inproceedings{baum2016a,
@@ -757,7 +811,7 @@ Baum, Tobias and Liskin, Olga and Niklas, Kai and Schneider, Kurt
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="211"><title>A faceted classification scheme for change-based industrial code review processes
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="211"><title>A faceted classification scheme for change-based industrial code review processes
 Baum, Tobias and Liskin, Olga and Niklas, Kai and Schneider, Kurt
 
 @inproceedings{baum2016a,
@@ -769,7 +823,7 @@ Baum, Tobias and Liskin, Olga and Niklas, Kai and Schneider, Kurt
   year = {2016}
 }
 
-</title><tspan x="1161" y="205">baum2</tspan><tspan x="1161" y="217">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17933428670451790868&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1140" y="266"><title>On the interplay of Internet of Things and Cloud Computing: A systematic mapping study
+</title><tspan x="1237" y="205">baum2</tspan><tspan x="1237" y="217">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17933428670451790868&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="266"><title>On the interplay of Internet of Things and Cloud Computing: A systematic mapping study
 Cavalcante, Everton and Pereira, Jorge and Alves, Marcelo Pitanga and Maia, Pedro and Moura, Roniceli and Batista, Thais and Delicato, Flavia C and Pires, Paulo F
 
 @article{cavalcante2016a,
@@ -782,7 +836,7 @@ Cavalcante, Everton and Pereira, Jorge and Alves, Marcelo Pitanga and Maia, Pedr
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="287"><title>On the interplay of Internet of Things and Cloud Computing: A systematic mapping study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="287"><title>On the interplay of Internet of Things and Cloud Computing: A systematic mapping study
 Cavalcante, Everton and Pereira, Jorge and Alves, Marcelo Pitanga and Maia, Pedro and Moura, Roniceli and Batista, Thais and Delicato, Flavia C and Pires, Paulo F
 
 @article{cavalcante2016a,
@@ -795,7 +849,7 @@ Cavalcante, Everton and Pereira, Jorge and Alves, Marcelo Pitanga and Maia, Pedr
   year = {2016}
 }
 
-</title><tspan x="1161" y="281">caval</tspan><tspan x="1161" y="293">cante</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14488112419414396917&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#FFD86E" height="42" stroke="black" width="42" x="1140" y="342"><title>Improvements in the start tool to better support the systematic review process
+</title><tspan x="1237" y="281">caval</tspan><tspan x="1237" y="293">cante</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14488112419414396917&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#FFD86E" height="42" stroke="black" width="42" x="1216" y="342"><title>Improvements in the start tool to better support the systematic review process
 Fabbri, Sandra and Silva, Cleiton and Hernandes, Elis and Octaviano, F&#225;bio and Di Thommazo, Andr&#233; and Belgamo, Anderson
 
 @inproceedings{fabbri2016a,
@@ -808,7 +862,7 @@ Fabbri, Sandra and Silva, Cleiton and Hernandes, Elis and Octaviano, F&#225;bio 
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1161" y="363"><title>Improvements in the start tool to better support the systematic review process
+</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="363"><title>Improvements in the start tool to better support the systematic review process
 Fabbri, Sandra and Silva, Cleiton and Hernandes, Elis and Octaviano, F&#225;bio and Di Thommazo, Andr&#233; and Belgamo, Anderson
 
 @inproceedings{fabbri2016a,
@@ -821,7 +875,7 @@ Fabbri, Sandra and Silva, Cleiton and Hernandes, Elis and Octaviano, F&#225;bio 
   year = {2016}
 }
 
-</title><tspan x="1161" y="357">fabbr</tspan><tspan x="1161" y="369">i</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=16406418299597311538&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="38"><title>Using forward snowballing to update systematic reviews in software engineering
+</title><tspan x="1237" y="357">fabbr</tspan><tspan x="1237" y="369">i</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=16406418299597311538&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="38"><title>Using forward snowballing to update systematic reviews in software engineering
 Felizardo, Katia Romero and Mendes, Emilia and Kalinowski, Marcos and Souza, &#201;rica Ferreira and Vijaykumar, Nandamudi L
 
 @inproceedings{felizardo2016a,
@@ -833,7 +887,7 @@ Felizardo, Katia Romero and Mendes, Emilia and Kalinowski, Marcos and Souza, &#2
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="59"><title>Using forward snowballing to update systematic reviews in software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="59"><title>Using forward snowballing to update systematic reviews in software engineering
 Felizardo, Katia Romero and Mendes, Emilia and Kalinowski, Marcos and Souza, &#201;rica Ferreira and Vijaykumar, Nandamudi L
 
 @inproceedings{felizardo2016a,
@@ -845,7 +899,7 @@ Felizardo, Katia Romero and Mendes, Emilia and Kalinowski, Marcos and Souza, &#2
   year = {2016}
 }
 
-</title><tspan x="1237" y="47">feliz</tspan><tspan x="1237" y="59">ardo2</tspan><tspan x="1237" y="71">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=925997825260038542&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="114"><title>A review-based comparative study of bad smell detection tools
+</title><tspan x="1313" y="47">feliz</tspan><tspan x="1313" y="59">ardo2</tspan><tspan x="1313" y="71">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=925997825260038542&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="114"><title>A review-based comparative study of bad smell detection tools
 Fernandes, Eduardo and Oliveira, Johnatan and Vale, Gustavo and Paiva, Thanis and Figueiredo, Eduardo
 
 @inproceedings{fernandes2016a,
@@ -857,7 +911,7 @@ Fernandes, Eduardo and Oliveira, Johnatan and Vale, Gustavo and Paiva, Thanis an
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="135"><title>A review-based comparative study of bad smell detection tools
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="135"><title>A review-based comparative study of bad smell detection tools
 Fernandes, Eduardo and Oliveira, Johnatan and Vale, Gustavo and Paiva, Thanis and Figueiredo, Eduardo
 
 @inproceedings{fernandes2016a,
@@ -869,7 +923,7 @@ Fernandes, Eduardo and Oliveira, Johnatan and Vale, Gustavo and Paiva, Thanis an
   year = {2016}
 }
 
-</title><tspan x="1237" y="123">ferna</tspan><tspan x="1237" y="135">ndes2</tspan><tspan x="1237" y="147">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=3697994195771902335&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="190"><title>Protocol for a Systematic Mapping Study on Collaborative Model-Driven Software Engineering
+</title><tspan x="1313" y="123">ferna</tspan><tspan x="1313" y="135">ndes2</tspan><tspan x="1313" y="147">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=3697994195771902335&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="190"><title>Protocol for a Systematic Mapping Study on Collaborative Model-Driven Software Engineering
 Franzago, Mirco and Di Ruscio, Davide and Malavolta, Ivano and Muccini, Henry
 
 @article{franzago2016a,
@@ -879,7 +933,7 @@ Franzago, Mirco and Di Ruscio, Davide and Malavolta, Ivano and Muccini, Henry
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="211"><title>Protocol for a Systematic Mapping Study on Collaborative Model-Driven Software Engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="211"><title>Protocol for a Systematic Mapping Study on Collaborative Model-Driven Software Engineering
 Franzago, Mirco and Di Ruscio, Davide and Malavolta, Ivano and Muccini, Henry
 
 @article{franzago2016a,
@@ -889,7 +943,7 @@ Franzago, Mirco and Di Ruscio, Davide and Malavolta, Ivano and Muccini, Henry
   year = {2016}
 }
 
-</title><tspan x="1237" y="199">franz</tspan><tspan x="1237" y="211">ago20</tspan><tspan x="1237" y="223">16a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13998242516662883451&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="266"><title>DSS from an RE perspective: a systematic mapping
+</title><tspan x="1313" y="199">franz</tspan><tspan x="1313" y="211">ago20</tspan><tspan x="1313" y="223">16a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13998242516662883451&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="266"><title>DSS from an RE perspective: a systematic mapping
 Garc&#237;a, Stephany and Romero, Oscar and Ravent&#243;s, Ruth
 
 @article{garcia2016a,
@@ -902,7 +956,7 @@ Garc&#237;a, Stephany and Romero, Oscar and Ravent&#243;s, Ruth
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="287"><title>DSS from an RE perspective: a systematic mapping
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="287"><title>DSS from an RE perspective: a systematic mapping
 Garc&#237;a, Stephany and Romero, Oscar and Ravent&#243;s, Ruth
 
 @article{garcia2016a,
@@ -915,7 +969,7 @@ Garc&#237;a, Stephany and Romero, Oscar and Ravent&#243;s, Ruth
   year = {2016}
 }
 
-</title><tspan x="1237" y="281">garci</tspan><tspan x="1237" y="293">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14115590981818861023&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1216" y="342"><title>When and what to automate in software testing? A multi-vocal literature review
+</title><tspan x="1313" y="281">garci</tspan><tspan x="1313" y="293">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14115590981818861023&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="342"><title>When and what to automate in software testing? A multi-vocal literature review
 Garousi, Vahid and M&#228;ntyl&#228;, Mika V
 
 @article{garousi2016a,
@@ -928,7 +982,7 @@ Garousi, Vahid and M&#228;ntyl&#228;, Mika V
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1237" y="363"><title>When and what to automate in software testing? A multi-vocal literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="363"><title>When and what to automate in software testing? A multi-vocal literature review
 Garousi, Vahid and M&#228;ntyl&#228;, Mika V
 
 @article{garousi2016a,
@@ -941,7 +995,7 @@ Garousi, Vahid and M&#228;ntyl&#228;, Mika V
   year = {2016}
 }
 
-</title><tspan x="1237" y="357">garou</tspan><tspan x="1237" y="369">si</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=945618864000095906&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="38"><title>Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review
+</title><tspan x="1313" y="357">garou</tspan><tspan x="1313" y="369">si</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=945618864000095906&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="38"><title>Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review
 Garousi, Vahid and Petersen, Kai and Ozkan, Baris
 
 @article{garousi2016b,
@@ -954,7 +1008,7 @@ Garousi, Vahid and Petersen, Kai and Ozkan, Baris
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="59"><title>Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="59"><title>Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review
 Garousi, Vahid and Petersen, Kai and Ozkan, Baris
 
 @article{garousi2016b,
@@ -967,7 +1021,7 @@ Garousi, Vahid and Petersen, Kai and Ozkan, Baris
   year = {2016}
 }
 
-</title><tspan x="1313" y="47">garou</tspan><tspan x="1313" y="59">si201</tspan><tspan x="1313" y="71">6b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2648739426192245340&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="114"><title>A systematic literature review of literature reviews in software testing
+</title><tspan x="1389" y="47">garou</tspan><tspan x="1389" y="59">si201</tspan><tspan x="1389" y="71">6b</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2648739426192245340&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="114"><title>A systematic literature review of literature reviews in software testing
 Garousi, Vahid and M&#228;ntyl&#228;, Mika V
 
 @article{garousi2016c,
@@ -980,7 +1034,7 @@ Garousi, Vahid and M&#228;ntyl&#228;, Mika V
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="135"><title>A systematic literature review of literature reviews in software testing
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="135"><title>A systematic literature review of literature reviews in software testing
 Garousi, Vahid and M&#228;ntyl&#228;, Mika V
 
 @article{garousi2016c,
@@ -993,7 +1047,7 @@ Garousi, Vahid and M&#228;ntyl&#228;, Mika V
   year = {2016}
 }
 
-</title><tspan x="1313" y="123">garou</tspan><tspan x="1313" y="135">si201</tspan><tspan x="1313" y="147">6c</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=7076529699265386141&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="190"><title>Quality in model-driven engineering: a tertiary study
+</title><tspan x="1389" y="123">garou</tspan><tspan x="1389" y="135">si201</tspan><tspan x="1389" y="147">6c</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=7076529699265386141&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="190"><title>Quality in model-driven engineering: a tertiary study
 Goul&#227;o, Miguel and Amaral, Vasco and Mernik, Marjan
 
 @article{goulao2016a,
@@ -1007,7 +1061,7 @@ Goul&#227;o, Miguel and Amaral, Vasco and Mernik, Marjan
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="211"><title>Quality in model-driven engineering: a tertiary study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="211"><title>Quality in model-driven engineering: a tertiary study
 Goul&#227;o, Miguel and Amaral, Vasco and Mernik, Marjan
 
 @article{goulao2016a,
@@ -1021,7 +1075,7 @@ Goul&#227;o, Miguel and Amaral, Vasco and Mernik, Marjan
   year = {2016}
 }
 
-</title><tspan x="1313" y="199">goul&#227;</tspan><tspan x="1313" y="211">o2016</tspan><tspan x="1313" y="223">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14307777103485451958&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="266"><title>A systematic literature review on quality criteria for agile requirements specifications
+</title><tspan x="1389" y="199">goul&#227;</tspan><tspan x="1389" y="211">o2016</tspan><tspan x="1389" y="223">a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14307777103485451958&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="266"><title>A systematic literature review on quality criteria for agile requirements specifications
 Heck, Petra and Zaidman, Andy
 
 @article{heck2016a,
@@ -1033,7 +1087,7 @@ Heck, Petra and Zaidman, Andy
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="287"><title>A systematic literature review on quality criteria for agile requirements specifications
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="287"><title>A systematic literature review on quality criteria for agile requirements specifications
 Heck, Petra and Zaidman, Andy
 
 @article{heck2016a,
@@ -1045,7 +1099,7 @@ Heck, Petra and Zaidman, Andy
   year = {2016}
 }
 
-</title><tspan x="1313" y="281">heck2</tspan><tspan x="1313" y="293">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14391413511105952052&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1292" y="342"><title>Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods and C functions
+</title><tspan x="1389" y="281">heck2</tspan><tspan x="1389" y="293">016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=14391413511105952052&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="342"><title>Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods and C functions
 Landman, Davy and Serebrenik, Alexander and Bouwers, Eric and Vinju, Jurgen J
 
 @article{landman2016a,
@@ -1059,7 +1113,7 @@ Landman, Davy and Serebrenik, Alexander and Bouwers, Eric and Vinju, Jurgen J
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="363"><title>Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods and C functions
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="363"><title>Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods and C functions
 Landman, Davy and Serebrenik, Alexander and Bouwers, Eric and Vinju, Jurgen J
 
 @article{landman2016a,
@@ -1073,7 +1127,7 @@ Landman, Davy and Serebrenik, Alexander and Bouwers, Eric and Vinju, Jurgen J
   year = {2016}
 }
 
-</title><tspan x="1313" y="351">landm</tspan><tspan x="1313" y="363">an201</tspan><tspan x="1313" y="375">6a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2362108476876843371&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="38"><title>Cyber-Physical Systems Security: a Systematic Mapping Study
+</title><tspan x="1389" y="351">landm</tspan><tspan x="1389" y="363">an201</tspan><tspan x="1389" y="375">6a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2362108476876843371&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="38"><title>Cyber-Physical Systems Security: a Systematic Mapping Study
 Lun, Yuriy Zacchia and D'Innocenzo, Alessandro and Malavolta, Ivano and Di Benedetto, Maria Domenica
 
 @article{lun2016a,
@@ -1083,7 +1137,7 @@ Lun, Yuriy Zacchia and D'Innocenzo, Alessandro and Malavolta, Ivano and Di Bened
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="59"><title>Cyber-Physical Systems Security: a Systematic Mapping Study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="59"><title>Cyber-Physical Systems Security: a Systematic Mapping Study
 Lun, Yuriy Zacchia and D'Innocenzo, Alessandro and Malavolta, Ivano and Di Benedetto, Maria Domenica
 
 @article{lun2016a,
@@ -1093,7 +1147,7 @@ Lun, Yuriy Zacchia and D'Innocenzo, Alessandro and Malavolta, Ivano and Di Bened
   year = {2016}
 }
 
-</title><tspan x="1389" y="53">lun20</tspan><tspan x="1389" y="65">16a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2031630655211791035&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="114"><title>A survey of app store analysis for software engineering
+</title><tspan x="1465" y="53">lun20</tspan><tspan x="1465" y="65">16a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2031630655211791035&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="114"><title>A survey of app store analysis for software engineering
 Martin, William and Sarro, Federica and Jia, Yue and Zhang, Yuanyuan and Harman, Mark
 
 @article{martin2016a,
@@ -1104,7 +1158,7 @@ Martin, William and Sarro, Federica and Jia, Yue and Zhang, Yuanyuan and Harman,
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="135"><title>A survey of app store analysis for software engineering
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="135"><title>A survey of app store analysis for software engineering
 Martin, William and Sarro, Federica and Jia, Yue and Zhang, Yuanyuan and Harman, Mark
 
 @article{martin2016a,
@@ -1115,7 +1169,7 @@ Martin, William and Sarro, Federica and Jia, Yue and Zhang, Yuanyuan and Harman,
   year = {2016}
 }
 
-</title><tspan x="1389" y="129">marti</tspan><tspan x="1389" y="141">n</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17073895119558442056&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="190"><title>Container based virtualisation for software deployment in self-driving vehicles
+</title><tspan x="1465" y="129">marti</tspan><tspan x="1465" y="141">n</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17073895119558442056&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="190"><title>Container based virtualisation for software deployment in self-driving vehicles
 Masek, Philip and Thulin, Magnus
 
 @phdthesis{masek2016a,
@@ -1125,7 +1179,7 @@ Masek, Philip and Thulin, Magnus
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="211"><title>Container based virtualisation for software deployment in self-driving vehicles
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="211"><title>Container based virtualisation for software deployment in self-driving vehicles
 Masek, Philip and Thulin, Magnus
 
 @phdthesis{masek2016a,
@@ -1135,7 +1189,7 @@ Masek, Philip and Thulin, Magnus
   year = {2016}
 }
 
-</title><tspan x="1389" y="205">masek</tspan><tspan x="1389" y="217">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=278331208569445490&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="266"><title>Survey of approaches for handling static analysis alarms
+</title><tspan x="1465" y="205">masek</tspan><tspan x="1465" y="217">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=278331208569445490&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="266"><title>Survey of approaches for handling static analysis alarms
 Muske, Tukaram and Serebrenik, Alexander
 
 @inproceedings{muske2016a,
@@ -1147,7 +1201,7 @@ Muske, Tukaram and Serebrenik, Alexander
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="287"><title>Survey of approaches for handling static analysis alarms
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="287"><title>Survey of approaches for handling static analysis alarms
 Muske, Tukaram and Serebrenik, Alexander
 
 @inproceedings{muske2016a,
@@ -1159,7 +1213,7 @@ Muske, Tukaram and Serebrenik, Alexander
   year = {2016}
 }
 
-</title><tspan x="1389" y="281">muske</tspan><tspan x="1389" y="293">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=10488123961776075696&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1368" y="342"><title>Performance variability in software product lines: proposing theories from a case study
+</title><tspan x="1465" y="281">muske</tspan><tspan x="1465" y="293">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=10488123961776075696&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="342"><title>Performance variability in software product lines: proposing theories from a case study
 Myllarniemi, Varvana and Savolainen, Juha and Raatikainen, Mikko and M&#228;nnist&#246;, Tomi
 
 @article{myllarniemi2016a,
@@ -1173,7 +1227,7 @@ Myllarniemi, Varvana and Savolainen, Juha and Raatikainen, Mikko and M&#228;nnis
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1389" y="363"><title>Performance variability in software product lines: proposing theories from a case study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="363"><title>Performance variability in software product lines: proposing theories from a case study
 Myllarniemi, Varvana and Savolainen, Juha and Raatikainen, Mikko and M&#228;nnist&#246;, Tomi
 
 @article{myllarniemi2016a,
@@ -1187,7 +1241,7 @@ Myllarniemi, Varvana and Savolainen, Juha and Raatikainen, Mikko and M&#228;nnis
   year = {2016}
 }
 
-</title><tspan x="1389" y="351">mylla</tspan><tspan x="1389" y="363">rniem</tspan><tspan x="1389" y="375">&#8230;</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=4822681140294147996&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="38"><title>Survey on textual notations for the unified modeling language
+</title><tspan x="1465" y="351">mylla</tspan><tspan x="1465" y="363">rniem</tspan><tspan x="1465" y="375">&#8230;</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=4822681140294147996&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="38"><title>Survey on textual notations for the unified modeling language
 Seifermann, Stephan and Groenda, Henning
 
 @inproceedings{seifermann2016a,
@@ -1199,7 +1253,7 @@ Seifermann, Stephan and Groenda, Henning
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="59"><title>Survey on textual notations for the unified modeling language
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="59"><title>Survey on textual notations for the unified modeling language
 Seifermann, Stephan and Groenda, Henning
 
 @inproceedings{seifermann2016a,
@@ -1211,7 +1265,7 @@ Seifermann, Stephan and Groenda, Henning
   year = {2016}
 }
 
-</title><tspan x="1465" y="47">seife</tspan><tspan x="1465" y="59">rmann</tspan><tspan x="1465" y="71">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17529208031263745484&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="114"><title>A validated ontology for global software development
+</title><tspan x="1541" y="47">seife</tspan><tspan x="1541" y="59">rmann</tspan><tspan x="1541" y="71">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=17529208031263745484&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="114"><title>A validated ontology for global software development
 Vizca&#237;no, Aurora and Garc&#237;a, Felix and Piattini, Mario and Beecham, Sarah
 
 @article{vizca&#237;no2016a,
@@ -1224,7 +1278,7 @@ Vizca&#237;no, Aurora and Garc&#237;a, Felix and Piattini, Mario and Beecham, Sa
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="135"><title>A validated ontology for global software development
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="135"><title>A validated ontology for global software development
 Vizca&#237;no, Aurora and Garc&#237;a, Felix and Piattini, Mario and Beecham, Sarah
 
 @article{vizca&#237;no2016a,
@@ -1237,7 +1291,7 @@ Vizca&#237;no, Aurora and Garc&#237;a, Felix and Piattini, Mario and Beecham, Sa
   year = {2016}
 }
 
-</title><tspan x="1465" y="129">vizca</tspan><tspan x="1465" y="141">&#237;no</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12447322214800069493&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1444" y="190"><title>Customer involvement in continuous deployment: a systematic literature review
+</title><tspan x="1541" y="129">vizca</tspan><tspan x="1541" y="141">&#237;no</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12447322214800069493&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="190"><title>Customer involvement in continuous deployment: a systematic literature review
 Yaman, Sezin Gizem and Sauvola, Tanja and Riungu-Kalliosaari, Leah and Hokkanen, Laura and Kuvaja, Pasi and Oivo, Markku and M&#228;nnist&#246;, Tomi
 
 @inproceedings{yaman2016a,
@@ -1249,7 +1303,7 @@ Yaman, Sezin Gizem and Sauvola, Tanja and Riungu-Kalliosaari, Leah and Hokkanen,
   year = {2016}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1465" y="211"><title>Customer involvement in continuous deployment: a systematic literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="211"><title>Customer involvement in continuous deployment: a systematic literature review
 Yaman, Sezin Gizem and Sauvola, Tanja and Riungu-Kalliosaari, Leah and Hokkanen, Laura and Kuvaja, Pasi and Oivo, Markku and M&#228;nnist&#246;, Tomi
 
 @inproceedings{yaman2016a,
@@ -1261,7 +1315,7 @@ Yaman, Sezin Gizem and Sauvola, Tanja and Riungu-Kalliosaari, Leah and Hokkanen,
   year = {2016}
 }
 
-</title><tspan x="1465" y="205">yaman</tspan><tspan x="1465" y="217">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=481722571978459912&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="38"><title>Safety in vehicle platooning: A systematic literature review
+</title><tspan x="1541" y="205">yaman</tspan><tspan x="1541" y="217">2016a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=481722571978459912&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="38"><title>Safety in vehicle platooning: A systematic literature review
 Axelsson, Jakob
 
 @article{axelsson2017a,
@@ -1275,7 +1329,7 @@ Axelsson, Jakob
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="59"><title>Safety in vehicle platooning: A systematic literature review
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="59"><title>Safety in vehicle platooning: A systematic literature review
 Axelsson, Jakob
 
 @article{axelsson2017a,
@@ -1289,7 +1343,7 @@ Axelsson, Jakob
   year = {2017}
 }
 
-</title><tspan x="1541" y="47">axels</tspan><tspan x="1541" y="59">son20</tspan><tspan x="1541" y="71">17a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11199484906198672917&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="114"><title>Quality characteristics and measures for human--computer interaction evaluation in ubiquitous systems
+</title><tspan x="1617" y="47">axels</tspan><tspan x="1617" y="59">son20</tspan><tspan x="1617" y="71">17a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=11199484906198672917&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="114"><title>Quality characteristics and measures for human--computer interaction evaluation in ubiquitous systems
 Carvalho, Rainara Maia and de Castro Andrade, Rossana Maria and de Oliveira, K&#225;thia Mar{&#231;}al and de Sousa Santos, Ismayle and Bezerra, Carla Ilane Moreira
 
 @article{carvalho2017a,
@@ -1303,7 +1357,7 @@ Carvalho, Rainara Maia and de Castro Andrade, Rossana Maria and de Oliveira, K&#
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="135"><title>Quality characteristics and measures for human--computer interaction evaluation in ubiquitous systems
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="135"><title>Quality characteristics and measures for human--computer interaction evaluation in ubiquitous systems
 Carvalho, Rainara Maia and de Castro Andrade, Rossana Maria and de Oliveira, K&#225;thia Mar{&#231;}al and de Sousa Santos, Ismayle and Bezerra, Carla Ilane Moreira
 
 @article{carvalho2017a,
@@ -1317,7 +1371,7 @@ Carvalho, Rainara Maia and de Castro Andrade, Rossana Maria and de Oliveira, K&#
   year = {2017}
 }
 
-</title><tspan x="1541" y="123">carva</tspan><tspan x="1541" y="135">lho20</tspan><tspan x="1541" y="147">17a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=958346293904867995&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="190"><title>An approach to business model innovation and design for strategic sustainable development
+</title><tspan x="1617" y="123">carva</tspan><tspan x="1617" y="135">lho20</tspan><tspan x="1617" y="147">17a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=958346293904867995&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="190"><title>An approach to business model innovation and design for strategic sustainable development
 Fran&#231;a, C&#233;sar Levy and Broman, G&#246;ran and Rob&#232;rt, Karl-Henrik and Basile, George and Trygg, Louise
 
 @article{fran2017a,
@@ -1330,7 +1384,7 @@ Fran&#231;a, C&#233;sar Levy and Broman, G&#246;ran and Rob&#232;rt, Karl-Henrik
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="211"><title>An approach to business model innovation and design for strategic sustainable development
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="211"><title>An approach to business model innovation and design for strategic sustainable development
 Fran&#231;a, C&#233;sar Levy and Broman, G&#246;ran and Rob&#232;rt, Karl-Henrik and Basile, George and Trygg, Louise
 
 @article{fran2017a,
@@ -1343,7 +1397,7 @@ Fran&#231;a, C&#233;sar Levy and Broman, G&#246;ran and Rob&#232;rt, Karl-Henrik
   year = {2017}
 }
 
-</title><tspan x="1541" y="205">fran2</tspan><tspan x="1541" y="217">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=15222593822798724708&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="266"><title>Research on Architecting Microservices: Trends, Focus, and Potential for Industrial Adoption
+</title><tspan x="1617" y="205">fran2</tspan><tspan x="1617" y="217">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=15222593822798724708&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="266"><title>Research on Architecting Microservices: Trends, Focus, and Potential for Industrial Adoption
 Di Francesco, Paolo and Malavolta, Ivano and Lago, Patricia
 
 @inproceedings{francesco2017a,
@@ -1355,7 +1409,7 @@ Di Francesco, Paolo and Malavolta, Ivano and Lago, Patricia
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="287"><title>Research on Architecting Microservices: Trends, Focus, and Potential for Industrial Adoption
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="287"><title>Research on Architecting Microservices: Trends, Focus, and Potential for Industrial Adoption
 Di Francesco, Paolo and Malavolta, Ivano and Lago, Patricia
 
 @inproceedings{francesco2017a,
@@ -1367,7 +1421,7 @@ Di Francesco, Paolo and Malavolta, Ivano and Lago, Patricia
   year = {2017}
 }
 
-</title><tspan x="1541" y="275">franc</tspan><tspan x="1541" y="287">esco2</tspan><tspan x="1541" y="299">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2652495098679849438&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1520" y="342"><title>The Circular Economy--A new sustainability paradigm?
+</title><tspan x="1617" y="275">franc</tspan><tspan x="1617" y="287">esco2</tspan><tspan x="1617" y="299">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=2652495098679849438&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="342"><title>The Circular Economy--A new sustainability paradigm?
 Geissdoerfer, Martin and Savaget, Paulo and Bocken, Nancy MP and Hultink, Erik Jan
 
 @article{geissdoerfer2017a,
@@ -1380,7 +1434,7 @@ Geissdoerfer, Martin and Savaget, Paulo and Bocken, Nancy MP and Hultink, Erik J
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1541" y="363"><title>The Circular Economy--A new sustainability paradigm?
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="363"><title>The Circular Economy--A new sustainability paradigm?
 Geissdoerfer, Martin and Savaget, Paulo and Bocken, Nancy MP and Hultink, Erik Jan
 
 @article{geissdoerfer2017a,
@@ -1393,7 +1447,7 @@ Geissdoerfer, Martin and Savaget, Paulo and Bocken, Nancy MP and Hultink, Erik J
   year = {2017}
 }
 
-</title><tspan x="1541" y="351">geiss</tspan><tspan x="1541" y="363">doerf</tspan><tspan x="1541" y="375">er</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=4005190834127422536&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="38"><title>A systematic literature review: Opinion mining studies from mobile app store user reviews
+</title><tspan x="1617" y="351">geiss</tspan><tspan x="1617" y="363">doerf</tspan><tspan x="1617" y="375">er</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=4005190834127422536&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1672" y="38"><title>A systematic literature review: Opinion mining studies from mobile app store user reviews
 Genc-Nayebi, Necmiye and Abran, Alain
 
 @article{genc2017a,
@@ -1406,7 +1460,7 @@ Genc-Nayebi, Necmiye and Abran, Alain
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="59"><title>A systematic literature review: Opinion mining studies from mobile app store user reviews
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1693" y="59"><title>A systematic literature review: Opinion mining studies from mobile app store user reviews
 Genc-Nayebi, Necmiye and Abran, Alain
 
 @article{genc2017a,
@@ -1419,7 +1473,7 @@ Genc-Nayebi, Necmiye and Abran, Alain
   year = {2017}
 }
 
-</title><tspan x="1617" y="53">genc2</tspan><tspan x="1617" y="65">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13997296233842079337&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="114"><title>Challenges for static analysis of Java reflection: literature review and empirical study
+</title><tspan x="1693" y="53">genc2</tspan><tspan x="1693" y="65">017a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=13997296233842079337&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1672" y="114"><title>Challenges for static analysis of Java reflection: literature review and empirical study
 Landman, Davy and Serebrenik, Alexander and Vinju, Jurgen J
 
 @inproceedings{landman2017a,
@@ -1431,7 +1485,7 @@ Landman, Davy and Serebrenik, Alexander and Vinju, Jurgen J
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="135"><title>Challenges for static analysis of Java reflection: literature review and empirical study
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1693" y="135"><title>Challenges for static analysis of Java reflection: literature review and empirical study
 Landman, Davy and Serebrenik, Alexander and Vinju, Jurgen J
 
 @inproceedings{landman2017a,
@@ -1443,7 +1497,7 @@ Landman, Davy and Serebrenik, Alexander and Vinju, Jurgen J
   year = {2017}
 }
 
-</title><tspan x="1617" y="123">landm</tspan><tspan x="1617" y="135">an201</tspan><tspan x="1617" y="147">7a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12936044518060074056&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1596" y="190"><title>A systematic review on search based mutation testing
+</title><tspan x="1693" y="123">landm</tspan><tspan x="1693" y="135">an201</tspan><tspan x="1693" y="147">7a</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=12936044518060074056&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1672" y="190"><title>A systematic review on search based mutation testing
 Silva, Rodolfo Adamshuk and de Souza, Simone do Rocio Senger and de Souza, Paulo S&#233;rgio Lopes
 
 @article{silva2017a,
@@ -1456,7 +1510,7 @@ Silva, Rodolfo Adamshuk and de Souza, Simone do Rocio Senger and de Souza, Paulo
   year = {2017}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1617" y="211"><title>A systematic review on search based mutation testing
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1693" y="211"><title>A systematic review on search based mutation testing
 Silva, Rodolfo Adamshuk and de Souza, Simone do Rocio Senger and de Souza, Paulo S&#233;rgio Lopes
 
 @article{silva2017a,
@@ -1469,193 +1523,193 @@ Silva, Rodolfo Adamshuk and de Souza, Simone do Rocio Senger and de Souza, Paulo
   year = {2017}
 }
 
-</title><tspan x="1617" y="205">silva</tspan><tspan x="1617" y="217">2017a</tspan></text></a><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,109.30434782608695 249,109.30434782608695 249,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2004
+</title><tspan x="1693" y="205">silva</tspan><tspan x="1693" y="217">2017a</tspan></text></a><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,108.375 325,108.375 325,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2004
 
 ref: 1
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,110.47826086956522 173,110.47826086956522 173,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; webster2002
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,109.5 249,109.5 249,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; webster2002
 
 ref: 2
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,112.82608695652175 21,112.82608695652175 21,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; pickard1998
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,112.875 21,112.875 21,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; pickard1998
 
 ref: 3
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="988,363 977.875,363 977.875,59 961,59" stroke="black" stroke-opacity="0.3"><title>li2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,363 1053.875,363 1053.875,59 1037,59" stroke="black" stroke-opacity="0.3"><title>li2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1368,135 1345.909090909091,135 1345.909090909091,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>martin2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1444,135 1421.909090909091,135 1421.909090909091,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>martin2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1520,363 1508.0,363 1508.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>geissdoerfer2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1596,363 1584.0,363 1584.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>geissdoerfer2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1140,287 1122.8181818181818,287 1122.8181818181818,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>cavalcante2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,287 1198.8181818181818,287 1198.8181818181818,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>cavalcante2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id2)" stroke="black" stroke-opacity="0.3" x1="933" x2="933" y1="114" y2="87"><title>wohlin b2014 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1009" x2="1009" y1="114" y2="87"><title>wohlin b2014 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1064,59 1039.4545454545455,59 1039.4545454545455,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>lopez2015 -&gt; wohlin2014
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,59 1115.4545454545455,59 1115.4545454545455,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>lopez2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1064,287 1046.8181818181818,287 1046.8181818181818,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>petersen2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,287 1122.8181818181818,287 1122.8181818181818,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>petersen2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,263.9230769230769 97,263.9230769230769 97,239" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; miller1999
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,363 125,363" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; miller1999
 
 ref: 4
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,188.41176470588235 97,188.41176470588235 97,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; hayes1999
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,263.9230769230769 97,263.9230769230769 97,239" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; hayes1999
 
 ref: 5
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,111.65217391304348 97,111.65217391304348 97,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; basili1999
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,111.75 97,111.75 97,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; basili1999
 
 ref: 6
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,106.95652173913044 401,106.95652173913044 401,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2007
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,106.125 477,106.125 477,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2007
 
 ref: 7
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,105.78260869565217 477,105.78260869565217 477,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; petersen2008
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,105.0 553,105.0 553,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; petersen2008
 
 ref: 8
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,102.26086956521739 705,102.26086956521739 705,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2011
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,101.625 781,101.625 781,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2011
 
 ref: 9
-contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id2)" stroke="black" stroke-opacity="0.3" x1="912" x2="885" y1="59" y2="59"><title>wohlin2014 -&gt; wohlin2013
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="988" x2="961" y1="59" y2="59"><title>wohlin2014 -&gt; wohlin2013
 
 ref: 10
-contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,185.23529411764707 629,185.23529411764707 629,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; macdonell2010
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,185.23529411764707 705,185.23529411764707 705,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; macdonell2010
 
 ref: 11
-contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id2)" stroke="black" stroke-opacity="0.3" x1="912" x2="885" y1="80" y2="107"><title>wohlin2014 -&gt; wohlin2013b2013
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="988" x2="961" y1="80" y2="107"><title>wohlin2014 -&gt; wohlin2013b2013
 
 ref: 12
-contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,104.6086956521739 553,104.6086956521739 553,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2009
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,103.875 629,103.875 629,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2009
 
 ref: 13
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,103.43478260869566 629,103.43478260869566 629,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2010
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,102.75 705,102.75 705,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2010
 
 ref: 14
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,108.1304347826087 325,108.1304347826087 325,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; greenhalgh2005a2005
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,107.25 401,107.25 401,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; greenhalgh2005a2005
 
 ref: 15
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,186.8235294117647 553,186.8235294117647 553,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; skoglund2009
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,186.8235294117647 629,186.8235294117647 629,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; skoglund2009
 
 ref: 16
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,183.64705882352942 705,183.64705882352942 705,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2011b2011
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,183.64705882352942 781,183.64705882352942 781,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; kitchenham2011b2011
 
 ref: 17
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,261.84615384615387 705,261.84615384615387 705,239" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; zhang2011
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,261.84615384615387 781,261.84615384615387 781,239" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; zhang2011
 
 ref: 18
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,101.08695652173913 781,101.08695652173913 781,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; jalali2012
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,100.5 857,100.5 857,87" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; jalali2012
 
 ref: 19
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,182.05882352941177 781,182.05882352941177 781,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; jalali2012b2012
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,182.05882352941177 857,182.05882352941177 857,163" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; jalali2012b2012
 
 ref: 20
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="912,59 890.4,59 890.4,211 809,211" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; smite2012
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 966.4,59 966.4,211 885,211" stroke="black" stroke-opacity="0.3"><title>wohlin2014 -&gt; smite2012
 
 ref: 21
-contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id2)" stroke="black" stroke-opacity="0.3" x1="988" x2="961" y1="114" y2="87"><title>badampudi2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1064" x2="1037" y1="114" y2="87"><title>badampudi2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1216,363 1201.2727272727273,363 1201.2727272727273,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>garousi2016 -&gt; wohlin2014
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,363 1277.2727272727273,363 1277.2727272727273,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>garousi2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1064,135 1041.909090909091,135 1041.909090909091,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>lopez2015b2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,135 1117.909090909091,135 1117.909090909091,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>lopez2015b2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1444,135 1423.0,135 1423.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>vizca&#237;no2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1520,135 1499.0,135 1499.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>vizca&#237;no2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1292,59 1267.4545454545455,59 1267.4545454545455,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>garousi2016b2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,59 1343.4545454545455,59 1343.4545454545455,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>garousi2016b2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1520,211 1502.0,211 1502.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>fran2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1596,211 1578.0,211 1578.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>fran2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1064,363 1049.2727272727273,363 1049.2727272727273,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>rasool2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,363 1125.2727272727273,363 1125.2727272727273,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>rasool2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="988,287 974.5,287 974.5,59 961,59" stroke="black" stroke-opacity="0.3"><title>klotins2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,287 1050.5,287 1050.5,59 1037,59" stroke="black" stroke-opacity="0.3"><title>klotins2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1520,135 1499.0,135 1499.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>carvalho2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1596,135 1575.0,135 1575.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>carvalho2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1368,287 1350.8181818181818,287 1350.8181818181818,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>muske2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1444,287 1426.8181818181818,287 1426.8181818181818,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>muske2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1064,211 1044.3636363636363,211 1044.3636363636363,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>mendez2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,211 1120.3636363636363,211 1120.3636363636363,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>mendez2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1368,363 1353.2727272727273,363 1353.2727272727273,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>myllarniemi2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1444,363 1429.2727272727273,363 1429.2727272727273,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>myllarniemi2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1444,211 1426.0,211 1426.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>yaman2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1520,211 1502.0,211 1502.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>yaman2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1292,211 1272.3636363636363,211 1272.3636363636363,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>goul&#227;o2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,211 1348.3636363636363,211 1348.3636363636363,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>goul&#227;o2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1216,59 1191.4545454545455,59 1191.4545454545455,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>felizardo2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,59 1267.4545454545455,59 1267.4545454545455,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>felizardo2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1444,59 1420.0,59 1420.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>seifermann2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1520,59 1496.0,59 1496.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>seifermann2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id2)" stroke="black" stroke-opacity="0.3" x1="988" x2="961" y1="59" y2="59"><title>babur2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1064" x2="1037" y1="59" y2="59"><title>babur2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1140,59 1115.4545454545455,59 1115.4545454545455,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>ameller2016a2016 -&gt; wohlin2014
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,59 1191.4545454545455,59 1191.4545454545455,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>ameller2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1216,135 1193.909090909091,135 1193.909090909091,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>fernandes2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,135 1269.909090909091,135 1269.909090909091,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>fernandes2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1140,211 1120.3636363636363,211 1120.3636363636363,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>baum2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,211 1196.3636363636363,211 1196.3636363636363,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>baum2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="988,211 971.125,211 971.125,59 961,59" stroke="black" stroke-opacity="0.3"><title>giraldo2015a2015 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,211 1047.125,211 1047.125,59 1037,59" stroke="black" stroke-opacity="0.3"><title>giraldo2015a2015 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1216,287 1198.8181818181818,287 1198.8181818181818,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>garcia2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,287 1274.8181818181818,287 1274.8181818181818,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>garcia2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1292,135 1269.909090909091,135 1269.909090909091,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>garousi2016c2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1345.909090909091,135 1345.909090909091,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>garousi2016c2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1596,211 1578.0,211 1578.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>silva2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1672,211 1654.0,211 1654.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>silva2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1520,287 1505.0,287 1505.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>francesco2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1596,287 1581.0,287 1581.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>francesco2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1596,59 1572.0,59 1572.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>genc2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1672,59 1648.0,59 1648.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>genc2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1292,363 1277.2727272727273,363 1277.2727272727273,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>landman2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,363 1353.2727272727273,363 1353.2727272727273,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>landman2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1368,59 1343.4545454545455,59 1343.4545454545455,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>lun2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1444,59 1419.4545454545455,59 1419.4545454545455,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>lun2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1292,287 1274.8181818181818,287 1274.8181818181818,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>heck2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,287 1350.8181818181818,287 1350.8181818181818,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>heck2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1368,211 1348.3636363636363,211 1348.3636363636363,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>masek2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1444,211 1424.3636363636363,211 1424.3636363636363,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>masek2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1520,59 1496.0,59 1496.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>axelsson2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1596,59 1572.0,59 1572.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>axelsson2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1596,135 1575.0,135 1575.0,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>landman2017a2017 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1672,135 1651.0,135 1651.0,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>landman2017a2017 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1140,135 1117.909090909091,135 1117.909090909091,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>badampudi2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,135 1193.909090909091,135 1193.909090909091,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>badampudi2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1216,211 1196.3636363636363,211 1196.3636363636363,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>franzago2016a2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1272.3636363636363,211 1272.3636363636363,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>franzago2016a2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id2)" pointer-events="stroke" points="1140,363 1125.2727272727273,363 1125.2727272727273,98.73913043478261 933,98.73913043478261 933,87" stroke="black" stroke-opacity="0.3"><title>fabbri2016 -&gt; wohlin2014
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,363 1201.2727272727273,363 1201.2727272727273,98.25 1009,98.25 1009,87" stroke="black" stroke-opacity="0.3"><title>fabbri2016 -&gt; wohlin2014
 
 ref: 
-contexts: []</title></polyline></g><text style="font-size:20px" text-anchor="middle" x="21" y="20">1998</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">2002</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">2004</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="705" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="781" y="20">2012</text><text style="font-size:20px" text-anchor="middle" x="857" y="20">2013</text><text style="font-size:20px" text-anchor="middle" x="933" y="20">2014</text><text style="font-size:20px" text-anchor="middle" x="1009" y="20">2015</text><text style="font-size:20px" text-anchor="middle" x="1085" y="20">2015</text><text style="font-size:20px" text-anchor="middle" x="1161" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1237" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1313" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1389" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1465" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1541" y="20">2017</text><text style="font-size:20px" text-anchor="middle" x="1617" y="20">2017</text></svg>
+contexts: []</title></polyline></g><text style="font-size:20px" text-anchor="middle" x="21" y="20">1998</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">2000</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">2002</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2004</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="705" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="781" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="857" y="20">2012</text><text style="font-size:20px" text-anchor="middle" x="933" y="20">2013</text><text style="font-size:20px" text-anchor="middle" x="1009" y="20">2014</text><text style="font-size:20px" text-anchor="middle" x="1085" y="20">2015</text><text style="font-size:20px" text-anchor="middle" x="1161" y="20">2015</text><text style="font-size:20px" text-anchor="middle" x="1237" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1313" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1389" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1465" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1541" y="20">2016</text><text style="font-size:20px" text-anchor="middle" x="1617" y="20">2017</text><text style="font-size:20px" text-anchor="middle" x="1693" y="20">2017</text></svg>
