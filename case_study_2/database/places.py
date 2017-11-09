@@ -1,9 +1,11 @@
 from snowballing.models import Place, DB
 from snowballing.common_places import *
 
+AISC = journal("AISC", "Advances in Intelligent Systems and Computing")
 BMJ = journal("BMJ", "BMJ")
 CC = journal("CC","Computer Communications")
 CSI = journal("CSI", "Computer Standards & Interfaces")
+CSUR = journal("CSUR", "ACM Computing Surveys")
 
 EASE = conference("EASE", "Evaluation and Assessment in Software Engineering")
 EBSE = journal("EBSE", "EBSE Technical Report")
@@ -45,6 +47,7 @@ SQRS = conference("SQRS", "Software Quality, Reliability and Security")
 TaPP = conference("TaPP", "Workshop on the Theory and Practice of Provenance")
 TITS = conference("TITS", "IEEE Transactions on Intelligent Transportation Systems")
 
+ToR = journal("ToR", "IEEE Transactions on Reliability")
 ToSE = conference("ToSE", "Transactions on Software Engineering")
 
 arXiv = DB(Place("arXiv", "arXiv", "Archive"))

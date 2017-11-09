@@ -101,6 +101,41 @@ landman2017a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=13997296233842079337&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+laplante2017a = DB(WorkUnrelated(
+    2017, "Software Engineering of Safety-Critical Systems: Themes from Practitioners",
+    display="laplante",
+    authors="Laplante, P.A. and Defranco, J.F.",
+    place=ToR,
+    pp="825-836",
+    entrytype="article",
+    volume="66",
+    number="3",
+    doi="10.1109/TR.2017.2731953",
+    art_number="8006260",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029185593&doi=10.1109%2fTR.2017.2731953&partnerID=40&md5=6dac54a99ee65df42160a28782f51b41",
+    document_type="Article",
+    source="Scopus",
+    ID="Laplante2017825",
+))
+
+menzies2017a = DB(WorkUnrelated(
+    2017, "Are delayed issues harder to resolve? Revisiting cost-to-fix of defects throughout the lifecycle",
+    display="menzies",
+    authors="Menzies, T. and Nichols, W. and Shull, F. and Layman, L.",
+    place=ESE,
+    pp="1903-1935",
+    entrytype="article",
+    volume="22",
+    number="4",
+    doi="10.1007/s10664-016-9469-x",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84994709940&doi=10.1007%2fs10664-016-9469-x&partnerID=40&md5=c8ae911a0e1c66129a142dc8e1dd79b8",
+    document_type="Article",
+    source="Scopus",
+    ID="Menzies20171903",
+))
+
 silva2017a = DB(WorkOk(
     2017, "A systematic review on search based mutation testing",
     display="silva2017a",
@@ -113,4 +148,22 @@ silva2017a = DB(WorkOk(
     ID="silva2017systematic",
     cluster_id="12936044518060074056",
     scholar="http://scholar.google.com/scholar?cites=12936044518060074056&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+storer2017a = DB(WorkUnrelated(
+    2017, "Bridging the chasm: A survey of sofware engineering practice in scientific programming",
+    display="storer",
+    authors="Storer, T.",
+    place=CSUR,
+    entrytype="article",
+    volume="50",
+    number="4",
+    doi="10.1145/3084225",
+    art_number="47",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028686525&doi=10.1145%2f3084225&partnerID=40&md5=fb9fcc90f00b2b4096b8acaa786ef6b0",
+    document_type="Review",
+    source="Scopus",
+    ID="Storer2017",
+    scopus="1",
 ))

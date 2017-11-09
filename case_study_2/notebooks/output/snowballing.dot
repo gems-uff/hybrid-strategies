@@ -13,21 +13,8 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
     </TABLE>>
 ]
 "-attrs0" -> "http://example.org/backward1" [color="gray",style="dashed",arrowhead="none"]
-"http://example.org/backward2" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="backward2",URL="http://example.org/backward2"]
-"-attrs1" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
-	<TR>
-	    <TD align="left">found:</TD>
-	    <TD align="left">0</TD>
-	</TR>
-	<TR>
-	    <TD align="left">related:</TD>
-	    <TD align="left">0</TD>
-	</TR>
-    </TABLE>>
-]
-"-attrs1" -> "http://example.org/backward2" [color="gray",style="dashed",arrowhead="none"]
 "http://example.org/forward1" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="forward1",URL="http://example.org/forward1"]
-"-attrs2" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+"-attrs1" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
 	<TR>
 	    <TD align="left">found:</TD>
 	    <TD align="left">41</TD>
@@ -38,7 +25,20 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
 	</TR>
     </TABLE>>
 ]
-"-attrs2" -> "http://example.org/forward1" [color="gray",style="dashed",arrowhead="none"]
+"-attrs1" -> "http://example.org/forward1" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/backward2" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="backward2",URL="http://example.org/backward2"]
+"-attrs2" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">found:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs2" -> "http://example.org/backward2" [color="gray",style="dashed",arrowhead="none"]
 "http://example.org/forward2" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="forward2",URL="http://example.org/forward2"]
 "-attrs3" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
 	<TR>
@@ -60,7 +60,7 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
 	</TR>
 	<TR>
 	    <TD align="left">length:</TD>
-	    <TD align="left">3</TD>
+	    <TD align="left">2</TD>
 	</TR>
     </TABLE>>
 ]
@@ -73,7 +73,7 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
 	</TR>
 	<TR>
 	    <TD align="left">length:</TD>
-	    <TD align="left">4</TD>
+	    <TD align="left">3</TD>
 	</TR>
     </TABLE>>
 ]
@@ -86,7 +86,7 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
 	</TR>
 	<TR>
 	    <TD align="left">length:</TD>
-	    <TD align="left">13</TD>
+	    <TD align="left">12</TD>
 	</TR>
     </TABLE>>
 ]
@@ -95,9 +95,9 @@ digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1";
 "http://example.org/backward1" -> "http://example.org/s0" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
 "http://example.org/s1" -> "http://example.org/backward1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
 "http://example.org/s1" -> "http://example.org/s0" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
-"http://example.org/backward2" -> "http://example.org/s1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
 "http://example.org/forward1" -> "http://example.org/s1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
 "http://example.org/s2" -> "http://example.org/forward1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
 "http://example.org/s2" -> "http://example.org/s1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
+"http://example.org/backward2" -> "http://example.org/s2" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
 "http://example.org/forward2" -> "http://example.org/s2" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
 }
