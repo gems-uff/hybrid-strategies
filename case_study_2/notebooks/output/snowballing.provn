@@ -1,26 +1,41 @@
 document
   default <http://example.org/>
 
+  entity(s9, [type="Set", visited="66", related="12"])
+  activity(union9, -, -, [found="0", related="0"])
+  used(u0; union9, s6, -)
+  wasGeneratedBy(g0; s9, union9, -)
+  wasDerivedFrom(s9, s6, union9, g0, u0, [prov:type="prov:Revision"])
+  used(u1; union9, s8, -)
+  wasGeneratedBy(g1; s9, union9, -)
+  wasDerivedFrom(s9, s8, union9, g1, u1, [prov:type="prov:Revision"])
+
+  entity(s6, [type="Set", visited="45", related="11"])
+  activity(forward6, -, -, [found="0", related="0"])
+  used(u2; forward6, s5, -)
+  wasGeneratedBy(g2; s6, forward6, -)
+  wasDerivedFrom(s6, s5, forward6, g2, u2, [prov:type="prov:Revision"])
+
+  entity(s8, [type="Set", visited="25", related="3"])
+  activity(backward8, -, -, [found="0", related="0"])
+  used(u3; backward8, s7, -)
+  wasGeneratedBy(g3; s8, backward8, -)
+  wasDerivedFrom(s8, s7, backward8, g3, u3, [prov:type="prov:Revision"])
+
+  entity(s5, [type="Set", visited="45", related="11"])
+  activity(forward5, -, -, [found="41", related="9"])
+  used(u4; forward5, s0, -)
+  wasGeneratedBy(g4; s5, forward5, -)
+  wasDerivedFrom(s5, s0, forward5, g4, u4, [prov:type="prov:Revision"])
+
+  entity(s7, [type="Set", visited="25", related="3"])
+  activity(backward7, -, -, [found="21", related="1"])
+  used(u5; backward7, s0, -)
+  wasGeneratedBy(g5; s7, backward7, -)
+  wasDerivedFrom(s7, s0, backward7, g5, u5, [prov:type="prov:Revision"])
+
+  entity(s0, [type="Set", visited="4", related="2"])
   activity(start, -, -)
-  entity(s0, [type="Set", length="2"])
-  wasGeneratedBy(g0; s0, start, -)
-
-  activity(backward1, -, -, [found="21", related="1"])
-  used(u0; backward1, s0, -)
-  entity(s1, [type="Set", length="3"])
-  wasGeneratedBy(g1; s1, backward1, -)
-  wasDerivedFrom(s1, s0, backward1, g1, u0, [prov:type="prov:Revision"])
-
-  activity(forward1, -, -, [found="41", related="9"])
-  used(u1; forward1, s1, -)
-  entity(s2, [type="Set", length="12"])
-  wasGeneratedBy(g2; s2, forward1, -)
-  wasDerivedFrom(s2, s1, forward1, g2, u1, [prov:type="prov:Revision"])
-
-  activity(backward2, -, -, [found="0", related="0"])
-  used(u2; backward2, s2, -)
-
-  activity(forward2, -, -, [found="0", related="0"])
-  used(u3; forward2, s2, -)
+  wasGeneratedBy(g6; s0, start, -)
 
 endDocument
