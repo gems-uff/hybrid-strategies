@@ -1,4 +1,4 @@
-digraph "PROV" { size="16,12"; rankdir="BT"; 
+digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1"; 
 "http://example.org/union9" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="union9",URL="http://example.org/union9"]
 "-attrs0" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
 	<TR>
