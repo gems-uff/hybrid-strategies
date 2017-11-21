@@ -119,6 +119,24 @@ laplante2017a = DB(WorkUnrelated(
     ID="Laplante2017825",
 ))
 
+masuda2017a = DB(WorkUnrelated(
+    2017, "An adaptive enterprise architecture framework and implementation: Towards global enterprises in the era of cloud/mobile IT/digital IT",
+    display="masuda",
+    authors="Masuda, Y. and Shirasaka, S. and Yamamoto, S. and Hardjono, T.",
+    pp="1-22",
+    place1="International Journal of Enterprise Information Systems",
+    entrytype="article",
+    volume="13",
+    number="3",
+    doi="10.4018/ijeis.2017070101",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85022216823&doi=10.4018%2fijeis.2017070101&partnerID=40&md5=e7f4d12ecb17b7342c5f0535913500a0",
+    document_type="Article",
+    source="Scopus",
+    ID="Masuda20171",
+    scopus="1",
+))
+
 menzies2017a = DB(WorkUnrelated(
     2017, "Are delayed issues harder to resolve? Revisiting cost-to-fix of defects throughout the lifecycle",
     display="menzies",

@@ -9,5 +9,5 @@ briand2000a = DB(Work(
     authors="Briand, L.C., Langley, T. and Wieczorek, I.",
     place=ICSE,
     other1="377-386",
-    scopus="1",
+    acm="1",
 ))

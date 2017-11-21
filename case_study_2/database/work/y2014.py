@@ -16,6 +16,7 @@ wohlin2014a = DB(WorkSnowball(
     snowball=datetime(2017, 9, 18),
     scopus="1",
     acm="1",
+    selected="1",
 ))
 
 wohlin2014b = DB(WorkOk(

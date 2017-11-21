@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="358" version="1.1" width="1962" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id6" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><rect fill="#68BDF6" height="42" stroke="black" width="42" x="0" y="38"><title>Individual comparisons by ranking methods
+Wilcoxon, F.
+
+@article{wilcoxon1945a,
+  author = {Wilcoxon, F.},
+  journal = {Biometrics},
+  pages = {80-83},
+  title = {{I}ndividual comparisons by ranking methods},
+  volume = {1},
+  year = {1945}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="21" y="59"><title>Individual comparisons by ranking methods
+Wilcoxon, F.
+
+@article{wilcoxon1945a,
+  author = {Wilcoxon, F.},
+  journal = {Biometrics},
+  pages = {80-83},
+  title = {{I}ndividual comparisons by ranking methods},
+  volume = {1},
+  year = {1945}
+}
+
+</title><tspan x="21" y="53">wilco</tspan><tspan x="21" y="65">xon</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="96" y="38"><title>Detection of Influential Observation in Linear Regression
+Cook, R.D.
+
+@article{cook1977a,
+  author = {Cook, R.D.},
+  doi = {10.1080/00401706.1977.10489493},
+  journal = {Technometrics},
+  number = {1},
+  pages = {15-18},
+  title = {{D}etection of {I}nfluential {O}bservation in {L}inear {R}egression},
+  volume = {19},
+  year = {1977}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="117" y="59"><title>Detection of Influential Observation in Linear Regression
+Cook, R.D.
+
+@article{cook1977a,
+  author = {Cook, R.D.},
+  doi = {10.1080/00401706.1977.10489493},
+  journal = {Technometrics},
+  number = {1},
+  pages = {15-18},
+  title = {{D}etection of {I}nfluential {O}bservation in {L}inear {R}egression},
+  volume = {19},
+  year = {1977}
+}
+
+</title><tspan x="117" y="59">cook</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="192" y="38"><title>SOFTWARE COST MODELS.
+Kitchenham, B.A. and Taylor, N.R.
+
+@article{kitchenham1984a,
+  author = {Kitchenham, B.A. and Taylor, N.R.},
+  journal = {ICL technical journal},
+  number = {1},
+  pages = {73-102},
+  title = {S{O}FT{W}AR{E} C{O}ST {M}OD{E}LS.},
+  volume = {4},
+  year = {1984}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="213" y="59"><title>SOFTWARE COST MODELS.
+Kitchenham, B.A. and Taylor, N.R.
+
+@article{kitchenham1984a,
+  author = {Kitchenham, B.A. and Taylor, N.R.},
+  journal = {ICL technical journal},
+  number = {1},
+  pages = {73-102},
+  title = {S{O}FT{W}AR{E} C{O}ST {M}OD{E}LS.},
+  volume = {4},
+  year = {1984}
+}
+
+</title><tspan x="213" y="53">kitch</tspan><tspan x="213" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="288" y="38"><title>Software Engineering Metrics and Models
+Conte, S.D. and Dunsmore, H.E. and Shen, V.Y.
+
+@article{conte1986a,
+  author = {Conte, S.D. and Dunsmore, H.E. and Shen, V.Y.},
+  journal = {Benjamin-Cummins},
+  title = {{S}oftware {E}ngineering {M}etrics and {M}odels},
+  year = {1986}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="309" y="59"><title>Software Engineering Metrics and Models
+Conte, S.D. and Dunsmore, H.E. and Shen, V.Y.
+
+@article{conte1986a,
+  author = {Conte, S.D. and Dunsmore, H.E. and Shen, V.Y.},
+  journal = {Benjamin-Cummins},
+  title = {{S}oftware {E}ngineering {M}etrics and {M}odels},
+  year = {1986}
+}
+
+</title><tspan x="309" y="59">conte</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="384" y="38"><title>An Empirical Validation of Software Cost Estimation Models
+Kemerer, C.F.
+
+@article{kemerer1987a,
+  author = {Kemerer, C.F.},
+  doi = {10.1145/22899.22906},
+  journal = {Communications of the ACM},
+  number = {5},
+  pages = {416-429},
+  title = {{A}n {E}mpirical {V}alidation of {S}oftware {C}ost {E}stimation {M}odels},
+  volume = {30},
+  year = {1987}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="405" y="59"><title>An Empirical Validation of Software Cost Estimation Models
+Kemerer, C.F.
+
+@article{kemerer1987a,
+  author = {Kemerer, C.F.},
+  doi = {10.1145/22899.22906},
+  journal = {Communications of the ACM},
+  number = {5},
+  pages = {416-429},
+  title = {{A}n {E}mpirical {V}alidation of {S}oftware {C}ost {E}stimation {M}odels},
+  volume = {30},
+  year = {1987}
+}
+
+</title><tspan x="405" y="53">kemer</tspan><tspan x="405" y="65">er</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="480" y="38"><title>Statistical power analysis for the behavioral sciences
+Cohen, J.
+
+@article{cohen1988a,
+  author = {Cohen, J.},
+  journal = {Lawrence Erlbaum Associates},
+  title = {{S}tatistical power analysis for the behavioral sciences},
+  year = {1988}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="501" y="59"><title>Statistical power analysis for the behavioral sciences
+Cohen, J.
+
+@article{cohen1988a,
+  author = {Cohen, J.},
+  journal = {Lawrence Erlbaum Associates},
+  title = {{S}tatistical power analysis for the behavioral sciences},
+  year = {1988}
+}
+
+</title><tspan x="501" y="59">cohen</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="576" y="38"><title>Case Studies for Method and Tool Evaluation
+Kitchenham, B. and Pickard, L. and Pfleeger, S.L.
+
+@article{kitchenham1995a,
+  author = {Kitchenham, B. and Pickard, L. and Pfleeger, S.L.},
+  doi = {10.1109/52.391832},
+  journal = {IEEE Software},
+  number = {4},
+  pages = {52-62},
+  title = {{C}ase {S}tudies for {M}ethod and {T}ool {E}valuation},
+  volume = {12},
+  year = {1995}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="597" y="59"><title>Case Studies for Method and Tool Evaluation
+Kitchenham, B. and Pickard, L. and Pfleeger, S.L.
+
+@article{kitchenham1995a,
+  author = {Kitchenham, B. and Pickard, L. and Pfleeger, S.L.},
+  doi = {10.1109/52.391832},
+  journal = {IEEE Software},
+  number = {4},
+  pages = {52-62},
+  title = {{C}ase {S}tudies for {M}ethod and {T}ool {E}valuation},
+  volume = {12},
+  year = {1995}
+}
+
+</title><tspan x="597" y="53">kitch</tspan><tspan x="597" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="672" y="38"><title>A procedure for analyzing unbalanced datasets
+Kitchenham, B.
+
+@article{kitchenham1998a,
+  author = {Kitchenham, B.},
+  doi = {10.1109/32.677185},
+  journal = {Transactions on Software Engineering},
+  number = {4},
+  pages = {278-301},
+  title = {{A} procedure for analyzing unbalanced datasets},
+  volume = {24},
+  year = {1998}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="693" y="59"><title>A procedure for analyzing unbalanced datasets
+Kitchenham, B.
+
+@article{kitchenham1998a,
+  author = {Kitchenham, B.},
+  doi = {10.1109/32.677185},
+  journal = {Transactions on Software Engineering},
+  number = {4},
+  pages = {278-301},
+  title = {{A} procedure for analyzing unbalanced datasets},
+  volume = {24},
+  year = {1998}
+}
+
+</title><tspan x="693" y="53">kitch</tspan><tspan x="693" y="65">enham</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032683631&amp;partnerID=40&amp;md5=9a5d9a2cd6d8f588a863f43fce097834"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="768" y="38"><title>Assessment and comparison of common software cost estimation modeling techniques
+Briand, Lionel C. and El Emam, Khaled and Maxwell, Katrina D. and Surmann, Dagmar and Wieczorek, Isabella
+
+@inproceedings{briand1999a,
+  author = {Briand, Lionel C. and El Emam, Khaled and Maxwell, Katrina D. and Surmann, Dagmar and Wieczorek, Isabella},
+  booktitle = {International Conference on Software Engineering},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032683631\&amp;partnerID=40\&amp;md5=9a5d9a2cd6d8f588a863f43fce097834},
+  pages = {313-323},
+  title = {{A}ssessment and comparison of common software cost estimation modeling techniques},
+  year = {1999}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="789" y="59"><title>Assessment and comparison of common software cost estimation modeling techniques
+Briand, Lionel C. and El Emam, Khaled and Maxwell, Katrina D. and Surmann, Dagmar and Wieczorek, Isabella
+
+@inproceedings{briand1999a,
+  author = {Briand, Lionel C. and El Emam, Khaled and Maxwell, Katrina D. and Surmann, Dagmar and Wieczorek, Isabella},
+  booktitle = {International Conference on Software Engineering},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032683631\&amp;partnerID=40\&amp;md5=9a5d9a2cd6d8f588a863f43fce097834},
+  pages = {313-323},
+  title = {{A}ssessment and comparison of common software cost estimation modeling techniques},
+  year = {1999}
+}
+
+</title><tspan x="789" y="53">brian</tspan><tspan x="789" y="65">d</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032664427&amp;partnerID=40&amp;md5=c8eee9556fd65e8a2368d9e0c790a94c"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="768" y="158"><title>Performance evaluation of general and company specific models in software development effort estimation
+Maxwell, K. and Van Wassenhove, L. and Dutta, S.
+
+@article{maxwell1999a,
+  author = {Maxwell, K. and Van Wassenhove, L. and Dutta, S.},
+  journal = {Management Science},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032664427\&amp;partnerID=40\&amp;md5=c8eee9556fd65e8a2368d9e0c790a94c},
+  number = {6},
+  pages = {787-803},
+  title = {{P}erformance evaluation of general and company specific models in software development effort estimation},
+  volume = {45},
+  year = {1999}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="789" y="179"><title>Performance evaluation of general and company specific models in software development effort estimation
+Maxwell, K. and Van Wassenhove, L. and Dutta, S.
+
+@article{maxwell1999a,
+  author = {Maxwell, K. and Van Wassenhove, L. and Dutta, S.},
+  journal = {Management Science},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032664427\&amp;partnerID=40\&amp;md5=c8eee9556fd65e8a2368d9e0c790a94c},
+  number = {6},
+  pages = {787-803},
+  title = {{P}erformance evaluation of general and company specific models in software development effort estimation},
+  volume = {45},
+  year = {1999}
+}
+
+</title><tspan x="789" y="173">maxwe</tspan><tspan x="789" y="185">ll</tspan></text></a><rect fill="#68BDF6" height="42" stroke="black" width="42" x="864" y="38"><title>Replicated assessment and comparison of common software cost modeling techniques
+Briand, Lionel C. and Langley, Tristen and Wieczorek, Isabella
+
+@inproceedings{briand2000a,
+  author = {Briand, Lionel C. and Langley, Tristen and Wieczorek, Isabella},
+  booktitle = {International Conference on Software Engineering},
+  pages = {377-386},
+  title = {{R}eplicated assessment and comparison of common software cost modeling techniques},
+  year = {2000}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="885" y="59"><title>Replicated assessment and comparison of common software cost modeling techniques
+Briand, Lionel C. and Langley, Tristen and Wieczorek, Isabella
+
+@inproceedings{briand2000a,
+  author = {Briand, Lionel C. and Langley, Tristen and Wieczorek, Isabella},
+  booktitle = {International Conference on Software Engineering},
+  pages = {377-386},
+  title = {{R}eplicated assessment and comparison of common software cost modeling techniques},
+  year = {2000}
+}
+
+</title><tspan x="885" y="53">brian</tspan><tspan x="885" y="65">d</tspan></text><rect fill="#FFD86E" height="42" stroke="black" width="42" x="864" y="158"><title>WWW2000: The developer's view and a practitioner's approach to web engineering
+Christodoulou, S.P. and Zafiris, P.A. and Papatheodorou, T.S.
+
+@article{christodoulou2000a,
+  author = {Christodoulou, S.P. and Zafiris, P.A. and Papatheodorou, T.S.},
+  journal = {International Conference on Software Engineering},
+  pages = {75-92},
+  title = {W{W}W2000: {T}he developer\textquotesingle s view and a practitioner\textquotesingle s approach to web engineering},
+  year = {2000}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="black" style="font-size:12px;font-family:monospace" text-anchor="middle" x="885" y="179"><title>WWW2000: The developer's view and a practitioner's approach to web engineering
+Christodoulou, S.P. and Zafiris, P.A. and Papatheodorou, T.S.
+
+@article{christodoulou2000a,
+  author = {Christodoulou, S.P. and Zafiris, P.A. and Papatheodorou, T.S.},
+  journal = {International Conference on Software Engineering},
+  pages = {75-92},
+  title = {W{W}W2000: {T}he developer\textquotesingle s view and a practitioner\textquotesingle s approach to web engineering},
+  year = {2000}
+}
+
+</title><tspan x="885" y="167">chris</tspan><tspan x="885" y="179">todou</tspan><tspan x="885" y="191">lou</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034319879&amp;doi=10.1016%2fS0950-5849%2800%2900153-1&amp;partnerID=40&amp;md5=86488c0314b34fd4b99ed5e35987c52f"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="864" y="278"><title>Comparative study of two software development cost modeling techniques using multi-organizational and company-specific data
+Jeffery, R. and Ruhe, M. and Wieczorek, I.
+
+@article{jeffery2000a,
+  author = {Jeffery, R. and Ruhe, M. and Wieczorek, I.},
+  doi = {10.1016/S0950-5849(00)00153-1},
+  journal = {Information \&amp; Software Technology},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034319879\&amp;doi=10.1016\%2fS0950-5849\%2800\%2900153-1\&amp;partnerID=40\&amp;md5=86488c0314b34fd4b99ed5e35987c52f},
+  number = {14},
+  pages = {1009-1016},
+  title = {{C}omparative study of two software development cost modeling techniques using multi-organizational and company-specific data},
+  volume = {42},
+  year = {2000}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="885" y="299"><title>Comparative study of two software development cost modeling techniques using multi-organizational and company-specific data
+Jeffery, R. and Ruhe, M. and Wieczorek, I.
+
+@article{jeffery2000a,
+  author = {Jeffery, R. and Ruhe, M. and Wieczorek, I.},
+  doi = {10.1016/S0950-5849(00)00153-1},
+  journal = {Information \&amp; Software Technology},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034319879\&amp;doi=10.1016\%2fS0950-5849\%2800\%2900153-1\&amp;partnerID=40\&amp;md5=86488c0314b34fd4b99ed5e35987c52f},
+  number = {14},
+  pages = {1009-1016},
+  title = {{C}omparative study of two software development cost modeling techniques using multi-organizational and company-specific data},
+  volume = {42},
+  year = {2000}
+}
+
+</title><tspan x="885" y="293">jeffe</tspan><tspan x="885" y="305">ry</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035023813&amp;partnerID=40&amp;md5=8c7929cac6f9e744842d3fb6aa5aff18"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="960" y="38"><title>Using public domain metrics to estimate software development effort
+Jeffery, R. and Ruhe, M. and Wieczorek, I.
+
+@inproceedings{jeffery2001a,
+  author = {Jeffery, R. and Ruhe, M. and Wieczorek, I.},
+  booktitle = {International Software Metrics Symposium},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035023813\&amp;partnerID=40\&amp;md5=8c7929cac6f9e744842d3fb6aa5aff18},
+  pages = {16-27},
+  title = {{U}sing public domain metrics to estimate software development effort},
+  year = {2001}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="981" y="59"><title>Using public domain metrics to estimate software development effort
+Jeffery, R. and Ruhe, M. and Wieczorek, I.
+
+@inproceedings{jeffery2001a,
+  author = {Jeffery, R. and Ruhe, M. and Wieczorek, I.},
+  booktitle = {International Software Metrics Symposium},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035023813\&amp;partnerID=40\&amp;md5=8c7929cac6f9e744842d3fb6aa5aff18},
+  pages = {16-27},
+  title = {{U}sing public domain metrics to estimate software development effort},
+  year = {2001}
+}
+
+</title><tspan x="981" y="53">jeffe</tspan><tspan x="981" y="65">ry</tspan></text></a><rect fill="#68BDF6" height="42" stroke="black" width="42" x="960" y="158"><title>What accuracy statistics really measure
+Kitchenham, B.A. and Pickard, L.M. and MacDonell, S.G. and Shepperd, M.J.
+
+@article{kitchenham2001a,
+  author = {Kitchenham, B.A. and Pickard, L.M. and MacDonell, S.G. and Shepperd, M.J.},
+  doi = {10.1049/ip-sen:20010506},
+  journal = {IEEE Software},
+  number = {3},
+  pages = {81-85},
+  title = {{W}hat accuracy statistics really measure},
+  volume = {148},
+  year = {2001}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="981" y="179"><title>What accuracy statistics really measure
+Kitchenham, B.A. and Pickard, L.M. and MacDonell, S.G. and Shepperd, M.J.
+
+@article{kitchenham2001a,
+  author = {Kitchenham, B.A. and Pickard, L.M. and MacDonell, S.G. and Shepperd, M.J.},
+  doi = {10.1049/ip-sen:20010506},
+  journal = {IEEE Software},
+  number = {3},
+  pages = {81-85},
+  title = {{W}hat accuracy statistics really measure},
+  volume = {148},
+  year = {2001}
+}
+
+</title><tspan x="981" y="173">kitch</tspan><tspan x="981" y="185">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="960" y="278"><title>Using simulation to evaluate prediction techniques
+Shepperd, M. and Kadoda, G.
+
+@inproceedings{shepperd2001a,
+  author = {Shepperd, M. and Kadoda, G.},
+  booktitle = {International Software Metrics Symposium},
+  pages = {349-359},
+  title = {{U}sing simulation to evaluate prediction techniques},
+  year = {2001}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="981" y="299"><title>Using simulation to evaluate prediction techniques
+Shepperd, M. and Kadoda, G.
+
+@inproceedings{shepperd2001a,
+  author = {Shepperd, M. and Kadoda, G.},
+  booktitle = {International Software Metrics Symposium},
+  pages = {349-359},
+  title = {{U}sing simulation to evaluate prediction techniques},
+  year = {2001}
+}
+
+</title><tspan x="981" y="293">shepp</tspan><tspan x="981" y="305">erd</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1056" y="38"><title>Applied Statistics for Software Managers
+Maxwell, K.
+
+@article{maxwell2002a,
+  author = {Maxwell, K.},
+  journal = {Applied Statistics for Software Managers},
+  title = {{A}pplied {S}tatistics for {S}oftware {M}anagers},
+  year = {2002}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1077" y="59"><title>Applied Statistics for Software Managers
+Maxwell, K.
+
+@article{maxwell2002a,
+  author = {Maxwell, K.},
+  journal = {Applied Statistics for Software Managers},
+  title = {{A}pplied {S}tatistics for {S}oftware {M}anagers},
+  year = {2002}
+}
+
+</title><tspan x="1077" y="53">maxwe</tspan><tspan x="1077" y="65">ll</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1056" y="158"><title>Comparison of Web size measures for predicting Web design and authoring effort
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2002a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  doi = {10.1049/ip-sen:20020337},
+  journal = {IEEE Software},
+  number = {3},
+  pages = {86-92},
+  title = {{C}omparison of {W}eb size measures for predicting {W}eb design and authoring effort},
+  volume = {149},
+  year = {2002}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1077" y="179"><title>Comparison of Web size measures for predicting Web design and authoring effort
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2002a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  doi = {10.1049/ip-sen:20020337},
+  journal = {IEEE Software},
+  number = {3},
+  pages = {86-92},
+  title = {{C}omparison of {W}eb size measures for predicting {W}eb design and authoring effort},
+  volume = {149},
+  year = {2002}
+}
+
+</title><tspan x="1077" y="173">mende</tspan><tspan x="1077" y="185">s</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1056" y="278"><title>How valuable is company-specific data compared to multi-company data for software cost estimation?
+Wieczorek, I. and Ruhe, M.
+
+@inproceedings{wieczorek2002a,
+  author = {Wieczorek, I. and Ruhe, M.},
+  booktitle = {International Software Metrics Symposium},
+  doi = {10.1109/METRIC.2002.1011342},
+  pages = {237-246},
+  title = {{H}ow valuable is company-specific data compared to multi-company data for software cost estimation?},
+  volume = {2002-January},
+  year = {2002}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1077" y="299"><title>How valuable is company-specific data compared to multi-company data for software cost estimation?
+Wieczorek, I. and Ruhe, M.
+
+@inproceedings{wieczorek2002a,
+  author = {Wieczorek, I. and Ruhe, M.},
+  booktitle = {International Software Metrics Symposium},
+  doi = {10.1109/METRIC.2002.1011342},
+  pages = {237-246},
+  title = {{H}ow valuable is company-specific data compared to multi-company data for software cost estimation?},
+  volume = {2002-January},
+  year = {2002}
+}
+
+</title><tspan x="1077" y="293">wiecz</tspan><tspan x="1077" y="305">orek</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1152" y="38"><title>Investigating early web size measures for web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2003a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  journal = {Evaluation and Assessment in Software Engineering},
+  pages = {1-22},
+  title = {{I}nvestigating early web size measures for web cost estimation},
+  year = {2003}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1173" y="59"><title>Investigating early web size measures for web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2003a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  journal = {Evaluation and Assessment in Software Engineering},
+  pages = {1-22},
+  title = {{I}nvestigating early web size measures for web cost estimation},
+  year = {2003}
+}
+
+</title><tspan x="1173" y="53">mende</tspan><tspan x="1173" y="65">s</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1152" y="158"><title>A replicated assessment of the use of adaptation rules to improve Web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@inproceedings{mendes2003b,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  doi = {10.1109/ISESE.2003.1237969},
+  pages = {100-109},
+  title = {{A} replicated assessment of the use of adaptation rules to improve {W}eb cost estimation},
+  year = {2003}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1173" y="179"><title>A replicated assessment of the use of adaptation rules to improve Web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@inproceedings{mendes2003b,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  doi = {10.1109/ISESE.2003.1237969},
+  pages = {100-109},
+  title = {{A} replicated assessment of the use of adaptation rules to improve {W}eb cost estimation},
+  year = {2003}
+}
+
+</title><tspan x="1173" y="173">mende</tspan><tspan x="1173" y="185">s b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1248" y="38"><title>A comparison of cross-company and within-company effort estimation models for web applications
+Kitchenham, B. and Mendes, E.
+
+@inproceedings{kitchenham2004a,
+  author = {Kitchenham, B. and Mendes, E.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  pages = {47-55},
+  title = {{A} comparison of cross-company and within-company effort estimation models for web applications},
+  year = {2004}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1269" y="59"><title>A comparison of cross-company and within-company effort estimation models for web applications
+Kitchenham, B. and Mendes, E.
+
+@inproceedings{kitchenham2004a,
+  author = {Kitchenham, B. and Mendes, E.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  pages = {47-55},
+  title = {{A} comparison of cross-company and within-company effort estimation models for web applications},
+  year = {2004}
+}
+
+</title><tspan x="1269" y="53">kitch</tspan><tspan x="1269" y="65">enham</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-14844320530&amp;doi=10.1109%2fMETRIC.2004.1357920&amp;partnerID=40&amp;md5=21ac53c036518230cf33aa00cee788f0"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="1248" y="158"><title>Further comparison of cross-company and within-company effort estimation models for Web applications
+Mendes, E. and Kitchenham, B.
+
+@inproceedings{mendes2004a,
+  author = {Mendes, E. and Kitchenham, B.},
+  booktitle = {International Software Metrics Symposium},
+  doi = {10.1109/METRIC.2004.1357920},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-14844320530\&amp;doi=10.1109\%2fMETRIC.2004.1357920\&amp;partnerID=40\&amp;md5=21ac53c036518230cf33aa00cee788f0},
+  pages = {348-357},
+  title = {{F}urther comparison of cross-company and within-company effort estimation models for {W}eb applications},
+  year = {2004}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1269" y="179"><title>Further comparison of cross-company and within-company effort estimation models for Web applications
+Mendes, E. and Kitchenham, B.
+
+@inproceedings{mendes2004a,
+  author = {Mendes, E. and Kitchenham, B.},
+  booktitle = {International Software Metrics Symposium},
+  doi = {10.1109/METRIC.2004.1357920},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-14844320530\&amp;doi=10.1109\%2fMETRIC.2004.1357920\&amp;partnerID=40\&amp;md5=21ac53c036518230cf33aa00cee788f0},
+  pages = {348-357},
+  title = {{F}urther comparison of cross-company and within-company effort estimation models for {W}eb applications},
+  year = {2004}
+}
+
+</title><tspan x="1269" y="173">mende</tspan><tspan x="1269" y="185">s</tspan></text></a><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1344" y="38"><title>The Need for Web Engineering: An Introduction, Web Engineering:  An  Introduction.
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2005a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  journal = {Web  Engineering},
+  title = {{T}he {N}eed for {W}eb {E}ngineering: {A}n {I}ntroduction, {W}eb {E}ngineering:  {A}n  {I}ntroduction.},
+  year = {2005}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1365" y="59"><title>The Need for Web Engineering: An Introduction, Web Engineering:  An  Introduction.
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2005a,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  journal = {Web  Engineering},
+  title = {{T}he {N}eed for {W}eb {E}ngineering: {A}n {I}ntroduction, {W}eb {E}ngineering:  {A}n  {I}ntroduction.},
+  year = {2005}
+}
+
+</title><tspan x="1365" y="53">mende</tspan><tspan x="1365" y="65">s</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1344" y="158"><title>Investigating Web size metrics for early Web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2005b,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  doi = {10.1016/j.jss.2004.08.034},
+  journal = {Journal of Systems and Software},
+  number = {2},
+  pages = {157-172},
+  title = {{I}nvestigating {W}eb size metrics for early {W}eb cost estimation},
+  volume = {77},
+  year = {2005}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1365" y="179"><title>Investigating Web size metrics for early Web cost estimation
+Mendes, E. and Mosley, N. and Counsell, S.
+
+@article{mendes2005b,
+  author = {Mendes, E. and Mosley, N. and Counsell, S.},
+  doi = {10.1016/j.jss.2004.08.034},
+  journal = {Journal of Systems and Software},
+  number = {2},
+  pages = {157-172},
+  title = {{I}nvestigating {W}eb size metrics for early {W}eb cost estimation},
+  volume = {77},
+  year = {2005}
+}
+
+</title><tspan x="1365" y="173">mende</tspan><tspan x="1365" y="185">s b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1440" y="38"><title>Cross versus within-company cost estimation studies: A systematic review
+Kitchenham, B.A. and Mendes, E. and Travassos, G.H.
+
+@article{kitchenham2007a,
+  author = {Kitchenham, B.A. and Mendes, E. and Travassos, G.H.},
+  doi = {10.1109/TSE.2007.1001},
+  journal = {Transactions on Software Engineering},
+  number = {5},
+  pages = {316-329},
+  title = {{C}ross versus within-company cost estimation studies: {A} systematic review},
+  volume = {33},
+  year = {2007}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1461" y="59"><title>Cross versus within-company cost estimation studies: A systematic review
+Kitchenham, B.A. and Mendes, E. and Travassos, G.H.
+
+@article{kitchenham2007a,
+  author = {Kitchenham, B.A. and Mendes, E. and Travassos, G.H.},
+  doi = {10.1109/TSE.2007.1001},
+  journal = {Transactions on Software Engineering},
+  number = {5},
+  pages = {316-329},
+  title = {{C}ross versus within-company cost estimation studies: {A} systematic review},
+  volume = {33},
+  year = {2007}
+}
+
+</title><tspan x="1461" y="53">kitch</tspan><tspan x="1461" y="65">enham</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1440" y="158"><title>Effort estimation: How valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?
+Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.
+
+@inproceedings{mendes2007a,
+  author = {Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.},
+  booktitle = {International World Wide Web Conference},
+  doi = {10.1145/1242572.1242702},
+  pages = {963-972},
+  title = {{E}ffort estimation: {H}ow valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?},
+  year = {2007}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1461" y="179"><title>Effort estimation: How valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?
+Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.
+
+@inproceedings{mendes2007a,
+  author = {Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.},
+  booktitle = {International World Wide Web Conference},
+  doi = {10.1145/1242572.1242702},
+  pages = {963-972},
+  title = {{E}ffort estimation: {H}ow valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?},
+  year = {2007}
+}
+
+</title><tspan x="1461" y="173">mende</tspan><tspan x="1461" y="185">s</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1536" y="38"><title>Web Cost Estimation and Productivity Benchmarking
+Mendes, E.
+
+@article{mendes2008a,
+  author = {Mendes, E.},
+  journal = {IEEE Software},
+  pages = {194-222},
+  title = {{W}eb {C}ost {E}stimation and {P}roductivity {B}enchmarking},
+  year = {2008}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1557" y="59"><title>Web Cost Estimation and Productivity Benchmarking
+Mendes, E.
+
+@article{mendes2008a,
+  author = {Mendes, E.},
+  journal = {IEEE Software},
+  pages = {194-222},
+  title = {{W}eb {C}ost {E}stimation and {P}roductivity {B}enchmarking},
+  year = {2008}
+}
+
+</title><tspan x="1557" y="53">mende</tspan><tspan x="1557" y="65">s</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1536" y="158"><title>Cross-company vs. single-company web effort models using the Tukutuku database: An extended study
+Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.
+
+@article{mendes2008b,
+  author = {Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.},
+  doi = {10.1016/j.jss.2007.07.044},
+  journal = {Journal of Systems and Software},
+  number = {5},
+  pages = {673-690},
+  title = {{C}ross-company vs. single-company web effort models using the {T}ukutuku database: {A}n extended study},
+  volume = {81},
+  year = {2008}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1557" y="179"><title>Cross-company vs. single-company web effort models using the Tukutuku database: An extended study
+Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.
+
+@article{mendes2008b,
+  author = {Mendes, E. and Di Martino, S. and Ferrucci, F. and Gravino, C.},
+  doi = {10.1016/j.jss.2007.07.044},
+  journal = {Journal of Systems and Software},
+  number = {5},
+  pages = {673-690},
+  title = {{C}ross-company vs. single-company web effort models using the {T}ukutuku database: {A}n extended study},
+  volume = {81},
+  year = {2008}
+}
+
+</title><tspan x="1557" y="173">mende</tspan><tspan x="1557" y="185">s b</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1632" y="38"><title>A study of project selection and feature weighting for analogy based software cost estimation
+Li, Y.F. and Xie, M. and Goh, T.N.
+
+@article{li2009a,
+  author = {Li, Y.F. and Xie, M. and Goh, T.N.},
+  doi = {10.1016/j.jss.2008.06.001},
+  journal = {Journal of Systems and Software},
+  number = {2},
+  pages = {241-252},
+  title = {{A} study of project selection and feature weighting for analogy based software cost estimation},
+  volume = {82},
+  year = {2009}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1653" y="59"><title>A study of project selection and feature weighting for analogy based software cost estimation
+Li, Y.F. and Xie, M. and Goh, T.N.
+
+@article{li2009a,
+  author = {Li, Y.F. and Xie, M. and Goh, T.N.},
+  doi = {10.1016/j.jss.2008.06.001},
+  journal = {Journal of Systems and Software},
+  number = {2},
+  pages = {241-252},
+  title = {{A} study of project selection and feature weighting for analogy based software cost estimation},
+  volume = {82},
+  year = {2009}
+}
+
+</title><tspan x="1653" y="59">li</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1632" y="158"><title>On the relative value of cross-company and within-company data for defect prediction
+Turhan, B. and Menzies, T. and Bener, A.B. and Di Stefano, J.
+
+@article{turhan2009a,
+  author = {Turhan, B. and Menzies, T. and Bener, A.B. and Di Stefano, J.},
+  doi = {10.1007/s10664-008-9103-7},
+  journal = {Empirical Software Engineering},
+  number = {5},
+  pages = {540-578},
+  title = {{O}n the relative value of cross-company and within-company data for defect prediction},
+  volume = {14},
+  year = {2009}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1653" y="179"><title>On the relative value of cross-company and within-company data for defect prediction
+Turhan, B. and Menzies, T. and Bener, A.B. and Di Stefano, J.
+
+@article{turhan2009a,
+  author = {Turhan, B. and Menzies, T. and Bener, A.B. and Di Stefano, J.},
+  doi = {10.1007/s10664-008-9103-7},
+  journal = {Empirical Software Engineering},
+  number = {5},
+  pages = {540-578},
+  title = {{O}n the relative value of cross-company and within-company data for defect prediction},
+  volume = {14},
+  year = {2009}
+}
+
+</title><tspan x="1653" y="173">turha</tspan><tspan x="1653" y="185">n</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1728" y="38"><title>When to use data from other projects for effort estimation
+Kocaguneli, E. and Gay, G. and Menzies, T. and Yang, Y. and Eung, J.W.K.
+
+@inproceedings{kocaguneli2010a,
+  author = {Kocaguneli, E. and Gay, G. and Menzies, T. and Yang, Y. and Eung, J.W.K.},
+  booktitle = {IEEE/ACM International Conference on Automated Software Engineering},
+  doi = {10.1145/1858996.1859061},
+  pages = {321-324},
+  title = {{W}hen to use data from other projects for effort estimation},
+  year = {2010}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1749" y="59"><title>When to use data from other projects for effort estimation
+Kocaguneli, E. and Gay, G. and Menzies, T. and Yang, Y. and Eung, J.W.K.
+
+@inproceedings{kocaguneli2010a,
+  author = {Kocaguneli, E. and Gay, G. and Menzies, T. and Yang, Y. and Eung, J.W.K.},
+  booktitle = {IEEE/ACM International Conference on Automated Software Engineering},
+  doi = {10.1145/1858996.1859061},
+  pages = {321-324},
+  title = {{W}hen to use data from other projects for effort estimation},
+  year = {2010}
+}
+
+</title><tspan x="1749" y="53">kocag</tspan><tspan x="1749" y="65">uneli</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1824" y="38"><title>How to find relevant data for effort estimation?
+Kocaguneli, E. and Menzies, T.
+
+@inproceedings{kocaguneli2011a,
+  author = {Kocaguneli, E. and Menzies, T.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  pages = {255-264},
+  title = {{H}ow to find relevant data for effort estimation?},
+  year = {2011}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1845" y="59"><title>How to find relevant data for effort estimation?
+Kocaguneli, E. and Menzies, T.
+
+@inproceedings{kocaguneli2011a,
+  author = {Kocaguneli, E. and Menzies, T.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  pages = {255-264},
+  title = {{H}ow to find relevant data for effort estimation?},
+  year = {2011}
+}
+
+</title><tspan x="1845" y="53">kocag</tspan><tspan x="1845" y="65">uneli</tspan></text><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1824" y="158"><title>Local vs. global models for effort estimation and defect prediction
+Menzies, T. and Butcher, A. and Marcus, A. and Zimmermann, T. and Cok, D.
+
+@inproceedings{menzies2011a,
+  author = {Menzies, T. and Butcher, A. and Marcus, A. and Zimmermann, T. and Cok, D.},
+  booktitle = {IEEE/ACM International Conference on Automated Software Engineering},
+  doi = {10.1109/ASE.2011.6100072},
+  pages = {343-351},
+  title = {{L}ocal vs. global models for effort estimation and defect prediction},
+  year = {2011}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1845" y="179"><title>Local vs. global models for effort estimation and defect prediction
+Menzies, T. and Butcher, A. and Marcus, A. and Zimmermann, T. and Cok, D.
+
+@inproceedings{menzies2011a,
+  author = {Menzies, T. and Butcher, A. and Marcus, A. and Zimmermann, T. and Cok, D.},
+  booktitle = {IEEE/ACM International Conference on Automated Software Engineering},
+  doi = {10.1109/ASE.2011.6100072},
+  pages = {343-351},
+  title = {{L}ocal vs. global models for effort estimation and defect prediction},
+  year = {2011}
+}
+
+</title><tspan x="1845" y="173">menzi</tspan><tspan x="1845" y="185">es</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867703659&amp;doi=10.1145%2f2365324.2365330&amp;partnerID=40&amp;md5=ea1a26076f6603ca8dffbee099870e11"><rect fill="#6DCE9E" height="42" stroke="black" width="42" x="1920" y="38"><title>Web effort estimation: The value of cross-company data set compared to single-company data set
+Ferrucci, F. and Sarro, F. and Mendes, E.
+
+@inproceedings{ferrucci2012a,
+  author = {Ferrucci, F. and Sarro, F. and Mendes, E.},
+  booktitle = {ACM International Conference Proceeding Series},
+  doi = {10.1145/2365324.2365330},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867703659\&amp;doi=10.1145\%2f2365324.2365330\&amp;partnerID=40\&amp;md5=ea1a26076f6603ca8dffbee099870e11},
+  pages = {29-38},
+  title = {{W}eb effort estimation: {T}he value of cross-company data set compared to single-company data set},
+  year = {2012}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1941" y="59"><title>Web effort estimation: The value of cross-company data set compared to single-company data set
+Ferrucci, F. and Sarro, F. and Mendes, E.
+
+@inproceedings{ferrucci2012a,
+  author = {Ferrucci, F. and Sarro, F. and Mendes, E.},
+  booktitle = {ACM International Conference Proceeding Series},
+  doi = {10.1145/2365324.2365330},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867703659\&amp;doi=10.1145\%2f2365324.2365330\&amp;partnerID=40\&amp;md5=ea1a26076f6603ca8dffbee099870e11},
+  pages = {29-38},
+  title = {{W}eb effort estimation: {T}he value of cross-company data set compared to single-company data set},
+  year = {2012}
+}
+
+</title><tspan x="1941" y="53">ferru</tspan><tspan x="1941" y="65">cci</tspan></text></a><rect fill="#68BDF6" height="42" stroke="black" width="42" x="1920" y="158"><title>Exploiting the essential assumptions of analogy-based effort estimation
+Kocaguneli, E. and Menzies, T. and Bener, A.B. and Keung, J.W.
+
+@article{kocaguneli2012a,
+  author = {Kocaguneli, E. and Menzies, T. and Bener, A.B. and Keung, J.W.},
+  doi = {10.1109/TSE.2011.27},
+  journal = {Transactions on Software Engineering},
+  number = {2},
+  pages = {425-438},
+  title = {{E}xploiting the essential assumptions of analogy-based effort estimation},
+  volume = {38},
+  year = {2012}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1941" y="179"><title>Exploiting the essential assumptions of analogy-based effort estimation
+Kocaguneli, E. and Menzies, T. and Bener, A.B. and Keung, J.W.
+
+@article{kocaguneli2012a,
+  author = {Kocaguneli, E. and Menzies, T. and Bener, A.B. and Keung, J.W.},
+  doi = {10.1109/TSE.2011.27},
+  journal = {Transactions on Software Engineering},
+  number = {2},
+  pages = {425-438},
+  title = {{E}xploiting the essential assumptions of analogy-based effort estimation},
+  volume = {38},
+  year = {2012}
+}
+
+</title><tspan x="1941" y="173">kocag</tspan><tspan x="1941" y="185">uneli</tspan></text><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,223.3846153846154 1653,223.3846153846154 1653,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; turhan2009
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,106.36363636363636 1461,106.36363636363636 1461,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kitchenham2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,112.81818181818181 1269,112.81818181818181 1269,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kitchenham2004
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,145.0909090909091 309,145.0909090909091 309,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; conte1986
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,138.63636363636363 501,138.63636363636363 501,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; cohen1988
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,151.54545454545456 117,151.54545454545456 117,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; cook1977
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,132.1818181818182 693,132.1818181818182 693,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kitchenham1998
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,135.4090909090909 597,135.4090909090909 597,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kitchenham1995
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,261.61538461538464 981,261.61538461538464 981,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kitchenham2001
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,96.68181818181819 1749,96.68181818181819 1749,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; kocaguneli2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1920" x2="1873" y1="59" y2="59"><title>ferrucci2012 -&gt; kocaguneli2011
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1941" x2="1941" y1="80" y2="151"><title>ferrucci2012 -&gt; kocaguneli2012
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,99.9090909090909 1653,99.9090909090909 1653,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; li2009
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,119.27272727272728 1077,119.27272727272728 1077,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; maxwell2002
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,103.13636363636364 1557,103.13636363636364 1557,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,256.15384615384613 1077,256.15384615384613 1077,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes2002
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,116.04545454545455 1173,116.04545454545455 1173,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes2003
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,109.5909090909091 1365,109.5909090909091 1365,87" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes2005
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,239.76923076923077 1365,239.76923076923077 1365,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes b2005
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,234.30769230769232 1461,234.30769230769232 1461,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,228.84615384615384 1557,228.84615384615384 1557,207" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; mendes b2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1920" x2="1873" y1="80" y2="151"><title>ferrucci2012 -&gt; menzies2011
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1920,59 1882.4,59 1882.4,362.5 981,362.5 981,327" stroke="black" stroke-opacity="0.3"><title>ferrucci2012 -&gt; shepperd2001
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,128.95454545454544 789,128.95454545454544 789,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; briand1999
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,125.72727272727272 885,125.72727272727272 885,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; briand2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,267.0769230769231 885,267.0769230769231 885,207" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; christodoulou2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,151.54545454545456 117,151.54545454545456 117,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; cook1977
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,380.25 885,380.25 885,327" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; jeffery2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,122.5 981,122.5 981,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; jeffery2001
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,141.86363636363637 405,141.86363636363637 405,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; kemerer1987
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,132.1818181818182 693,132.1818181818182 693,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; kitchenham1998
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1269" x2="1269" y1="158" y2="87"><title>mendes2004 -&gt; kitchenham2004
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,148.3181818181818 213,148.3181818181818 213,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; kitchenham1984
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,261.61538461538464 981,261.61538461538464 981,207" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; kitchenham2001
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,119.27272727272728 1077,119.27272727272728 1077,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; maxwell2002
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1248" x2="1201" y1="158" y2="87"><title>mendes2004 -&gt; mendes2003
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><line marker-end="url(#id6)" stroke="black" stroke-opacity="0.3" x1="1248" x2="1201" y1="179" y2="179"><title>mendes2004 -&gt; mendes b2003
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,362.5 981,362.5 981,327" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; shepperd2001
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,299 1105,299" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; wieczorek2002
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id6)" pointer-events="stroke" points="1248,179 1219.8,179 1219.8,154.77272727272725 21,154.77272727272725 21,87" stroke="black" stroke-opacity="0.3"><title>mendes2004 -&gt; wilcoxon1945
+
+ref: 
+contexts: []</title></polyline></g><text style="font-size:20px" text-anchor="middle" x="21" y="20">1945</text><text style="font-size:20px" text-anchor="middle" x="117" y="20">1977</text><text style="font-size:20px" text-anchor="middle" x="213" y="20">1984</text><text style="font-size:20px" text-anchor="middle" x="309" y="20">1986</text><text style="font-size:20px" text-anchor="middle" x="405" y="20">1987</text><text style="font-size:20px" text-anchor="middle" x="501" y="20">1988</text><text style="font-size:20px" text-anchor="middle" x="597" y="20">1995</text><text style="font-size:20px" text-anchor="middle" x="693" y="20">1998</text><text style="font-size:20px" text-anchor="middle" x="789" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="885" y="20">2000</text><text style="font-size:20px" text-anchor="middle" x="981" y="20">2001</text><text style="font-size:20px" text-anchor="middle" x="1077" y="20">2002</text><text style="font-size:20px" text-anchor="middle" x="1173" y="20">2003</text><text style="font-size:20px" text-anchor="middle" x="1269" y="20">2004</text><text style="font-size:20px" text-anchor="middle" x="1365" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="1461" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="1557" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="1653" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="1749" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="1845" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="1941" y="20">2012</text></svg>
