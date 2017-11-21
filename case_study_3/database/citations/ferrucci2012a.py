@@ -14,6 +14,7 @@ from ..work.y2002 import maxwell2002a
 from ..work.y2002 import mendes2002a
 from ..work.y2003 import mendes2003a
 from ..work.y2004 import kitchenham2004a
+from ..work.y2004 import mendes2004a
 from ..work.y2005 import mendes2005a
 from ..work.y2005 import mendes2005b
 from ..work.y2007 import kitchenham2007a
@@ -148,6 +149,14 @@ DB(Citation(
 
     ],
 ))
+
+DB(Citation(
+    ferrucci2012a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
 
 DB(Citation(
     ferrucci2012a, mendes2005a, ref="",
