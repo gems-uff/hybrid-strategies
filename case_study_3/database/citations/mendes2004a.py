@@ -28,19 +28,58 @@ from ..work.y2005 import mendes2005c
 from ..work.y2006 import kitchenham2006a
 from ..work.y2006 import costagliola2006a
 from ..work.y2006 import lokan2006a
+from ..work.y2006 import al2006a
+from ..work.y2006 import costagliola2006b
+from ..work.y2006 import lall2006a
 from ..work.y2007 import kitchenham2007a
 from ..work.y2007 import baresi2007a
 from ..work.y2007 import mendes2007b
+from ..work.y2007 import mendes2007c
+from ..work.y2007 import mendes2007a
+from ..work.y2007 import martino2007a
+from ..work.y2007 import mendes2007d
+from ..work.y2007 import premraj2007a
 from ..work.y2008 import keung2008a
 from ..work.y2008 import mendes2008d
 from ..work.y2008 import watanabe2008a
 from ..work.y2008 import mendes2008e
 from ..work.y2008 import mendes2008b
+from ..work.y2008 import mendes2008c
+from ..work.y2008 import ferrucci2008a
+from ..work.y2008 import keung2008b
+from ..work.y2008 import huang2008a
+from ..work.y2008 import lokan2008a
 from ..work.y2009 import zimmermann2009a
 from ..work.y2009 import keung2009a
+from ..work.y2009 import mendes2009a
+from ..work.y2009 import corazza2009a
+from ..work.y2009 import mendes2009b
+from ..work.y2009 import ferrucci2009a
+from ..work.y2009 import martino2009a
 from ..work.y2010 import kocaguneli2010a
+from ..work.y2010 import mittas2010a
+from ..work.y2010 import ferrucci2010a
+from ..work.y2010 import mittas2010b
+from ..work.y2010 import ferrucci2010b
+from ..work.y2010 import abrahão2010a
+from ..work.y2010 import buglione2010a
+from ..work.y2010 import baker2010a
+from ..work.y2011 import corazza2011a
+from ..work.y2011 import martino2011a
 from ..work.y2012 import wen2012a
 from ..work.y2012 import shepperd2012a
+from ..work.y2012 import marco2012a
+from ..work.y2013 import corazza2013a
+from ..work.y2013 import azhar2013a
+from ..work.y2013 import marco2013a
+from ..work.y2013 import matos2013a
+from ..work.y2014 import mendes2014a
+from ..work.y2015 import wieringa2015a
+from ..work.y2015 import minku2015a
+from ..work.y2015 import mittas2015a
+from ..work.y2015 import francese2015a
+from ..work.y2015 import ferrucci2015a
+from ..work.y2016 import martino2016a
 
 DB(Citation(
     mendes2004a, briand1999a, ref="",
@@ -297,6 +336,280 @@ DB(Citation(
 
 DB(Citation(
     mendes2008b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2008c, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mittas2010a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    corazza2013a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wieringa2015a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2008a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2010a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2007c, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    al2006a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2007a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martino2007a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2007d, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    keung2008b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    corazza2011a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    costagliola2006b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mittas2010b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2009a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    corazza2009a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    premraj2007a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2009b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    azhar2013a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    huang2008a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2009a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lokan2008a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2010b, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abrahão2010a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    marco2013a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    buglione2010a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2014a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    minku2015a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mittas2015a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    baker2010a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    francese2015a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martino2011a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    matos2013a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martino2016a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    marco2012a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2015a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lall2006a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martino2009a, mendes2004a, ref="",
     contexts=[
 
     ],

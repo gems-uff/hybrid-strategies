@@ -42,6 +42,19 @@ kocaguneli2012a = DB(WorkOk(
     scholar_ok=True,
 ))
 
+marco2012a = DB(WorkUnrelated(
+    2012, "Functional versus design measures for model-driven Web applications: A case study in the context of Web effort estimation",
+    display="marco",
+    authors="De Marco, Lucia and Ferrucci, Filomena and Gravino, Carmine and Sarro, Federica and Abrahao, Silvia and Gomez, Jaime",
+    pp="21--27",
+    place=IWETSM,
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="de2012functional",
+    cluster_id="2423632599402860861",
+    scholar="http://scholar.google.com/scholar?cites=2423632599402860861&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 shepperd2012a = DB(WorkUnrelated(
     2012, "Evaluating prediction systems in software project estimation",
     display="shepperd",

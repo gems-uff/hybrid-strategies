@@ -37,6 +37,19 @@ kitchenham2007a = DB(WorkOk(
     excerpt="Abstract: The objective of this paper is to determine under what circumstances individual organizations would be able to rely on cross-company-based estimation models. We performed a systematic review of studies that compared predictions from cross-company ",
 ))
 
+martino2007a = DB(WorkUnrelated(
+    2007, "Comparing size measures for predicting web application development effort: a case study",
+    display="martino",
+    authors="Di Martino, Sergio and Ferrucci, Filomena and Gravino, Carmine and Mendes, Emilia",
+    place=ESEM,
+    pp="324--333",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="di2007comparing",
+    cluster_id="11352876494609783703",
+    scholar="http://scholar.google.com/scholar?cites=11352876494609783703&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 mendes2007a = DB(WorkOk(
     2007, "Effort estimation: how valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?",
     display="mendes",
@@ -51,6 +64,7 @@ mendes2007a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=1433474841917917990&as_sdt=2005&sciodt=0,5&hl=en",
     organization="ACM",
     scholar_ok=True,
+    excerpt="Abstract Previous studies comparing the prediction accuracy of effort models built using Web cross-and single-company data sets have been inconclusive, and as such replicated studies are necessary to determine under what circumstances a company can place reliance on a ",
 ))
 
 mendes2007b = DB(WorkUnrelated(
@@ -64,4 +78,41 @@ mendes2007b = DB(WorkUnrelated(
     ID="mendes2007comparison",
     cluster_id="13310036169224061952",
     scholar="http://scholar.google.com/scholar?cites=13310036169224061952&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+mendes2007c = DB(WorkUnrelated(
+    2007, "Predicting Web Development Effort Using a Bayesian Network.",
+    display="mendes c",
+    authors="Mendes, Emilia",
+    place=EASE,
+    entrytype="inproceedings",
+    ID="mendes2007predicting",
+    cluster_id="12517914100752042468",
+    scholar="http://scholar.google.com/scholar?cites=12517914100752042468&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+mendes2007d = DB(WorkUnrelated(
+    2007, "The use of a Bayesian network for web effort estimation",
+    display="mendes d",
+    authors="Mendes, Emilia",
+    place=WE,
+    pp="90--104",
+    entrytype="article",
+    publisher="Springer",
+    ID="mendes2007use",
+    cluster_id="5606683204247937713",
+    scholar="http://scholar.google.com/scholar?cites=5606683204247937713&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+premraj2007a = DB(WorkUnrelated(
+    2007, "Building software cost estimation models using homogenous data",
+    display="premraj",
+    authors="Premraj, Rahul and Zimmermann, Thomas",
+    place=ESEM,
+    pp="393--400",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="premraj2007building",
+    cluster_id="8455703022459318692",
+    scholar="http://scholar.google.com/scholar?cites=8455703022459318692&as_sdt=2005&sciodt=0,5&hl=en",
 ))

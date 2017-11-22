@@ -3,6 +3,34 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ferrucci2008a = DB(WorkUnrelated(
+    2008, "A case study using web objects and cosmic for effort estimation of web applications",
+    display="ferrucci",
+    authors="Ferrucci, Filomena and Gravino, Carmine and Di Martino, Sergio",
+    place=SEAA,
+    pp="441--448",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ferrucci2008case",
+    cluster_id="17383175569738561073",
+    scholar="http://scholar.google.com/scholar?cites=17383175569738561073&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+huang2008a = DB(WorkUnrelated(
+    2008, "A comparative evaluation on the accuracies of software effort estimates from clustered data",
+    display="huang",
+    authors="Huang, Sun-Jen and Chiu, Nan-Hsing and Liu, Yu-Jen",
+    place=IST,
+    pp="879--888",
+    entrytype="article",
+    volume="50",
+    number="9",
+    publisher="Elsevier",
+    ID="huang2008comparative",
+    cluster_id="13000877372289336613",
+    scholar="http://scholar.google.com/scholar?cites=13000877372289336613&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 keung2008a = DB(WorkUnrelated(
     2008, "Analogy-X: Providing statistical inference to analogy-based software cost estimation",
     display="keung",
@@ -16,6 +44,30 @@ keung2008a = DB(WorkUnrelated(
     ID="keung2008analogy",
     cluster_id="12009189441116845424",
     scholar="http://scholar.google.com/scholar?cites=12009189441116845424&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+keung2008b = DB(WorkUnrelated(
+    2008, "Theoretical maximum prediction accuracy for analogy-based software cost estimation",
+    display="keung b",
+    authors="Keung, Jacky W",
+    place=SEC,
+    pp="495--502",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="keung2008theoretical",
+    cluster_id="11163360531945972110",
+    scholar="http://scholar.google.com/scholar?cites=11163360531945972110&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+lokan2008a = DB(WorkUnrelated(
+    2008, "Investigating the Use of Chronological Splitting to Compare Software Cross-company and Single-company Effort Predictions.",
+    display="lokan",
+    authors="Lokan, Chris and Mendes, Emilia",
+    place=EASE,
+    entrytype="inproceedings",
+    ID="lokan2008investigating",
+    cluster_id="5663078792478747345",
+    scholar="http://scholar.google.com/scholar?cites=5663078792478747345&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 mendes2008a = DB(WorkOk(

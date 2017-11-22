@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+corazza2011a = DB(WorkUnrelated(
+    2011, "Investigating the use of Support Vector Regression for web effort estimation",
+    display="corazza",
+    authors="Corazza, Anna and Di Martino, Sergio and Ferrucci, Filomena and Gravino, Carmine and Mendes, Emilia",
+    place=ESE,
+    pp="211--243",
+    entrytype="article",
+    volume="16",
+    number="2",
+    publisher="Springer",
+    ID="corazza2011investigating",
+    cluster_id="2389357472623947693",
+    scholar="http://scholar.google.com/scholar?cites=2389357472623947693&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 kocaguneli2011a = DB(WorkOk(
     2011, "How to find relevant data for effort estimation?",
     display="kocaguneli",
@@ -17,6 +32,19 @@ kocaguneli2011a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=15069744916596527173&as_sdt=2005&sciodt=0,5&hl=en",
     organization="IEEE",
     scholar_ok=True,
+))
+
+martino2011a = DB(WorkUnrelated(
+    2011, "Using web objects for development effort estimation of web applications: a replicated study",
+    display="martino",
+    authors="Di Martino, Sergio and Ferrucci, Filomena and Gravino, Carmine and Sarro, Federica",
+    place=ICPFSPI,
+    pp="186--201",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="di2011using",
+    cluster_id="5521763665436668575",
+    scholar="http://scholar.google.com/scholar?cites=5521763665436668575&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 menzies2011a = DB(WorkOk(
