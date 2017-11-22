@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+baresi2007a = DB(WorkUnrelated(
+    2007, "Three empirical studies on estimating the design effort of Web applications",
+    display="baresi",
+    authors="Baresi, Luciano and Morasca, Sandro",
+    place=ToSE,
+    pp="15",
+    entrytype="article",
+    volume="16",
+    number="4",
+    publisher="ACM",
+    ID="baresi2007three",
+    cluster_id="6061082431312166438",
+    scholar="http://scholar.google.com/scholar?cites=6061082431312166438&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 kitchenham2007a = DB(WorkOk(
     2007, "Cross versus within-company cost estimation studies: A systematic review",
     display="kitchenham",
@@ -19,6 +34,7 @@ kitchenham2007a = DB(WorkOk(
     publisher="IEEE",
     scholar="http://scholar.google.com/scholar?cites=5114316298578620154&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
+    excerpt="Abstract: The objective of this paper is to determine under what circumstances individual organizations would be able to rely on cross-company-based estimation models. We performed a systematic review of studies that compared predictions from cross-company ",
 ))
 
 mendes2007a = DB(WorkOk(
@@ -35,4 +51,17 @@ mendes2007a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=1433474841917917990&as_sdt=2005&sciodt=0,5&hl=en",
     organization="ACM",
     scholar_ok=True,
+))
+
+mendes2007b = DB(WorkUnrelated(
+    2007, "A comparison of techniques for web effort estimation",
+    display="mendes b",
+    authors="Mendes, Emilia",
+    place=ESEM,
+    pp="334--343",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="mendes2007comparison",
+    cluster_id="13310036169224061952",
+    scholar="http://scholar.google.com/scholar?cites=13310036169224061952&as_sdt=2005&sciodt=0,5&hl=en",
 ))

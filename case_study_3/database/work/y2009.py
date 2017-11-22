@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+keung2009a = DB(WorkUnrelated(
+    2009, "Software development cost estimation using analogy: a review",
+    display="keung",
+    authors="Keung, Jacky",
+    pp="327--336",
+    place=SEC,
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="keung2009software",
+    cluster_id="6415516270722640394",
+    scholar="http://scholar.google.com/scholar?cites=6415516270722640394&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 li2009a = DB(WorkOk(
     2009, "A study of project selection and feature weighting for analogy based software cost estimation",
     display="li",
@@ -37,4 +50,17 @@ turhan2009a = DB(WorkOk(
     publisher="Springer",
     scholar="http://scholar.google.com/scholar?cites=13277074253271673952&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
+))
+
+zimmermann2009a = DB(WorkUnrelated(
+    2009, "Cross-project defect prediction: a large scale experiment on data vs. domain vs. process",
+    display="zimmermann",
+    authors="Zimmermann, Thomas and Nagappan, Nachiappan and Gall, Harald and Giger, Emanuel and Murphy, Brendan",
+    place=SIGSOFT,
+    pp="91--100",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="zimmermann2009cross",
+    cluster_id="17791469851272012598",
+    scholar="http://scholar.google.com/scholar?cites=17791469851272012598&as_sdt=2005&sciodt=0,5&hl=en",
 ))

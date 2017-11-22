@@ -44,13 +44,18 @@ MODELSWARD = conference("MODELSWARD", "Model-Driven Engineering and Software Dev
 MS = journal("MS", "Management Science")
 
 ICSTW = conference("ICSTW", "Software Testing, Verification and Validation Workshops")
+ISESE = conference("ISESE","ACM/IEEE international symposium on Empirical software engineering")
 
+PMSE = conference("PMSE","international workshop on Predictor models in software engineering")
 PROFES = conference("PROFES", "Product-Focused Software Process Improvement: 17th International Conference, PROFES 2016")
 
 RCIS = conference("RCIS","Research Challenges in Information Science")
 REFSQ = conference("REFSQ", "International Working Conference on Requirements Engineering: Foundation for Software Quality")
 
 SCAM = conference("SCAM", "Source Code Analysis and Manipulation, 2016 IEEE 16th International Working Conference on")
+SEC=conference("SEC","Software Engineering Conference")
+SIGSOFT = conference("SIGSOFT","European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering")
+SM=conference("SM","Software Metrics")
 SQJ = journal("SQJ", "Software Quality Journal")
 SQRS = conference("SQRS", "Software Quality, Reliability and Security")
 

@@ -41,3 +41,33 @@ kocaguneli2012a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=7026699471245301107&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
 ))
+
+shepperd2012a = DB(WorkUnrelated(
+    2012, "Evaluating prediction systems in software project estimation",
+    display="shepperd",
+    authors="Shepperd, Martin and MacDonell, Steve",
+    place=IST,
+    pp="820--827",
+    entrytype="article",
+    volume="54",
+    number="8",
+    publisher="Elsevier",
+    ID="shepperd2012evaluating",
+    cluster_id="1730979205044074335",
+    scholar="http://scholar.google.com/scholar?cites=1730979205044074335&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+wen2012a = DB(WorkUnrelated(
+    2012, "Systematic literature review of machine learning based software development effort estimation models",
+    display="wen",
+    authors="Wen, Jianfeng and Li, Shixian and Lin, Zhiyong and Hu, Yong and Huang, Changqin",
+    place=IST,
+    pp="41--59",
+    entrytype="article",
+    volume="54",
+    number="1",
+    publisher="Elsevier",
+    ID="wen2012systematic",
+    cluster_id="13194848204925514356",
+    scholar="http://scholar.google.com/scholar?cites=13194848204925514356&as_sdt=2005&sciodt=0,5&hl=en",
+))

@@ -17,4 +17,5 @@ kocaguneli2010a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=432928610246535648&as_sdt=2005&sciodt=0,5&hl=en",
     organization="ACM",
     scholar_ok=True,
+    excerpt="Abstract Collecting the data required for quality prediction within a development team is time-consuming and expensive. An alternative to make predictions using data that crosses from other projects or even other companies. We show that with/without relevancy filtering, ",
 ))
