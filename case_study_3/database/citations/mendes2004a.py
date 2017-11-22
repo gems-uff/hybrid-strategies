@@ -44,7 +44,7 @@ from ..work.y2008 import mendes2008d
 from ..work.y2008 import watanabe2008a
 from ..work.y2008 import mendes2008e
 from ..work.y2008 import mendes2008b
-from ..work.y2008 import mendes2008c
+#from ..work.y2008 import mendes2008c
 from ..work.y2008 import ferrucci2008a
 from ..work.y2008 import keung2008b
 from ..work.y2008 import huang2008a
@@ -81,12 +81,6 @@ from ..work.y2015 import francese2015a
 from ..work.y2015 import ferrucci2015a
 from ..work.y2016 import martino2016a
 
-DB(Citation(
-    mendes2004a, briand1999a, ref="",
-    contexts=[
-
-    ],
-))
 
 DB(Citation(
     mendes2004a, briand2000a, ref="",
@@ -341,12 +335,6 @@ DB(Citation(
     ],
 ))
 
-DB(Citation(
-    mendes2008c, mendes2004a, ref="",
-    contexts=[
-
-    ],
-))
 
 DB(Citation(
     mittas2010a, mendes2004a, ref="",
@@ -610,6 +598,13 @@ DB(Citation(
 
 DB(Citation(
     martino2009a, mendes2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendes2004a, briand1999a, ref="",
     contexts=[
 
     ],

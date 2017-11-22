@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-jeffery2001a = DB(WorkSnowball(
+jeffery2001a = DB(WorkOk(
     2001, "Using public domain metrics to estimate software development effort",
     display="jeffery",
     authors="Jeffery, Ross and Ruhe, Melanie and Wieczorek, Isabella",
