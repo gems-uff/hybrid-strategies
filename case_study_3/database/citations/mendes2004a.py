@@ -56,6 +56,7 @@ from ..work.y2009 import corazza2009a
 from ..work.y2009 import mendes2009b
 from ..work.y2009 import ferrucci2009a
 from ..work.y2009 import martino2009a
+from ..work.y2009 import lang2009a
 from ..work.y2010 import kocaguneli2010a
 from ..work.y2010 import mittas2010a
 from ..work.y2010 import ferrucci2010a
@@ -605,6 +606,13 @@ DB(Citation(
 
 DB(Citation(
     mendes2004a, briand1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2009a, mendes2004a, ref="",
     contexts=[
 
     ],

@@ -48,7 +48,7 @@ config.WORK_FIELDS = [
     "ref", "local", "editors", "awards",
     "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations",
 
-    "scopus", "acm", "ieee",
+    "scopus", "acm", "ieee", "gs",
 ]
 
 ### Ignore fields when exporting to BibTeX

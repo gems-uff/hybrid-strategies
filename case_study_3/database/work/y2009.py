@@ -42,6 +42,19 @@ keung2009a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=6415516270722640394&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+lang2009a = DB(WorkUnrelated(
+    2009, "ソフトウェア開発工数予測のためのフィットデータ選定方法",
+    display="lang2009a",
+    authors="戸田航史， 門田暁人， 松本健一 and others",
+    pp="2699--2709",
+    place=Lang,
+    entrytype="article",
+    volume="50",
+    number="11",
+    cluster_id="17787952765004106663",
+    scholar="http://scholar.google.com/scholar?cites=17787952765004106663&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 li2009a = DB(WorkOk(
     2009, "A study of project selection and feature weighting for analogy based software cost estimation",
     display="li",
