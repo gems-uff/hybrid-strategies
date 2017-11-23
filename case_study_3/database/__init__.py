@@ -46,7 +46,9 @@ config.WORK_FIELDS = [
     "doi", "isbn",  "proceedings", "issn",
     "organization", "publisher", "school", "institution", "track",
     "ref", "local", "editors", "awards",
-    "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations"
+    "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations",
+
+    "scopus", "acm", "ieee",
 ]
 
 ### Ignore fields when exporting to BibTeX
@@ -61,7 +63,7 @@ config.BIBTEX_IGNORE_FIELDS = [
     "may_be_related_to", "ignore", "generate_title", "note",
 
     # Extra
-    "summary", "star", "approach_name", "other1"
+    "summary", "star", "approach_name", "other1", "document_type", "source", "art_number"
 ]
 
 

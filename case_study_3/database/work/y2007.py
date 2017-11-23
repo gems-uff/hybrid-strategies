@@ -104,7 +104,7 @@ mendes2007d = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=5606683204247937713&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-premraj2007a = DB(WorkUnrelated(
+premraj2007a = DB(WorkSnowball(
     2007, "Building software cost estimation models using homogenous data",
     display="premraj",
     authors="Premraj, Rahul and Zimmermann, Thomas",
