@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-kitchenham2004a = DB(WorkSnowball(
+kitchenham2004a = DB(WorkUnrelated(
     2004, "A comparison of cross-company and within-company effort estimation models for web applications",
     display="kitchenham",
     authors="Kitchenham, B. and Mendes, E.",

@@ -18,7 +18,7 @@ briand2000a = DB(WorkOk(
     scholar_ok=True,
 ))
 
-christodoulou2000a = DB(Work(
+christodoulou2000a = DB(WorkOk(
     2000, "WWW2000: The Developer's view and a practitioner's approach to Web Engineering",
     display="christodoulou",
     authors="Christodoulou, SP and Zafiris, PA and Papatheodorou, TS",
@@ -53,4 +53,28 @@ jeffery2000a = DB(WorkSnowball(
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=16519626103620850913&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
+))
+
+maxwell2000a = DB(WorkOk(
+    2000, "Benchmarking software development productivity",
+    display="maxwell",
+    authors="Maxwell, K.D. and Forselius, P.",
+    place=IEEES,
+    pp="80-88",
+    entrytype="article",
+    volume="17",
+    number="1",
+    doi="10.1109/52.820015",
+    note="cited By 67",
+    ID="Maxwell200080",
+))
+
+ruhe2000a = DB(WorkOk(
+    2000, "Comparative Study of Project Effort Estimation Methods by Using Public Domain Multi-Organizational and Organization-specific Project Data",
+    display="ruhe",
+    authors="Ruhe, M.",
+    place=CAESAR,
+    entrytype="article",
+    note="cited By 1",
+    ID="Ruhe2000",
 ))

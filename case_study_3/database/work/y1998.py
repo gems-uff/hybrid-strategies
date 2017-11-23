@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+delany1998a = DB(WorkOk(
+    1998, "The limits of CBR in software project estimation",
+    display="delany",
+    authors="Delany, S.J. and Cunningham, P. and Wilke, W.",
+    place=GWCBR,
+    entrytype="article",
+    note="cited By 5",
+    ID="Delany1998",
+))
+
 kitchenham1998a = DB(WorkOk(
     1998, "A procedure for analyzing unbalanced datasets",
     display="kitchenham",

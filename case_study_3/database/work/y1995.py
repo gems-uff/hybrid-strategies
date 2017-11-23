@@ -20,3 +20,13 @@ kitchenham1995a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=12241397539777438347&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
 ))
+
+rice1995a = DB(WorkOk(
+    1995, "Mathematical Statistics and Data Analysis",
+    display="rice",
+    authors="Rice, J.A.",
+    place=DP,
+    entrytype="article",
+    note="cited By 1987",
+    ID="Rice1995",
+))

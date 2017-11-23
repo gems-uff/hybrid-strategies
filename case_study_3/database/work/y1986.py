@@ -16,3 +16,14 @@ conte1986a = DB(WorkOk(
     scholar="http://scholar.google.com/scholar?cites=15923037243372101159&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
 ))
+
+schroeder1986a = DB(WorkOk(
+    1986, "Understanding regression analysis: An introductory guide",
+    display="schroeder",
+    authors="Schroeder, L. and Sjoquist, D. and Stephan, P.",
+    place=QASS,
+    entrytype="article",
+    number="57",
+    note="cited By 6",
+    ID="Schroeder1986",
+))

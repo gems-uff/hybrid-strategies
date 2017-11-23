@@ -4,6 +4,27 @@ from snowballing.models import *
 from ..places import *
 
 
+hill1999a = DB(WorkOk(
+    1999, "Software Project Estimation: a Workbook for Macro-Estimation of Software Development Effort and Duration",
+    display="hill",
+    authors="Hill, P",
+    place=ISBSG,
+    entrytype="article",
+    note="cited By 1",
+    ID="Hill1999",
+))
+
+lokan1999a = DB(WorkOk(
+    1999, "Empirical study of the correlations between function point elements",
+    display="lokan",
+    authors="Lokan, Chris J.",
+    place=ISMS,
+    pp="200-206",
+    entrytype="inproceedings",
+    note="cited By 20",
+    ID="Lokan1999200",
+))
+
 maxwell1999a = DB(WorkSnowball(
     1999, "Performance evaluation of general and company specific models in software development effort estimation",
     display="maxwell",
@@ -38,4 +59,18 @@ briand1999a = DB(WorkOk(
     scholar="https://scholar.google.com.br/scholar?cites=11135653044424553421&as_sdt=2005&sciodt=0,5&hl=pt-BR",
     organization="ACM",
     scholar_ok=True,
+))
+
+walkerden1999a = DB(WorkOk(
+    1999, "Empirical study of analogy-based software effort estimation",
+    display="walkerden",
+    authors="Walkerden, F. and Jeffery, R.",
+    place=ESE,
+    pp="135-158",
+    entrytype="article",
+    volume="4",
+    number="2",
+    doi="10.1023/A:1009872202035",
+    note="cited By 142",
+    ID="Walkerden1999135",
 ))
