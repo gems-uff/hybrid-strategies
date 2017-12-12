@@ -11,6 +11,7 @@ mendes2014a = DB(WorkUnrelated(
     pp="12",
     entrytype="inproceedings",
     organization="ACM",
+    acm="1",
     ID="mendes2014cross",
     cluster_id="9119025274604461618",
     scholar="http://scholar.google.com/scholar?cites=9119025274604461618&as_sdt=2005&sciodt=0,5&hl=en",

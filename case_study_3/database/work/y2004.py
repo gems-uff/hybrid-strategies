@@ -31,6 +31,7 @@ mendes2004a = DB(WorkSnowball(
     source="Scopus",
     ID="Mendes2004348",
     scopus=1,
+    acm=1,
     cluster_id="13719283821229655348",
     scholar="http://scholar.google.com/scholar?cites=13719283821229655348&as_sdt=2005&sciodt=0,5&hl=en",
     organization="IEEE",
