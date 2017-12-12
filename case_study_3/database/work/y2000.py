@@ -33,7 +33,7 @@ christodoulou2000a = DB(WorkOk(
     scholar_ok=True,
 ))
 
-jeffery2000a = DB(WorkSnowball(
+jeffery2000a = DB(WorkOk(
     2000, "A comparative study of two software development cost modeling techniques using multi-organizational and company-specific data",
     display="jeffery",
     authors="Jeffery, Ross and Ruhe, Melanie and Wieczorek, Isabella",
@@ -55,26 +55,20 @@ jeffery2000a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
-maxwell2000a = DB(WorkOk(
-    2000, "Benchmarking software development productivity",
-    display="maxwell",
-    authors="Maxwell, K.D. and Forselius, P.",
-    place=IEEES,
-    pp="80-88",
+turhan2000a = DB(WorkUnrelated(
+    2000, "Pattern Name: Relevancy",
+    display="turhan",
+    authors="Turhan, Burak",
+    place=IST,
     entrytype="article",
-    volume="17",
-    number="1",
-    doi="10.1109/52.820015",
-    note="cited By 67",
-    ID="Maxwell200080",
+    ID="turhanpattern2000",
 ))
 
-ruhe2000a = DB(WorkOk(
-    2000, "Comparative Study of Project Effort Estimation Methods by Using Public Domain Multi-Organizational and Organization-specific Project Data",
-    display="ruhe",
-    authors="Ruhe, M.",
-    place=CAESAR,
+turhan2000b = DB(WorkUnrelated(
+    2000, "Pattern Name: Relevancy",
+    display="turhan b",
+    authors="Turhan, Burak",
+    place=IST,
     entrytype="article",
-    note="cited By 1",
-    ID="Ruhe2000",
+    ID="turhanpattern",
 ))

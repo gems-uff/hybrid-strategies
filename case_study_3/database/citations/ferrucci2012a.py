@@ -8,6 +8,7 @@ from ..work.y1986 import conte1986a
 from ..work.y1988 import cohen1988a
 from ..work.y1995 import kitchenham1995a
 from ..work.y1998 import kitchenham1998a
+from ..work.y2000 import turhan2000b
 from ..work.y2001 import kitchenham2001a
 from ..work.y2001 import shepperd2001a
 from ..work.y2002 import maxwell2002a
@@ -28,6 +29,18 @@ from ..work.y2011 import kocaguneli2011a
 from ..work.y2011 import menzies2011a
 from ..work.y2012 import ferrucci2012a
 from ..work.y2012 import kocaguneli2012a
+from ..work.y2013 import finkelstein2013a
+from ..work.y2014 import menzies2014a
+from ..work.y2014 import turhan2014a
+from ..work.y2015 import huang2015a
+from ..work.y2015 import minku2015a
+from ..work.y2015 import corazza2015a
+from ..work.y2016 import dapozo2016a
+from ..work.y2016 import satapathy2016a
+from ..work.y2016 import lee2016a
+from ..work.y2017 import satapathy2017a
+from ..work.y2000 import turhan2000a
+from ..work.y2017 import huang2017a
 
 DB(Citation(
     ferrucci2012a, turhan2009a, ref="",
@@ -51,13 +64,6 @@ DB(Citation(
     ],
 ))
 
-
-DB(Citation(
-    ferrucci2012a, conte1986a, ref="",
-    contexts=[
-
-    ],
-))
 
 DB(Citation(
     ferrucci2012a, cohen1988a, ref="",
@@ -195,6 +201,104 @@ DB(Citation(
 
 DB(Citation(
     ferrucci2012a, shepperd2001a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferrucci2012a, conte1986a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    huang2015a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    menzies2014a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    minku2015a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    finkelstein2013a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    turhan2014a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dapozo2016a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    satapathy2016a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lee2016a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    satapathy2017a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    turhan2000a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    corazza2015a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    huang2017a, ferrucci2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    turhan2000b, ferrucci2012a, ref="",
     contexts=[
 
     ],

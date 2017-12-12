@@ -31,6 +31,19 @@ corazza2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=16104831822404145512&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+finkelstein2013a = DB(WorkUnrelated(
+    2013, "Mining app stores: Extracting technical, business and customer rating information for analysis and prediction",
+    display="finkelstein",
+    authors="Finkelstein, Anthony and Harman, Mark and Jia, Yue and Sarro, Federica and Zhang, Yuanyuan",
+    place=SEAA,
+    pp="21",
+    entrytype="article",
+    volume="13",
+    ID="finkelstein2013mining",
+    cluster_id="2841084026349005957",
+    scholar="http://scholar.google.com/scholar?cites=2841084026349005957&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 marco2013a = DB(WorkUnrelated(
     2013, "Approximate COSMIC size to early estimate web application development effort",
     display="marco",

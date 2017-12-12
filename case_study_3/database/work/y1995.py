@@ -21,12 +21,3 @@ kitchenham1995a = DB(WorkOk(
     scholar_ok=True,
 ))
 
-rice1995a = DB(WorkOk(
-    1995, "Mathematical Statistics and Data Analysis",
-    display="rice",
-    authors="Rice, J.A.",
-    place=DP,
-    entrytype="article",
-    note="cited By 1987",
-    ID="Rice1995",
-))
