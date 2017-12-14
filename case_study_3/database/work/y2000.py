@@ -55,20 +55,3 @@ jeffery2000a = DB(WorkOk(
     scholar_ok=True,
 ))
 
-turhan2000a = DB(WorkUnrelated(
-    2000, "Pattern Name: Relevancy",
-    display="turhan",
-    authors="Turhan, Burak",
-    place=IST,
-    entrytype="article",
-    ID="turhanpattern2000",
-))
-
-turhan2000b = DB(WorkUnrelated(
-    2000, "Pattern Name: Relevancy",
-    display="turhan b",
-    authors="Turhan, Burak",
-    place=IST,
-    entrytype="article",
-    ID="turhanpattern",
-))

@@ -8,7 +8,6 @@ from ..work.y1986 import conte1986a
 from ..work.y1988 import cohen1988a
 from ..work.y1995 import kitchenham1995a
 from ..work.y1998 import kitchenham1998a
-from ..work.y2000 import turhan2000b
 from ..work.y2001 import kitchenham2001a
 from ..work.y2001 import shepperd2001a
 from ..work.y2002 import maxwell2002a
@@ -39,7 +38,6 @@ from ..work.y2016 import dapozo2016a
 from ..work.y2016 import satapathy2016a
 from ..work.y2016 import lee2016a
 from ..work.y2017 import satapathy2017a
-from ..work.y2000 import turhan2000a
 from ..work.y2017 import huang2017a
 
 DB(Citation(
@@ -277,13 +275,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    turhan2000a, ferrucci2012a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     corazza2015a, ferrucci2012a, ref="",
     contexts=[
 
@@ -297,9 +288,4 @@ DB(Citation(
     ],
 ))
 
-DB(Citation(
-    turhan2000b, ferrucci2012a, ref="",
-    contexts=[
 
-    ],
-))
