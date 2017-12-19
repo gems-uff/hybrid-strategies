@@ -18,7 +18,7 @@ baresi2007a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=6061082431312166438&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-kitchenham2007a = DB(WorkOk(
+kitchenham2007a = DB(WorkSnowball(
     2007, "Cross versus within-company cost estimation studies: A systematic review",
     display="kitchenham",
     authors="Kitchenham, Barbara A and Mendes, Emilia and Travassos, Guilherme H",
