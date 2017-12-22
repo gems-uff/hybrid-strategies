@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+oConnor2015a = DB(WorkSnowball(
+    2015, "Exploring the use of the cynefin framework to inform software development approach decisions",
+    display="oConnor",
+    authors="O'Connor, R.V. and Lepmets, M.",
+    place=ACMICPS,
+    pp="97-101",
+    entrytype="inproceedings",
+    volume="24-26-August-2015",
+    doi="10.1145/2785592.2785608",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958538253&doi=10.1145%2f2785592.2785608&partnerID=40&md5=69f4570281d159270659261c0d50408c",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="O'Connor201597",
+))
+
 petersen2015a = DB(WorkSnowball(
     2015, "An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)",
     display="petersen",

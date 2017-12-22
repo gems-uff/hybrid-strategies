@@ -53,3 +53,34 @@ guzmán2010a = DB(WorkSnowball(
     source="Scopus",
     ID="Guzmán2010341",
 ))
+
+mandić2010a = DB(WorkSnowball(
+    2010, "Utilizing GQM+strategies for an organization-wide earned value analysis",
+    display="mandić",
+    authors="Mandić, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.",
+    place=SEAA,
+    pp="255-258",
+    entrytype="inproceedings",
+    doi="10.1109/SEAA.2010.33",
+    art_number="5598105",
+    note="cited By 2",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78449277207&doi=10.1109%2fSEAA.2010.33&partnerID=40&md5=67093fe92c5dafae3a7c4c3674ac4f05",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="Mandić2010255",
+))
+
+mandić2010b = DB(WorkSnowball(
+    2010, "Utilizing GQM+strategies for business value analysis: An approach for evaluating business goals",
+    display="mandić b",
+    authors="Mandić, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.",
+    place=ESEM,
+    entrytype="inproceedings",
+    doi="10.1145/1852786.1852813",
+    art_number="1852813",
+    note="cited By 13",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149253973&doi=10.1145%2f1852786.1852813&partnerID=40&md5=26fcb1b5696be7437beaca23b4fb11fa",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="Mandić2010",
+))

@@ -4,6 +4,21 @@ from snowballing.models import *
 from ..places import *
 
 becker2008a = DB(WorkSnowball(
+    2008, "An approach to support the strategic alignment of software process improvement programs",
+    display="becker b",
+    authors="Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.",
+    place=ICEIS,
+    pp="66-73",
+    entrytype="inproceedings",
+    volume="1 ISAS",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-55849097328&partnerID=40&md5=eff87517025c0276626e85fb6d97617e",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="Becker200866",
+))
+
+becker2008b = DB(WorkSnowball(
     2008, "Strategic Alignment of Software Process Improvement Programs Using QFD",
     display="becker",
     authors="Becker, André Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas",

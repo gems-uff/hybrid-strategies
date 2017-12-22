@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="270" version="1.1" width="650" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id12" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033345410&amp;doi=10.1109%2f32.824395&amp;partnerID=40&amp;md5=047051619f9e05d42e5182681403625a"><rect class="sommerville1999a" fill="#6DCE9E" height="42" id="sommerville1999a" stroke="black" width="42" x="0" y="38"><title>Managing process inconsistency using viewpoints
+<svg baseProfile="full" height="422" version="1.1" width="802" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id9" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0642363922&amp;partnerID=40&amp;md5=0f4fad949ad46a78811b5c9349aa559a"><rect class="reiblein1997a" fill="#6DCE9E" height="42" id="reiblein1997a" stroke="black" width="42" x="0" y="38"><title>SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs
+Reiblein, S. and Symons, A.
+
+@inproceedings{reiblein1997a,
+  author = {Reiblein, S. and Symons, A.},
+  booktitle = {Software Quality Journal},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0642363922\&amp;partnerID=40\&amp;md5=0f4fad949ad46a78811b5c9349aa559a},
+  number = {2},
+  pages = {89-98},
+  title = {S{P}I: \textquotesingle {I} can\textquotesingle t get no satisfaction\textquotesingle  - {D}irecting process improvement to meet business needs},
+  volume = {6},
+  year = {1997}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="21" y="59"><title>SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs
+Reiblein, S. and Symons, A.
+
+@inproceedings{reiblein1997a,
+  author = {Reiblein, S. and Symons, A.},
+  booktitle = {Software Quality Journal},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0642363922\&amp;partnerID=40\&amp;md5=0f4fad949ad46a78811b5c9349aa559a},
+  number = {2},
+  pages = {89-98},
+  title = {S{P}I: \textquotesingle {I} can\textquotesingle t get no satisfaction\textquotesingle  - {D}irecting process improvement to meet business needs},
+  volume = {6},
+  year = {1997}
+}
+
+</title><tspan x="21" y="53">reibl</tspan><tspan x="21" y="65">ein</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033345410&amp;doi=10.1109%2f32.824395&amp;partnerID=40&amp;md5=047051619f9e05d42e5182681403625a"><rect class="sommerville1999a" fill="#6DCE9E" height="42" id="sommerville1999a" stroke="black" width="42" x="76" y="38"><title>Managing process inconsistency using viewpoints
 Sommerville, I. and Sawyer, P. and Viller, S.
 
 @article{sommerville1999a,
@@ -14,7 +42,7 @@ Sommerville, I. and Sawyer, P. and Viller, S.
   year = {1999}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="21" y="59"><title>Managing process inconsistency using viewpoints
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="59"><title>Managing process inconsistency using viewpoints
 Sommerville, I. and Sawyer, P. and Viller, S.
 
 @article{sommerville1999a,
@@ -29,7 +57,31 @@ Sommerville, I. and Sawyer, P. and Viller, S.
   year = {1999}
 }
 
-</title><tspan x="21" y="47">somme</tspan><tspan x="21" y="59">rvill</tspan><tspan x="21" y="71">e</tspan></text></a><rect class="waina2001a" fill="#6DCE9E" height="42" id="waina2001a" stroke="black" width="42" x="76" y="38"><title>A business goal-based approach to achieving systems engineering capability maturity
+</title><tspan x="97" y="47">somme</tspan><tspan x="97" y="59">rvill</tspan><tspan x="97" y="71">e</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033725301&amp;partnerID=40&amp;md5=8c6f800f5e9a4ca6f4d7d98c95ecdbbb"><rect class="kautz2000a" fill="#6DCE9E" height="42" id="kautz2000a" stroke="black" width="42" x="152" y="38"><title>Applying and adjusting a software process improvement model in practice: the use of the IDEAL model in a small software enterprise
+Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim
+
+@inproceedings{kautz2000a,
+  author = {Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim},
+  booktitle = {International Conference on Software Engineering},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033725301\&amp;partnerID=40\&amp;md5=8c6f800f5e9a4ca6f4d7d98c95ecdbbb},
+  pages = {626-633},
+  title = {{A}pplying and adjusting a software process improvement model in practice: the use of the {I}DE{A}L model in a small software enterprise},
+  year = {2000}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="173" y="59"><title>Applying and adjusting a software process improvement model in practice: the use of the IDEAL model in a small software enterprise
+Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim
+
+@inproceedings{kautz2000a,
+  author = {Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim},
+  booktitle = {International Conference on Software Engineering},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033725301\&amp;partnerID=40\&amp;md5=8c6f800f5e9a4ca6f4d7d98c95ecdbbb},
+  pages = {626-633},
+  title = {{A}pplying and adjusting a software process improvement model in practice: the use of the {I}DE{A}L model in a small software enterprise},
+  year = {2000}
+}
+
+</title><tspan x="173" y="59">kautz</tspan></text></a><rect class="waina2001a" fill="#6DCE9E" height="42" id="waina2001a" stroke="black" width="42" x="228" y="38"><title>A business goal-based approach to achieving systems engineering capability maturity
 R. B. Waina
 
 @inproceedings{waina2001a,
@@ -44,7 +96,7 @@ R. B. Waina
   year = {2001}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="97" y="59"><title>A business goal-based approach to achieving systems engineering capability maturity
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="249" y="59"><title>A business goal-based approach to achieving systems engineering capability maturity
 R. B. Waina
 
 @inproceedings{waina2001a,
@@ -59,7 +111,37 @@ R. B. Waina
   year = {2001}
 }
 
-</title><tspan x="97" y="59">waina</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33745888881&amp;doi=10.1109%2fISESE.2005.1541827&amp;partnerID=40&amp;md5=a6cbea31fe63657e144e9188f9310d5c"><rect class="wang2005a" fill="#6DCE9E" height="42" id="wang2005a" stroke="black" width="42" x="152" y="38"><title>Measuring and improving software process in China
+</title><tspan x="249" y="59">waina</tspan></text><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-10644225897&amp;doi=10.1016%2fj.infsof.2004.06.003&amp;partnerID=40&amp;md5=0de80b68bc7607407aa90eac4dc92be6"><rect class="trienekens2005a" fill="#6DCE9E" height="42" id="trienekens2005a" stroke="black" width="42" x="304" y="38"><title>Business-oriented process improvement: Practices and experiences at Thales Naval the Netherlands (TNNL)
+Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.
+
+@article{trienekens2005a,
+  author = {Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.},
+  doi = {10.1016/j.infsof.2004.06.003},
+  journal = {Information \&amp; Software Technology},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-10644225897\&amp;doi=10.1016\%2fj.infsof.2004.06.003\&amp;partnerID=40\&amp;md5=0de80b68bc7607407aa90eac4dc92be6},
+  number = {2},
+  pages = {67-79},
+  title = {{B}usiness-oriented process improvement: {P}ractices and experiences at {T}hales {N}aval the {N}etherlands ({T}NN{L})},
+  volume = {47},
+  year = {2005}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="59"><title>Business-oriented process improvement: Practices and experiences at Thales Naval the Netherlands (TNNL)
+Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.
+
+@article{trienekens2005a,
+  author = {Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.},
+  doi = {10.1016/j.infsof.2004.06.003},
+  journal = {Information \&amp; Software Technology},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-10644225897\&amp;doi=10.1016\%2fj.infsof.2004.06.003\&amp;partnerID=40\&amp;md5=0de80b68bc7607407aa90eac4dc92be6},
+  number = {2},
+  pages = {67-79},
+  title = {{B}usiness-oriented process improvement: {P}ractices and experiences at {T}hales {N}aval the {N}etherlands ({T}NN{L})},
+  volume = {47},
+  year = {2005}
+}
+
+</title><tspan x="325" y="53">trien</tspan><tspan x="325" y="65">ekens</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33745888881&amp;doi=10.1109%2fISESE.2005.1541827&amp;partnerID=40&amp;md5=a6cbea31fe63657e144e9188f9310d5c"><rect class="wang2005a" fill="#6DCE9E" height="42" id="wang2005a" stroke="black" width="42" x="304" y="114"><title>Measuring and improving software process in China
 Wang, Q. and Li, M.
 
 @inproceedings{wang2005a,
@@ -72,7 +154,7 @@ Wang, Q. and Li, M.
   year = {2005}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="173" y="59"><title>Measuring and improving software process in China
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="135"><title>Measuring and improving software process in China
 Wang, Q. and Li, M.
 
 @inproceedings{wang2005a,
@@ -85,7 +167,7 @@ Wang, Q. and Li, M.
   year = {2005}
 }
 
-</title><tspan x="173" y="59">wang</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-34547949093&amp;doi=10.1002%2fspip.321&amp;partnerID=40&amp;md5=49a3ce14341a74f0d3f55e44512992ce"><rect class="wilkie2007a" fill="#6DCE9E" height="42" id="wilkie2007a" stroke="black" width="42" x="228" y="38"><title>A low-overhead method for software process appraisal
+</title><tspan x="325" y="135">wang</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-34547949093&amp;doi=10.1002%2fspip.321&amp;partnerID=40&amp;md5=49a3ce14341a74f0d3f55e44512992ce"><rect class="wilkie2007a" fill="#6DCE9E" height="42" id="wilkie2007a" stroke="black" width="42" x="380" y="38"><title>A low-overhead method for software process appraisal
 Wilkie, F.G. and Mc Caffery, F. and McFall, D. and Lester, N. and Wilkinson, E.
 
 @inproceedings{wilkie2007a,
@@ -100,7 +182,7 @@ Wilkie, F.G. and Mc Caffery, F. and McFall, D. and Lester, N. and Wilkinson, E.
   year = {2007}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="249" y="59"><title>A low-overhead method for software process appraisal
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="401" y="59"><title>A low-overhead method for software process appraisal
 Wilkie, F.G. and Mc Caffery, F. and McFall, D. and Lester, N. and Wilkinson, E.
 
 @inproceedings{wilkie2007a,
@@ -115,10 +197,36 @@ Wilkie, F.G. and Mc Caffery, F. and McFall, D. and Lester, N. and Wilkinson, E.
   year = {2007}
 }
 
-</title><tspan x="249" y="53">wilki</tspan><tspan x="249" y="65">e</tspan></text></a><a target="_blank" xlink:href="http://doi.acm.org/10.1145/1370837.1370840"><rect class="becker2008a" fill="#6DCE9E" height="42" id="becker2008a" stroke="black" width="42" x="304" y="38"><title>Strategic Alignment of Software Process Improvement Programs Using QFD
-Becker, Andr&#233; Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas
+</title><tspan x="401" y="53">wilki</tspan><tspan x="401" y="65">e</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-55849097328&amp;partnerID=40&amp;md5=eff87517025c0276626e85fb6d97617e"><rect class="becker2008a" fill="#6DCE9E" height="42" id="becker2008a" stroke="black" width="42" x="456" y="38"><title>An approach to support the strategic alignment of software process improvement programs
+Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.
 
 @inproceedings{becker2008a,
+  author = {Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.},
+  booktitle = {International Conference on Enterprise Information Systems},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-55849097328\&amp;partnerID=40\&amp;md5=eff87517025c0276626e85fb6d97617e},
+  pages = {66-73},
+  title = {{A}n approach to support the strategic alignment of software process improvement programs},
+  volume = {1 ISAS},
+  year = {2008}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="59"><title>An approach to support the strategic alignment of software process improvement programs
+Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.
+
+@inproceedings{becker2008a,
+  author = {Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.},
+  booktitle = {International Conference on Enterprise Information Systems},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-55849097328\&amp;partnerID=40\&amp;md5=eff87517025c0276626e85fb6d97617e},
+  pages = {66-73},
+  title = {{A}n approach to support the strategic alignment of software process improvement programs},
+  volume = {1 ISAS},
+  year = {2008}
+}
+
+</title><tspan x="477" y="53">becke</tspan><tspan x="477" y="65">r b</tspan></text></a><a target="_blank" xlink:href="http://doi.acm.org/10.1145/1370837.1370840"><rect class="becker2008b" fill="#6DCE9E" height="42" id="becker2008b" stroke="black" width="42" x="456" y="114"><title>Strategic Alignment of Software Process Improvement Programs Using QFD
+Becker, Andr&#233; Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas
+
+@inproceedings{becker2008b,
   address = {New York, NY, USA},
   author = {Becker, Andr{\'e} Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas},
   booktitle = {International Workshop on Business Impact of Process Improvements},
@@ -131,10 +239,10 @@ Becker, Andr&#233; Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas
   year = {2008}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="59"><title>Strategic Alignment of Software Process Improvement Programs Using QFD
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="135"><title>Strategic Alignment of Software Process Improvement Programs Using QFD
 Becker, Andr&#233; Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas
 
-@inproceedings{becker2008a,
+@inproceedings{becker2008b,
   address = {New York, NY, USA},
   author = {Becker, Andr{\'e} Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas},
   booktitle = {International Workshop on Business Impact of Process Improvements},
@@ -147,7 +255,7 @@ Becker, Andr&#233; Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas
   year = {2008}
 }
 
-</title><tspan x="325" y="53">becke</tspan><tspan x="325" y="65">r</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988021263&amp;partnerID=40&amp;md5=8694c8d89616268270d27a35ded7dda9"><rect class="martins2008a" fill="#6DCE9E" height="42" id="martins2008a" stroke="black" width="42" x="304" y="114"><title>Propamet: A metric for process and project alignment
+</title><tspan x="477" y="129">becke</tspan><tspan x="477" y="141">r</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988021263&amp;partnerID=40&amp;md5=8694c8d89616268270d27a35ded7dda9"><rect class="martins2008a" fill="#6DCE9E" height="42" id="martins2008a" stroke="black" width="42" x="456" y="190"><title>Propamet: A metric for process and project alignment
 Martins, P.V. and Silva, A.R.D.
 
 @inproceedings{martins2008a,
@@ -160,7 +268,7 @@ Martins, P.V. and Silva, A.R.D.
   year = {2008}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="325" y="135"><title>Propamet: A metric for process and project alignment
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="211"><title>Propamet: A metric for process and project alignment
 Martins, P.V. and Silva, A.R.D.
 
 @inproceedings{martins2008a,
@@ -173,7 +281,35 @@ Martins, P.V. and Silva, A.R.D.
   year = {2008}
 }
 
-</title><tspan x="325" y="129">marti</tspan><tspan x="325" y="141">ns</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650641523&amp;doi=10.1007%2fs11219-008-9063-6&amp;partnerID=40&amp;md5=2b9dc58ffcb8e6cf5051c717faf1e2c0"><rect class="trienekens2009a" fill="#6DCE9E" height="42" id="trienekens2009a" stroke="black" width="42" x="380" y="38"><title>Entropy based software processes improvement
+</title><tspan x="477" y="205">marti</tspan><tspan x="477" y="217">ns</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-70149097296&amp;doi=10.1007%2f978-3-642-02152-7_26&amp;partnerID=40&amp;md5=8e04ae1e58ef4245af85aec9255db934"><rect class="albuquerque2009a" fill="#6DCE9E" height="42" id="albuquerque2009a" stroke="black" width="42" x="532" y="38"><title>Software process improvement: Supporting the linking of the software and the business strategies
+Albuquerque, A.B. and Rocha, A.R. and Lima, A.C.
+
+@article{albuquerque2009a,
+  author = {Albuquerque, A.B. and Rocha, A.R. and Lima, A.C.},
+  doi = {10.1007/978-3-642-02152-7\_26},
+  journal = {Product-Focused Software Process Improvement},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-70149097296\&amp;doi=10.1007\%2f978-3-642-02152-7\_26\&amp;partnerID=40\&amp;md5=8e04ae1e58ef4245af85aec9255db934},
+  pages = {347-361},
+  title = {{S}oftware process improvement: {S}upporting the linking of the software and the business strategies},
+  volume = {32 LNBIP},
+  year = {2009}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="59"><title>Software process improvement: Supporting the linking of the software and the business strategies
+Albuquerque, A.B. and Rocha, A.R. and Lima, A.C.
+
+@article{albuquerque2009a,
+  author = {Albuquerque, A.B. and Rocha, A.R. and Lima, A.C.},
+  doi = {10.1007/978-3-642-02152-7\_26},
+  journal = {Product-Focused Software Process Improvement},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-70149097296\&amp;doi=10.1007\%2f978-3-642-02152-7\_26\&amp;partnerID=40\&amp;md5=8e04ae1e58ef4245af85aec9255db934},
+  pages = {347-361},
+  title = {{S}oftware process improvement: {S}upporting the linking of the software and the business strategies},
+  volume = {32 LNBIP},
+  year = {2009}
+}
+
+</title><tspan x="553" y="47">albuq</tspan><tspan x="553" y="59">uerqu</tspan><tspan x="553" y="71">e</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650641523&amp;doi=10.1007%2fs11219-008-9063-6&amp;partnerID=40&amp;md5=2b9dc58ffcb8e6cf5051c717faf1e2c0"><rect class="trienekens2009a" fill="#6DCE9E" height="42" id="trienekens2009a" stroke="black" width="42" x="532" y="114"><title>Entropy based software processes improvement
 Trienekens, J.J.M. and Kusters, R. and Kriek, D. and Siemons, P.
 
 @inproceedings{trienekens2009a,
@@ -188,7 +324,7 @@ Trienekens, J.J.M. and Kusters, R. and Kriek, D. and Siemons, P.
   year = {2009}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="401" y="59"><title>Entropy based software processes improvement
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="135"><title>Entropy based software processes improvement
 Trienekens, J.J.M. and Kusters, R. and Kriek, D. and Siemons, P.
 
 @inproceedings{trienekens2009a,
@@ -203,7 +339,7 @@ Trienekens, J.J.M. and Kusters, R. and Kriek, D. and Siemons, P.
   year = {2009}
 }
 
-</title><tspan x="401" y="53">trien</tspan><tspan x="401" y="65">ekens</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77955446167&amp;doi=10.1007%2f978-3-642-13792-1_29&amp;partnerID=40&amp;md5=62f77861d2bc11d469e715dd6ef7c587"><rect class="barreto2010a" fill="#6DCE9E" height="42" id="barreto2010a" stroke="black" width="42" x="456" y="38"><title>Defining and monitoring strategically aligned software improvement goals
+</title><tspan x="553" y="129">trien</tspan><tspan x="553" y="141">ekens</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77955446167&amp;doi=10.1007%2f978-3-642-13792-1_29&amp;partnerID=40&amp;md5=62f77861d2bc11d469e715dd6ef7c587"><rect class="barreto2010a" fill="#6DCE9E" height="42" id="barreto2010a" stroke="black" width="42" x="608" y="38"><title>Defining and monitoring strategically aligned software improvement goals
 Barreto, A.O.S. and Rocha, A.R.
 
 @inproceedings{barreto2010a,
@@ -217,7 +353,7 @@ Barreto, A.O.S. and Rocha, A.R.
   year = {2010}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="59"><title>Defining and monitoring strategically aligned software improvement goals
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="59"><title>Defining and monitoring strategically aligned software improvement goals
 Barreto, A.O.S. and Rocha, A.R.
 
 @inproceedings{barreto2010a,
@@ -231,7 +367,7 @@ Barreto, A.O.S. and Rocha, A.R.
   year = {2010}
 }
 
-</title><tspan x="477" y="53">barre</tspan><tspan x="477" y="65">to</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951033625&amp;doi=10.1109%2fMC.2010.108&amp;partnerID=40&amp;md5=f36e6e65d1ea856227721c90fc1ac645"><rect class="basili2010a" fill="#6DCE9E" height="42" id="basili2010a" stroke="black" width="42" x="456" y="114"><title>Linking software development and business strategy through measurement
+</title><tspan x="629" y="53">barre</tspan><tspan x="629" y="65">to</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951033625&amp;doi=10.1109%2fMC.2010.108&amp;partnerID=40&amp;md5=f36e6e65d1ea856227721c90fc1ac645"><rect class="basili2010a" fill="#6DCE9E" height="42" id="basili2010a" stroke="black" width="42" x="608" y="114"><title>Linking software development and business strategy through measurement
 Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and M&#252;nch, J. and Rombach, D. and Trendowicz, A.
 
 @inproceedings{basili2010a,
@@ -246,7 +382,7 @@ Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. a
   year = {2010}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="135"><title>Linking software development and business strategy through measurement
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="135"><title>Linking software development and business strategy through measurement
 Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and M&#252;nch, J. and Rombach, D. and Trendowicz, A.
 
 @inproceedings{basili2010a,
@@ -261,7 +397,7 @@ Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. a
   year = {2010}
 }
 
-</title><tspan x="477" y="129">basil</tspan><tspan x="477" y="141">i</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77953479945&amp;doi=10.1007%2fs11219-010-9094-7&amp;partnerID=40&amp;md5=ff201293071e1123dedf8e2ad949d4c5"><rect class="guzm&#225;n2010a" fill="#6DCE9E" height="42" id="guzm&#225;n2010a" stroke="black" width="42" x="456" y="190"><title>Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations
+</title><tspan x="629" y="129">basil</tspan><tspan x="629" y="141">i</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77953479945&amp;doi=10.1007%2fs11219-010-9094-7&amp;partnerID=40&amp;md5=ff201293071e1123dedf8e2ad949d4c5"><rect class="guzm&#225;n2010a" fill="#6DCE9E" height="42" id="guzm&#225;n2010a" stroke="black" width="42" x="608" y="190"><title>Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations
 Guzm&#225;n, J.G. and Mitre, H.A. and Amescua, A. and Velasco, M.
 
 @inproceedings{guzm&#225;n2010a,
@@ -276,7 +412,7 @@ Guzm&#225;n, J.G. and Mitre, H.A. and Amescua, A. and Velasco, M.
   year = {2010}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="477" y="211"><title>Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="211"><title>Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations
 Guzm&#225;n, J.G. and Mitre, H.A. and Amescua, A. and Velasco, M.
 
 @inproceedings{guzm&#225;n2010a,
@@ -291,7 +427,83 @@ Guzm&#225;n, J.G. and Mitre, H.A. and Amescua, A. and Velasco, M.
   year = {2010}
 }
 
-</title><tspan x="477" y="205">guzm&#225;</tspan><tspan x="477" y="217">n</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856179627&amp;doi=10.1109%2fIWSM-MENSURA.2011.22&amp;partnerID=40&amp;md5=a2a198ad14141ae265ef21cdaa4ac3eb"><rect class="kaneko2011a" fill="#6DCE9E" height="42" id="kaneko2011a" stroke="black" width="42" x="532" y="38"><title>Application of GQM+Strategies&#174; in the Japanese space industry
+</title><tspan x="629" y="205">guzm&#225;</tspan><tspan x="629" y="217">n</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78449277207&amp;doi=10.1109%2fSEAA.2010.33&amp;partnerID=40&amp;md5=67093fe92c5dafae3a7c4c3674ac4f05"><rect class="mandi&#263;2010a" fill="#6DCE9E" height="42" id="mandi&#263;2010a" stroke="black" width="42" x="608" y="266"><title>Utilizing GQM+strategies for an organization-wide earned value analysis
+Mandi&#263;, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.
+
+@inproceedings{mandi&#263;2010a,
+  author = {Mandi{\' c}, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.},
+  booktitle = {Software Engineering and Advanced Applications},
+  doi = {10.1109/SEAA.2010.33},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-78449277207\&amp;doi=10.1109\%2fSEAA.2010.33\&amp;partnerID=40\&amp;md5=67093fe92c5dafae3a7c4c3674ac4f05},
+  pages = {255-258},
+  title = {{U}tilizing {G}QM+strategies for an organization-wide earned value analysis},
+  year = {2010}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="287"><title>Utilizing GQM+strategies for an organization-wide earned value analysis
+Mandi&#263;, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.
+
+@inproceedings{mandi&#263;2010a,
+  author = {Mandi{\' c}, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.},
+  booktitle = {Software Engineering and Advanced Applications},
+  doi = {10.1109/SEAA.2010.33},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-78449277207\&amp;doi=10.1109\%2fSEAA.2010.33\&amp;partnerID=40\&amp;md5=67093fe92c5dafae3a7c4c3674ac4f05},
+  pages = {255-258},
+  title = {{U}tilizing {G}QM+strategies for an organization-wide earned value analysis},
+  year = {2010}
+}
+
+</title><tspan x="629" y="281">mandi</tspan><tspan x="629" y="293">&#263;</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149253973&amp;doi=10.1145%2f1852786.1852813&amp;partnerID=40&amp;md5=26fcb1b5696be7437beaca23b4fb11fa"><rect class="mandi&#263;2010b" fill="#6DCE9E" height="42" id="mandi&#263;2010b" stroke="black" width="42" x="608" y="342"><title>Utilizing GQM+strategies for business value analysis: An approach for evaluating business goals
+Mandi&#263;, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.
+
+@inproceedings{mandi&#263;2010b,
+  author = {Mandi{\' c}, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  doi = {10.1145/1852786.1852813},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149253973\&amp;doi=10.1145\%2f1852786.1852813\&amp;partnerID=40\&amp;md5=26fcb1b5696be7437beaca23b4fb11fa},
+  title = {{U}tilizing {G}QM+strategies for business value analysis: {A}n approach for evaluating business goals},
+  year = {2010}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="363"><title>Utilizing GQM+strategies for business value analysis: An approach for evaluating business goals
+Mandi&#263;, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.
+
+@inproceedings{mandi&#263;2010b,
+  author = {Mandi{\' c}, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.},
+  booktitle = {International Symposium on Empirical Software Engineering and Measurement},
+  doi = {10.1145/1852786.1852813},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149253973\&amp;doi=10.1145\%2f1852786.1852813\&amp;partnerID=40\&amp;md5=26fcb1b5696be7437beaca23b4fb11fa},
+  title = {{U}tilizing {G}QM+strategies for business value analysis: {A}n approach for evaluating business goals},
+  year = {2010}
+}
+
+</title><tspan x="629" y="357">mandi</tspan><tspan x="629" y="369">&#263; b</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960616089&amp;doi=10.1145%2f1987875.1987902&amp;partnerID=40&amp;md5=100ec17657ce76c7aae87e468734ce61"><rect class="esfahani2011a" fill="#6DCE9E" height="42" id="esfahani2011a" stroke="black" width="42" x="684" y="38"><title>Strategically balanced process adoption
+Esfahani, H.C. and Yu, E. and Annosi, M.C.
+
+@inproceedings{esfahani2011a,
+  author = {Esfahani, H.C. and Yu, E. and Annosi, M.C.},
+  booktitle = {International Conference on Software Engineering},
+  doi = {10.1145/1987875.1987902},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960616089\&amp;doi=10.1145\%2f1987875.1987902\&amp;partnerID=40\&amp;md5=100ec17657ce76c7aae87e468734ce61},
+  pages = {169-178},
+  title = {{S}trategically balanced process adoption},
+  year = {2011}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="59"><title>Strategically balanced process adoption
+Esfahani, H.C. and Yu, E. and Annosi, M.C.
+
+@inproceedings{esfahani2011a,
+  author = {Esfahani, H.C. and Yu, E. and Annosi, M.C.},
+  booktitle = {International Conference on Software Engineering},
+  doi = {10.1145/1987875.1987902},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960616089\&amp;doi=10.1145\%2f1987875.1987902\&amp;partnerID=40\&amp;md5=100ec17657ce76c7aae87e468734ce61},
+  pages = {169-178},
+  title = {{S}trategically balanced process adoption},
+  year = {2011}
+}
+
+</title><tspan x="705" y="53">esfah</tspan><tspan x="705" y="65">ani</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856179627&amp;doi=10.1109%2fIWSM-MENSURA.2011.22&amp;partnerID=40&amp;md5=a2a198ad14141ae265ef21cdaa4ac3eb"><rect class="kaneko2011a" fill="#6DCE9E" height="42" id="kaneko2011a" stroke="black" width="42" x="684" y="114"><title>Application of GQM+Strategies&#174; in the Japanese space industry
 Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.
 
 @inproceedings{kaneko2011a,
@@ -304,7 +516,7 @@ Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.
   year = {2011}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="553" y="59"><title>Application of GQM+Strategies&#174; in the Japanese space industry
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="135"><title>Application of GQM+Strategies&#174; in the Japanese space industry
 Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.
 
 @inproceedings{kaneko2011a,
@@ -317,7 +529,63 @@ Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.
   year = {2011}
 }
 
-</title><tspan x="553" y="53">kanek</tspan><tspan x="553" y="65">o</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930477271&amp;doi=10.1007%2fs10664-014-9306-z&amp;partnerID=40&amp;md5=3c0ee587416354cc911b2d5e7b32c115"><rect class="petersen2015a" fill="#6DCE9E" height="42" id="petersen2015a" stroke="black" width="42" x="608" y="38"><title>An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)
+</title><tspan x="705" y="129">kanek</tspan><tspan x="705" y="141">o</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79959462301&amp;doi=10.1007%2f978-3-642-21233-8-26&amp;partnerID=40&amp;md5=0f840eac597f235552ab0003d3a9f26e"><rect class="pl&#246;sch2011a" fill="#6DCE9E" height="42" id="pl&#246;sch2011a" stroke="black" width="42" x="684" y="190"><title>Software engineering strategies: Aligning software process improvement with strategic goals
+Pl&#246;sch, R. and Pomberger, G. and Stallinger, F.
+
+@inproceedings{pl&#246;sch2011a,
+  author = {Pl{\"o}sch, R. and Pomberger, G. and Stallinger, F.},
+  booktitle = {Communications in Computer and Information Science},
+  doi = {10.1007/978-3-642-21233-8-26},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-79959462301\&amp;doi=10.1007\%2f978-3-642-21233-8-26\&amp;partnerID=40\&amp;md5=0f840eac597f235552ab0003d3a9f26e},
+  pages = {221-226},
+  title = {{S}oftware engineering strategies: {A}ligning software process improvement with strategic goals},
+  volume = {155 CCIS},
+  year = {2011}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="705" y="211"><title>Software engineering strategies: Aligning software process improvement with strategic goals
+Pl&#246;sch, R. and Pomberger, G. and Stallinger, F.
+
+@inproceedings{pl&#246;sch2011a,
+  author = {Pl{\"o}sch, R. and Pomberger, G. and Stallinger, F.},
+  booktitle = {Communications in Computer and Information Science},
+  doi = {10.1007/978-3-642-21233-8-26},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-79959462301\&amp;doi=10.1007\%2f978-3-642-21233-8-26\&amp;partnerID=40\&amp;md5=0f840eac597f235552ab0003d3a9f26e},
+  pages = {221-226},
+  title = {{S}oftware engineering strategies: {A}ligning software process improvement with strategic goals},
+  volume = {155 CCIS},
+  year = {2011}
+}
+
+</title><tspan x="705" y="205">pl&#246;sc</tspan><tspan x="705" y="217">h</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958538253&amp;doi=10.1145%2f2785592.2785608&amp;partnerID=40&amp;md5=69f4570281d159270659261c0d50408c"><rect class="oConnor2015a" fill="#6DCE9E" height="42" id="oConnor2015a" stroke="black" width="42" x="760" y="38"><title>Exploring the use of the cynefin framework to inform software development approach decisions
+O'Connor, R.V. and Lepmets, M.
+
+@inproceedings{oConnor2015a,
+  author = {O\textquotesingle Connor, R.V. and Lepmets, M.},
+  booktitle = {ACM International Conference Proceeding Series},
+  doi = {10.1145/2785592.2785608},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958538253\&amp;doi=10.1145\%2f2785592.2785608\&amp;partnerID=40\&amp;md5=69f4570281d159270659261c0d50408c},
+  pages = {97-101},
+  title = {{E}xploring the use of the cynefin framework to inform software development approach decisions},
+  volume = {24-26-August-2015},
+  year = {2015}
+}
+
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="59"><title>Exploring the use of the cynefin framework to inform software development approach decisions
+O'Connor, R.V. and Lepmets, M.
+
+@inproceedings{oConnor2015a,
+  author = {O\textquotesingle Connor, R.V. and Lepmets, M.},
+  booktitle = {ACM International Conference Proceeding Series},
+  doi = {10.1145/2785592.2785608},
+  link = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958538253\&amp;doi=10.1145\%2f2785592.2785608\&amp;partnerID=40\&amp;md5=69f4570281d159270659261c0d50408c},
+  pages = {97-101},
+  title = {{E}xploring the use of the cynefin framework to inform software development approach decisions},
+  volume = {24-26-August-2015},
+  year = {2015}
+}
+
+</title><tspan x="781" y="53">oConn</tspan><tspan x="781" y="65">or</tspan></text></a><a target="_blank" xlink:href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930477271&amp;doi=10.1007%2fs10664-014-9306-z&amp;partnerID=40&amp;md5=3c0ee587416354cc911b2d5e7b32c115"><rect class="petersen2015a" fill="#6DCE9E" height="42" id="petersen2015a" stroke="black" width="42" x="760" y="114"><title>An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)
 Petersen, K. and Gencel, C. and Asghari, N. and Betz, S.
 
 @inproceedings{petersen2015a,
@@ -332,7 +600,7 @@ Petersen, K. and Gencel, C. and Asghari, N. and Betz, S.
   year = {2015}
 }
 
-</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="629" y="59"><title>An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)
+</title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="781" y="135"><title>An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)
 Petersen, K. and Gencel, C. and Asghari, N. and Betz, S.
 
 @inproceedings{petersen2015a,
@@ -347,4 +615,4 @@ Petersen, K. and Gencel, C. and Asghari, N. and Betz, S.
   year = {2015}
 }
 
-</title><tspan x="629" y="53">peter</tspan><tspan x="629" y="65">sen</tspan></text></a><text style="font-size:20px" text-anchor="middle" x="21" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">2001</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2015</text></svg>
+</title><tspan x="781" y="129">peter</tspan><tspan x="781" y="141">sen</tspan></text></a><text style="font-size:20px" text-anchor="middle" x="21" y="20">1997</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">2000</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">2001</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="705" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="781" y="20">2015</text></svg>
