@@ -16,6 +16,7 @@ becker2008a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Becker200866",
+    scopus="1",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -51,4 +52,5 @@ martins2008a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Martins2008201",
+    scopus="1",
 ))

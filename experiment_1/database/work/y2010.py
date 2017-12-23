@@ -52,6 +52,7 @@ guzmán2010a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Guzmán2010341",
+    scopus="1",
 ))
 
 mandić2010a = DB(WorkSnowball(
@@ -83,4 +84,19 @@ mandić2010b = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Mandić2010",
+))
+
+zalzala2010a = DB(WorkUnrelated(
+    2010, "Software process improvement for the airline industry",
+    display="zalzala",
+    authors="Zalzala, A. and Udaipurwala, A.",
+    place=ECIME,
+    pp="397-408",
+    entrytype="inproceedings",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84900804698&partnerID=40&md5=1ae1d1be9212fc154b5144d9e22088ae",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="Zalzala2010397",
+    scopus="1",
 ))

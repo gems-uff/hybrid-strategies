@@ -17,4 +17,5 @@ reiblein1997a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Reiblein199789",
+    scopus="1",
 ))
