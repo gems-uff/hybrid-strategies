@@ -47,6 +47,12 @@ class UnrelatedInsert(ArticleNavigator):
         if hasattr(self, "database_widget"):
             self.database_widget.value = "1"
 
+    def show_article(self, article, nwork, info):
+        info['placex'] = info.get('place1')
+        if not 'place' in info:
+            info['place'] = 'FAKE'
+        return super().show_article(article, nwork, info)
+
 def decorate_erase(self, original):
     def erase_article_form():
         original()

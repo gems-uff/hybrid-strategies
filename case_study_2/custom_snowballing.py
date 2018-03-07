@@ -45,3 +45,22 @@ class UnrelatedInsert(ArticleNavigator):
         self.work_type_widget.value = "WorkUnrelated"
         if hasattr(self, "database_widget"):
             self.database_widget.value = "1"
+
+    def show_article(self, article, nwork, info):
+        info['placex'] = info.get('place1')
+        if not 'place' in info:
+            info['place'] = 'FAKE'
+        return super().show_article(article, nwork, info)
+
+def decorate_erase(self, original):
+    def erase_article_form():
+        original()
+        self.work_type_widget.value = "WorkUnrelated"
+    return erase_article_form
+
+class UnrelatedForward(ForwardSnowballing):
+    
+    def __init__(self, *args, **kwargs):
+        super(UnrelatedForward, self).__init__(*args, **kwargs)
+        self.navigator.erase_article_form = decorate_erase(self.navigator, self.navigator.erase_article_form)
+        self.navigator.erase_article_form()

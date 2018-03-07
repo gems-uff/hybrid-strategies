@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+kerzazi2015a = DB(WorkUnrelated(
+        2015, "Conceptual Alignment Between SPEM-Based Processes and CMMI",
+        display="kerzazi",
+        authors="Kerzazi, Noureddine",
+        place=SITA,
+        entrytype="inproceedings",
+        organization="IEEE",
+        isbn="978-1-5090-0220-7",
+        uniqueid="ISI:000380409500017",
+        ID="ISI:000380409500017",
+        webofscience="1",
+))
+
 oConnor2015a = DB(WorkSnowball(
     2015, "Exploring the use of the cynefin framework to inform software development approach decisions",
     display="oConnor",

@@ -19,3 +19,21 @@ bayona2012a = DB(WorkUnrelated(
     ID="Bayona20121",
     scopus="1",
 ))
+
+bayona2012b = DB(WorkUnrelated(
+        2012, "Critical Success Factors in Software Process Improvement: A Systematic Review",
+        display="bayona b",
+        authors="Bayona, Sussy and Calvo-Manzano, Jose A. and San Feliu, Tomas",
+        pp="1-12",
+        place=SPICD,
+        entrytype="inproceedings",
+        editor="Mas, A and Mesquida, A and Rout, T and OConnor, RV and Dorling, A",
+        series="Communications in Computer and Information Science",
+        volume="290",
+        organization="Univ Illes Balears; SPICE User Grp",
+        issn="1865-0929",
+        isbn="978-3-642-30438-5",
+        uniqueid="ISI:000310938100001",
+        ID="ISI:000310938100001",
+        webofscience="1",
+    ))
