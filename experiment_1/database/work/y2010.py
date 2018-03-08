@@ -39,6 +39,53 @@ basili2010a = DB(WorkSnowball(
     ID="Basili201057",
 ))
 
+buehrer2010a = DB(WorkUnrelated(
+    2010, "A Distributed Placement Service for Graph-structured and Tree-structured Data",
+    display="buehrer",
+    authors="Buehrer, Gregory and Parthasarathy, Srinivasan and Tatikonda, Shirish",
+    place=FAKE,
+    pp="355--356",
+    entrytype="article",
+    issue_date="May 2010",
+    volume="45",
+    number="5",
+    month="jan",
+    issn="0362-1340",
+    ID="Buehrer:2010:DPS:1837853.1693511",
+    acm="1",
+    placex="SIGPLAN Not.",
+))
+
+chiprout2010a = DB(WorkUnrelated(
+    2010, "On-die Power Grids: The Missing Link",
+    display="chiprout",
+    authors="Chiprout, Eli",
+    place=FAKE,
+    pp="940--945",
+    entrytype="inproceedings",
+    series="DAC '10",
+    isbn="978-1-4503-0002-5",
+    location="Anaheim, California",
+    ID="Chiprout:2010:OPG:1837274.1837511",
+    acm="1",
+    placex="Proceedings of the 47th Design Automation Conference",
+))
+
+détienne2010a = DB(WorkUnrelated(
+    2010, "Why Do Users Communicate via Such or Such Media?: Some Insights from Users' Daily Experiences",
+    display="détienne",
+    authors="Détienne, Françoise and Cahour, Béatrice and Lefebvre, Liv",
+    place=FAKE,
+    pp="627--630",
+    entrytype="inproceedings",
+    series="NordiCHI '10",
+    isbn="978-1-60558-934-3",
+    location="Reykjavik, Iceland",
+    ID="Detienne:2010:WUC:1868914.1868990",
+    acm="1",
+    placex="Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries",
+))
+
 guzmán2010a = DB(WorkSnowball(
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",
@@ -58,6 +105,83 @@ guzmán2010a = DB(WorkSnowball(
     webofscience="1",
     placex="Software Quality Journal",
     elcompendex="1",
+))
+
+immorlica2010a = DB(WorkUnrelated(
+    2010, "Cooperation in Anonymous Dynamic Social Networks",
+    display="immorlica",
+    authors="Immorlica, Nicole and Lucier, Brendan and Rogers, Brian",
+    place=FAKE,
+    pp="241--242",
+    entrytype="inproceedings",
+    series="EC '10",
+    isbn="978-1-60558-822-3",
+    location="Cambridge, Massachusetts, USA",
+    ID="Immorlica:2010:CAD:1807342.1807381",
+    acm="1",
+    placex="Proceedings of the 11th ACM Conference on Electronic Commerce",
+))
+
+kim2010a = DB(WorkUnrelated(
+    2010, "The Role of IT in Business Ecosystems",
+    display="kim",
+    authors="Kim, Hyeyoung and Lee, Jae-Nam and Han, Jaemin",
+    place=FAKE,
+    pp="151--156",
+    entrytype="article",
+    issue_date="May 2010",
+    volume="53",
+    number="5",
+    month="may",
+    issn="0001-0782",
+    ID="Kim:2010:RBE:1735223.1735260",
+    acm="1",
+    placex="Commun. ACM",
+))
+
+klöckner2010a = DB(WorkUnrelated(
+    2010, "Aligning Business Goals and User Goals by Engineering Hedonic Quality",
+    display="klöckner",
+    authors="Klöckner, Kerstin and Kohler, Kirstin and Kerkow, Daniel and Niebuhr, Sabine and Nass, Claudia",
+    place=FAKE,
+    pp="241--250",
+    entrytype="inproceedings",
+    series="EICS '10",
+    isbn="978-1-4503-0083-4",
+    location="Berlin, Germany",
+    ID="Klockner:2010:ABG:1822018.1822056",
+    acm="1",
+    placex="Proceedings of the 2Nd ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+))
+
+kremmel2010a = DB(WorkUnrelated(
+    2010, "Multiobjective Evolutionary Algorithm for Software Project Portfolio Optimization",
+    display="kremmel",
+    authors="Kremmel, Thomas and Kubalik, Ji?í and Biffl, Stefan",
+    place=FAKE,
+    pp="1389--1390",
+    entrytype="inproceedings",
+    series="GECCO '10",
+    isbn="978-1-4503-0072-8",
+    location="Portland, Oregon, USA",
+    ID="Kremmel:2010:MEA:1830483.1830738",
+    acm="1",
+    placex="Proceedings of the 12th Annual Conference on Genetic and Evolutionary Computation",
+))
+
+lee2010a = DB(WorkUnrelated(
+    2010, "A Requirements Elicitation Framework and Tool for Sourcing business-IT Aligned e-Services",
+    display="lee",
+    authors="Lee-Klenz, Soonhwa and Sampaio, Pedro and Wood-Harper, Trevor",
+    place=FAKE,
+    pp="111--117",
+    entrytype="inproceedings",
+    series="SAC '10",
+    isbn="978-1-60558-639-7",
+    location="Sierre, Switzerland",
+    ID="Lee-Klenz:2010:REF:1774088.1774112",
+    acm="1",
+    placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
 mandić2010a = DB(WorkSnowball(
@@ -89,6 +213,57 @@ mandić2010b = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Mandić2010",
+    acm="1",
+    placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+))
+
+mashapa2010a = DB(WorkUnrelated(
+    2010, "User Experience Evaluation Metrics for Usable Accounting Tools",
+    display="mashapa",
+    authors="Mashapa, Job and van Greunen, Darelle",
+    place=FAKE,
+    pp="170--181",
+    entrytype="inproceedings",
+    series="SAICSIT '10",
+    isbn="978-1-60558-950-3",
+    location="Bela Bela, South Africa",
+    ID="Mashapa:2010:UEE:1899503.1899522",
+    acm="1",
+    placex="Proceedings of the 2010 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists",
+))
+
+romero2010a = DB(WorkUnrelated(
+    2010, "ERP: Drilling for Profit in the Oil and Gas Industry",
+    display="romero",
+    authors="Romero, Jorge A. and Menon, Nirup and Banker, Rajiv D. and Anderson, Mark",
+    place=FAKE,
+    pp="118--121",
+    entrytype="article",
+    issue_date="July 2010",
+    volume="53",
+    number="7",
+    month="jul",
+    issn="0001-0782",
+    ID="Romero:2010:EDP:1785414.1785448",
+    acm="1",
+    placex="Commun. ACM",
+))
+
+tisselli2010a = DB(WorkUnrelated(
+    2010, "Thinkflickrthink: A Case Study on Strategic Tagging",
+    display="tisselli",
+    authors="Tisselli, Eugenio",
+    place=FAKE,
+    pp="141--145",
+    entrytype="article",
+    issue_date="August 2010",
+    volume="53",
+    number="8",
+    month="aug",
+    issn="0001-0782",
+    ID="Tisselli:2010:TCS:1787234.1787270",
+    acm="1",
+    placex="Commun. ACM",
 ))
 
 zalzala2010a = DB(WorkUnrelated(

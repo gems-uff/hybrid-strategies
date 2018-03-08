@@ -3,6 +3,68 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+babar2007a = DB(WorkUnrelated(
+    2007, "Towards Evolution of Strategic IT Requirements",
+    display="babar",
+    authors="Babar, Abdul and Cox, Karl and Bleistein, Steven and Verner, June",
+    place=FAKE,
+    pp="1220--1227",
+    entrytype="inproceedings",
+    series="SAC '07",
+    isbn="1-59593-480-4",
+    location="Seoul, Korea",
+    ID="Babar:2007:TES:1244002.1244268",
+    acm="1",
+    placex="Proceedings of the 2007 ACM Symposium on Applied Computing",
+))
+
+baccarelli2007a = DB(WorkUnrelated(
+    2007, "Multi-antenna Cognitive Radio for Broadband Access in 4G-WLANs",
+    display="baccarelli",
+    authors="Baccarelli, Enzo and Biagi, Mauro and Pelizzoni, Cristian and Cordeschi, Nicola",
+    place=FAKE,
+    pp="66--73",
+    entrytype="inproceedings",
+    series="MobiWac '07",
+    isbn="978-1-59593-809-1",
+    location="Chania, Crete Island, Greece",
+    ID="Baccarelli:2007:MCR:1298091.1298103",
+    acm="1",
+    placex="Proceedings of the 5th ACM International Workshop on Mobility Management and Wireless Access",
+))
+
+deng2007a = DB(WorkUnrelated(
+    2007, "Pong: Diagnosing Spatio-temporal Internet Congestion Properties",
+    display="deng",
+    authors="Deng, Leiwen and Kuzmanovic, Aleksandar",
+    place=FAKE,
+    pp="381--382",
+    entrytype="article",
+    issue_date="June 2007",
+    volume="35",
+    number="1",
+    month="jun",
+    issn="0163-5999",
+    ID="Deng:2007:PDS:1269899.1254940",
+    acm="1",
+    placex="SIGMETRICS Perform. Eval. Rev.",
+))
+
+karagiannis2007a = DB(WorkUnrelated(
+    2007, "Business-oriented IT Management: Developing e-Business Applications with E-BPMS",
+    display="karagiannis",
+    authors="Karagiannis, Dimitris and Ronaghi, Faribors and Fill, Hans-Georg",
+    place=FAKE,
+    pp="97--100",
+    entrytype="inproceedings",
+    series="ICEC '07",
+    isbn="978-1-59593-700-1",
+    location="Minneapolis, MN, USA",
+    ID="Karagiannis:2007:BMD:1282100.1282122",
+    acm="1",
+    placex="Proceedings of the Ninth International Conference on Electronic Commerce",
+))
+
 martins2007a = DB(WorkUnrelated(
     2007, "A comparative study of SPI approaches with ProPAM",
     display="martins",
@@ -21,6 +83,21 @@ martins2007a = DB(WorkUnrelated(
     webofscience="1",
     placex="QUATIC 2007: 6TH INTERNATIONAL CONFERENCE ON THE QUALITY OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, PROCEEDINGS",
     elcompendex="1",
+))
+
+ordóñez2007a = DB(WorkUnrelated(
+    2007, "Strategy Recommender Agents (ALEX) - the Methodology",
+    display="ordóñez",
+    authors="Ruiz Ordóñez, Ronald Uriel and de la Rosa i Esteva, Josep Lluis and Guzmán-Obando, Javier",
+    place=FAKE,
+    pp="169:1--169:3",
+    entrytype="inproceedings",
+    series="AAMAS '07",
+    isbn="978-81-904262-7-5",
+    location="Honolulu, Hawaii",
+    ID="RuizOrdonez:2007:SRA:1329125.1329331",
+    acm="1",
+    placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
 wilkie2007a = DB(WorkSnowball(

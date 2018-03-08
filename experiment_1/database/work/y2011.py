@@ -22,6 +22,70 @@ asato2011a = DB(WorkUnrelated(
     scopus="1",
 ))
 
+baker2011a = DB(WorkUnrelated(
+    2011, "Design Goal-oriented Level Design",
+    display="baker",
+    authors="Baker, Eric and May, Brian",
+    place=FAKE,
+    pp="18:1--18:1",
+    entrytype="inproceedings",
+    series="SIGGRAPH '11",
+    isbn="978-1-4503-0971-4",
+    location="Vancouver, British Columbia, Canada",
+    ID="Baker:2011:DGL:2037715.2037737",
+    acm="1",
+    placex="ACM SIGGRAPH 2011 Posters",
+))
+
+becker2011a = DB(WorkUnrelated(
+    2011, "Strategy to Improve Quality for Software Applications: A Process View",
+    display="becker",
+    authors="Becker, Pablo and Lew, Philip and Olsina, Luis",
+    place=FAKE,
+    pp="129--138",
+    entrytype="inproceedings",
+    series="ICSSP '11",
+    isbn="978-1-4503-0730-7",
+    location="Waikiki, Honolulu, HI, USA",
+    ID="Becker:2011:SIQ:1987875.1987897",
+    acm="1",
+    placex="Proceedings of the 2011 International Conference on Software and Systems Process",
+))
+
+cantor2011a = DB(WorkUnrelated(
+    2011, "Calculating and Improving ROI in Software and System Programs",
+    display="cantor",
+    authors="Cantor, Murray",
+    place=FAKE,
+    pp="121--130",
+    entrytype="article",
+    issue_date="September 2011",
+    volume="54",
+    number="9",
+    month="sep",
+    issn="0001-0782",
+    ID="Cantor:2011:CIR:1995376.1995404",
+    acm="1",
+    placex="Commun. ACM",
+))
+
+dawson2011a = DB(WorkUnrelated(
+    2011, "Uncovering and Testing Archetypes of Effective Public Sector CIOs",
+    display="dawson",
+    authors="Dawson, Gregory S. and Watson, Richard T.",
+    place=FAKE,
+    pp="5:1--5:19",
+    entrytype="article",
+    issue_date="March 2011",
+    volume="2",
+    number="1",
+    month="mar",
+    issn="2158-656X",
+    ID="Dawson:2011:UTA:1929916.1929921",
+    acm="1",
+    placex="ACM Trans. Manage. Inf. Syst.",
+))
+
 esfahani2011a = DB(WorkSnowball(
     2011, "Strategically balanced process adoption",
     display="esfahani",
@@ -35,6 +99,21 @@ esfahani2011a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Esfahani2011169",
+))
+
+ghaly2011a = DB(WorkUnrelated(
+    2011, "GPS-tagged Images Define the Trail of an Interdisciplinary Miniterm in Egypt",
+    display="ghaly",
+    authors="Ghaly, Ashraf",
+    place=FAKE,
+    pp="50:1--50:2",
+    entrytype="inproceedings",
+    series="COM.Geo '11",
+    isbn="978-1-4503-0681-2",
+    location="Washington, DC, USA",
+    ID="Ghaly:2011:GID:1999320.1999371",
+    acm="1",
+    placex="Proceedings of the 2Nd International Conference on Computing for Geospatial Research & Applications",
 ))
 
 kaneko2011a = DB(WorkSnowball(
@@ -54,6 +133,21 @@ kaneko2011a = DB(WorkSnowball(
     scopus="1",
     elcompendex="1",
     placex="Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011",
+))
+
+nieters2011a = DB(WorkUnrelated(
+    2011, "Leading Change with Collaborative Design Workshops",
+    display="nieters",
+    authors="Nieters, Jim and Bollman, Eric",
+    place=FAKE,
+    pp="729--739",
+    entrytype="inproceedings",
+    series="CHI EA '11",
+    isbn="978-1-4503-0268-5",
+    location="Vancouver, BC, Canada",
+    ID="Nieters:2011:LCC:1979742.1979671",
+    acm="1",
+    placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
 plösch2011a = DB(WorkSnowball(
@@ -77,6 +171,21 @@ plösch2011a = DB(WorkSnowball(
     elcompendex="1",
 ))
 
+saetang2011a = DB(WorkUnrelated(
+    2011, "Conceptual Aspects of IT Governance in Enterprise Environment",
+    display="saetang",
+    authors="Saetang, Sureerat and Haider, Abrar",
+    place=FAKE,
+    pp="79--82",
+    entrytype="inproceedings",
+    series="SIGMIS-CPR '11",
+    isbn="978-1-4503-0666-9",
+    location="San Antonio, Texas, USA",
+    ID="Saetang:2011:CAG:1982143.1982164",
+    acm="1",
+    placex="Proceedings of the 49th SIGMIS Annual Conference on Computer Personnel Research",
+))
+
 stallinger2011a = DB(WorkUnrelated(
     2011, "Linking software life cycle activities with product strategy and economics: Extending ISO/IEC 12207 with product management best practices",
     display="stallinger",
@@ -96,4 +205,19 @@ stallinger2011a = DB(WorkUnrelated(
     webofscience="1",
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
+))
+
+tietz2011a = DB(WorkUnrelated(
+    2011, "Towards Task-based Development of Enterprise Mashups",
+    display="tietz",
+    authors="Tietz, Vincent and Pietschmann, Stefan and Blichmann, Gregor and Mei\ssner, Klaus and Casall, Alexander and Grams, Bernd",
+    place=FAKE,
+    pp="325--328",
+    entrytype="inproceedings",
+    series="iiWAS '11",
+    isbn="978-1-4503-0784-0",
+    location="Ho Chi Minh City, Vietnam",
+    ID="Tietz:2011:TTD:2095536.2095594",
+    acm="1",
+    placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
 ))

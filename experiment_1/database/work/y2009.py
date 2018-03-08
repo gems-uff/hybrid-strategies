@@ -24,6 +24,38 @@ albuquerque2009a = DB(WorkSnowball(
     elcompendex="1",
 ))
 
+dubinsky2009a = DB(WorkUnrelated(
+    2009, "Software Development Governance (SDG): Report on 2Nd Workshop",
+    display="dubinsky",
+    authors="Dubinsky, Yael and Kruchten, Philippe",
+    place=FAKE,
+    pp="46--47",
+    entrytype="article",
+    issue_date="September 2009",
+    volume="34",
+    number="5",
+    month="oct",
+    issn="0163-5948",
+    ID="Dubinsky:2009:SDG:1598732.1598760",
+    acm="1",
+    placex="SIGSOFT Softw. Eng. Notes",
+))
+
+fachrunnisa2009a = DB(WorkUnrelated(
+    2009, "Current Research Trends and Directions for Future Research in Trust Maintenance for Virtual Environments",
+    display="fachrunnisa",
+    authors="Fachrunnisa, Olivia and Hussain, Farookh Khadeer and Chang, Elizabeth",
+    place=FAKE,
+    pp="718--724",
+    entrytype="inproceedings",
+    series="iiWAS '09",
+    isbn="978-1-60558-660-1",
+    location="Kuala Lumpur, Malaysia",
+    ID="Fachrunnisa:2009:CRT:1806338.1806474",
+    acm="1",
+    placex="Proceedings of the 11th International Conference on Information Integration and Web-based Applications &Amp; Services",
+))
+
 galinac2009a = DB(WorkUnrelated(
     2009, "Empirical evaluation of selected best practices in implementation of software process improvement",
     display="galinac",
@@ -40,6 +72,54 @@ galinac2009a = DB(WorkUnrelated(
     source="Scopus",
     ID="Galinac20091351",
     scopus="1",
+))
+
+gunarathne2009a = DB(WorkUnrelated(
+    2009, "Experience with Adapting a WS-BPEL Runtime for eScience Workflows",
+    display="gunarathne",
+    authors="Gunarathne, Thilina and Herath, Chathura and Chinthaka, Eran and Marru, Suresh",
+    place=FAKE,
+    pp="7:1--7:10",
+    entrytype="inproceedings",
+    series="GCE '09",
+    isbn="978-1-60558-887-2",
+    location="Portland, Oregon",
+    articleno="7",
+    ID="Gunarathne:2009:EAW:1658260.1658270",
+    acm="1",
+    placex="Proceedings of the 5th Grid Computing Environments Workshop",
+))
+
+qiu2009a = DB(WorkUnrelated(
+    2009, "A Study for End Users' Perceptions of Business Strategic Factors Among Different IS/IT Contexts",
+    display="qiu",
+    authors="Qiu, Weiming and Li, Dong",
+    place=FAKE,
+    pp="52--61",
+    entrytype="article",
+    issue_date="Febuary 2009",
+    volume="40",
+    number="1",
+    month="jan",
+    issn="0095-0033",
+    ID="Qiu:2009:SEU:1496930.1496938",
+    acm="1",
+    placex="SIGMIS Database",
+))
+
+rosselet2009a = DB(WorkUnrelated(
+    2009, "Knowledge Management Framework for IT Project Portfolio Risk Management",
+    display="rosselet",
+    authors="Rosselet, Ulysse and Wentland, Maia",
+    place=FAKE,
+    pp="203--204",
+    entrytype="inproceedings",
+    series="K-CAP '09",
+    isbn="978-1-60558-658-8",
+    location="Redondo Beach, California, USA",
+    ID="Rosselet:2009:KMF:1597735.1597783",
+    acm="1",
+    placex="Proceedings of the Fifth International Conference on Knowledge Capture",
 ))
 
 trienekens2009a = DB(WorkSnowball(
@@ -74,4 +154,19 @@ vieira2009a = DB(WorkUnrelated(
     scopus="1",
     elcompendex="1",
     placex="9th International Conference on Software Process Improvement and Capability Determination, SPICE 2009 - Proceedings",
+))
+
+widya2009a = DB(WorkUnrelated(
+    2009, "Early Phase Requirements Assessment of a Teletreatment Trial",
+    display="widya",
+    authors="Widya, I. and van Beijnum, B. J. F. and Bults, R. and Jones, V. and Hermens, H. and Sandsjö, L. and Schaake, L. and in't Veld, M. H. A. Huis",
+    place=FAKE,
+    pp="395--396",
+    entrytype="inproceedings",
+    series="SAC '09",
+    isbn="978-1-60558-166-8",
+    location="Honolulu, Hawaii",
+    ID="Widya:2009:EPR:1529282.1529368",
+    acm="1",
+    placex="Proceedings of the 2009 ACM Symposium on Applied Computing",
 ))

@@ -18,6 +18,51 @@ bleistein2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
+caetano2005a = DB(WorkUnrelated(
+    2005, "Using Roles and Business Objects to Model and Understand Business Processes",
+    display="caetano",
+    authors="Caetano, Artur and Silva, Antonio Ritó and Tribolet, José",
+    place=FAKE,
+    pp="1308--1313",
+    entrytype="inproceedings",
+    series="SAC '05",
+    isbn="1-58113-964-0",
+    location="Santa Fe, New Mexico",
+    ID="Caetano:2005:URB:1066677.1066973",
+    acm="1",
+    placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
+))
+
+chaudet2005a = DB(WorkUnrelated(
+    2005, "Optimal Positioning of Active and Passive Monitoring Devices",
+    display="chaudet",
+    authors="Chaudet, Claude and Fleury, Eric and Lassous, Isabelle Guérin and Rivano, Hervé and Voge, Marie-Emilie",
+    place=FAKE,
+    pp="71--82",
+    entrytype="inproceedings",
+    series="CoNEXT '05",
+    isbn="1-59593-197-X",
+    location="Toulouse, France",
+    ID="Chaudet:2005:OPA:1095921.1095932",
+    acm="1",
+    placex="Proceedings of the 2005 ACM Conference on Emerging Network Experiment and Technology",
+))
+
+gairing2005a = DB(WorkUnrelated(
+    2005, "Selfish Routing with Incomplete Information",
+    display="gairing",
+    authors="Gairing, Martin and Monien, Burkhard and Tiemann, Karsten",
+    place=FAKE,
+    pp="203--212",
+    entrytype="inproceedings",
+    series="SPAA '05",
+    isbn="1-58113-986-1",
+    location="Las Vegas, Nevada, USA",
+    ID="Gairing:2005:SRI:1073970.1074000",
+    acm="1",
+    placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
+))
+
 taxen2005a = DB(WorkUnrelated(
     2005, "A sociotechnical approach towards alignment",
     display="taxen",
@@ -47,6 +92,21 @@ trienekens2005a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Trienekens200567",
+))
+
+vanter2005a = DB(WorkUnrelated(
+    2005, "HPC Needs a Tool Strategy",
+    display="vanter",
+    authors="Van De Vanter, Michael L. and Post, D. E. and Zosel, Mary E.",
+    place=FAKE,
+    pp="55--59",
+    entrytype="inproceedings",
+    series="SE-HPCS '05",
+    isbn="1-59593-117-1",
+    location="St. Louis, Missouri",
+    ID="VanDeVanter:2005:HNT:1145319.1145335",
+    acm="1",
+    placex="Proceedings of the Second International Workshop on Software Engineering for High Performance Computing System Applications",
 ))
 
 wang2005a = DB(WorkSnowball(
