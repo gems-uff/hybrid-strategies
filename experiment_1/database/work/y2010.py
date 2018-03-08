@@ -17,6 +17,8 @@ barreto2010a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Barreto2010380",
+    elcompendex="1",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 basili2010a = DB(WorkSnowball(
@@ -53,6 +55,9 @@ guzmán2010a = DB(WorkSnowball(
     source="Scopus",
     ID="Guzmán2010341",
     scopus="1",
+    webofscience="1",
+    placex="Software Quality Journal",
+    elcompendex="1",
 ))
 
 mandić2010a = DB(WorkSnowball(
@@ -99,4 +104,8 @@ zalzala2010a = DB(WorkUnrelated(
     source="Scopus",
     ID="Zalzala2010397",
     scopus="1",
+    isbn="978-1-906638-72-6",
+    webofscience="1",
+    placex="PROCEEDINGS OF THE 4TH EUROPEAN CONFERENCE ON INFORMATION MANAGEMENT AND EVALUATION",
+    elcompendex="1",
 ))

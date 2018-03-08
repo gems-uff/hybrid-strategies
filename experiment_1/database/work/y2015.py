@@ -14,6 +14,9 @@ kerzazi2015a = DB(WorkUnrelated(
         uniqueid="ISI:000380409500017",
         ID="ISI:000380409500017",
         webofscience="1",
+        bookgroupauthor="IEEE",
+        note="10th International Conference on Intelligent Systems - Theories and Applications (SITA), ENSIAS, Rabat, MOROCCO, OCT 20-21, 2015",
+        placex="INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS: THEORIES AND APPLICATIONS",
 ))
 
 oConnor2015a = DB(WorkSnowball(

@@ -18,6 +18,10 @@ albuquerque2009a = DB(WorkSnowball(
     source="Scopus",
     ID="Albuquerque2009347",
     scopus="1",
+    isbn="978-3-642-02151-0",
+    webofscience="1",
+    placex="PRODUCT-FOCUSED SOFTWARE PROCESS IMPROVEMENT, PROCEEDINGS",
+    elcompendex="1",
 ))
 
 galinac2009a = DB(WorkUnrelated(
@@ -68,4 +72,6 @@ vieira2009a = DB(WorkUnrelated(
     source="Scopus",
     ID="Vieira200928",
     scopus="1",
+    elcompendex="1",
+    placex="9th International Conference on Software Process Improvement and Capability Determination, SPICE 2009 - Proceedings",
 ))

@@ -52,6 +52,8 @@ kaneko2011a = DB(WorkSnowball(
     source="Scopus",
     ID="Kaneko2011221",
     scopus="1",
+    elcompendex="1",
+    placex="Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011",
 ))
 
 plösch2011a = DB(WorkSnowball(
@@ -69,6 +71,10 @@ plösch2011a = DB(WorkSnowball(
     source="Scopus",
     ID="Plösch2011221",
     scopus="1",
+    isbn="978-3-642-21232-1",
+    webofscience="1",
+    placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
+    elcompendex="1",
 ))
 
 stallinger2011a = DB(WorkUnrelated(
@@ -86,4 +92,8 @@ stallinger2011a = DB(WorkUnrelated(
     source="Scopus",
     ID="Stallinger2011157",
     scopus="1",
+    isbn="978-3-642-21232-1",
+    webofscience="1",
+    placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
+    elcompendex="1",
 ))

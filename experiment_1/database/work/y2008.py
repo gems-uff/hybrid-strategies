@@ -17,6 +17,9 @@ becker2008a = DB(WorkSnowball(
     source="Scopus",
     ID="Becker200866",
     scopus="1",
+    webofscience="1",
+    elcompendex="1",
+    placex="ICEIS 2008 - Proceedings of the 10th International Conference on Enterprise Information Systems",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -39,22 +42,6 @@ becker2008b = DB(WorkSnowball(
     ID="Becker:2008:SAS:1370837.1370840",
 ))
 
-becker2008c = DB(WorkUnrelated(
-    2008, "AN APPROACH TO SUPPORT THE STRATEGIC ALIGNMENT OF SOFTWARE PROCESS IMPROVEMENT PROGRAMS",
-    display="becker c",
-    authors="Becker, Andre Luiz and Audy, Jorge Luis Nicolas and Prikladnicki, Rafael",
-    place=FAKE,
-    pp="66-73",
-    entrytype="inproceedings",
-    editor="Cordeiro, J and Filipe, J",
-    note="10th International Conference on Enterprise Information Systems, Barcelona, SPAIN, JUN 12-16, 2008",
-    organization="Inst Syst & Technologies Informat, Control & Commun; Workflow Management Coalit; Assoc Adv Artificial Intelligence",
-    isbn="978-989-8111-38-8",
-    ID="ISI:000259605700012",
-    webofscience="1",
-    placex="ICEIS 2008: PROCEEDINGS OF THE TENTH INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS, VOL ISAS-1: INFORMATION SYSTEMS ANALYSIS AND SPECIFICATION, VOL 1",
-))
-
 martins2008a = DB(WorkSnowball(
     2008, "Propamet: A metric for process and project alignment",
     display="martins",
@@ -69,4 +56,7 @@ martins2008a = DB(WorkSnowball(
     source="Scopus",
     ID="Martins2008201",
     scopus="1",
+    webofscience="1",
+    elcompendex="1",
+    placex="Communications in Computer and Information Science",
 ))

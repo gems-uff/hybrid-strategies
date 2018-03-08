@@ -18,6 +18,9 @@ martins2007a = DB(WorkUnrelated(
     source="Scopus",
     ID="Martins2007100",
     scopus="1",
+    webofscience="1",
+    placex="QUATIC 2007: 6TH INTERNATIONAL CONFERENCE ON THE QUALITY OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, PROCEEDINGS",
+    elcompendex="1",
 ))
 
 wilkie2007a = DB(WorkSnowball(

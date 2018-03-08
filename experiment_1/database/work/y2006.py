@@ -19,4 +19,6 @@ martins2006a = DB(WorkUnrelated(
     source="Scopus",
     ID="Martins200665",
     scopus="1",
+    elcompendex="1",
+    placex="Journal of the Brazilian Computer Society",
 ))

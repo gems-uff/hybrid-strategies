@@ -3,6 +3,35 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bleistein2005a = DB(WorkUnrelated(
+    2005, "Strategic Alignment in Requirements Analysis for Organizational IT: An Integrated Approach",
+    display="bleistein",
+    authors="Bleistein, Steven J. and Cox, Karl and Verner, June",
+    place=FAKE,
+    pp="1300--1307",
+    entrytype="inproceedings",
+    series="SAC '05",
+    isbn="1-58113-964-0",
+    location="Santa Fe, New Mexico",
+    ID="Bleistein:2005:SAR:1066677.1066972",
+    acm="1",
+    placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
+))
+
+taxen2005a = DB(WorkUnrelated(
+    2005, "A sociotechnical approach towards alignment",
+    display="taxen",
+    authors="Taxen, Lars",
+    place=SPIP,
+    pp="427 - 439",
+    entrytype="article",
+    volume="10",
+    number="4",
+    ID="2005529614780",
+    elcompendex="1",
+    placex="Software Process Improvement and Practice",
+))
+
 trienekens2005a = DB(WorkSnowball(
     2005, "Business-oriented process improvement: Practices and experiences at Thales Naval the Netherlands (TNNL)",
     display="trienekens",

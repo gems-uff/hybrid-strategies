@@ -18,22 +18,23 @@ bayona2012a = DB(WorkUnrelated(
     source="Scopus",
     ID="Bayona20121",
     scopus="1",
+    webofscience="1",
+    elcompendex="1",
+    placex="Communications in Computer and Information Science",
 ))
 
-bayona2012b = DB(WorkUnrelated(
-        2012, "Critical Success Factors in Software Process Improvement: A Systematic Review",
-        display="bayona b",
-        authors="Bayona, Sussy and Calvo-Manzano, Jose A. and San Feliu, Tomas",
-        pp="1-12",
-        place=SPICD,
-        entrytype="inproceedings",
-        editor="Mas, A and Mesquida, A and Rout, T and OConnor, RV and Dorling, A",
-        series="Communications in Computer and Information Science",
-        volume="290",
-        organization="Univ Illes Balears; SPICE User Grp",
-        issn="1865-0929",
-        isbn="978-3-642-30438-5",
-        uniqueid="ISI:000310938100001",
-        ID="ISI:000310938100001",
-        webofscience="1",
-    ))
+
+heidrich2012a = DB(WorkUnrelated(
+    2012, "Tutorial: Business IT alignment using the GQM+strategies&reg approach",
+    display="heidrich",
+    authors="Heidrich, Jens and Kowalczyk, Martin",
+    place=FAKE,
+    pp="370 - 373",
+    entrytype="inproceedings",
+    language="English",
+    copyright="Compendex",
+    volume="7343 LNCS",
+    ID="20122515123766",
+    elcompendex="1",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
