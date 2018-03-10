@@ -24,6 +24,25 @@ bayona2012a = DB(WorkUnrelated(
 ))
 
 
+clarke2012a = DB(WorkUnrelated(
+    2012, "The influence of \SPI\ on business success in software SMEs: An empirical study",
+    display="clarke",
+    authors="Paul Clarke and Rory V. OConnor",
+    place=JSS,
+    pp="2356 - 2367",
+    entrytype="article",
+    volume="85",
+    number="10",
+    note="Automated Software Evolution",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.05.024",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212001355",
+    keyword="Software process improvement",
+    ID="Clarke20122356",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 delgado2012a = DB(WorkUnrelated(
     2012, "Model Transformations for Business-IT Alignment: From Collaborative Business Process to SoaML Service Model",
     display="delgado",
@@ -37,6 +56,25 @@ delgado2012a = DB(WorkUnrelated(
     ID="Delgado:2012:MTB:2245276.2232053",
     acm="1",
     placex="Proceedings of the 27th Annual ACM Symposium on Applied Computing",
+))
+
+draghici2012a = DB(WorkUnrelated(
+    2012, "\ICT\ Infrastructure Created to Support CertiBPM Project and Training Program",
+    display="draghici",
+    authors="Anca Draghici and George Draghici and Cristian Olariu and Alexandru Canda",
+    place=FAKE,
+    pp="527 - 536",
+    entrytype="article",
+    volume="5",
+    number="",
+    note="4th Conference of \{ENTERprise\} Information Systems  aligning technology, organizations and people (CENTERIS 2012)",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2012.09.058",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017312004896",
+    keyword="Virtual Office",
+    ID="Draghici2012527",
+    sciencedirect="1",
+    placex="Procedia Technology",
 ))
 
 heidrich2012a = DB(WorkUnrelated(

@@ -22,6 +22,25 @@ ebert1999a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+ebert1999b = DB(WorkUnrelated(
+    1999, "Technical controlling in software development",
+    display="ebert b",
+    authors="Christof Ebert",
+    place=FAKE,
+    pp="17 - 28",
+    entrytype="article",
+    volume="17",
+    number="1",
+    note="",
+    issn="0263-7863",
+    doi="https://doi.org/10.1016/S0263-7863(97)00065-3",
+    link="https://www.sciencedirect.com/science/article/pii/S0263786397000653",
+    keyword="technical controlling",
+    ID="Ebert199917",
+    sciencedirect="1",
+    placex="International Journal of Project Management",
+))
+
 garbett1999a = DB(WorkUnrelated(
     1999, "A case study in innovative process improvement: code synthesis from formal specifications",
     display="garbett",

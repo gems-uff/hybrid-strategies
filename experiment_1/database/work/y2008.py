@@ -102,6 +102,25 @@ cheng2008a = DB(WorkUnrelated(
     placex="Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
 ))
 
+coleman2008a = DB(WorkUnrelated(
+    2008, "Investigating software process in practice: A grounded theory perspective",
+    display="coleman",
+    authors="Gerry Coleman and Rory OConnor",
+    place=JSS,
+    pp="772 - 784",
+    entrytype="article",
+    volume="81",
+    number="5",
+    note="Software Process and Product Measurement",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2007.07.027",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121207001811",
+    keyword="XP",
+    ID="Coleman2008772",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 fairweather2008a = DB(WorkUnrelated(
     2008, "How Older and Younger Adults Differ in Their Approach to Problem Solving on a Complex Website",
     display="fairweather",
@@ -242,6 +261,25 @@ stafford2008a = DB(WorkUnrelated(
     ID="Stafford:2008:LE:1364636.1364637",
     acm="1",
     placex="SIGMIS Database",
+))
+
+staples2008a = DB(WorkUnrelated(
+    2008, "Systematic review of organizational motivations for adopting CMM-based \SPI",
+    display="staples",
+    authors="Mark Staples and Mahmood Niazi",
+    place=IST,
+    pp="605 - 620",
+    entrytype="article",
+    volume="50",
+    number="78",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2007.07.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584907000778",
+    keyword="Software Process Improvement",
+    ID="Staples2008605",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 vähäniitty2008a = DB(WorkUnrelated(

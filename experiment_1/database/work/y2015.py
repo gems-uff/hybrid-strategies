@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ali2015a = DB(WorkUnrelated(
+    2015, "Evaluation of simulation-assisted value stream mapping for software product development: Two industrial cases",
+    display="ali",
+    authors="Nauman Bin Ali and Kai Petersen and Breno Bernard Nicolau de França",
+    place=IST,
+    pp="45 - 61",
+    entrytype="article",
+    volume="68",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2015.08.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584915001470",
+    keyword="Software process simulation modeling",
+    ID="Ali201545",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 beheshitha2015a = DB(WorkUnrelated(
     2015, "A Process Mining Approach to Linking the Study of Aptitude and Event Facets of Self-regulated Learning",
     display="beheshitha",
@@ -206,4 +225,23 @@ thompson2015a = DB(WorkUnrelated(
     ID="Thompson:2015:RDL:2702613.2706680",
     acm="1",
     placex="Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems",
+))
+
+zarour2015a = DB(WorkUnrelated(
+    2015, "An investigation into the best practices for the successful design and implementation of lightweight software process assessment methods: A systematic literature review",
+    display="zarour",
+    authors="Mohammad Zarour and Alain Abran and Jean-Marc Desharnais and Abdulrahman Alarifi",
+    place=JSS,
+    pp="180 - 192",
+    entrytype="article",
+    volume="101",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2014.11.041",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121214002726",
+    keyword="systematic literature review",
+    ID="Zarour2015180",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))

@@ -52,6 +52,25 @@ buglione2013a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+chouseinoglou2013a = DB(WorkUnrelated(
+    2013, "AiOLoS: A model for assessing organizational learning in software development organizations",
+    display="chouseinoglou",
+    authors="Oumout Chouseinoglou and Deniz ?ren and N. Alpay Karagöz and Semih Bilgen",
+    place=IST,
+    pp="1904 - 1924",
+    entrytype="article",
+    volume="55",
+    number="11",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2013.05.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584913001171",
+    keyword="Learning software organizations",
+    ID="Chouseinoglou20131904",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -65,6 +84,25 @@ elliott2013a = DB(WorkUnrelated(
     ID="Elliott:2013:NAP:2492002.2482556",
     acm="1",
     placex="Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
+))
+
+garzás2013a = DB(WorkUnrelated(
+    2013, "A maturity model for the Spanish software industry based on \ISO\ standards",
+    display="garzás",
+    authors="Javier Garzás and Francisco J. Pino and Mario Piattini and Carlos Manuel Fernández",
+    place=CSI,
+    pp="616 - 628",
+    entrytype="article",
+    volume="35",
+    number="6",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2013.04.002",
+    link="https://www.sciencedirect.com/science/article/pii/S092054891300024X",
+    keyword="AENOR",
+    ID="Garzás2013616",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
 ))
 
 gu2013a = DB(WorkUnrelated(
@@ -144,6 +182,25 @@ oloniteru2013a = DB(WorkUnrelated(
     ID="Oloniteru:2013:ESG:2591888.2591920",
     acm="1",
     placex="Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance",
+))
+
+rinkevics2013a = DB(WorkUnrelated(
+    2013, "Equality in cumulative voting: A systematic review with an improvement proposal",
+    display="rinkevics",
+    authors="K. Rinkevics and R. Torkar",
+    place=IST,
+    pp="267 - 287",
+    entrytype="article",
+    volume="55",
+    number="2",
+    note="Special Section: Component-Based Software Engineering (CBSE), 2011",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2012.08.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584912001589",
+    keyword="Compositional data",
+    ID="Rinkevics2013267",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 ullah2013a = DB(WorkUnrelated(

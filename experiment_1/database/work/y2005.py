@@ -77,6 +77,27 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
+snedaker2005a = DB(WorkUnrelated(
+    2005, "Chapter 1 - What's project management got to do with IT?",
+    display="snedaker",
+    authors="Snedaker, Susan and ,  and Hoenig, Nels",
+    place=FAKE,
+    pp="1 - 29",
+    entrytype="incollection",
+    editor="Snedaker, Susan and ,  and Hoenig, Nels",
+    publisher="Syngress",
+    edition="",
+    address="Burlington",
+    series="How to Cheat",
+    isbn="978-1-59749-037-5",
+    doi="https://doi.org/10.1016/B978-159749037-5/50005-8",
+    link="https://www.sciencedirect.com/science/article/pii/B9781597490375500058",
+    key="tagkey20051",
+    ID="tagkey20051",
+    sciencedirect="1",
+    placex="How to Cheat at \{IT\} Project Management",
+))
+
 taxen2005a = DB(WorkUnrelated(
     2005, "A sociotechnical approach towards alignment",
     display="taxen",

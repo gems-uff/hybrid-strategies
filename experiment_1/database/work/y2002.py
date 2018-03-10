@@ -52,6 +52,25 @@ munkvold2002a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+scott2002a = DB(WorkUnrelated(
+    2002, "Understanding the use of an electronic process guide",
+    display="scott",
+    authors="Louise Scott and Lucila Carvalho and Ross Jeffery and John D'Ambra and Ulrike Becker-Kornstaedt",
+    place=IST,
+    pp="601 - 616",
+    entrytype="article",
+    volume="44",
+    number="10",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(02)00080-0",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584902000800",
+    keyword="Empirical software engineering",
+    ID="Scott2002601",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 sheard2002a = DB(WorkUnrelated(
     2002, "Cheating and Plagiarism: Perceptions and Practices of First Year IT Students",
     display="sheard",

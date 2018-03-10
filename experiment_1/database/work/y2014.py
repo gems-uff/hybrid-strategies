@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ali2014a = DB(WorkUnrelated(
+    2014, "A systematic literature review on the industrial use of software process simulation",
+    display="ali",
+    authors="Nauman Bin Ali and Kai Petersen and Claes Wohlin",
+    place=JSS,
+    pp="65 - 85",
+    entrytype="article",
+    volume="97",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2014.06.059",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121214001502",
+    keyword="Systematic literature review",
+    ID="Ali201465",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 bosch2014a = DB(WorkUnrelated(
     2014, "ESAO: Towards Data- and Ecosystem-driven R&#38;D",
     display="bosch",
@@ -128,6 +147,25 @@ mercer2014a = DB(WorkUnrelated(
     placex="Proceedings of the International Conference on Human-Computer Interaction in Aerospace",
 ))
 
+mitrehernández2014a = DB(WorkUnrelated(
+    2014, "Designing a Strategic Measurement Program for Software Engineering Organizations: Discovering Difficulties and Problems",
+    display="mitrehernández",
+    authors="Hugo A. Mitre-Hernández and García-Guzmán Javier and De Amescua-Seco Antonio and Velasco-Elizondo Perla",
+    place=FAKE,
+    pp="253 - 269",
+    entrytype="article",
+    volume="15",
+    number="2",
+    note="",
+    issn="1405-7743",
+    doi="https://doi.org/10.1016/S1405-7743(14)72215-2",
+    link="https://www.sciencedirect.com/science/article/pii/S1405774314722152",
+    keyword="diseño de estrategia",
+    ID="MitreHernández2014253",
+    sciencedirect="1",
+    placex="Ingeniería, Investigación y Tecnología",
+))
+
 nieters2014a = DB(WorkUnrelated(
     2014, "Rapid Design Labs: A Tool to Turbocharge Design-led Innovation",
     display="nieters",
@@ -203,6 +241,25 @@ renals2014a = DB(WorkUnrelated(
     ID="Renals:2014:RRC:2666253.2666262",
     acm="1",
     placex="Proceedings of the 2014 Workshop on Roadmapping the Future of Multimodal Interaction Research Including Business Opportunities and Challenges",
+))
+
+sulayman2014a = DB(WorkUnrelated(
+    2014, "Towards a theoretical framework of \SPI\ success factors for small and medium web companies",
+    display="sulayman",
+    authors="Muhammad Sulayman and Emilia Mendes and Cathy Urquhart and Mehwish Riaz and Ewan Tempero",
+    place=IST,
+    pp="807 - 820",
+    entrytype="article",
+    volume="56",
+    number="7",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.02.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914000482",
+    keyword="Small and medium web companies",
+    ID="Sulayman2014807",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 vos2014a = DB(WorkUnrelated(

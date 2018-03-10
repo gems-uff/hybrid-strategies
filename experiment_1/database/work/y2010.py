@@ -323,6 +323,63 @@ tisselli2010a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
+wangenheim2010a = DB(WorkUnrelated(
+    2010, "Best practice fusion of CMMI-DEV v1.2 (PP, PMC, SAM) and \PMBOK\ 2008",
+    display="wangenheim",
+    authors="Christiane Gresse von Wangenheim and Djoni Antonio da Silva and Luigi Buglione and Rafael Scheidt and Rafael Prikladnicki",
+    place=IST,
+    pp="749 - 757",
+    entrytype="article",
+    volume="52",
+    number="7",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.03.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910000480",
+    keyword="Basic process areas",
+    ID="vonWangenheim2010749",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+weerd2010a = DB(WorkUnrelated(
+    2010, "Incremental method evolution in global software product management: A retrospective case study",
+    display="weerd",
+    authors="Inge van de Weerd and Sjaak Brinkkemper and Johan Versendaal",
+    place=IST,
+    pp="720 - 732",
+    entrytype="article",
+    volume="52",
+    number="7",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.03.002",
+    link="https://www.sciencedirect.com/science/article/pii/S095058491000042X",
+    keyword="Distributed development",
+    ID="vandeWeerd2010720",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+winter2010a = DB(WorkUnrelated(
+    2010, "\SPI\ success factors within product usability evaluation",
+    display="winter",
+    authors="Jeff Winter and Kari Rönkkö",
+    place=JSS,
+    pp="2059 - 2072",
+    entrytype="article",
+    volume="83",
+    number="11",
+    note="Interplay between Usability Evaluation and Software Development",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2010.04.066",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121210001408",
+    keyword="User experience",
+    ID="Winter20102059",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 zalzala2010a = DB(WorkUnrelated(
     2010, "Software process improvement for the airline industry",
     display="zalzala",

@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+emam2000a = DB(WorkUnrelated(
+    2000, "An empirical review of software process assessments",
+    display="emam",
+    authors="Khaled El Emam and Dennis R. Goldenson",
+    place=FAKE,
+    pp="319 - 423",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowits",
+    publisher="Elsevier",
+    volume="53",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(00)80008-X",
+    link="https://www.sciencedirect.com/science/article/pii/S006524580080008X",
+    ID="Emam2000319",
+    sciencedirect="1",
+    placex="Emphasizing Distributed Systems",
+))
+
 kautz2000a = DB(WorkSnowball(
     2000, "Applying and adjusting a software process improvement model in practice: the use of the IDEAL model in a small software enterprise",
     display="kautz",
@@ -15,4 +34,23 @@ kautz2000a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Kautz2000626",
+))
+
+pfahl2000a = DB(WorkUnrelated(
+    2000, "Using simulation to analyse the impact of software requirement volatility on project performance",
+    display="pfahl",
+    authors="D Pfahl and K Lebsanft",
+    place=IST,
+    pp="1001 - 1008",
+    entrytype="article",
+    volume="42",
+    number="14",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(00)00152-X",
+    link="https://www.sciencedirect.com/science/article/pii/S095058490000152X",
+    keyword="System dynamics",
+    ID="Pfahl20001001",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))

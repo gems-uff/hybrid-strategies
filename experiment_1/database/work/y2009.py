@@ -92,6 +92,25 @@ gunarathne2009a = DB(WorkUnrelated(
     placex="Proceedings of the 5th Grid Computing Environments Workshop",
 ))
 
+kettunen2009a = DB(WorkUnrelated(
+    2009, "Adopting key lessons from agile manufacturing to agile software product developmentA comparative study",
+    display="kettunen",
+    authors="Petri Kettunen",
+    place=FAKE,
+    pp="408 - 422",
+    entrytype="article",
+    volume="29",
+    number="67",
+    note="",
+    issn="0166-4972",
+    doi="https://doi.org/10.1016/j.technovation.2008.10.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0166497208001302",
+    keyword="New product development",
+    ID="Kettunen2009408",
+    sciencedirect="1",
+    placex="Technovation",
+))
+
 qiu2009a = DB(WorkUnrelated(
     2009, "A Study for End Users' Perceptions of Business Strategic Factors Among Different IS/IT Contexts",
     display="qiu",

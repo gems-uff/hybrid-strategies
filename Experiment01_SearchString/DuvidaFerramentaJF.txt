@@ -1,0 +1,18 @@
+Informações BIBTEX extraídas após o resultado de uma busca na Biblioteca Digital Science Direct. Algumas coleções só tem editor, não tem autor. A ferramenta só identifica autor. E com isso, informa que a coleção está incompleta.
+
+
+@incollection{tagkey20051,
+title = "Chapter 1 - What's project management got to do with IT? ",
+editor = "Snedaker, Susan and ,  and Hoenig, Nels ",
+booktitle = "How to Cheat at \{IT\} Project Management ",
+publisher = "Syngress",
+edition = "",
+address = "Burlington",
+year = "2005",
+pages = "1 - 29",
+series = "How to Cheat",
+isbn = "978-1-59749-037-5",
+doi = "https://doi.org/10.1016/B978-159749037-5/50005-8",
+url = "https://www.sciencedirect.com/science/article/pii/B9781597490375500058",
+key = "tagkey20051"
+}

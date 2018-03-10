@@ -69,6 +69,25 @@ deng2007a = DB(WorkUnrelated(
     placex="SIGMETRICS Perform. Eval. Rev.",
 ))
 
+garcía2007a = DB(WorkUnrelated(
+    2007, "Managing software process measurement: A metamodel-based approach",
+    display="garcía",
+    authors="F. García and M. Serrano and J. Cruz-Lemus and F. Ruiz and M. Piattini",
+    place=IC,
+    pp="2570 - 2586",
+    entrytype="article",
+    volume="177",
+    number="12",
+    note="",
+    issn="0020-0255",
+    doi="https://doi.org/10.1016/j.ins.2007.01.018",
+    link="https://www.sciencedirect.com/science/article/pii/S0020025507000424",
+    keyword="Metamodelling",
+    ID="García20072570",
+    sciencedirect="1",
+    placex="Information Sciences",
+))
+
 karagiannis2007a = DB(WorkUnrelated(
     2007, "Business-oriented IT Management: Developing e-Business Applications with E-BPMS",
     display="karagiannis",
