@@ -115,6 +115,25 @@ martins2006a = DB(WorkUnrelated(
     placex="Journal of the Brazilian Computer Society",
 ))
 
+nejmeh2006a = DB(WorkUnrelated(
+    2006, "The \PERFECT\ Approach to Experience-Based Process Evolution",
+    display="nejmeh",
+    authors="Brian A. Nejmeh and William E. Riddle",
+    place=FAKE,
+    pp="173 - 238",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowitz",
+    publisher="Elsevier",
+    volume="66",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(05)66005-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245805660056",
+    ID="Nejmeh2006173",
+    sciencedirect="1",
+    placex="Quality Software Development",
+))
+
 solingen2006a = DB(WorkUnrelated(
     2006, "Calculating Software Process Improvements Return on Investment",
     display="solingen",
@@ -132,6 +151,25 @@ solingen2006a = DB(WorkUnrelated(
     ID="VanSolingen20061",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+wangenheim2006a = DB(WorkUnrelated(
+    2006, "Experiences on establishing software processes in small companies",
+    display="wangenheim",
+    authors="Christiane Gresse von Wangenheim and Sérgio Weber and Jean Carlo Rossa Hauck and Gisele Trentin",
+    place=IST,
+    pp="890 - 900",
+    entrytype="article",
+    volume="48",
+    number="9",
+    note="Special Issue Section: Distributed Software Development",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2005.12.010",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584905001965",
+    keyword="Small Organisation",
+    ID="Wangenheim2006890",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 xu2006a = DB(WorkUnrelated(

@@ -143,6 +143,25 @@ rosselet2009a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Knowledge Capture",
 ))
 
+singh2009a = DB(WorkUnrelated(
+    2009, "An overview of sustainability assessment methodologies",
+    display="singh",
+    authors="Rajesh Kumar Singh and H.R. Murty and S.K. Gupta and A.K. Dikshit",
+    place=FAKE,
+    pp="189 - 212",
+    entrytype="article",
+    volume="9",
+    number="2",
+    note="",
+    issn="1470-160X",
+    doi="https://doi.org/10.1016/j.ecolind.2008.05.011",
+    link="https://www.sciencedirect.com/science/article/pii/S1470160X08000678",
+    keyword="Ratings",
+    ID="Singh2009189",
+    sciencedirect="1",
+    placex="Ecological Indicators",
+))
+
 trienekens2009a = DB(WorkSnowball(
     2009, "Entropy based software processes improvement",
     display="trienekens",
@@ -175,6 +194,25 @@ vieira2009a = DB(WorkUnrelated(
     scopus="1",
     elcompendex="1",
     placex="9th International Conference on Software Process Improvement and Capability Determination, SPICE 2009 - Proceedings",
+))
+
+walia2009a = DB(WorkUnrelated(
+    2009, "A systematic literature review to identify and classify software requirement errors",
+    display="walia",
+    authors="Gursimran Singh Walia and Jeffrey C. Carver",
+    place=IST,
+    pp="1087 - 1109",
+    entrytype="article",
+    volume="51",
+    number="7",
+    note="Special Section: Software Engineering for Secure SystemsSoftware Engineering for Secure Systems",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2009.01.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584909000111",
+    keyword="Software quality",
+    ID="Walia20091087",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 widya2009a = DB(WorkUnrelated(

@@ -3,6 +3,63 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+arcilla2013a = DB(WorkUnrelated(
+    2013, "Building an \IT\ service catalog in a small company as the main input for the \IT\ financial management",
+    display="arcilla",
+    authors="Magdalena Arcilla and Jose A. Calvo-Manzano and Tomás San Feliu",
+    place=CSI,
+    pp="42 - 53",
+    entrytype="article",
+    volume="36",
+    number="1",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2013.07.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0920548913000688",
+    keyword="IT service management",
+    ID="Arcilla201342",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
+))
+
+aversano2013a = DB(WorkUnrelated(
+    2013, "Goal-driven Approach for Business/IT Alignment Evaluation",
+    display="aversano",
+    authors="Lerina Aversano and Carmine Grasso and Maria Tortorella",
+    place=FAKE,
+    pp="388 - 398",
+    entrytype="article",
+    volume="9",
+    number="",
+    note="\{CENTERIS\} 2013 - Conference on \{ENTERprise\} Information Systems / ProjMAN 2013 - International Conference on Project MANagement/ \{HCIST\} 2013 - International Conference on Health and Social Care Information Systems and Technologies",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2013.12.043",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017313001977",
+    keyword="Software System Evaluation",
+    ID="Aversano2013388",
+    sciencedirect="1",
+    placex="Procedia Technology",
+))
+
+baca2013a = DB(WorkUnrelated(
+    2013, "Countermeasure graphs for software security risk assessment: An action research",
+    display="baca",
+    authors="Dejan Baca and Kai Petersen",
+    place=JSS,
+    pp="2411 - 2428",
+    entrytype="article",
+    volume="86",
+    number="9",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2013.04.023",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121213001027",
+    keyword="Countermeasure graphs",
+    ID="Baca20132411",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 barn2013a = DB(WorkUnrelated(
     2013, "Enterprise Architecture Coherence and the Model Driven Enterprise: Is Simulation the Answer or Are We Flying Kites?",
     display="barn",
@@ -71,6 +128,44 @@ chouseinoglou2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+cuenca2013a = DB(WorkUnrelated(
+    2013, "Structural elements of coordination mechanisms in collaborative planning processes and their assessment through maturity models: Application to a ceramic tile company",
+    display="cuenca",
+    authors="Llanos Cuenca and Andrés Boza and M.M.E. Alemany and Jos J.M. Trienekens",
+    place=C,
+    pp="898 - 911",
+    entrytype="article",
+    volume="64",
+    number="8",
+    note="",
+    issn="0166-3615",
+    doi="https://doi.org/10.1016/j.compind.2013.06.019",
+    link="https://www.sciencedirect.com/science/article/pii/S0166361513001334",
+    keyword="Structural elements of coordination mechanisms",
+    ID="Cuenca2013898",
+    sciencedirect="1",
+    placex="Computers in Industry",
+))
+
+daneva2013a = DB(WorkUnrelated(
+    2013, "Agile requirements prioritization in large-scale outsourced system projects: An empirical study",
+    display="daneva",
+    authors="Maya Daneva and Egbert van der Veen and Chintan Amrit and Smita Ghaisas and Klaas Sikkel and Ramesh Kumar and Nirav Ajmeri and Uday Ramteerthkar and Roel Wieringa",
+    place=JSS,
+    pp="1333 - 1353",
+    entrytype="article",
+    volume="86",
+    number="5",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.12.046",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212003536",
+    keyword="Case study",
+    ID="Daneva20131333",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -84,6 +179,25 @@ elliott2013a = DB(WorkUnrelated(
     ID="Elliott:2013:NAP:2492002.2482556",
     acm="1",
     placex="Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
+))
+
+garcíaguzmán2013a = DB(WorkUnrelated(
+    2013, "A process reference model for managing living labs for \ICT\ innovation: A proposal based on ISO/IEC 15504",
+    display="garcíaguzmán",
+    authors="Javier García-Guzmán and Alvaro Fernández del Carpio and Antonio de Amescua and Manuel Velasco",
+    place=CSI,
+    pp="33 - 41",
+    entrytype="article",
+    volume="36",
+    number="1",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2013.07.004",
+    link="https://www.sciencedirect.com/science/article/pii/S092054891300069X",
+    keyword="Case study",
+    ID="GarcíaGuzmán201333",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
 ))
 
 garzás2013a = DB(WorkUnrelated(
@@ -105,6 +219,25 @@ garzás2013a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+gencel2013a = DB(WorkUnrelated(
+    2013, "A decision support framework for metrics selection in goal-based measurement programs: GQM-DSFMS",
+    display="gencel",
+    authors="Cigdem Gencel and Kai Petersen and Aftab Ahmad Mughal and Muhammad Imran Iqbal",
+    place=JSS,
+    pp="3091 - 3108",
+    entrytype="article",
+    volume="86",
+    number="12",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2013.07.022",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121213001726",
+    keyword="Prioritization",
+    ID="Gencel20133091",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 gu2013a = DB(WorkUnrelated(
     2013, "Efficient Moment Estimation with Extremely Small Sample Size via Bayesian Inference for Analog/Mixed-signal Validation",
     display="gu",
@@ -118,6 +251,25 @@ gu2013a = DB(WorkUnrelated(
     ID="Gu:2013:EME:2463209.2488813",
     acm="1",
     placex="Proceedings of the 50th Annual Design Automation Conference",
+))
+
+gu2013b = DB(WorkUnrelated(
+    2013, "The effects of \IS\ resources, capabilities, and qualities on organizational performance: An integrated approach",
+    display="gu b",
+    authors="Ja-Whan Gu and Ho-Won Jung",
+    place=FAKE,
+    pp="87 - 97",
+    entrytype="article",
+    volume="50",
+    number="23",
+    note="",
+    issn="0378-7206",
+    doi="https://doi.org/10.1016/j.im.2013.02.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0378720613000049",
+    keyword="SEM",
+    ID="Gu201387",
+    sciencedirect="1",
+    placex="Information & Management",
 ))
 
 herranz2013a = DB(WorkUnrelated(
@@ -139,6 +291,25 @@ herranz2013a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+kasoju2013a = DB(WorkUnrelated(
+    2013, "Analyzing an automotive testing process with evidence-based software engineering",
+    display="kasoju",
+    authors="Abhinaya Kasoju and Kai Petersen and Mika V. Mäntylä",
+    place=IST,
+    pp="1237 - 1259",
+    entrytype="article",
+    volume="55",
+    number="7",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2013.01.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584913000165",
+    keyword="Automotive software testing",
+    ID="Kasoju20131237",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 kazato2013a = DB(WorkUnrelated(
     2013, "Towards Classification of DNS Erroneous Queries",
     display="kazato",
@@ -152,6 +323,25 @@ kazato2013a = DB(WorkUnrelated(
     ID="Kazato:2013:TCD:2534142.2534146",
     acm="1",
     placex="Proceedings of the 9th Asian Internet Engineering Conference",
+))
+
+maglyas2013a = DB(WorkUnrelated(
+    2013, "What are the roles of software product managers? An empirical investigation",
+    display="maglyas",
+    authors="Andrey Maglyas and Uolevi Nikula and Kari Smolander",
+    place=JSS,
+    pp="3071 - 3090",
+    entrytype="article",
+    volume="86",
+    number="12",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2013.07.045",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121213001891",
+    keyword="Grounded theory",
+    ID="Maglyas20133071",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 makris2013a = DB(WorkUnrelated(
@@ -169,6 +359,44 @@ makris2013a = DB(WorkUnrelated(
     placex="Proceedings of the 28th Annual ACM Symposium on Applied Computing",
 ))
 
+marques2013a = DB(WorkUnrelated(
+    2013, "Project Management Success I-C-E Model  A Work in Progress",
+    display="marques",
+    authors="António Marques and João Varajão and Joaquim Sousa and Emanuel Peres",
+    place=FAKE,
+    pp="910 - 914",
+    entrytype="article",
+    volume="9",
+    number="",
+    note="\{CENTERIS\} 2013 - Conference on \{ENTERprise\} Information Systems / ProjMAN 2013 - International Conference on Project MANagement/ \{HCIST\} 2013 - International Conference on Health and Social Care Information Systems and Technologies",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2013.12.101",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017313002557",
+    keyword="software development",
+    ID="Marques2013910",
+    sciencedirect="1",
+    placex="Procedia Technology",
+))
+
+mite2013a = DB(WorkUnrelated(
+    2013, "Offshore insourcing in software development: Structuring the decision-making process",
+    display="mite",
+    authors="Darja mite and Claes Wohlin and Aybüke Aurum and Ronald Jabangwe and Emil Numminen",
+    place=JSS,
+    pp="1054 - 1067",
+    entrytype="article",
+    volume="86",
+    number="4",
+    note="\{SI\} : Software Engineering in Brazil: Retrospective and Prospective Views",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.10.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212002816",
+    keyword="Empirical field study",
+    ID="mite20131054",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 oloniteru2013a = DB(WorkUnrelated(
     2013, "On Ekiti's Smart Governance for Development Approach: A Reflexive Account",
     display="oloniteru",
@@ -182,6 +410,25 @@ oloniteru2013a = DB(WorkUnrelated(
     ID="Oloniteru:2013:ESG:2591888.2591920",
     acm="1",
     placex="Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance",
+))
+
+pardo2013a = DB(WorkUnrelated(
+    2013, "From chaos to the systematic harmonization of multiple reference models: A harmonization framework applied in two case studies",
+    display="pardo",
+    authors="César Pardo and Francisco J. Pino and Félix Garcia and Maria Teresa Baldassarre and Mario Piattini",
+    place=JSS,
+    pp="125 - 143",
+    entrytype="article",
+    volume="86",
+    number="1",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.07.072",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212002282",
+    keyword="Case study",
+    ID="Pardo2013125",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 rinkevics2013a = DB(WorkUnrelated(

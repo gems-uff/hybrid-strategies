@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aversano2012a = DB(WorkUnrelated(
+    2012, "A Literature Review of Business/IT Alignment Strategies",
+    display="aversano",
+    authors="Lerina Aversano and Carmine Grasso and Maria Tortorella",
+    place=FAKE,
+    pp="462 - 474",
+    entrytype="article",
+    volume="5",
+    number="",
+    note="4th Conference of \{ENTERprise\} Information Systems  aligning technology, organizations and people (CENTERIS 2012)",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2012.09.051",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017312004823",
+    keyword="alignment",
+    ID="Aversano2012462",
+    sciencedirect="1",
+    placex="Procedia Technology",
+))
+
 bayona2012a = DB(WorkUnrelated(
     2012, "Critical success factors in software process improvement: A systematic review",
     display="bayona",
@@ -56,6 +75,63 @@ delgado2012a = DB(WorkUnrelated(
     ID="Delgado:2012:MTB:2245276.2232053",
     acm="1",
     placex="Proceedings of the 27th Annual ACM Symposium on Applied Computing",
+))
+
+dingsøyr2012a = DB(WorkUnrelated(
+    2012, "A decade of agile methodologies: Towards explaining agile software development",
+    display="dingsøyr",
+    authors="Torgeir Dingsøyr and Sridhar Nerur and VenuGopal Balijepally and Nils Brede Moe",
+    place=JSS,
+    pp="1213 - 1221",
+    entrytype="article",
+    volume="85",
+    number="6",
+    note="Special Issue: Agile Development",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.02.033",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212000532",
+    keyword="Feature-driven development",
+    ID="Dingsøyr20121213",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+domínguezmayo2012a = DB(WorkUnrelated(
+    2012, "Quality evaluation for Model-Driven Web Engineering methodologies",
+    display="domínguezmayo",
+    authors="F.J. Domínguez-Mayo and M.J. Escalona and M. Mejías and M. Ross and G. Staples",
+    place=IST,
+    pp="1265 - 1282",
+    entrytype="article",
+    volume="54",
+    number="11",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2012.06.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584912001103",
+    keyword="Software quality/SQA",
+    ID="DomínguezMayo20121265",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+domínguezmayo2012ab = DB(WorkUnrelated(
+    2012, "A quality management based on the Quality Model life cycle",
+    display="domínguezmayo",
+    authors="F.J. Domínguez-Mayo and M.J. Escalona and M. Mejías and M. Ross and G. Staples",
+    place=CSI,
+    pp="396 - 412",
+    entrytype="article",
+    volume="34",
+    number="4",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2012.01.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0920548912000165",
+    keyword="Model-driven Web Engineering",
+    ID="DomínguezMayo2012396",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
 ))
 
 draghici2012a = DB(WorkUnrelated(
@@ -124,6 +200,45 @@ jacobson2012a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
+kasurinen2012a = DB(WorkUnrelated(
+    2012, "Software Organizations and Test Process Development",
+    display="kasurinen",
+    authors="Jussi Kasurinen",
+    place=FAKE,
+    pp="1 - 63",
+    entrytype="incollection",
+    editor="Atif Memon",
+    publisher="Elsevier",
+    volume="85",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/B978-0-12-396526-4.00001-1",
+    link="https://www.sciencedirect.com/science/article/pii/B9780123965264000011",
+    keyword="test strategy",
+    ID="Kasurinen20121",
+    sciencedirect="1",
+    placex="",
+))
+
+kirk2012a = DB(WorkUnrelated(
+    2012, "A lightweight framework for describing software practices",
+    display="kirk",
+    authors="Diana Kirk and Ewan Tempero",
+    place=JSS,
+    pp="582 - 595",
+    entrytype="article",
+    volume="85",
+    number="3",
+    note="Novel approaches in the design and implementation of systems/software architecture",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2011.09.024",
+    link="https://www.sciencedirect.com/science/article/pii/S016412121100241X",
+    keyword="Research framework",
+    ID="Kirk2012582",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 lepmets2012a = DB(WorkUnrelated(
     2012, "Goal alignment in process improvement",
     display="lepmets",
@@ -141,6 +256,25 @@ lepmets2012a = DB(WorkUnrelated(
     ID="Lepmets20121440",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+lim2012a = DB(WorkUnrelated(
+    2012, "Hybrid genetic algorithm and association rules for mining workflow best practices",
+    display="lim",
+    authors="Amy H.L. Lim and Chien-Sing Lee and Murali Raman",
+    place=FAKE,
+    pp="10544 - 10551",
+    entrytype="article",
+    volume="39",
+    number="12",
+    note="",
+    issn="0957-4174",
+    doi="https://doi.org/10.1016/j.eswa.2012.02.183",
+    link="https://www.sciencedirect.com/science/article/pii/S0957417412004526",
+    keyword="E-commerce",
+    ID="Lim201210544",
+    sciencedirect="1",
+    placex="Expert Systems with Applications",
 ))
 
 mesquida2012a = DB(WorkUnrelated(
@@ -162,6 +296,82 @@ mesquida2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+murphy2012a = DB(WorkUnrelated(
+    2012, "An analysis of non-observance of best practice in a software measurement program",
+    display="murphy",
+    authors="Thomas Murphy and Kathryn Cormican",
+    place=FAKE,
+    pp="50 - 58",
+    entrytype="article",
+    volume="5",
+    number="",
+    note="4th Conference of \{ENTERprise\} Information Systems  aligning technology, organizations and people (CENTERIS 2012)",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2012.09.006",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017312004379",
+    keyword="exploratory research",
+    ID="Murphy201250",
+    sciencedirect="1",
+    placex="Procedia Technology",
+))
+
+pardo2012a = DB(WorkUnrelated(
+    2012, "An ontology for the harmonization of multiple standards and models",
+    display="pardo",
+    authors="César Pardo and Francisco J. Pino and Félix García and Mario Piattini and Maria Teresa Baldassarre",
+    place=CSI,
+    pp="48 - 59",
+    entrytype="article",
+    volume="34",
+    number="1",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2011.05.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0920548911000675",
+    keyword="Models",
+    ID="Pardo201248",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
+))
+
+pareto2012a = DB(WorkUnrelated(
+    2012, "Collaborative prioritization of architectural concerns",
+    display="pareto",
+    authors="Lars Pareto and Anna Börjesson Sandberg and Peter Eriksson and Staffan Ehnebom",
+    place=JSS,
+    pp="1971 - 1994",
+    entrytype="article",
+    volume="85",
+    number="9",
+    note="Selected papers from the 2011 Joint Working IEEE/IFIP Conference on Software Architecture (WICSA 2011)",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.04.054",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212001252",
+    keyword="Software architecture evolution",
+    ID="Pareto20121971",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+singh2012a = DB(WorkUnrelated(
+    2012, "An overview of sustainability assessment methodologies",
+    display="singh",
+    authors="Rajesh Kumar Singh and H.R. Murty and S.K. Gupta and A.K. Dikshit",
+    place=FAKE,
+    pp="281 - 299",
+    entrytype="article",
+    volume="15",
+    number="1",
+    note="",
+    issn="1470-160X",
+    doi="https://doi.org/10.1016/j.ecolind.2011.01.007",
+    link="https://www.sciencedirect.com/science/article/pii/S1470160X11000240",
+    keyword="Ratings",
+    ID="Singh2012281",
+    sciencedirect="1",
+    placex="Ecological Indicators",
+))
+
 sulayman2012a = DB(WorkUnrelated(
     2012, "Software process improvement success factors for small and medium Web companies: A qualitative study",
     display="sulayman",
@@ -177,6 +387,25 @@ sulayman2012a = DB(WorkUnrelated(
     link="https://www.sciencedirect.com/science/article/pii/S0950584911002515",
     keyword="Grounded theory",
     ID="Sulayman2012479",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+wendler2012a = DB(WorkUnrelated(
+    2012, "The maturity of maturity model research: A systematic mapping study",
+    display="wendler",
+    authors="Roy Wendler",
+    place=IST,
+    pp="1317 - 1339",
+    entrytype="article",
+    volume="54",
+    number="12",
+    note="Special Section on Software Reliability and Security",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2012.07.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584912001334",
+    keyword="Systematic mapping study",
+    ID="Wendler20121317",
     sciencedirect="1",
     placex="Information and Software Technology",
 ))

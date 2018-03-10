@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+kontio1998a = DB(WorkUnrelated(
+    1998, "A Software Process Engineering Framework",
+    display="kontio",
+    authors="Jyrki Kontio",
+    place=FAKE,
+    pp="35 - 108",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowitz",
+    publisher="Elsevier",
+    volume="46",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(08)60203-X",
+    link="https://www.sciencedirect.com/science/article/pii/S006524580860203X",
+    ID="Kontio199835",
+    sciencedirect="1",
+    placex="",
+))
+
 paulk1998a = DB(WorkUnrelated(
     1998, "Software Process Appraisal and Improvement: Models and Standards",
     display="paulk",

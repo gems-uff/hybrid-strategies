@@ -116,6 +116,43 @@ ghaly2011a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd International Conference on Computing for Geospatial Research & Applications",
 ))
 
+hassanzadeh2011a = DB(WorkUnrelated(
+    2011, "Developing a framework for evaluating service oriented architecture governance (SOAG)",
+    display="hassanzadeh",
+    authors="Alireza Hassanzadeh and Leila Namdarian and Shaban Elahi",
+    place=FAKE,
+    pp="716 - 730",
+    entrytype="article",
+    volume="24",
+    number="5",
+    note="",
+    issn="0950-7051",
+    doi="https://doi.org/10.1016/j.knosys.2011.02.012",
+    link="https://www.sciencedirect.com/science/article/pii/S0950705111000396",
+    keyword="SOA governance evaluation",
+    ID="Hassanzadeh2011716",
+    sciencedirect="1",
+    placex="Knowledge-Based Systems",
+))
+
+jansson2011a = DB(WorkUnrelated(
+    2011, "Collaborative Project Alignment",
+    display="jansson",
+    authors="Kim Jansson and Iris Karvonen and Martin Ollus and Mikko Uoti",
+    place=FAKE,
+    pp="11955 - 11960",
+    entrytype="article",
+    volume="44",
+    number="1",
+    note="18th \{IFAC\} World Congress",
+    issn="1474-6670",
+    doi="https://doi.org/10.3182/20110828-6-IT-1002.01755",
+    link="https://www.sciencedirect.com/science/article/pii/S1474667016455370",
+    ID="Jansson201111955",
+    sciencedirect="1",
+    placex="\{IFAC\} Proceedings Volumes",
+))
+
 kaneko2011a = DB(WorkSnowball(
     2011, "Application of GQM+Strategies® in the Japanese space industry",
     display="kaneko",
@@ -133,6 +170,63 @@ kaneko2011a = DB(WorkSnowball(
     scopus="1",
     elcompendex="1",
     placex="Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011",
+))
+
+kannabiran2011a = DB(WorkUnrelated(
+    2011, "Determinants of software quality in offshore development  An empirical study of an Indian vendor",
+    display="kannabiran",
+    authors="G. Kannabiran and K. Sankaran",
+    place=IST,
+    pp="1199 - 1208",
+    entrytype="article",
+    volume="53",
+    number="11",
+    note="\{AMOST\} 2010AMOST 2010",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2011.05.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584911001030",
+    keyword="Indian organizations",
+    ID="Kannabiran20111199",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+karg2011a = DB(WorkUnrelated(
+    2011, "A systematic literature review of software quality cost research",
+    display="karg",
+    authors="Lars M. Karg and Michael Grottke and Arne Beckhaus",
+    place=JSS,
+    pp="415 - 427",
+    entrytype="article",
+    volume="84",
+    number="3",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2010.11.904",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121210003146",
+    keyword="Quality costs",
+    ID="Karg2011415",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+lane2011a = DB(WorkUnrelated(
+    2011, "Process models for service-based applications: A systematic literature review",
+    display="lane",
+    authors="Stephen Lane and Ita Richardson",
+    place=IST,
+    pp="424 - 439",
+    entrytype="article",
+    volume="53",
+    number="5",
+    note="Special Section on Best Papers from \{XP2010\}",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.12.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910002211",
+    keyword="Systematic literature review",
+    ID="Lane2011424",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 nieters2011a = DB(WorkUnrelated(
@@ -207,6 +301,25 @@ stallinger2011a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
+suomalainen2011a = DB(WorkUnrelated(
+    2011, "Software product roadmapping in a volatile business environment",
+    display="suomalainen",
+    authors="Tanja Suomalainen and Outi Salo and Pekka Abrahamsson and Jouni Similä",
+    place=JSS,
+    pp="958 - 975",
+    entrytype="article",
+    volume="84",
+    number="6",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2011.01.031",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121211000239",
+    keyword="Software product management",
+    ID="Suomalainen2011958",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 tietz2011a = DB(WorkUnrelated(
     2011, "Towards Task-based Development of Enterprise Mashups",
     display="tietz",
@@ -220,4 +333,23 @@ tietz2011a = DB(WorkUnrelated(
     ID="Tietz:2011:TTD:2095536.2095594",
     acm="1",
     placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
+))
+
+valdés2011a = DB(WorkUnrelated(
+    2011, "Conception, development and implementation of an e-Government maturity model in public agencies",
+    display="valdés",
+    authors="Gonzalo Valdés and Mauricio Solar and Hernán Astudillo and Marcelo Iribarren and Gastón Concha and Marcello Visconti",
+    place=FAKE,
+    pp="176 - 187",
+    entrytype="article",
+    volume="28",
+    number="2",
+    note="",
+    issn="0740-624X",
+    doi="https://doi.org/10.1016/j.giq.2010.04.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0740624X10001310",
+    keyword="IT governance",
+    ID="Valdés2011176",
+    sciencedirect="1",
+    placex="Government Information Quarterly",
 ))

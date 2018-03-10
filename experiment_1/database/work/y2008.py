@@ -18,6 +18,25 @@ asokan2008a = DB(WorkUnrelated(
     placex="CHI '08 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
+aurum2008a = DB(WorkUnrelated(
+    2008, "Investigating Knowledge Management practices in software development organisations  An Australian experience",
+    display="aurum",
+    authors="Aybüke Aurum and Farhad Daneshgar and James Ward",
+    place=IST,
+    pp="511 - 533",
+    entrytype="article",
+    volume="50",
+    number="6",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2007.05.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584907000602",
+    keyword="KM process enablers",
+    ID="Aurum2008511",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 babar2008a = DB(WorkUnrelated(
     2008, "Problem Frames and Business Strategy Modelling",
     display="babar",
@@ -87,6 +106,25 @@ becker2008b = DB(WorkSnowball(
     ID="Becker:2008:SAS:1370837.1370840",
 ))
 
+bjørnson2008a = DB(WorkUnrelated(
+    2008, "Knowledge management in software engineering: A systematic review of studied concepts, findings and research methods used",
+    display="bjørnson",
+    authors="Finn Olav Bjørnson and Torgeir Dingsøyr",
+    place=IST,
+    pp="1055 - 1068",
+    entrytype="article",
+    volume="50",
+    number="11",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2008.03.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584908000487",
+    keyword="Systematic review",
+    ID="Bjørnson20081055",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 cheng2008a = DB(WorkUnrelated(
     2008, "Semi-supervised Learning with Data Calibration for Long-term Time Series Forecasting",
     display="cheng",
@@ -134,6 +172,44 @@ fairweather2008a = DB(WorkUnrelated(
     ID="Fairweather:2008:OYA:1414471.1414485",
     acm="1",
     placex="Proceedings of the 10th International ACM SIGACCESS Conference on Computers and Accessibility",
+))
+
+gorschek2008a = DB(WorkUnrelated(
+    2008, "Requirements engineering: In search of the dependent variables",
+    display="gorschek",
+    authors="Tony Gorschek and Alan M. Davis",
+    place=IST,
+    pp="67 - 75",
+    entrytype="article",
+    volume="50",
+    number="12",
+    note="Special issue with two special sections. Section 1: Most-cited software engineering articles in 2001. Section 2: Requirement engineering: Foundation for software quality",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2007.10.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584907001188",
+    keyword="Organizational perspective",
+    ID="Gorschek200867",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+hanssen2008a = DB(WorkUnrelated(
+    2008, "Process fusion: An industrial case study on agile software product line engineering",
+    display="hanssen",
+    authors="Geir K. Hanssen and Tor E. Fægri",
+    place=JSS,
+    pp="843 - 854",
+    entrytype="article",
+    volume="81",
+    number="6",
+    note="Agile Product Line Engineering",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2007.10.025",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121207002518",
+    keyword="Agile software development",
+    ID="Hanssen2008843",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 hornbæk2008a = DB(WorkUnrelated(
@@ -229,6 +305,25 @@ punyabukkana2008a = DB(WorkUnrelated(
     ID="Punyabukkana:2008:TND:1368044.1368065",
     acm="1",
     placex="Proceedings of the 2008 International Cross-disciplinary Conference on Web Accessibility (W4A)",
+))
+
+qumer2008a = DB(WorkUnrelated(
+    2008, "A framework to support the evaluation, adoption and improvement of agile methods in practice",
+    display="qumer",
+    authors="A. Qumer and B. Henderson-Sellers",
+    place=JSS,
+    pp="1899 - 1919",
+    entrytype="article",
+    volume="81",
+    number="11",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2007.12.806",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121208000113",
+    keyword="Industry case studies",
+    ID="Qumer20081899",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 reitbauer2008a = DB(WorkUnrelated(

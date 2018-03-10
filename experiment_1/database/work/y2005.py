@@ -62,6 +62,25 @@ chaudet2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Conference on Emerging Network Experiment and Technology",
 ))
 
+coallier2005a = DB(WorkUnrelated(
+    2005, "A Product Line engineering practices model",
+    display="coallier",
+    authors="François Coallier and Roger Champagne",
+    place=SCP,
+    pp="73 - 87",
+    entrytype="article",
+    volume="57",
+    number="1",
+    note="System and Software Architectures3rd International Workshop on System/Software Architectures",
+    issn="0167-6423",
+    doi="https://doi.org/10.1016/j.scico.2004.10.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0167642304001923",
+    keyword="System analysis and design",
+    ID="Coallier200573",
+    sciencedirect="1",
+    placex="Science of Computer Programming",
+))
+
 gairing2005a = DB(WorkUnrelated(
     2005, "Selfish Routing with Incomplete Information",
     display="gairing",

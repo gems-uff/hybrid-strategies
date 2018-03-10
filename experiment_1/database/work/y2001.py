@@ -35,6 +35,25 @@ counsell2001a = DB(WorkUnrelated(
     placex="Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural Heritage",
 ))
 
+niessink2001a = DB(WorkUnrelated(
+    2001, "Measurement program success factors revisited",
+    display="niessink",
+    authors="Frank Niessink and Hans van Vliet",
+    place=IST,
+    pp="617 - 628",
+    entrytype="article",
+    volume="43",
+    number="10",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(01)00168-9",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584901001689",
+    keyword="Measurement-based improvement",
+    ID="Niessink2001617",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 smart2001a = DB(WorkUnrelated(
     2001, "Creating Effective and Enjoyable Documentation: Enhancing the Experience of Users by Aligning Information with Strategic Direction and Customer Insights",
     display="smart",

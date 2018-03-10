@@ -37,6 +37,25 @@ hansen2004a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+kauppinen2004a = DB(WorkUnrelated(
+    2004, "Implementing requirements engineering processes throughout organizations: success factors and challenges",
+    display="kauppinen",
+    authors="Marjo Kauppinen and Matti Vartiainen and Jyrki Kontio and Sari Kujala and Reijo Sulonen",
+    place=IST,
+    pp="937 - 953",
+    entrytype="article",
+    volume="46",
+    number="14",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2004.04.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584904000692",
+    keyword="Action research",
+    ID="Kauppinen2004937",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 letier2004a = DB(WorkUnrelated(
     2004, "Reasoning About Partial Goal Satisfaction for Requirements and Design Engineering",
     display="letier",
@@ -52,4 +71,23 @@ letier2004a = DB(WorkUnrelated(
     ID="Letier:2004:RPG:1041685.1029905",
     acm="1",
     placex="SIGSOFT Softw. Eng. Notes",
+))
+
+rittinghouse2004a = DB(WorkUnrelated(
+    2004, "1 - Understanding the \SPMO",
+    display="rittinghouse",
+    authors="John W. Rittinghouse",
+    place=FAKE,
+    pp="1 - 30",
+    entrytype="incollection",
+    editor="Rittinghouse, John W.",
+    publisher="Digital Press",
+    edition="",
+    address="Burlington",
+    isbn="978-1-55558-313-2",
+    doi="https://doi.org/10.1016/B978-155558313-2/50004-2",
+    link="https://www.sciencedirect.com/science/article/pii/B9781555583132500042",
+    ID="Rittinghouse20041",
+    sciencedirect="1",
+    placex="Managing Software Deliverables",
 ))

@@ -22,6 +22,25 @@ ali2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+baskerville2014a = DB(WorkUnrelated(
+    2014, "Incident-centered information security: Managing a strategic balance between prevention and response",
+    display="baskerville",
+    authors="Richard Baskerville and Paolo Spagnoletti and Jongwoo Kim",
+    place=FAKE,
+    pp="138 - 151",
+    entrytype="article",
+    volume="51",
+    number="1",
+    note="",
+    issn="0378-7206",
+    doi="https://doi.org/10.1016/j.im.2013.11.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0378720613001171",
+    keyword="Incident-centered analysis",
+    ID="Baskerville2014138",
+    sciencedirect="1",
+    placex="Information & Management",
+))
+
 bosch2014a = DB(WorkUnrelated(
     2014, "ESAO: Towards Data- and Ecosystem-driven R&#38;D",
     display="bosch",
@@ -84,6 +103,25 @@ delgado2014a = DB(WorkUnrelated(
     ID="Delgado2014134",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+fontana2014a = DB(WorkUnrelated(
+    2014, "Processes versus people: How should agile software development maturity be defined?",
+    display="fontana",
+    authors="Rafaela Mantovani Fontana and Isabela Mantovani Fontana and Paula Andrea da Rosa Garbuio and Sheila Reinehr and Andreia Malucelli",
+    place=JSS,
+    pp="140 - 155",
+    entrytype="article",
+    volume="97",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2014.07.030",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121214001587",
+    keyword="Software process improvement",
+    ID="Fontana2014140",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 ghanavati2014a = DB(WorkUnrelated(
@@ -166,6 +204,25 @@ mitrehernández2014a = DB(WorkUnrelated(
     placex="Ingeniería, Investigación y Tecnología",
 ))
 
+nielsen2014a = DB(WorkUnrelated(
+    2014, "\IT\ portfolio decision-making in local governments: Rationality, politics, intuition and coincidences",
+    display="nielsen",
+    authors="Jeppe Agger Nielsen and Keld Pedersen",
+    place=FAKE,
+    pp="411 - 420",
+    entrytype="article",
+    volume="31",
+    number="3",
+    note="",
+    issn="0740-624X",
+    doi="https://doi.org/10.1016/j.giq.2014.04.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0740624X14000926",
+    keyword="Case-study",
+    ID="Nielsen2014411",
+    sciencedirect="1",
+    placex="Government Information Quarterly",
+))
+
 nieters2014a = DB(WorkUnrelated(
     2014, "Rapid Design Labs: A Tool to Turbocharge Design-led Innovation",
     display="nieters",
@@ -194,6 +251,25 @@ odiit2014a = DB(WorkUnrelated(
     ID="Odiit:2014:AIS:2664591.2664624",
     acm="1",
     placex="Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology",
+))
+
+orta2014a = DB(WorkUnrelated(
+    2014, "Decision-making in \IT\ service management: a simulation based approach",
+    display="orta",
+    authors="Elena Orta and Mercedes Ruiz and Nuria Hurtado and David Gawn",
+    place=FAKE,
+    pp="36 - 51",
+    entrytype="article",
+    volume="66",
+    number="",
+    note="",
+    issn="0167-9236",
+    doi="https://doi.org/10.1016/j.dss.2014.06.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0167923614001766",
+    keyword="Capacity management",
+    ID="Orta201436",
+    sciencedirect="1",
+    placex="Decision Support Systems",
 ))
 
 rahrovani2014a = DB(WorkUnrelated(
@@ -260,6 +336,44 @@ sulayman2014a = DB(WorkUnrelated(
     ID="Sulayman2014807",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+tessem2014a = DB(WorkUnrelated(
+    2014, "Individual empowerment of agile and non-agile software developers in small teams",
+    display="tessem",
+    authors="Bjørnar Tessem",
+    place=IST,
+    pp="873 - 889",
+    entrytype="article",
+    volume="56",
+    number="8",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.02.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914000470",
+    keyword="Empowerment",
+    ID="Tessem2014873",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+verner2014a = DB(WorkUnrelated(
+    2014, "Factors that motivate software engineering teams: A four country empirical study",
+    display="verner",
+    authors="J.M. Verner and M.A. Babar and N. Cerpa and T. Hall and S. Beecham",
+    place=JSS,
+    pp="115 - 127",
+    entrytype="article",
+    volume="92",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2014.01.008",
+    link="https://www.sciencedirect.com/science/article/pii/S016412121400020X",
+    keyword="Motivational factors",
+    ID="Verner2014115",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 vos2014a = DB(WorkUnrelated(

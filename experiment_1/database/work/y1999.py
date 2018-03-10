@@ -60,6 +60,24 @@ garbett1999a = DB(WorkUnrelated(
     placex="Microprocessors and Microsystems",
 ))
 
+raffo1999a = DB(WorkUnrelated(
+    1999, "Software process simulation to achieve higher \CMM\ levels",
+    display="raffo",
+    authors="David M Raffo and Joseph V Vandeville and Robert H Martin",
+    place=JSS,
+    pp="163 - 172",
+    entrytype="article",
+    volume="46",
+    number="23",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/S0164-1212(99)00009-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121299000096",
+    ID="Raffo1999163",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 sommerville1999a = DB(WorkSnowball(
     1999, "Managing process inconsistency using viewpoints",
     display="sommerville",

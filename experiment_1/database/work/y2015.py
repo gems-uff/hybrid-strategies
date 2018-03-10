@@ -37,6 +37,63 @@ beheshitha2015a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Learning Analytics And Knowledge",
 ))
 
+cakula2015a = DB(WorkUnrelated(
+    2015, "Automated Learning Support System for Adult Education Institutions and Enterprises",
+    display="cakula",
+    authors="Sarma Cakula and Andra Jakobsone and Monica Florea",
+    place=FAKE,
+    pp="191 - 198",
+    entrytype="article",
+    volume="77",
+    number="",
+    note="\{ICTE\} in regional Development 2015 Valmiera, Latvia",
+    issn="1877-0509",
+    doi="https://doi.org/10.1016/j.procs.2015.12.383",
+    link="https://www.sciencedirect.com/science/article/pii/S1877050915038934",
+    keyword="Information systems (IS)",
+    ID="Cakula2015191",
+    sciencedirect="1",
+    placex="Procedia Computer Science",
+))
+
+fagerholm2015a = DB(WorkUnrelated(
+    2015, "Performance Alignment Work: How software developers experience the continuous adaptation of team performance in Lean and Agile environments",
+    display="fagerholm",
+    authors="Fabian Fagerholm and Marko Ikonen and Petri Kettunen and Jürgen Münch and Virpi Roto and Pekka Abrahamsson",
+    place=IST,
+    pp="132 - 147",
+    entrytype="article",
+    volume="64",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2015.01.010",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584915000269",
+    keyword="Lean software development",
+    ID="Fagerholm2015132",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+fontana2015a = DB(WorkUnrelated(
+    2015, "Progressive Outcomes: A framework for maturing in agile software development",
+    display="fontana",
+    authors="Rafaela Mantovani Fontana and Victor Meyer Jr. and Sheila Reinehr and Andreia Malucelli",
+    place=JSS,
+    pp="88 - 108",
+    entrytype="article",
+    volume="102",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2014.12.032",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121214002908",
+    keyword="Ambidexterity",
+    ID="Fontana201588",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 garcíamireles2015a = DB(WorkUnrelated(
     2015, "Approaches to promote product quality within software process improvement initiatives: A mapping study",
     display="garcíamireles",
@@ -56,6 +113,63 @@ garcíamireles2015a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+garousi2015a = DB(WorkUnrelated(
+    2015, "A survey of software engineering practices in Turkey",
+    display="garousi",
+    authors="Vahid Garousi and Ahmet Co?kunçay and Aysu Betin-Can and Onur Demirörs",
+    place=JSS,
+    pp="148 - 177",
+    entrytype="article",
+    volume="108",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2015.06.036",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121215001314",
+    keyword="Turkey",
+    ID="Garousi2015148",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+gossen2015a = DB(WorkUnrelated(
+    2015, "Anti-counterfeiting Effectivity Analysis Using Attack and Defense Tree Scenario Methods",
+    display="gossen",
+    authors="E. Gossen and J. Eckardt and E. Abele",
+    place=FAKE,
+    pp="12 - 17",
+    entrytype="article",
+    volume="37",
+    number="",
+    note="\{CIRPe\} 2015 - Understanding the life cycle implications of manufacturing",
+    issn="2212-8271",
+    doi="https://doi.org/10.1016/j.procir.2015.08.102",
+    link="https://www.sciencedirect.com/science/article/pii/S2212827115009634",
+    keyword="Cost-benefit analysis",
+    ID="Gossen201512",
+    sciencedirect="1",
+    placex="Procedia \{CIRP\}",
+))
+
+gren2015a = DB(WorkUnrelated(
+    2015, "The prospects of a quantitative measurement of agility: A validation study on an agile maturity model",
+    display="gren",
+    authors="Lucas Gren and Richard Torkar and Robert Feldt",
+    place=JSS,
+    pp="38 - 49",
+    entrytype="article",
+    volume="107",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2015.05.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121215001028",
+    keyword="Validation",
+    ID="Gren201538",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 hithnawi2015a = DB(WorkUnrelated(
     2015, "TIIM: Technology-independent Interference Mitigation for Low-power Wireless Networks",
     display="hithnawi",
@@ -69,6 +183,25 @@ hithnawi2015a = DB(WorkUnrelated(
     ID="Hithnawi:2015:TTI:2737095.2737104",
     acm="1",
     placex="Proceedings of the 14th International Conference on Information Processing in Sensor Networks",
+))
+
+hurtado2015a = DB(WorkUnrelated(
+    2015, "Using simulation to aid decision making in managing the usability evaluation process",
+    display="hurtado",
+    authors="Nuria Hurtado and Mercedes Ruiz and Elena Orta and Jesús Torres",
+    place=IST,
+    pp="509 - 526",
+    entrytype="article",
+    volume="57",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.06.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914001402",
+    keyword="Software process improvement",
+    ID="Hurtado2015509",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 karjoth2015a = DB(WorkUnrelated(
@@ -100,6 +233,25 @@ kerzazi2015a = DB(WorkUnrelated(
         bookgroupauthor="IEEE",
         note="10th International Conference on Intelligent Systems - Theories and Applications (SITA), ENSIAS, Rabat, MOROCCO, OCT 20-21, 2015",
         placex="INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS: THEORIES AND APPLICATIONS",
+))
+
+kowalczyk2015a = DB(WorkUnrelated(
+    2015, "An ambidextrous perspective on business intelligence and analytics support in decision processes: Insights from a multiple case study",
+    display="kowalczyk",
+    authors="Martin Kowalczyk and Peter Buxmann",
+    place=FAKE,
+    pp="1 - 13",
+    entrytype="article",
+    volume="80",
+    number="",
+    note="",
+    issn="0167-9236",
+    doi="https://doi.org/10.1016/j.dss.2015.08.010",
+    link="https://www.sciencedirect.com/science/article/pii/S0167923615001633",
+    keyword="Ambidexterity",
+    ID="Kowalczyk20151",
+    sciencedirect="1",
+    placex="Decision Support Systems",
 ))
 
 liu2015a = DB(WorkUnrelated(
@@ -149,6 +301,25 @@ marcolin2015a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+mesquida2015a = DB(WorkUnrelated(
+    2015, "Implementing information security best practices on software lifecycle processes: The ISO/IEC 15504 Security Extension",
+    display="mesquida",
+    authors="Antoni Lluís Mesquida and Antonia Mas",
+    place=C,
+    pp="19 - 34",
+    entrytype="article",
+    volume="48",
+    number="",
+    note="",
+    issn="0167-4048",
+    doi="https://doi.org/10.1016/j.cose.2014.09.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0167404814001345",
+    keyword="Software process improvement (SPI)",
+    ID="Mesquida201519",
+    sciencedirect="1",
+    placex="Computers & Security",
+))
+
 oConnor2015a = DB(WorkSnowball(
     2015, "Exploring the use of the cynefin framework to inform software development approach decisions",
     display="oConnor",
@@ -163,6 +334,25 @@ oConnor2015a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="O'Connor201597",
+))
+
+pernstål2015a = DB(WorkUnrelated(
+    2015, "Requirements communication and balancing in large-scale software-intensive product development",
+    display="pernstål",
+    authors="J. Pernstål and T. Gorschek and R. Feldt and D. Florén",
+    place=IST,
+    pp="44 - 64",
+    entrytype="article",
+    volume="67",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2015.06.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584915001111",
+    keyword="Lean and agile product development",
+    ID="Pernstål201544",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 petersen2015a = DB(WorkSnowball(
@@ -197,6 +387,44 @@ rosa2015a = DB(WorkUnrelated(
     placex="Proceedings of the 2015 International Conference on Software and System Process",
 ))
 
+silva2015a = DB(WorkUnrelated(
+    2015, "Using \CMMI\ together with agile software development: A systematic review",
+    display="silva",
+    authors="Fernando Selleri Silva and Felipe Santana Furtado Soares and Angela Lima Peres and Ivanildo Monteiro de Azevedo and Ana Paula L.F. Vasconcelos and Fernando Kenji Kamei and Silvio Romero de Lemos Meira",
+    place=IST,
+    pp="20 - 43",
+    entrytype="article",
+    volume="58",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.09.012",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914002110",
+    keyword="Systematic review",
+    ID="SelleriSilva201520",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+silva2015b = DB(WorkUnrelated(
+    2015, "Using a multi-method approach to understand Agile software product lines",
+    display="silva b",
+    authors="Ivonei Freitas da Silva and Paulo Anselmo da Mota Silveira Neto and Pádraig OLeary and Eduardo Santana de Almeida and Silvio Romero de Lemos Meira",
+    place=IST,
+    pp="527 - 542",
+    entrytype="article",
+    volume="57",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.06.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914001438",
+    keyword="Expert opinion",
+    ID="daSilva2015527",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 siris2015a = DB(WorkUnrelated(
     2015, "Mobile Multipath Data Transfer over Multirate Wi-Fi Links",
     display="siris",
@@ -225,6 +453,44 @@ thompson2015a = DB(WorkUnrelated(
     ID="Thompson:2015:RDL:2702613.2706680",
     acm="1",
     placex="Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems",
+))
+
+tüzün2015a = DB(WorkUnrelated(
+    2015, "Empirical evaluation of a decision support model for adopting software product line engineering",
+    display="tüzün",
+    authors="Eray Tüzün and Bedir Tekinerdogan and Mert Emin Kalender and Semih Bilgen",
+    place=IST,
+    pp="77 - 101",
+    entrytype="article",
+    volume="60",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.12.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584915000026",
+    keyword="Case study design",
+    ID="Tüzün201577",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+wohlin2015a = DB(WorkUnrelated(
+    2015, "A general theory of software engineering: Balancing human, social and organizational capitals",
+    display="wohlin",
+    authors="Claes Wohlin and Darja mite and Nils Brede Moe",
+    place=JSS,
+    pp="229 - 242",
+    entrytype="article",
+    volume="109",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2015.08.009",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121215001740",
+    keyword="Empirical",
+    ID="Wohlin2015229",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 zarour2015a = DB(WorkUnrelated(

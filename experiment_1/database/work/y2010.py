@@ -86,6 +86,25 @@ détienne2010a = DB(WorkUnrelated(
     placex="Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries",
 ))
 
+díazley2010a = DB(WorkUnrelated(
+    2010, "MIS-PyME software measurement capability maturity model  Supporting the definition of software measurement programs and capability determination",
+    display="díazley",
+    authors="María Díaz-Ley and Félix García and Mario Piattini",
+    place=FAKE,
+    pp="1223 - 1237",
+    entrytype="article",
+    volume="41",
+    number="1011",
+    note="",
+    issn="0965-9978",
+    doi="https://doi.org/10.1016/j.advengsoft.2010.06.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0965997810000682",
+    keyword="Software process maturity",
+    ID="DíazLey20101223",
+    sciencedirect="1",
+    placex="Advances in Engineering Software",
+))
+
 guzmán2010a = DB(WorkSnowball(
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",
@@ -105,6 +124,25 @@ guzmán2010a = DB(WorkSnowball(
     webofscience="1",
     placex="Software Quality Journal",
     elcompendex="1",
+))
+
+hauge2010a = DB(WorkUnrelated(
+    2010, "Adoption of open source software in software-intensive organizations  A systematic literature review",
+    display="hauge",
+    authors="Øyvind Hauge and Claudia Ayala and Reidar Conradi",
+    place=IST,
+    pp="1133 - 1154",
+    entrytype="article",
+    volume="52",
+    number="11",
+    note="Special Section on Best Papers \{PROMISE\} 2009",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.05.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910000972",
+    keyword="Systematic literature review",
+    ID="Hauge20101133",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 immorlica2010a = DB(WorkUnrelated(
@@ -251,6 +289,25 @@ müller2010a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+nikula2010a = DB(WorkUnrelated(
+    2010, "Empirical validation of the Classic Change Curve on a software technology change project",
+    display="nikula",
+    authors="Uolevi Nikula and Christian Jurvanen and Orlena Gotel and Donald C Gause",
+    place=IST,
+    pp="680 - 696",
+    entrytype="article",
+    volume="52",
+    number="6",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.02.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910000170",
+    keyword="Organisational performance",
+    ID="Nikula2010680",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 pino2010a = DB(WorkUnrelated(
     2010, "Assessment methodology for software process improvement in small organizations",
     display="pino",
@@ -268,6 +325,25 @@ pino2010a = DB(WorkUnrelated(
     ID="Pino20101044",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+riel2010a = DB(WorkUnrelated(
+    2010, "Qualification and certification for the competitive edge in Integrated Design",
+    display="riel",
+    authors="A. Riel and S. Tichkiewitch and R. Messnarz",
+    place=FAKE,
+    pp="279 - 289",
+    entrytype="article",
+    volume="2",
+    number="4",
+    note="Competitive Design: \{CIRP\} Design Conference, Cranfield, United KingdomCIRP Design Conference",
+    issn="1755-5817",
+    doi="https://doi.org/10.1016/j.cirpj.2010.04.005",
+    link="https://www.sciencedirect.com/science/article/pii/S1755581710000404",
+    keyword="Certification",
+    ID="Riel2010279",
+    sciencedirect="1",
+    placex="\{CIRP\} Journal of Manufacturing Science and Technology",
 ))
 
 romero2010a = DB(WorkUnrelated(
