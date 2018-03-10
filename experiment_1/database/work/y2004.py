@@ -110,6 +110,26 @@ letier2004a = DB(WorkUnrelated(
     placex="SIGSOFT Softw. Eng. Notes",
 ))
 
+malotaux2004a = DB(WorkUnrelated(
+    2004, "Chapter 6 - Evolutionary Development: How to deliver Quality On Time in Software Development and Systems Engineering Projects",
+    display="malotaux",
+    authors="Niels Malotaux",
+    place=FAKE,
+    pp="77 - 100",
+    entrytype="incollection",
+    editor="Ganssle, Jack",
+    publisher="Newnes",
+    edition="",
+    address="Burlington",
+    series="Embedded Technology",
+    isbn="978-0-7506-7606-9",
+    doi="https://doi.org/10.1016/B978-075067606-9/50010-2",
+    link="https://www.sciencedirect.com/science/article/pii/B9780750676069500102",
+    ID="Malotaux200477",
+    sciencedirect="1",
+    placex="The Firmware Handbook",
+))
+
 rittinghouse2004a = DB(WorkUnrelated(
     2004, "1 - Understanding the \SPMO",
     display="rittinghouse",

@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ebert1998a = DB(WorkUnrelated(
+    1998, "Putting requirement management into praxis: dealing with nonfunctional requirements",
+    display="ebert",
+    authors="Christof Ebert",
+    place=IST,
+    pp="175 - 185",
+    entrytype="article",
+    volume="40",
+    number="3",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(98)00049-4",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584998000494",
+    keyword="Risk management",
+    ID="Ebert1998175",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 kontio1998a = DB(WorkUnrelated(
     1998, "A Software Process Engineering Framework",
     display="kontio",

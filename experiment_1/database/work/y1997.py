@@ -40,6 +40,25 @@ fowler1997a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+king1997a = DB(WorkUnrelated(
+    1997, "Tool support for systems emergence: A multimedia \CASE\ tool",
+    display="king",
+    authors="Stephen King",
+    place=IST,
+    pp="323 - 330",
+    entrytype="article",
+    volume="39",
+    number="5",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(96)01153-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584996011536",
+    keyword="Computer-based learning",
+    ID="King1997323",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 reiblein1997a = DB(WorkSnowball(
     1997, "SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs",
     display="reiblein",

@@ -157,6 +157,25 @@ steen2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+verhoef2007a = DB(WorkUnrelated(
+    2007, "Quantifying the effects of IT-governance rules",
+    display="verhoef",
+    authors="C. Verhoef",
+    place=SCP,
+    pp="247 - 277",
+    entrytype="article",
+    volume="67",
+    number="23",
+    note="",
+    issn="0167-6423",
+    doi="https://doi.org/10.1016/j.scico.2007.01.010",
+    link="https://www.sciencedirect.com/science/article/pii/S0167642307000780",
+    keyword="Seasonality effects",
+    ID="Verhoef2007247",
+    sciencedirect="1",
+    placex="Science of Computer Programming",
+))
+
 wilkie2007a = DB(WorkSnowball(
     2007, "A low-overhead method for software process appraisal",
     display="wilkie",

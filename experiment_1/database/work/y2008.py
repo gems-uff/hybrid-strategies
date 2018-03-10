@@ -371,6 +371,25 @@ pereira2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+peters2008a = DB(WorkUnrelated(
+    2008, "Quantifying the yield of risk-bearing IT-portfolios",
+    display="peters",
+    authors="R.J. Peters and C. Verhoef",
+    place=SCP,
+    pp="17 - 56",
+    entrytype="article",
+    volume="71",
+    number="1",
+    note="",
+    issn="0167-6423",
+    doi="https://doi.org/10.1016/j.scico.2007.11.001",
+    link="https://www.sciencedirect.com/science/article/pii/S016764230700189X",
+    keyword="Time over-runs",
+    ID="Peters200817",
+    sciencedirect="1",
+    placex="Science of Computer Programming",
+))
+
 pijpers2008a = DB(WorkUnrelated(
     2008, "Business strategy-IT Alignment in a Multi-actor Setting: A Mobile e-Service Case",
     display="pijpers",

@@ -91,3 +91,23 @@ pfahl2000a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Information and Software Technology",
 ))
+
+zelkowits2000a = DB(WorkUnrelated(
+    2000, "Subject index",
+    display="zelkowits",
+    authors="Marvin V. Zelkowits",
+    place=FAKE,
+    pp="511 - 523",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowits",
+    publisher="Elsevier",
+    volume="53",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(00)80012-1",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245800800121",
+    key="tagkey2000511",
+    ID="tagkey2000511",
+    sciencedirect="1",
+    placex="Emphasizing Distributed Systems",
+))
