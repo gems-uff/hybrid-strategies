@@ -95,6 +95,25 @@ jha2006a = DB(WorkUnrelated(
     placex="Proceedings of the 2006 International Workshop on Advances and Applications of Problem Frames",
 ))
 
+kishore2006a = DB(WorkUnrelated(
+    2006, "Enterprise integration using the agent paradigm: foundations of multi-agent-based integrative business information systems",
+    display="kishore",
+    authors="Rajiv Kishore and Hong Zhang and R. Ramesh",
+    place=FAKE,
+    pp="48 - 78",
+    entrytype="article",
+    volume="42",
+    number="1",
+    note="",
+    issn="0167-9236",
+    doi="https://doi.org/10.1016/j.dss.2004.09.011",
+    link="https://www.sciencedirect.com/science/article/pii/S0167923604002155",
+    keyword="Conceptual modeling",
+    ID="Kishore200648",
+    sciencedirect="1",
+    placex="Decision Support Systems",
+))
+
 martins2006a = DB(WorkUnrelated(
     2006, "A case study applying process and project alignment methodology",
     display="martins",

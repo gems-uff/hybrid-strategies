@@ -353,6 +353,63 @@ pareto2012a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+sarosa2012a = DB(WorkUnrelated(
+    2012, "Adoption of Social Media Networks by Indonesian SME: A Case Study",
+    display="sarosa",
+    authors="Samiaji Sarosa",
+    place=FAKE,
+    pp="244 - 254",
+    entrytype="article",
+    volume="4",
+    number="",
+    note="International Conference on Small and Medium Enterprises Development with a Theme ?Innovation and Sustainability in \{SME\} Development? (ICSMED 2012)",
+    issn="2212-5671",
+    doi="https://doi.org/10.1016/S2212-5671(12)00339-5",
+    link="https://www.sciencedirect.com/science/article/pii/S2212567112003395",
+    keyword="Facebook",
+    ID="Sarosa2012244",
+    sciencedirect="1",
+    placex="Procedia Economics and Finance",
+))
+
+seo2012a = DB(WorkUnrelated(
+    2012, "Lightweight embedded software performance analysis method by kernel hack and its industrial field study",
+    display="seo",
+    authors="Jooyoung Seo and Byoungju Choi and Sueng-wan Yang",
+    place=JSS,
+    pp="28 - 42",
+    entrytype="article",
+    volume="85",
+    number="1",
+    note="Dynamic Analysis and Testing of Embedded Software",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2011.03.049",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121211000781",
+    keyword="Embedded system",
+    ID="Seo201228",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+shahmehri2012a = DB(WorkUnrelated(
+    2012, "An advanced approach for modeling and detecting software vulnerabilities",
+    display="shahmehri",
+    authors="Nahid Shahmehri and Amel Mammar and Edgardo Montes de Oca and David Byers and Ana Cavalli and Shanai Ardi and Willy Jimenez",
+    place=IST,
+    pp="997 - 1013",
+    entrytype="article",
+    volume="54",
+    number="9",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2012.03.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584912000535",
+    keyword="Dynamic analysis",
+    ID="Shahmehri2012997",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 singh2012a = DB(WorkUnrelated(
     2012, "An overview of sustainability assessment methodologies",
     display="singh",

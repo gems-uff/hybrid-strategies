@@ -277,6 +277,24 @@ martins2008a = DB(WorkSnowball(
     placex="Communications in Computer and Information Science",
 ))
 
+nobre2008a = DB(WorkUnrelated(
+    2008, "The pursuit of cognition in manufacturing organizations",
+    display="nobre",
+    authors="Farley S. Nobre and Andrew M. Tobias and David S. Walker",
+    place=FAKE,
+    pp="145 - 157",
+    entrytype="article",
+    volume="27",
+    number="4",
+    note="",
+    issn="0278-6125",
+    doi="https://doi.org/10.1016/j.jmsy.2009.01.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0278612509000235",
+    ID="Nobre2008145",
+    sciencedirect="1",
+    placex="Journal of Manufacturing Systems",
+))
+
 pijpers2008a = DB(WorkUnrelated(
     2008, "Business strategy-IT Alignment in a Multi-actor Setting: A Mobile e-Service Case",
     display="pijpers",

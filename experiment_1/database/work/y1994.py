@@ -35,3 +35,22 @@ knoll1994a = DB(WorkUnrelated(
     acm="1",
     placex="Proceedings of the 1994 Computer Personnel Research Conference on Reinventing IS : Managing Information Technology in Changing Organizations: Managing Information Technology in Changing Organizations",
 ))
+
+roche1994a = DB(WorkUnrelated(
+    1994, "Software measurement methods: recipes for success?",
+    display="roche",
+    authors="John Roche and Mike Jackson",
+    place=IST,
+    pp="173 - 189",
+    entrytype="article",
+    volume="36",
+    number="3",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/0950-5849(94)90056-6",
+    link="https://www.sciencedirect.com/science/article/pii/0950584994900566",
+    keyword="software development processes",
+    ID="Roche1994173",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))

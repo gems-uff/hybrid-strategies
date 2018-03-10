@@ -170,6 +170,45 @@ gren2015a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+hackbarth2015a = DB(WorkUnrelated(
+    2015, "Chapter 15 - Assessing the State of Software in a Large Enterprise: A 12-Year Retrospective",
+    display="hackbarth",
+    authors="Randy Hackbarth and Audris Mockus and John Palframan and David Weiss",
+    place=FAKE,
+    pp="411 - 451",
+    entrytype="incollection",
+    editor="Bird, Christian and Menzies, Tim  and Zimmermann, Thomas",
+    publisher="Morgan Kaufmann",
+    edition="",
+    address="Boston",
+    isbn="978-0-12-411519-4",
+    doi="https://doi.org/10.1016/B978-0-12-411519-4.00015-X",
+    link="https://www.sciencedirect.com/science/article/pii/B978012411519400015X",
+    keyword="Software quality",
+    ID="Hackbarth2015411",
+    sciencedirect="1",
+    placex="The Art and Science of Analyzing Software Data",
+))
+
+heikkilä2015a = DB(WorkUnrelated(
+    2015, "Operational release planning in large-scale Scrum with multiple stakeholders  A longitudinal case study at F-Secure Corporation",
+    display="heikkilä",
+    authors="Ville T. Heikkilä and Maria Paasivaara and Kristian Rautiainen and Casper Lassenius and Towo Toivola and Janne Järvinen",
+    place=IST,
+    pp="116 - 140",
+    entrytype="article",
+    volume="57",
+    number="",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.09.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914002043",
+    keyword="Software project management",
+    ID="Heikkilä2015116",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 hithnawi2015a = DB(WorkUnrelated(
     2015, "TIIM: Technology-independent Interference Mitigation for Low-power Wireless Networks",
     display="hithnawi",
@@ -370,6 +409,25 @@ petersen2015a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Petersen2015968",
+))
+
+ralph2015a = DB(WorkUnrelated(
+    2015, "The Sensemaking-Coevolution-Implementation Theory of software design",
+    display="ralph",
+    authors="Paul Ralph",
+    place=SCP,
+    pp="21 - 41",
+    entrytype="article",
+    volume="101",
+    number="",
+    note="Towards general theories of software engineering",
+    issn="0167-6423",
+    doi="https://doi.org/10.1016/j.scico.2014.11.007",
+    link="https://www.sciencedirect.com/science/article/pii/S0167642314005395",
+    keyword="Coevolution",
+    ID="Ralph201521",
+    sciencedirect="1",
+    placex="Science of Computer Programming",
 ))
 
 rosa2015a = DB(WorkUnrelated(

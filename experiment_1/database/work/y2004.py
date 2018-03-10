@@ -3,6 +3,24 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+grant2004a = DB(WorkUnrelated(
+    2004, "Special section",
+    display="grant",
+    authors="Kevin Grant and David Edgar and Mike Jordan",
+    place=FAKE,
+    pp="449 - 456",
+    entrytype="article",
+    volume="24",
+    number="6",
+    note="",
+    issn="0268-4012",
+    doi="https://doi.org/10.1016/j.ijinfomgt.2004.08.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0268401204000921",
+    ID="Grant2004449",
+    sciencedirect="1",
+    placex="International Journal of Information Management",
+))
+
 haaker2004a = DB(WorkUnrelated(
     2004, "Balancing Strategic Interests and Technological Requirements for Mobile Services",
     display="haaker",

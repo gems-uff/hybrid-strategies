@@ -111,6 +111,44 @@ kettunen2009a = DB(WorkUnrelated(
     placex="Technovation",
 ))
 
+loikkanen2009a = DB(WorkUnrelated(
+    2009, "The role of the technology barometer in assessing the performance of the national innovation system",
+    display="loikkanen",
+    authors="Torsti Loikkanen and Toni Ahlqvist and Pekka Pellinen",
+    place=FAKE,
+    pp="1177 - 1186",
+    entrytype="article",
+    volume="76",
+    number="9",
+    note="Future-Oriented Technology Analysis (FTA): Impacts and Implications for Policy and Decision Making (The 2008 \{FTA\} International Seville Conference)",
+    issn="0040-1625",
+    doi="https://doi.org/10.1016/j.techfore.2009.07.011",
+    link="https://www.sciencedirect.com/science/article/pii/S0040162509001097",
+    keyword="Future-oriented knowledge",
+    ID="Loikkanen20091177",
+    sciencedirect="1",
+    placex="Technological Forecasting and Social Change",
+))
+
+marew2009a = DB(WorkUnrelated(
+    2009, "Tactics based approach for integrating non-functional requirements in object-oriented analysis and design",
+    display="marew",
+    authors="Tegegne Marew and Joon-Sang Lee and Doo-Hwan Bae",
+    place=JSS,
+    pp="1642 - 1656",
+    entrytype="article",
+    volume="82",
+    number="10",
+    note="SI: \{YAU\}",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2009.03.032",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121209000533",
+    keyword="Aspect oriented software design",
+    ID="Marew20091642",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 qiu2009a = DB(WorkUnrelated(
     2009, "A Study for End Users' Perceptions of Business Strategic Factors Among Different IS/IT Contexts",
     display="qiu",
@@ -160,6 +198,44 @@ singh2009a = DB(WorkUnrelated(
     ID="Singh2009189",
     sciencedirect="1",
     placex="Ecological Indicators",
+))
+
+staron2009a = DB(WorkUnrelated(
+    2009, "A framework for developing measurement systems and its industrial evaluation",
+    display="staron",
+    authors="Miroslaw Staron and Wilhelm Meding and Christer Nilsson",
+    place=IST,
+    pp="721 - 737",
+    entrytype="article",
+    volume="51",
+    number="4",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2008.10.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584908001419",
+    keyword="Measurement systems",
+    ID="Staron2009721",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+trendowicz2009a = DB(WorkUnrelated(
+    2009, "Chapter 6 Factors Influencing Software Development ProductivityState?of?the?Art and Industrial Experiences",
+    display="trendowicz",
+    authors="Adam Trendowicz and Jürgen Münch",
+    place=FAKE,
+    pp="185 - 241",
+    entrytype="incollection",
+    editor="",
+    publisher="Elsevier",
+    volume="77",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(09)01206-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245809012066",
+    ID="Trendowicz2009185",
+    sciencedirect="1",
+    placex="",
 ))
 
 trienekens2009a = DB(WorkSnowball(

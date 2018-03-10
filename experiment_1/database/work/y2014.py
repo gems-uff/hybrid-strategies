@@ -22,6 +22,25 @@ ali2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+barzilay2014a = DB(WorkUnrelated(
+    2014, "Understanding reuse of software examples: A case study of prejudice in a community of practice",
+    display="barzilay",
+    authors="Ohad Barzilay and Cathy Urquhart",
+    place=IST,
+    pp="1613 - 1628",
+    entrytype="article",
+    volume="56",
+    number="12",
+    note="Special issue: Human Factors in Software Development",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.02.013",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914000664",
+    keyword="Open source development",
+    ID="Barzilay20141613",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 baskerville2014a = DB(WorkUnrelated(
     2014, "Incident-centered information security: Managing a strategic balance between prevention and response",
     display="baskerville",
@@ -154,6 +173,25 @@ girata2014a = DB(WorkUnrelated(
     placex="Proceedings of the 15th Annual International Conference on Digital Government Research",
 ))
 
+hustad2014a = DB(WorkUnrelated(
+    2014, "Service-oriented Architecture Projects in Practice: A Study of a Shared Document Service Implementation",
+    display="hustad",
+    authors="Eli Hustad and Christer de Lange",
+    place=FAKE,
+    pp="684 - 693",
+    entrytype="article",
+    volume="16",
+    number="",
+    note="\{CENTERIS\} 2014 - Conference on \{ENTERprise\} Information Systems / ProjMAN 2014 - International Conference on Project \{MANagement\} / \{HCIST\} 2014 - International Conference on Health and Social Care Information Systems and Technologies",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2014.10.017",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017314002448",
+    keyword="Scrum",
+    ID="Hustad2014684",
+    sciencedirect="1",
+    placex="Procedia Technology",
+))
+
 kudryashova2014a = DB(WorkUnrelated(
     2014, "The Market of Internet Sponsored Links in the Context of Competition Law: Can Modeling Help?",
     display="kudryashova",
@@ -270,6 +308,25 @@ orta2014a = DB(WorkUnrelated(
     ID="Orta201436",
     sciencedirect="1",
     placex="Decision Support Systems",
+))
+
+paternoster2014a = DB(WorkUnrelated(
+    2014, "Software development in startup companies: A systematic mapping study",
+    display="paternoster",
+    authors="Nicolò Paternoster and Carmine Giardino and Michael Unterkalmsteiner and Tony Gorschek and Pekka Abrahamsson",
+    place=IST,
+    pp="1200 - 1218",
+    entrytype="article",
+    volume="56",
+    number="10",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2014.04.014",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584914000950",
+    keyword="Systematic mapping study",
+    ID="Paternoster20141200",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 rahrovani2014a = DB(WorkUnrelated(

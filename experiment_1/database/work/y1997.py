@@ -3,6 +3,43 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+dahlberg1997a = DB(WorkUnrelated(
+    1997, "Challenges to \IS\ quality",
+    display="dahlberg",
+    authors="Tomi Dahlberg and Janne Jarvinen",
+    place=IST,
+    pp="809 - 818",
+    entrytype="article",
+    volume="39",
+    number="12",
+    note="Information System Quality",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(97)00039-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584997000396",
+    keyword="Software process",
+    ID="Dahlberg1997809",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
+fowler1997a = DB(WorkUnrelated(
+    1997, "An expert system in the domain of software technology transfer",
+    display="fowler",
+    authors="P. Fowler and I. García Martín and N. Juristo and L. Levine and J.L. Morant",
+    place=FAKE,
+    pp="275 - 300",
+    entrytype="article",
+    volume="12",
+    number="3",
+    note="",
+    issn="0957-4174",
+    doi="https://doi.org/10.1016/S0957-4174(96)00100-5",
+    link="https://www.sciencedirect.com/science/article/pii/S0957417496001005",
+    ID="Fowler1997275",
+    sciencedirect="1",
+    placex="Expert Systems with Applications",
+))
+
 reiblein1997a = DB(WorkSnowball(
     1997, "SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs",
     display="reiblein",

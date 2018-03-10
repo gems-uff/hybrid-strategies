@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+elliott2000a = DB(WorkUnrelated(
+    2000, "Design of a product-focused customer-oriented process",
+    display="elliott",
+    authors="J.J Elliott",
+    place=IST,
+    pp="973 - 981",
+    entrytype="article",
+    volume="42",
+    number="14",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/S0950-5849(00)00149-X",
+    link="https://www.sciencedirect.com/science/article/pii/S095058490000149X",
+    keyword="Product quality",
+    ID="Elliott2000973",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 emam2000a = DB(WorkUnrelated(
     2000, "An empirical review of software process assessments",
     display="emam",
@@ -20,6 +39,24 @@ emam2000a = DB(WorkUnrelated(
     ID="Emam2000319",
     sciencedirect="1",
     placex="Emphasizing Distributed Systems",
+))
+
+emam2000b = DB(WorkUnrelated(
+    2000, "Validating the ISO/IEC 15504 measures of software development process capability",
+    display="emam b",
+    authors="Khaled El Emam and Andreas Birk",
+    place=JSS,
+    pp="119 - 149",
+    entrytype="article",
+    volume="51",
+    number="2",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/S0164-1212(99)00117-X",
+    link="https://www.sciencedirect.com/science/article/pii/S016412129900117X",
+    ID="ElEmam2000119",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 kautz2000a = DB(WorkSnowball(

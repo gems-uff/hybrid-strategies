@@ -270,6 +270,25 @@ mashapa2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists",
 ))
 
+mellado2010a = DB(WorkUnrelated(
+    2010, "A systematic review of security requirements engineering",
+    display="mellado",
+    authors="Daniel Mellado and Carlos Blanco and Luis E. Sánchez and Eduardo Fernández-Medina",
+    place=CSI,
+    pp="153 - 165",
+    entrytype="article",
+    volume="32",
+    number="4",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2010.01.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0920548910000255",
+    keyword="Systematic review",
+    ID="Mellado2010153",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
+))
+
 müller2010a = DB(WorkUnrelated(
     2010, "Software Process Improvement as organizational change: A metaphorical analysis of the literature",
     display="müller",

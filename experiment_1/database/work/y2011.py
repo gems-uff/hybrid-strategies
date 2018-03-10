@@ -22,6 +22,25 @@ asato2011a = DB(WorkUnrelated(
     scopus="1",
 ))
 
+ayala2011a = DB(WorkUnrelated(
+    2011, "Selection of third party software in Off-The-Shelf-based software developmentAn interview study with industrial practitioners",
+    display="ayala",
+    authors="Claudia Ayala and Øyvind Hauge and Reidar Conradi and Xavier Franch and Jingyue Li",
+    place=JSS,
+    pp="620 - 637",
+    entrytype="article",
+    volume="84",
+    number="4",
+    note="The Ninth International Conference on Quality Software",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2010.10.019",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121210002864",
+    keyword="Component selection",
+    ID="Ayala2011620",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 baker2011a = DB(WorkUnrelated(
     2011, "Design Goal-oriented Level Design",
     display="baker",
@@ -133,6 +152,25 @@ hassanzadeh2011a = DB(WorkUnrelated(
     ID="Hassanzadeh2011716",
     sciencedirect="1",
     placex="Knowledge-Based Systems",
+))
+
+jahangirian2011a = DB(WorkUnrelated(
+    2011, "A rapid review method for extremely large corpora of literature: Applications to the domains of modelling, simulation, and management",
+    display="jahangirian",
+    authors="Mohsen Jahangirian and Tillal Eldabi and Lalit Garg and Gyuchan T. Jun and Aisha Naseer and Brijesh Patel and Lampros Stergioulas and Terry Young",
+    place=FAKE,
+    pp="234 - 243",
+    entrytype="article",
+    volume="31",
+    number="3",
+    note="",
+    issn="0268-4012",
+    doi="https://doi.org/10.1016/j.ijinfomgt.2010.07.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0268401210000976",
+    keyword="Visualisation",
+    ID="Jahangirian2011234",
+    sciencedirect="1",
+    placex="International Journal of Information Management",
 ))
 
 jansson2011a = DB(WorkUnrelated(

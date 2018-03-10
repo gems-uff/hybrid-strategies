@@ -466,3 +466,22 @@ ullah2013a = DB(WorkUnrelated(
     acm="1",
     placex="ACM Trans. Manage. Inf. Syst.",
 ))
+
+weckenmann2013a = DB(WorkUnrelated(
+    2013, "Methodic Design of a Customized Maturity Model for Geometrical Tolerancing",
+    display="weckenmann",
+    authors="Albert Weckenmann and Gökhan Akkasoglu",
+    place=FAKE,
+    pp="119 - 124",
+    entrytype="article",
+    volume="10",
+    number="",
+    note="The Twelfth \{CIRP\} Conference on Computer Aided Tolerancing",
+    issn="2212-8271",
+    doi="https://doi.org/10.1016/j.procir.2013.08.021",
+    link="https://www.sciencedirect.com/science/article/pii/S2212827113005702",
+    keyword="decision-making",
+    ID="Weckenmann2013119",
+    sciencedirect="1",
+    placex="Procedia \{CIRP\}",
+))

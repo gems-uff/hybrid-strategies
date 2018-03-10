@@ -35,6 +35,25 @@ counsell2001a = DB(WorkUnrelated(
     placex="Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural Heritage",
 ))
 
+emam2001a = DB(WorkUnrelated(
+    2001, "An empirical evaluation of the ISO/IEC 15504 assessment model",
+    display="emam",
+    authors="Khaled El Emam and Ho-Won Jung",
+    place=JSS,
+    pp="23 - 41",
+    entrytype="article",
+    volume="59",
+    number="1",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/S0164-1212(01)00046-2",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121201000462",
+    keyword="Software process",
+    ID="Emam200123",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 niessink2001a = DB(WorkUnrelated(
     2001, "Measurement program success factors revisited",
     display="niessink",
