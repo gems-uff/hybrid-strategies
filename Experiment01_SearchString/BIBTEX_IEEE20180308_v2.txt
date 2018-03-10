@@ -1,0 +1,452 @@
+IEEE = 50
+
+@ARTICLE{6026203,
+author={},
+journal={IEEE Std 1474.4-2011},
+title={IEEE Recommended Practice for Functional Testing of a Communications-Based Train Control (CBTC) System},
+year={2011},
+volume={},
+number={},
+pages={1-46},}
+
+@ARTICLE{789961,
+author={},
+journal={IEEE Std 1475-1999},
+title={IEEE Standard for the Functioning of and Interfaces Among Propulsion, Friction Brake, and Train-borne Master Control on Rail Rapid Transit Vehicles},
+year={1999},
+volume={},
+number={},
+pages={1-52},}
+
+@ARTICLE{1251520,
+author={},
+journal={IEEE Std 1110-2002 (Revision of IEEE Std 1110-1991)},
+title={IEEE Guide for Synchronous Generator Modeling Practices and Applications in Power System Stability Analyses},
+year={2003},
+volume={},
+number={},
+pages={0_1-72},}
+
+@ARTICLE{4161134,
+author={},
+journal={ANSI N42.37-2006},
+title={American National Standard for Training Requirements for Homeland Security Purposes Using Radiation Detection Instrumentation for Interdiction and Prevention},
+year={2007},
+volume={},
+number={},
+pages={1-35},}
+
+@ARTICLE{5783877,
+author={},
+journal={IEEE Std 1724-2011},
+title={IEEE Guide for the Preparation of a Transmission Line Design Criteria Document},
+year={2011},
+volume={},
+number={},
+pages={1-32},}
+
+@ARTICLE{392622,
+author={},
+journal={ANSI/IEEE Std C63.16-1993},
+title={American National Standard Guide for Electrostatic Discharge Test Methodologies and Criteria for Electronic Equipment},
+year={1994},
+volume={},
+number={},
+pages={1-64},}
+
+@ARTICLE{915738,
+author={},
+journal={IEEE Std 1516.2-2000},
+title={IEEE Standard for Modeling and Simulation (M Amp;S) High Level Architecture (HLA)-Object Model Template (OMT) Specification},
+year={2001},
+volume={},
+number={},
+pages={i-130},}
+
+@ARTICLE{6588543,
+author={},
+journal={ISO/IEC/IEEE 29119-2:2013(E)},
+title={ISO/IEC/IEEE International Standard - Software and systems engineering --Software testing --Part 2:Test processes},
+year={2013},
+volume={},
+number={},
+pages={1-68},}
+
+@ARTICLE{159388,
+author={},
+journal={IEEE Std 1110-1991},
+title={IEEE Guide for Synchronous Generator Modeling Practices in Stability Analyses},
+year={1991},
+volume={},
+number={},
+pages={1-},}
+
+@ARTICLE{815306,
+author={},
+journal={IEEE Std 933-1999},
+title={IEEE Guide for the Definition of Reliability Program Plans for Nuclear Power Generating Stations},
+year={1999},
+volume={},
+number={},
+pages={1-52},}
+
+@ARTICLE{5936078,
+author={},
+journal={IEEE Std 1031-2011(Revision of IEEE Std 1031-2000)},
+title={IEEE Guide for the Functional Specification of Transmission Static Var Compensators},
+year={2011},
+volume={},
+number={},
+pages={1-89},}
+
+@ARTICLE{7109795,
+author={},
+journal={ISO/IEC/IEEE 15289:2015(E)},
+title={ISO/IEC/IEEE International Standard Systems and software engineering -- Content of life-cycle information items (documentation)},
+year={2015},
+volume={},
+number={},
+pages={1-95},}
+
+@ARTICLE{5970072,
+author={},
+journal={2012 NESC Handbook, Seventh Edition},
+title={National Electrical Safety Code (NESC) Handbook, Seventh Edition},
+year={2011},
+volume={},
+number={},
+pages={1-802},}
+
+@ARTICLE{5137335,
+author={},
+journal={IEEE Std 516-2009},
+title={IEEE Guide for Maintenance Methods on Energized Power Lines},
+year={2009},
+volume={},
+number={},
+pages={1-144},}
+
+@ARTICLE{159403,
+author={},
+journal={IEEE Std C57.115-1991},
+title={IEEE Guide for Loading Mineral-Oil-Immersed Power Transformers Rated in Excess of 100 MVA (65C Winding Rise) (Folded into C57.91-1995) (65C Winding Rise)},
+year={1991},
+volume={},
+number={},
+pages={1-42},}
+
+@ARTICLE{1277892,
+author={},
+journal={IEEE Std 1031-2000 (Revision of IEEE Std 1031-1991)},
+title={IEEE Guide for the Functional Specification of Transmission Static Var Compensators},
+year={2000},
+volume={},
+number={},
+pages={i-55},}
+
+@ARTICLE{815312,
+author={},
+journal={IEEE Std 1267-1999},
+title={IEEE Guide for Development of Specification for Turnkey Substation Projects},
+year={1999},
+volume={},
+number={},
+pages={1-36},}
+
+@ARTICLE{4554206,
+author={},
+journal={IEEE Std 1633-2008},
+title={IEEE Recommended Practice on Software Reliability},
+year={2008},
+volume={},
+number={},
+pages={1-90},}
+
+@ARTICLE{798774,
+author={},
+journal={IEEE Std 845-1999},
+title={IEEE Guide for the Evaluation of Human-System Performance in Nuclear Power Generating Stations},
+year={1999},
+volume={},
+number={},
+pages={i-},}
+
+@ARTICLE{1237537,
+author={},
+journal={IEEE Std 516-2003 (Revision of IEEE Std 516-1995)},
+title={IEEE Guide for Maintenance Methods on Energized Power Lines},
+year={2003},
+volume={},
+number={},
+pages={0_1-112},}
+
+@ARTICLE{5618903,
+author={},
+journal={IEEE Std 1679-2010},
+title={IEEE Recommended Practice for the Characterization and Evaluation of Emerging Energy Storage Technologies in Stationary Applications},
+year={2010},
+volume={},
+number={},
+pages={1-38},}
+
+@ARTICLE{6232421,
+author={},
+journal={IEEE Std 1453.1-2012 (Adoption of IEC/TR 61000-3-7:2008)},
+title={IEEE Guide--Adoption of IEC/TR 61000-3-7:2008, Electromagnetic compatibility (EMC)--Limits--Assessment of emission limits for the connection of fluctuating installations to MV, HV and EHV power systems},
+year={2012},
+volume={},
+number={},
+pages={1-78},}
+
+@ARTICLE{5553440,
+author={},
+journal={IEEE Std 1516-2010 (Revision of IEEE Std 1516-2000)},
+title={IEEE Standard for Modeling and Simulation (M amp;S) High Level Architecture (HLA)-- Framework and Rules},
+year={2010},
+volume={},
+number={},
+pages={1-38},}
+
+@ARTICLE{4578383,
+author={},
+journal={IEEE Std 829-2008},
+title={IEEE Standard for Software and System Test Documentation},
+year={2008},
+volume={},
+number={},
+pages={1-150},}
+
+@ARTICLE{6514042,
+author={},
+journal={IEEE Std 998-2012 (Revision of IEEE Std 998-1996)},
+title={IEEE Guide for Direct Lightning Stroke Shielding of Substations},
+year={2013},
+volume={},
+number={},
+pages={1-227},}
+
+@ARTICLE{1282227,
+author={},
+journal={IEEE Std 1573-2003},
+title={IEEE Recommended Practice for Electronic Power Subsystems: Parameters, Interfaces, Elements, and Performance},
+year={2004},
+volume={},
+number={},
+pages={0_1-115},}
+
+@ARTICLE{5733835,
+author={},
+journal={ISO/IEC/IEEE 24765:2010(E)},
+title={ISO/IEC/IEEE International Standard - Systems and software engineering -- Vocabulary},
+year={2010},
+volume={},
+number={},
+pages={1-418},}
+
+@ARTICLE{5557728,
+author={},
+journal={IEEE Std 1516.1-2010 (Revision of IEEE Std 1516.1-2000)},
+title={IEEE Standard for Modeling and Simulation (M amp;S) High Level Architecture (HLA)-- Federate Interface Specification},
+year={2010},
+volume={},
+number={},
+pages={1-378},}
+
+@ARTICLE{6517857,
+author={},
+journal={IEEE Std 20000-1-2013},
+title={IEEE Standard - Adoption of ISO/IEC 20000-1:2011, Information technology -- Service management -- Part 1: Service management system requirements},
+year={2013},
+volume={},
+number={},
+pages={1-48},}
+
+@ARTICLE{5399061,
+author={},
+journal={IEEE Std 1044-2009 (Revision of IEEE Std 1044-1993)},
+title={IEEE Standard Classification for Software Anomalies},
+year={2010},
+volume={},
+number={},
+pages={1-23},}
+
+@ARTICLE{6708412,
+author={},
+journal={IEEE Std 933-2013 (Revision of IEEE Std 933-1999)},
+title={IEEE Guide for the Definition of Reliability Program Plans for Nuclear Generating Stations and Other Nuclear Facilities},
+year={2014},
+volume={},
+number={},
+pages={1-65},}
+
+@ARTICLE{211014,
+author={},
+journal={IEEE Std 638-1992},
+title={IEEE Standard for Qualification of Class 1E Transformers for Nuclear Power Generating Stations},
+year={1992},
+volume={},
+number={},
+pages={1-18},}
+
+@ARTICLE{7297793,
+author={},
+journal={IEEE Std 835-1994},
+title={IEEE Standard Power Cable Ampacity Tables},
+year={1994},
+volume={},
+number={},
+pages={1-3151},}
+
+@ARTICLE{5557731,
+author={},
+journal={IEEE Std 1516.2-2010 (Revision of IEEE Std 1516.2-2000)},
+title={IEEE Standard for Modeling and Simulation (M amp;S) High Level Architecture (HLA)-- Object Model Template (OMT) Specification},
+year={2010},
+volume={},
+number={},
+pages={1-110},}
+
+@ARTICLE{914368,
+author={},
+journal={IEEE Std 1516.1-2000},
+title={IEEE Standard for Modeling and Simulation [M and S] High Level Architecture [HLA] - Federate Interface Specification},
+year={2001},
+volume={},
+number={},
+pages={i-467},}
+
+@ARTICLE{4657368,
+author={},
+journal={IEEE Std 1625-2008 (Revision of IEEE Std 1625-2004)},
+title={IEEE Standard for Rechargeable Batteries for Multi-Cell Mobile Computing Devices},
+year={2008},
+volume={},
+number={},
+pages={c1-79},}
+
+@ARTICLE{893287,
+author={},
+journal={IEEE Std 1516-2000},
+title={IEEE Standard for Modeling and Simulation (M Amp;S) High Level Architecture (HLA) - Framework and Rules},
+year={2000},
+volume={},
+number={},
+pages={i-22},}
+
+@ARTICLE{1309986,
+author={},
+journal={IEEE Std 1625-2004},
+title={IEEE Standard for Rechargable Batteries for Portable Computing},
+year={2004},
+volume={},
+number={},
+pages={0_1-},}
+
+@ARTICLE{7363716,
+author={},
+journal={IEEE Std 1707-2015},
+title={IEEE Recommended Practice for the Investigation of Events at Nuclear Facilities},
+year={2015},
+volume={},
+number={},
+pages={1-37},}
+
+@ARTICLE{27763,
+author={},
+journal={ANSI/IEEE Std 1008-1987},
+title={IEEE Standard for Software Unit Testing},
+year={1986},
+volume={},
+number={},
+pages={0_1-},}
+
+@ARTICLE{7499785,
+author={},
+journal={IEEE Std 1247-2005 (Revision of IEEE Std 1247-1998)},
+title={IEEE Standard for Interrupter Switches for Alternating Current, Rated Above 1000 Volts},
+year={2006},
+volume={},
+number={},
+pages={1-69},}
+
+@ARTICLE{1040257,
+author={},
+journal={IEEE Std 1585-2002},
+title={IEEE Guide for the Functional Specification of Medium Voltage (1-35 kV)Electronic Series Devices for Compensation of Voltage Fluctuations},
+year={2002},
+volume={},
+number={},
+pages={0_1-16},}
+
+@ARTICLE{5703195,
+author={},
+journal={ISO/IEEE 11073-20601:2010(E)},
+title={ISO/IEC/IEEE Health informatics--Personal health device communication--Part 20601: Application profile--Optimized exchange protocol},
+year={2010},
+volume={},
+number={},
+pages={1-208},}
+
+@ARTICLE{552978,
+author={},
+journal={IEEE Std 998-1996},
+title={IEEE Guide for Direct Lightning Stroke Shielding of Substations},
+year={1996},
+volume={},
+number={},
+pages={1-176},}
+
+@ARTICLE{6104079,
+author={},
+journal={ISO/IEC/IEEE 15289:2011(E)},
+title={ISO/IEC/IEEE Systems and software engineering -- Content of life-cycle information products (documentation)},
+year={2011},
+volume={},
+number={},
+pages={1-94},}
+
+@ARTICLE{6766175,
+author={},
+journal={IEEE Std 638-2013 (Revision of IEEE Std 638-1992)},
+title={IEEE Standard for Qualification of Class 1E Transformers for Nuclear Power Generating Stations},
+year={2014},
+volume={},
+number={},
+pages={1-25},}
+
+@ARTICLE{7508560,
+author={},
+journal={ANSI/IEEE Std 1008-1987},
+title={IEEE Standard for Software Unit Testing},
+year={1987},
+volume={},
+number={},
+pages={1-28},}
+
+@ARTICLE{6018239,
+author={},
+journal={IEEE Std 2030-2011},
+title={IEEE Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (EPS), End-Use Applications, and Loads},
+year={2011},
+volume={},
+number={},
+pages={1-126},}
+
+@ARTICLE{4278476,
+author={},
+journal={ISO/IEC 26702 IEEE Std 1220-2005 First edition 2007-07-15},
+title={ISO/IEC Standard for Systems Engineering - Application and Management of the Systems Engineering Process},
+year={2007},
+volume={},
+number={},
+pages={1-101},}
+
+@ARTICLE{5352213,
+author={},
+journal={IEEE Std C37.233-2009},
+title={IEEE Guide for Power System Protection Testing},
+year={2009},
+volume={},
+number={},
+pages={1-112},}
+

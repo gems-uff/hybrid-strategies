@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+paulk1998a = DB(WorkUnrelated(
+    1998, "Software Process Appraisal and Improvement: Models and Standards",
+    display="paulk",
+    authors="Mark C. Paulk",
+    place=FAKE,
+    pp="1 - 33",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowitz",
+    publisher="Elsevier",
+    volume="46",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(08)60202-8",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245808602028",
+    ID="Paulk19981",
+    sciencedirect="1",
+    placex="",
+))
+
 veryard1998a = DB(WorkUnrelated(
     1998, "Demanding change: How to remain in business despite IT",
     display="veryard",

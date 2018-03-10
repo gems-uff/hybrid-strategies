@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+beecham2005a = DB(WorkUnrelated(
+    2005, "Using an expert panel to validate a requirements process improvement model",
+    display="beecham",
+    authors="Sarah Beecham and Tracy Hall and Carol Britton and Michaela Cottee and Austen Rainer",
+    place=JSS,
+    pp="251 - 275",
+    entrytype="article",
+    volume="76",
+    number="3",
+    ID="Beecham2005251",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 bleistein2005a = DB(WorkUnrelated(
     2005, "Strategic Alignment in Requirements Analysis for Organizational IT: An Integrated Approach",
     display="bleistein",
@@ -92,6 +106,8 @@ trienekens2005a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Trienekens200567",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 vanter2005a = DB(WorkUnrelated(

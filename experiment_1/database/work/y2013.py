@@ -33,6 +33,25 @@ basili2013a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+buglione2013a = DB(WorkUnrelated(
+    2013, "The \LEGO\ strategy: Guidelines for a profitable deployment",
+    display="buglione",
+    authors="Luigi Buglione and Christiane Gresse von Wangenheim and Fergal McCaffery and Jean Carlo Rossa Hauck",
+    place=CSI,
+    pp="10 - 20",
+    entrytype="article",
+    volume="36",
+    number="1",
+    note="",
+    issn="0920-5489",
+    doi="https://doi.org/10.1016/j.csi.2013.07.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0920548913000731",
+    keyword="ISO/IEC 15504",
+    ID="Buglione201310",
+    sciencedirect="1",
+    placex="Computer Standards & Interfaces",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -61,6 +80,25 @@ gu2013a = DB(WorkUnrelated(
     ID="Gu:2013:EME:2463209.2488813",
     acm="1",
     placex="Proceedings of the 50th Annual Design Automation Conference",
+))
+
+herranz2013a = DB(WorkUnrelated(
+    2013, "Towards a New Approach to Supporting Top Managers in \SPI\ Organizational Change Management",
+    display="herranz",
+    authors="Eduardo Herranz and Ricardo Colomo-Palacios and Antonio Amescua-Seco",
+    place=FAKE,
+    pp="129 - 138",
+    entrytype="article",
+    volume="9",
+    number="",
+    note="\{CENTERIS\} 2013 - Conference on \{ENTERprise\} Information Systems / ProjMAN 2013 - International Conference on Project MANagement/ \{HCIST\} 2013 - International Conference on Health and Social Care Information Systems and Technologies",
+    issn="2212-0173",
+    doi="https://doi.org/10.1016/j.protcy.2013.12.014",
+    link="https://www.sciencedirect.com/science/article/pii/S2212017313001680",
+    keyword="Organizational Change Management",
+    ID="Herranz2013129",
+    sciencedirect="1",
+    placex="Procedia Technology",
 ))
 
 kazato2013a = DB(WorkUnrelated(

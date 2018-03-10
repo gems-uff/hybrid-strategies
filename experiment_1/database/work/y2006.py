@@ -114,3 +114,41 @@ martins2006a = DB(WorkUnrelated(
     elcompendex="1",
     placex="Journal of the Brazilian Computer Society",
 ))
+
+solingen2006a = DB(WorkUnrelated(
+    2006, "Calculating Software Process Improvements Return on Investment",
+    display="solingen",
+    authors="Rini Van Solingen and David F. Rico",
+    place=FAKE,
+    pp="1 - 41",
+    entrytype="incollection",
+    editor="Marvin V. Zelkowitz",
+    publisher="Elsevier",
+    volume="66",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(05)66001-9",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245805660019",
+    ID="VanSolingen20061",
+    sciencedirect="1",
+    placex="Quality Software Development",
+))
+
+xu2006a = DB(WorkUnrelated(
+    2006, "Requirement process establishment and improvement from the viewpoint of cybernetics",
+    display="xu",
+    authors="Hong Xu and Pete Sawyer and Ian Sommerville",
+    place=JSS,
+    pp="1504 - 1513",
+    entrytype="article",
+    volume="79",
+    number="11",
+    note="Software Cybernetics",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2006.03.050",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121206001191",
+    keyword="Control theory",
+    ID="Xu20061504",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))

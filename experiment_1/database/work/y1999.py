@@ -3,6 +3,44 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ebert1999a = DB(WorkUnrelated(
+    1999, "Technical controlling and software process improvement",
+    display="ebert",
+    authors="Christof Ebert",
+    place=JSS,
+    pp="25 - 39",
+    entrytype="article",
+    volume="46",
+    number="1",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/S0164-1212(98)10086-9",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121298100869",
+    keyword="Technical controlling",
+    ID="Ebert199925",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+garbett1999a = DB(WorkUnrelated(
+    1999, "A case study in innovative process improvement: code synthesis from formal specifications",
+    display="garbett",
+    authors="P. Garbett and J.P. Parkes and M. Shackleton and S. Anderson",
+    place=FAKE,
+    pp="417 - 424",
+    entrytype="article",
+    volume="23",
+    number="7",
+    note="",
+    issn="0141-9331",
+    doi="https://doi.org/10.1016/S0141-9331(99)00052-6",
+    link="https://www.sciencedirect.com/science/article/pii/S0141933199000526",
+    keyword="Safety-critical software",
+    ID="Garbett1999417",
+    sciencedirect="1",
+    placex="Microprocessors and Microsystems",
+))
+
 sommerville1999a = DB(WorkSnowball(
     1999, "Managing process inconsistency using viewpoints",
     display="sommerville",

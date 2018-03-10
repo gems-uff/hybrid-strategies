@@ -72,6 +72,8 @@ galinac2009a = DB(WorkUnrelated(
     source="Scopus",
     ID="Galinac20091351",
     scopus="1",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 gunarathne2009a = DB(WorkUnrelated(

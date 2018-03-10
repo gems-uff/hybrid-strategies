@@ -232,6 +232,44 @@ mashapa2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists",
 ))
 
+müller2010a = DB(WorkUnrelated(
+    2010, "Software Process Improvement as organizational change: A metaphorical analysis of the literature",
+    display="müller",
+    authors="Sune Dueholm Müller and Lars Mathiassen and Hans Henrik Balshøj",
+    place=JSS,
+    pp="2128 - 2146",
+    entrytype="article",
+    volume="83",
+    number="11",
+    note="Interplay between Usability Evaluation and Software Development",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2010.06.017",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121210001664",
+    keyword="Literature review",
+    ID="Müller20102128",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+pino2010a = DB(WorkUnrelated(
+    2010, "Assessment methodology for software process improvement in small organizations",
+    display="pino",
+    authors="Francisco J. Pino and César Pardo and Félix García and Mario Piattini",
+    place=IST,
+    pp="1044 - 1061",
+    entrytype="article",
+    volume="52",
+    number="10",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.04.004",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910000777",
+    keyword="SPI",
+    ID="Pino20101044",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 romero2010a = DB(WorkUnrelated(
     2010, "ERP: Drilling for Profit in the Oil and Gas Industry",
     display="romero",
@@ -247,6 +285,25 @@ romero2010a = DB(WorkUnrelated(
     ID="Romero:2010:EDP:1785414.1785448",
     acm="1",
     placex="Commun. ACM",
+))
+
+sun2010a = DB(WorkUnrelated(
+    2010, "Business-oriented software process improvement based on \CMMI\ using \QFD",
+    display="sun",
+    authors="Yan Sun and Xiaoqing (Frank) Liu",
+    place=IST,
+    pp="79 - 91",
+    entrytype="article",
+    volume="52",
+    number="1",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2009.08.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584909001220",
+    keyword="Relationship matrix",
+    ID="Sun201079",
+    sciencedirect="1",
+    placex="Information and Software Technology",
 ))
 
 tisselli2010a = DB(WorkUnrelated(

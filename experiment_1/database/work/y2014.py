@@ -48,6 +48,25 @@ costa2014a = DB(WorkUnrelated(
     placex="Proceedings of the 18th International Database Engineering &#38; Applications Symposium",
 ))
 
+delgado2014a = DB(WorkUnrelated(
+    2014, "An integrated approach based on execution measures for the continuous improvement of business processes realized by services",
+    display="delgado",
+    authors="Andrea Delgado and Barbara Weber and Francisco Ruiz and Ignacio Garcia-Rodríguez de Guzmán and Mario Piattini",
+    place=IST,
+    pp="134 - 162",
+    entrytype="article",
+    volume="56",
+    number="2",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2013.08.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584913001742",
+    keyword="ProM framework",
+    ID="Delgado2014134",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 ghanavati2014a = DB(WorkUnrelated(
     2014, "Legal Goal-oriented Requirement Language (Legal GRL) for Modeling Regulations",
     display="ghanavati",

@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+allison2007a = DB(WorkUnrelated(
+    2007, "Software process improvement as emergent change: A structurational analysis",
+    display="allison",
+    authors="I. Allison and Y. Merali",
+    place=IST,
+    pp="668 - 681",
+    entrytype="article",
+    volume="49",
+    number="6",
+    note="Qualitative Software Engineering Research",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2007.02.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584907000079",
+    keyword="Software package development",
+    ID="Allison2007668",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 babar2007a = DB(WorkUnrelated(
     2007, "Towards Evolution of Strategic IT Requirements",
     display="babar",

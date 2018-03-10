@@ -18,6 +18,25 @@ beheshitha2015a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Learning Analytics And Knowledge",
 ))
 
+garcíamireles2015a = DB(WorkUnrelated(
+    2015, "Approaches to promote product quality within software process improvement initiatives: A mapping study",
+    display="garcíamireles",
+    authors="Gabriel Alberto García-Mireles and M Ángeles Moraga and Félix García and Mario Piattini",
+    place=JSS,
+    pp="150 - 166",
+    entrytype="article",
+    volume="103",
+    number="",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2015.01.057",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121215000369",
+    keyword="Software process improvement",
+    ID="GarcíaMireles2015150",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 hithnawi2015a = DB(WorkUnrelated(
     2015, "TIIM: Technology-independent Interference Mitigation for Low-power Wireless Networks",
     display="hithnawi",
