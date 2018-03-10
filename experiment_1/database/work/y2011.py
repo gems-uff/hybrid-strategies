@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+andersen2011a = DB(WorkUnrelated(
+    2011, "The forgotten promise of e-government maturity: Assessing responsiveness in the digital public sector",
+    display="andersen",
+    authors="Kim Normann Andersen and Rony Medaglia and Ravi Vatrapu and Helle Zinner Henriksen and Robin Gauld",
+    place=FAKE,
+    pp="439 - 445",
+    entrytype="article",
+    volume="28",
+    number="4",
+    note="",
+    issn="0740-624X",
+    doi="https://doi.org/10.1016/j.giq.2010.12.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0740624X11000542",
+    keyword="New Zealand",
+    ID="Andersen2011439",
+    sciencedirect="1",
+    placex="Government Information Quarterly",
+))
+
 asato2011a = DB(WorkUnrelated(
     2011, "Alignment between the business strategy and the software processes improvement: A roadmap for the implementation [Alinhamento entre estrategia de negocios e melhoria de processos de software: Um roteiro de implementacao]",
     display="asato",
@@ -154,6 +173,25 @@ hassanzadeh2011a = DB(WorkUnrelated(
     placex="Knowledge-Based Systems",
 ))
 
+iden2011a = DB(WorkUnrelated(
+    2011, "Problems in the interplay of development and \IT\ operations in system development projects: A Delphi study of Norwegian \IT\ experts",
+    display="iden",
+    authors="Jon Iden and Bjørnar Tessem and Tero Päivärinta",
+    place=IST,
+    pp="394 - 406",
+    entrytype="article",
+    volume="53",
+    number="4",
+    note="Special section: Software Engineering track of the 24th Annual Symposium on Applied ComputingSoftware Engineering track of the 24th Annual Symposium on Applied Computing",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.12.002",
+    link="https://www.sciencedirect.com/science/article/pii/S095058491000217X",
+    keyword="The Delphi method",
+    ID="Iden2011394",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 jahangirian2011a = DB(WorkUnrelated(
     2011, "A rapid review method for extremely large corpora of literature: Applications to the domains of modelling, simulation, and management",
     display="jahangirian",
@@ -189,6 +227,25 @@ jansson2011a = DB(WorkUnrelated(
     ID="Jansson201111955",
     sciencedirect="1",
     placex="\{IFAC\} Proceedings Volumes",
+))
+
+jia2011a = DB(WorkUnrelated(
+    2011, "Program management organization maturity integrated model for mega construction programs in China",
+    display="jia",
+    authors="Guangshe Jia and Yuting Chen and Xiangdong Xue and Jianguo Chen and Jiming Cao and Kewei Tang",
+    place=FAKE,
+    pp="834 - 845",
+    entrytype="article",
+    volume="29",
+    number="7",
+    note="Complexities in Managing Mega Construction Projects",
+    issn="0263-7863",
+    doi="https://doi.org/10.1016/j.ijproman.2011.03.003",
+    link="https://www.sciencedirect.com/science/article/pii/S0263786311000366",
+    keyword="Program management",
+    ID="Jia2011834",
+    sciencedirect="1",
+    placex="International Journal of Project Management",
 ))
 
 kaneko2011a = DB(WorkSnowball(

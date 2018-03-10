@@ -200,6 +200,25 @@ jacobson2012a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
+jan2012a = DB(WorkUnrelated(
+    2012, "The effect of clusters on the development of the software industry in Dalian, China",
+    display="jan",
+    authors="Chiou-Guey Jan and Chao-Chin Chan and Chia-Hung Teng",
+    place=FAKE,
+    pp="163 - 173",
+    entrytype="article",
+    volume="34",
+    number="2",
+    note="",
+    issn="0160-791X",
+    doi="https://doi.org/10.1016/j.techsoc.2012.01.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0160791X12000036",
+    keyword="System dynamics",
+    ID="Jan2012163",
+    sciencedirect="1",
+    placex="Technology in Society",
+))
+
 kasurinen2012a = DB(WorkUnrelated(
     2012, "Software Organizations and Test Process Development",
     display="kasurinen",
@@ -370,6 +389,25 @@ sarosa2012a = DB(WorkUnrelated(
     ID="Sarosa2012244",
     sciencedirect="1",
     placex="Procedia Economics and Finance",
+))
+
+savolainen2012a = DB(WorkUnrelated(
+    2012, "Software development project success and failure from the supplier's perspective: A systematic literature review",
+    display="savolainen",
+    authors="Paula Savolainen and Jarmo J. Ahonen and Ita Richardson",
+    place=FAKE,
+    pp="458 - 469",
+    entrytype="article",
+    volume="30",
+    number="4",
+    note="",
+    issn="0263-7863",
+    doi="https://doi.org/10.1016/j.ijproman.2011.07.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0263786311000901",
+    keyword="Literature review",
+    ID="Savolainen2012458",
+    sciencedirect="1",
+    placex="International Journal of Project Management",
 ))
 
 seo2012a = DB(WorkUnrelated(

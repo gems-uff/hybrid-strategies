@@ -159,6 +159,63 @@ coleman2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+couch2008a = DB(WorkUnrelated(
+    2008, "1.4 - System Configuration Management",
+    display="couch",
+    authors="Alva L. Couch",
+    place=FAKE,
+    pp="75 - 133",
+    entrytype="incollection",
+    editor="Bergstra, Jan  and Burgess, Mark",
+    publisher="Elsevier",
+    edition="",
+    address="Amsterdam",
+    isbn="978-0-444-52198-9",
+    doi="https://doi.org/10.1016/B978-044452198-9.50006-9",
+    link="https://www.sciencedirect.com/science/article/pii/B9780444521989500069",
+    ID="Couch200875",
+    sciencedirect="1",
+    placex="Handbook of Network and System Administration",
+))
+
+darwish2008a = DB(WorkUnrelated(
+    2008, "\TTPM\  An efficient deadlock-free algorithm for multicast communication in 2D torus networks",
+    display="darwish",
+    authors="M.G. Darwish and A.A. Radwan and M.A. Abd El-Baky and K. Hamed",
+    place=FAKE,
+    pp="919 - 928",
+    entrytype="article",
+    volume="54",
+    number="10",
+    note="",
+    issn="1383-7621",
+    doi="https://doi.org/10.1016/j.sysarc.2008.03.004",
+    link="https://www.sciencedirect.com/science/article/pii/S1383762108000465",
+    keyword="Deadlock-free routing",
+    ID="Darwish2008919",
+    sciencedirect="1",
+    placex="Journal of Systems Architecture",
+))
+
+dybå2008a = DB(WorkUnrelated(
+    2008, "Empirical studies of agile software development: A systematic review",
+    display="dybå",
+    authors="Tore Dybå and Torgeir Dingsøyr",
+    place=IST,
+    pp="833 - 859",
+    entrytype="article",
+    volume="50",
+    number="910",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2008.01.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584908000256",
+    keyword="Scrum",
+    ID="Dybå2008833",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 fairweather2008a = DB(WorkUnrelated(
     2008, "How Older and Younger Adults Differ in Their Approach to Problem Solving on a Complex Website",
     display="fairweather",
@@ -293,6 +350,25 @@ nobre2008a = DB(WorkUnrelated(
     ID="Nobre2008145",
     sciencedirect="1",
     placex="Journal of Manufacturing Systems",
+))
+
+pereira2008a = DB(WorkUnrelated(
+    2008, "What do software practitioners really think about project success: A cross-cultural comparison",
+    display="pereira",
+    authors="Javier Pereira and Narciso Cerpa and June Verner and Mario Rivas and J. Drew Procaccino",
+    place=JSS,
+    pp="897 - 907",
+    entrytype="article",
+    volume="81",
+    number="6",
+    note="Agile Product Line Engineering",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2007.07.032",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121207001847",
+    keyword="Freedom",
+    ID="Pereira2008897",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 pijpers2008a = DB(WorkUnrelated(

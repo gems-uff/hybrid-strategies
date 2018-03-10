@@ -96,6 +96,25 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
+procaccino2005a = DB(WorkUnrelated(
+    2005, "What do software practitioners really think about project success: an exploratory study",
+    display="procaccino",
+    authors="J. Drew Procaccino and June M. Verner and Katherine M. Shelfer and David Gefen",
+    place=JSS,
+    pp="194 - 203",
+    entrytype="article",
+    volume="78",
+    number="2",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2004.12.011",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121204002614",
+    keyword="Motivation",
+    ID="Procaccino2005194",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 snedaker2005a = DB(WorkUnrelated(
     2005, "Chapter 1 - What's project management got to do with IT?",
     display="snedaker",

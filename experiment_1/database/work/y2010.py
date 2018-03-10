@@ -105,6 +105,44 @@ díazley2010a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+egorova2010a = DB(WorkUnrelated(
+    2010, "Actual vs. perceived effect of software engineering practices in the Italian industry",
+    display="egorova",
+    authors="Evgenia Egorova and Marco Torchiano and Maurizio Morisio",
+    place=JSS,
+    pp="1907 - 1916",
+    entrytype="article",
+    volume="83",
+    number="10",
+    note="",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2010.05.077",
+    link="https://www.sciencedirect.com/science/article/pii/S016412121000155X",
+    keyword="Casecontrol Study",
+    ID="Egorova20101907",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
+faegri2010a = DB(WorkUnrelated(
+    2010, "Introducing knowledge redundancy practice in software development: Experiences with job rotation in support work",
+    display="faegri",
+    authors="Tor Erlend Faegri and Tore Dybå and Torgeir Dingsøyr",
+    place=IST,
+    pp="1118 - 1132",
+    entrytype="article",
+    volume="52",
+    number="10",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2010.06.002",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584910001011",
+    keyword="Software development",
+    ID="Fægri20101118",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 guzmán2010a = DB(WorkSnowball(
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",

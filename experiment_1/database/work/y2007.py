@@ -138,6 +138,25 @@ ordóñez2007a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
+steen2007a = DB(WorkUnrelated(
+    2007, "Practical knowledge and its importance for software product quality",
+    display="steen",
+    authors="Odd Steen",
+    place=IST,
+    pp="625 - 636",
+    entrytype="article",
+    volume="49",
+    number="6",
+    note="Qualitative Software Engineering Research",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2007.02.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584907000109",
+    keyword="Practical knowledge",
+    ID="Steen2007625",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 wilkie2007a = DB(WorkSnowball(
     2007, "A low-overhead method for software process appraisal",
     display="wilkie",

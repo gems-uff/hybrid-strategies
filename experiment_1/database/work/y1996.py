@@ -21,3 +21,22 @@ auer1996a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems Architecture",
 ))
+
+hather1996a = DB(WorkUnrelated(
+    1996, "A method for application management maturity assessment",
+    display="hather",
+    authors="R.M. Hather and E.L. Burd and C. Boldyreff",
+    place=IST,
+    pp="701 - 709",
+    entrytype="article",
+    volume="38",
+    number="11",
+    note="Software Maintenance Selected papers from the Centre for Software Reliability Annual Conference",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/0950-5849(96)01118-4",
+    link="https://www.sciencedirect.com/science/article/pii/0950584996011184",
+    keyword="Assessment",
+    ID="Hather1996701",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))

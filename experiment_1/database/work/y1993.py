@@ -22,6 +22,25 @@ curtis1993a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+lott1993a = DB(WorkUnrelated(
+    1993, "Measurement-based guidance of software projects using explicit project plans",
+    display="lott",
+    authors="CM Lott and HD Rombach",
+    place=IST,
+    pp="407 - 419",
+    entrytype="article",
+    volume="35",
+    number="67",
+    note="Software Process Modelling in Practice",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/0950-5849(93)90012-R",
+    link="https://www.sciencedirect.com/science/article/pii/095058499390012R",
+    keyword="project guidance",
+    ID="Lott1993407",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 thompson1993a = DB(WorkUnrelated(
     1993, "Software process maturity (SPM) and the information systems developer",
     display="thompson",

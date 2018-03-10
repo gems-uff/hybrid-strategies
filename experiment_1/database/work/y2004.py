@@ -55,6 +55,25 @@ hansen2004a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+jokela2004a = DB(WorkUnrelated(
+    2004, "Evaluating the user-centredness of development organisations: conclusions and implications from empirical usability capability maturity assessments",
+    display="jokela",
+    authors="Timo Jokela",
+    place=FAKE,
+    pp="1095 - 1132",
+    entrytype="article",
+    volume="16",
+    number="6",
+    note="",
+    issn="0953-5438",
+    doi="https://doi.org/10.1016/j.intcom.2004.07.006",
+    link="https://www.sciencedirect.com/science/article/pii/S0953543804000815",
+    keyword="Usability capability",
+    ID="Jokela20041095",
+    sciencedirect="1",
+    placex="Interacting with Computers",
+))
+
 kauppinen2004a = DB(WorkUnrelated(
     2004, "Implementing requirements engineering processes throughout organizations: success factors and challenges",
     display="kauppinen",

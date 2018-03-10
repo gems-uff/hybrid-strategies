@@ -18,6 +18,24 @@ aagotnes2006a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
+andersen2006a = DB(WorkUnrelated(
+    2006, "E-government maturity models: Extension of the Layne and Lee model",
+    display="andersen",
+    authors="Kim Viborg Andersen and Helle Zinner Henriksen",
+    place=FAKE,
+    pp="236 - 248",
+    entrytype="article",
+    volume="23",
+    number="2",
+    note="",
+    issn="0740-624X",
+    doi="https://doi.org/10.1016/j.giq.2005.11.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0740624X05000973",
+    ID="Andersen2006236",
+    sciencedirect="1",
+    placex="Government Information Quarterly",
+))
+
 cox2006a = DB(WorkUnrelated(
     2006, "A Contingency View of Organizational Infrastructure Requirements Engineering",
     display="cox",
@@ -63,6 +81,25 @@ debarr2006a = DB(WorkUnrelated(
     ID="DeBarr:2006:CGA:1147234.1147237",
     acm="1",
     placex="SIGKDD Explor. Newsl.",
+))
+
+fernándezmedina2006a = DB(WorkUnrelated(
+    2006, "Access control and audit model for the multidimensional modeling of data warehouses",
+    display="fernándezmedina",
+    authors="Eduardo Fernández-Medina and Juan Trujillo and Rodolfo Villarroel and Mario Piattini",
+    place=FAKE,
+    pp="1270 - 1289",
+    entrytype="article",
+    volume="42",
+    number="3",
+    note="",
+    issn="0167-9236",
+    doi="https://doi.org/10.1016/j.dss.2005.10.008",
+    link="https://www.sciencedirect.com/science/article/pii/S0167923605001570",
+    keyword="UML",
+    ID="FernándezMedina20061270",
+    sciencedirect="1",
+    placex="Decision Support Systems",
 ))
 
 horkoff2006a = DB(WorkUnrelated(
@@ -151,6 +188,25 @@ nejmeh2006a = DB(WorkUnrelated(
     ID="Nejmeh2006173",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+pérez2006a = DB(WorkUnrelated(
+    2006, "Requirements Variability Support Through MDA and Graph Transformation",
+    display="pérez",
+    authors="Javier Pérez and Miguel A. Laguna and Yania Crespo González-Carvajal and Bruno González-Baixauli",
+    place=FAKE,
+    pp="161 - 173",
+    entrytype="article",
+    volume="152",
+    number="",
+    note="Proceedings of the International Workshop on Graph and Model Transformation (GraMoT 2005)Graph and Model Transformation 2005",
+    issn="1571-0661",
+    doi="https://doi.org/10.1016/j.entcs.2005.10.023",
+    link="https://www.sciencedirect.com/science/article/pii/S1571066106001459",
+    keyword="Layered Graph Grammars",
+    ID="Pérez2006161",
+    sciencedirect="1",
+    placex="Electronic Notes in Theoretical Computer Science",
 ))
 
 solingen2006a = DB(WorkUnrelated(

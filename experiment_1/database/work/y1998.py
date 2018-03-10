@@ -41,6 +41,25 @@ paulk1998a = DB(WorkUnrelated(
     placex="",
 ))
 
+stålhane1998a = DB(WorkUnrelated(
+    1998, "Modification of safety critical systems: an assessment of three approaches",
+    display="stålhane",
+    authors="Tor Stålhane and Kari Juul Wedde",
+    place=FAKE,
+    pp="611 - 619",
+    entrytype="article",
+    volume="21",
+    number="10",
+    note="Achieving Quality, Safety",
+    issn="0141-9331",
+    doi="https://doi.org/10.1016/S0141-9331(98)00063-5",
+    link="https://www.sciencedirect.com/science/article/pii/S0141933198000635",
+    keyword="Code analysis",
+    ID="Stålhane1998611",
+    sciencedirect="1",
+    placex="Microprocessors and Microsystems",
+))
+
 veryard1998a = DB(WorkUnrelated(
     1998, "Demanding change: How to remain in business despite IT",
     display="veryard",

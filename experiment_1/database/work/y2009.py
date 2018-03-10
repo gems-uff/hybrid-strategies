@@ -24,6 +24,25 @@ albuquerque2009a = DB(WorkSnowball(
     elcompendex="1",
 ))
 
+bjørnson2009a = DB(WorkUnrelated(
+    2009, "Improving the effectiveness of root cause analysis in post mortem analysis: A controlled experiment",
+    display="bjørnson",
+    authors="Finn Olav Bjørnson and Alf Inge Wang and Erik Arisholm",
+    place=IST,
+    pp="150 - 161",
+    entrytype="article",
+    volume="51",
+    number="1",
+    note="Special Section - Most Cited Articles in 2002 and Regular Research Papers",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2008.02.003",
+    link="https://www.sciencedirect.com/science/article/pii/S095058490800030X",
+    keyword="Post mortem analysis",
+    ID="Bjørnson2009150",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 dubinsky2009a = DB(WorkUnrelated(
     2009, "Software Development Governance (SDG): Report on 2Nd Workshop",
     display="dubinsky",
@@ -92,6 +111,44 @@ gunarathne2009a = DB(WorkUnrelated(
     placex="Proceedings of the 5th Grid Computing Environments Workshop",
 ))
 
+hsiao2009a = DB(WorkUnrelated(
+    2009, "An integrated platform of collaborative project management and silicon intellectual property management for \IC\ design industry",
+    display="hsiao",
+    authors="David W. Hsiao and Amy J.C. Trappey and Lin Ma and Pei-Shun Ho",
+    place=IC,
+    pp="2576 - 2590",
+    entrytype="article",
+    volume="179",
+    number="15",
+    note="The 11th Edition of the International Conference on \{CSCW\} in Design",
+    issn="0020-0255",
+    doi="https://doi.org/10.1016/j.ins.2009.01.036",
+    link="https://www.sciencedirect.com/science/article/pii/S0020025509000644",
+    keyword="Collaborative product design",
+    ID="Hsiao20092576",
+    sciencedirect="1",
+    placex="Information Sciences",
+))
+
+karhu2009a = DB(WorkUnrelated(
+    2009, "Investigating the relationship between schedules and knowledge transfer in software testing",
+    display="karhu",
+    authors="Katja Karhu and Ossi Taipale and Kari Smolander",
+    place=IST,
+    pp="663 - 677",
+    entrytype="article",
+    volume="51",
+    number="3",
+    note="",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2008.09.001",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584908001249",
+    keyword="Case study",
+    ID="Karhu2009663",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 kettunen2009a = DB(WorkUnrelated(
     2009, "Adopting key lessons from agile manufacturing to agile software product developmentA comparative study",
     display="kettunen",
@@ -149,6 +206,25 @@ marew2009a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+petersen2009a = DB(WorkUnrelated(
+    2009, "A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case",
+    display="petersen",
+    authors="Kai Petersen and Claes Wohlin",
+    place=JSS,
+    pp="1479 - 1490",
+    entrytype="article",
+    volume="82",
+    number="9",
+    note="SI: \{QSIC\} 2007",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2009.03.036",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121209000855",
+    keyword="Case study",
+    ID="Petersen20091479",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
+))
+
 qiu2009a = DB(WorkUnrelated(
     2009, "A Study for End Users' Perceptions of Business Strategic Factors Among Different IS/IT Contexts",
     display="qiu",
@@ -179,6 +255,25 @@ rosselet2009a = DB(WorkUnrelated(
     ID="Rosselet:2009:KMF:1597735.1597783",
     acm="1",
     placex="Proceedings of the Fifth International Conference on Knowledge Capture",
+))
+
+sheetz2009a = DB(WorkUnrelated(
+    2009, "Understanding developer and manager perceptions of function points and source lines of code",
+    display="sheetz",
+    authors="Steven D. Sheetz and David Henderson and Linda Wallace",
+    place=JSS,
+    pp="1540 - 1549",
+    entrytype="article",
+    volume="82",
+    number="9",
+    note="SI: \{QSIC\} 2007",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2009.04.038",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121209001058",
+    keyword="Content analysis",
+    ID="Sheetz20091540",
+    sciencedirect="1",
+    placex="Journal of Systems and Software",
 ))
 
 singh2009a = DB(WorkUnrelated(

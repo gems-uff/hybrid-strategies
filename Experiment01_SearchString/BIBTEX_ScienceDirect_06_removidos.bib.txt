@@ -76,3 +76,23 @@ doi = "https://doi.org/10.1016/S0378-7206(06)00130-3",
 url = "https://www.sciencedirect.com/science/article/pii/S0378720606001303",
 key = "tagkey20061031",
 }
+
+DUPLICADO
+@article{Auer1996235,
+title = "Improving R &amp; D processes by an \{ISO\} 9001-based quality management system ",
+journal = "Journal of Systems Architecture ",
+volume = "42",
+number = "3",
+pages = "235 - 244",
+year = "1996",
+note = "",
+issn = "1383-7621",
+doi = "https://doi.org/10.1016/1383-7621(96)00010-0",
+url = "https://www.sciencedirect.com/science/article/pii/1383762196000100",
+author = "Antti Auer and Jukka Karjalainen and Veikko Seppänen",
+keywords = "Quality Management System",
+keywords = "ISO 9001",
+keywords = "ISO 9000-3",
+keywords = "Software process",
+keywords = "Embedded systems development ",
+}

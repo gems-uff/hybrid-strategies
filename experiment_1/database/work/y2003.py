@@ -41,6 +41,25 @@ jung2003a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+maxwell2003a = DB(WorkUnrelated(
+    2003, "Software Development Productivity",
+    display="maxwell",
+    authors="Katrina D Maxwell",
+    place=FAKE,
+    pp="1 - 46",
+    entrytype="incollection",
+    editor="",
+    publisher="Elsevier",
+    volume="58",
+    series="Advances in Computers",
+    issn="0065-2458",
+    doi="https://doi.org/10.1016/S0065-2458(03)58001-9",
+    link="https://www.sciencedirect.com/science/article/pii/S0065245803580019",
+    ID="Maxwell20031",
+    sciencedirect="1",
+    placex="",
+))
+
 yap2003a = DB(WorkUnrelated(
     2003, "Leveraging knowledge representation, usage, and interpretation to help reengineer the product development life cycle: visual computing and the tacit dimensions of product development",
     display="yap",

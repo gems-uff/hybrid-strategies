@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+chan2002a = DB(WorkUnrelated(
+    2002, "Quality function deployment: A literature review",
+    display="chan",
+    authors="Lai-Kow Chan and Ming-Lu Wu",
+    place=FAKE,
+    pp="463 - 497",
+    entrytype="article",
+    volume="143",
+    number="3",
+    note="",
+    issn="0377-2217",
+    doi="https://doi.org/10.1016/S0377-2217(02)00178-9",
+    link="https://www.sciencedirect.com/science/article/pii/S0377221702001789",
+    keyword="Quality function deployment (QFD)",
+    ID="Chan2002463",
+    sciencedirect="1",
+    placex="European Journal of Operational Research",
+))
+
 feigenbaum2002a = DB(WorkUnrelated(
     2002, "A BGP-based Mechanism for Lowest-cost Routing",
     display="feigenbaum",

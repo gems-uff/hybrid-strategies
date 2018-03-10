@@ -433,6 +433,25 @@ verner2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+verner2014b = DB(WorkUnrelated(
+    2014, "Risks and risk mitigation in global software development: A tertiary study",
+    display="verner b",
+    authors="J.M. Verner and O.P. Brereton and B.A. Kitchenham and M. Turner and M. Niazi",
+    place=IST,
+    pp="54 - 78",
+    entrytype="article",
+    volume="56",
+    number="1",
+    note="Special sections on International Conference on Global Software Engineering  August 2011 and Evaluation and Assessment in Software Engineering  April 2012",
+    issn="0950-5849",
+    doi="https://doi.org/10.1016/j.infsof.2013.06.005",
+    link="https://www.sciencedirect.com/science/article/pii/S0950584913001341",
+    keyword="Evidence",
+    ID="Verner201454",
+    sciencedirect="1",
+    placex="Information and Software Technology",
+))
+
 vos2014a = DB(WorkUnrelated(
     2014, "Matrix Calculus for Classical and Quantum Circuits",
     display="vos",
