@@ -138,6 +138,22 @@ ordóñez2007a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
+sitnikova2007a = DB(WorkUnrelated(
+    2007, "Software and systems engineering process capability in the South Australian defence industry",
+    display="sitnikova",
+    authors="Sitnikova, Elena and Kroeger, Trent and Cook, Stephen",
+    place=FAKE,
+    pp="129--139",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="3",
+    number="2",
+    ID="Sitnikova2007",
+    springer="1",
+    placex="Innovations in Systems and Software Engineering",
+))
+
 steen2007a = DB(WorkUnrelated(
     2007, "Practical knowledge and its importance for software product quality",
     display="steen",

@@ -3,6 +3,36 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+arent2000a = DB(WorkUnrelated(
+    2000, "Transforming Software Organizations with the Capability Maturity Model",
+    display="arent",
+    authors="Arent, Jesper",
+    place=PROFES,
+    pp="103--114",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_12",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+conradi2000a = DB(WorkUnrelated(
+    2000, "Software Experience Bases: A Consolidated Evaluation and Status Report",
+    display="conradi",
+    authors="Conradi, Reidar and Dingsøyr, Torgeir",
+    place=PROFES,
+    pp="391--406",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_33",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 elliott2000a = DB(WorkUnrelated(
     2000, "Design of a product-focused customer-oriented process",
     display="elliott",
@@ -119,6 +149,66 @@ pfahl2000a = DB(WorkUnrelated(
     ID="Pfahl20001001",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+pfahl2000b = DB(WorkUnrelated(
+    2000, "Using Simulation to Visualise and Analyse Product-Process Dependencies in Software Development Projects",
+    display="pfahl b",
+    authors="Pfahl, Dietmar and Birk, Andreas",
+    place=PROFES,
+    pp="88--102",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_11",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+schneider2000a = DB(WorkUnrelated(
+    2000, "Active Probes Synergy in Experience-Based Process Improvement",
+    display="schneider",
+    authors="Schneider, Kurt",
+    place=PROFES,
+    pp="6--19",
+    entrytype="inproceedings",
+    editor="Bomarius, Frankand  Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_5",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+solingen2000a = DB(WorkUnrelated(
+    2000, "No Improvement without Learning: Prerequisites for Learning the Relations between Process and Product Quality in Practice",
+    display="solingen",
+    authors="van Solingen, Rini and Berghout, Egon and Kusters, Rob and Trienekens, Jos",
+    place=PROFES,
+    pp="36--47",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_7",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+warboys2000a = DB(WorkUnrelated(
+    2000, "Modelling the Co-Evolution of Business Processes and IT Systems",
+    display="warboys",
+    authors="Warboys, B. C. and Greenwood, R. M. and Kawalek, P.",
+    place=FAKE,
+    pp="10--23",
+    entrytype="inbook",
+    editor="Henderson, Peter",
+    publisher="Springer London",
+    address="London",
+    ID="Warboys2000",
+    springer="1",
+    placex="Systems Engineering for Business Process Change: Collected Papers from the EPSRC Research Programme",
 ))
 
 zelkowits2000a = DB(WorkUnrelated(

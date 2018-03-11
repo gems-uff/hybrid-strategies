@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ahmed2011a = DB(WorkUnrelated(
+    2011, "An architecture process maturity model of software product line engineering",
+    display="ahmed",
+    authors="Ahmed, Faheem and Capretz, Luiz Fernando",
+    place=FAKE,
+    pp="191",
+    entrytype="article",
+    month="Sep",
+    day="24",
+    volume="7",
+    number="3",
+    ID="Ahmed2011",
+    springer="1",
+    placex="Innovations in Systems and Software Engineering",
+))
+
 andersen2011a = DB(WorkUnrelated(
     2011, "The forgotten promise of e-government maturity: Assessing responsiveness in the digital public sector",
     display="andersen",
@@ -58,6 +74,21 @@ ayala2011a = DB(WorkUnrelated(
     ID="Ayala2011620",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+ayala2011b = DB(WorkUnrelated(
+    2011, "Towards Improving OSS Products Selection -- Matching Selectors and OSS Communities Perspectives",
+    display="ayala b",
+    authors="Ayala, Claudia and Cruzes, Daniela S. and Franch, Xavier and Conradi, Reidar",
+    place=FAKE,
+    pp="244--258",
+    entrytype="inproceedings",
+    editor="Hissam, Scott A. and Russo, Barbara and de Mendon{ç}a Neto, Manoel G. and Kon, Fabio",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-24418-6_17",
+    springer="1",
+    placex="Open Source Systems: Grounding Research",
 ))
 
 baker2011a = DB(WorkUnrelated(
@@ -152,6 +183,22 @@ ghaly2011a = DB(WorkUnrelated(
     ID="Ghaly:2011:GID:1999320.1999371",
     acm="1",
     placex="Proceedings of the 2Nd International Conference on Computing for Geospatial Research & Applications",
+))
+
+goknil2011a = DB(WorkUnrelated(
+    2011, "Semantics of trace relations in requirements models for consistency checking and inferencing",
+    display="goknil",
+    authors="Goknil, Arda and Kurtev, Ivan and van den Berg, Klaas and Veldhuis, Jan-Willem",
+    place=FAKE,
+    pp="31--54",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="10",
+    number="1",
+    ID="Goknil2011",
+    springer="1",
+    placex="Software {&} Systems Modeling",
 ))
 
 hassanzadeh2011a = DB(WorkUnrelated(

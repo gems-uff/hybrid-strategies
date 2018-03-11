@@ -1,0 +1,344 @@
+@InProceedings{10.1007/978-3-540-30181-3_10,
+author="Pedersen, Keld",
+editor="Dings{\o}yr, Torgeir",
+title="Software Thinking Improvement Learning Performance Improving Lessons",
+booktitle="Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="102--113",
+}
+
+
+
+
+@Inbook{Ezran2002,
+author="Ezran, Michel
+and Morisio, Maurizio
+and Tully, Colin",
+title="Managing Reuse",
+bookTitle="Practical Software Reuse",
+year="2002",
+publisher="Springer London",
+address="London",
+pages="93--110",}
+
+
+
+
+@Inbook{Lindvall2003,
+author="Lindvall, Mikael
+and Rus, Ioana",
+editor="Aurum, Ayb{\"u}ke
+and Jeffery, Ross
+and Wohlin, Claes
+and Handzic, Meliha",
+title="Knowledge Management for Software Organizations",
+bookTitle="Managing Software Engineering Knowledge",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="73--94",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_32,
+author="Sepp{\"a}nen, Veikko",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="A Relationship-Based View to Software Engineering Competence",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="376--390",
+
+}
+
+
+
+
+
+@Article{Simões2014,
+author="Sim{\~o}es, Carlos
+and Montoni, Mariano",
+title="Applying statistical process control in small sized evolutionary projects: results and lessons learned in the implementation of CMMI-DEV maturity level 5 in Synapsis Brazil",
+journal="Journal of Software Engineering Research and Development",
+year="2014",
+month="Mar",
+day="24",
+volume="2",
+number="1",
+pages="2",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_10,
+author="Aversano, Lerina
+and Canfora, Gerardo
+and Capasso, Giovanni
+and Di Lucca, Giuseppe A.
+and Visaggio, Corrado A.",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Introducing Quality System in Small and Medium Enterprises: An Experience Report",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="131--145",
+
+}
+
+
+
+
+
+@Inbook{Vohwinkel2001,
+author="Vohwinkel, Detlef",
+editor="Wieczorek, Martin
+and Meyerhoff, Dirk",
+title="Test process assessments and improvement",
+bookTitle="Software Quality: State of the Art in Management, Testing, and Tools",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="61--72",
+
+}
+
+
+
+
+
+@Article{Goldin2015,
+author="Goldin, Leah
+and Berry, Daniel M.",
+title="Reuse of requirements reduced time to market at one industrial shop: a case study",
+journal="Requirements Engineering",
+year="2015",
+month="Mar",
+day="01",
+volume="20",
+number="1",
+pages="23--44",
+
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-642-34347-6_15,
+author="Chouseinoglou, Oumout
+and Bilgen, Semih",
+editor="Winckler, Marco
+and Forbrig, Peter
+and Bernhaupt, Regina",
+title="A Model for Assessing Organizational Learning in Software Development Organizations",
+booktitle="Human-Centered Software Engineering",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="251--258",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44813-6_22,
+author="Dekkers, Ton",
+editor="Bomarius, Frank
+and Komi-Sirvi{\"o}, Seija",
+title="Project Improvement as Start-up",
+booktitle="Product Focused Software Process Improvement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="240--254",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44813-6_15,
+author="Kucza, Timo
+and N{\"a}ttinen, Minna
+and Parviainen, P{\"a}ivi",
+editor="Bomarius, Frank
+and Komi-Sirvi{\"o}, Seija",
+title="Improving Knowledge Management in Software Reuse Process",
+booktitle="Product Focused Software Process Improvement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="141--152",
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, M.
+and Olsen, E.W.",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Cuevas, Gonzalo
+and Rementeria, Santiago",
+title="The EUREX Project",
+bookTitle="Managing the Change: Software Configuration and Change Management: Software Best Practice 2",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="17--24",
+
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, M.
+and Olsen, E. W.",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Vallet, Gilles
+and B{\'e}cart, Olivier",
+title="The EUREX Project",
+bookTitle="Software Management Approaches: Project Management, Estimation, and Life Cycle Support: Software Best Practice 3",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="17--24",
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, M.
+and Olsen, E.W.",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+title="The EUREX Project",
+bookTitle="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="17--24",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44814-4_6,
+author="Pfahl, Dietmar
+and Angkasaputra, Niniek
+and Differding, Christiane M.
+and Ruhe, G{\"u}nther",
+editor="Althoff, Klaus-Dieter
+and Feldmann, Raimund L.
+and M{\"u}ller, Wolfgang",
+title="CORONET-Train: A Methodology for Web-Based Collaborative Learning in Software Organisations",
+booktitle="Advances in Learning Software Organizations",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="37--51",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_31,
+author="Lago, Patricia
+and Matinlassi, Mari",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="The WISE Approach to Architect Wireless Services",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="367--382",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_18,
+author="Amandeep
+and Ruhe, G{\"u}nther
+and Stanford, Mark",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Intelligent Support for Software Release Planning",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="248--262",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_23,
+author="Punter, Teade
+and Trendowicz, Adam
+and Kaiser, Peter",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Evaluating Evolutionary Software Systems",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="258--272",
+}
+
+
+
+
+@Inbook{Jedlitschka2003,
+author="Jedlitschka, Andreas
+and Nick, Markus",
+editor="Conradi, Reidar
+and Wang, Alf Inge",
+title="Software Engineering Knowledge Repositories",
+bookTitle="Empirical Methods and Studies in Software Engineering: Experiences from ESERNET",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="55--80",
+}
+
+
+
+@InProceedings{10.1007/978-3-540-27799-6_6,
+author="Karinsalo, Mikko
+and Abrahamsson, Pekka",
+editor="Bosch, Jan
+and Krueger, Charles",
+title="Software Reuse and the Test Development Process: A Combined Approach",
+booktitle="Software Reuse: Methods, Techniques, and Tools",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="59--68",
+
+}
+
+
+

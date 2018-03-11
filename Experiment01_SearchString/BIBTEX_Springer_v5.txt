@@ -1,0 +1,334 @@
+@InProceedings{10.1007/3-540-45672-4_8,
+author="Alleman, Glen B.",
+editor="Wells, Don
+and Williams, Laurie",
+title="Agile Project Management Methods for ERP: How to Apply Agile Processes to Complex COTS Projects and Live to Tell about It",
+booktitle="Extreme Programming and Agile Methods --- XP/Agile Universe 2002",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="70--88",
+
+}
+
+
+
+@Article{Sitnikova2007,
+author="Sitnikova, Elena
+and Kroeger, Trent
+and Cook, Stephen",
+title="Software and systems engineering process capability in the South Australian defence industry",
+journal="Innovations in Systems and Software Engineering",
+year="2007",
+month="Jun",
+day="01",
+volume="3",
+number="2",
+pages="129--139",
+
+}
+
+
+
+@InProceedings{10.1007/3-540-36209-6_11,
+author="Wong, Bernard
+and Jeffery, Ross",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="A Framework for Software Quality Evaluation",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="103--118",
+
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, M.
+and Olsen, E. W.",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Bergman, Lars",
+title="The EUREX Project",
+bookTitle="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="17--24",
+
+}
+
+
+
+@Article{Gorschek2006,
+author="Gorschek, Tony
+and Wohlin, Claes",
+title="Requirements Abstraction Model",
+journal="Requirements Engineering",
+year="2006",
+month="Mar",
+day="01",
+volume="11",
+number="1",
+pages="79--101",
+}
+
+
+
+
+@Article{Toval2002,
+author="Toval, Ambrosio
+and Nicol{\'a}s, Joaqu{\'i}n
+and Moros, Bego{\~{n}}a
+and Garc{\'i}a, Fernando",
+title="Requirements Reuse for Improving Information Systems Security: A Practitioner's Approach",
+journal="Requirements Engineering",
+year="2002",
+month="Jan",
+day="01",
+volume="6",
+number="4",
+pages="205--219",
+issn="1432-010X",
+doi="10.1007/PL00010360",
+url="https://doi.org/10.1007/PL00010360"
+}
+
+
+
+@Inbook{Warboys2000,
+author="Warboys, B. C.
+and Greenwood, R. M.
+and Kawalek, P.",
+editor="Henderson, Peter",
+title="Modelling the Co-Evolution of Business Processes and IT Systems",
+bookTitle="Systems Engineering for Business Process Change: Collected Papers from the EPSRC Research Programme",
+year="2000",
+publisher="Springer London",
+address="London",
+pages="10--23",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-24418-6_17,
+author="Ayala, Claudia
+and Cruzes, Daniela S.
+and Franch, Xavier
+and Conradi, Reidar",
+editor="Hissam, Scott A.
+and Russo, Barbara
+and de Mendon{\c{c}}a Neto, Manoel G.
+and Kon, Fabio",
+title="Towards Improving OSS Products Selection -- Matching Selectors and OSS Communities Perspectives",
+booktitle="Open Source Systems: Grounding Research",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="244--258",
+}
+
+@InProceedings{10.1007/3-540-44813-6_14,
+author="Schneider, Kurt",
+editor="Bomarius, Frank
+and Komi-Sirvi{\"o}, Seija",
+title="Experience Magnets Attracting Experiences, Not Just Storing Them",
+booktitle="Product Focused Software Process Improvement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="126--140",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_33,
+author="Conradi, Reidar
+and Dings{\o}yr, Torgeir",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Software Experience Bases: A Consolidated Evaluation and Status Report",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="391--406",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-1-4471-0173-4_7,
+author="Jones, Brian Sherwood
+and Earthy, Jonathan",
+editor="Redmill, Felix
+and Anderson, Tom",
+title="The Processes to Manage (and Minimise) the Human Risk in Complex Systems",
+booktitle="Components of System Safety",
+year="2002",
+publisher="Springer London",
+address="London",
+pages="107--122",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_15,
+author="Aydin, Mehmet N.
+and Harmsen, Frank",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Making a Method Work for a Project Situation in the Context of CMM",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="158--171",
+}
+
+
+
+@Inbook{Christie1995,
+author="Christie, Alan M.",
+title="The Application of Process-Centered Environments",
+bookTitle="Software Process Automation: The Technology and Its Adoption",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="127--150",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_34,
+author="Canfora, Gerardo
+and Cimitile, Aniello
+and Aaron Visaggio, Corrado",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="From Knowledge Management Concepts toward Software Engineering Practices",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="407--422",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_33,
+author="Larsson, Stig
+and Ekdahl, Fredrik",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Selecting CMMI Appraisal Classes Based on Maturity and Openness",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="457--470",
+
+}
+
+
+
+@Inbook{O’Regan2002,
+author="O'Regan, Gerard",
+title="Introduction to Software Quality",
+bookTitle="A Practical Approach to Software Quality",
+year="2002",
+publisher="Springer New York",
+address="New York, NY",
+pages="1--48",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-64956-5_12,
+author="Fern{\'a}ndez Ramil, J.
+and Lehman, M. M.",
+editor="Gruhn, Volker",
+title="Fuzzy dynamics in software project simulation and support",
+booktitle="Software Process Technology",
+year="1998",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="122--126",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-40052-3_6,
+author="Henninger, Scott",
+editor="Henninger, Scott
+and Maurer, Frank",
+title="Tool Support for Experience-Based Methodologies",
+booktitle="Advances in Learning Software Organizations",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="44--59",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-59449-3_24,
+author="Campanai, M.
+and Ferretti, E.
+and Valori, V.",
+editor="Nesi, Paolo",
+title="Quality estimation of software applications for banking",
+booktitle="Objective Software Quality",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="64--77",
+
+}
+
+
+
+@InProceedings{10.1007/978-3-540-30181-3_12,
+author="Hansen, Bo Hansen
+and Kautz, Karlheinz",
+editor="Dings{\o}yr, Torgeir",
+title="Knowledge Mapping: A Technique for Identifying Knowledge Flows in Software Organisations",
+booktitle="Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="126--137",
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

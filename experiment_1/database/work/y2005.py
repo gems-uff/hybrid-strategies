@@ -81,6 +81,22 @@ coallier2005a = DB(WorkUnrelated(
     placex="Science of Computer Programming",
 ))
 
+fernandes2005a = DB(WorkUnrelated(
+    2005, "A reference framework for process-oriented software development organizations",
+    display="fernandes",
+    authors="Fernandes, João M. and Duarte, Francisco J.",
+    place=FAKE,
+    pp="94--105",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="4",
+    number="1",
+    ID="Fernandes2005",
+    springer="1",
+    placex="Software {&} Systems Modeling",
+))
+
 gairing2005a = DB(WorkUnrelated(
     2005, "Selfish Routing with Incomplete Information",
     display="gairing",

@@ -3,6 +3,51 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alleman2002a = DB(WorkUnrelated(
+    2002, "Agile Project Management Methods for ERP: How to Apply Agile Processes to Complex COTS Projects and Live to Tell about It",
+    display="alleman",
+    authors="Alleman, Glen B.",
+    place=FAKE,
+    pp="70--88",
+    entrytype="inproceedings",
+    editor="Wells, Don and Williams, Laurie",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-45672-4_8",
+    springer="1",
+    placex="Extreme Programming and Agile Methods --- XP/Agile Universe 2002",
+))
+
+aydin2002a = DB(WorkUnrelated(
+    2002, "Making a Method Work for a Project Situation in the Context of CMM",
+    display="aydin",
+    authors="Aydin, Mehmet N. and Harmsen, Frank",
+    place=PROFES,
+    pp="158--171",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_15",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+barafort2002a = DB(WorkUnrelated(
+    2002, "Benefits Resulting from the Combined Use of ISO/IEC 15504 with the Information Technology Infrastructure Library (ITIL)",
+    display="barafort",
+    authors="Barafort, Béatrix and Di Renzo, Bernard and Merlan, Olivier",
+    place=PROFES,
+    pp="314--325",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_27",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 birk2002a = DB(WorkUnrelated(
     2002, "A Systems Perspective on Software Process Improvement",
     display="birk",
@@ -14,6 +59,21 @@ birk2002a = DB(WorkUnrelated(
     publisher="Springer Berlin Heidelberg",
     address="Berlin, Heidelberg",
     ID="10.1007/3-540-36209-6_4",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+canfora2002a = DB(WorkUnrelated(
+    2002, "From Knowledge Management Concepts toward Software Engineering Practices",
+    display="canfora",
+    authors="Canfora, Gerardo and Cimitile, Aniello and Aaron Visaggio, Corrado",
+    place=PROFES,
+    pp="407--422",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_34",
     springer="1",
     placex="Product Focused Software Process Improvement",
 ))
@@ -37,6 +97,21 @@ chan2002a = DB(WorkUnrelated(
     placex="European Journal of Operational Research",
 ))
 
+chauveau2002a = DB(WorkUnrelated(
+    2002, "Analysis of Risks in a Software Improvement Programme",
+    display="chauveau",
+    authors="Chauveau, Emmanuel and Lassudrie, Claire and Berthelot, David",
+    place=PROFES,
+    pp="601--614",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_49",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 feigenbaum2002a = DB(WorkUnrelated(
     2002, "A BGP-based Mechanism for Lowest-cost Routing",
     display="feigenbaum",
@@ -50,6 +125,21 @@ feigenbaum2002a = DB(WorkUnrelated(
     ID="Feigenbaum:2002:BML:571825.571856",
     acm="1",
     placex="Proceedings of the Twenty-first Annual Symposium on Principles of Distributed Computing",
+))
+
+jones2002a = DB(WorkUnrelated(
+    2002, "The Processes to Manage (and Minimise) the Human Risk in Complex Systems",
+    display="jones",
+    authors="Jones, Brian Sherwood and Earthy, Jonathan",
+    place=FAKE,
+    pp="107--122",
+    entrytype="inproceedings",
+    editor="Redmill, Felix and Anderson, Tom",
+    publisher="Springer London",
+    address="London",
+    ID="10.1007/978-1-4471-0173-4_7",
+    springer="1",
+    placex="Components of System Safety",
 ))
 
 kock2002a = DB(WorkUnrelated(
@@ -99,6 +189,35 @@ munkvold2002a = DB(WorkUnrelated(
     ID="Munkvold:2002:SIE:590806.590809",
     acm="1",
     placex="SIGMIS Database",
+))
+
+neu2002a = DB(WorkUnrelated(
+    2002, "Simulation-Based Risk Reduction for Planning Inspections",
+    display="neu",
+    authors="Neu, Holger and Hanne, Thomas and Münch, Jürgen and Nickel, Stefan and Wirsen, Andreas",
+    place=PROFES,
+    pp="78--93",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_9",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+oregam2002a = DB(WorkUnrelated(
+    2002, "Introduction to Software Quality",
+    display="oregan",
+    authors="O'Regan, Gerard",
+    place=FAKE,
+    pp="1--48",
+    entrytype="inbook",
+    publisher="Springer New York",
+    address="New York, NY",
+    ID="ORegan2002",
+    springer="1",
+    placex="A Practical Approach to Software Quality",
 ))
 
 oregan2002a = DB(WorkUnrelated(
@@ -179,6 +298,24 @@ sheard2002a = DB(WorkUnrelated(
     placex="SIGCSE Bull.",
 ))
 
+toval2002a = DB(WorkUnrelated(
+    2002, "Requirements Reuse for Improving Information Systems Security: A Practitioner's Approach",
+    display="toval",
+    authors="Toval, Ambrosio and Nicolás, Joaquin and Moros, Begona and Garcia, Fernando",
+    place=FAKE,
+    pp="205--219",
+    entrytype="article",
+    month="Jan",
+    day="01",
+    volume="6",
+    number="4",
+    issn="1432-010X",
+    doi="10.1007/PL00010360",
+    ID="Toval2002",
+    springer="1",
+    placex="Requirements Engineering",
+))
+
 valerio2002a = DB(WorkUnrelated(
     2002, "Software Process Improvement through Use Cases: Building Quality from the Very Beginning",
     display="valerio",
@@ -205,6 +342,21 @@ visconti2002a = DB(WorkUnrelated(
     publisher="Springer Berlin Heidelberg",
     address="Berlin, Heidelberg",
     ID="10.1007/3-540-36209-6_44",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+wong2002a = DB(WorkUnrelated(
+    2002, "A Framework for Software Quality Evaluation",
+    display="wong",
+    authors="Wong, Bernard and Jeffery, Ross",
+    place=PROFES,
+    pp="103--118",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_11",
     springer="1",
     placex="Product Focused Software Process Improvement",
 ))

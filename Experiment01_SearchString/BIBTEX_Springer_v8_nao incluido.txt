@@ -1,0 +1,382 @@
+@InProceedings{10.1007/3-540-47833-7_36,
+author="Postema, Herman
+and Obbink, J. Henk",
+editor="van der Linden, Frank",
+title="Platform Based Product Development",
+booktitle="Software Product-Family Engineering",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="390--400",
+
+}
+
+
+
+@InProceedings{10.1007/978-3-642-13244-5_9,
+author="Hauge, {\O}yvind
+and Cruzes, Daniela Soares
+and Conradi, Reidar
+and Velle, Ketil Sandanger
+and Skarpenes, Tron Andr{\'e}",
+editor="{\AA}gerfalk, P{\"a}r
+and Boldyreff, Cornelia
+and Gonz{\'a}lez-Barahona, Jes{\'u}s M.
+and Madey, Gregory R.
+and Noll, John",
+title="Risks and Risk Mitigation in Open Source Software Adoption: Bridging the Gap between Literature and Practice",
+booktitle="Open Source Software: New Horizons",
+year="2010",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="105--118",
+
+}
+
+
+
+@InProceedings{10.1007/3-540-59205-9_44,
+author="Obbink, J. Henk",
+editor="Sch{\"a}fer, Wilhelm",
+title="Process differentiation and integration: The key to just-in-time in product development",
+booktitle="Software Process Technology",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="79--92",
+
+}
+
+
+
+
+@Article{NattochDag2002,
+author="Natt och Dag, Johan
+and Regnell, Bj{\"o}rn
+and Carlshamre, P{\"a}r
+and Andersson, Michael
+and Karlsson, Joachim",
+title="A Feasibility Study of Automated Natural Language Requirements Analysis in Market-Driven Development",
+journal="Requirements Engineering",
+year="2002",
+month="Apr",
+day="01",
+volume="7",
+number="1",
+pages="20--33",
+issn="1432-010X",
+doi="10.1007/s007660200002",
+url="https://doi.org/10.1007/s007660200002"
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-92698-6_35,
+author="Niebuhr, Sabine
+and Kohler, Kirstin
+and Graf, Christian",
+editor="Gulliksen, Jan
+and Harning, Morton Borup
+and Palanque, Philippe
+and van der Veer, Gerrit C.
+and Wesson, Janet",
+title="Engaging Patterns: Challenges and Means Shown by an Example",
+booktitle="Engineering Interactive Systems",
+year="2008",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="586--600",
+
+}
+
+
+
+@InProceedings{10.1007/978-3-642-33442-9_1,
+author="Robles, Gregorio
+and Gonz{\'a}lez-Barahona, Jes{\'u}s M.",
+editor="Hammouda, Imed
+and Lundell, Bj{\"o}rn
+and Mikkonen, Tommi
+and Scacchi, Walt",
+title="A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes",
+booktitle="Open Source Systems: Long-Term Sustainability",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="1--14",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-57209-0_16,
+author="Cederling, Ulf",
+editor="Sommerville, Ian
+and Paul, Manfred",
+title="Industrial software development --- a case study",
+booktitle="Software Engineering --- ESEC '93",
+year="1993",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="226--237",
+
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-642-24418-6_12,
+author="Jensen, Chris
+and Scacchi, Walt",
+editor="Hissam, Scott A.
+and Russo, Barbara
+and de Mendon{\c{c}}a Neto, Manoel G.
+and Kon, Fabio",
+title="License Update and Migration Processes in Open Source Software Projects",
+booktitle="Open Source Systems: Grounding Research",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="177--195",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-25983-1_1,
+author="Holz, Harald
+and Melnik, Grigori",
+editor="Melnik, Grigori
+and Holz, Harald",
+title="Research on Learning Software Organizations -- Past, Present, and Future",
+booktitle="Advances in Learning Software Organizations",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="1--6",
+
+}
+
+
+
+
+@Article{Carlson2014,
+author="Carlson, Nathan
+and Laplante, Phil",
+title="The NASA automated requirements measurement tool: a reconstruction",
+journal="Innovations in Systems and Software Engineering",
+year="2014",
+month="Jun",
+day="01",
+volume="10",
+number="2",
+pages="77--91",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-33442-9_9,
+author="Ayala, Claudia
+and Cruzes, Daniela S.
+and Nguyen, Anh Duc
+and Conradi, Reidar
+and Franch, Xavier
+and H{\"o}st, Martin
+and Babar, Muhammad Ali",
+editor="Hammouda, Imed
+and Lundell, Bj{\"o}rn
+and Mikkonen, Tommi
+and Scacchi, Walt",
+title="OSS Integration Issues and Community Support: An Integrator Perspective",
+booktitle="Open Source Systems: Long-Term Sustainability",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="129--143",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_21,
+author="Rodr{\'i}guez, D.
+and Satpathy, M.
+and Pfahl, D.",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Effective Software Project Management Education through Simulation Models: An Externally Replicated Experiment",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="287--301",
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_36,
+author="Lehtola, Laura
+and Kauppinen, Marjo
+and Kujala, Sari",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Requirements Prioritization Challenges in Practice",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="497--508",
+}
+
+
+
+
+@Inbook{Cechich2003,
+author="Cechich, Alejandra
+and Piattini, Mario
+and Vallecillo, Antonio",
+editor="Cechich, Alejandra
+and Piattini, Mario
+and Vallecillo, Antonio",
+title="Assessing Component-Based Systems",
+bookTitle="Component-Based Software Quality: Methods and Techniques",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="1--20",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44704-0_9,
+author="Schmietendorf, Andreas
+and Scholz, Andr{\'e}",
+editor="Dumke, Reiner
+and Abran, Alain",
+title="Maturity Evaluation of the Performance Engineering Process",
+booktitle="New Approaches in Software Measurement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="111--124",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-40052-3_5,
+author="Feldmann, Raimund L.
+and Pizka, Markus",
+editor="Henninger, Scott
+and Maurer, Frank",
+title="An On-Line Software Engineering Repository for Germany's SME -- An Experience Report",
+booktitle="Advances in Learning Software Organizations",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="34--43",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44704-0_14,
+author="Daneva, Maya",
+editor="Dumke, Reiner
+and Abran, Alain",
+title="An Assessment of the Effects of Requirements Reuse Measurements on the ERP Requirements Engineering Process",
+booktitle="New Approaches in Software Measurement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="172--182",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_20,
+author="Engelkamp, Stefan
+and Hartkopf, Susanne
+and Br{\"o}ssler, Peter",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Project Experience Database: A Report Based on First Practical Experience",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="204--215",
+}
+
+
+
+
+
+@InProceedings{10.1007/3-540-55963-9_50,
+author="Haikala, Ilkka J.
+and Marijarvi, Jukka",
+editor="Sledge, Carol",
+title="(Continuing) education of software professionals",
+booktitle="Software Engineering Education",
+year="1992",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="180--193",
+
+}
+
+
+
+
+@Article{Nilsson2015,
+author="Nilsson, Agneta
+and Castro, Laura M.
+and Rivas, Samuel
+and Arts, Thomas",
+title="Assessing the effects of introducing a new software development process: a methodological description",
+journal="International Journal on Software Tools for Technology Transfer",
+year="2015",
+month="Feb",
+day="01",
+volume="17",
+number="1",
+pages="1--16",
+
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-642-24148-2_14,
+author="Rantapuska, Torsti
+and Sore, Sariseelia",
+editor="N{\"u}ttgens, Markus
+and Gadatsch, Andreas
+and Kautz, Karlheinz
+and Schirmer, Ingrid
+and Blinn, Nadine",
+title="Progress of Commitment in Co-operative Software Acquisition",
+booktitle="Governance and Sustainability in Information Systems. Managing the Transfer and Diffusion of IT",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="224--235",
+}
+
+
+
+
+

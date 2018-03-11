@@ -140,6 +140,22 @@ diirr2014a = DB(WorkUnrelated(
     placex="Journal of Software Engineering Research and Development",
 ))
 
+eito2014a = DB(WorkUnrelated(
+    2014, "Mapping of improvement models as a risk reduction strategy: a theoretical comparison for the aerospace industry",
+    display="eito",
+    authors="Eito-Brun, Ricardo",
+    place=FAKE,
+    pp="283--295",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="10",
+    number="4",
+    ID="Eito-Brun2014",
+    springer="1",
+    placex="Innovations in Systems and Software Engineering",
+))
+
 fontana2014a = DB(WorkUnrelated(
     2014, "Processes versus people: How should agile software development maturity be defined?",
     display="fontana",

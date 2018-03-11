@@ -22,6 +22,36 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+conradi2003a = DB(WorkUnrelated(
+    2003, "Lessons Learned and Recommendations from Two Large Norwegian SPI Programmes",
+    display="conradi",
+    authors="Conradi, Reidar and Dybå, Tore and Sjøberg, Dag I. K. and Ulsund, Tor",
+    place=FAKE,
+    pp="32--45",
+    entrytype="inproceedings",
+    editor="Oquendo, Flavio",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45189-1_4",
+    springer="1",
+    placex="Software Process Technology",
+))
+
+dybå2003a = DB(WorkUnrelated(
+    2003, "A Dynamic Model of Software Engineering Knowledge Creation",
+    display="dybå",
+    authors="Dybå, Tore",
+    place=FAKE,
+    pp="95--117",
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Dybå2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
+))
+
 ebert2003a = DB(WorkUnrelated(
     2003, "e-R&D: Effectively Managing and Using R&D Knowledge",
     display="ebert",
@@ -34,6 +64,21 @@ ebert2003a = DB(WorkUnrelated(
     ID="Ebert2003",
     springer="1",
     placex="Managing Software Engineering Knowledge",
+))
+
+henninger2003a = DB(WorkUnrelated(
+    2003, "Tool Support for Experience-Based Methodologies",
+    display="henninger",
+    authors="Henninger, Scott",
+    place=FAKE,
+    pp="44--59",
+    entrytype="inproceedings",
+    editor="Henninger, Scott and Maurer, Frank",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-40052-3_6",
+    springer="1",
+    placex="Advances in Learning Software Organizations",
 ))
 
 jung2003a = DB(WorkUnrelated(

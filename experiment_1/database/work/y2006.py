@@ -102,6 +102,22 @@ fernándezmedina2006a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+gorschek2006a = DB(WorkUnrelated(
+    2006, "Requirements Abstraction Model",
+    display="gorschek",
+    authors="Gorschek, Tony and Wohlin, Claes",
+    place=FAKE,
+    pp="79--101",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="11",
+    number="1",
+    ID="Gorschek2006",
+    springer="1",
+    placex="Requirements Engineering",
+))
+
 horkoff2006a = DB(WorkUnrelated(
     2006, "Analyzing Trust in Technology Strategies",
     display="horkoff",

@@ -1,0 +1,339 @@
+@Inbook{Ezran2002,
+author="Ezran, Michel
+and Morisio, Maurizio
+and Tully, Colin",
+title="Reuse Metrics",
+bookTitle="Practical Software Reuse",
+year="2002",
+publisher="Springer London",
+address="London",
+pages="111--126",
+}
+
+
+
+@Inbook{Oliver2003,
+author="Oliver, Gary R.
+and D'Ambra, John
+and Van Toorn, Christine",
+editor="Aurum, Ayb{\"u}ke
+and Jeffery, Ross
+and Wohlin, Claes
+and Handzic, Meliha",
+title="Evaluating an Approach to Sharing Software Engineering Knowledge to Facilitate Learning",
+bookTitle="Managing Software Engineering Knowledge",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="119--134",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_42,
+author="Helokunnas, Tuija",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="The Dimensions of Embedded COTS and OSS Software Component Integration",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="509--518",
+
+}
+
+
+
+
+@InProceedings{10.1007/BFb0101413,
+author="Feldmann, Raimund L.",
+editor="Ruhe, G{\"u}nther
+and Bomarius, Frank",
+title="On developing a repository structure tailored for reuse with improvement",
+booktitle="Learning Software Organizations",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="51--71",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-40480-1_40,
+author="Iivari, Netta",
+editor="Kotz{\'e}, Paula
+and Marsden, Gary
+and Lindgaard, Gitte
+and Wesson, Janet
+and Winckler, Marco",
+title="Usability Specialists as Boundary Spanners -- An Appraisal of Usability Specialists' Work in Multiparty Distributed Open Source Software Development Effort",
+booktitle="Human-Computer Interaction -- INTERACT 2013",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="571--588",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-24418-6_30,
+author="Gamalielsson, Jonas
+and Lundell, Bj{\"o}rn
+and Mattsson, Anders",
+editor="Hissam, Scott A.
+and Russo, Barbara
+and de Mendon{\c{c}}a Neto, Manoel G.
+and Kon, Fabio",
+title="Open Source Software for Model Driven Development: A Case Study",
+booktitle="Open Source Systems: Grounding Research",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="348--367",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-13244-5_4,
+author="Conaldi, Guido
+and Rullani, Francesco",
+editor="{\AA}gerfalk, P{\"a}r
+and Boldyreff, Cornelia
+and Gonz{\'a}lez-Barahona, Jes{\'u}s M.
+and Madey, Gregory R.
+and Noll, John",
+title="The Meso-level Structure of F/OSS Collaboration Network: Local Communities and Their Innovativeness",
+booktitle="Open Source Software: New Horizons",
+year="2010",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="42--52",
+
+}
+
+
+
+
+@Article{Pareto2012,
+author="Pareto, Lars
+and Eriksson, Peter
+and Ehnebom, Staffan",
+title="Concern coverage in base station development: an empirical investigation",
+journal="Software {\&} Systems Modeling",
+year="2012",
+month="Jul",
+day="01",
+volume="11",
+number="3",
+pages="409--429",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_14,
+author="Bratthall, Lars
+and Johansson, Enrico
+and Regnell, Bj{\"o}rn",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Is a Design Rationale Vital when Predicting Change Impact? -- A Controlled Experiment on Software Architecture Evolution",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="126--139",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_35,
+author="Peltola, Susanna
+and Tihinen, Maarit
+and Parviainen, P{\"a}ivi",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="What Are the Knowledge Needs during the Project Lifecycle in an Expert Organisation?",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="423--435",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44704-0_17,
+author="Buglione, Luigi
+and Abran, Alain",
+editor="Dumke, Reiner
+and Abran, Alain",
+title="QF2D: A Different Way to Measure Software Quality",
+booktitle="New Approaches in Software Measurement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="205--219",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-642-35758-9_57,
+author="Bensiek, Tobias
+and Kuehn, Arno",
+editor="Rivest, Louis
+and Bouras, Abdelaziz
+and Louhichi, Borhen",
+title="Maturity Model for Improving Virtual Engineering in Small and Medium-Sized Enterprises",
+booktitle="Product Lifecycle Management. Towards Knowledge-Rich Enterprises",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="635--645",
+
+}
+
+
+
+
+
+@Inbook{Ezran2002,
+author="Ezran, Michel
+and Morisio, Maurizio
+and Tully, Colin",
+title="Two Smaller Case Histories",
+bookTitle="Practical Software Reuse",
+year="2002",
+publisher="Springer London",
+address="London",
+pages="171--187",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_12,
+author="Bratthall, Lars
+and Hasselberg, Johan
+and Hoffman, Brad
+and Korendo, Zbigniew
+and Schilli, Bruno
+and Gundersen, Lars",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Component Certification - What is the Value?",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="119--133",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-58951-1_88,
+author="Zucconi, Lin",
+editor="Ibrahim, Rosalind L.",
+title="Essential knowledge for the practising software engineer and the responsibilities of university and industry for her education",
+booktitle="Software Engineering Education",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="3--13",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-47984-8_22,
+author="Gantner, Thomas
+and H{\"a}berlein, Tobias",
+editor="Kontio, Jyrki
+and Conradi, Reidar",
+title="GARP --- The Evolution of a Software Acquisition Process Model",
+booktitle="Software Quality --- ECSQ 2002",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="186--196",
+}
+
+
+
+
+@Article{Felderer2014,
+author="Felderer, Michael
+and Ramler, Rudolf",
+title="A multiple case study on risk-based testing in industry",
+journal="International Journal on Software Tools for Technology Transfer",
+year="2014",
+month="Oct",
+day="01",
+volume="16",
+number="5",
+pages="609--625",
+}
+
+
+
+
+@Inbook{Burnstein2003,
+title="Introduction to Testing as an Engineering Activity",
+bookTitle="Practical Software Testing: A Process-Oriented Approach",
+year="2003",
+publisher="Springer New York",
+address="New York, NY",
+pages="1--17",
+isbn="978-0-387-21658-4",
+doi="10.1007/0-387-21658-8_1",
+url="https://doi.org/10.1007/0-387-21658-8_1"
+}
+
+
+
+@InProceedings{10.1007/978-3-540-44542-5_8,
+author="Schmid, Klaus
+and Schank, Michael",
+editor="van der Linden, Frank",
+title="PuLSE-BEAT --- A Decision Support Tool for Scoping Product Lines",
+booktitle="Software Architectures for Product Families",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="65--75",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-85279-7_3,
+author="Cyra, {\L}ukasz
+and G{\'o}rski, Janusz",
+editor="Meyer, Bertrand
+and Nawrocki, Jerzy R.
+and Walter, Bartosz",
+title="Extending GQM by Argument Structures",
+booktitle="Balancing Agility and Formalism in Software Engineering",
+year="2008",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="26--39",
+
+}
+
+
+

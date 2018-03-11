@@ -18,6 +18,36 @@ ardimento2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+davis2004a = DB(WorkUnrelated(
+    2004, "Using Measurement Data in a TSPSM Project",
+    display="davis",
+    authors="Davis, Noopur and Mullaney, Julia and Carrington, David",
+    place=SPIP,
+    pp="91--101",
+    entrytype="inproceedings",
+    editor="Dingsøyr, Torgeir",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-30181-3_9",
+    springer="1",
+    placex="Software Process Improvement",
+))
+
+fernandes2004a = DB(WorkUnrelated(
+    2004, "Using RUP for Process-Oriented Organisations",
+    display="fernandes",
+    authors="Fernandes, João M. and Duarte, Francisco J.",
+    place=PROFES,
+    pp="348--362",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_25",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 grant2004a = DB(WorkUnrelated(
     2004, "Special section",
     display="grant",
@@ -68,6 +98,21 @@ hansen2004a = DB(WorkUnrelated(
     ID="Hansen2004457",
     sciencedirect="1",
     placex="International Journal of Information Management",
+))
+
+hansen2004b = DB(WorkUnrelated(
+    2004, "Knowledge Mapping: A Technique for Identifying Knowledge Flows in Software Organisations",
+    display="hansen b",
+    authors="Hansen, Bo Hansen and Kautz, Karlheinz",
+    place=SPIP,
+    pp="126--137",
+    entrytype="inproceedings",
+    editor="Dingsøyr, Torgeir",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-30181-3_12",
+    springer="1",
+    placex="Software Process Improvement",
 ))
 
 jedlitschka2004a = DB(WorkUnrelated(
@@ -121,6 +166,21 @@ kauppinen2004a = DB(WorkUnrelated(
     ID="Kauppinen2004937",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+larsson2004a = DB(WorkUnrelated(
+    2004, "Selecting CMMI Appraisal Classes Based on Maturity and Openness",
+    display="larsson",
+    authors="Larsson, Stig and Ekdahl, Fredrik",
+    place=PROFES,
+    pp="457--470",
+    entrytype="inproceedings",
+    editor="Bomarius, Frankan d Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_33",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 letier2004a = DB(WorkUnrelated(

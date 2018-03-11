@@ -1,0 +1,343 @@
+Temos 20, mas 1 está sem autor e 1 estava duplicado. Inseridos = 18.
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_25,
+author="Fernandes, Jo{\~a}o M.
+and Duarte, Francisco J.",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Using RUP for Process-Oriented Organisations",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="348--362",
+
+}
+
+
+
+
+@InProceedings{10.1007/BFb0053874,
+author="Rahikkala, Tua
+and Taramaa, Jorma
+and V{\"a}lim{\"a}ki, Antti",
+editor="Magnusson, Boris",
+title="Industrial experiences from SCM current state analysis",
+booktitle="System Configuration Management",
+year="1998",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="13--25",
+
+}
+
+
+
+
+@Article{Ahmed2011,
+author="Ahmed, Faheem
+and Capretz, Luiz Fernando",
+title="An architecture process maturity model of software product line engineering",
+journal="Innovations in Systems and Software Engineering",
+year="2011",
+month="Sep",
+day="24",
+volume="7",
+number="3",
+pages="191",
+
+}
+
+
+
+
+@Inbook{Consolini2001,
+author="Consolini, L.",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+title="Perspectives",
+bookTitle="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="33--81",
+
+}
+
+
+
+
+@Article{Goknil2011,
+author="Goknil, Arda
+and Kurtev, Ivan
+and van den Berg, Klaas
+and Veldhuis, Jan-Willem",
+title="Semantics of trace relations in requirements models for consistency checking and inferencing",
+journal="Software {\&} Systems Modeling",
+year="2011",
+month="Feb",
+day="01",
+volume="10",
+number="1",
+pages="31--54",
+
+}
+
+
+
+@InProceedings{10.1007/3-540-36209-6_49,
+author="Chauveau, Emmanuel
+and Lassudrie, Claire
+and Berthelot, David",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Analysis of Risks in a Software Improvement Programme",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="601--614",
+}
+
+
+
+
+@Inbook{Dybå2003,
+author="Dyb{\aa}, Tore",
+editor="Aurum, Ayb{\"u}ke
+and Jeffery, Ross
+and Wohlin, Claes
+and Handzic, Meliha",
+title="A Dynamic Model of Software Engineering Knowledge Creation",
+bookTitle="Managing Software Engineering Knowledge",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="95--117",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_27,
+author="Barafort, B{\'e}atrix
+and Di Renzo, Bernard
+and Merlan, Olivier",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Benefits Resulting from the Combined Use of ISO/IEC 15504 with the Information Technology Infrastructure Library (ITIL)",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="314--325",
+
+}
+
+
+
+@InProceedings{10.1007/978-3-540-30181-3_9,
+author="Davis, Noopur
+and Mullaney, Julia
+and Carrington, David",
+editor="Dings{\o}yr, Torgeir",
+title="Using Measurement Data in a TSPSM Project",
+booktitle="Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="91--101",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44704-0_8,
+author="Satpathy, Manoranjan
+and Harrison, Rachel
+and Snook, Colin
+and Butler, Michael",
+editor="Dumke, Reiner
+and Abran, Alain",
+title="A Generic Model for Assessing Process Quality",
+booktitle="New Approaches in Software Measurement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="94--110",
+}
+
+
+
+@Inbook{Burnstein2003,
+title="The Testing Maturity Model and Test Process Assessment",
+bookTitle="Practical Software Testing: A Process-Oriented Approach",
+year="2003",
+publisher="Springer New York",
+address="New York, NY",
+pages="537--585",
+isbn="978-0-387-21658-4",
+doi="10.1007/0-387-21658-8_16",
+url="https://doi.org/10.1007/0-387-21658-8_16"
+}
+
+
+
+
+@InProceedings{10.1007/3-540-44813-6_23,
+author="Zettel, J{\"o}rg
+and Maurer, Frank
+and M{\"u}nch, J{\"u}rgen
+and Wong, Les",
+editor="Bomarius, Frank
+and Komi-Sirvi{\"o}, Seija",
+title="LIPE:A Lightweight Process for E-Business Startup Companies Based on Extreme Programming",
+booktitle="Product Focused Software Process Improvement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="255--270",}
+
+
+
+
+@Article{Eito-Brun2014,
+author="Eito-Brun, Ricardo",
+title="Mapping of improvement models as a risk reduction strategy: a theoretical comparison for the aerospace industry",
+journal="Innovations in Systems and Software Engineering",
+year="2014",
+month="Dec",
+day="01",
+volume="10",
+number="4",
+pages="283--295",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_12,
+author="Arent, Jesper",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Transforming Software Organizations with the Capability Maturity Model",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="103--114",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_7,
+author="van Solingen, Rini
+and Berghout, Egon
+and Kusters, Rob
+and Trienekens, Jos",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="No Improvement without Learning: Prerequisites for Learning the Relations between Process and Product Quality in Practice",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="36--47",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_5,
+author="Schneider, Kurt",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Active Probes Synergy in Experience-Based Process Improvement",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="6--19",
+
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_11,
+author="Pfahl, Dietmar
+and Birk, Andreas",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="Using Simulation to Visualise and Analyse Product-Process Dependencies in Software Development Projects",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="88--102",
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45189-1_4,
+author="Conradi, Reidar
+and Dyb{\aa}, Tore
+and Sj{\o}berg, Dag I. K.
+and Ulsund, Tor",
+editor="Oquendo, Flavio",
+title="Lessons Learned and Recommendations from Two Large Norwegian SPI Programmes",
+booktitle="Software Process Technology",
+year="2003",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="32--45",
+}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_9,
+author="Neu, Holger
+and Hanne, Thomas
+and M{\"u}nch, J{\"u}rgen
+and Nickel, Stefan
+and Wirsen, Andreas",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Simulation-Based Risk Reduction for Planning Inspections",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="78--93",
+
+}
+
+
+
+
+@Article{Fernandes2005,
+author="Fernandes, Jo{\~a}o M.
+and Duarte, Francisco J.",
+title="A reference framework for process-oriented software development organizations",
+journal="Software {\&} Systems Modeling",
+year="2005",
+month="Feb",
+day="01",
+volume="4",
+number="1",
+pages="94--105",
+}
+
+
+

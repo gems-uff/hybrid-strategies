@@ -18,6 +18,35 @@ bukowski1995a = DB(WorkUnrelated(
     placex="Proceedings of the 1995 Symposium on Interactive 3D Graphics",
 ))
 
+campanai1995a = DB(WorkUnrelated(
+    1995, "Quality estimation of software applications for banking",
+    display="campanai",
+    authors="Campanai, M. and Ferretti, E. and Valori, V.",
+    place=FAKE,
+    pp="64--77",
+    entrytype="inproceedings",
+    editor="Nesi, Paolo",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-59449-3_24",
+    springer="1",
+    placex="Objective Software Quality",
+))
+
+christie1995a = DB(WorkUnrelated(
+    1995, "The Application of Process-Centered Environments",
+    display="christie",
+    authors="Christie, Alan M.",
+    place=FAKE,
+    pp="127--150",
+    entrytype="inbook",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Christie1995",
+    springer="1",
+    placex="Software Process Automation: The Technology and Its Adoption",
+))
+
 kuntzmann1995a = DB(WorkUnrelated(
     1995, "Quantitative approach to software process improvement",
     display="kuntzmann",

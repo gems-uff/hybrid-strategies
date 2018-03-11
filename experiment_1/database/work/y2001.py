@@ -189,6 +189,21 @@ haug2001b = DB(WorkUnrelated(
     placex="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
 ))
 
+haug2001c = DB(WorkUnrelated(
+    2001, "The EUREX Project",
+    display="haug c",
+    authors="Haug, M. and Olsen, E. W.",
+    place=FAKE,
+    pp="17--24",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Bergman, Lars",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Haug2001",
+    springer="1",
+    placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+))
+
 kauppinen2001a = DB(WorkUnrelated(
     2001, "Starting Improvement of Requirements Engineering Processes: An Experience Report",
     display="kauppinen",
@@ -238,6 +253,36 @@ niessink2001a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+satpathy2001a = DB(WorkUnrelated(
+    2001, "A Generic Model for Assessing Process Quality",
+    display="satpathy",
+    authors="Satpathy, Manoranjan and Harrison, Rachel and Snook, Colin and Butler, Michael",
+    place=FAKE,
+    pp="94--110",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_8",
+    springer="1",
+    placex="New Approaches in Software Measurement",
+))
+
+schneider2001a = DB(WorkUnrelated(
+    2001, "Experience Magnets Attracting Experiences, Not Just Storing Them",
+    display="schneider",
+    authors="Schneider, Kurt",
+    place=PROFES,
+    pp="126--140",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_14",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 smart2001a = DB(WorkUnrelated(
     2001, "Creating Effective and Enjoyable Documentation: Enhancing the Experience of Users by Aligning Information with Strategic Direction and Customer Insights",
     display="smart",
@@ -266,4 +311,18 @@ waina2001a = DB(WorkSnowball(
     doi="10.1109/DASC.2001.963369",
     issn="",
     ID="963369",
+))
+
+zettel2001a = DB(WorkUnrelated(
+    2001, "LIPE:A Lightweight Process for E-Business Startup Companies Based on Extreme Programming",
+    display="zettel",
+    authors="Zettel, Jörg and Maurer, Frank and Münch, Jürgen and Wong, Les",
+    place=PROFES,
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_23",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))

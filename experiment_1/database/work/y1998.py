@@ -60,6 +60,36 @@ paulk1998a = DB(WorkUnrelated(
     placex="",
 ))
 
+rahikkala1998a = DB(WorkUnrelated(
+    1998, "Industrial experiences from SCM current state analysis",
+    display="rahikkala",
+    authors="Rahikkala, Tua and Taramaa, Jorma and Välimäki, Antti",
+    place=FAKE,
+    pp="13--25",
+    entrytype="inproceedings",
+    editor="Magnusson, Boris",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/BFb0053874",
+    springer="1",
+    placex="System Configuration Management",
+))
+
+ramil1998a = DB(WorkUnrelated(
+    1998, "Fuzzy dynamics in software project simulation and support",
+    display="ramil",
+    authors="Fernández Ramil, J. and Lehman, M. M.",
+    place=FAKE,
+    pp="122--126",
+    entrytype="inproceedings",
+    editor="Gruhn, Volker",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-64956-5_12",
+    springer="1",
+    placex="Software Process Technology",
+))
+
 stålhane1998a = DB(WorkUnrelated(
     1998, "Modification of safety critical systems: an assessment of three approaches",
     display="stålhane",
