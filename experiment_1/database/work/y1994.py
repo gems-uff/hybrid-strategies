@@ -36,6 +36,21 @@ knoll1994a = DB(WorkUnrelated(
     placex="Proceedings of the 1994 Computer Personnel Research Conference on Reinventing IS : Managing Information Technology in Changing Organizations: Managing Information Technology in Changing Organizations",
 ))
 
+nú1994a = DB(WorkUnrelated(
+    1994, "Development of a lightweight object-based software process model under pragmatic constraints",
+    display="nú",
+    authors="Nú{ñ}ez, Fernando J. and Prades, Rafael",
+    place=FAKE,
+    pp="231--257",
+    entrytype="inproceedings",
+    editor="Toussaint, Marcel",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-58822-1_103",
+    springer="1",
+    placex="Ada in Europe",
+))
+
 roche1994a = DB(WorkUnrelated(
     1994, "Software measurement methods: recipes for success?",
     display="roche",

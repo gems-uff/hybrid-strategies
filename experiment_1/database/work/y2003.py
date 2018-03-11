@@ -22,6 +22,20 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+ebert2003a = DB(WorkUnrelated(
+    2003, "e-R&D: Effectively Managing and Using R&D Knowledge",
+    display="ebert",
+    authors="Ebert, Christof and De Man, Jozef and Schelenz, Fariba",
+    place=FAKE,
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Ebert2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
+))
+
 jung2003a = DB(WorkUnrelated(
     2003, "Evaluating interrater agreement in SPICE-based assessments",
     display="jung",
@@ -58,6 +72,36 @@ maxwell2003a = DB(WorkUnrelated(
     ID="Maxwell20031",
     sciencedirect="1",
     placex="",
+))
+
+solingen2003a = DB(WorkUnrelated(
+    2003, "Practical Guidelines for Learning-Based Software Product Development",
+    display="solingen",
+    authors="van Solingen, Rini and Kusters, Rob and Trienekens, Jos",
+    place=FAKE,
+    pp="299--317",
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="vanSolingen2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
+))
+
+solingen2003b = DB(WorkUnrelated(
+    2003, "In-Project Learning by Goal-oriented Measurement",
+    display="solingen b",
+    authors="van Solingen, Rini",
+    place=FAKE,
+    pp="319--337",
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="vanSolingen2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
 ))
 
 yap2003a = DB(WorkUnrelated(

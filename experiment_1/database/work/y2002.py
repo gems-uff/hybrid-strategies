@@ -101,6 +101,48 @@ munkvold2002a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+oregan2002a = DB(WorkUnrelated(
+    2002, "The Capability Maturity Model",
+    display="oregan",
+    authors="O'Regan, Gerard",
+    place=FAKE,
+    pp="129--167",
+    entrytype="inbook",
+    publisher="Springer New York",
+    address="New York, NY",
+    ID="ORegan2002",
+    springer="1",
+    placex="A Practical Approach to Software Quality",
+))
+
+oregan2002aac = DB(WorkUnrelated(
+    2002, "The SPICE (15504) Standard",
+    display="oregan",
+    authors="O'Regan, Gerard",
+    place=FAKE,
+    pp="169--203",
+    entrytype="inbook",
+    publisher="Springer New York",
+    address="New York, NY",
+    ID="ORegan2002",
+    springer="1",
+    placex="A Practical Approach to Software Quality",
+))
+
+oregan2002ab = DB(WorkUnrelated(
+    2002, "Metrics and Problem Solving",
+    display="oregan",
+    authors="O'Regan, Gerard",
+    place=FAKE,
+    pp="205--237",
+    entrytype="inbook",
+    publisher="Springer New York",
+    address="New York, NY",
+    ID="ORegan2002",
+    springer="1",
+    placex="A Practical Approach to Software Quality",
+))
+
 scott2002a = DB(WorkUnrelated(
     2002, "Understanding the use of an electronic process guide",
     display="scott",

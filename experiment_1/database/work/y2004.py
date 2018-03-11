@@ -140,6 +140,21 @@ letier2004a = DB(WorkUnrelated(
     placex="SIGSOFT Softw. Eng. Notes",
 ))
 
+linden2004a = DB(WorkUnrelated(
+    2004, "Software Product Family Evaluation",
+    display="linden",
+    authors="van der Linden, Frank and Bosch, Jan and Kamsties, Erik and Känsälä, Kari and Krzanik, Lech and Obbink, Henk",
+    place=FAKE,
+    pp="352--369",
+    entrytype="inproceedings",
+    editor="van der Linden, Frank J.",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24667-1_27",
+    springer="1",
+    placex="Software Product-Family Engineering",
+))
+
 malotaux2004a = DB(WorkUnrelated(
     2004, "Chapter 6 - Evolutionary Development: How to deliver Quality On Time in Software Development and Systems Engineering Projects",
     display="malotaux",

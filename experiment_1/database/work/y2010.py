@@ -71,6 +71,21 @@ chiprout2010a = DB(WorkUnrelated(
     placex="Proceedings of the 47th Design Automation Conference",
 ))
 
+daramola2010a = DB(WorkUnrelated(
+    2010, "A Process Framework for Semantics-Aware Tourism Information Systems",
+    display="daramola",
+    authors="Daramola, Olawande J.",
+    place=FAKE,
+    pp="521--532",
+    entrytype="inproceedings",
+    editor="Daniel, Florian and Facca, Federico Michele",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-16985-4_50",
+    springer="1",
+    placex="Current Trends in Web Engineering",
+))
+
 détienne2010a = DB(WorkUnrelated(
     2010, "Why Do Users Communicate via Such or Such Media?: Some Insights from Users' Daily Experiences",
     display="détienne",
@@ -141,6 +156,22 @@ faegri2010a = DB(WorkUnrelated(
     ID="Fægri20101118",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+ferrari2010a = DB(WorkUnrelated(
+    2010, "A controlled experiment to assess the impact of system architectures on new system requirements",
+    display="ferrari",
+    authors="Ferrari, Remo and Miller, James A. and Madhavji, Nazim H.",
+    place=FAKE,
+    pp="215--233",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="15",
+    number="2",
+    ID="Ferrari2010",
+    springer="1",
+    placex="Requirements Engineering",
 ))
 
 guzmán2010a = DB(WorkSnowball(

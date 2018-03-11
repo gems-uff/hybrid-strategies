@@ -59,6 +59,21 @@ emam2000b = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+jaccheri2000a = DB(WorkUnrelated(
+    2000, "Software process technology and software organisations",
+    display="jaccheri",
+    authors="Jaccheri, M. Letizia and Conradi, Reidar and Dyrnes, Bård H.",
+    place=FAKE,
+    pp="96--108",
+    entrytype="inproceedings",
+    editor="Conradi, Reidar",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/BFb0095018",
+    springer="1",
+    placex="Software Process Technology",
+))
+
 järvinen2000a = DB(WorkUnrelated(
     2000, "The PROFES Improvement Methodology -- Enabling Technologies and Methodology Design",
     display="järvinen",

@@ -124,6 +124,22 @@ delgado2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+diirr2014a = DB(WorkUnrelated(
+    2014, "Improvement of IT service processes: a study of critical success factors",
+    display="diirr",
+    authors="Diirr, Thaissa and Santos, Gleison",
+    place=FAKE,
+    pp="4",
+    entrytype="article",
+    month="May",
+    day="15",
+    volume="2",
+    number="1",
+    ID="Diirr2014",
+    springer="1",
+    placex="Journal of Software Engineering Research and Development",
+))
+
 fontana2014a = DB(WorkUnrelated(
     2014, "Processes versus people: How should agile software development maturity be defined?",
     display="fontana",

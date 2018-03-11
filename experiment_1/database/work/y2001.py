@@ -50,6 +50,36 @@ bergman2001b = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+bergman2001c = DB(WorkUnrelated(
+    2001, "Significant Results: Benefits, Costs, and Processes",
+    display="bergman c",
+    authors="Bergman, Lars",
+    place=FAKE,
+    pp="305--327",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Bergman, Lars",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Bergman2001",
+    springer="1",
+    placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+))
+
+bergman2001d = DB(WorkUnrelated(
+    2001, "Perspectives",
+    display="bergman d",
+    authors="Bergman, Lars and Fenton, Norman and Verdún, José D. Carrillo and Orci, Terttu",
+    place=FAKE,
+    pp="33--81",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Bergman, Lars",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Bergman2001",
+    springer="1",
+    placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+))
+
 counsell2001a = DB(WorkUnrelated(
     2001, "An Evolutionary Approach to Digital Recording and Information About Heritage Sites",
     display="counsell",
@@ -82,6 +112,36 @@ emam2001a = DB(WorkUnrelated(
     ID="Emam200123",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+fröhlich2001a = DB(WorkUnrelated(
+    2001, "Enabling Local SPI in a Multi-National Company",
+    display="fröhlich",
+    authors="Fröhlich, Peter and Lichter, Horst and Zeller, Manfred",
+    place=PROFES,
+    pp="227--239",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_21",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+hall2001a = DB(WorkUnrelated(
+    2001, "Measurement in Software Process Improvement Programmes: An Empirical Study",
+    display="hall",
+    authors="Hall, Tracy and Baddoo, Nathan and Wilson, David",
+    place=FAKE,
+    pp="73--82",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_6",
+    springer="1",
+    placex="New Approaches in Software Measurement",
 ))
 
 hamann2001a = DB(WorkUnrelated(
@@ -127,6 +187,36 @@ haug2001b = DB(WorkUnrelated(
     ID="Haug2001",
     springer="1",
     placex="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
+))
+
+kauppinen2001a = DB(WorkUnrelated(
+    2001, "Starting Improvement of Requirements Engineering Processes: An Experience Report",
+    display="kauppinen",
+    authors="Kauppinen, Marjo and Kujala, Sari",
+    place=PROFES,
+    pp="196--209",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_19",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+lebsanft2001a = DB(WorkUnrelated(
+    2001, "Process Improvement in Turbulent Times --- Is CMM Still an Answer?",
+    display="lebsanft",
+    authors="Lebsanft, Karl",
+    place=PROFES,
+    pp="78--85",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_10",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 niessink2001a = DB(WorkUnrelated(

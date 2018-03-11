@@ -94,3 +94,18 @@ sommerville1999a = DB(WorkSnowball(
     source="Scopus",
     ID="Sommerville1999784",
 ))
+
+wastell1999a = DB(WorkUnrelated(
+    1999, "The Human Dimension of the Software Process",
+    display="wastell",
+    authors="Wastell, David",
+    place=FAKE,
+    pp="165--199",
+    entrytype="inbook",
+    editor="Derniame, Jean-Claude and Kaba, Badara Ali and Wastell, David",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Wastell1999",
+    springer="1",
+    placex="Software Process: Principles, Methodology, and Technology",
+))
