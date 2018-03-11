@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ardimento2004a = DB(WorkUnrelated(
+    2004, "Multiview Framework for Goal Oriented Measurement Plan Design",
+    display="ardimento",
+    authors="Ardimento, Pasquale and Baldassarre, Maria Teresa and Caivano, Danilo and Visaggio, Giuseppe",
+    place=PROFES,
+    pp="159--173",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_12",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 grant2004a = DB(WorkUnrelated(
     2004, "Special section",
     display="grant",
@@ -53,6 +68,21 @@ hansen2004a = DB(WorkUnrelated(
     ID="Hansen2004457",
     sciencedirect="1",
     placex="International Journal of Information Management",
+))
+
+jedlitschka2004a = DB(WorkUnrelated(
+    2004, "Towards Comprehensive Experience-Based Decision Support",
+    display="jedlitschka",
+    authors="Jedlitschka, Andreas and Pfahl, Dietmar",
+    place=SPIP,
+    pp="34--45",
+    entrytype="inproceedings",
+    editor="Dingsøyr, Torgeir",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-30181-3_4",
+    springer="1",
+    placex="Software Process Improvement",
 ))
 
 jokela2004a = DB(WorkUnrelated(

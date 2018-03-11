@@ -59,6 +59,20 @@ emam2000b = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+järvinen2000a = DB(WorkUnrelated(
+    2000, "The PROFES Improvement Methodology -- Enabling Technologies and Methodology Design",
+    display="järvinen",
+    authors="Järvinen, Janne and Komi-Sirviö, Seija and Ruhe, Guenther",
+    place=PROFES,
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_24",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 kautz2000a = DB(WorkSnowball(
     2000, "Applying and adjusting a software process improvement model in practice: the use of the IDEAL model in a small software enterprise",
     display="kautz",

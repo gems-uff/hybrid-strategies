@@ -18,6 +18,36 @@ bukowski1995a = DB(WorkUnrelated(
     placex="Proceedings of the 1995 Symposium on Interactive 3D Graphics",
 ))
 
+kuntzmann1995a = DB(WorkUnrelated(
+    1995, "Quantitative approach to software process improvement",
+    display="kuntzmann",
+    authors="Kuntzmann-Combelles, Annie",
+    place=FAKE,
+    pp="16--30",
+    entrytype="inproceedings",
+    editor="Nesi, Paolo",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-59449-3_21",
+    springer="1",
+    placex="Objective Software Quality",
+))
+
+kuvaja1995a = DB(WorkUnrelated(
+    1995, "BOOTSTRAP: A software process assessment and improvement methodology",
+    display="kuvaja",
+    authors="Kuvaja, Pasi",
+    place=FAKE,
+    pp="31--48",
+    entrytype="inproceedings",
+    editor="Nesi, Paolo",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-59449-3_22",
+    springer="1",
+    placex="Objective Software Quality",
+))
+
 rombach1995a = DB(WorkUnrelated(
     1995, "Directions in Software Process Research",
     display="rombach",

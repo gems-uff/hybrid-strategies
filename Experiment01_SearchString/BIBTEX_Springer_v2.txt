@@ -1,0 +1,395 @@
+Recuperei 20 por página. 6 foram duplicados aqui.  Total inseridos = 14.
+
+
+@InProceedings{10.1007/3-540-44704-0_18,
+author="Hamann, Dirk
+and Beitz, Andrew
+and M{\"u}ller, Markus
+and van Solingen, Rini",
+editor="Dumke, Reiner
+and Abran, Alain",
+title="Using FAME Assessments to Define Measurement Goals",
+booktitle="New Approaches in Software Measurement",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="220--232",
+
+}
+
+
+
+@InProceedings{10.1007/3-540-36209-6_5,
+author="Lee, Seon-ah
+and Choi, Byoungju",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Transition Management of Software Process Improvement",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="19--34",
+
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Cuevas, Gonzalo
+and Rementeria, Santiago",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Cuevas, Gonzalo
+and Rementeria, Santiago",
+title="Software Process Improvement A European View",
+bookTitle="Managing the Change: Software Configuration and Change Management: Software Best Practice 2",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="3--15",
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Vallet, Gilles
+and B{\'e}cart, Olivier",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Vallet, Gilles
+and B{\'e}cart, Olivier",
+title="Software Process Improvement A European View",
+bookTitle="Software Management Approaches: Project Management, Estimation, and Life Cycle Support: Software Best Practice 3",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="3--15",
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+title="Software Process Improvement A European View",
+bookTitle="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="3--15",
+}
+
+
+
+
+
+@Inbook{Bergman2001,
+author="Bergman, Lars",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Bergman, Lars",
+title="Lessons from the EUREX Workshops",
+bookTitle="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="257--304",
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-540-30181-3_4,
+author="Jedlitschka, Andreas
+and Pfahl, Dietmar",
+editor="Dings{\o}yr, Torgeir",
+title="Towards Comprehensive Experience-Based Decision Support",
+booktitle="Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="34--45",
+
+}
+
+
+
+
+@InProceedings{10.1007/978-3-540-45051-1_24,
+author="J{\"a}rvinen, Janne
+and Komi-Sirvi{\"o}, Seija
+and Ruhe, Guenther",
+editor="Bomarius, Frank
+and Oivo, Markku",
+title="The PROFES Improvement Methodology -- Enabling Technologies and Methodology Design",
+booktitle="Product Focused Software Process Improvement",
+year="2000",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="257--270",}
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_33,
+author="Valerio, Andrea
+and Fenaroli, Massimo",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="Software Process Improvement through Use Cases: Building Quality from the Very Beginning",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="398--406",
+}
+
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Consolini, Luisa",
+title="Summaries of PIE Reports",
+bookTitle="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="215--293",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-59449-3_22,
+author="Kuvaja, Pasi",
+editor="Nesi, Paolo",
+title="BOOTSTRAP: A software process assessment and improvement methodology",
+booktitle="Objective Software Quality",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="31--48",
+}
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Bergman, Lars",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Bergman, Lars",
+title="Summaries of PIE Reports",
+bookTitle="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="335--379",
+}
+
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_44,
+author="Visconti, Marcello
+and Cook, Curtis R.",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="A Meta-model Framework for Software Process Modeling",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="532--545",
+
+}
+
+
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Vallet, Gilles
+and B{\'e}cart, Olivier",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Vallet, Gilles
+and B{\'e}cart, Olivier",
+title="Summaries of PIE Reports",
+bookTitle="Software Management Approaches: Project Management, Estimation, and Life Cycle Support: Software Best Practice 3",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="145--216",
+}
+
+
+
+
+
+@InProceedings{10.1007/3-540-36209-6_4,
+author="Birk, Andreas
+and Pfahl, Dietmar",
+editor="Oivo, Markku
+and Komi-Sirvi{\"o}, Seija",
+title="A Systems Perspective on Software Process Improvement",
+booktitle="Product Focused Software Process Improvement",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="4--18",
+}
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_12,
+author="Ardimento, Pasquale
+and Baldassarre, Maria Teresa
+and Caivano, Danilo
+and Visaggio, Giuseppe",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Multiview Framework for Goal Oriented Measurement Plan Design",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="159--173",
+}
+
+
+
+
+
+@InProceedings{10.1007/978-3-540-24659-6_12,
+author="Ardimento, Pasquale
+and Baldassarre, Maria Teresa
+and Caivano, Danilo
+and Visaggio, Giuseppe",
+editor="Bomarius, Frank
+and Iida, Hajimu",
+title="Multiview Framework for Goal Oriented Measurement Plan Design",
+booktitle="Product Focused Software Process Improvement",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="159--173",
+
+}
+
+
+
+
+@InProceedings{10.1007/3-540-59449-3_21,
+author="Kuntzmann-Combelles, Annie",
+editor="Nesi, Paolo",
+title="Quantitative approach to software process improvement",
+booktitle="Objective Software Quality",
+year="1995",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="16--30",
+}
+
+
+
+
+
+@Inbook{Haug2001,
+author="Haug, Michael
+and Olsen, Eric W.
+and Cuevas, Gonzalo
+and Rementeria, Santiago",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Cuevas, Gonzalo
+and Rementeria, Santiago",
+title="Summaries of PIE Reports",
+bookTitle="Managing the Change: Software Configuration and Change Management: Software Best Practice 2",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="187--272",
+
+}
+
+
+
+
+
+@Inbook{Bergman2001,
+author="Bergman, Lars
+and Woda, Helmut
+and Rodenbach, Erik
+and van Latum, Frank
+and van Solingen, Rini
+and Cinti, Stefano
+and Oldano, Giandomenico
+and Orazi, Elena
+and Gresse, Christiane
+and Hoisl, Barbara
+and Rombach, Dieter
+and Ruhe, Gunther
+and Oivo, Markku
+and Fuggetta, Alfonso
+and Lavazza, Luigi
+and Morasca, Sandro
+and Barbati, R.
+and Judge, T. R.
+and Williams, A.
+and Sabbatici, G.
+and Rome, Alenia
+and Panarono, P.
+and Farina, S.
+and Roald, Helge M.
+and Larsen, Jens-Otto
+and Powell, Anthony
+and Brown, Duncan
+and Eickelpasch, Gerd",
+editor="Haug, Michael
+and Olsen, Eric W.
+and Bergman, Lars",
+title="Experience Reports",
+bookTitle="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+year="2001",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="101--255",
+
+}
+
+
+
+
+
+
+
+
+
+

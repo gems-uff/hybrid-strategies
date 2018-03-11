@@ -20,6 +20,36 @@ bacon2001a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+bergman2001a = DB(WorkUnrelated(
+    2001, "Lessons from the EUREX Workshops",
+    display="bergman",
+    authors="Bergman, Lars",
+    place=FAKE,
+    pp="257--304",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Bergman, Lars",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Bergman2001",
+    springer="1",
+    placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+))
+
+bergman2001b = DB(WorkUnrelated(
+    2001, "Experience Reports",
+    display="bergman b",
+    authors="Bergman, Lars and Woda, Helmut and Rodenbach, Erik and van Latum, Frank and van Solingen, Rini and Cinti, Stefano and Oldano, Giandomenico and Orazi, Elena and Gresse, Christiane and Hoisl, Barbara and Rombach, Dieter and Ruhe, Gunther and Oivo, Markku and Fuggetta, Alfonso and Lavazza, Luigi and Morasca, Sandro and Barbati, R. and Judge, T. R. and Williams, A. and Sabbatici, G. and Rome, Alenia and Panarono, P. and Farina, S. and Roald, Helge M. and Larsen, Jens-Otto and Powell, Anthony and Brown, Duncan and Eickelpasch, Gerd",
+    place=FAKE,
+    pp="101--255",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Bergman, Lars",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Bergman2001",
+    springer="1",
+    placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
+))
+
 counsell2001a = DB(WorkUnrelated(
     2001, "An Evolutionary Approach to Digital Recording and Information About Heritage Sites",
     display="counsell",
@@ -52,6 +82,51 @@ emam2001a = DB(WorkUnrelated(
     ID="Emam200123",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+hamann2001a = DB(WorkUnrelated(
+    2001, "Using FAME Assessments to Define Measurement Goals",
+    display="hamann",
+    authors="Hamann, Dirk and Beitz, Andrew and Müller, Markus and van Solingen, Rini",
+    place=FAKE,
+    pp="220--232",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_18",
+    springer="1",
+    placex="New Approaches in Software Measurement",
+))
+
+haug2001a = DB(WorkUnrelated(
+    2001, "Software Process Improvement A European View",
+    display="haug",
+    authors="Haug, Michael and Olsen, Eric W. and Cuevas, Gonzalo and Rementeria, Santiago",
+    place=FAKE,
+    pp="3--15",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Cuevas, Gonzalo and Rementeria, Santiago",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Haug2001",
+    springer="1",
+    placex="Managing the Change: Software Configuration and Change Management: Software Best Practice 2",
+))
+
+haug2001b = DB(WorkUnrelated(
+    2001, "Summaries of PIE Reports",
+    display="haug b",
+    authors="Haug, Michael and Olsen, Eric W. and Consolini, Luisa",
+    place=FAKE,
+    pp="215--293",
+    entrytype="inbook",
+    editor="Haug, Michael and Olsen, Eric W. and Consolini, Luisa",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Haug2001",
+    springer="1",
+    placex="Software Quality Approaches: Testing, Verification, and Validation: Software Best Practice 1",
 ))
 
 niessink2001a = DB(WorkUnrelated(

@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+birk2002a = DB(WorkUnrelated(
+    2002, "A Systems Perspective on Software Process Improvement",
+    display="birk",
+    authors="Birk, Andreas and Pfahl, Dietmar",
+    place=PROFES,
+    pp="4--18",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_4",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 chan2002a = DB(WorkUnrelated(
     2002, "Quality function deployment: A literature review",
     display="chan",
@@ -52,6 +67,21 @@ kock2002a = DB(WorkUnrelated(
     ID="Kock:2002:MWM:506218.506223",
     acm="1",
     placex="Commun. ACM",
+))
+
+lee2002a = DB(WorkUnrelated(
+    2002, "Transition Management of Software Process Improvement",
+    display="lee",
+    authors="Lee, Seon-ahand Choi, Byoungju",
+    place=PROFES,
+    pp="19--34",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_5",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 munkvold2002a = DB(WorkUnrelated(
@@ -105,4 +135,34 @@ sheard2002a = DB(WorkUnrelated(
     ID="Sheard:2002:CPP:637610.544468",
     acm="1",
     placex="SIGCSE Bull.",
+))
+
+valerio2002a = DB(WorkUnrelated(
+    2002, "Software Process Improvement through Use Cases: Building Quality from the Very Beginning",
+    display="valerio",
+    authors="Valerio, Andrea and Fenaroli, Massimo",
+    place=PROFES,
+    pp="398--406",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_33",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+visconti2002a = DB(WorkUnrelated(
+    2002, "A Meta-model Framework for Software Process Modeling",
+    display="visconti",
+    authors="Visconti, Marcello and Cook, Curtis R.",
+    place=PROFES,
+    pp="532--545",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_44",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
