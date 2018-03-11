@@ -18,6 +18,21 @@ arent2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+bratthall2000a = DB(WorkUnrelated(
+    2000, "Is a Design Rationale Vital when Predicting Change Impact? -- A Controlled Experiment on Software Architecture Evolution",
+    display="bratthall",
+    authors="Bratthall, Lars and Johansson, Enrico and Regnell, Björn",
+    place=PROFES,
+    pp="126--139",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_14",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 conradi2000a = DB(WorkUnrelated(
     2000, "Software Experience Bases: A Consolidated Evaluation and Status Report",
     display="conradi",
@@ -87,6 +102,36 @@ emam2000b = DB(WorkUnrelated(
     ID="ElEmam2000119",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+engelkamp2000a = DB(WorkUnrelated(
+    2000, "Project Experience Database: A Report Based on First Practical Experience",
+    display="engelkamp",
+    authors="Engelkamp, Stefan and Hartkopf, Susanne and Brössler, Peter",
+    place=PROFES,
+    pp="204--215",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_20",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+feldmann2000a = DB(WorkUnrelated(
+    2000, "On developing a repository structure tailored for reuse with improvement",
+    display="feldmann",
+    authors="Feldmann, Raimund L.",
+    place=FAKE,
+    pp="51--71",
+    entrytype="inproceedings",
+    editor="Ruhe, Günther and Bomarius, Frank",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/BFb0101413",
+    springer="1",
+    placex="Learning Software Organizations",
 ))
 
 jaccheri2000a = DB(WorkUnrelated(
@@ -166,6 +211,21 @@ pfahl2000b = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+schmid2000a = DB(WorkUnrelated(
+    2000, "PuLSE-BEAT --- A Decision Support Tool for Scoping Product Lines",
+    display="schmid",
+    authors="Schmid, Klaus and Schank, Michael",
+    place=FAKE,
+    pp="65--75",
+    entrytype="inproceedings",
+    editor="van der Linden, Frank",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-44542-5_8",
+    springer="1",
+    placex="Software Architectures for Product Families",
+))
+
 schneider2000a = DB(WorkUnrelated(
     2000, "Active Probes Synergy in Experience-Based Process Improvement",
     display="schneider",
@@ -177,6 +237,21 @@ schneider2000a = DB(WorkUnrelated(
     publisher="Springer Berlin Heidelberg",
     address="Berlin, Heidelberg",
     ID="10.1007/978-3-540-45051-1_5",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+seppänen2000a = DB(WorkUnrelated(
+    2000, "A Relationship-Based View to Software Engineering Competence",
+    display="seppänen",
+    authors="Seppänen, Veikko",
+    place=PROFES,
+    pp="376--390",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Oivo, Markku",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-45051-1_32",
     springer="1",
     placex="Product Focused Software Process Improvement",
 ))

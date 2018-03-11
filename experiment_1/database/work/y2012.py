@@ -22,6 +22,21 @@ aversano2012a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+ayala2012a = DB(WorkUnrelated(
+    2012, "OSS Integration Issues and Community Support: An Integrator Perspective",
+    display="ayala",
+    authors="Ayala, Claudia and Cruzes, Daniela S. and Nguyen, Anh Duc and Conradi, Reidar and Franch, Xavier and Höst, Martin and Babar, Muhammad Ali",
+    place=FAKE,
+    pp="129--143",
+    entrytype="inproceedings",
+    editor="Hammouda, Imed and Lundell, Björn and Mikkonen, Tommi and Scacchi, Walt",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-33442-9_9",
+    springer="1",
+    placex="Open Source Systems: Long-Term Sustainability",
+))
+
 bayona2012a = DB(WorkUnrelated(
     2012, "Critical success factors in software process improvement: A systematic review",
     display="bayona",
@@ -42,6 +57,36 @@ bayona2012a = DB(WorkUnrelated(
     placex="Communications in Computer and Information Science",
 ))
 
+
+bensiek2012a = DB(WorkUnrelated(
+    2012, "Maturity Model for Improving Virtual Engineering in Small and Medium-Sized Enterprises",
+    display="bensiek",
+    authors="Bensiek, Tobias and Kuehn, Arno",
+    place=FAKE,
+    pp="635--645",
+    entrytype="inproceedings",
+    editor="Rivest, Louis and Bouras, Abdelaziz and Louhichi, Borhen",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-35758-9_57",
+    springer="1",
+    placex="Product Lifecycle Management. Towards Knowledge-Rich Enterprises",
+))
+
+chouseinoglou2012a = DB(WorkUnrelated(
+    2012, "A Model for Assessing Organizational Learning in Software Development Organizations",
+    display="chouseinoglou",
+    authors="Chouseinoglou, Oumout and Bilgen, Semih",
+    place=FAKE,
+    pp="251--258",
+    entrytype="inproceedings",
+    editor="Winckler, Marco and Forbrig, Peter and Bernhaupt, Regina",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-34347-6_15",
+    springer="1",
+    placex="Human-Centered Software Engineering",
+))
 
 clarke2012a = DB(WorkUnrelated(
     2012, "The influence of \SPI\ on business success in software SMEs: An empirical study",
@@ -370,6 +415,37 @@ pareto2012a = DB(WorkUnrelated(
     ID="Pareto20121971",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+pareto2012b = DB(WorkUnrelated(
+    2012, "Concern coverage in base station development: an empirical investigation",
+    display="pareto b",
+    authors="Pareto, Lars and Eriksson, Peter and Ehnebom, Staffan",
+    place=FAKE,
+    pp="409--429",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="11",
+    number="3",
+    ID="Pareto2012",
+    springer="1",
+    placex="Software {&} Systems Modeling",
+))
+
+robles2012a = DB(WorkUnrelated(
+    2012, "A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes",
+    display="robles",
+    authors="Robles, Gregorio and González-Barahona, Jesús M.",
+    place=FAKE,
+    pp="1--14",
+    entrytype="inproceedings",
+    editor="Hammouda, Imed and Lundell, Björn and Mikkonen, Tommi and Scacchi, Walt",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-33442-9_1",
+    springer="1",
+    placex="Open Source Systems: Long-Term Sustainability",
 ))
 
 sarosa2012a = DB(WorkUnrelated(

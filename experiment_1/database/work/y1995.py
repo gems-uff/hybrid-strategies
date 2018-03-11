@@ -77,6 +77,21 @@ kuvaja1995a = DB(WorkUnrelated(
     placex="Objective Software Quality",
 ))
 
+obbink1995a = DB(WorkUnrelated(
+    1995, "Process differentiation and integration: The key to just-in-time in product development",
+    display="obbink",
+    authors="Obbink, J. Henk",
+    place=FAKE,
+    pp="79--92",
+    entrytype="inproceedings",
+    editor="Schäfer, Wilhelm",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-59205-9_44",
+    springer="1",
+    placex="Software Process Technology",
+))
+
 rombach1995a = DB(WorkUnrelated(
     1995, "Directions in Software Process Research",
     display="rombach",
@@ -111,4 +126,19 @@ teufel1995a = DB(WorkUnrelated(
     ID="Teufel:1995:BIT:209891.209895",
     acm="1",
     placex="SIGOIS Bull.",
+))
+
+zucconi1995a = DB(WorkUnrelated(
+    1995, "Essential knowledge for the practising software engineer and the responsibilities of university and industry for her education",
+    display="zucconi",
+    authors="Zucconi, Lin",
+    place=FAKE,
+    pp="3--13",
+    entrytype="inproceedings",
+    editor="Ibrahim, Rosalind L.",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-58951-1_88",
+    springer="1",
+    placex="Software Engineering Education",
 ))

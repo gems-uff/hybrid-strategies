@@ -291,6 +291,21 @@ herranz2013a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+iivari2013a = DB(WorkUnrelated(
+    2013, "Usability Specialists as Boundary Spanners -- An Appraisal of Usability Specialists' Work in Multiparty Distributed Open Source Software Development Effort",
+    display="iivari",
+    authors="Iivari, Netta",
+    place=FAKE,
+    pp="571--588",
+    entrytype="inproceedings",
+    editor="Kotzé, Paula and Marsden, Gary and Lindgaard, Gitte and Wesson, Janet and Winckler, Marco",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-40480-1_40",
+    springer="1",
+    placex="Human-Computer Interaction -- INTERACT 2013",
+))
+
 kasoju2013a = DB(WorkUnrelated(
     2013, "Analyzing an automotive testing process with evidence-based software engineering",
     display="kasoju",

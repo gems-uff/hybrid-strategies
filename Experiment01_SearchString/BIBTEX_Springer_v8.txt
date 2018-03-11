@@ -1,3 +1,6 @@
+Total retornados = 21. Incluídos = 21.
+
+
 @InProceedings{10.1007/3-540-47833-7_36,
 author="Postema, Herman
 and Obbink, J. Henk",

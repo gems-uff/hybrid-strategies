@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+cederling1993a = DB(WorkUnrelated(
+    1993, "Industrial software development --- a case study",
+    display="cederling",
+    authors="Cederling, Ulf",
+    place=FAKE,
+    pp="226--237",
+    entrytype="inproceedings",
+    editor="Sommerville, Ian and Paul, Manfred",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-57209-0_16",
+    springer="1",
+    placex="Software Engineering --- ESEC '93",
+))
+
 curtis1993a = DB(WorkUnrelated(
     1993, "Creating a software process improvement program",
     display="curtis",

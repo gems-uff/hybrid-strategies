@@ -22,6 +22,21 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+cechich2003a = DB(WorkUnrelated(
+    2003, "Assessing Component-Based Systems",
+    display="cechich",
+    authors="Cechich, Alejandra and Piattini, Mario and Vallecillo, Antonio",
+    place=FAKE,
+    pp="1--20",
+    entrytype="inbook",
+    editor="Cechich, Alejandra and Piattini, Mario and Vallecillo, Antonio",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Cechich2003",
+    springer="1",
+    placex="Component-Based Software Quality: Methods and Techniques",
+))
+
 conradi2003a = DB(WorkUnrelated(
     2003, "Lessons Learned and Recommendations from Two Large Norwegian SPI Programmes",
     display="conradi",
@@ -66,6 +81,21 @@ ebert2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
+feldmann2003a = DB(WorkUnrelated(
+    2003, "An On-Line Software Engineering Repository for Germany's SME -- An Experience Report",
+    display="feldmann",
+    authors="Feldmann, Raimund L. and Pizka, Markus",
+    place=FAKE,
+    pp="34--43",
+    entrytype="inproceedings",
+    editor="Henninger, Scott and Maurer, Frank",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-40052-3_5",
+    springer="1",
+    placex="Advances in Learning Software Organizations",
+))
+
 henninger2003a = DB(WorkUnrelated(
     2003, "Tool Support for Experience-Based Methodologies",
     display="henninger",
@@ -79,6 +109,21 @@ henninger2003a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-40052-3_6",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+jedlitschka2003a = DB(WorkUnrelated(
+    2003, "Software Engineering Knowledge Repositories",
+    display="jedlitschka",
+    authors="Jedlitschka, Andreas and Nick, Markus",
+    place=FAKE,
+    pp="55--80",
+    entrytype="inbook",
+    editor="Conradi, Reidar and Wang, Alf Inge",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Jedlitschka2003",
+    springer="1",
+    placex="Empirical Methods and Studies in Software Engineering: Experiences from ESERNET",
 ))
 
 jung2003a = DB(WorkUnrelated(
@@ -100,6 +145,21 @@ jung2003a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+lindvall2003a = DB(WorkUnrelated(
+    2003, "Knowledge Management for Software Organizations",
+    display="lindvall",
+    authors="Lindvall, Mikael and Rus, Ioana",
+    place=FAKE,
+    pp="73--94",
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Lindvall2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
+))
+
 maxwell2003a = DB(WorkUnrelated(
     2003, "Software Development Productivity",
     display="maxwell",
@@ -117,6 +177,21 @@ maxwell2003a = DB(WorkUnrelated(
     ID="Maxwell20031",
     sciencedirect="1",
     placex="",
+))
+
+oliver2003a = DB(WorkUnrelated(
+    2003, "Evaluating an Approach to Sharing Software Engineering Knowledge to Facilitate Learning",
+    display="oliver",
+    authors="Oliver, Gary R. and D'Ambra, John and Van Toorn, Christine",
+    place=FAKE,
+    pp="119--134",
+    entrytype="inbook",
+    editor="Aurum, Aybüke and Jeffery, Ross and Wohlin, Claes and Handzic, Meliha",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Oliver2003",
+    springer="1",
+    placex="Managing Software Engineering Knowledge",
 ))
 
 solingen2003a = DB(WorkUnrelated(

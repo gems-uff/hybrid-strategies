@@ -1,3 +1,5 @@
+De 20, 3 já existiam na base. Total incluídos = 17.
+
 @InProceedings{10.1007/978-3-540-30181-3_10,
 author="Pedersen, Keld",
 editor="Dings{\o}yr, Torgeir",

@@ -170,6 +170,21 @@ esfahani2011a = DB(WorkSnowball(
     ID="Esfahani2011169",
 ))
 
+gamalielsson2011a = DB(WorkUnrelated(
+    2011, "Open Source Software for Model Driven Development: A Case Study",
+    display="gamalielsson",
+    authors="Gamalielsson, Jonas and Lundell, Björn and Mattsson, Anders",
+    place=FAKE,
+    pp="348--367",
+    entrytype="inproceedings",
+    editor="Hissam, Scott A. and Russo, Barbara and de Mendon{ç}a Neto, Manoel G. and Kon, Fabio",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-24418-6_30",
+    springer="1",
+    placex="Open Source Systems: Grounding Research",
+))
+
 ghaly2011a = DB(WorkUnrelated(
     2011, "GPS-tagged Images Define the Trail of an Interdisciplinary Miniterm in Egypt",
     display="ghaly",
@@ -274,6 +289,21 @@ jansson2011a = DB(WorkUnrelated(
     ID="Jansson201111955",
     sciencedirect="1",
     placex="\{IFAC\} Proceedings Volumes",
+))
+
+jensen2011a = DB(WorkUnrelated(
+    2011, "License Update and Migration Processes in Open Source Software Projects",
+    display="jensen",
+    authors="Jensen, Chris and Scacchi, Walt",
+    place=FAKE,
+    pp="177--195",
+    entrytype="inproceedings",
+    editor="Hissam, Scott A. and Russo, Barbara and de Mendon{ç}a Neto, Manoel G. and Kon, Fabio",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-24418-6_12",
+    springer="1",
+    placex="Open Source Systems: Grounding Research",
 ))
 
 jia2011a = DB(WorkUnrelated(
@@ -405,6 +435,21 @@ plösch2011a = DB(WorkSnowball(
     webofscience="1",
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
+))
+
+rantapuska2011a = DB(WorkUnrelated(
+    2011, "Progress of Commitment in Co-operative Software Acquisition",
+    display="rantapuska",
+    authors="Rantapuska, Torsti and Sore, Sariseelia",
+    place=FAKE,
+    pp="224--235",
+    entrytype="inproceedings",
+    editor="Nüttgens, Markus and Gadatsch, Andreas and Kautz, Karlheinz and Schirmer, Ingrid and Blinn, Nadine",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-24148-2_14",
+    springer="1",
+    placex="Governance and Sustainability in Information Systems. Managing the Transfer and Diffusion of IT",
 ))
 
 saetang2011a = DB(WorkUnrelated(

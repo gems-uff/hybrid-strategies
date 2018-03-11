@@ -18,6 +18,21 @@ ardimento2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+aversano2004a = DB(WorkUnrelated(
+    2004, "Introducing Quality System in Small and Medium Enterprises: An Experience Report",
+    display="aversano",
+    authors="Aversano, Lerina and Canfora, Gerardo and Capasso, Giovanni and Di Lucca, Giuseppe A. and Visaggio, Corrado A.",
+    place=PROFES,
+    pp="131--145",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_10",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 davis2004a = DB(WorkUnrelated(
     2004, "Using Measurement Data in a TSPSM Project",
     display="davis",
@@ -115,6 +130,21 @@ hansen2004b = DB(WorkUnrelated(
     placex="Software Process Improvement",
 ))
 
+holz2004a = DB(WorkUnrelated(
+    2004, "Research on Learning Software Organizations -- Past, Present, and Future",
+    display="holz",
+    authors="Holz, Harald and Melnik, Grigori",
+    place=FAKE,
+    pp="1--6",
+    entrytype="inproceedings",
+    editor="Melnik, Grigori and Holz, Harald",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-25983-1_1",
+    springer="1",
+    placex="Advances in Learning Software Organizations",
+))
+
 jedlitschka2004a = DB(WorkUnrelated(
     2004, "Towards Comprehensive Experience-Based Decision Support",
     display="jedlitschka",
@@ -149,6 +179,21 @@ jokela2004a = DB(WorkUnrelated(
     placex="Interacting with Computers",
 ))
 
+karinsalo2004a = DB(WorkUnrelated(
+    2004, "Software Reuse and the Test Development Process: A Combined Approach",
+    display="karinsalo",
+    authors="Karinsalo, Mikko and Abrahamsson, Pekka",
+    place=FAKE,
+    pp="59--68",
+    entrytype="inproceedings",
+    editor="Bosch, Jan and Krueger, Charles",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-27799-6_6",
+    springer="1",
+    placex="Software Reuse: Methods, Techniques, and Tools",
+))
+
 kauppinen2004a = DB(WorkUnrelated(
     2004, "Implementing requirements engineering processes throughout organizations: success factors and challenges",
     display="kauppinen",
@@ -179,6 +224,21 @@ larsson2004a = DB(WorkUnrelated(
     publisher="Springer Berlin Heidelberg",
     address="Berlin, Heidelberg",
     ID="10.1007/978-3-540-24659-6_33",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+lehtola2004a = DB(WorkUnrelated(
+    2004, "Requirements Prioritization Challenges in Practice",
+    display="lehtola",
+    authors="Lehtola, Laura and Kauppinen, Marjo and Kujala, Sari",
+    place=PROFES,
+    pp="497--508",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_36",
     springer="1",
     placex="Product Focused Software Process Improvement",
 ))
@@ -235,6 +295,21 @@ malotaux2004a = DB(WorkUnrelated(
     placex="The Firmware Handbook",
 ))
 
+pedersen2004a = DB(WorkUnrelated(
+    2004, "Software Thinking Improvement Learning Performance Improving Lessons",
+    display="pedersen",
+    authors="Pedersen, Keld",
+    place=SPIP,
+    pp="102--113",
+    entrytype="inproceedings",
+    editor="Dingsøyr, Torgeir",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-30181-3_10",
+    springer="1",
+    placex="Software Process Improvement",
+))
+
 rittinghouse2004a = DB(WorkUnrelated(
     2004, "1 - Understanding the \SPMO",
     display="rittinghouse",
@@ -252,4 +327,34 @@ rittinghouse2004a = DB(WorkUnrelated(
     ID="Rittinghouse20041",
     sciencedirect="1",
     placex="Managing Software Deliverables",
+))
+
+rodr2004a = DB(WorkUnrelated(
+    2004, "Effective Software Project Management Education through Simulation Models: An Externally Replicated Experiment",
+    display="rodr",
+    authors="Rodr{i?}guez, D. and Satpathy, M. and Pfahl, D.",
+    place=PROFES,
+    pp="287--301",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_21",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+ruhe2004a = DB(WorkUnrelated(
+    2004, "Intelligent Support for Software Release Planning",
+    display="ruhe",
+    authors="Amandeep and Ruhe, Günther and Stanford, Mark",
+    place=PROFES,
+    pp="248--262",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Iida, Hajimu",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-24659-6_18",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))

@@ -178,6 +178,21 @@ couch2008a = DB(WorkUnrelated(
     placex="Handbook of Network and System Administration",
 ))
 
+cyra2008a = DB(WorkUnrelated(
+    2008, "Extending GQM by Argument Structures",
+    display="cyra",
+    authors="Cyra, ?ukasz and Górski, Janusz",
+    place=FAKE,
+    pp="26--39",
+    entrytype="inproceedings",
+    editor="Meyer, Bertrand and Nawrocki, Jerzy R. and Walter, Bartosz",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-85279-7_3",
+    springer="1",
+    placex="Balancing Agility and Formalism in Software Engineering",
+))
+
 darwish2008a = DB(WorkUnrelated(
     2008, "\TTPM\  An efficient deadlock-free algorithm for multicast communication in 2D torus networks",
     display="darwish",
@@ -332,6 +347,21 @@ martins2008a = DB(WorkSnowball(
     webofscience="1",
     elcompendex="1",
     placex="Communications in Computer and Information Science",
+))
+
+niebuhr2008a = DB(WorkUnrelated(
+    2008, "Engaging Patterns: Challenges and Means Shown by an Example",
+    display="niebuhr",
+    authors="Niebuhr, Sabine and Kohler, Kirstin and Graf, Christian",
+    place=FAKE,
+    pp="586--600",
+    entrytype="inproceedings",
+    editor="Gulliksen, Jan and Harning, Morton Borup and Palanque, Philippe and van der Veer, Gerrit C. and Wesson, Janet",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-540-92698-6_35",
+    springer="1",
+    placex="Engineering Interactive Systems",
 ))
 
 nobre2008a = DB(WorkUnrelated(

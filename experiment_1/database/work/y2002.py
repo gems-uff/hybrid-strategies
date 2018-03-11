@@ -63,6 +63,21 @@ birk2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+bratthall2002a = DB(WorkUnrelated(
+    2002, "Component Certification - What is the Value?",
+    display="bratthall",
+    authors="Bratthall, Lars and Hasselberg, Johan and Hoffman, Brad and Korendo, Zbigniew and Schilli, Bruno and Gundersen, Lars",
+    place=PROFES,
+    pp="119--133",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_12",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 canfora2002a = DB(WorkUnrelated(
     2002, "From Knowledge Management Concepts toward Software Engineering Practices",
     display="canfora",
@@ -112,6 +127,65 @@ chauveau2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+dag2002a = DB(WorkUnrelated(
+    2002, "A Feasibility Study of Automated Natural Language Requirements Analysis in Market-Driven Development",
+    display="dag",
+    authors="Natt och Dag, Johan and Regnell, Björn and Carlshamre, Pär and Andersson, Michael and Karlsson, Joachim",
+    place=FAKE,
+    pp="20--33",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="7",
+    number="1",
+    issn="1432-010X",
+    doi="10.1007/s007660200002",
+    ID="NattochDag2002",
+    springer="1",
+    placex="Requirements Engineering",
+))
+
+ezran2002a = DB(WorkUnrelated(
+    2002, "Managing Reuse",
+    display="ezran",
+    authors="Ezran, Michel and Morisio, Maurizio and Tully, Colin",
+    place=FAKE,
+    entrytype="inbook",
+    publisher="Springer London",
+    address="London",
+    ID="Ezran2002",
+    springer="1",
+    placex="Practical Software Reuse",
+))
+
+ezran2002b = DB(WorkUnrelated(
+    2002, "Reuse Metrics",
+    display="ezran b",
+    authors="Ezran, Michel and Morisio, Maurizio and Tully, Colin",
+    place=FAKE,
+    pp="111--126",
+    entrytype="inbook",
+    publisher="Springer London",
+    address="London",
+    ID="Ezran2002",
+    springer="1",
+    placex="Practical Software Reuse",
+))
+
+ezran2002c = DB(WorkUnrelated(
+    2002, "Two Smaller Case Histories",
+    display="ezran c",
+    authors="Ezran, Michel and Morisio, Maurizio and Tully, Colin",
+    place=FAKE,
+    pp="171--187",
+    entrytype="inbook",
+    publisher="Springer London",
+    address="London",
+    ID="Ezran2002",
+    springer="1",
+    placex="Practical Software Reuse",
+))
+
 feigenbaum2002a = DB(WorkUnrelated(
     2002, "A BGP-based Mechanism for Lowest-cost Routing",
     display="feigenbaum",
@@ -125,6 +199,36 @@ feigenbaum2002a = DB(WorkUnrelated(
     ID="Feigenbaum:2002:BML:571825.571856",
     acm="1",
     placex="Proceedings of the Twenty-first Annual Symposium on Principles of Distributed Computing",
+))
+
+gantner2002a = DB(WorkUnrelated(
+    2002, "GARP --- The Evolution of a Software Acquisition Process Model",
+    display="gantner",
+    authors="Gantner, Thomas and Häberlein, Tobias",
+    place=FAKE,
+    pp="186--196",
+    entrytype="inproceedings",
+    editor="Kontio, Jyrki and Conradi, Reidar",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-47984-8_22",
+    springer="1",
+    placex="Software Quality --- ECSQ 2002",
+))
+
+helokunnas2002a = DB(WorkUnrelated(
+    2002, "The Dimensions of Embedded COTS and OSS Software Component Integration",
+    display="helokunnas",
+    authors="Helokunnas, Tuija",
+    place=PROFES,
+    pp="509--518",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_42",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 jones2002a = DB(WorkUnrelated(
@@ -157,6 +261,21 @@ kock2002a = DB(WorkUnrelated(
     ID="Kock:2002:MWM:506218.506223",
     acm="1",
     placex="Commun. ACM",
+))
+
+lago2002a = DB(WorkUnrelated(
+    2002, "The WISE Approach to Architect Wireless Services",
+    display="lago",
+    authors="Lago, Patricia and Matinlassi, Mari",
+    place=PROFES,
+    pp="367--382",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_31",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 lee2002a = DB(WorkUnrelated(
@@ -260,6 +379,51 @@ oregan2002ab = DB(WorkUnrelated(
     ID="ORegan2002",
     springer="1",
     placex="A Practical Approach to Software Quality",
+))
+
+peltola2002a = DB(WorkUnrelated(
+    2002, "What Are the Knowledge Needs during the Project Lifecycle in an Expert Organisation?",
+    display="peltola",
+    authors="Peltola, Susanna and Tihinen, Maarit and Parviainen, Päivi",
+    place=PROFES,
+    pp="423--435",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_35",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
+postema2002a = DB(WorkUnrelated(
+    2002, "Platform Based Product Development",
+    display="postema",
+    authors="Postema, Herman and Obbink, J. Henk",
+    place=FAKE,
+    pp="390--400",
+    entrytype="inproceedings",
+    editor="van der Linden, Frank",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-47833-7_36",
+    springer="1",
+    placex="Software Product-Family Engineering",
+))
+
+punter2002a = DB(WorkUnrelated(
+    2002, "Evaluating Evolutionary Software Systems",
+    display="punter",
+    authors="Punter, Teade and Trendowicz, Adam and Kaiser, Peter",
+    place=PROFES,
+    pp="258--272",
+    entrytype="inproceedings",
+    editor="Oivo, Markku and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-36209-6_23",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 scott2002a = DB(WorkUnrelated(

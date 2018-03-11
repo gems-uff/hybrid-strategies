@@ -132,6 +132,22 @@ garousi2015a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+goldin2015a = DB(WorkUnrelated(
+    2015, "Reuse of requirements reduced time to market at one industrial shop: a case study",
+    display="goldin",
+    authors="Goldin, Leah and Berry, Daniel M.",
+    place=FAKE,
+    pp="23--44",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="20",
+    number="1",
+    ID="Goldin2015",
+    springer="1",
+    placex="Requirements Engineering",
+))
+
 gossen2015a = DB(WorkUnrelated(
     2015, "Anti-counterfeiting Effectivity Analysis Using Attack and Defense Tree Scenario Methods",
     display="gossen",
@@ -357,6 +373,22 @@ mesquida2015a = DB(WorkUnrelated(
     ID="Mesquida201519",
     sciencedirect="1",
     placex="Computers & Security",
+))
+
+nilsson2015a = DB(WorkUnrelated(
+    2015, "Assessing the effects of introducing a new software development process: a methodological description",
+    display="nilsson",
+    authors="Nilsson, Agneta and Castro, Laura M. and Rivas, Samuel and Arts, Thomas",
+    place=FAKE,
+    pp="1--16",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="17",
+    number="1",
+    ID="Nilsson2015",
+    springer="1",
+    placex="International Journal on Software Tools for Technology Transfer",
 ))
 
 oConnor2015a = DB(WorkSnowball(

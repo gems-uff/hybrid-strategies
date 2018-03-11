@@ -90,6 +90,22 @@ brannen2014a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Conference on Collaboration Across Boundaries: Culture, Distance &#38; Technology",
 ))
 
+carlson2014a = DB(WorkUnrelated(
+    2014, "The NASA automated requirements measurement tool: a reconstruction",
+    display="carlson",
+    authors="Carlson, Nathan and Laplante, Phil",
+    place=FAKE,
+    pp="77--91",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="10",
+    number="2",
+    ID="Carlson2014",
+    springer="1",
+    placex="Innovations in Systems and Software Engineering",
+))
+
 costa2014a = DB(WorkUnrelated(
     2014, "Challenges in Computing Semantic Relatedness for Large Semantic Graphs",
     display="costa",
@@ -154,6 +170,22 @@ eito2014a = DB(WorkUnrelated(
     ID="Eito-Brun2014",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+))
+
+felderer2014a = DB(WorkUnrelated(
+    2014, "A multiple case study on risk-based testing in industry",
+    display="felderer",
+    authors="Felderer, Michael and Ramler, Rudolf",
+    place=FAKE,
+    pp="609--625",
+    entrytype="article",
+    month="Oct",
+    day="01",
+    volume="16",
+    number="5",
+    ID="Felderer2014",
+    springer="1",
+    placex="International Journal on Software Tools for Technology Transfer",
 ))
 
 fontana2014a = DB(WorkUnrelated(
@@ -406,6 +438,22 @@ renals2014a = DB(WorkUnrelated(
     ID="Renals:2014:RRC:2666253.2666262",
     acm="1",
     placex="Proceedings of the 2014 Workshop on Roadmapping the Future of Multimodal Interaction Research Including Business Opportunities and Challenges",
+))
+
+simões2014a = DB(WorkUnrelated(
+    2014, "Applying statistical process control in small sized evolutionary projects: results and lessons learned in the implementation of CMMI-DEV maturity level 5 in Synapsis Brazil",
+    display="simões",
+    authors="Simões, Carlos and Montoni, Mariano",
+    place=FAKE,
+    pp="2",
+    entrytype="article",
+    month="Mar",
+    day="24",
+    volume="2",
+    number="1",
+    ID="Simões2014",
+    springer="1",
+    placex="Journal of Software Engineering Research and Development",
 ))
 
 sulayman2014a = DB(WorkUnrelated(

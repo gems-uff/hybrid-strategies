@@ -71,6 +71,21 @@ chiprout2010a = DB(WorkUnrelated(
     placex="Proceedings of the 47th Design Automation Conference",
 ))
 
+conaldi2010a = DB(WorkUnrelated(
+    2010, "The Meso-level Structure of F/OSS Collaboration Network: Local Communities and Their Innovativeness",
+    display="conaldi",
+    authors="Conaldi, Guido and Rullani, Francesco",
+    place=FAKE,
+    pp="42--52",
+    entrytype="inproceedings",
+    editor="Ågerfalk, Pär and Boldyreff, Cornelia and González-Barahona, Jesús M. and Madey, Gregory R. and Noll, John",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-13244-5_4",
+    springer="1",
+    placex="Open Source Software: New Horizons",
+))
+
 daramola2010a = DB(WorkUnrelated(
     2010, "A Process Framework for Semantics-Aware Tourism Information Systems",
     display="daramola",
@@ -212,6 +227,21 @@ hauge2010a = DB(WorkUnrelated(
     ID="Hauge20101133",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+hauge2010b = DB(WorkUnrelated(
+    2010, "Risks and Risk Mitigation in Open Source Software Adoption: Bridging the Gap between Literature and Practice",
+    display="hauge b",
+    authors="Hauge, Øyvind and Cruzes, Daniela Soares and Conradi, Reidar and Velle, Ketil Sandanger and Skarpenes, Tron André",
+    place=FAKE,
+    pp="105--118",
+    entrytype="inproceedings",
+    editor="Ågerfalk, Pär and Boldyreff, Cornelia and González-Barahona, Jesús M. and Madey, Gregory R. and Noll, John",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/978-3-642-13244-5_9",
+    springer="1",
+    placex="Open Source Software: New Horizons",
 ))
 
 immorlica2010a = DB(WorkUnrelated(

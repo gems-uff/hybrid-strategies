@@ -80,6 +80,21 @@ bergman2001d = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+buglione2001a = DB(WorkUnrelated(
+    2001, "QF2D: A Different Way to Measure Software Quality",
+    display="buglione",
+    authors="Buglione, Luigi and Abran, Alain",
+    place=FAKE,
+    pp="205--219",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_17",
+    springer="1",
+    placex="New Approaches in Software Measurement",
+))
+
 counsell2001a = DB(WorkUnrelated(
     2001, "An Evolutionary Approach to Digital Recording and Information About Heritage Sites",
     display="counsell",
@@ -93,6 +108,36 @@ counsell2001a = DB(WorkUnrelated(
     ID="Counsell:2001:EAD:584993.584999",
     acm="1",
     placex="Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural Heritage",
+))
+
+daneva2001a = DB(WorkUnrelated(
+    2001, "An Assessment of the Effects of Requirements Reuse Measurements on the ERP Requirements Engineering Process",
+    display="daneva",
+    authors="Daneva, Maya",
+    place=FAKE,
+    pp="172--182",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_14",
+    springer="1",
+    placex="New Approaches in Software Measurement",
+))
+
+dekkers2001a = DB(WorkUnrelated(
+    2001, "Project Improvement as Start-up",
+    display="dekkers",
+    authors="Dekkers, Ton",
+    place=PROFES,
+    pp="240--254",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_22",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
 ))
 
 emam2001a = DB(WorkUnrelated(
@@ -219,6 +264,21 @@ kauppinen2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+kucza2001a = DB(WorkUnrelated(
+    2001, "Improving Knowledge Management in Software Reuse Process",
+    display="kucza",
+    authors="Kucza, Timo and Nättinen, Minna and Parviainen, Päivi",
+    place=PROFES,
+    pp="141--152",
+    entrytype="inproceedings",
+    editor="Bomarius, Frank and Komi-Sirviö, Seija",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44813-6_15",
+    springer="1",
+    placex="Product Focused Software Process Improvement",
+))
+
 lebsanft2001a = DB(WorkUnrelated(
     2001, "Process Improvement in Turbulent Times --- Is CMM Still an Answer?",
     display="lebsanft",
@@ -253,6 +313,21 @@ niessink2001a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+pfahl2001a = DB(WorkUnrelated(
+    2001, "CORONET-Train: A Methodology for Web-Based Collaborative Learning in Software Organisations",
+    display="pfahl",
+    authors="Pfahl, Dietmar and Angkasaputra, Niniek and Differding, Christiane M. and Ruhe, Günther",
+    place=FAKE,
+    pp="37--51",
+    entrytype="inproceedings",
+    editor="Althoff, Klaus-Dieter and Feldmann, Raimund L. and Müller, Wolfgang",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44814-4_6",
+    springer="1",
+    placex="Advances in Learning Software Organizations",
+))
+
 satpathy2001a = DB(WorkUnrelated(
     2001, "A Generic Model for Assessing Process Quality",
     display="satpathy",
@@ -264,6 +339,21 @@ satpathy2001a = DB(WorkUnrelated(
     publisher="Springer Berlin Heidelberg",
     address="Berlin, Heidelberg",
     ID="10.1007/3-540-44704-0_8",
+    springer="1",
+    placex="New Approaches in Software Measurement",
+))
+
+schmietendorf2001a = DB(WorkUnrelated(
+    2001, "Maturity Evaluation of the Performance Engineering Process",
+    display="schmietendorf",
+    authors="Schmietendorf, Andreas and Scholz, André",
+    place=FAKE,
+    pp="111--124",
+    entrytype="inproceedings",
+    editor="Dumke, Reiner and Abran, Alain",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="10.1007/3-540-44704-0_9",
     springer="1",
     placex="New Approaches in Software Measurement",
 ))
@@ -296,6 +386,21 @@ smart2001a = DB(WorkUnrelated(
     ID="Smart:2001:CEE:501516.501559",
     acm="1",
     placex="Proceedings of the 19th Annual International Conference on Computer Documentation",
+))
+
+vohwinkel2001a = DB(WorkUnrelated(
+    2001, "Test process assessments and improvement",
+    display="vohwinkel",
+    authors="Vohwinkel, Detlef",
+    place=FAKE,
+    pp="61--72",
+    entrytype="inbook",
+    editor="Wieczorek, Martin and Meyerhoff, Dirk",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Vohwinkel2001",
+    springer="1",
+    placex="Software Quality: State of the Art in Management, Testing, and Tools",
 ))
 
 waina2001a = DB(WorkSnowball(

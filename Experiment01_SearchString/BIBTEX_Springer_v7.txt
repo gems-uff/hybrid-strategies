@@ -1,3 +1,6 @@
+Retornados = 20, mas 1 não possui autor. Total incluídos = 19.
+
+
 @Inbook{Ezran2002,
 author="Ezran, Michel
 and Morisio, Maurizio
