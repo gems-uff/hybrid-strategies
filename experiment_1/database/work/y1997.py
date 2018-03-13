@@ -92,6 +92,20 @@ king1997a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+offen1997a = DB(WorkOk(
+    1997, "Establishing software measurement programs",
+    display="offen",
+    authors="Offen, R.J. and Jeffery, R.",
+    place=IEEES,
+    pp="45-53",
+    entrytype="article",
+    volume="14",
+    number="2",
+    doi="10.1109/52.582974",
+    note="cited By 58",
+    ID="Offen199745",
+))
+
 reiblein1997a = DB(WorkSnowball(
     1997, "SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs",
     display="reiblein",

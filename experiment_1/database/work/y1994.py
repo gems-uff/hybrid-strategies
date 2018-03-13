@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+basili1994a = DB(WorkOk(
+    1994, "Goal question metric paradigm",
+    display="basili",
+    authors="Basili, V.R. and Caldiera, G. and Rombach, H.D.",
+    pp="528-532",
+    place=FAKE,
+    placex="Encyclopedia of Software Engineering",
+    entrytype="article",
+    volume="1",
+    note="cited By 1409",
+    ID="Basili1994528",
+))
+
 debou1994a = DB(WorkUnrelated(
     1994, "Decision making for software process improvement: A quantitative approach",
     display="debou",
@@ -30,6 +43,17 @@ dedolph1994a = DB(WorkOk(
     entrytype="article",
     note="cited By 1",
     ID="Dedolph1994",
+))
+
+jm1994a = DB(WorkOk(
+    1994, "Designing funded qualitative research",
+    display="jm",
+    authors="Morse JM",
+    place=FAKE,
+    placex="?",
+    entrytype="article",
+    note="cited By 1",
+    ID="{Morse1994",
 ))
 
 knoll1994a = DB(WorkUnrelated(

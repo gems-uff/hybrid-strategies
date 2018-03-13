@@ -64,6 +64,20 @@ kontio1998a = DB(WorkUnrelated(
     placex="",
 ))
 
+latum1998a = DB(WorkOk(
+    1998, "Adopting GQM - Based measurement in an industrial environment",
+    display="latum",
+    authors="Van Latum, F. and Van Solingen, R. and Oivo, M. and Hoisl, B. and Rombach, D. and Ruhe, G.",
+    place=IEEES,
+    pp="78-85",
+    entrytype="article",
+    volume="15",
+    number="1",
+    doi="10.1109/52.646887",
+    note="cited By 55",
+    ID="VanLatum199878",
+))
+
 mccoy1998a = DB(WorkOk(
     1998, "Interfacing three complementary technologies: Strategic planning, process modeling, and system dynamics",
     display="mccoy",

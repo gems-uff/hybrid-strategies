@@ -155,6 +155,21 @@ dawson2011a = DB(WorkUnrelated(
     placex="ACM Trans. Manage. Inf. Syst.",
 ))
 
+dieste2011a = DB(WorkOk(
+    2011, "Systematic review and aggregation of empirical studies on elicitation techniques",
+    display="dieste",
+    authors="Dieste, O. and Juristo, N.",
+    place=ToSE,
+    pp="283-304",
+    entrytype="article",
+    volume="37",
+    number="2",
+    doi="10.1109/TSE.2010.33",
+    art_number="5416730",
+    note="cited By 48",
+    ID="Dieste2011283",
+))
+
 esfahani2011a = DB(WorkSnowball(
     2011, "Strategically balanced process adoption",
     display="esfahani",
@@ -168,6 +183,17 @@ esfahani2011a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Esfahani2011169",
+))
+
+finke2011a = DB(WorkOk(
+    2011, "Implementing cisco unified communications manager, part 1 (CIPT1) foundation learning guide:(CCNP Voice CIPT1 642-447)",
+    display="finke",
+    authors="Finke, J.S. and Hartmann, D.",
+    place=FAKE,
+    placex="Cisco Press",
+    entrytype="article",
+    note="cited By 1",
+    ID="Finke2011",
 ))
 
 gamalielsson2011a = DB(WorkUnrelated(
@@ -252,6 +278,20 @@ iden2011a = DB(WorkUnrelated(
     ID="Iden2011394",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+ivarsson2011a = DB(WorkOk(
+    2011, "A method for evaluating rigor and industrial relevance of technology evaluations",
+    display="ivarsson",
+    authors="Ivarsson, M. and Gorschek, T.",
+    place=ESE,
+    pp="365-395",
+    entrytype="article",
+    volume="16",
+    number="3",
+    doi="10.1007/s10664-010-9146-4",
+    note="cited By 83",
+    ID="Ivarsson2011365",
 ))
 
 jahangirian2011a = DB(WorkUnrelated(
@@ -401,6 +441,19 @@ lane2011a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+mujtaba2011a = DB(WorkOk(
+    2011, "Analyzing strategy and processes for product customization in large-scale industrial settings",
+    display="mujtaba",
+    authors="Mujtaba, S. and Feldt, R. and Petersen, K.",
+    place=SEAA,
+    pp="369-373",
+    entrytype="conference",
+    doi="10.1109/SEAA.2011.72",
+    art_number="6068369",
+    note="cited By 2",
+    ID="Mujtaba2011369",
+))
+
 nieters2011a = DB(WorkUnrelated(
     2011, "Leading Change with Collaborative Design Workshops",
     display="nieters",
@@ -414,6 +467,21 @@ nieters2011a = DB(WorkUnrelated(
     ID="Nieters:2011:LCC:1979742.1979671",
     acm="1",
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+petersen2011a = DB(WorkOk(
+    2011, "Measuring the flow in lean software development",
+    display="petersen",
+    authors="Petersen, K. and Wohlin, C.",
+    pp="975-996",
+    place=FAKE,
+    placex="Software - Practice and Experience",
+    entrytype="article",
+    volume="41",
+    number="9",
+    doi="10.1002/spe.975",
+    note="cited By 50",
+    ID="Petersen2011975",
 ))
 
 plösch2011a = DB(WorkSnowball(
@@ -507,6 +575,17 @@ suomalainen2011a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+tahir2011a = DB(WorkOk(
+    2011, "A systematic review on software measurement programs. In: Proceedings of frontiers of information technology (FIT 2011). IEEE",
+    display="tahir",
+    authors="Tahir, T. and Jafar, A.",
+    place=FAKE,
+    placex="pp 3944",
+    entrytype="article",
+    note="cited By 1",
+    ID="Tahir2011",
+))
+
 tietz2011a = DB(WorkUnrelated(
     2011, "Towards Task-based Development of Enterprise Mashups",
     display="tietz",
@@ -520,6 +599,20 @@ tietz2011a = DB(WorkUnrelated(
     ID="Tietz:2011:TTD:2095536.2095594",
     acm="1",
     placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
+))
+
+trendowicz2011a = DB(WorkOk(
+    2011, "Aligning software projects with business objectives",
+    display="trendowicz",
+    authors="Trendowicz, A. and Heidrich, J. and Shintani, K.",
+    pp="142-150",
+    place=FAKE,
+    placex="Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011",
+    entrytype="conference",
+    doi="10.1109/IWSM-MENSURA.2011.20",
+    art_number="6113054",
+    note="cited By 11",
+    ID="Trendowicz2011142",
 ))
 
 valdés2011a = DB(WorkUnrelated(
@@ -539,4 +632,15 @@ valdés2011a = DB(WorkUnrelated(
     ID="Valdés2011176",
     sciencedirect="1",
     placex="Government Information Quarterly",
+))
+
+yin2011a = DB(WorkOk(
+    2011, "Applications of case study research",
+    display="yin",
+    authors="Yin, R.K.",
+    place=FAKE,
+    placex="Sage",
+    entrytype="article",
+    note="cited By 4",
+    ID="Yin2011",
 ))

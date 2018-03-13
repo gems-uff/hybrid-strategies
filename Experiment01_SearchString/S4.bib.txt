@@ -1,0 +1,667 @@
+﻿Scopus
+EXPORT DATE: 13 March 2018
+
+
+
+@CONFERENCE{Ali2012211,
+author={Ali, N.B. and Petersen, K. and Mäntylä, M.V.},
+title={Testing highly complex system of systems: An industrial case study},
+journal={International Symposium on Empirical Software Engineering and Measurement},
+year={2012},
+pages={211-220},
+doi={10.1145/2372251.2372290},
+note={cited By 9},
+}
+
+
+
+@ARTICLE{Ardimento2006313,
+author={Ardimento, P. and Baldassarre, M.T. and Caivano, D. and Visaggio, G.},
+title={Assessing multiview framework (MF) comprehensibility and efficiency: A replicated experiment},
+journal={Information and Software Technology},
+year={2006},
+volume={48},
+number={5},
+pages={313-322},
+doi={10.1016/j.infsof.2005.09.010},
+note={cited By 6},
+}
+
+
+
+@ARTICLE{Baca20132411,
+author={Baca, D. and Petersen, K.},
+title={Countermeasure graphs for software security risk assessment: An action research},
+journal={Journal of Systems and Software},
+year={2013},
+volume={86},
+number={9},
+pages={2411-2428},
+doi={10.1016/j.jss.2013.04.023},
+note={cited By 14},
+}
+
+
+
+@ARTICLE{Basili200725,
+author={Basili, V.R. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, H.D. and Seaman, C.B. and Trendowicz, A.},
+title={Bridging the gap between business strategy and software development},
+journal={Proceedings of the international conference on information systems (ICIS},
+year={2007},
+volume={2007},
+pages={25},
+note={cited By 4},
+}
+
+
+
+@ARTICLE{Basili201057,
+author={Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.},
+title={Linking software development and business strategy through measurement},
+journal={Computer},
+year={2010},
+volume={43},
+number={4},
+pages={57-65},
+doi={10.1109/MC.2010.108},
+art_number={5445168},
+note={cited By 73},
+}
+
+
+
+@ARTICLE{Basili1984728,
+author={Basili, V.R. and Weiss, D.M.},
+title={A Methodology for Collecting Valid Software Engineering Data},
+journal={IEEE Transactions on Software Engineering},
+year={1984},
+volume={SE-10},
+number={6},
+pages={728-738},
+doi={10.1109/TSE.1984.5010301},
+note={cited By 491},
+}
+
+
+
+@ARTICLE{Boyd2002,
+author={Boyd, A.},
+title={The goals, questions, indicators, measures (gqim) approach to the measurement of customer satisfaction with e-commerce web sites. In: Aslib proceedings, vol 54. MCB UP Ltd},
+journal={pp 177–187},
+year={2002},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Boyd2005,
+author={Boyd, A.J.},
+title={The evolution of goal-based information modelling: literature review. In: Aslib proceedings, vol 57. Emerald Group Publishing Limited},
+journal={pp 523–538},
+year={2005},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Briand1996253,
+author={Briand, L.C. and Differding, C.M. and Rombach, H.D.},
+title={Practical guidelines for measurement-based process improvement},
+journal={Software Process: Improvement and Practice},
+year={1996},
+volume={2},
+number={4},
+pages={253-280},
+note={cited By 94},
+}
+
+
+
+@ARTICLE{BrydonMiller2003,
+author={Brydon-Miller, M., Greenwood, D., Maguire, P.},
+title={Why action research?},
+journal={Action Res, 1},
+year={2003},
+}
+
+
+
+@CONFERENCE{Bühne200541,
+author={Bühne, S. and Lauenroth, K. and Pohl, K.},
+title={Modelling requirements variability across product lines},
+journal={Proceedings of the IEEE International Conference on Requirements Engineering},
+year={2005},
+pages={41-50},
+note={cited By 65},
+}
+
+
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1409},
+}
+
+
+
+@ARTICLE{Colombo2003,
+author={Colombo, M.},
+title={Reflexivity and narratives in action research: a discursive approach. In: Forum qualitative sozialforschung/forum: qualitative social research},
+journal={vol 4},
+year={2003},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Damm200647,
+author={Damm, L.-O. and Lundberg, L. and Wohlin, C.},
+title={Faults-slip-through - A concept for measuring the efficiency of the test process},
+journal={Software Process Improvement and Practice},
+year={2006},
+volume={11},
+number={1},
+pages={47-59},
+doi={10.1002/spip.253},
+note={cited By 37},
+}
+
+
+
+@ARTICLE{Davis2006,
+author={Davis, A.M. and Tubío, Ó.D. and Hickey, A.M. and Juzgado, N.J. and Moreno, A.M.},
+title={Effectiveness of requirements elicitation techniques: empirical results derived from a systematic review. In: Proceedings of the 14th IEEE international conference on requirements engineering (RE 2006)},
+journal={pp : 176–185},
+year={2006},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Dieste2011283,
+author={Dieste, O. and Juristo, N.},
+title={Systematic review and aggregation of empirical studies on elicitation techniques},
+journal={IEEE Transactions on Software Engineering},
+year={2011},
+volume={37},
+number={2},
+pages={283-304},
+doi={10.1109/TSE.2010.33},
+art_number={5416730},
+note={cited By 48},
+}
+
+
+
+@ARTICLE{Finke2011,
+author={Finke, J.S. and Hartmann, D.},
+title={Implementing cisco unified communications manager, part 1 (CIPT1) foundation learning guide:(CCNP Voice CIPT1 642-447)},
+journal={Cisco Press},
+year={2011},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Gencel2013,
+author={Gencel C, Petersen K, Mughal AA, Iqbal MI}, year={2013},title={A decision support framework for metrics selection in goal-based measurement programs: GQM-DSFMS.}, journal={J Syst Softw}, 
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Graham2009,
+author={Graham, D. and Van Veenendaal, E. and Evans, I. and Black, R.},
+title={Foundations of Software Testing},journal={Course Technology Cengage Learning: Hampshire},
+year={2009},
+note={cited By 22},
+}
+
+
+
+
+@ARTICLE{Guest2006,
+author={Guest, G., Bunce, A., Johnson, L.},
+title={How many interviews are enough? an experiment with data saturation and variability},journal={Field Methods, 18},
+year={2006},
+
+}
+
+
+
+
+@ARTICLE{ISOIEC2002,author={ISOIEC},
+title={Iso/iec 15939 international standard 1st edition 2002: software engineering - software measurement process},
+journal={reference number iso/iec 15939:2002(e)(2002)},
+year={2002},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Ivarsson2011365,
+author={Ivarsson, M. and Gorschek, T.},
+title={A method for evaluating rigor and industrial relevance of technology evaluations},
+journal={Empirical Software Engineering},
+year={2011},
+volume={16},
+number={3},
+pages={365-395},
+doi={10.1007/s10664-010-9146-4},
+note={cited By 83},
+}
+
+
+
+@ARTICLE{Iversen2004395,
+author={Iversen, J.H. and Mathiassen, L. and Nielsen, P.A.},
+title={Managing risk in software process improvement: AN action research approach},
+journal={MIS Quarterly: Management Information Systems},
+year={2004},
+volume={28},
+number={3},
+pages={395-434},
+note={cited By 146},
+}
+
+
+
+@ARTICLE{Münch2013,
+author={Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M.},
+title={Partanen J (2013a) The effects of gqm+strategies on organizational alignment}, journal={Proceedings of the DASMA software metric congress},
+year={2013},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Münch2013,
+author={Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M. and Partanen, J.},
+title={Experiences and insights from applying gqm+strategies in a systems product development organisation. In: Proceedings of the 39th EUROMICRO conference on software engineering and advanced applications (SEAA 2013)},
+journal={Kaiserslautern},
+year={2013},
+note={cited By 1},
+}
+
+
+
+@CONFERENCE{Kaneko2011221,
+author={Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.},
+title={Application of GQM+Strategies® in the Japanese space industry},
+journal={Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011},
+year={2011},
+pages={221-226},
+doi={10.1109/IWSM-MENSURA.2011.22},
+art_number={6113063},
+note={cited By 11},
+}
+
+
+
+@ARTICLE{Kaplan1996,
+author={Kaplan, R. and Kaplan, R.S. and Norton, D.P.},
+title={The balanced scorecard: translating strategy into action},
+journal={Harvard Business Press},
+year={1996},
+note={cited By 2},
+}
+
+
+
+@ARTICLE{Keele2007,
+author={Keele, S.},
+title={Guidelines for performing systematic literature reviews in software engineering},
+journal={Guidelines for Performing Systematic Literature Reviews in Software Engineering},
+year={2007},
+note={cited By 94},
+}
+
+
+
+@ARTICLE{Kilpl200172,
+author={Kilpl, T.},
+title={Implementing a software metrics program at Nokia},
+journal={IEEE Software},
+year={2001},
+volume={18},
+number={6},
+pages={72-77},
+doi={10.1109/52.965808},
+note={cited By 33},
+}
+
+
+
+@ARTICLE{Mandic2010,
+author={Mandic, V. and Basili, V.},
+title={An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu},
+journal={Department of Information Processing Science},
+year={2010},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Mandic20102010,
+author={Mandic, V. and Basili, V.R. and Harjumaa, L. and Oivo, M., Markkula J},
+title={Utilizing gqm+strategies for business value analysis: an approach for evaluating business goals},
+journal={Proceedings of the international symposium on empirical software engineering and measurement},
+year={2010},
+pages={2010},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Mandić201014,
+author={Mandić, V. and Harjumaa, L. and Markkula, J. and Oivo, M.},
+title={Early empirical assessment of the practical value of GQM +strategies},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6195 LNCS},
+pages={14-25},
+doi={10.1007/978-3-642-14347-2_3},
+note={cited By 7},
+}
+
+
+
+@ARTICLE{Mandić2010291,
+author={Mandić, V. and Oivo, M.},
+title={SAS: A tool for the GQM+strategies grid derivation process},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6156 LNCS},
+pages={291-305},
+doi={10.1007/978-3-642-13792-1_23},
+note={cited By 5},
+}
+
+
+
+@ARTICLE{McGarry2002,
+author={McGarry, J. and Card, D. and Jones, C. and Layman, B. and Clark, E. and Dean, J. and Hall, F.},
+title={Practical software measurement: objective information for decision makers},
+journal={Addison-Wesley Boston},
+year={2002},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Mendonça2000484,
+author={Mendonça, M.G. and Basili, V.R.},
+title={Validation of an approach for improving existing measurement frameworks},
+journal={IEEE Transactions on Software Engineering},
+year={2000},
+volume={26},
+number={6},
+pages={484-499},
+doi={10.1109/32.852739},
+note={cited By 46},
+}
+
+
+
+@ARTICLE{{Morse1994,
+author={Morse JM}, year={1994},title={Designing funded qualitative research
+}, journal={?}, note={cited By 1},
+}
+
+
+
+@CONFERENCE{Mujtaba2011369,
+author={Mujtaba, S. and Feldt, R. and Petersen, K.},
+title={Analyzing strategy and processes for product customization in large-scale industrial settings},
+journal={Proceedings - 37th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2011},
+year={2011},
+pages={369-373},
+doi={10.1109/SEAA.2011.72},
+art_number={6068369},
+note={cited By 2},
+}
+
+
+
+@ARTICLE{Münch2008,author={Münch J, Heidrich J}, 
+year={2008},
+title={Aligning business strategies with software measurement - exercise handouts}, journal ={exercise handouts}, note={cited By 1},
+}
+
+
+
+@ARTICLE{Offen199745,
+author={Offen, R.J. and Jeffery, R.},
+title={Establishing software measurement programs},
+journal={IEEE Software},
+year={1997},
+volume={14},
+number={2},
+pages={45-53},
+doi={10.1109/52.582974},
+note={cited By 58},
+}
+
+
+
+@ARTICLE{Park1996,
+author={Park, R.E. and Goethert, W.B. and Florac, W.A.},
+title={Goal-driven software measurement?a guidebook (cmu/sei-96-hb-002},
+journal={ada313946)},
+year={1996},
+note={cited By 1},
+}
+
+
+
+@CONFERENCE{Petersen201381,
+author={Petersen, K. and Gencel, C.},
+title={Worldviews, research methods, and their relationship to validity in empirical software engineering research},
+journal={Proceedings - Joint Conference of the 23rd International Workshop on Software Measurement and the 8th International Conference on Software Process and Product Measurement, IWSM-MENSURA 2013},
+year={2013},
+pages={81-89},
+doi={10.1109/IWSM-Mensura.2013.22},
+art_number={6693226},
+note={cited By 20},
+}
+
+
+
+@ARTICLE{Petersen20091479,
+author={Petersen, K. and Wohlin, C.},
+title={A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
+journal={Journal of Systems and Software},
+year={2009},
+volume={82},
+number={9},
+pages={1479-1490},
+doi={10.1016/j.jss.2009.03.036},
+note={cited By 95},
+}
+
+
+
+@CONFERENCE{Petersen2009401,
+author={Petersen, K. and Wohlin, C.},
+title={Context in industrial software engineering research},
+journal={2009 3rd International Symposium on Empirical Software Engineering and Measurement, ESEM 2009},
+year={2009},
+pages={401-404},
+doi={10.1109/ESEM.2009.5316010},
+art_number={5316010},
+note={cited By 110},
+}
+
+
+
+@ARTICLE{Petersen2010654,
+author={Petersen, K. and Wohlin, C.},
+title={The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study},
+journal={Empirical Software Engineering},
+year={2010},
+volume={15},
+number={6},
+pages={654-693},
+doi={10.1007/s10664-010-9136-6},
+note={cited By 51},
+}
+
+
+
+@ARTICLE{Petersen20101275,
+author={Petersen, K. and Wohlin, C.},
+title={Software process improvement through the Lean Measurement (SPI-LEAM) method},
+journal={Journal of Systems and Software},
+year={2010},
+volume={83},
+number={7},
+pages={1275-1287},
+doi={10.1016/j.jss.2010.02.005},
+note={cited By 46},
+}
+
+
+
+@ARTICLE{Petersen2011975,
+author={Petersen, K. and Wohlin, C.},
+title={Measuring the flow in lean software development},
+journal={Software - Practice and Experience},
+year={2011},
+volume={41},
+number={9},
+pages={975-996},
+doi={10.1002/spe.975},
+note={cited By 50},
+}
+
+
+
+@ARTICLE{Poppendieck2003,
+author={Poppendieck, M. and Poppendieck, T.},
+title={Lean software development: an agile toolkit},
+journal={Addison-Wesley Professional},
+year={2003},
+note={cited By 6},
+}
+
+
+
+@ARTICLE{Runeson2009131,
+author={Runeson, P. and Höst, M.},
+title={Guidelines for conducting and reporting case study research in software engineering},
+journal={Empirical Software Engineering},
+year={2009},
+volume={14},
+number={2},
+pages={131-164},
+doi={10.1007/s10664-008-9102-8},
+note={cited By 1062},
+}
+
+
+
+@BOOK{Runeson2012,
+author={Runeson, P. and Höst, M. and Rainer, A. and Regnell, B.},
+title={Case Study Research in Software Engineering: Guidelines and Examples},
+journal={Case Study Research in Software Engineering: Guidelines and Examples},
+year={2012},
+page_count={237},
+doi={10.1002/9781118181034},
+note={cited By 305},
+}
+
+
+
+@CONFERENCE{Sarcia'2010,
+author={Sarcia', S.A.},
+title={Is GQM+strategies really applicable as is to non-software development domains?},
+journal={ESEM 2010 - Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement},
+year={2010},
+doi={10.1145/1852786.1852844},
+art_number={1852844},
+note={cited By 10},
+}
+
+
+
+@ARTICLE{Scholtes2003,
+author={Scholtes, P.R. and Joiner, B.L.},title={Streibel BJ},
+journal={The team handbook},
+year={2003},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Tahir2011,
+author={Tahir, T. and Jafar, A.},
+title={A systematic review on software measurement programs. In: Proceedings of frontiers of information technology (FIT 2011). IEEE},
+journal={pp 39–44},
+year={2011},
+note={cited By 1},
+}
+
+
+
+@CONFERENCE{Trendowicz2011142,
+author={Trendowicz, A. and Heidrich, J. and Shintani, K.},
+title={Aligning software projects with business objectives},
+journal={Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011},
+year={2011},
+pages={142-150},
+doi={10.1109/IWSM-MENSURA.2011.20},
+art_number={6113054},
+note={cited By 11},
+}
+
+
+
+@ARTICLE{vanderLinden2007,
+author={van der Linden, F.J. and Schmid, K. and Rommes, E.},
+title={Software product lines in action},
+journal={Springer},
+year={2007},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{VanLatum199878,
+author={Van Latum, F. and Van Solingen, R. and Oivo, M. and Hoisl, B. and Rombach, D. and Ruhe, G.},
+title={Adopting GQM - Based measurement in an industrial environment},
+journal={IEEE Software},
+year={1998},
+volume={15},
+number={1},
+pages={78-85},
+doi={10.1109/52.646887},
+note={cited By 55},
+}
+
+
+
+@ARTICLE{Wilson2002193,
+author={Wilson, H. and Daniel, E. and McDonald, M.},
+title={Factors for success in customer relationship management (CRM) systems},
+journal={Journal of Marketing Management},
+year={2002},
+volume={18},
+number={1-2},
+pages={193-219},
+note={cited By 134},
+}
+
+
+
+@ARTICLE{Yin2011,
+author={Yin, R.K.},
+title={Applications of case study research},
+journal={Sage},
+year={2011},
+note={cited By 4},
+}

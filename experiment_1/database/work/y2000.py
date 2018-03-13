@@ -199,6 +199,20 @@ makinen2000a = DB(WorkOk(
     ID="Makinen2000",
 ))
 
+mendonça2000a = DB(WorkOk(
+    2000, "Validation of an approach for improving existing measurement frameworks",
+    display="mendonça",
+    authors="Mendonça, M.G. and Basili, V.R.",
+    place=ToSE,
+    pp="484-499",
+    entrytype="article",
+    volume="26",
+    number="6",
+    doi="10.1109/32.852739",
+    note="cited By 46",
+    ID="Mendonça2000484",
+))
+
 pfahl2000a = DB(WorkUnrelated(
     2000, "Using simulation to analyse the impact of software requirement volatility on project performance",
     display="pfahl",

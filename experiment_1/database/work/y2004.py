@@ -181,6 +181,20 @@ holz2004a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+iversen2004a = DB(WorkOk(
+    2004, "Managing risk in software process improvement: AN action research approach",
+    display="iversen",
+    authors="Iversen, J.H. and Mathiassen, L. and Nielsen, P.A.",
+    pp="395-434",
+    place=FAKE,
+    placex="MIS Quarterly: Management Information Systems",
+    entrytype="article",
+    volume="28",
+    number="3",
+    note="cited By 146",
+    ID="Iversen2004395",
+))
+
 jedlitschka2004a = DB(WorkUnrelated(
     2004, "Towards Comprehensive Experience-Based Decision Support",
     display="jedlitschka",

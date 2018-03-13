@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ali2012a = DB(WorkOk(
+    2012, "Testing highly complex system of systems: An industrial case study",
+    display="ali",
+    authors="Ali, N.B. and Petersen, K. and Mäntylä, M.V.",
+    place=ESEM,
+    pp="211-220",
+    entrytype="conference",
+    doi="10.1145/2372251.2372290",
+    note="cited By 9",
+    ID="Ali2012211",
+))
+
 aversano2012a = DB(WorkUnrelated(
     2012, "A Literature Review of Business/IT Alignment Strategies",
     display="aversano",
@@ -446,6 +458,18 @@ robles2012a = DB(WorkUnrelated(
     ID="10.1007/978-3-642-33442-9_1",
     springer="1",
     placex="Open Source Systems: Long-Term Sustainability",
+))
+
+runeson2012a = DB(WorkOk(
+    2012, "Case Study Research in Software Engineering: Guidelines and Examples",
+    display="runeson",
+    authors="Runeson, P. and Höst, M. and Rainer, A. and Regnell, B.",
+    place=Book,
+    entrytype="book",
+    page_count="237",
+    doi="10.1002/9781118181034",
+    note="cited By 305",
+    ID="Runeson2012",
 ))
 
 sarosa2012a = DB(WorkUnrelated(

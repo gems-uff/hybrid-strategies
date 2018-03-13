@@ -321,6 +321,17 @@ lee2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
+mandic2010a = DB(WorkOk(
+    2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
+    display="mandic",
+    authors="Mandic, V. and Basili, V.",
+    place=FAKE,
+    placex="Department of Information Processing Science",
+    entrytype="article",
+    note="cited By 1",
+    ID="Mandic2010",
+))
+
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -352,6 +363,35 @@ mandić2010b = DB(WorkSnowball(
     ID="Mandić2010",
     acm="1",
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+    pp="2010",
+))
+
+mandić2010c = DB(WorkOk(
+    2010, "Early empirical assessment of the practical value of GQM +strategies",
+    display="mandić c",
+    authors="Mandić, V. and Harjumaa, L. and Markkula, J. and Oivo, M.",
+    pp="14-25",
+    place=FAKE,
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    entrytype="article",
+    volume="6195 LNCS",
+    doi="10.1007/978-3-642-14347-2_3",
+    note="cited By 7",
+    ID="Mandi?201014",
+))
+
+mandić2010d = DB(WorkOk(
+    2010, "SAS: A tool for the GQM+strategies grid derivation process",
+    display="mandić d",
+    authors="Mandić, V. and Oivo, M.",
+    pp="291-305",
+    place=FAKE,
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    entrytype="article",
+    volume="6156 LNCS",
+    doi="10.1007/978-3-642-13792-1_23",
+    note="cited By 5",
+    ID="Mandić2010291",
 ))
 
 mashapa2010a = DB(WorkUnrelated(
@@ -426,6 +466,34 @@ nikula2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+petersen2010a = DB(WorkOk(
+    2010, "The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study",
+    display="petersen",
+    authors="Petersen, K. and Wohlin, C.",
+    place=ESE,
+    pp="654-693",
+    entrytype="article",
+    volume="15",
+    number="6",
+    doi="10.1007/s10664-010-9136-6",
+    note="cited By 51",
+    ID="Petersen2010654",
+))
+
+petersen2010b = DB(WorkOk(
+    2010, "Software process improvement through the Lean Measurement (SPI-LEAM) method",
+    display="petersen b",
+    authors="Petersen, K. and Wohlin, C.",
+    place=JSS,
+    pp="1275-1287",
+    entrytype="article",
+    volume="83",
+    number="7",
+    doi="10.1016/j.jss.2010.02.005",
+    note="cited By 46",
+    ID="Petersen20101275",
+))
+
 pino2010a = DB(WorkUnrelated(
     2010, "Assessment methodology for software process improvement in small organizations",
     display="pino",
@@ -479,6 +547,18 @@ romero2010a = DB(WorkUnrelated(
     ID="Romero:2010:EDP:1785414.1785448",
     acm="1",
     placex="Commun. ACM",
+))
+
+sarcia2010a = DB(WorkOk(
+    2010, "Is GQM+strategies really applicable as is to non-software development domains?",
+    display="sarcia",
+    authors="Sarcia', S.A.",
+    place=ESEM,
+    entrytype="conference",
+    doi="10.1145/1852786.1852844",
+    art_number="1852844",
+    note="cited By 10",
+    ID="Sarcia'2010",
 ))
 
 sun2010a = DB(WorkUnrelated(

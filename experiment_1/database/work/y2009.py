@@ -95,6 +95,17 @@ galinac2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+graham2009a = DB(WorkOk(
+    2009, "Foundations of Software Testing,journal=Course Technology Cengage Learning: Hampshire",
+    display="graham",
+    authors="Graham, D. and Van Veenendaal, E. and Evans, I. and Black, R.",
+    place=FAKE,
+    placex="",
+    entrytype="article",
+    note="cited By 22",
+    ID="Graham2009",
+))
+
 gunarathne2009a = DB(WorkUnrelated(
     2009, "Experience with Adapting a WS-BPEL Runtime for eScience Workflows",
     display="gunarathne",
@@ -225,6 +236,19 @@ petersen2009a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+petersen2009b = DB(WorkOk(
+    2009, "Context in industrial software engineering research",
+    display="petersen b",
+    authors="Petersen, K. and Wohlin, C.",
+    place=ESEM,
+    pp="401-404",
+    entrytype="conference",
+    doi="10.1109/ESEM.2009.5316010",
+    art_number="5316010",
+    note="cited By 110",
+    ID="Petersen2009401",
+))
+
 qiu2009a = DB(WorkUnrelated(
     2009, "A Study for End Users' Perceptions of Business Strategic Factors Among Different IS/IT Contexts",
     display="qiu",
@@ -255,6 +279,20 @@ rosselet2009a = DB(WorkUnrelated(
     ID="Rosselet:2009:KMF:1597735.1597783",
     acm="1",
     placex="Proceedings of the Fifth International Conference on Knowledge Capture",
+))
+
+runeson2009a = DB(WorkOk(
+    2009, "Guidelines for conducting and reporting case study research in software engineering",
+    display="runeson",
+    authors="Runeson, P. and Höst, M.",
+    place=ESE,
+    pp="131-164",
+    entrytype="article",
+    volume="14",
+    number="2",
+    doi="10.1007/s10664-008-9102-8",
+    note="cited By 1062",
+    ID="Runeson2009131",
 ))
 
 sheetz2009a = DB(WorkUnrelated(

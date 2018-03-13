@@ -412,6 +412,28 @@ mite2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+münch2013a = DB(WorkOk(
+    2013, "Partanen J (2013a) The effects of gqm+strategies on organizational alignment",
+    display="münch",
+    authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M.",
+    place=FAKE,
+    placex="Proceedings of the DASMA software metric congress",
+    entrytype="article",
+    note="cited By 1",
+    ID="Münch2013",
+))
+
+münch2013b = DB(WorkOk(
+    2013, "Experiences and insights from applying gqm+strategies in a systems product development organisation. In: Proceedings of the 39th EUROMICRO conference on software engineering and advanced applications (SEAA 2013)",
+    display="münch b",
+    authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M. and Partanen, J.",
+    place=FAKE,
+    placex="Kaiserslautern",
+    entrytype="article",
+    note="cited By 1",
+    ID="Münch2013",
+))
+
 oloniteru2013a = DB(WorkUnrelated(
     2013, "On Ekiti's Smart Governance for Development Approach: A Reflexive Account",
     display="oloniteru",
@@ -444,6 +466,20 @@ pardo2013a = DB(WorkUnrelated(
     ID="Pardo2013125",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+petersen2013a = DB(WorkOk(
+    2013, "Worldviews, research methods, and their relationship to validity in empirical software engineering research",
+    display="petersen",
+    authors="Petersen, K. and Gencel, C.",
+    pp="81-89",
+    place=FAKE,
+    placex="Proceedings - Joint Conference of the 23rd International Workshop on Software Measurement and the 8th International Conference on Software Process and Product Measurement, IWSM-MENSURA 2013",
+    entrytype="conference",
+    doi="10.1109/IWSM-Mensura.2013.22",
+    art_number="6693226",
+    note="cited By 20",
+    ID="Petersen201381",
 ))
 
 rinkevics2013a = DB(WorkUnrelated(

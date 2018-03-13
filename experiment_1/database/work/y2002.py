@@ -63,6 +63,17 @@ birk2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+boyd2002a = DB(WorkOk(
+    2002, "The goals, questions, indicators, measures (gqim) approach to the measurement of customer satisfaction with e-commerce web sites. In: Aslib proceedings, vol 54. MCB UP Ltd",
+    display="boyd",
+    authors="Boyd, A.",
+    place=FAKE,
+    placex="pp 177187",
+    entrytype="article",
+    note="cited By 1",
+    ID="Boyd2002",
+))
+
 bratthall2002a = DB(WorkUnrelated(
     2002, "Component Certification - What is the Value?",
     display="bratthall",
@@ -231,6 +242,17 @@ helokunnas2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+isoiec2002a = DB(WorkOk(
+    2002, "Iso/iec 15939 international standard 1st edition 2002: software engineering - software measurement process",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    placex="reference number iso/iec 15939:2002(e)(2002)",
+    entrytype="article",
+    note="cited By 1",
+    ID="ISOIEC2002",
+))
+
 jones2002a = DB(WorkUnrelated(
     2002, "The Processes to Manage (and Minimise) the Human Risk in Complex Systems",
     display="jones",
@@ -291,6 +313,17 @@ lee2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_5",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+mcgarry2002a = DB(WorkOk(
+    2002, "Practical software measurement: objective information for decision makers",
+    display="mcgarry",
+    authors="McGarry, J. and Card, D. and Jones, C. and Layman, B. and Clark, E. and Dean, J. and Hall, F.",
+    place=FAKE,
+    placex="Addison-Wesley Boston",
+    entrytype="article",
+    note="cited By 1",
+    ID="McGarry2002",
 ))
 
 munkvold2002a = DB(WorkUnrelated(
@@ -508,6 +541,20 @@ visconti2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_44",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+wilson2002a = DB(WorkOk(
+    2002, "Factors for success in customer relationship management (CRM) systems",
+    display="wilson",
+    authors="Wilson, H. and Daniel, E. and McDonald, M.",
+    pp="193-219",
+    place=FAKE,
+    placex="Journal of Marketing Management",
+    entrytype="article",
+    volume="18",
+    number="1-2",
+    note="cited By 134",
+    ID="Wilson2002193",
 ))
 
 wong2002a = DB(WorkUnrelated(

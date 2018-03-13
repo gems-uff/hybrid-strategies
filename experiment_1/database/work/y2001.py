@@ -278,6 +278,20 @@ kauppinen2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+kilpl2001a = DB(WorkOk(
+    2001, "Implementing a software metrics program at Nokia",
+    display="kilpl",
+    authors="Kilpl, T.",
+    place=IEEES,
+    pp="72-77",
+    entrytype="article",
+    volume="18",
+    number="6",
+    doi="10.1109/52.965808",
+    note="cited By 33",
+    ID="Kilpl200172",
+))
+
 kucza2001a = DB(WorkUnrelated(
     2001, "Improving Knowledge Management in Software Reuse Process",
     display="kucza",

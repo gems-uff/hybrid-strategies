@@ -45,6 +45,19 @@ austin1996a = DB(WorkOk(
     ID="Austin1996",
 ))
 
+briand1996a = DB(WorkOk(
+    1996, "Practical guidelines for measurement-based process improvement",
+    display="briand",
+    authors="Briand, L.C. and Differding, C.M. and Rombach, H.D.",
+    place=SPIP,
+    pp="253-280",
+    entrytype="article",
+    volume="2",
+    number="4",
+    note="cited By 94",
+    ID="Briand1996253",
+))
+
 dunaway1996a = DB(WorkOk(
     1996, "CMM-Based appraisal for internal process improvement (CBA IPI): Method description",
     display="dunaway",
@@ -75,6 +88,17 @@ hather1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+kaplan1996a = DB(WorkOk(
+    1996, "The balanced scorecard: translating strategy into action",
+    display="kaplan",
+    authors="Kaplan, R. and Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    placex="Harvard Business Press",
+    entrytype="article",
+    note="cited By 2",
+    ID="Kaplan1996",
+))
+
 mcfeeley1996a = DB(WorkOk(
     1996, "IDEAL: A User's Guide for Software Process Improvement",
     display="mcfeeley",
@@ -94,6 +118,17 @@ park1996a = DB(WorkOk(
     placex="CMU/SEI-96-HB-002",
     entrytype="article",
     note="cited By 2",
+    ID="Park1996",
+))
+
+park1996b = DB(WorkOk(
+    1996, "Goal-driven software measurement?a guidebook (cmu/sei-96-hb-002",
+    display="park b",
+    authors="Park, R.E. and Goethert, W.B. and Florac, W.A.",
+    place=FAKE,
+    placex="ada313946)",
+    entrytype="article",
+    note="cited By 1",
     ID="Park1996",
 ))
 

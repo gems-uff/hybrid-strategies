@@ -22,6 +22,16 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+brydon2003a = DB(WorkOk(
+    2003, "Why action research?",
+    display="brydon",
+    authors="Brydon-Miller, M., Greenwood, D., Maguire, P.",
+    place=FAKE,
+    placex="Action Res, 1",
+    entrytype="article",
+    ID="BrydonMiller2003",
+))
+
 cechich2003a = DB(WorkUnrelated(
     2003, "Assessing Component-Based Systems",
     display="cechich",
@@ -46,6 +56,17 @@ chrissis2003a = DB(WorkOk(
     entrytype="article",
     note="cited By 687",
     ID="Chrissis2003",
+))
+
+colombo2003a = DB(WorkOk(
+    2003, "Reflexivity and narratives in action research: a discursive approach. In: Forum qualitative sozialforschung/forum: qualitative social research",
+    display="colombo",
+    authors="Colombo, M.",
+    place=FAKE,
+    placex="vol 4",
+    entrytype="article",
+    note="cited By 1",
+    ID="Colombo2003",
 ))
 
 conradi2003a = DB(WorkUnrelated(
@@ -251,6 +272,28 @@ oliver2003a = DB(WorkUnrelated(
     ID="Oliver2003",
     springer="1",
     placex="Managing Software Engineering Knowledge",
+))
+
+poppendieck2003a = DB(WorkOk(
+    2003, "Lean software development: an agile toolkit",
+    display="poppendieck",
+    authors="Poppendieck, M. and Poppendieck, T.",
+    place=FAKE,
+    placex="Addison-Wesley Professional",
+    entrytype="article",
+    note="cited By 6",
+    ID="Poppendieck2003",
+))
+
+scholtes2003a = DB(WorkOk(
+    2003, "Streibel BJ",
+    display="scholtes",
+    authors="Scholtes, P.R. and Joiner, B.L.",
+    place=FAKE,
+    placex="The team handbook",
+    entrytype="article",
+    note="cited By 1",
+    ID="Scholtes2003",
 ))
 
 solingen2003a = DB(WorkUnrelated(

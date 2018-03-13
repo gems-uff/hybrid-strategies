@@ -32,6 +32,28 @@ bleistein2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
+boyd2005a = DB(WorkOk(
+    2005, "The evolution of goal-based information modelling: literature review. In: Aslib proceedings, vol 57. Emerald Group Publishing Limited",
+    display="boyd",
+    authors="Boyd, A.J.",
+    place=FAKE,
+    placex="pp 523538",
+    entrytype="article",
+    note="cited By 1",
+    ID="Boyd2005",
+))
+
+bühne2005a = DB(WorkOk(
+    2005, "Modelling requirements variability across product lines",
+    display="bühne",
+    authors="Bühne, S. and Lauenroth, K. and Pohl, K.",
+    place=ICSE,
+    pp="41-50",
+    entrytype="conference",
+    note="cited By 65",
+    ID="Bühne200541",
+))
+
 caetano2005a = DB(WorkUnrelated(
     2005, "Using Roles and Business Objects to Model and Understand Business Processes",
     display="caetano",

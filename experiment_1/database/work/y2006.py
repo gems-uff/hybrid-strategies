@@ -47,6 +47,20 @@ andersen2006a = DB(WorkUnrelated(
     placex="Government Information Quarterly",
 ))
 
+ardimento2006a = DB(WorkOk(
+    2006, "Assessing multiview framework (MF) comprehensibility and efficiency: A replicated experiment",
+    display="ardimento",
+    authors="Ardimento, P. and Baldassarre, M.T. and Caivano, D. and Visaggio, G.",
+    place=IST,
+    pp="313-322",
+    entrytype="article",
+    volume="48",
+    number="5",
+    doi="10.1016/j.infsof.2005.09.010",
+    note="cited By 6",
+    ID="Ardimento2006313",
+))
+
 cox2006a = DB(WorkUnrelated(
     2006, "A Contingency View of Organizational Infrastructure Requirements Engineering",
     display="cox",
@@ -75,6 +89,31 @@ damas2006a = DB(WorkUnrelated(
     ID="Damas:2006:SGS:1181775.1181800",
     acm="1",
     placex="Proceedings of the 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+))
+
+damm2006a = DB(WorkOk(
+    2006, "Faults-slip-through - A concept for measuring the efficiency of the test process",
+    display="damm",
+    authors="Damm, L.-O. and Lundberg, L. and Wohlin, C.",
+    place=SPIP,
+    pp="47-59",
+    entrytype="article",
+    volume="11",
+    number="1",
+    doi="10.1002/spip.253",
+    note="cited By 37",
+    ID="Damm200647",
+))
+
+davis2006a = DB(WorkOk(
+    2006, "Effectiveness of requirements elicitation techniques: empirical results derived from a systematic review. In: Proceedings of the 14th IEEE international conference on requirements engineering (RE 2006)",
+    display="davis",
+    authors="Davis, A.M. and Tubío, Ó.D. and Hickey, A.M. and Juzgado, N.J. and Moreno, A.M.",
+    place=FAKE,
+    placex="pp : 176185",
+    entrytype="article",
+    note="cited By 1",
+    ID="Davis2006",
 ))
 
 debarr2006a = DB(WorkUnrelated(
@@ -127,6 +166,16 @@ gorschek2006a = DB(WorkUnrelated(
     ID="Gorschek2006",
     springer="1",
     placex="Requirements Engineering",
+))
+
+guest2006a = DB(WorkOk(
+    2006, "How many interviews are enough? an experiment with data saturation and variability",
+    display="guest",
+    authors="Guest, G., Bunce, A., Johnson, L.",
+    place=FAKE,
+    placex="Field Methods, 18",
+    entrytype="article",
+    ID="Guest2006",
 ))
 
 horkoff2006a = DB(WorkUnrelated(

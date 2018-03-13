@@ -52,6 +52,19 @@ baccarelli2007a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Workshop on Mobility Management and Wireless Access",
 ))
 
+basili2007a = DB(WorkOk(
+    2007, "Bridging the gap between business strategy and software development",
+    display="basili",
+    authors="Basili, V.R. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, H.D. and Seaman, C.B. and Trendowicz, A.",
+    pp="25",
+    place=FAKE,
+    placex="Proceedings of the international conference on information systems (ICIS",
+    entrytype="article",
+    volume="2007",
+    note="cited By 4",
+    ID="Basili200725",
+))
+
 deng2007a = DB(WorkUnrelated(
     2007, "Pong: Diagnosing Spatio-temporal Internet Congestion Properties",
     display="deng",
@@ -101,6 +114,28 @@ karagiannis2007a = DB(WorkUnrelated(
     ID="Karagiannis:2007:BMD:1282100.1282122",
     acm="1",
     placex="Proceedings of the Ninth International Conference on Electronic Commerce",
+))
+
+keele2007a = DB(WorkOk(
+    2007, "Guidelines for performing systematic literature reviews in software engineering",
+    display="keele",
+    authors="Keele, S.",
+    place=FAKE,
+    placex="Guidelines for Performing Systematic Literature Reviews in Software Engineering",
+    entrytype="article",
+    note="cited By 94",
+    ID="Keele2007",
+))
+
+linden2007a = DB(WorkOk(
+    2007, "Software product lines in action",
+    display="linden",
+    authors="van der Linden, F.J. and Schmid, K. and Rommes, E.",
+    place=FAKE,
+    placex="Springer",
+    entrytype="article",
+    note="cited By 1",
+    ID="vanderLinden2007",
 ))
 
 martins2007a = DB(WorkUnrelated(
