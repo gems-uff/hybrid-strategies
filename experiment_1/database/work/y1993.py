@@ -56,6 +56,15 @@ lott1993a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+paulk1993a = DB(WorkOk(
+    1993, "Capability Maturity Model for Software, Version 1.1.",
+    display="paulk",
+    authors="Paulk, M, Curtis, B, Chrissis, M, Weber, C. V,",
+    place=EBSE,
+    entrytype="article",
+    ID="Paulk1993",
+))
+
 thompson1993a = DB(WorkUnrelated(
     1993, "Software process maturity (SPM) and the information systems developer",
     display="thompson",

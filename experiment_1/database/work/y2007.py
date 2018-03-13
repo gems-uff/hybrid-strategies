@@ -123,6 +123,19 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
+montoni2007a = DB(WorkOk(
+    2007, "MPS model and TABA workstation: Implementing software process improvement initiatives in small settings",
+    display="montoni",
+    authors="Montoni, M. and Santos, G. and Rocha, A.R. and Weber, K.C. and De Araújo, E.E.R.",
+    place=FAKE,
+    placex="Proceedings - ICSE 2007 Workshops: 5th International Workshop on Software Quality, WoSQ 2007",
+    entrytype="conference",
+    doi="10.1109/WOSQ.2007.10",
+    art_number="4273471",
+    note="cited By 10",
+    ID="Montoni2007",
+))
+
 ordóñez2007a = DB(WorkUnrelated(
     2007, "Strategy Recommender Agents (ALEX) - the Methodology",
     display="ordóñez",

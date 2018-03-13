@@ -62,6 +62,17 @@ fowler1997a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+grady1997a = DB(WorkOk(
+    1997, "The book, Successful Software Process Improvement Upper Saddle River",
+    display="grady",
+    authors="Grady, R.B.",
+    place=FAKE,
+    placex="Prentice-Hall",
+    entrytype="article",
+    note="cited By 1",
+    ID="Grady1997",
+))
+
 king1997a = DB(WorkUnrelated(
     1997, "Tool support for systems emergence: A multimedia \CASE\ tool",
     display="king",

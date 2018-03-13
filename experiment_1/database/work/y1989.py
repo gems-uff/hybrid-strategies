@@ -14,6 +14,17 @@ humphrey1989a = DB(WorkOk(
     ID="Humphrey1989",
 ))
 
+humphrey1989b = DB(WorkOk(
+    1989, "The book",
+    display="humphrey b",
+    authors="Humphrey, W.S.",
+    place=FAKE,
+    placex="Managing the Software Process",
+    entrytype="article",
+    note="cited By 1",
+    ID="Humphrey1989",
+))
+
 marques1989a = DB(WorkUnrelated(
     1989, "Extending the Operating System to Support an Object-oriented Environment",
     display="marques",

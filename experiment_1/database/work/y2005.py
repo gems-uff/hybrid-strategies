@@ -91,6 +91,20 @@ coallier2005a = DB(WorkUnrelated(
     placex="Science of Computer Programming",
 ))
 
+dyba2005a = DB(WorkOk(
+    2005, "An empirical investigation of the key factors for success in software process improvement",
+    display="dyba",
+    authors="Dyba, T.",
+    place=ToSE,
+    pp="410-424",
+    entrytype="article",
+    volume="31",
+    number="5",
+    doi="10.1109/TSE.2005.53",
+    note="cited By 150",
+    ID="Dyba2005410",
+))
+
 fernandes2005a = DB(WorkUnrelated(
     2005, "A reference framework for process-oriented software development organizations",
     display="fernandes",
@@ -131,6 +145,17 @@ institute2005a = DB(WorkOk(
     entrytype="article",
     note="cited By 2",
     ID="Fame2005",
+))
+
+liu2005a = DB(WorkOk(
+    2005, "QFD Application in Software Process Management and Improvement Based on CMM",
+    display="liu",
+    authors="Liu, X. and Sun, Y. and Kane, G. and Kyoya, Y. and Noguchi, K.",
+    place=FAKE,
+    placex="ACM SIGSOFT Software Engineering. SESSION: Software Quality (WOSQ)",
+    entrytype="article",
+    note="cited By 2",
+    ID="Liu2005",
 ))
 
 procaccino2005a = DB(WorkUnrelated(
@@ -248,6 +273,20 @@ wang2005a = DB(WorkSnowball(
     ID="Wang2005183",
 ))
 
+weber2005a = DB(WorkOk(
+    2005, "Brazilian software process reference model and assessment method",
+    display="weber",
+    authors="Weber, K.C. and Araújo, E.E.R. and Da Rocha, A.R.C. and Machado, C.A.F. and Scalet, D. and Salviano, C.F.",
+    pp="402-411",
+    place=FAKE,
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    entrytype="article",
+    volume="3733 LNCS",
+    doi="10.1007/11569596_43",
+    note="cited By 24",
+    ID="Weber2005402",
+))
+
 wilkie2005a = DB(WorkOk(
     2005, "An Evaluation of CMMI® Process Areas for Small to Medium Sized Software Development Organisations Software Process Improvement and Practice",
     display="wilkie",
@@ -259,4 +298,15 @@ wilkie2005a = DB(WorkOk(
     volume="10",
     note="cited By 1",
     ID="Wilkie2005",
+))
+
+zaijun2005a = DB(WorkOk(
+    2005, "Value-Centric Process Improvement for Small Organizations by Using QFD and CMMI",
+    display="zaijun",
+    authors="Zaijun, H.",
+    place=FAKE,
+    placex="Proceedings of the First International Research Workshop for Process Improvement in Small Settings",
+    entrytype="article",
+    note="cited By 2",
+    ID="Zaijun2005",
 ))

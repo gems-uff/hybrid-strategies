@@ -133,6 +133,17 @@ henninger2003a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+isoiec2003a = DB(WorkOk(
+    2003, "Information Technology - Process Assessment, - Part 1 : Concepts and Vocabulary",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    placex="Information Technology - Process Assessment, - Part 1: Concepts and Vocabulary",
+    entrytype="article",
+    note="cited By 11",
+    ID="ISOIEC2003",
+))
+
 jedlitschka2003a = DB(WorkUnrelated(
     2003, "Software Engineering Knowledge Repositories",
     display="jedlitschka",
@@ -212,6 +223,21 @@ mcfall2003a = DB(WorkOk(
     ID="McFall2003",
 ))
 
+niazi2003a = DB(WorkOk(
+    2003, "A model for the implementation of software process improvement: A pilot study",
+    display="niazi",
+    authors="Niazi, M. and Wilson, D. and Zowghi, D.",
+    pp="196-203",
+    place=FAKE,
+    placex="Proceedings - International Conference on Quality Software",
+    entrytype="conference",
+    volume="2003-January",
+    doi="10.1109/QSIC.2003.1319103",
+    art_number="1319103",
+    note="cited By 19",
+    ID="Niazi2003196",
+))
+
 oliver2003a = DB(WorkUnrelated(
     2003, "Evaluating an Approach to Sharing Software Engineering Knowledge to Facilitate Learning",
     display="oliver",
@@ -274,4 +300,15 @@ yap2003a = DB(WorkUnrelated(
     ID="Yap200389",
     sciencedirect="1",
     placex="Computers in Industry",
+))
+
+yin2003a = DB(WorkOk(
+    2003, "The book",
+    display="yin",
+    authors="Yin, R.",
+    place=FAKE,
+    placex="Case Study Research: Design and Methods",
+    entrytype="article",
+    note="cited By 1",
+    ID="Yin2003",
 ))

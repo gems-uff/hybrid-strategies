@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+akao1990a = DB(WorkOk(
+    1990, "The book, QFD: Integrating customer requirements into product design",
+    display="akao",
+    authors="Akao, Y.",
+    place=FAKE,
+    placex="Productivity Press",
+    entrytype="article",
+    note="cited By 62",
+    ID="Akao1990",
+))
+
 ram1990a = DB(WorkUnrelated(
     1990, "HyperIntelligence: The Next Frontier",
     display="ram",

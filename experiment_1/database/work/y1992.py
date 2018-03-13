@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+cox1992a = DB(WorkOk(
+    1992, "Keys to success in quality function deployment",
+    display="cox",
+    authors="Cox, C.A.",
+    pp="25-9",
+    place=FAKE,
+    placex="APICS - The Performance Advantage",
+    entrytype="article",
+    volume="2",
+    number="4",
+    note="cited By 8",
+    ID="Cox199225",
+))
+
 haikala1992a = DB(WorkUnrelated(
     1992, "(Continuing) education of software professionals",
     display="haikala",

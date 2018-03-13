@@ -96,3 +96,14 @@ park1996a = DB(WorkOk(
     note="cited By 2",
     ID="Park1996",
 ))
+
+pulford1996a = DB(WorkOk(
+    1996, "The book, A Quantitative Approach to Software Management The AMI Handbook",
+    display="pulford",
+    authors="Pulford, K., Kuntzmann-Combelles, A., Shirlaw, and S.",
+    place=FAKE,
+    placex="Addison-Wesley",
+    entrytype="article",
+    note="cited By 1",
+    ID="Pulford1996",
+))

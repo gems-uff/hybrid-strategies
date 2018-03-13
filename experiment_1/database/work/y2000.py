@@ -233,6 +233,20 @@ pfahl2000b = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+pitterman2000a = DB(WorkOk(
+    2000, "Telcordia Technologies: the journey to high maturity",
+    display="pitterman",
+    authors="Pitterman, Bill",
+    place=IEEES,
+    pp="89-96",
+    entrytype="article",
+    volume="17",
+    number="4",
+    doi="10.1109/52.854074",
+    note="cited By 60",
+    ID="Pitterman200089",
+))
+
 schmid2000a = DB(WorkUnrelated(
     2000, "PuLSE-BEAT --- A Decision Support Tool for Scoping Product Lines",
     display="schmid",

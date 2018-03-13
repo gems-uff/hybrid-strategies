@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+biró1999a = DB(WorkOk(
+    1999, "The Software Process in the Context of Business Goals and Performance",
+    display="biró",
+    authors="Biró, M. and Tully, C.",
+    pp="15-27",
+    place=FAKE,
+    placex="Better Software Practice for Business Benefit: Principles and Experience",
+    entrytype="article",
+    note="cited By 3",
+    ID="Biró199915",
+))
+
 caputo1999a = DB(WorkOk(
     1999, "Facilitating CMM culture change",
     display="caputo",
@@ -24,6 +36,18 @@ cignoni1999a = DB(WorkOk(
     volume="99",
     note="cited By 4",
     ID="Cignoni1999",
+))
+
+debou1999a = DB(WorkOk(
+    1999, "Alcatel's Experience with Process Improvement",
+    display="debou",
+    authors="Debou, C. and Courtel, D. and Lambert, H.-B. and Fuchs, N. and Haux, M.",
+    pp="281-301",
+    place=FAKE,
+    placex="Better Software Practice for Business Benefit: Principles and Experience",
+    entrytype="article",
+    note="cited By 7",
+    ID="Debou1999281",
 ))
 
 dekkers1999a = DB(WorkOk(
@@ -189,4 +213,16 @@ wigle1999a = DB(WorkOk(
     entrytype="article",
     note="cited By 1",
     ID="Wigle1999",
+))
+
+yamamura1999a = DB(WorkOk(
+    1999, "Software process satisfied employees",
+    display="yamamura",
+    authors="Yamamura, G.",
+    place=IEEES,
+    pp="83-85",
+    entrytype="article",
+    number="5",
+    note="cited By 21",
+    ID="Yamamura199983",
 ))

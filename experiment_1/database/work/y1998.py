@@ -33,6 +33,18 @@ ferguson1998a = DB(WorkOk(
     ID="Ferguson1998",
 ))
 
+hierholzer1998a = DB(WorkOk(
+    1998, "Applying QFD for software process improvement at SAP AG",
+    display="hierholzer",
+    authors="Hierholzer, A. and Herzwurm, G. and Schlang, H.",
+    pp="85-95",
+    place=FAKE,
+    placex="Proceedings of the World Innovation and Strategy Conference",
+    entrytype="article",
+    note="cited By 5",
+    ID="Hierholzer199885",
+))
+
 kontio1998a = DB(WorkUnrelated(
     1998, "A Software Process Engineering Framework",
     display="kontio",
@@ -50,6 +62,19 @@ kontio1998a = DB(WorkUnrelated(
     ID="Kontio199835",
     sciencedirect="1",
     placex="",
+))
+
+mccoy1998a = DB(WorkOk(
+    1998, "Interfacing three complementary technologies: Strategic planning, process modeling, and system dynamics",
+    display="mccoy",
+    authors="McCoy, W.L.",
+    pp="2620-2624",
+    place=FAKE,
+    placex="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics",
+    entrytype="conference",
+    volume="3",
+    note="cited By 2",
+    ID="McCoy19982620",
 ))
 
 paulk1998a = DB(WorkUnrelated(
@@ -134,6 +159,17 @@ veryard1998a = DB(WorkUnrelated(
     source="Scopus",
     ID="Veryard19981/1",
     scopus="1",
+))
+
+zahran1998a = DB(WorkOk(
+    1998, "Software Process Improvement: Practical Guidelines for Business Success",
+    display="zahran",
+    authors="Zahran, S.",
+    place=FAKE,
+    placex="Addison-Wesley",
+    entrytype="article",
+    note="cited By 211",
+    ID="Zahran1998",
 ))
 
 zuse1998a = DB(WorkOk(

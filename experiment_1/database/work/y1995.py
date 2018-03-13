@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+brodman1995a = DB(WorkOk(
+    1995, "Return on investment (ROI) from software process improvement as measured by US industry",
+    display="brodman",
+    authors="Brodman, J.G. and Johnson, D.L.",
+    place=SPIP,
+    pp="35-47",
+    entrytype="article",
+    volume="1",
+    number="1",
+    note="cited By 22",
+    ID="Brodman199535",
+))
+
 bukowski1995a = DB(WorkUnrelated(
     1995, "Object Associations: A Simple and Practical Approach to Virtual 3D Manipulation",
     display="bukowski",
@@ -101,6 +114,17 @@ paulk1995a = DB(WorkOk(
     entrytype="article",
     note="cited By 982",
     ID="Paulk1995",
+))
+
+peterson1995a = DB(WorkOk(
+    1995, "Transitioning the CMM into practice",
+    display="peterson",
+    authors="Peterson, B.",
+    place=FAKE,
+    placex="Proceedings of the European Conference on Software Process Improvement",
+    entrytype="article",
+    note="cited By 2",
+    ID="Peterson1995",
 ))
 
 rombach1995a = DB(WorkUnrelated(
