@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+humphrey1989a = DB(WorkOk(
+    1989, "Managing the software process",
+    display="humphrey",
+    authors="Humphrey, W.S.",
+    place=FAKE,
+    placex="Managing the Software Process",
+    entrytype="article",
+    note="cited By 1289",
+    ID="Humphrey1989",
+))
+
 marques1989a = DB(WorkUnrelated(
     1989, "Extending the Operating System to Support an Object-oriented Environment",
     display="marques",

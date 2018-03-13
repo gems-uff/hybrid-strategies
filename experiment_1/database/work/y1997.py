@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+caputo1997a = DB(WorkOk(
+    1997, "Level 3 culture is more than just the artifacts",
+    display="caputo",
+    authors="Caputo, K.",
+    place=FAKE,
+    placex="SEI SEPG Conference",
+    entrytype="article",
+    note="cited By 1",
+    ID="Caputo1997",
+))
+
 dahlberg1997a = DB(WorkUnrelated(
     1997, "Challenges to \IS\ quality",
     display="dahlberg",
@@ -20,6 +31,17 @@ dahlberg1997a = DB(WorkUnrelated(
     ID="Dahlberg1997809",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+florac1997a = DB(WorkOk(
+    1997, "Practical software measurement: Measuring for process management and improvement",
+    display="florac",
+    authors="Florac, A.W. and Park, R.E. and Carleton, A.D.",
+    place=FAKE,
+    placex="CMU/SEI-97-HB-003",
+    entrytype="article",
+    note="cited By 5",
+    ID="Florac1997",
 ))
 
 fowler1997a = DB(WorkUnrelated(

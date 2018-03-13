@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+associates1996a = DB(WorkOk(
+    1996, "Accelerating Change",
+    display="associates",
+    authors="Implementation Management Associates",
+    place=FAKE,
+    placex="training course",
+    entrytype="article",
+    note="cited By 1",
+    ID="IMA1996",
+))
+
 auer1996a = DB(WorkUnrelated(
     1996, "Improving R&amp;D processes by an \ISO\ 9001-based Quality Management System",
     display="auer",
@@ -22,6 +33,29 @@ auer1996a = DB(WorkUnrelated(
     placex="Journal of Systems Architecture",
 ))
 
+austin1996a = DB(WorkOk(
+    1996, "Measuring and Managing Performance in Organizations",
+    journal="Dorset House Publishing",
+    display="austin",
+    authors="Austin, R.D.",
+    place=FAKE,
+    placex="",
+    entrytype="article",
+    note="cited By 87",
+    ID="Austin1996",
+))
+
+dunaway1996a = DB(WorkOk(
+    1996, "CMM-Based appraisal for internal process improvement (CBA IPI): Method description",
+    display="dunaway",
+    authors="Dunaway, D. and Masters, S.",
+    place=FAKE,
+    placex="CMU/SEI-96-TR-007",
+    entrytype="article",
+    note="cited By 1",
+    ID="Dunaway1996",
+))
+
 hather1996a = DB(WorkUnrelated(
     1996, "A method for application management maturity assessment",
     display="hather",
@@ -39,4 +73,15 @@ hather1996a = DB(WorkUnrelated(
     ID="Hather1996701",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+park1996a = DB(WorkOk(
+    1996, "Goal-driven software measurement - A guidebook",
+    display="park",
+    authors="Park, R.",
+    place=FAKE,
+    placex="CMU/SEI-96-HB-002",
+    entrytype="article",
+    note="cited By 2",
+    ID="Park1996",
 ))

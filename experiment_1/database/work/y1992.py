@@ -17,3 +17,17 @@ haikala1992a = DB(WorkUnrelated(
     springer="1",
     placex="Software Engineering Education",
 ))
+
+kaplan1992a = DB(WorkOk(
+    1992, "The balanced scorecard--measures that drive performance.",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    pp="71-79",
+    place=FAKE,
+    placex="Harvard Business Review",
+    entrytype="article",
+    volume="70",
+    number="1",
+    note="cited By 5432",
+    ID="Kaplan199271",
+))

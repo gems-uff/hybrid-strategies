@@ -249,6 +249,20 @@ haug2001c = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+jones2001a = DB(WorkOk(
+    2001, "Software measurement programs and industry leadership",
+    display="jones",
+    authors="Jones, C.",
+    pp="4-7",
+    place=FAKE,
+    placex="Crosstalk",
+    entrytype="article",
+    volume="14",
+    number="2",
+    note="cited By 4",
+    ID="Jones20014",
+))
+
 kauppinen2001a = DB(WorkUnrelated(
     2001, "Starting Improvement of Requirements Engineering Processes: An Experience Report",
     display="kauppinen",
@@ -311,6 +325,18 @@ niessink2001a = DB(WorkUnrelated(
     ID="Niessink2001617",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+perkins2001a = DB(WorkOk(
+    2001, "The nine-step metrics program",
+    display="perkins",
+    authors="Perkins, T.K.",
+    pp="16-18",
+    place=FAKE,
+    placex="Crosstalk",
+    entrytype="article",
+    note="cited By 1",
+    ID="Perkins200116",
 ))
 
 pfahl2001a = DB(WorkUnrelated(
@@ -416,6 +442,17 @@ waina2001a = DB(WorkSnowball(
     doi="10.1109/DASC.2001.963369",
     issn="",
     ID="963369",
+))
+
+waina2001b = DB(WorkOk(
+    2001, "A process action team process that works",
+    display="waina b",
+    authors="Waina, R.",
+    place=FAKE,
+    placex="Air Force Software Technology Conference",
+    entrytype="article",
+    note="cited By 1",
+    ID="Waina2001",
 ))
 
 zettel2001a = DB(WorkUnrelated(

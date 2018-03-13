@@ -48,6 +48,17 @@ conradi2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+davis2000a = DB(WorkOk(
+    2000, "On the cart and the horse: Putting process improvement activities in the right order",
+    display="davis",
+    authors="Davis, D.",
+    place=FAKE,
+    placex="SEI SEPG Conference",
+    entrytype="article",
+    note="cited By 1",
+    ID="Davis2000",
+))
+
 elliott2000a = DB(WorkUnrelated(
     2000, "Design of a product-focused customer-oriented process",
     display="elliott",
@@ -269,6 +280,28 @@ solingen2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_7",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+team2000a = DB(WorkOk(
+    2000, "SCAMPI, V1.0 Standard CMMI assessment method for process improvement: Method description, version 1.0",
+    display="team",
+    authors="CMMI Product Development Team",
+    place=FAKE,
+    placex="CMU/SEI-2000-TR-009",
+    entrytype="article",
+    note="cited By 1",
+    ID="CMMI2000",
+))
+
+waina2000a = DB(WorkOk(
+    2000, "Purpose-driven process improvement",
+    display="waina",
+    authors="Waina, R. and Phifer, W.",
+    place=FAKE,
+    placex="SEI SEPG Conference",
+    entrytype="article",
+    note="cited By 1",
+    ID="Waina2000",
 ))
 
 warboys2000a = DB(WorkUnrelated(

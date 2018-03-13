@@ -21,6 +21,17 @@ debou1994a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+dedolph1994a = DB(WorkOk(
+    1994, "Software capability evaluation version 2.0 method description",
+    display="dedolph",
+    authors="Dedolph, F.M.",
+    place=FAKE,
+    placex="CMU/SEI-TR-94-6",
+    entrytype="article",
+    note="cited By 1",
+    ID="Dedolph1994",
+))
+
 knoll1994a = DB(WorkUnrelated(
     1994, "Information Technology Alignment or &Ldquo;Fit&Rdquo; in Highly Turbulent Environments: The Concept of Flexibility",
     display="knoll",
@@ -68,4 +79,15 @@ roche1994a = DB(WorkUnrelated(
     ID="Roche1994173",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+whitney1994a = DB(WorkOk(
+    1994, "Interim profile: Development and trial of a method to rapidly measure software engineering maturity status",
+    display="whitney",
+    authors="Whitney, R.",
+    place=FAKE,
+    placex="CMU/SEI-TR-94-4",
+    entrytype="article",
+    note="cited By 1",
+    ID="Whitney1994",
 ))

@@ -22,6 +22,17 @@ ebert1998a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+ferguson1998a = DB(WorkOk(
+    1998, "The guerrilla warfare approach to process improvement",
+    display="ferguson",
+    authors="Ferguson, R.",
+    place=FAKE,
+    placex="SEI SEPG Conference",
+    entrytype="article",
+    note="cited By 1",
+    ID="Ferguson1998",
+))
+
 kontio1998a = DB(WorkUnrelated(
     1998, "A Software Process Engineering Framework",
     display="kontio",
@@ -123,4 +134,16 @@ veryard1998a = DB(WorkUnrelated(
     source="Scopus",
     ID="Veryard19981/1",
     scopus="1",
+))
+
+zuse1998a = DB(WorkOk(
+    1998, "A Framework of Software Measurement",
+    journal="Walter de Gruyter",
+    display="zuse",
+    authors="Zuse, H.",
+    place=FAKE,
+    placex="",
+    entrytype="article",
+    note="cited By 204",
+    ID="Zuse1998",
 ))

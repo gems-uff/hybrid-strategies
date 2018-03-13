@@ -19,3 +19,14 @@ ram1990a = DB(WorkUnrelated(
     acm="1",
     placex="Commun. ACM",
 ))
+
+rifkin1990a = DB(WorkOk(
+    1990, "Software engineering process group guide",
+    display="rifkin",
+    authors="Rifkin, S. and Fowler, P.",
+    place=FAKE,
+    placex="CMU/SEI-90-TR-24",
+    entrytype="article",
+    note="cited By 1",
+    ID="Rifkin1990",
+))
