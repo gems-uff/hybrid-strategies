@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-anacleto2004a = DB(WorkOk(
+anacleto2004a = DB(WorkUnrelated(
     2004, "A method for process assessment in small software companies",
     display="anacleto",
     authors="Anacleto, A. and Von Wangenheim, C.G. and Salviano, C.F. and Savi, R.",
@@ -15,7 +15,7 @@ anacleto2004a = DB(WorkOk(
     ID="Anacleto200469",
 ))
 
-anacleto2004b = DB(WorkOk(
+anacleto2004b = DB(WorkUnrelated(
     2004, "Experiences gained from applying ISO/IEC 15504 to small software companies in Brazil",
     display="anacleto b",
     authors="Anacleto, A. and Von Wangenheim, C.G. and Salviano, C.F. and Savi, R.",
@@ -57,7 +57,7 @@ aversano2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-caffery2004a = DB(WorkOk(
+caffery2004a = DB(WorkUnrelated(
     2004, "Northern Ireland Software Industry Survey",
     display="caffery",
     authors="Mc Caffery, F. and Wilkie, F.G. and McFall, D. and Lester, N.",
@@ -181,7 +181,7 @@ holz2004a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
-iversen2004a = DB(WorkOk(
+iversen2004a = DB(WorkUnrelated(
     2004, "Managing risk in software process improvement: AN action research approach",
     display="iversen",
     authors="Iversen, J.H. and Mathiassen, L. and Nielsen, P.A.",
@@ -409,7 +409,7 @@ ruhe2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-sei2004a = DB(WorkOk(
+sei2004a = DB(WorkUnrelated(
     2004, "Process Maturity Profile: CMMI® v1.1, SCAMPI SM v1.1 Class A Appraisal Results",
     display="sei",
     authors="SEI",
@@ -420,7 +420,7 @@ sei2004a = DB(WorkOk(
     ID="SEI2004",
 ))
 
-wilkie2004a = DB(WorkOk(
+wilkie2004a = DB(WorkUnrelated(
     2004, "The centre for software process technologies: A model for process improvement in geographical regions with small software industries",
     display="wilkie",
     authors="Wilkie, F.G. and McFall, D. and McCaffery, F.",

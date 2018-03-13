@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-basili1984a = DB(WorkOk(
+basili1984a = DB(WorkUnrelated(
     1984, "A Methodology for Collecting Valid Software Engineering Data",
     display="basili",
     authors="Basili, V.R. and Weiss, D.M.",

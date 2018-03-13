@@ -412,7 +412,7 @@ mite2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-münch2013a = DB(WorkOk(
+münch2013a = DB(WorkUnrelated(
     2013, "Partanen J (2013a) The effects of gqm+strategies on organizational alignment",
     display="münch",
     authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M.",
@@ -423,7 +423,7 @@ münch2013a = DB(WorkOk(
     ID="Münch2013",
 ))
 
-münch2013b = DB(WorkOk(
+münch2013b = DB(WorkUnrelated(
     2013, "Experiences and insights from applying gqm+strategies in a systems product development organisation. In: Proceedings of the 39th EUROMICRO conference on software engineering and advanced applications (SEAA 2013)",
     display="münch b",
     authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M. and Partanen, J.",
@@ -468,7 +468,7 @@ pardo2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-petersen2013a = DB(WorkOk(
+petersen2013a = DB(WorkUnrelated(
     2013, "Worldviews, research methods, and their relationship to validity in empirical software engineering research",
     display="petersen",
     authors="Petersen, K. and Gencel, C.",

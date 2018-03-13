@@ -22,7 +22,7 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
-brydon2003a = DB(WorkOk(
+brydon2003a = DB(WorkUnrelated(
     2003, "Why action research?",
     display="brydon",
     authors="Brydon-Miller, M., Greenwood, D., Maguire, P.",
@@ -47,7 +47,7 @@ cechich2003a = DB(WorkUnrelated(
     placex="Component-Based Software Quality: Methods and Techniques",
 ))
 
-chrissis2003a = DB(WorkOk(
+chrissis2003a = DB(WorkUnrelated(
     2003, "CMMI: Guidelines for Process Integration and Product Improvement",
     display="chrissis",
     authors="Chrissis, M.B. and Konrad, M. and Shrum, S.",
@@ -58,7 +58,7 @@ chrissis2003a = DB(WorkOk(
     ID="Chrissis2003",
 ))
 
-colombo2003a = DB(WorkOk(
+colombo2003a = DB(WorkUnrelated(
     2003, "Reflexivity and narratives in action research: a discursive approach. In: Forum qualitative sozialforschung/forum: qualitative social research",
     display="colombo",
     authors="Colombo, M.",
@@ -84,7 +84,7 @@ conradi2003a = DB(WorkUnrelated(
     placex="Software Process Technology",
 ))
 
-cspt2003a = DB(WorkOk(
+cspt2003a = DB(WorkUnrelated(
     2003, "CSPT",
     display="cspt",
     authors="CSPT",
@@ -154,7 +154,7 @@ henninger2003a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
-isoiec2003a = DB(WorkOk(
+isoiec2003a = DB(WorkUnrelated(
     2003, "Information Technology - Process Assessment, - Part 1 : Concepts and Vocabulary",
     display="isoiec",
     authors="ISOIEC",
@@ -233,7 +233,7 @@ maxwell2003a = DB(WorkUnrelated(
     placex="",
 ))
 
-mcfall2003a = DB(WorkOk(
+mcfall2003a = DB(WorkUnrelated(
     2003, "Software processes and process improvement in Northern Ireland",
     display="mcfall",
     authors="McFall, D. and Wilkie, F.G. and McCaffery, F. and Lester, N.G. and Sterritt, R.",
@@ -244,7 +244,7 @@ mcfall2003a = DB(WorkOk(
     ID="McFall2003",
 ))
 
-niazi2003a = DB(WorkOk(
+niazi2003a = DB(WorkUnrelated(
     2003, "A model for the implementation of software process improvement: A pilot study",
     display="niazi",
     authors="Niazi, M. and Wilson, D. and Zowghi, D.",
@@ -274,7 +274,7 @@ oliver2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
-poppendieck2003a = DB(WorkOk(
+poppendieck2003a = DB(WorkUnrelated(
     2003, "Lean software development: an agile toolkit",
     display="poppendieck",
     authors="Poppendieck, M. and Poppendieck, T.",
@@ -285,7 +285,7 @@ poppendieck2003a = DB(WorkOk(
     ID="Poppendieck2003",
 ))
 
-scholtes2003a = DB(WorkOk(
+scholtes2003a = DB(WorkUnrelated(
     2003, "Streibel BJ",
     display="scholtes",
     authors="Scholtes, P.R. and Joiner, B.L.",
@@ -345,7 +345,7 @@ yap2003a = DB(WorkUnrelated(
     placex="Computers in Industry",
 ))
 
-yin2003a = DB(WorkOk(
+yin2003a = DB(WorkUnrelated(
     2003, "The book",
     display="yin",
     authors="Yin, R.",

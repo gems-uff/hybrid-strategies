@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-ali2012a = DB(WorkOk(
+ali2012a = DB(WorkUnrelated(
     2012, "Testing highly complex system of systems: An industrial case study",
     display="ali",
     authors="Ali, N.B. and Petersen, K. and Mäntylä, M.V.",
@@ -172,7 +172,7 @@ domínguezmayo2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-domínguezmayo2012ab = DB(WorkUnrelated(
+domínguezmayo2012b = DB(WorkUnrelated(
     2012, "A quality management based on the Quality Model life cycle",
     display="domínguezmayo",
     authors="F.J. Domínguez-Mayo and M.J. Escalona and M. Mejías and M. Ross and G. Staples",
@@ -460,7 +460,7 @@ robles2012a = DB(WorkUnrelated(
     placex="Open Source Systems: Long-Term Sustainability",
 ))
 
-runeson2012a = DB(WorkOk(
+runeson2012a = DB(WorkUnrelated(
     2012, "Case Study Research in Software Engineering: Guidelines and Examples",
     display="runeson",
     authors="Runeson, P. and Höst, M. and Rainer, A. and Regnell, B.",

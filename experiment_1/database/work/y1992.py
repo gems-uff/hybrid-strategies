@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-cox1992a = DB(WorkOk(
+cox1992a = DB(WorkUnrelated(
     1992, "Keys to success in quality function deployment",
     display="cox",
     authors="Cox, C.A.",
@@ -32,8 +32,8 @@ haikala1992a = DB(WorkUnrelated(
     placex="Software Engineering Education",
 ))
 
-kaplan1992a = DB(WorkOk(
-    1992, "The balanced scorecard--measures that drive performance.",
+kaplan1992a = DB(WorkUnrelated(
+    1992, "The balanced scorecard--measures that drive performance",
     display="kaplan",
     authors="Kaplan, R.S. and Norton, D.P.",
     pp="71-79",

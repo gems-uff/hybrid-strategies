@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-humphrey1989a = DB(WorkOk(
+humphrey1989a = DB(WorkUnrelated(
     1989, "Managing the software process",
     display="humphrey",
     authors="Humphrey, W.S.",
@@ -14,7 +14,7 @@ humphrey1989a = DB(WorkOk(
     ID="Humphrey1989",
 ))
 
-humphrey1989b = DB(WorkOk(
+humphrey1989b = DB(WorkUnrelated(
     1989, "The book",
     display="humphrey b",
     authors="Humphrey, W.S.",

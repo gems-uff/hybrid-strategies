@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-akao1990a = DB(WorkOk(
+akao1990a = DB(WorkUnrelated(
     1990, "The book, QFD: Integrating customer requirements into product design",
     display="akao",
     authors="Akao, Y.",
@@ -31,7 +31,7 @@ ram1990a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
-rifkin1990a = DB(WorkOk(
+rifkin1990a = DB(WorkUnrelated(
     1990, "Software engineering process group guide",
     display="rifkin",
     authors="Rifkin, S. and Fowler, P.",

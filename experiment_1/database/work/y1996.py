@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-associates1996a = DB(WorkOk(
+associates1996a = DB(WorkUnrelated(
     1996, "Accelerating Change",
     display="associates",
     authors="Implementation Management Associates",
@@ -33,7 +33,7 @@ auer1996a = DB(WorkUnrelated(
     placex="Journal of Systems Architecture",
 ))
 
-austin1996a = DB(WorkOk(
+austin1996a = DB(WorkUnrelated(
     1996, "Measuring and Managing Performance in Organizations",
     journal="Dorset House Publishing",
     display="austin",
@@ -45,7 +45,7 @@ austin1996a = DB(WorkOk(
     ID="Austin1996",
 ))
 
-briand1996a = DB(WorkOk(
+briand1996a = DB(WorkUnrelated(
     1996, "Practical guidelines for measurement-based process improvement",
     display="briand",
     authors="Briand, L.C. and Differding, C.M. and Rombach, H.D.",
@@ -58,7 +58,7 @@ briand1996a = DB(WorkOk(
     ID="Briand1996253",
 ))
 
-dunaway1996a = DB(WorkOk(
+dunaway1996a = DB(WorkUnrelated(
     1996, "CMM-Based appraisal for internal process improvement (CBA IPI): Method description",
     display="dunaway",
     authors="Dunaway, D. and Masters, S.",
@@ -88,7 +88,7 @@ hather1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-kaplan1996a = DB(WorkOk(
+kaplan1996a = DB(WorkUnrelated(
     1996, "The balanced scorecard: translating strategy into action",
     display="kaplan",
     authors="Kaplan, R. and Kaplan, R.S. and Norton, D.P.",
@@ -99,7 +99,7 @@ kaplan1996a = DB(WorkOk(
     ID="Kaplan1996",
 ))
 
-mcfeeley1996a = DB(WorkOk(
+mcfeeley1996a = DB(WorkUnrelated(
     1996, "IDEAL: A User's Guide for Software Process Improvement",
     display="mcfeeley",
     authors="McFeeley, B.",
@@ -110,7 +110,7 @@ mcfeeley1996a = DB(WorkOk(
     ID="McFeeley1996",
 ))
 
-park1996a = DB(WorkOk(
+park1996a = DB(WorkUnrelated(
     1996, "Goal-driven software measurement - A guidebook",
     display="park",
     authors="Park, R.",
@@ -121,7 +121,7 @@ park1996a = DB(WorkOk(
     ID="Park1996",
 ))
 
-park1996b = DB(WorkOk(
+park1996b = DB(WorkUnrelated(
     1996, "Goal-driven software measurement?a guidebook (cmu/sei-96-hb-002",
     display="park b",
     authors="Park, R.E. and Goethert, W.B. and Florac, W.A.",
@@ -132,7 +132,7 @@ park1996b = DB(WorkOk(
     ID="Park1996",
 ))
 
-pulford1996a = DB(WorkOk(
+pulford1996a = DB(WorkUnrelated(
     1996, "The book, A Quantitative Approach to Software Management The AMI Handbook",
     display="pulford",
     authors="Pulford, K., Kuntzmann-Combelles, A., Shirlaw, and S.",

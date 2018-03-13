@@ -52,7 +52,7 @@ baccarelli2007a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Workshop on Mobility Management and Wireless Access",
 ))
 
-basili2007a = DB(WorkOk(
+basili2007a = DB(WorkUnrelated(
     2007, "Bridging the gap between business strategy and software development",
     display="basili",
     authors="Basili, V.R. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, H.D. and Seaman, C.B. and Trendowicz, A.",
@@ -116,7 +116,7 @@ karagiannis2007a = DB(WorkUnrelated(
     placex="Proceedings of the Ninth International Conference on Electronic Commerce",
 ))
 
-keele2007a = DB(WorkOk(
+keele2007a = DB(WorkUnrelated(
     2007, "Guidelines for performing systematic literature reviews in software engineering",
     display="keele",
     authors="Keele, S.",
@@ -127,7 +127,7 @@ keele2007a = DB(WorkOk(
     ID="Keele2007",
 ))
 
-linden2007a = DB(WorkOk(
+linden2007a = DB(WorkUnrelated(
     2007, "Software product lines in action",
     display="linden",
     authors="van der Linden, F.J. and Schmid, K. and Rommes, E.",
@@ -158,7 +158,7 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
-montoni2007a = DB(WorkOk(
+montoni2007a = DB(WorkUnrelated(
     2007, "MPS model and TABA workstation: Implementing software process improvement initiatives in small settings",
     display="montoni",
     authors="Montoni, M. and Santos, G. and Rocha, A.R. and Weber, K.C. and De Araújo, E.E.R.",
@@ -221,7 +221,7 @@ steen2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-team2007a = DB(WorkOk(
+team2007a = DB(WorkUnrelated(
     2007, "Appraisal requirements for CMMI®, Version 1.1",
     display="team",
     authors="CMMI Product Team",

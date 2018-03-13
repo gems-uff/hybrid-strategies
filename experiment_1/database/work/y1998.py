@@ -22,7 +22,7 @@ ebert1998a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-ferguson1998a = DB(WorkOk(
+ferguson1998a = DB(WorkUnrelated(
     1998, "The guerrilla warfare approach to process improvement",
     display="ferguson",
     authors="Ferguson, R.",
@@ -33,7 +33,7 @@ ferguson1998a = DB(WorkOk(
     ID="Ferguson1998",
 ))
 
-hierholzer1998a = DB(WorkOk(
+hierholzer1998a = DB(WorkUnrelated(
     1998, "Applying QFD for software process improvement at SAP AG",
     display="hierholzer",
     authors="Hierholzer, A. and Herzwurm, G. and Schlang, H.",
@@ -64,7 +64,7 @@ kontio1998a = DB(WorkUnrelated(
     placex="",
 ))
 
-latum1998a = DB(WorkOk(
+latum1998a = DB(WorkUnrelated(
     1998, "Adopting GQM - Based measurement in an industrial environment",
     display="latum",
     authors="Van Latum, F. and Van Solingen, R. and Oivo, M. and Hoisl, B. and Rombach, D. and Ruhe, G.",
@@ -78,7 +78,7 @@ latum1998a = DB(WorkOk(
     ID="VanLatum199878",
 ))
 
-mccoy1998a = DB(WorkOk(
+mccoy1998a = DB(WorkUnrelated(
     1998, "Interfacing three complementary technologies: Strategic planning, process modeling, and system dynamics",
     display="mccoy",
     authors="McCoy, W.L.",
@@ -175,7 +175,7 @@ veryard1998a = DB(WorkUnrelated(
     scopus="1",
 ))
 
-zahran1998a = DB(WorkOk(
+zahran1998a = DB(WorkUnrelated(
     1998, "Software Process Improvement: Practical Guidelines for Business Success",
     display="zahran",
     authors="Zahran, S.",
@@ -186,7 +186,7 @@ zahran1998a = DB(WorkOk(
     ID="Zahran1998",
 ))
 
-zuse1998a = DB(WorkOk(
+zuse1998a = DB(WorkUnrelated(
     1998, "A Framework of Software Measurement",
     journal="Walter de Gruyter",
     display="zuse",

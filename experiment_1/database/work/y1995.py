@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-brodman1995a = DB(WorkOk(
+brodman1995a = DB(WorkUnrelated(
     1995, "Return on investment (ROI) from software process improvement as measured by US industry",
     display="brodman",
     authors="Brodman, J.G. and Johnson, D.L.",
@@ -105,7 +105,7 @@ obbink1995a = DB(WorkUnrelated(
     placex="Software Process Technology",
 ))
 
-paulk1995a = DB(WorkOk(
+paulk1995a = DB(WorkUnrelated(
     1995, "The capability maturity model: Guidelines for improving the software process",
     display="paulk",
     authors="Paulk, M.C. and Weber, C.V. and Curtis, B. and Chrissis, M.B.",
@@ -116,7 +116,7 @@ paulk1995a = DB(WorkOk(
     ID="Paulk1995",
 ))
 
-peterson1995a = DB(WorkOk(
+peterson1995a = DB(WorkUnrelated(
     1995, "Transitioning the CMM into practice",
     display="peterson",
     authors="Peterson, B.",

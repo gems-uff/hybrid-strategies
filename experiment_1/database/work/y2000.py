@@ -48,7 +48,7 @@ conradi2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-davis2000a = DB(WorkOk(
+davis2000a = DB(WorkUnrelated(
     2000, "On the cart and the horse: Putting process improvement activities in the right order",
     display="davis",
     authors="Davis, D.",
@@ -179,16 +179,20 @@ kautz2000a = DB(WorkSnowball(
     display="kautz",
     authors="Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim",
     place=ICSE,
-    pp="626-633",
+    pp="626--633",
     entrytype="inproceedings",
     note="cited By 40",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033725301&partnerID=40&md5=8c6f800f5e9a4ca6f4d7d98c95ecdbbb",
     document_type="Conference Paper",
     source="Scopus",
     ID="Kautz2000626",
+    scholar="http://scholar.google.com/scholar?cites=16864283779573478547&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="16864283779573478547",
+    organization="ACM",
+    scholar_ok=True,
 ))
 
-makinen2000a = DB(WorkOk(
+makinen2000a = DB(WorkUnrelated(
     2000, "A Detailed Process Assessment Method for SMEs",
     display="makinen",
     authors="Makinen, T. and Varkoi, T. and Lepasaar, M.",
@@ -199,7 +203,7 @@ makinen2000a = DB(WorkOk(
     ID="Makinen2000",
 ))
 
-mendonça2000a = DB(WorkOk(
+mendonça2000a = DB(WorkUnrelated(
     2000, "Validation of an approach for improving existing measurement frameworks",
     display="mendonça",
     authors="Mendonça, M.G. and Basili, V.R.",
@@ -247,7 +251,7 @@ pfahl2000b = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-pitterman2000a = DB(WorkOk(
+pitterman2000a = DB(WorkUnrelated(
     2000, "Telcordia Technologies: the journey to high maturity",
     display="pitterman",
     authors="Pitterman, Bill",
@@ -321,7 +325,7 @@ solingen2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-team2000a = DB(WorkOk(
+team2000a = DB(WorkUnrelated(
     2000, "SCAMPI, V1.0 Standard CMMI assessment method for process improvement: Method description, version 1.0",
     display="team",
     authors="CMMI Product Development Team",
@@ -332,7 +336,7 @@ team2000a = DB(WorkOk(
     ID="CMMI2000",
 ))
 
-waina2000a = DB(WorkOk(
+waina2000a = DB(WorkUnrelated(
     2000, "Purpose-driven process improvement",
     display="waina",
     authors="Waina, R. and Phifer, W.",

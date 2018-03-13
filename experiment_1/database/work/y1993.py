@@ -56,8 +56,8 @@ lott1993a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-paulk1993a = DB(WorkOk(
-    1993, "Capability Maturity Model for Software, Version 1.1.",
+paulk1993a = DB(WorkUnrelated(
+    1993, "Capability Maturity Model for Software, Version 1.1",
     display="paulk",
     authors="Paulk, M, Curtis, B, Chrissis, M, Weber, C. V,",
     place=EBSE,

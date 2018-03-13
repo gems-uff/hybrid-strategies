@@ -32,7 +32,7 @@ bleistein2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
-boyd2005a = DB(WorkOk(
+boyd2005a = DB(WorkUnrelated(
     2005, "The evolution of goal-based information modelling: literature review. In: Aslib proceedings, vol 57. Emerald Group Publishing Limited",
     display="boyd",
     authors="Boyd, A.J.",
@@ -43,7 +43,7 @@ boyd2005a = DB(WorkOk(
     ID="Boyd2005",
 ))
 
-bühne2005a = DB(WorkOk(
+bühne2005a = DB(WorkUnrelated(
     2005, "Modelling requirements variability across product lines",
     display="bühne",
     authors="Bühne, S. and Lauenroth, K. and Pohl, K.",
@@ -69,7 +69,7 @@ caetano2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
-caffery2005a = DB(WorkOk(
+caffery2005a = DB(WorkUnrelated(
     2005, "Improving express process appraisal method",
     display="caffery",
     authors="Mc Caffery, F. and McFall, D. and Wilkie, F.G.",
@@ -113,7 +113,7 @@ coallier2005a = DB(WorkUnrelated(
     placex="Science of Computer Programming",
 ))
 
-dyba2005a = DB(WorkOk(
+dyba2005a = DB(WorkUnrelated(
     2005, "An empirical investigation of the key factors for success in software process improvement",
     display="dyba",
     authors="Dyba, T.",
@@ -158,7 +158,7 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
-institute2005a = DB(WorkOk(
+institute2005a = DB(WorkUnrelated(
     2005, "FAME (Fraunhofer Assessment MEthod) - A Business-focused Method for Process Assessment",
     display="institute",
     authors="Fraunhofer Institute",
@@ -169,7 +169,7 @@ institute2005a = DB(WorkOk(
     ID="Fame2005",
 ))
 
-liu2005a = DB(WorkOk(
+liu2005a = DB(WorkUnrelated(
     2005, "QFD Application in Software Process Management and Improvement Based on CMM",
     display="liu",
     authors="Liu, X. and Sun, Y. and Kane, G. and Kyoya, Y. and Noguchi, K.",
@@ -199,7 +199,7 @@ procaccino2005a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-sei2005a = DB(WorkOk(
+sei2005a = DB(WorkUnrelated(
     2005, "The IDEALSM Model",
     display="sei",
     authors="SEI",
@@ -295,7 +295,7 @@ wang2005a = DB(WorkSnowball(
     ID="Wang2005183",
 ))
 
-weber2005a = DB(WorkOk(
+weber2005a = DB(WorkUnrelated(
     2005, "Brazilian software process reference model and assessment method",
     display="weber",
     authors="Weber, K.C. and Araújo, E.E.R. and Da Rocha, A.R.C. and Machado, C.A.F. and Scalet, D. and Salviano, C.F.",
@@ -309,7 +309,7 @@ weber2005a = DB(WorkOk(
     ID="Weber2005402",
 ))
 
-wilkie2005a = DB(WorkOk(
+wilkie2005a = DB(WorkUnrelated(
     2005, "An Evaluation of CMMI® Process Areas for Small to Medium Sized Software Development Organisations Software Process Improvement and Practice",
     display="wilkie",
     authors="Wilkie, F.G. and McFall, D. and Mc Caffery, F.",
@@ -322,7 +322,7 @@ wilkie2005a = DB(WorkOk(
     ID="Wilkie2005",
 ))
 
-zaijun2005a = DB(WorkOk(
+zaijun2005a = DB(WorkUnrelated(
     2005, "Value-Centric Process Improvement for Small Organizations by Using QFD and CMMI",
     display="zaijun",
     authors="Zaijun, H.",

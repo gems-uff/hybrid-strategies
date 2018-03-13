@@ -321,7 +321,7 @@ lee2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
-mandic2010a = DB(WorkOk(
+mandic2010a = DB(WorkUnrelated(
     2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
     display="mandic",
     authors="Mandic, V. and Basili, V.",
@@ -366,7 +366,7 @@ mandić2010b = DB(WorkSnowball(
     pp="2010",
 ))
 
-mandić2010c = DB(WorkOk(
+mandić2010c = DB(WorkUnrelated(
     2010, "Early empirical assessment of the practical value of GQM +strategies",
     display="mandić c",
     authors="Mandić, V. and Harjumaa, L. and Markkula, J. and Oivo, M.",
@@ -380,7 +380,7 @@ mandić2010c = DB(WorkOk(
     ID="Mandi?201014",
 ))
 
-mandić2010d = DB(WorkOk(
+mandić2010d = DB(WorkUnrelated(
     2010, "SAS: A tool for the GQM+strategies grid derivation process",
     display="mandić d",
     authors="Mandić, V. and Oivo, M.",
@@ -466,7 +466,7 @@ nikula2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-petersen2010a = DB(WorkOk(
+petersen2010a = DB(WorkUnrelated(
     2010, "The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study",
     display="petersen",
     authors="Petersen, K. and Wohlin, C.",
@@ -480,7 +480,7 @@ petersen2010a = DB(WorkOk(
     ID="Petersen2010654",
 ))
 
-petersen2010b = DB(WorkOk(
+petersen2010b = DB(WorkUnrelated(
     2010, "Software process improvement through the Lean Measurement (SPI-LEAM) method",
     display="petersen b",
     authors="Petersen, K. and Wohlin, C.",
@@ -549,7 +549,7 @@ romero2010a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
-sarcia2010a = DB(WorkOk(
+sarcia2010a = DB(WorkUnrelated(
     2010, "Is GQM+strategies really applicable as is to non-software development domains?",
     display="sarcia",
     authors="Sarcia', S.A.",

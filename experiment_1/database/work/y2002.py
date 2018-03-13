@@ -63,7 +63,7 @@ birk2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-boyd2002a = DB(WorkOk(
+boyd2002a = DB(WorkUnrelated(
     2002, "The goals, questions, indicators, measures (gqim) approach to the measurement of customer satisfaction with e-commerce web sites. In: Aslib proceedings, vol 54. MCB UP Ltd",
     display="boyd",
     authors="Boyd, A.",
@@ -242,7 +242,7 @@ helokunnas2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-isoiec2002a = DB(WorkOk(
+isoiec2002a = DB(WorkUnrelated(
     2002, "Iso/iec 15939 international standard 1st edition 2002: software engineering - software measurement process",
     display="isoiec",
     authors="ISOIEC",
@@ -315,7 +315,7 @@ lee2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-mcgarry2002a = DB(WorkOk(
+mcgarry2002a = DB(WorkUnrelated(
     2002, "Practical software measurement: objective information for decision makers",
     display="mcgarry",
     authors="McGarry, J. and Card, D. and Jones, C. and Layman, B. and Clark, E. and Dean, J. and Hall, F.",
@@ -358,20 +358,6 @@ neu2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-oregam2002a = DB(WorkUnrelated(
-    2002, "Introduction to Software Quality",
-    display="oregan",
-    authors="O'Regan, Gerard",
-    place=FAKE,
-    pp="1--48",
-    entrytype="inbook",
-    publisher="Springer New York",
-    address="New York, NY",
-    ID="ORegan2002",
-    springer="1",
-    placex="A Practical Approach to Software Quality",
-))
-
 oregan2002a = DB(WorkUnrelated(
     2002, "The Capability Maturity Model",
     display="oregan",
@@ -386,7 +372,21 @@ oregan2002a = DB(WorkUnrelated(
     placex="A Practical Approach to Software Quality",
 ))
 
-oregan2002aac = DB(WorkUnrelated(
+oregan2002b = DB(WorkUnrelated(
+    2002, "Introduction to Software Quality",
+    display="oregan",
+    authors="O'Regan, Gerard",
+    place=FAKE,
+    pp="1--48",
+    entrytype="inbook",
+    publisher="Springer New York",
+    address="New York, NY",
+    ID="ORegan2002",
+    springer="1",
+    placex="A Practical Approach to Software Quality",
+))
+
+oregan2002c = DB(WorkUnrelated(
     2002, "The SPICE (15504) Standard",
     display="oregan",
     authors="O'Regan, Gerard",
@@ -400,7 +400,7 @@ oregan2002aac = DB(WorkUnrelated(
     placex="A Practical Approach to Software Quality",
 ))
 
-oregan2002ab = DB(WorkUnrelated(
+oregan2002d = DB(WorkUnrelated(
     2002, "Metrics and Problem Solving",
     display="oregan",
     authors="O'Regan, Gerard",
@@ -543,7 +543,7 @@ visconti2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-wilson2002a = DB(WorkOk(
+wilson2002a = DB(WorkUnrelated(
     2002, "Factors for success in customer relationship management (CRM) systems",
     display="wilson",
     authors="Wilson, H. and Daniel, E. and McDonald, M.",

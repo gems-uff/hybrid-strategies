@@ -44,7 +44,7 @@ asato2011a = DB(WorkUnrelated(
     authors="Asato, R. and Spinola, M.M. and Costa, I. and De Farias Silva, W.H.",
     pp="314-328",
     place=FAKE,
-    place1="Producao",
+    placex="Producao",
     entrytype="article",
     volume="21",
     number="2",
@@ -155,7 +155,7 @@ dawson2011a = DB(WorkUnrelated(
     placex="ACM Trans. Manage. Inf. Syst.",
 ))
 
-dieste2011a = DB(WorkOk(
+dieste2011a = DB(WorkUnrelated(
     2011, "Systematic review and aggregation of empirical studies on elicitation techniques",
     display="dieste",
     authors="Dieste, O. and Juristo, N.",
@@ -185,7 +185,7 @@ esfahani2011a = DB(WorkSnowball(
     ID="Esfahani2011169",
 ))
 
-finke2011a = DB(WorkOk(
+finke2011a = DB(WorkUnrelated(
     2011, "Implementing cisco unified communications manager, part 1 (CIPT1) foundation learning guide:(CCNP Voice CIPT1 642-447)",
     display="finke",
     authors="Finke, J.S. and Hartmann, D.",
@@ -280,7 +280,7 @@ iden2011a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-ivarsson2011a = DB(WorkOk(
+ivarsson2011a = DB(WorkUnrelated(
     2011, "A method for evaluating rigor and industrial relevance of technology evaluations",
     display="ivarsson",
     authors="Ivarsson, M. and Gorschek, T.",
@@ -441,7 +441,7 @@ lane2011a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-mujtaba2011a = DB(WorkOk(
+mujtaba2011a = DB(WorkUnrelated(
     2011, "Analyzing strategy and processes for product customization in large-scale industrial settings",
     display="mujtaba",
     authors="Mujtaba, S. and Feldt, R. and Petersen, K.",
@@ -469,7 +469,7 @@ nieters2011a = DB(WorkUnrelated(
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
-petersen2011a = DB(WorkOk(
+petersen2011a = DB(WorkUnrelated(
     2011, "Measuring the flow in lean software development",
     display="petersen",
     authors="Petersen, K. and Wohlin, C.",
@@ -575,7 +575,7 @@ suomalainen2011a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-tahir2011a = DB(WorkOk(
+tahir2011a = DB(WorkUnrelated(
     2011, "A systematic review on software measurement programs. In: Proceedings of frontiers of information technology (FIT 2011). IEEE",
     display="tahir",
     authors="Tahir, T. and Jafar, A.",
@@ -601,7 +601,7 @@ tietz2011a = DB(WorkUnrelated(
     placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
 ))
 
-trendowicz2011a = DB(WorkOk(
+trendowicz2011a = DB(WorkUnrelated(
     2011, "Aligning software projects with business objectives",
     display="trendowicz",
     authors="Trendowicz, A. and Heidrich, J. and Shintani, K.",
@@ -634,7 +634,7 @@ valdés2011a = DB(WorkUnrelated(
     placex="Government Information Quarterly",
 ))
 
-yin2011a = DB(WorkOk(
+yin2011a = DB(WorkUnrelated(
     2011, "Applications of case study research",
     display="yin",
     authors="Yin, R.K.",

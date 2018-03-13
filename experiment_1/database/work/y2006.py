@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-ISOIEC2006a = DB(WorkOk(
+ISOIEC2006a = DB(WorkUnrelated(
     2006, "Information technology - Process assessment - Part 3: Guidance on performing an assessment",
     display="ISOIEC",
     authors="ISOIEC",
@@ -47,7 +47,7 @@ andersen2006a = DB(WorkUnrelated(
     placex="Government Information Quarterly",
 ))
 
-ardimento2006a = DB(WorkOk(
+ardimento2006a = DB(WorkUnrelated(
     2006, "Assessing multiview framework (MF) comprehensibility and efficiency: A replicated experiment",
     display="ardimento",
     authors="Ardimento, P. and Baldassarre, M.T. and Caivano, D. and Visaggio, G.",
@@ -91,7 +91,7 @@ damas2006a = DB(WorkUnrelated(
     placex="Proceedings of the 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
 ))
 
-damm2006a = DB(WorkOk(
+damm2006a = DB(WorkUnrelated(
     2006, "Faults-slip-through - A concept for measuring the efficiency of the test process",
     display="damm",
     authors="Damm, L.-O. and Lundberg, L. and Wohlin, C.",
@@ -105,7 +105,7 @@ damm2006a = DB(WorkOk(
     ID="Damm200647",
 ))
 
-davis2006a = DB(WorkOk(
+davis2006a = DB(WorkUnrelated(
     2006, "Effectiveness of requirements elicitation techniques: empirical results derived from a systematic review. In: Proceedings of the 14th IEEE international conference on requirements engineering (RE 2006)",
     display="davis",
     authors="Davis, A.M. and Tubío, Ó.D. and Hickey, A.M. and Juzgado, N.J. and Moreno, A.M.",
@@ -168,7 +168,7 @@ gorschek2006a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
-guest2006a = DB(WorkOk(
+guest2006a = DB(WorkUnrelated(
     2006, "How many interviews are enough? an experiment with data saturation and variability",
     display="guest",
     authors="Guest, G., Bunce, A., Johnson, L.",
@@ -193,7 +193,7 @@ horkoff2006a = DB(WorkUnrelated(
     placex="Proceedings of the 2006 International Conference on Privacy, Security and Trust: Bridge the Gap Between PST Technologies and Business Services",
 ))
 
-iso2006a = DB(WorkOk(
+iso2006a = DB(WorkUnrelated(
     2006, "Information Technology - Process Assessment - Part 5: An exemplar Process Assessment Model",
     display="iso",
     authors="ISO/IEC 15504, ISO/IECJTC1/SC7",

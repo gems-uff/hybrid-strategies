@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-caputo1997a = DB(WorkOk(
+caputo1997a = DB(WorkUnrelated(
     1997, "Level 3 culture is more than just the artifacts",
     display="caputo",
     authors="Caputo, K.",
@@ -33,7 +33,7 @@ dahlberg1997a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-florac1997a = DB(WorkOk(
+florac1997a = DB(WorkUnrelated(
     1997, "Practical software measurement: Measuring for process management and improvement",
     display="florac",
     authors="Florac, A.W. and Park, R.E. and Carleton, A.D.",
@@ -62,7 +62,7 @@ fowler1997a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
-grady1997a = DB(WorkOk(
+grady1997a = DB(WorkUnrelated(
     1997, "The book, Successful Software Process Improvement Upper Saddle River",
     display="grady",
     authors="Grady, R.B.",
@@ -92,7 +92,7 @@ king1997a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-offen1997a = DB(WorkOk(
+offen1997a = DB(WorkUnrelated(
     1997, "Establishing software measurement programs",
     display="offen",
     authors="Offen, R.J. and Jeffery, R.",
@@ -107,12 +107,12 @@ offen1997a = DB(WorkOk(
 ))
 
 reiblein1997a = DB(WorkSnowball(
-    1997, "SPI: 'I can't get no satisfaction' - Directing process improvement to meet business needs",
+    1997, "SPI:I can't get no satisfaction-directing process improvement to meet business needs",
     display="reiblein",
-    authors="Reiblein, S. and Symons, A.",
+    authors="Reiblein, Susan and Symons, Andy",
     place=SQJ,
-    pp="89-98",
-    entrytype="inproceedings",
+    pp="89--98",
+    entrytype="article",
     volume="6",
     number="2",
     note="cited By 3",
@@ -121,4 +121,8 @@ reiblein1997a = DB(WorkSnowball(
     source="Scopus",
     ID="Reiblein199789",
     scopus="1",
+    scholar="http://scholar.google.com/scholar?cites=2106803465759819075&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Springer",
+    cluster_id="2106803465759819075",
+    scholar_ok=True,
 ))

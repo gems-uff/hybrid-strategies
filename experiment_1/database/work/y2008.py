@@ -299,7 +299,7 @@ hornbæk2008a = DB(WorkUnrelated(
     placex="Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
 ))
 
-j2008a = DB(WorkOk(
+j2008a = DB(WorkUnrelated(
     2008, "Aligning business strategies with software measurement - exercise handouts",
     display="j",
     authors="Münch J, Heidrich J",

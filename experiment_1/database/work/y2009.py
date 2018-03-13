@@ -95,7 +95,7 @@ galinac2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-graham2009a = DB(WorkOk(
+graham2009a = DB(WorkUnrelated(
     2009, "Foundations of Software Testing,journal=Course Technology Cengage Learning: Hampshire",
     display="graham",
     authors="Graham, D. and Van Veenendaal, E. and Evans, I. and Black, R.",
@@ -236,7 +236,7 @@ petersen2009a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-petersen2009b = DB(WorkOk(
+petersen2009b = DB(WorkUnrelated(
     2009, "Context in industrial software engineering research",
     display="petersen b",
     authors="Petersen, K. and Wohlin, C.",
@@ -281,7 +281,7 @@ rosselet2009a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Knowledge Capture",
 ))
 
-runeson2009a = DB(WorkOk(
+runeson2009a = DB(WorkUnrelated(
     2009, "Guidelines for conducting and reporting case study research in software engineering",
     display="runeson",
     authors="Runeson, P. and Höst, M.",

@@ -249,7 +249,7 @@ haug2001c = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
-jones2001a = DB(WorkOk(
+jones2001a = DB(WorkUnrelated(
     2001, "Software measurement programs and industry leadership",
     display="jones",
     authors="Jones, C.",
@@ -278,7 +278,7 @@ kauppinen2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
-kilpl2001a = DB(WorkOk(
+kilpl2001a = DB(WorkUnrelated(
     2001, "Implementing a software metrics program at Nokia",
     display="kilpl",
     authors="Kilpl, T.",
@@ -341,7 +341,7 @@ niessink2001a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-perkins2001a = DB(WorkOk(
+perkins2001a = DB(WorkUnrelated(
     2001, "The nine-step metrics program",
     display="perkins",
     authors="Perkins, T.K.",
@@ -368,7 +368,7 @@ pfahl2001a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
-rout2001a = DB(WorkOk(
+rout2001a = DB(WorkUnrelated(
     2001, "The RAPID assessment of software process capability. In Software Process Improvement, Hunter RB",
     display="rout",
     authors="Rout, T.P. and Tuffley, A. and Cahill, B. and Hodgen, B.",
@@ -457,9 +457,9 @@ vohwinkel2001a = DB(WorkUnrelated(
 waina2001a = DB(WorkSnowball(
     2001, "A business goal-based approach to achieving systems engineering capability maturity",
     display="waina",
-    authors="R. B. Waina",
+    authors="Waina, RB",
     place=DASC,
-    pp="4B2/1-4B2/13 vol.1",
+    pp="4B2--1",
     entrytype="inproceedings",
     volume="1",
     number="",
@@ -467,9 +467,13 @@ waina2001a = DB(WorkSnowball(
     doi="10.1109/DASC.2001.963369",
     issn="",
     ID="963369",
+    scholar="http://scholar.google.com/scholar?cites=10571519764150818146&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="10571519764150818146",
+    organization="IEEE",
+    scholar_ok=True,
 ))
 
-waina2001b = DB(WorkOk(
+waina2001b = DB(WorkUnrelated(
     2001, "A process action team process that works",
     display="waina b",
     authors="Waina, R.",

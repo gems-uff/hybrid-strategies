@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-biró1999a = DB(WorkOk(
+biró1999a = DB(WorkUnrelated(
     1999, "The Software Process in the Context of Business Goals and Performance",
     display="biró",
     authors="Biró, M. and Tully, C.",
@@ -15,7 +15,7 @@ biró1999a = DB(WorkOk(
     ID="Biró199915",
 ))
 
-caputo1999a = DB(WorkOk(
+caputo1999a = DB(WorkUnrelated(
     1999, "Facilitating CMM culture change",
     display="caputo",
     authors="Caputo, K.",
@@ -26,7 +26,7 @@ caputo1999a = DB(WorkOk(
     ID="Caputo1999",
 ))
 
-cignoni1999a = DB(WorkOk(
+cignoni1999a = DB(WorkUnrelated(
     1999, "Rapid software process assessment to promote innovation in SME's",
     display="cignoni",
     authors="Cignoni, G.A.",
@@ -38,7 +38,7 @@ cignoni1999a = DB(WorkOk(
     ID="Cignoni1999",
 ))
 
-debou1999a = DB(WorkOk(
+debou1999a = DB(WorkUnrelated(
     1999, "Alcatel's Experience with Process Improvement",
     display="debou",
     authors="Debou, C. and Courtel, D. and Lambert, H.-B. and Fuchs, N. and Haux, M.",
@@ -50,7 +50,7 @@ debou1999a = DB(WorkOk(
     ID="Debou1999281",
 ))
 
-dekkers1999a = DB(WorkOk(
+dekkers1999a = DB(WorkUnrelated(
     1999, "The Secrets of Highly Successful Measurement Programs",
     display="dekkers",
     authors="Dekkers, C.A.",
@@ -64,7 +64,7 @@ dekkers1999a = DB(WorkOk(
     ID="Dekkers199929",
 ))
 
-eagen1999a = DB(WorkOk(
+eagen1999a = DB(WorkUnrelated(
     1999, "Where the rubber meets the road: Getting it done with process action teams",
     display="eagen",
     authors="Eagen, B.",
@@ -132,7 +132,7 @@ garbett1999a = DB(WorkUnrelated(
     placex="Microprocessors and Microsystems",
 ))
 
-hefner1999a = DB(WorkOk(
+hefner1999a = DB(WorkUnrelated(
     1999, "The top ten reasons improvement efforts fail",
     display="hefner",
     authors="Hefner, R.",
@@ -143,7 +143,7 @@ hefner1999a = DB(WorkOk(
     ID="Hefner1999",
 ))
 
-humphrey1999a = DB(WorkOk(
+humphrey1999a = DB(WorkUnrelated(
     1999, "Changing the software culture",
     display="humphrey",
     authors="Humphrey, W.",
@@ -175,9 +175,9 @@ raffo1999a = DB(WorkUnrelated(
 sommerville1999a = DB(WorkSnowball(
     1999, "Managing process inconsistency using viewpoints",
     display="sommerville",
-    authors="Sommerville, I. and Sawyer, P. and Viller, S.",
+    authors="Sommerville, Ian and Sawyer, Peter and Viller, Stephen",
     place=ToSE,
-    pp="784-799",
+    pp="784--799",
     entrytype="article",
     volume="25",
     number="6",
@@ -187,6 +187,10 @@ sommerville1999a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Sommerville1999784",
+    scholar="http://scholar.google.com/scholar?cites=3693616915823083489&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="IEEE",
+    cluster_id="3693616915823083489",
+    scholar_ok=True,
 ))
 
 wastell1999a = DB(WorkUnrelated(
@@ -204,7 +208,7 @@ wastell1999a = DB(WorkUnrelated(
     placex="Software Process: Principles, Methodology, and Technology",
 ))
 
-wigle1999a = DB(WorkOk(
+wigle1999a = DB(WorkUnrelated(
     1999, "The SEPG from level 1 to level 5",
     display="wigle",
     authors="Wigle, G.B.",
@@ -215,7 +219,7 @@ wigle1999a = DB(WorkOk(
     ID="Wigle1999",
 ))
 
-yamamura1999a = DB(WorkOk(
+yamamura1999a = DB(WorkUnrelated(
     1999, "Software process satisfied employees",
     display="yamamura",
     authors="Yamamura, G.",
