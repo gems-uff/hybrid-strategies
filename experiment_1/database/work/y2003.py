@@ -37,6 +37,17 @@ cechich2003a = DB(WorkUnrelated(
     placex="Component-Based Software Quality: Methods and Techniques",
 ))
 
+chrissis2003a = DB(WorkOk(
+    2003, "CMMI: Guidelines for Process Integration and Product Improvement",
+    display="chrissis",
+    authors="Chrissis, M.B. and Konrad, M. and Shrum, S.",
+    place=FAKE,
+    placex="Addison Wesley",
+    entrytype="article",
+    note="cited By 687",
+    ID="Chrissis2003",
+))
+
 conradi2003a = DB(WorkUnrelated(
     2003, "Lessons Learned and Recommendations from Two Large Norwegian SPI Programmes",
     display="conradi",
@@ -50,6 +61,17 @@ conradi2003a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45189-1_4",
     springer="1",
     placex="Software Process Technology",
+))
+
+cspt2003a = DB(WorkOk(
+    2003, "CSPT",
+    display="cspt",
+    authors="CSPT",
+    place=FAKE,
+    placex="Centre for Software Process Technologies",
+    entrytype="article",
+    note="cited By 1",
+    ID="CSPT,2003",
 ))
 
 dybå2003a = DB(WorkUnrelated(
@@ -177,6 +199,17 @@ maxwell2003a = DB(WorkUnrelated(
     ID="Maxwell20031",
     sciencedirect="1",
     placex="",
+))
+
+mcfall2003a = DB(WorkOk(
+    2003, "Software processes and process improvement in Northern Ireland",
+    display="mcfall",
+    authors="McFall, D. and Wilkie, F.G. and McCaffery, F. and Lester, N.G. and Sterritt, R.",
+    place=ICASEA,
+    pp="1-10",
+    entrytype="article",
+    note="cited By 10",
+    ID="McFall2003",
 ))
 
 oliver2003a = DB(WorkUnrelated(

@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ISOIEC2006a = DB(WorkOk(
+    2006, "Information technology - Process assessment - Part 3: Guidance on performing an assessment",
+    display="ISOIEC",
+    authors="ISOIEC",
+    place=FAKE,
+    placex="Information Technology - Process Assessment",
+    entrytype="article",
+    note="cited By 251",
+    ID="IT2004",
+))
+
 aagotnes2006a = DB(WorkUnrelated(
     2006, "On the Logic of Coalitional Games",
     display="aagotnes",
@@ -131,6 +142,17 @@ horkoff2006a = DB(WorkUnrelated(
     ID="Horkoff:2006:ATT:1501434.1501446",
     acm="1",
     placex="Proceedings of the 2006 International Conference on Privacy, Security and Trust: Bridge the Gap Between PST Technologies and Business Services",
+))
+
+iso2006a = DB(WorkOk(
+    2006, "Information Technology - Process Assessment - Part 5: An exemplar Process Assessment Model",
+    display="iso",
+    authors="ISO/IEC 15504, ISO/IECJTC1/SC7",
+    place=FAKE,
+    placex="Information Technology - Process Assessment",
+    entrytype="article",
+    note="cited By 251",
+    ID="IT2003",
 ))
 
 jha2006a = DB(WorkUnrelated(

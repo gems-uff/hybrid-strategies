@@ -354,6 +354,17 @@ pfahl2001a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+rout2001a = DB(WorkOk(
+    2001, "The RAPID assessment of software process capability. In Software Process Improvement, Hunter RB",
+    display="rout",
+    authors="Rout, T.P. and Tuffley, A. and Cahill, B. and Hodgen, B.",
+    place=FAKE,
+    placex="IEEE Computer Society Press",
+    entrytype="article",
+    note="cited By 2",
+    ID="Rout2001",
+))
+
 satpathy2001a = DB(WorkUnrelated(
     2001, "A Generic Model for Assessing Process Quality",
     display="satpathy",

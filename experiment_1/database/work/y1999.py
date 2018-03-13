@@ -14,6 +14,18 @@ caputo1999a = DB(WorkOk(
     ID="Caputo1999",
 ))
 
+cignoni1999a = DB(WorkOk(
+    1999, "Rapid software process assessment to promote innovation in SME's",
+    display="cignoni",
+    authors="Cignoni, G.A.",
+    place=FAKE,
+    placex="Proceedings of Euromicro",
+    entrytype="article",
+    volume="99",
+    note="cited By 4",
+    ID="Cignoni1999",
+))
+
 dekkers1999a = DB(WorkOk(
     1999, "The Secrets of Highly Successful Measurement Programs",
     display="dekkers",

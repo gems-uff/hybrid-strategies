@@ -47,6 +47,16 @@ caetano2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
+caffery2005a = DB(WorkOk(
+    2005, "Improving express process appraisal method",
+    display="caffery",
+    authors="Mc Caffery, F. and McFall, D. and Wilkie, F.G.",
+    place=ICPFSPI,
+    pp="286-298",
+    entrytype="article",
+    ID="McCaffery2005",
+))
+
 chaudet2005a = DB(WorkUnrelated(
     2005, "Optimal Positioning of Active and Passive Monitoring Devices",
     display="chaudet",
@@ -112,6 +122,17 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
+institute2005a = DB(WorkOk(
+    2005, "FAME (Fraunhofer Assessment MEthod) - A Business-focused Method for Process Assessment",
+    display="institute",
+    authors="Fraunhofer Institute",
+    place=FAKE,
+    placex="Fraunhofer Institute Experimentelles Software Engineering",
+    entrytype="article",
+    note="cited By 2",
+    ID="Fame2005",
+))
+
 procaccino2005a = DB(WorkUnrelated(
     2005, "What do software practitioners really think about project success: an exploratory study",
     display="procaccino",
@@ -129,6 +150,17 @@ procaccino2005a = DB(WorkUnrelated(
     ID="Procaccino2005194",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+sei2005a = DB(WorkOk(
+    2005, "The IDEALSM Model",
+    display="sei",
+    authors="SEI",
+    place=FAKE,
+    placex="SEI",
+    entrytype="article",
+    note="cited By 1",
+    ID="NoAuthor2005",
 ))
 
 snedaker2005a = DB(WorkUnrelated(
@@ -214,4 +246,17 @@ wang2005a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Wang2005183",
+))
+
+wilkie2005a = DB(WorkOk(
+    2005, "An Evaluation of CMMI® Process Areas for Small to Medium Sized Software Development Organisations Software Process Improvement and Practice",
+    display="wilkie",
+    authors="Wilkie, F.G. and McFall, D. and Mc Caffery, F.",
+    pp="2",
+    place=FAKE,
+    placex="Wiley Publishers: 189-201",
+    entrytype="article",
+    volume="10",
+    note="cited By 1",
+    ID="Wilkie2005",
 ))

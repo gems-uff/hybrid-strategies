@@ -92,6 +92,17 @@ obbink1995a = DB(WorkUnrelated(
     placex="Software Process Technology",
 ))
 
+paulk1995a = DB(WorkOk(
+    1995, "The capability maturity model: Guidelines for improving the software process",
+    display="paulk",
+    authors="Paulk, M.C. and Weber, C.V. and Curtis, B. and Chrissis, M.B.",
+    place=FAKE,
+    placex="The Capability Maturity Model: Guidelines for Improving the Software Process",
+    entrytype="article",
+    note="cited By 982",
+    ID="Paulk1995",
+))
+
 rombach1995a = DB(WorkUnrelated(
     1995, "Directions in Software Process Research",
     display="rombach",

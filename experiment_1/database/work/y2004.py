@@ -3,6 +3,30 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+anacleto2004a = DB(WorkOk(
+    2004, "A method for process assessment in small software companies",
+    display="anacleto",
+    authors="Anacleto, A. and Von Wangenheim, C.G. and Salviano, C.F. and Savi, R.",
+    pp="69-76",
+    place=FAKE,
+    placex="4th International SPICE Conference on Process Assessment and Improvement",
+    entrytype="article",
+    note="cited By 15",
+    ID="Anacleto200469",
+))
+
+anacleto2004b = DB(WorkOk(
+    2004, "Experiences gained from applying ISO/IEC 15504 to small software companies in Brazil",
+    display="anacleto b",
+    authors="Anacleto, A. and Von Wangenheim, C.G. and Salviano, C.F. and Savi, R.",
+    pp="33-37",
+    place=FAKE,
+    placex="4th International SPICE Conference on Process Assessment and Improvement",
+    entrytype="article",
+    note="cited By 28",
+    ID="Anacleto200433",
+))
+
 ardimento2004a = DB(WorkUnrelated(
     2004, "Multiview Framework for Goal Oriented Measurement Plan Design",
     display="ardimento",
@@ -31,6 +55,18 @@ aversano2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-24659-6_10",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+caffery2004a = DB(WorkOk(
+    2004, "Northern Ireland Software Industry Survey",
+    display="caffery",
+    authors="Mc Caffery, F. and Wilkie, F.G. and McFall, D. and Lester, N.",
+    pp="159-161",
+    place=FAKE,
+    placex="Proceedings of Fourth International SPICE Conference on Process Assessment and Improvement",
+    entrytype="article",
+    note="cited By 1",
+    ID="McCaffery2004",
 ))
 
 davis2004a = DB(WorkUnrelated(
@@ -357,4 +393,27 @@ ruhe2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-24659-6_18",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+sei2004a = DB(WorkOk(
+    2004, "Process Maturity Profile: CMMI® v1.1, SCAMPI SM v1.1 Class A Appraisal Results",
+    display="sei",
+    authors="SEI",
+    place=FAKE,
+    placex="Process Maturity Profile",
+    entrytype="article",
+    note="cited By 17",
+    ID="SEI2004",
+))
+
+wilkie2004a = DB(WorkOk(
+    2004, "The centre for software process technologies: A model for process improvement in geographical regions with small software industries",
+    display="wilkie",
+    authors="Wilkie, F.G. and McFall, D. and McCaffery, F.",
+    pp="5",
+    place=FAKE,
+    placex="Proceedings of 16th Software Engineering Process Group Conference",
+    entrytype="article",
+    note="cited By 4",
+    ID="Wilkie2004",
 ))

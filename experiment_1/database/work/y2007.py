@@ -173,6 +173,17 @@ steen2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+team2007a = DB(WorkOk(
+    2007, "Appraisal requirements for CMMI®, Version 1.1",
+    display="team",
+    authors="CMMI Product Team",
+    place=FAKE,
+    placex="SEI",
+    entrytype="article",
+    note="cited By 1",
+    ID="NoAuthor2007",
+))
+
 verhoef2007a = DB(WorkUnrelated(
     2007, "Quantifying the effects of IT-governance rules",
     display="verhoef",

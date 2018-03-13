@@ -188,6 +188,17 @@ kautz2000a = DB(WorkSnowball(
     ID="Kautz2000626",
 ))
 
+makinen2000a = DB(WorkOk(
+    2000, "A Detailed Process Assessment Method for SMEs",
+    display="makinen",
+    authors="Makinen, T. and Varkoi, T. and Lepasaar, M.",
+    place=FAKE,
+    placex="EuroSPI",
+    entrytype="article",
+    note="cited By 3",
+    ID="Makinen2000",
+))
+
 pfahl2000a = DB(WorkUnrelated(
     2000, "Using simulation to analyse the impact of software requirement volatility on project performance",
     display="pfahl",

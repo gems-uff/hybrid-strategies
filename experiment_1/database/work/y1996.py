@@ -75,6 +75,17 @@ hather1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+mcfeeley1996a = DB(WorkOk(
+    1996, "IDEAL: A User's Guide for Software Process Improvement",
+    display="mcfeeley",
+    authors="McFeeley, B.",
+    place=FAKE,
+    placex="Software Engineering Institute: CMU/SEI",
+    entrytype="article",
+    note="cited By 181",
+    ID="McFeeley1996",
+))
+
 park1996a = DB(WorkOk(
     1996, "Goal-driven software measurement - A guidebook",
     display="park",
