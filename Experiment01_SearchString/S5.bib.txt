@@ -1,0 +1,167 @@
+﻿Scopus
+EXPORT DATE: 13 March 2018
+
+
+
+@ARTICLE{Kathuria2007503,
+author={Kathuria, R. and Joshi, M.P. and Porth, S.J.},
+title={Organizational alignment and performance: Past, present and future},
+journal={Management Decision},
+year={2007},
+volume={45},
+number={3},
+pages={503-517},
+doi={10.1108/00251740710745106},
+note={cited By 55},
+}
+
+
+
+@CONFERENCE{Basili2007488,
+author={Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Trendowicz, A.},
+title={GQM+Strategies - Aligning business strategies with software measurement},
+journal={Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007},
+year={2007},
+pages={488-490},
+doi={10.1109/ESEM.2007.56},
+art_number={4343788},
+note={cited By 31},
+}
+
+
+
+@ARTICLE{Basili2009,
+author={Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Seaman, C. and Tren-Dowicz, A.},
+title={Determining the impact of business strategies using principles from goal-oriented measurement},
+journal={Proceedings of 9th BI Conference},
+year={2009},
+note={cited By 1},
+}
+
+
+
+@ARTICLE{Basili1992,
+author={Basili, V.R.},
+title={Software modeling and measurement: The goal/question/metric paradigm},
+journal={Software Modeling and Measurement: The Goal/Question/Metric Paradigm},
+year={1992},
+note={cited By 232},
+}
+
+
+
+@ARTICLE{Kowalczyk2010,
+author={Kowalczyk, M. and Münch, J. and Katahira, M. and Kaneko, T. and Miyamoto, Y. and Koishi, Y.},
+title={Aligning software-related strategies in multi- organizational settings},
+journal={Proceedings of the International Conference on Software Process and Product Measurement (IWSM/MetriKon/Mensura 2010)},
+year={2010},
+note={cited By 2},
+}
+
+
+
+@ARTICLE{NoAuthor2005,
+journal={Control Objectives for Information and Related Technology},
+year={2005},
+note={cited By 121},
+}
+
+
+
+
+@ARTICLE{NoAuthor2008,
+journal={VAL IT Framework 2.0},
+year={2008},
+note={cited By 6},
+}
+
+
+
+@ARTICLE{NoAuthor2002,
+journal={The IT Infrastructure Library (ITIL) Service Delivery},
+year={2002},
+note={cited By 4},
+}
+
+
+
+@ARTICLE{Kaplan199271,
+author={Kaplan, R.S. and Norton, D.P.},
+title={The balanced scorecard--measures that drive performance.},
+journal={Harvard Business Review},
+year={1992},
+volume={70},
+number={1},
+pages={71-79},
+note={cited By 5432},
+}
+
+
+
+@ARTICLE{Becker199946,
+author={Becker, S.A. and Bostelman, M.L.},
+title={Aligning strategic and project measurement systems},
+journal={IEEE Software},
+year={1999},
+volume={16},
+number={3},
+pages={46-51},
+doi={10.1109/52.765786},
+note={cited By 19},
+}
+
+
+
+@ARTICLE{NoAuthor2012,
+journal={JAXA Vision 2025},
+year={2012},
+note={cited By 1},
+}
+
+
+incluidos como:
+
+
+jaxa2012a = DB(WorkUnrelated(
+    2012, "JAXA Vision 2025",
+    display="jaxa",
+    authors="JAXA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="JAXA2012",
+    placex="Japan Aerospace Exploration Agency (JAXA)",
+
+
+isaca2008a = DB(WorkUnrelated(
+    2008, "VAL IT Framework 2.0",
+    display="isaca",
+    authors="ISACA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 6",
+    ID="ISACA2008",
+    placex="IT Governance Institute",
+
+
+ogc2002a = DB(WorkUnrelated(
+    2002, "The IT Infrastructure Library (ITIL) Service Delivery",
+    display="ogc",
+    authors="OGC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="OGC2002",
+    placex="Office of Government Commerce (OGC)",
+))
+
+isaca2005a = DB(WorkUnrelated(
+    2005, "Control Objectives for Information and Related Technology",
+    display="isaca",
+    authors="ISACA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 121",
+    ID="ISACA2005",
+    placex="ISACA",
+))

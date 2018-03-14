@@ -305,6 +305,17 @@ hornbæk2008a = DB(WorkUnrelated(
     placex="Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
 ))
 
+isaca2008a = DB(WorkUnrelated(
+    2008, "VAL IT Framework 2.0",
+    display="isaca",
+    authors="ISACA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 6",
+    ID="ISACA2008",
+    placex="IT Governance Institute",
+))
+
 j2008a = DB(WorkUnrelated(
     2008, "Aligning business strategies with software measurement - exercise handouts",
     display="j",

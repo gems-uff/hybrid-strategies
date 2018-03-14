@@ -169,6 +169,17 @@ institute2005a = DB(WorkUnrelated(
     ID="Fame2005",
 ))
 
+isaca2005a = DB(WorkUnrelated(
+    2005, "Control Objectives for Information and Related Technology",
+    display="isaca",
+    authors="ISACA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 121",
+    ID="ISACA2005",
+    placex="ISACA",
+))
+
 liu2005a = DB(WorkUnrelated(
     2005, "QFD Application in Software Process Management and Improvement Based on CMM",
     display="liu",

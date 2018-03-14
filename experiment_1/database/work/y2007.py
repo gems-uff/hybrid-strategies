@@ -65,6 +65,20 @@ basili2007a = DB(WorkUnrelated(
     ID="Basili200725",
 ))
 
+basili2007b = DB(WorkUnrelated(
+    2007, "GQM+Strategies - Aligning business strategies with software measurement",
+    display="basili b",
+    authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Trendowicz, A.",
+    place=ESEM,
+    pp="488-490",
+    entrytype="conference",
+    doi="10.1109/ESEM.2007.56",
+    art_number="4343788",
+    note="cited By 31",
+    ID="Basili2007488",
+    placex="Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007",
+))
+
 deng2007a = DB(WorkUnrelated(
     2007, "Pong: Diagnosing Spatio-temporal Internet Congestion Properties",
     display="deng",
@@ -114,6 +128,21 @@ karagiannis2007a = DB(WorkUnrelated(
     ID="Karagiannis:2007:BMD:1282100.1282122",
     acm="1",
     placex="Proceedings of the Ninth International Conference on Electronic Commerce",
+))
+
+kathuria2007a = DB(WorkUnrelated(
+    2007, "Organizational alignment and performance: Past, present and future",
+    display="kathuria",
+    authors="Kathuria, R. and Joshi, M.P. and Porth, S.J.",
+    place=FAKE,
+    pp="503-517",
+    entrytype="article",
+    volume="45",
+    number="3",
+    doi="10.1108/00251740710745106",
+    note="cited By 55",
+    ID="Kathuria2007503",
+    placex="Management Decision",
 ))
 
 keele2007a = DB(WorkUnrelated(

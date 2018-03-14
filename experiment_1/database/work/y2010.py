@@ -303,6 +303,17 @@ klöckner2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
 ))
 
+kowalczyk2010a = DB(WorkUnrelated(
+    2010, "Aligning software-related strategies in multi- organizational settings",
+    display="kowalczyk",
+    authors="Kowalczyk, M. and Münch, J. and Katahira, M. and Kaneko, T. and Miyamoto, Y. and Koishi, Y.",
+    place=ICSPPM,
+    entrytype="article",
+    note="cited By 2",
+    ID="Kowalczyk2010",
+    placex="Proceedings of the International Conference on Software Process and Product Measurement (IWSM/MetriKon/Mensura 2010)",
+))
+
 kremmel2010a = DB(WorkUnrelated(
     2010, "Multiobjective Evolutionary Algorithm for Software Project Portfolio Optimization",
     display="kremmel",

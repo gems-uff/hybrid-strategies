@@ -358,6 +358,17 @@ neu2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+ogc2002a = DB(WorkUnrelated(
+    2002, "The IT Infrastructure Library (ITIL) Service Delivery",
+    display="ogc",
+    authors="OGC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="OGC2002",
+    placex="Office of Government Commerce (OGC)",
+))
+
 oregan2002a = DB(WorkUnrelated(
     2002, "The Capability Maturity Model",
     display="oregan",

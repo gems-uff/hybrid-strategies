@@ -28,6 +28,17 @@ albuquerque2009a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+basili2009a = DB(WorkUnrelated(
+    2009, "Determining the impact of business strategies using principles from goal-oriented measurement",
+    display="basili",
+    authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Seaman, C. and Tren-Dowicz, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Basili2009",
+    placex="Proceedings of 9th BI Conference",
+))
+
 bjørnson2009a = DB(WorkUnrelated(
     2009, "Improving the effectiveness of root cause analysis in post mortem analysis: A controlled experiment",
     display="bjørnson",

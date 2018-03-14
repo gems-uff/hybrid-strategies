@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+becker1999a = DB(WorkUnrelated(
+    1999, "Aligning strategic and project measurement systems",
+    display="becker",
+    authors="Becker, S.A. and Bostelman, M.L.",
+    place=IEEES,
+    pp="46-51",
+    entrytype="article",
+    volume="16",
+    number="3",
+    doi="10.1109/52.765786",
+    note="cited By 19",
+    ID="Becker199946",
+    placex="IEEE Software",
+))
+
 biró1999a = DB(WorkUnrelated(
     1999, "The Software Process in the Context of Business Goals and Performance",
     display="biró",

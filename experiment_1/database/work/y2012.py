@@ -276,6 +276,17 @@ jan2012a = DB(WorkUnrelated(
     placex="Technology in Society",
 ))
 
+jaxa2012a = DB(WorkUnrelated(
+    2012, "JAXA Vision 2025",
+    display="jaxa",
+    authors="JAXA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="JAXA2012",
+    placex="Japan Aerospace Exploration Agency (JAXA)",
+))
+
 kasurinen2012a = DB(WorkUnrelated(
     2012, "Software Organizations and Test Process Development",
     display="kasurinen",

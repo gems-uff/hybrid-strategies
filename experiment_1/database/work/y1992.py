@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+basili1992a = DB(WorkUnrelated(
+    1992, "Software modeling and measurement: The goal/question/metric paradigm",
+    display="basili",
+    authors="Basili, V.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 232",
+    ID="Basili1992",
+    placex="Software Modeling and Measurement: The Goal/Question/Metric Paradigm",
+))
+
 cox1992a = DB(WorkUnrelated(
     1992, "Keys to success in quality function deployment",
     display="cox",
