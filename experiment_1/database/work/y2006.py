@@ -322,6 +322,18 @@ rocha2006a = DB(WorkUnrelated(
     placex="Proc. of the 6th International Workshop on Learning Software Organizations (LSO'2006)",
 ))
 
+sei2006a = DB(WorkUnrelated(
+    2006, "SEI Carnegie Mellon Software Engineering Institute",
+    journal="CMMI",
+    display="sei",
+    authors="SEI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="SEI2006",
+    placex="",
+))
+
 solingen2006a = DB(WorkUnrelated(
     2006, "Calculating Software Process Improvements Return on Investment",
     display="solingen",
@@ -339,6 +351,21 @@ solingen2006a = DB(WorkUnrelated(
     ID="VanSolingen20061",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+wangeheim2006a = DB(WorkUnrelated(
+    2006, "Helping small companies assess software processes",
+    display="wangeheim",
+    authors="von Wangeheim, C.G. and Anacleto, A. and Salviano, C.F.",
+    place=IEEES,
+    pp="91-98",
+    entrytype="article",
+    volume="23",
+    number="1",
+    doi="10.1109/MS.2006.13",
+    note="cited By 51",
+    ID="vonWangeheim200691",
+    placex="IEEE Software",
 ))
 
 wangenheim2006a = DB(WorkUnrelated(

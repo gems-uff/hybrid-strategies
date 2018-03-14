@@ -18,6 +18,18 @@ arent2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+boltzmann2000a = DB(WorkUnrelated(
+    2000, "Entropie und Warscheinlichkeit",
+    display="boltzmann",
+    authors="Boltzmann, L.",
+    place=FAKE,
+    entrytype="article",
+    volume="286",
+    note="cited By 2",
+    ID="Boltzmann2000",
+    placex="Ostwalds Klassiker",
+))
+
 bratthall2000a = DB(WorkUnrelated(
     2000, "Is a Design Rationale Vital when Predicting Change Impact? -- A Controlled Experiment on Software Architecture Evolution",
     display="bratthall",
@@ -201,6 +213,21 @@ kautz2000a = DB(WorkSnowball(
     cluster_id="16864283779573478547",
     organization="ACM",
     scholar_ok=True,
+))
+
+kuilboer2000a = DB(WorkUnrelated(
+    2000, "Software process and product improvement: An empirical assessment",
+    display="kuilboer",
+    authors="Kuilboer, J.P. and Ashrafi, N.",
+    place=IST,
+    pp="27-34",
+    entrytype="article",
+    volume="42",
+    number="1",
+    doi="10.1016/S0950-5849(99)00054-3",
+    note="cited By 45",
+    ID="Kuilboer200027",
+    placex="Information and Software Technology",
 ))
 
 makinen2000a = DB(WorkUnrelated(

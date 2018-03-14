@@ -1,0 +1,128 @@
+﻿Scopus
+EXPORT DATE: 14 March 2018
+
+@ARTICLE{Balla2001177,
+author={Balla, K. and Bemelmans, T. and Kusters, R. and Trienekens, J.},
+title={Quality through Managed Improvement and Measurement (QMIM): Towards a Phased Development and Implementation of a Quality Management System for a Software Company},
+journal={Software Quality Journal},
+year={2001},
+volume={9},
+number={3},
+pages={177-193},
+doi={10.1023/A:1013301503616},
+note={cited By 20},
+}
+
+@ARTICLE{Boldyreff199799,
+author={Boldyreff, C. and Drost, M. and Hinley, D. and Morrell, M. and Symons, A.},
+title={A basis for process improvement in application management},
+journal={Software Quality Journal},
+year={1997},
+volume={6},
+number={2},
+pages={99-111},
+note={cited By 2},
+}
+
+@ARTICLE{Boltzmann2000,
+author={Boltzmann, L.},
+title={Entropie und Warscheinlichkeit},
+journal={Ostwalds Klassiker},
+year={2000},
+volume={286},
+note={cited By 2},
+}
+
+@ARTICLE{Habra2007,
+author={Habra, N. and Alexandre, S. and Desharnais, J.M. and Laporte, C.Y. and Renault, A.},
+title={Initiating software process improvement in very small enterprises: Experience with a light assessment tool},
+journal={Information and Software Technology},
+year={2007},
+note={cited By 2},
+}
+
+@BOOK{Humphrey201153,
+author={Humphrey, W.S.},
+title={A software maturity framework},
+journal={Software Process Improvement},
+year={2011},
+pages={53-63},
+doi={10.1109/9781118156667.ch2},
+note={cited By 1},
+}
+
+@ARTICLE{Kuilboer200027,
+author={Kuilboer, J.P. and Ashrafi, N.},
+title={Software process and product improvement: An empirical assessment},
+journal={Information and Software Technology},
+year={2000},
+volume={42},
+number={1},
+pages={27-34},
+doi={10.1016/S0950-5849(99)00054-3},
+note={cited By 45},
+}
+
+@ARTICLE{Ngwenyama2003100,
+author={Ngwenyama, O. and Nielsen, P.A.},
+title={Competing values in software process improvement: An assumption analysis of CMM from an organizational culture perspective},
+journal={IEEE Transactions on Engineering Management},
+year={2003},
+volume={50},
+number={1},
+pages={100-112},
+doi={10.1109/TEM.2002.808267},
+note={cited By 94},
+}
+
+@ARTICLE{Paulk1993,
+author={Paulk, M.C. and Curtis, B. and Chrissis, M.B. and Weber, C.V.},
+title={Capability maturity model for software},
+journal={Capability Maturity Model for Software, Version 1.1},
+year={1993},
+note={cited By 1004},
+}
+
+@ARTICLE{Paulk1995,
+author={Paulk, M.C. and Weber, C.V. and Curtis, B. and Chrissis, M.B.},
+title={The capability maturity model: Guidelines for improving the software process},
+journal={The Capability Maturity Model: Guidelines for Improving the Software Process},
+year={1995},
+note={cited By 982},
+}
+
+@ARTICLE{Ruiz2002181,
+author={Ruiz, M. and Ramos, I. and Toro, M.},
+title={A Dynamic Integrated Framework for Software Process Improvement},
+journal={Software Quality Journal},
+year={2002},
+volume={10},
+number={2},
+pages={181-194},
+doi={10.1023/A:1020580008694},
+note={cited By 12},
+}
+
+@ARTICLE{NoAuthor2001,
+title={CMMI. Capability Maturity Model®},
+journal={Integration (CMMI SM), Version 1.1. Technical Report},
+year={2001},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2006,
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{vonWangeheim200691,
+author={von Wangeheim, C.G. and Anacleto, A. and Salviano, C.F.},
+title={Helping small companies assess software processes},
+journal={IEEE Software},
+year={2006},
+volume={23},
+number={1},
+pages={91-98},
+doi={10.1109/MS.2006.13},
+note={cited By 51},
+}

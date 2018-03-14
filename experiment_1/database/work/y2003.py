@@ -244,6 +244,21 @@ mcfall2003a = DB(WorkUnrelated(
     ID="McFall2003",
 ))
 
+ngwenyama2003a = DB(WorkUnrelated(
+    2003, "Competing values in software process improvement: An assumption analysis of CMM from an organizational culture perspective",
+    display="ngwenyama",
+    authors="Ngwenyama, O. and Nielsen, P.A.",
+    place=FAKE,
+    pp="100-112",
+    entrytype="article",
+    volume="50",
+    number="1",
+    doi="10.1109/TEM.2002.808267",
+    note="cited By 94",
+    ID="Ngwenyama2003100",
+    placex="IEEE Transactions on Engineering Management",
+))
+
 niazi2003a = DB(WorkUnrelated(
     2003, "A model for the implementation of software process improvement: A pilot study",
     display="niazi",

@@ -485,6 +485,21 @@ punter2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+ruiz2002a = DB(WorkUnrelated(
+    2002, "A Dynamic Integrated Framework for Software Process Improvement",
+    display="ruiz",
+    authors="Ruiz, M. and Ramos, I. and Toro, M.",
+    place=SQJ,
+    pp="181-194",
+    entrytype="article",
+    volume="10",
+    number="2",
+    doi="10.1023/A:1020580008694",
+    note="cited By 12",
+    ID="Ruiz2002181",
+    placex="Software Quality Journal",
+))
+
 scott2002a = DB(WorkUnrelated(
     2002, "Understanding the use of an electronic process guide",
     display="scott",

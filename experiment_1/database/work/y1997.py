@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+boldyreff1997a = DB(WorkUnrelated(
+    1997, "A basis for process improvement in application management",
+    display="boldyreff",
+    authors="Boldyreff, C. and Drost, M. and Hinley, D. and Morrell, M. and Symons, A.",
+    place=SQJ,
+    pp="99-111",
+    entrytype="article",
+    volume="6",
+    number="2",
+    note="cited By 2",
+    ID="Boldyreff199799",
+    placex="Software Quality Journal",
+))
+
 caputo1997a = DB(WorkUnrelated(
     1997, "Level 3 culture is more than just the artifacts",
     display="caputo",

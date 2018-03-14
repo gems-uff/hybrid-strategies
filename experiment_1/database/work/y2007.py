@@ -129,6 +129,17 @@ garcía2007a = DB(WorkUnrelated(
     placex="Information Sciences",
 ))
 
+habra2007a = DB(WorkUnrelated(
+    2007, "Initiating software process improvement in very small enterprises: Experience with a light assessment tool",
+    display="habra",
+    authors="Habra, N. and Alexandre, S. and Desharnais, J.M. and Laporte, C.Y. and Renault, A.",
+    place=IST,
+    entrytype="article",
+    note="cited By 2",
+    ID="Habra2007",
+    placex="Information and Software Technology",
+))
+
 karagiannis2007a = DB(WorkUnrelated(
     2007, "Business-oriented IT Management: Developing e-Business Applications with E-BPMS",
     display="karagiannis",

@@ -265,6 +265,19 @@ hassanzadeh2011a = DB(WorkUnrelated(
     placex="Knowledge-Based Systems",
 ))
 
+humphrey2011a = DB(WorkUnrelated(
+    2011, "A software maturity framework",
+    display="humphrey",
+    authors="Humphrey, W.S.",
+    place=Book,
+    pp="53-63",
+    entrytype="book",
+    doi="10.1109/9781118156667.ch2",
+    note="cited By 1",
+    ID="Humphrey201153",
+    placex="Software Process Improvement",
+))
+
 iden2011a = DB(WorkUnrelated(
     2011, "Problems in the interplay of development and \IT\ operations in system development projects: A Delphi study of Norwegian \IT\ experts",
     display="iden",

@@ -20,6 +20,21 @@ bacon2001a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+balla2001a = DB(WorkUnrelated(
+    2001, "Quality through Managed Improvement and Measurement (QMIM): Towards a Phased Development and Implementation of a Quality Management System for a Software Company",
+    display="balla",
+    authors="Balla, K. and Bemelmans, T. and Kusters, R. and Trienekens, J.",
+    place=SQJ,
+    pp="177-193",
+    entrytype="article",
+    volume="9",
+    number="3",
+    doi="10.1023/A:1013301503616",
+    note="cited By 20",
+    ID="Balla2001177",
+    placex="Software Quality Journal",
+))
+
 bergman2001a = DB(WorkUnrelated(
     2001, "Lessons from the EUREX Workshops",
     display="bergman",
@@ -93,6 +108,17 @@ buglione2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44704-0_17",
     springer="1",
     placex="New Approaches in Software Measurement",
+))
+
+cmmi2001a = DB(WorkUnrelated(
+    2001, "CMMI. Capability Maturity Model®",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="CMMI2001",
+    placex="Integration (CMMI SM), Version 1.1. Technical Report",
 ))
 
 counsell2001a = DB(WorkUnrelated(
