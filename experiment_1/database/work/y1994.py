@@ -16,6 +16,17 @@ basili1994a = DB(WorkUnrelated(
     ID="Basili1994528",
 ))
 
+clegg1994a = DB(WorkUnrelated(
+    1994, "Case Method Fast-Track: A RAD Approach",
+    display="clegg",
+    authors="Clegg, D. and Barker, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 25",
+    ID="Clegg1994",
+    placex="Addison-Wesley Professional",
+))
+
 debou1994a = DB(WorkUnrelated(
     1994, "Decision making for software process improvement: A quantitative approach",
     display="debou",

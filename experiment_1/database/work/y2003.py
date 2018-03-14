@@ -43,6 +43,18 @@ card2003a = DB(WorkUnrelated(
     placex="Proceedings of the 25th international conference on software engineering",
 ))
 
+card2003b = DB(WorkUnrelated(
+    2003, "Integrating Practical Software Measurement and the Balanced Scorecard",
+    display="card b",
+    authors="Card, D.",
+    place=FAKE,
+    pp="362-367",
+    entrytype="conference",
+    note="cited By 4",
+    ID="Card2003362",
+    placex="Proceedings - IEEE Computer Society's International Computer Software and Applications Conference",
+))
+
 cechich2003a = DB(WorkUnrelated(
     2003, "Assessing Component-Based Systems",
     display="cechich",
@@ -361,6 +373,17 @@ solingen2003b = DB(WorkUnrelated(
     ID="vanSolingen2003",
     springer="1",
     placex="Managing Software Engineering Knowledge",
+))
+
+usddusa2003a = DB(WorkUnrelated(
+    2003, "Practical Software and Systems Measurement: A Foundation for Objective Project Management",
+    display="usddusa",
+    authors="USDDUSA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 8",
+    ID="USDDUSA2003",
+    placex="US Dept. of Defense and US Army,",
 ))
 
 yap2003a = DB(WorkUnrelated(

@@ -18,6 +18,17 @@ arent2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+boehm2000a = DB(WorkUnrelated(
+    2000, "Cost Estimation with COCOMO II",
+    display="boehm",
+    authors="Boehm, B.W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1196",
+    ID="Boehm2000",
+    placex="Prentice HallSoftware",
+))
+
 boltzmann2000a = DB(WorkUnrelated(
     2000, "Entropie und Warscheinlichkeit",
     display="boltzmann",
@@ -43,6 +54,18 @@ bratthall2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_14",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+buglione2000a = DB(WorkUnrelated(
+    2000, "Balanced scorecards and GQM: What are the differences?",
+    display="buglione",
+    authors="Buglione, L. and Abran, A.",
+    place=FAKE,
+    pp="18-20",
+    entrytype="article",
+    note="cited By 3",
+    ID="Buglione200018",
+    placex="Proc. 3rd European Software Measurement Conf.",
 ))
 
 chiavenato2000a = DB(WorkUnrelated(

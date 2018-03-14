@@ -79,6 +79,17 @@ chiprout2010a = DB(WorkUnrelated(
     placex="Proceedings of the 47th Design Automation Conference",
 ))
 
+code2010a = DB(WorkUnrelated(
+    2010, "Sarbanes-Oxley",
+    display="code",
+    authors="US Code",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="US2002",
+    placex="Public Law No. 107-204",
+))
+
 conaldi2010a = DB(WorkUnrelated(
     2010, "The Meso-level Structure of F/OSS Collaboration Network: Local Communities and Their Innovativeness",
     display="conaldi",

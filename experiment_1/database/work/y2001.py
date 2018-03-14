@@ -95,6 +95,18 @@ bergman2001d = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+bianchi2001a = DB(WorkUnrelated(
+    2001, "Management indicators model to evaluate performance of IT organizations",
+    display="bianchi",
+    authors="Bianchi, A.J.",
+    place=FAKE,
+    pp="217-229",
+    entrytype="conference",
+    note="cited By 14",
+    ID="Bianchi2001217",
+    placex="PICMET",
+))
+
 buglione2001a = DB(WorkUnrelated(
     2001, "QF2D: A Different Way to Measure Software Quality",
     display="buglione",
