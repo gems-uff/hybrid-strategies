@@ -80,6 +80,17 @@ dunaway1996a = DB(WorkUnrelated(
     ID="Dunaway1996",
 ))
 
+easterbrook1996a = DB(WorkUnrelated(
+    1996, "Using ViewPoints for Inconsistency Management",
+    display="easterbrook",
+    authors="Easterbrook, S. and B. Nuseibeh",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Easterbrook1996",
+    placex="BCS/IEE Software Eng. J., Vol. 11, No. 1, Pp. 31-43",
+))
+
 emmet1996a = DB(WorkUnrelated(
     1996, "PERE Evaluation and Improvement of Dependable Processes",
     display="emmet",
@@ -185,4 +196,15 @@ sommerville1996a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Sommerville1996",
     placex="Trends in Software, A. Fuggetta and A. Wolf, Eds., Pp. 89-110, New York: John Wiley & Sons",
+))
+
+turgeon1996a = DB(WorkUnrelated(
+    1996, "A Systematic View-Based Approach to Eliciting Process Models",
+    display="turgeon",
+    authors="Turgeon, J. And N.H. Madhavji",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Turgeon1996",
+    placex="Proc. Fifth Euopean Workshop Software Process Technology, Springer-Verlag",
 ))

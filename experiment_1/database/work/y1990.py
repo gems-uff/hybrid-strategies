@@ -14,6 +14,17 @@ akao1990a = DB(WorkUnrelated(
     ID="Akao1990",
 ))
 
+checkland1990a = DB(WorkUnrelated(
+    1990, "Soft Systems Methodology in Action",
+    display="checkland",
+    authors="Checkland, P. and J. Scholes",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Checkland1990",
+    placex="John Wiley & Sons",
+))
+
 hammer1990a = DB(WorkUnrelated(
     1990, "Reengineering Work: Don't Automate",
     display="hammer",

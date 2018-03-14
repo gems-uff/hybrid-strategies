@@ -78,6 +78,17 @@ haase1994a = DB(WorkUnrelated(
     placex="IEEE Software, Vol. 11, No. 4, Pp. 25-35",
 ))
 
+heineman1994a = DB(WorkUnrelated(
+    1994, "Emerging Technologies That Support A Software Process Life Cycle",
+    display="heineman",
+    authors="Heineman, G.T. Et Al.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Heineman1994",
+    placex="IBM Systems J., Vol. 33, No. 3, Pp. 501-529",
+))
+
 jm1994a = DB(WorkUnrelated(
     1994, "Designing funded qualitative research",
     display="jm",
@@ -102,6 +113,28 @@ knoll1994a = DB(WorkUnrelated(
     ID="Knoll:1994:ITA:186281.186286",
     acm="1",
     placex="Proceedings of the 1994 Computer Personnel Research Conference on Reinventing IS : Managing Information Technology in Changing Organizations: Managing Information Technology in Changing Organizations",
+))
+
+madhavji1994a = DB(WorkUnrelated(
+    1994, "Elicit: A Method for Eliciting Process Models, Proc",
+    display="madhavji",
+    authors="Madhavji, N.H. D. Holtje, H. WonKook, and T. Bruckhaus",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Madhavji1994",
+    placex="Third Int'l Conf. the Software Process, IEEE CS Press",
+))
+
+nuseibeh1994a = DB(WorkUnrelated(
+    1994, "A Framework for Expressing the Relationships between Multiple Views in Requirements Specifications",
+    display="nuseibeh",
+    authors="Nuseibeh, B. J. Kramer , and A. Finkelstein",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Nuseibeh1994",
+    placex="IEEE Trans. Software Eng., Vol. 20, No. 10, Pp. 760-773",
 ))
 
 nú1994a = DB(WorkUnrelated(
@@ -136,6 +169,17 @@ roche1994a = DB(WorkUnrelated(
     ID="Roche1994173",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+vertage1994a = DB(WorkUnrelated(
+    1994, "Multi-View Modeling of Software Processes",
+    display="vertage",
+    authors="Vertage, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Vertage1994",
+    placex="Proc. Third European Workshop Software Process Technology, SpringerVerlag, Pp. 123-127",
 ))
 
 whitney1994a = DB(WorkUnrelated(

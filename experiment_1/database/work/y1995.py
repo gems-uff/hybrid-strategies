@@ -3,6 +3,28 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bandinelli1995a = DB(WorkUnrelated(
+    1995, "Modeling and Improving An Industrial Software Process",
+    display="bandinelli",
+    authors="Bandinelli, S. A. Fuggetta L. Lavazza, M. Loi, and G.P. Picco",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Bandinelli1995",
+    placex="IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454",
+))
+
+bro1995a = DB(WorkUnrelated(
+    1995, "MVP-L Language Report, Version 2",
+    display="bro",
+    authors="Bro, A. Ckers, C.M. Lott, H.D. Rombach, and M. Verlage",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Bro1995",
+    placex="?Dept. of Computer Science, Univ. of Kaiserslautern, Germany",
+))
+
 brodman1995a = DB(WorkUnrelated(
     1995, "Return on investment (ROI) from software process improvement as measured by US industry",
     display="brodman",

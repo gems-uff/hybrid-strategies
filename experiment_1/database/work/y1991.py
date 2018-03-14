@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+rombach1991a = DB(WorkUnrelated(
+    1991, "MVP-L A Language for Process Modeling In-the-Large",
+    display="rombach",
+    authors="Rombach, H.D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Rombach1991",
+    placex="Inst. for Advanced Computer Studies, Univ. of Maryland",
+))
+
 rook1991a = DB(WorkUnrelated(
     1991, "27 - Project planning and control",
     display="rook",

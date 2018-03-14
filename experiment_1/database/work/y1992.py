@@ -28,6 +28,17 @@ cox1992a = DB(WorkUnrelated(
     ID="Cox199225",
 ))
 
+finkelstein1992a = DB(WorkUnrelated(
+    1992, "Viewpoints: A Framework for Integrating Multiple Perspectives in System Development",
+    display="finkelstein",
+    authors="Finkelstein, A. J. Kramer, B. Nuseibeh, and M. Goedicke",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Finkelstei1992",
+    placex="Int'l J. Software Eng. and Knowledge Eng., Vol. 2, No. 1, Pp. 31-58",
+))
+
 haikala1992a = DB(WorkUnrelated(
     1992, "(Continuing) education of software professionals",
     display="haikala",

@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+becker1997a = DB(WorkUnrelated(
+    1997, "MVP-E: A Process Modeling Environment",
+    display="becker",
+    authors="Becker, U. D. Hamann, J. Münch, and M. Verlage",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Becker1997",
+    placex="IEEE Trans. Computer Software Eng. Software Process Newsletter, Vol. 10, Pp, 10-15",
+))
+
 boldyreff1997a = DB(WorkUnrelated(
     1997, "A basis for process improvement in application management",
     display="boldyreff",

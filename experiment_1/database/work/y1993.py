@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bandinelli1993a = DB(WorkUnrelated(
+    1993, "Software Process Evolution in the SPADE Environment",
+    display="bandinelli",
+    authors="Bandinelli, S. A. Fuggetta , and C. Ghezzi",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Bandinelli1993",
+    placex="IEEE Trans. Software Eng., Vol. 19, No. 12, Pp. 1,128-1,144",
+))
+
 cederling1993a = DB(WorkUnrelated(
     1993, "Industrial software development --- a case study",
     display="cederling",

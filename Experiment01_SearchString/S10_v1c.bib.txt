@@ -1,0 +1,103 @@
+@ARTICLE{Checkland1990,
+author={Checkland, P. and J. Scholes},
+journal={John Wiley & Sons},
+title={Soft Systems Methodology in Action},
+year={1990},
+note={cited By 1},
+}
+
+@ARTICLE{Rombach1991,
+author={Rombach, H.D.},
+journal={Inst. for Advanced Computer Studies, Univ. of Maryland},
+title={MVP-L A Language for Process Modeling In-the-Large},
+year={1991},
+note={cited By 1},
+}
+
+@ARTICLE{Bro1995,
+author={Bro, A. Ckers, C.M. Lott, H.D. Rombach, and M. Verlage},
+journal={¨Dept. of Computer Science, Univ. of Kaiserslautern, Germany},
+title={MVP-L Language Report, Version 2},
+year={1995},
+note={cited By 1},
+}
+
+@ARTICLE{Becker1997,
+author={Becker, U. D. Hamann, J. Münch, and M. Verlage},
+journal={IEEE Trans. Computer Software Eng. Software Process Newsletter, Vol. 10, Pp, 10-15},
+title={MVP-E: A Process Modeling Environment},
+year={1997},
+note={cited By 1},
+}
+
+@ARTICLE{Vertage1994,
+author={Vertage, M.},
+journal={Proc. Third European Workshop Software Process Technology, SpringerVerlag, Pp. 123-127},
+title={Multi-View Modeling of Software Processes},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{Bandinelli1995,
+author={Bandinelli, S. A. Fuggetta L. Lavazza, M. Loi, and G.P. Picco},
+journal={IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454},
+title={Modeling and Improving An Industrial Software Process},
+year={1995},
+note={cited By 1},
+}
+
+@ARTICLE{Bandinelli1993,
+author={Bandinelli, S. A. Fuggetta , and C. Ghezzi},
+journal={IEEE Trans. Software Eng., Vol. 19, No. 12, Pp. 1,128-1,144},
+title={Software Process Evolution in the SPADE Environment},
+year={1993},
+note={cited By 1},
+}
+
+@ARTICLE{Madhavji1994,
+author={Madhavji, N.H. D. Holtje, H. WonKook, and T. Bruckhaus},
+journal={Third Int'l Conf. the Software Process, IEEE CS Press},
+title={Elicit: A Method for Eliciting Process Models, Proc},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{Heineman1994,
+author={Heineman, G.T. Et Al.},
+journal={IBM Systems J., Vol. 33, No. 3, Pp. 501-529},
+title={Emerging Technologies That Support A Software Process Life Cycle},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{Turgeon1996,
+author={Turgeon, J. And N.H. Madhavji},
+journal={Proc. Fifth Euopean Workshop Software Process Technology, Springer-Verlag},
+title={A Systematic View-Based Approach to Eliciting Process Models},
+year={1996},
+note={cited By 1},
+}
+
+@ARTICLE{Finkelstei1992,
+author={Finkelstein, A. J. Kramer, B. Nuseibeh, and M. Goedicke},
+journal={Int'l J. Software Eng. and Knowledge Eng., Vol. 2, No. 1, Pp. 31-58},
+title={Viewpoints: A Framework for Integrating Multiple Perspectives in System Development},
+year={1992},
+note={cited By 1},
+}
+
+@ARTICLE{Nuseibeh1994,
+author={Nuseibeh, B. J. Kramer , and A. Finkelstein},
+journal={IEEE Trans. Software Eng., Vol. 20, No. 10, Pp. 760-773},
+title={A Framework for Expressing the Relationships between Multiple Views in Requirements Specifications},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{Easterbrook1996,
+author={Easterbrook, S. and B. Nuseibeh},
+journal={BCS/IEE Software Eng. J., Vol. 11, No. 1, Pp. 31-43},
+title={Using ViewPoints for Inconsistency Management},
+year={1996},
+note={cited By 1},
+}
