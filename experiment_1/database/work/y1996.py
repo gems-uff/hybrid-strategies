@@ -69,6 +69,28 @@ dunaway1996a = DB(WorkUnrelated(
     ID="Dunaway1996",
 ))
 
+emmet1996a = DB(WorkUnrelated(
+    1996, "PERE Evaluation and Improvement of Dependable Processes",
+    display="emmet",
+    authors="Emmet, L. R. Bloomfield, J. Bowers, and S. Viller,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Emmet1996",
+    placex="Proc. Safecomp",
+))
+
+fuggetta1996a = DB(WorkUnrelated(
+    1996, "Trends in Software: Software Process",
+    display="fuggetta",
+    authors="Fuggetta, A. and A. Wolf. , Eds.,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Fuggetta1996",
+    placex="Chichester, U.K.: John Wiley & Sons",
+))
+
 hather1996a = DB(WorkUnrelated(
     1996, "A method for application management maturity assessment",
     display="hather",

@@ -56,6 +56,28 @@ dedolph1994a = DB(WorkUnrelated(
     ID="Dedolph1994",
 ))
 
+finkelstein1994a = DB(WorkUnrelated(
+    1994, "Software Process Modelling and Technology",
+    display="finkelstein",
+    authors="Finkelstein, A.J. Kramer, and B. Nuseibeh,Eds.,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Finkelstein1994",
+    placex="Research Studies Press",
+))
+
+haase1994a = DB(WorkUnrelated(
+    1994, "Bootstrap: Fine Tuning Process Assessment",
+    display="haase",
+    authors="Haase, V., R. Messnarz, G. Koch, H.J. Kugler, and P. Decrinis",
+    place=IEEES,
+    entrytype="article",
+    note="cited By 1",
+    ID="Haase1994",
+    placex="IEEE Software, Vol. 11, No. 4, Pp. 25-35",
+))
+
 jm1994a = DB(WorkUnrelated(
     1994, "Designing funded qualitative research",
     display="jm",

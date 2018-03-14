@@ -37,6 +37,17 @@ curtis1993a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+fernstro1993a = DB(WorkUnrelated(
+    1993, "Process Weaver: Adding Process Support to Unix",
+    display="fernstro",
+    authors="Fernstro, C. M,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Fernstro1993",
+    placex="?Proc. Second Int'l Conf. Software Process",
+))
+
 lott1993a = DB(WorkUnrelated(
     1993, "Measurement-based guidance of software projects using explicit project plans",
     display="lott",
@@ -74,6 +85,17 @@ paulk1993b = DB(WorkUnrelated(
     note="cited By 1004",
     ID="Paulk1993",
     placex="Capability Maturity Model for Software, Version 1.1",
+))
+
+paulk1993c = DB(WorkUnrelated(
+    1993, "Capability Maturity Model, Version 1.1",
+    display="paulk c",
+    authors="Paulk, M.C., B. Curtis, M.B. Chrissis, and C.V. Weber",
+    place=IEEES,
+    entrytype="article",
+    note="cited By 1",
+    ID="Paulk1993",
+    placex="IEEE Software, Vol. 10, No. 4, Pp. 18-27",
 ))
 
 thompson1993a = DB(WorkUnrelated(

@@ -14,6 +14,17 @@ akao1990a = DB(WorkUnrelated(
     ID="Akao1990",
 ))
 
+hammer1990a = DB(WorkUnrelated(
+    1990, "Reengineering Work: Don't Automate",
+    display="hammer",
+    authors="Hammer, M.,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Hammer1990",
+    placex="Obliterate, Harvard Business Review",
+))
+
 ram1990a = DB(WorkUnrelated(
     1990, "HyperIntelligence: The Next Frontier",
     display="ram",

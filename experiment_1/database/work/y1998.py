@@ -140,6 +140,17 @@ ramil1998a = DB(WorkUnrelated(
     placex="Software Process Technology",
 ))
 
+sommerville1998a = DB(WorkUnrelated(
+    1998, "Viewpoints for Requirements Elicitation: A Practical Approach",
+    display="sommerville",
+    authors="Sommerville, I.P. Sawyer, and S. Viller,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sommerville1998",
+    placex="Proc. Int'l Conf. Requirements Eng.",
+))
+
 stålhane1998a = DB(WorkUnrelated(
     1998, "Modification of safety critical systems: an assessment of three approaches",
     display="stålhane",

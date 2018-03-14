@@ -1,0 +1,121 @@
+@ARTICLE{Finkelstein1994,
+author={Finkelstein, A.J. Kramer, and B. Nuseibeh,Eds.,},
+title={Software Process Modelling and Technology },
+journal={Research Studies Press},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{Fuggetta1996,
+author={Fuggetta, A. and A. Wolf. , Eds.,},
+title={Trends in Software: Software Process},
+journal={Chichester, U.K.: John Wiley & Sons},
+year={1996},
+note={cited By 1},
+}
+
+
+@ARTICLE{Hammer1990,
+author={Hammer, M.,},
+title={Reengineering Work: Don't Automate},
+journal={Obliterate, Harvard Business Review},
+year={1990},
+note={cited By 1},
+}
+
+@ARTICLE{Humphrey1988,
+author={Humphrey, W.S.,},
+title={Characterizing the Software Process},
+journal={IEEE Software, Vol. 5, No. 2, Pp. 73-79},
+year={1988},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk1993,
+author={Paulk, M.C., B. Curtis, M.B. Chrissis, and C.V. Weber},
+title={Capability Maturity Model, Version 1.1},
+journal={IEEE Software, Vol. 10, No. 4, Pp. 18-27},
+year={1993},
+note={cited By 1},
+}
+
+@ARTICLE{Haase1994,
+author={Haase, V., R. Messnarz, G. Koch, H.J. Kugler, and P. Decrinis},
+title={Bootstrap: Fine Tuning Process Assessment},
+journal={IEEE Software, Vol. 11, No. 4, Pp. 25-35},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{KElElman1997,
+title={SPICE: the Theory and Practice of Software Process Improvement and Capability Determination},
+author={K.El Emam, J. Drouin, and M. Welo},
+journal={IEEE CS Press},
+year={1997},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville1997,
+author={Sommerville, I. and P. Sawyer},
+journal={John Wiley & Sons},
+title={Requirements Engineering: A Good Practice Guide},
+year={1997},
+note={cited By 1},
+}
+
+@ARTICLE{Emmet1996,
+author={Emmet, L. R. Bloomfield, J. Bowers, and S. Viller,},
+journal={Proc. Safecomp},
+year={1996},
+title={PERE Evaluation and Improvement of Dependable Processes},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville1997,
+author={Sommerville, I. and P. Sawyer,},
+journal={Annual Software Eng., Vol. 3},
+title={Viewpoints: Principles, Problems and A Practical Approach to Requirements Engineering  },
+year={1997},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville1998,
+author={Sommerville, I.P. Sawyer, and S. Viller,},
+journal={Proc. Int'l Conf. Requirements Eng.},
+title={Viewpoints for Requirements Elicitation: A Practical Approach},
+year={1998},
+note={cited By 1},
+}
+
+@ARTICLE{Osterweil1987,
+author={Osterweil, L.},
+journal={Proc. Ninth Int'l Conf. Software Eng., Pp. 2-12},
+title={Software Processes Are Software Too},
+year={1987},
+note={cited By 1},
+}
+
+@ARTICLE{Fernstro1993,
+author={Fernstro, C. M, },
+journal={¨Proc. Second Int'l Conf. Software Process},
+title={Process Weaver: Adding Process Support to Unix},
+year={1993},
+note={cited By 1},
+}
+
+@ARTICLE{Sutton1997,
+author={Sutton, S.M. and L.J. Osterweil},
+journal={ESEC/FSE'97 Springer-Verlag},
+title={The Design of A Next-Generation Process Language  },
+year={1997},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk1995,
+author={Paulk, M.C. C.V. Weber, B. Curtis, and M.B. Chrissis,},
+journal={Reading, Mass.: Addison-Wesley},
+title={The Capability Maturity Model: Guidelines for Improving the Software Process},
+year={1995},
+note={cited By 1},
+}
+

@@ -47,6 +47,17 @@ dahlberg1997a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+emam1997a = DB(WorkUnrelated(
+    1997, "SPICE: the Theory and Practice of Software Process Improvement and Capability Determination",
+    display="emam",
+    authors="K.El Emam, J. Drouin, and M. Welo",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="KElElman1997",
+    placex="IEEE CS Press",
+))
+
 florac1997a = DB(WorkUnrelated(
     1997, "Practical software measurement: Measuring for process management and improvement",
     display="florac",
@@ -150,4 +161,37 @@ reiblein1997a = DB(WorkSnowball(
     publisher="Springer",
     cluster_id="2106803465759819075",
     scholar_ok=True,
+))
+
+sommerville1997a = DB(WorkUnrelated(
+    1997, "Requirements Engineering: A Good Practice Guide",
+    display="sommerville",
+    authors="Sommerville, I. and P. Sawyer",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sommerville1997",
+    placex="John Wiley & Sons",
+))
+
+sommerville1997b = DB(WorkUnrelated(
+    1997, "Viewpoints: Principles, Problems and A Practical Approach to Requirements Engineering",
+    display="sommerville b",
+    authors="Sommerville, I. and P. Sawyer,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sommerville1997",
+    placex="Annual Software Eng., Vol. 3",
+))
+
+sutton1997a = DB(WorkUnrelated(
+    1997, "The Design of A Next-Generation Process Language",
+    display="sutton",
+    authors="Sutton, S.M. and L.J. Osterweil",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sutton1997",
+    placex="ESEC/FSE'97 Springer-Verlag",
 ))

@@ -1,0 +1,261 @@
+﻿Scopus
+EXPORT DATE: 14 March 2018
+
+@ARTICLE{Finkelstein2006,
+author={Finkelstein, A.},
+journal={J. Kramer, and B. Nuseibeh, Eds., Software Process Modelling and Technology, Taunton, Somerset, England: Research Studies Press Ltd.},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Fuggetta2006,
+author={Fuggetta, A.},
+journal={And A. Wolf, Eds., Trends in Software: Software Process. Chichester, U.K.: John Wiley & Sons},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Hammer2006,
+author={Hammer, M.},
+journal={Reengineering Work: Don't Automate, Obliterate, Harvard Business Review, Pp. 104-112},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Humphrey2006,
+author={Humphrey, W.S.},
+journal={Characterizing the Software Process, IEEE Software, Vol. 5, No. 2, Pp. 73-79},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk2006,
+author={Paulk, M.C.},
+journal={B. Curtis, M.B. Chrissis, and C.V. Weber, Capability Maturity Model, Version 1.1, IEEE Software, Vol. 10, No. 4, Pp. 18-27},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Haase2006,
+author={Haase, V.},
+journal={R. Messnarz, G. Koch, H.J. Kugler, and P. Decrinis, Bootstrap: Fine Tuning Process Assessment, IEEE Software, Vol. 11, No. 4, Pp. 25-35},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{K-El2006,
+author={K-El},
+journal={Emam, J. Drouin, and M. Welo, SPICE: the Theory and Practice of Software Process Improvement and Capability Determination. Los Alamitos, Calif.: IEEE CS Press},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville2006,
+author={Sommerville, I.},
+journal={And P. Sawyer, Requirements Engineering: A Good Practice Guide. Chichester U.K.: John Wiley & Sons},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Emmet2006,
+author={Emmet, L.},
+journal={R. Bloomfield, J. Bowers, and S. Viller, PERE; Evaluation and Improvement of Dependable Processes, Proc. Safecomp'96},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville2006,
+author={Sommerville, I.},
+journal={And P. Sawyer, Viewpoints: Principles, Problems and A Practical Approach to Requirements Engineering, Annual Software Eng., Vol. 3},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville2006,
+author={Sommerville, I.},
+journal={P. Sawyer, and S. Viller, Viewpoints for Requirements Elicitation: A Practical Approach, Proc. Int'l Conf. Requirements Eng.},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Osterweil2006,
+author={Osterweil, L.},
+journal={Software Processes Are Software Too, Proc. Ninth Int'l Conf. Software Eng., Pp. 2-12},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Fernstro2006,
+author={Fernstro, C.},
+journal={̈M, Process Weaver: Adding Process Support to Unix, Proc. Second Int'l Conf. Software Process},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sutton2006,
+author={Sutton, S.M.},
+journal={And L.J. Osterweil, The Design of A Next-Generation Process Language, ESEC/FSE'97, Pp. 142-58, Springer-Verlag},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk2006,
+author={Paulk, M.C.},
+journal={C.V. Weber, B. Curtis, and M.B. Chrissis, the Capability Maturity Model: Guidelines for Improving the Software Process. Reading, Mass.: Addison-Wesley},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville2006,
+author={Sommerville, I.},
+journal={And T. Rodden, Human, Social and Organizational Influences on the Software Process, Trends in Software, A. Fuggetta and A. Wolf, Eds., Pp. 89-110, New York: John Wiley & Sons},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Cugola2006,
+author={Cugola, G.},
+journal={E. di Nitto, A. Fuggetta, and C. Ghezzi, A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems, ACM. Trans. Software Eng, and Methodology, Vol. 5, No. 3, Pp. 191-230},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Conradi2006,
+author={Conradi, R.},
+journal={And C. Liu, Process Modelling Languages: One or Many, Proc. Fourth European Workshop Software Process Technology, Springer-Verlag},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Checkland2006,
+author={Checkland, P.},
+journal={Systems Thinking, Systems Practice. Chichester U.K.: John Wiley & Sons},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Mullery2006,
+author={Mullery, G.},
+journal={CORE - A Method for Controlled Requirements Specification, Proc. Fourth Int'l Conf. Software Eng., Pp. 126-35, IEEE CS Press},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Kotonya2006,
+author={Kotonya, G.},
+journal={And I. Sommerville, Viewpoints for Requirements Definition, BCS/IEE Software Eng. J., Vol. 7, No. 6, Pp. 375-87},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Kotonya2006,
+author={Kotonya, G.},
+journal={And I. Sommerville, Requirements Engineering with Viewpoints, BCS/IEE Software Eng. J., Vol. 11, No.1, Pp. 5-18},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Sommerville2006,
+author={Sommerville, I.},
+journal={P. Sawyer G. Kotonya, and S. Viller, Process Viewpoints, Proc. Fifth European Workshop Software Process Technology, Springer-Verlag},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Basili2006,
+author={Basili, V.R.},
+journal={And H.D. Rombach, The TAME Project: Towards Improvement-Oriented Software Environments, IEEE Trans. Software Eng., Vol. 14, No. 6, Pp. 758-773},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Checkland2006,
+author={Checkland, P.},
+journal={And J. Scholes, Soft Systems Methodology in Action. Chichester U.K.: John Wiley & Sons},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Rombach2006,
+author={Rombach, H.D.},
+journal={MVP-L, A Language for Process Modeling In-the-Large, Inst. for Advanced Computer Studies, Univ. of Maryland},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Bro2006,
+author={Bro, A.},
+journal={̈Ckers, C.M. Lott, H.D. Rombach, and M. Verlage, MVP-L Language Report, Version 2, Dept. of Computer Science, Univ. of Kaiserslautern, Germany},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Becker2006,
+author={Becker, U.},
+journal={D. Hamann, J. Münch, and M. Verlage, MVP-E: A Process Modeling Environment IEEE Trans. Computer Software Eng. Software Process Newsletter, Vol. 10, Pp, 10-15},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Vertage2006,
+author={Vertage, M.},
+journal={Multi-View Modeling of Software Processes, Proc. Third European Workshop Software Process Technology, SpringerVerlag, Pp. 123-127},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Bandinelli2006,
+author={Bandinelli, S.},
+journal={A. Fuggetta L. Lavazza, M. Loi, and G.P. Picco, Modeling and Improving An Industrial Software Process, IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Bandinelli2006,
+author={Bandinelli, S.},
+journal={A. Fuggetta , and C. Ghezzi, Software Process Evolution in the SPADE Environment, IEEE Trans. Software Eng., Vol. 19, No. 12, Pp. 1,128-1,144},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Madhavji2006,
+author={Madhavji, N.H.},
+journal={D. Holtje, H. WonKook, and T. Bruckhaus Elicit: A Method for Eliciting Process Models, Proc. Third Int'l Conf. the Software Process, IEEE CS Press},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Heineman2006,
+author={Heineman, G.T.},
+journal={Et Al., Emerging Technologies That Support A Software Process Life Cycle, IBM Systems J., Vol. 33, No. 3, Pp. 501-529},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Turgeon2006,
+author={Turgeon, J.},
+journal={And N.H. Madhavji, A Systematic View-Based Approach to Eliciting Process Models, Proc. Fifth Euopean Workshop Software Process Technology, Springer-Verlag},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Finkelstein2006,
+author={Finkelstein, A.},
+journal={J. Kramer, B. Nuseibeh, and M. Goedicke, Viewpoints: A Framework for Integrating Multiple Perspectives in System Development, Int'l J. Software Eng. and Knowledge Eng., Vol. 2, No. 1, Pp. 31-58},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Nuseibeh2006,
+author={Nuseibeh, B.},
+journal={J. Kramer , and A. Finkelstein, A Framework for Expressing the Relationships between Multiple Views in Requirements Specifications, IEEE Trans. Software Eng., Vol. 20, No. 10, Pp. 760-773},
+year={2006},
+note={cited By 1},
+}
+
+@ARTICLE{Easterbrook2006,
+author={Easterbrook, S.},
+journal={And B. Nuseibeh, Using ViewPoints for Inconsistency Management, BCS/IEE Software Eng. J., Vol. 11, No. 1, Pp. 31-43},
+year={2006},
+note={cited By 1},
+}
