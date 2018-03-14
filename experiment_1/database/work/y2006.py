@@ -72,6 +72,17 @@ asgarkhani2006a = DB(WorkUnrelated(
     placex="IEEE international conference on management of innovation and technology",
 ))
 
+basili2006a = DB(WorkUnrelated(
+    2006, "The TAME Project: Towards Improvement-Oriented Software Environments",
+    display="basili",
+    authors="Basili, V.R. and H.D. Rombach",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Basili1988",
+    placex="IEEE Trans. Software Eng., Vol. 14, No. 6, Pp. 758-773",
+))
+
 cox2006a = DB(WorkUnrelated(
     2006, "A Contingency View of Organizational Infrastructure Requirements Engineering",
     display="cox",

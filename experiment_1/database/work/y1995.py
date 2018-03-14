@@ -60,6 +60,28 @@ christie1995a = DB(WorkUnrelated(
     placex="Software Process Automation: The Technology and Its Adoption",
 ))
 
+conradi1995a = DB(WorkUnrelated(
+    1995, "Process Modelling Languages: One or Many",
+    display="conradi",
+    authors="Conradi, R. and C. Liu",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Conradi1995",
+    placex="Proc. Fourth European Workshop Software Process Technology, Springer-Verlag",
+))
+
+kotonya1995a = DB(WorkUnrelated(
+    1995, "Requirements Engineering with Viewpoints",
+    display="kotonya",
+    authors="Kotonya, G. and I. Sommerville",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kotonya1995",
+    placex="BCS/IEE Software Eng. J., Vol. 11, No.1, Pp. 5-18",
+))
+
 kuntzmann1995a = DB(WorkUnrelated(
     1995, "Quantitative approach to software process improvement",
     display="kuntzmann",
@@ -155,6 +177,17 @@ russell1995a = DB(WorkUnrelated(
     note="cited By 11027",
     ID="Russell1995",
     placex="Prentice Hall",
+))
+
+sommerville1995a = DB(WorkUnrelated(
+    1995, "Process Viewpoints",
+    display="sommerville",
+    authors="Sommerville, I. P. Sawyer G. Kotonya and S. Viller",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sommerville1995",
+    placex="Proc. Fifth European Workshop Software Process Technology, Springer-Verlag",
 ))
 
 teufel1995a = DB(WorkUnrelated(

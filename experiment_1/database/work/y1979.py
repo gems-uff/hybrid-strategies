@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+mullery1979a = DB(WorkUnrelated(
+    1979, "CORE - A Method for Controlled Requirements Specification",
+    display="mullery",
+    authors="Mullery, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Mullery1979",
+    placex="Proc. Fourth Int'l Conf. Software Eng., Pp. 126-35, IEEE CS Press",
+))
+
 porter1979a = DB(WorkUnrelated(
     1979, "How competitive forces shape strategy",
     display="porter",

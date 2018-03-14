@@ -56,3 +56,14 @@ kaplan1992a = DB(WorkUnrelated(
     note="cited By 5432",
     ID="Kaplan199271",
 ))
+
+kotonya1992a = DB(WorkUnrelated(
+    1992, "Viewpoints for Requirements Definition",
+    display="kotonya",
+    authors="Kotonya, G. and I. Sommerville",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kotonya1992",
+    placex="BCS/IEE Software Eng. J., Vol. 7, No. 6, Pp. 375-87",
+))

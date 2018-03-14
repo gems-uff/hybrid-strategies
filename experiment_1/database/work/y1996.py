@@ -58,6 +58,17 @@ briand1996a = DB(WorkUnrelated(
     ID="Briand1996253",
 ))
 
+cugola1996a = DB(WorkUnrelated(
+    1996, "A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems",
+    display="cugola",
+    authors="Cugola, G. E. di Nitto , A. Fuggetta, and C. Ghezzi,",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Cugola1996",
+    placex="ACM. Trans. Software Eng, and Methodology, Vol. 5, No. 3, Pp. 191-230",
+))
+
 dunaway1996a = DB(WorkUnrelated(
     1996, "CMM-Based appraisal for internal process improvement (CBA IPI): Method description",
     display="dunaway",
@@ -163,4 +174,15 @@ pulford1996a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="Pulford1996",
+))
+
+sommerville1996a = DB(WorkUnrelated(
+    1996, "Human, Social and Organizational Influences on the Software Process",
+    display="sommerville",
+    authors="Sommerville, I. and T. Rodden",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sommerville1996",
+    placex="Trends in Software, A. Fuggetta and A. Wolf, Eds., Pp. 89-110, New York: John Wiley & Sons",
 ))
