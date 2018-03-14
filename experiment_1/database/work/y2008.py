@@ -293,6 +293,17 @@ hanssen2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+harjumaa2008a = DB(WorkUnrelated(
+    2008, "How does a measurement programme evolve in software organizations?",
+    display="harjumaa",
+    authors="Harjumaa, L., Markkula, J., & Oivo, M",
+    place=PROFES,
+    entrytype="article",
+    note="cited By 1",
+    ID="Harjumaa2008",
+    placex="PROFES",
+))
+
 hornbæk2008a = DB(WorkUnrelated(
     2008, "Making Use of Business Goals in Usability Evaluation: An Experiment with Novice Evaluators",
     display="hornbæk",
@@ -317,6 +328,17 @@ isaca2008a = DB(WorkUnrelated(
     note="cited By 6",
     ID="ISACA2008",
     placex="IT Governance Institute",
+))
+
+isoiec2008a = DB(WorkUnrelated(
+    2008, "Quality management systemsrequirements, international standards organization",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ISOIECr2008",
+    placex="ISO/IEC 9001:2008",
 ))
 
 j2008a = DB(WorkUnrelated(
@@ -345,6 +367,17 @@ janssen2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd International Conference on Theory and Practice of Electronic Governance",
 ))
 
+kaplan2008a = DB(WorkUnrelated(
+    2008, "Plan the strategy: Aligning the organization for effective strategy execution",
+    display="kaplan",
+    authors="Kaplan, R. S., & Norton, D. P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kaplan2008",
+    placex="Harvard Business Press",
+))
+
 kleinberg2008a = DB(WorkUnrelated(
     2008, "Strategic Network Formation with Structural Holes",
     display="kleinberg",
@@ -359,6 +392,46 @@ kleinberg2008a = DB(WorkUnrelated(
     ID="Kleinberg:2008:SNF:1386790.1386835",
     acm="1",
     placex="Proceedings of the 9th ACM Conference on Electronic Commerce",
+))
+
+kojima2008a = DB(WorkUnrelated(
+    2008, "Risk analysis of software process measurements",
+    display="kojima",
+    authors="Kojima, T. and Hasegawa, T. and Misumi, M. and Nakamura, T.",
+    place=SQJ,
+    pp="361-376",
+    entrytype="article",
+    volume="16",
+    number="3",
+    doi="10.1007/s11219-007-9040-5",
+    note="cited By 2",
+    ID="Kojima2008361",
+    placex="Software Quality Journal",
+))
+
+kuppusamy2008a = DB(WorkUnrelated(
+    2008, "Fostering ICT development for growth: Measuring the payoffs for Australia and the Asean-5 countries",
+    display="kuppusamy",
+    authors="Kuppusamy, M. and Pahlavani, M. and Saleh, A.S.",
+    place=FAKE,
+    pp="1676-1685",
+    entrytype="article",
+    volume="5",
+    number="12",
+    note="cited By 11",
+    ID="Kuppusamy20081676",
+    placex="American Journal of Applied Sciences",
+))
+
+long2008a = DB(WorkUnrelated(
+    2008, "ITIL version 3 at a glance",
+    display="long",
+    authors="Long, J. O.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Long2008",
+    placex="Springer US",
 ))
 
 markovic2008a = DB(WorkUnrelated(
@@ -396,6 +469,17 @@ martins2008a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="201686578103891917",
     scholar_ok=True,
+))
+
+mishra2008a = DB(WorkUnrelated(
+    2008, "Software process improvement methodologies for small and medium enterprises",
+    display="mishra",
+    authors="Mishra, D., & Mishra, A.",
+    place=PROFES,
+    entrytype="article",
+    note="cited By 1",
+    ID="Mishra2008",
+    placex="Product-focused software process improvement",
 ))
 
 niebuhr2008a = DB(WorkUnrelated(

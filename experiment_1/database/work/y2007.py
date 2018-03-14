@@ -110,6 +110,43 @@ deng2007a = DB(WorkUnrelated(
     placex="SIGMETRICS Perform. Eval. Rev.",
 ))
 
+ebert2007a = DB(WorkUnrelated(
+    2007, "Software measurement: Establishextractevaluateexecute",
+    display="ebert",
+    authors="Ebert, C., & Dumke, R",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="NoAuthor0000",
+    placex="Springer",
+))
+
+el2007a = DB(WorkUnrelated(
+    2007, "TrialStat corporation: On schedule with high quality and cost savings for the customer",
+    display="el emam",
+    authors="El-Emam, K",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="El-Emam2007",
+    placex="Performance results from process improvement, DACS Journal",
+))
+
+fahey2007a = DB(WorkUnrelated(
+    2007, "Connecting strategy and competitive intelligence: Refocusing intelligence to produce critical strategy inputs",
+    display="fahey",
+    authors="Fahey, L.",
+    place=FAKE,
+    pp="4-12",
+    entrytype="article",
+    volume="35",
+    number="1",
+    doi="10.1108/10878570710717236",
+    note="cited By 16",
+    ID="Fahey20074",
+    placex="Strategy & Leadership",
+))
+
 garcía2007a = DB(WorkUnrelated(
     2007, "Managing software process measurement: A metamodel-based approach",
     display="garcía",
@@ -138,6 +175,47 @@ habra2007a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Habra2007",
     placex="Information and Software Technology",
+))
+
+isoiec2007a = DB(WorkUnrelated(
+    2007, "Software engineeringsoftware measurement process",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ISOIEC2007",
+    placex="ISO/IEC 15939:2007",
+))
+
+kahraman2007a = DB(WorkUnrelated(
+    2007, "Prioritization of e-Government strategies using a SWOT-AHP analysis: The case of Turkey",
+    display="kahraman",
+    authors="Kahraman, C. and Demirel, N.Ç. and Demirel, T.",
+    place=FAKE,
+    pp="284-298",
+    entrytype="article",
+    volume="16",
+    number="3",
+    doi="10.1057/palgrave.ejis.3000679",
+    note="cited By 60",
+    ID="Kahraman2007284",
+    placex="European Journal of Information Systems",
+))
+
+kanji2007a = DB(WorkUnrelated(
+    2007, "Performance measurement andbusiness excellence: The reinforcing link for the public sector",
+    display="kanji",
+    authors="Kanji, G. and Moura E Sá, P.",
+    place=FAKE,
+    pp="49-56",
+    entrytype="article",
+    volume="18",
+    number="1-2",
+    doi="10.1080/14783360601043096",
+    note="cited By 19",
+    ID="Kanji200749",
+    placex="Total Quality Management and Business Excellence",
 ))
 
 karagiannis2007a = DB(WorkUnrelated(
@@ -212,6 +290,17 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
+mcloone2007a = DB(WorkUnrelated(
+    2007, "Performances outcomes of CMMI-based process improvements",
+    display="mcloone",
+    authors="Mcloone, P. J., & Rohde S. L.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Mcloone2007",
+    placex="Performance results from process improvement, DACS Journal",
+))
+
 montoni2007a = DB(WorkUnrelated(
     2007, "MPS model and TABA workstation: Implementing software process improvement initiatives in small settings",
     display="montoni",
@@ -224,6 +313,18 @@ montoni2007a = DB(WorkUnrelated(
     note="cited By 10",
     ID="Montoni2007",
     artnumber="4273471",
+))
+
+neergaard2007a = DB(WorkUnrelated(
+    2007, "Handbook of qualitative research methods in entrepreneurship",
+    display="neergaard",
+    authors="Neergaard, H. and Ulhøi, J.P.",
+    place=Book,
+    entrytype="book",
+    page_count="516",
+    note="cited By 70",
+    ID="Neergaard2007",
+    placex="Handbook of Qualitative Research Methods in Entrepreneurship",
 ))
 
 ordóñez2007a = DB(WorkUnrelated(
@@ -239,6 +340,28 @@ ordóñez2007a = DB(WorkUnrelated(
     ID="RuizOrdonez:2007:SRA:1329125.1329331",
     acm="1",
     placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
+))
+
+peng2007a = DB(WorkUnrelated(
+    2007, "Using PEST analysis as a tool for refining and focusing contexts for information systems research.",
+    display="peng",
+    authors="Peng, G. C. A., & Nunes, M. B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Peng2007",
+    placex="Proceedings of the 6th European conference on research methods for business and management studies",
+))
+
+qi2007a = DB(WorkUnrelated(
+    2007, "Motorola software groups china center: Value added by CMMI.",
+    display="qi",
+    authors="Qi, L. A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Qi2007",
+    placex="Performance results from process improvement, DACS Journal",
 ))
 
 sitnikova2007a = DB(WorkUnrelated(
@@ -319,6 +442,21 @@ verhoef2007a = DB(WorkUnrelated(
     ID="Verhoef2007247",
     sciencedirect="1",
     placex="Science of Computer Programming",
+))
+
+watson2007a = DB(WorkUnrelated(
+    2007, "The current state of business intelligence",
+    display="watson",
+    authors="Watson, H.J. and Wixom, B.H.",
+    place=C,
+    pp="96-99",
+    entrytype="article",
+    volume="40",
+    number="9",
+    doi="10.1109/MC.2007.331",
+    note="cited By 259",
+    ID="Watson200796",
+    placex="Computer",
 ))
 
 wilkie2007a = DB(WorkSnowball(

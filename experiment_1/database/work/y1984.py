@@ -16,3 +16,14 @@ basili1984a = DB(WorkUnrelated(
     note="cited By 491",
     ID="Basili1984728",
 ))
+
+lamb1984a = DB(WorkUnrelated(
+    1984, "Competitive Strategic Management",
+    display="lamb",
+    authors="Lamb, R.B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 34",
+    ID="Lamb1984",
+    placex="Englewood Cliffs: Prentice-Hall",
+))

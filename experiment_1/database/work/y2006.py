@@ -61,6 +61,17 @@ ardimento2006a = DB(WorkUnrelated(
     ID="Ardimento2006313",
 ))
 
+asgarkhani2006a = DB(WorkUnrelated(
+    2006, "Current trends in strategic management of ICTs",
+    display="asgarkhani",
+    authors="Asgarkhani, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Asgarkhani2006",
+    placex="IEEE international conference on management of innovation and technology",
+))
+
 cox2006a = DB(WorkUnrelated(
     2006, "A Contingency View of Organizational Infrastructure Requirements Engineering",
     display="cox",
@@ -204,6 +215,21 @@ iso2006a = DB(WorkUnrelated(
     ID="IT2003",
 ))
 
+issac2006a = DB(WorkUnrelated(
+    2006, "An instrument for the measurement of customer perceptions of quality management in the software industry: An empirical study in India",
+    display="issac",
+    authors="Issac, G. and Rajendran, C. and Anantharaman, R.N.",
+    place=SQJ,
+    pp="291-308",
+    entrytype="article",
+    volume="14",
+    number="4",
+    doi="10.1007/s11219-006-0037-2",
+    note="cited By 20",
+    ID="Issac2006291",
+    placex="Software Quality Journal",
+))
+
 jha2006a = DB(WorkUnrelated(
     2006, "Problem Frames Approach to Web Services Requirements",
     display="jha",
@@ -217,6 +243,17 @@ jha2006a = DB(WorkUnrelated(
     ID="Jha:2006:PFA:1138670.1138677",
     acm="1",
     placex="Proceedings of the 2006 International Workshop on Advances and Applications of Problem Frames",
+))
+
+kaplan2006a = DB(WorkUnrelated(
+    2006, "Alignment: Using the Balanced Scorecard to Create Corporate Synergies",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 282",
+    ID="Kaplan2006",
+    placex="Harvard Business Press",
 ))
 
 kishore2006a = DB(WorkUnrelated(
@@ -334,6 +371,32 @@ sei2006a = DB(WorkUnrelated(
     placex="",
 ))
 
+sei2006b = DB(WorkUnrelated(
+    2006, "Standard CMMI Appraisal Method for Process Improvement (SCAMPI) A, Version 1.2: Method Definition Document",
+    display="sei b",
+    authors="SEI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="SEI2006",
+    placex="CMU SEI",
+))
+
+shull2006a = DB(WorkUnrelated(
+    2006, "Victor R. Basili's contributions to software quality",
+    display="shull",
+    authors="Shull, F. and Seaman, C. and Zelkowitz, M.",
+    place=IEEES,
+    pp="16-18",
+    entrytype="article",
+    volume="23",
+    number="1",
+    doi="10.1109/MS.2006.33",
+    note="cited By 12",
+    ID="Shull200616",
+    placex="IEEE Software",
+))
+
 solingen2006a = DB(WorkUnrelated(
     2006, "Calculating Software Process Improvements Return on Investment",
     display="solingen",
@@ -351,6 +414,17 @@ solingen2006a = DB(WorkUnrelated(
     ID="VanSolingen20061",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+tuan2006a = DB(WorkUnrelated(
+    2006, "Using ABC model for software process improvement: A balanced perspective",
+    display="tuan",
+    authors="Tuan, H. W., Liu, C. Y., & Chen, C. M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Tuan2006",
+    placex="Proceedings of the 39th annual Hawaii international conference on system sciences",
 ))
 
 wangeheim2006a = DB(WorkUnrelated(

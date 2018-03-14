@@ -39,6 +39,17 @@ basili2009a = DB(WorkUnrelated(
     placex="Proceedings of 9th BI Conference",
 ))
 
+basili2009b = DB(WorkUnrelated(
+    2009, "Linking software development and business strategy through measurement",
+    display="basili b",
+    authors="Basili, V., Heidrich, J., Lindvall, M., Münch, J., Regardie, M., Rombach, D., et al",
+    place=IEEE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Basili2009",
+    placex="IEEE",
+))
+
 bjørnson2009a = DB(WorkUnrelated(
     2009, "Improving the effectiveness of root cause analysis in post mortem analysis: A controlled experiment",
     display="bjørnson",
@@ -56,6 +67,17 @@ bjørnson2009a = DB(WorkUnrelated(
     ID="Bjørnson2009150",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+chastek2009a = DB(WorkUnrelated(
+    2009, "Formulation of a production strategy for a software product line",
+    display="chastek",
+    authors="Chastek, J. G., Donohoe, P., & McGregor, D. J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Chastek2009",
+    placex="DTIC MIL",
 ))
 
 dubinsky2009a = DB(WorkUnrelated(
@@ -171,6 +193,20 @@ huang2009a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+kamel2009a = DB(WorkUnrelated(
+    2009, "The impact of ICT investments on economic development in Egypt",
+    display="kamel",
+    authors="Kamel, S. and Rateb, D. and El-Tawil, M.",
+    place=FAKE,
+    pp="1-21",
+    entrytype="article",
+    volume="36",
+    number="1",
+    note="cited By 15",
+    ID="Kamel20091",
+    placex="The Electronic Journal of Information Systems in Developing Countries",
+))
+
 karhu2009a = DB(WorkUnrelated(
     2009, "Investigating the relationship between schedules and knowledge transfer in software testing",
     display="karhu",
@@ -245,6 +281,17 @@ marew2009a = DB(WorkUnrelated(
     ID="Marew20091642",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+oliveira2009a = DB(WorkUnrelated(
+    2009, "A comparative analysis of CMMI software project management by Brazilian, Indian and Chinese companies.",
+    display="oliveira",
+    authors="Oliveira, S. B., Valle, R., & Mahler, C. F.",
+    place=SQJ,
+    entrytype="article",
+    note="cited By 1",
+    ID="Oliveira2009",
+    placex="Software Quality Journal",
 ))
 
 petersen2009a = DB(WorkUnrelated(
@@ -420,6 +467,7 @@ trienekens2009a = DB(WorkSnowball(
     cluster_id="16998397325353603051",
     publisher="Springer",
     scholar_ok=True,
+    placex="Software Quality Journal",
 ))
 
 vieira2009a = DB(WorkUnrelated(

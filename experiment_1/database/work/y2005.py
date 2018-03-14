@@ -159,6 +159,21 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
+gopal2005a = DB(WorkUnrelated(
+    2005, "The impact of institutional forces on software metrics programs",
+    display="gopal",
+    authors="Gopal, A. and Mukhopadhyay, T. and Krishnan, M.S.",
+    place=ToSE,
+    pp="679-694",
+    entrytype="article",
+    volume="31",
+    number="8",
+    doi="10.1109/TSE.2005.95",
+    note="cited By 29",
+    ID="Gopal2005679",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 institute2005a = DB(WorkUnrelated(
     2005, "FAME (Fraunhofer Assessment MEthod) - A Business-focused Method for Process Assessment",
     display="institute",
@@ -179,6 +194,17 @@ isaca2005a = DB(WorkUnrelated(
     note="cited By 121",
     ID="ISACA2005",
     placex="ISACA",
+))
+
+kaplan2005a = DB(WorkUnrelated(
+    2005, "The office of strategy management",
+    display="kaplan",
+    authors="Kaplan, R. S. & Norton, D. P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kaplanr2005",
+    placex="Harvard Business Review Article",
 ))
 
 liu2005a = DB(WorkUnrelated(

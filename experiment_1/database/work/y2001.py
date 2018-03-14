@@ -166,6 +166,21 @@ dekkers2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+el2001a = DB(WorkUnrelated(
+    2001, "Modelling the likelihood of software process improvement: An exploratory study",
+    display="el",
+    authors="El-Emam, K. and Goldenson, D. and Mccurley, J. and Herbsleb, J.",
+    place=ESE,
+    pp="207-229",
+    entrytype="article",
+    volume="6",
+    number="3",
+    doi="10.1023/A:1011487332587",
+    note="cited By 33",
+    ID="El-Emam2001207",
+    placex="Empirical Software Engineering",
+))
+
 emam2001a = DB(WorkUnrelated(
     2001, "An empirical evaluation of the ISO/IEC 15504 assessment model",
     display="emam",

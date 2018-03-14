@@ -87,6 +87,17 @@ grady1997a = DB(WorkUnrelated(
     ID="Grady1997",
 ))
 
+kaplan1997a = DB(WorkUnrelated(
+    1997, "Cost and Effect: Using Integrated Cost Systems to Drive Profitability and Performance, Activity-Based Costing: Introduction (79-110)",
+    display="kaplan",
+    authors="Kaplan, R.S. and Cooper, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kaplan1997",
+    placex="Harvard Business School Press",
+))
+
 king1997a = DB(WorkUnrelated(
     1997, "Tool support for systems emergence: A multimedia \CASE\ tool",
     display="king",

@@ -69,6 +69,17 @@ caffery2004a = DB(WorkUnrelated(
     ID="McCaffery2004",
 ))
 
+capell2004a = DB(WorkUnrelated(
+    2004, "Benefits of improvement efforts",
+    display="capell",
+    authors="Capell, P",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Capell2004",
+    placex="SEI SPECIAL REPORT CMU",
+))
+
 davis2004a = DB(WorkUnrelated(
     2004, "Using Measurement Data in a TSPSM Project",
     display="davis",
@@ -97,6 +108,17 @@ fernandes2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-24659-6_25",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+goethert2004a = DB(WorkUnrelated(
+    2004, "Applications of the Indicator Template for Measurement and Analys",
+    display="goethert",
+    authors="Goethert, W. and Siviy, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Goethert2004",
+    placex="Carnegie Mellon University, Software Eng",
 ))
 
 grant2004a = DB(WorkUnrelated(
@@ -179,6 +201,17 @@ holz2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-25983-1_1",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+isoiec2004a = DB(WorkUnrelated(
+    2004, "Information technologyprocess assessmentPart 4: Guidance on use for process improvement and process capability determination",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ISOIEC2004",
+    placex="ISO/IEC 15504-4:2004",
 ))
 
 iversen2004a = DB(WorkUnrelated(
@@ -343,6 +376,21 @@ malotaux2004a = DB(WorkUnrelated(
     ID="Malotaux200477",
     sciencedirect="1",
     placex="The Firmware Handbook",
+))
+
+mehra2004a = DB(WorkUnrelated(
+    2004, "Purchasing management and business competitiveness in the coming decade",
+    display="mehra",
+    authors="Mehra, S. and Inman, R.A.",
+    place=FAKE,
+    pp="710-718",
+    entrytype="article",
+    volume="15",
+    number="7",
+    doi="10.1080/09537280412331298247",
+    note="cited By 20",
+    ID="Mehra2004710",
+    placex="Production Planning and Control",
 ))
 
 pedersen2004a = DB(WorkUnrelated(

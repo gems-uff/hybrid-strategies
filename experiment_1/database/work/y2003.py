@@ -32,6 +32,17 @@ brydon2003a = DB(WorkUnrelated(
     ID="BrydonMiller2003",
 ))
 
+card2003a = DB(WorkUnrelated(
+    2003, "Practical software measurement",
+    display="card",
+    authors="Card, D",
+    place=ICSE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Card2003",
+    placex="Proceedings of the 25th international conference on software engineering",
+))
+
 cechich2003a = DB(WorkUnrelated(
     2003, "Assessing Component-Based Systems",
     display="cechich",
@@ -137,6 +148,17 @@ feldmann2003a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-40052-3_5",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+goethert2003a = DB(WorkUnrelated(
+    2003, "Deriving enterprise-based measures using the balanced scorecard and goal-driven measurement techniques",
+    display="goethert",
+    authors="Goethert, W. and Fisher, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 12",
+    ID="Goethert2003",
+    placex="Deriving Enterprise-based Measures Using the Balanced Scorecard and Goal-driven Measurement Techniques",
 ))
 
 henninger2003a = DB(WorkUnrelated(
