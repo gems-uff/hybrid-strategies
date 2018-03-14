@@ -252,12 +252,12 @@ verhoef2007a = DB(WorkUnrelated(
 ))
 
 wilkie2007a = DB(WorkSnowball(
-    2007, "A low-overhead method for software process appraisal",
+    2007, "A Low-overhead method for software process appraisal",
     display="wilkie",
-    authors="Wilkie, F.G. and Mc Caffery, F. and McFall, D. and Lester, N. and Wilkinson, E.",
+    authors="Wilkie, F George and Mc Caffery, Fergal and McFall, Donald and Lester, Neil and Wilkinson, Emmanuel",
     place=SPIP,
-    pp="339-349",
-    entrytype="inproceedings",
+    pp="339--349",
+    entrytype="article",
     volume="12",
     number="4",
     doi="10.1002/spip.321",
@@ -267,4 +267,8 @@ wilkie2007a = DB(WorkSnowball(
     source="Scopus",
     ID="Wilkie2007339",
     scopus="1",
+    scholar="http://scholar.google.com/scholar?cites=9041746887280427568&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="9041746887280427568",
+    publisher="Wiley Online Library",
+    scholar_ok=True,
 ))

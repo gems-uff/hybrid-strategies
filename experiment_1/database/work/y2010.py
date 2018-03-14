@@ -6,9 +6,9 @@ from ..places import *
 barreto2010a = DB(WorkSnowball(
     2010, "Defining and monitoring strategically aligned software improvement goals",
     display="barreto",
-    authors="Barreto, A.O.S. and Rocha, A.R.",
+    authors="Barreto, Andrea Oliveira Soares and Rocha, Ana Regina",
     place=PROFES,
-    pp="380-394",
+    pp="380--394",
     entrytype="inproceedings",
     volume="6156 LNCS",
     doi="10.1007/978-3-642-13792-1_29",
@@ -19,15 +19,19 @@ barreto2010a = DB(WorkSnowball(
     ID="Barreto2010380",
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    scholar="http://scholar.google.com/scholar?cites=17460321150978889682&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="17460321150978889682",
+    scholar_ok=True,
 ))
 
 basili2010a = DB(WorkSnowball(
     2010, "Linking software development and business strategy through measurement",
     display="basili",
-    authors="Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.",
+    authors="Basili, Victor R and Lindvall, Mikael and Regardie, Myrna and Seaman, Carolyn and Heidrich, Jens and Münch, Jürgen and Rombach, Dieter and Trendowicz, Adam",
     place=C,
-    pp="57-65",
-    entrytype="inproceedings",
+    pp="57--65",
+    entrytype="article",
     volume="43",
     number="4",
     doi="10.1109/MC.2010.108",
@@ -37,6 +41,10 @@ basili2010a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Basili201057",
+    scholar="http://scholar.google.com/scholar?cites=8027935919137885990&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="8027935919137885990",
+    publisher="IEEE",
+    scholar_ok=True,
 ))
 
 buehrer2010a = DB(WorkUnrelated(
@@ -192,10 +200,10 @@ ferrari2010a = DB(WorkUnrelated(
 guzmán2010a = DB(WorkSnowball(
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",
-    authors="Guzmán, J.G. and Mitre, H.A. and Amescua, A. and Velasco, M.",
+    authors="Guzmán, Javier García and Mitre, Hugo A and Amescua, Antonio and Velasco, Manuel",
     place=SQJ,
-    pp="341-359",
-    entrytype="inproceedings",
+    pp="341--359",
+    entrytype="article",
     volume="18",
     number="3",
     doi="10.1007/s11219-010-9094-7",
@@ -208,6 +216,10 @@ guzmán2010a = DB(WorkSnowball(
     webofscience="1",
     placex="Software Quality Journal",
     elcompendex="1",
+    scholar="http://scholar.google.com/scholar?cites=17385845424469103121&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="17385845424469103121",
+    publisher="Springer",
+    scholar_ok=True,
 ))
 
 hauge2010a = DB(WorkUnrelated(
@@ -333,11 +345,11 @@ mandic2010a = DB(WorkUnrelated(
 ))
 
 mandić2010a = DB(WorkSnowball(
-    2010, "Utilizing GQM+strategies for an organization-wide earned value analysis",
+    2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
-    authors="Mandić, V. and Basili, V. and Oivo, M. and Harjumaa, L. and Markkula, J.",
+    authors="Mandic, Vladimir and Basili, Victor and Oivo, Markku and Harjumaa, Lasse and Markkula, Jouni",
     place=SEAA,
-    pp="255-258",
+    pp="255--258",
     entrytype="inproceedings",
     doi="10.1109/SEAA.2010.33",
     art_number="5598105",
@@ -346,12 +358,16 @@ mandić2010a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Mandić2010255",
+    scholar="http://scholar.google.com/scholar?cites=3108184027401056441&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="IEEE",
+    cluster_id="3108184027401056441",
+    scholar_ok=True,
 ))
 
 mandić2010b = DB(WorkSnowball(
-    2010, "Utilizing GQM+strategies for business value analysis: An approach for evaluating business goals",
+    2010, "Utilizing GQM+ Strategies for business value analysis: An approach for evaluating business goals",
     display="mandić b",
-    authors="Mandić, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.",
+    authors="Mandić, Vladimir and Basili, Victor and Harjumaa, Lasse and Oivo, Markku and Markkula, Jouni",
     place=ESEM,
     entrytype="inproceedings",
     doi="10.1145/1852786.1852813",
@@ -363,7 +379,11 @@ mandić2010b = DB(WorkSnowball(
     ID="Mandić2010",
     acm="1",
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
-    pp="2010",
+    pp="20",
+    scholar="http://scholar.google.com/scholar?cites=341082888541335242&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="ACM",
+    cluster_id="341082888541335242",
+    scholar_ok=True,
 ))
 
 mandić2010c = DB(WorkUnrelated(

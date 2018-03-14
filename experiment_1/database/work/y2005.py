@@ -246,11 +246,11 @@ taxen2005a = DB(WorkUnrelated(
 ))
 
 trienekens2005a = DB(WorkSnowball(
-    2005, "Business-oriented process improvement: Practices and experiences at Thales Naval the Netherlands (TNNL)",
+    2005, "Business-oriented process improvement: practices and experiences at Thales Naval The Netherlands (TNNL)",
     display="trienekens",
-    authors="Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.",
+    authors="Trienekens, Jos JM and Kusters, Rob J and Rendering, Ben and Stokla, Kees",
     place=IST,
-    pp="67-79",
+    pp="67--79",
     entrytype="article",
     volume="47",
     number="2",
@@ -262,6 +262,10 @@ trienekens2005a = DB(WorkSnowball(
     ID="Trienekens200567",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=1278893589414635329&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="1278893589414635329",
+    publisher="Elsevier",
+    scholar_ok=True,
 ))
 
 vanter2005a = DB(WorkUnrelated(
@@ -282,9 +286,9 @@ vanter2005a = DB(WorkUnrelated(
 wang2005a = DB(WorkSnowball(
     2005, "Measuring and improving software process in China",
     display="wang",
-    authors="Wang, Q. and Li, M.",
+    authors="Wang, Qing and Li, Mingshu",
     place=ESEM,
-    pp="183-192",
+    pp="10--pp",
     entrytype="inproceedings",
     doi="10.1109/ISESE.2005.1541827",
     art_number="1541827",
@@ -293,6 +297,10 @@ wang2005a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Wang2005183",
+    scholar="http://scholar.google.com/scholar?cites=9841459670916835417&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="IEEE",
+    cluster_id="9841459670916835417",
+    scholar_ok=True,
 ))
 
 weber2005a = DB(WorkUnrelated(

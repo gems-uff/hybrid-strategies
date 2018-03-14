@@ -6,10 +6,10 @@ from ..places import *
 albuquerque2009a = DB(WorkSnowball(
     2009, "Software process improvement: Supporting the linking of the software and the business strategies",
     display="albuquerque",
-    authors="Albuquerque, A.B. and Rocha, A.R. and Lima, A.C.",
+    authors="Albuquerque, Adriano Bessa and Rocha, Ana Regina and Lima, Andreia Cavalcanti",
     place=PROFES,
-    pp="347-361",
-    entrytype="article",
+    pp="347--361",
+    entrytype="inproceedings",
     volume="32 LNBIP",
     doi="10.1007/978-3-642-02152-7_26",
     note="cited By 1",
@@ -22,6 +22,10 @@ albuquerque2009a = DB(WorkSnowball(
     webofscience="1",
     placex="PRODUCT-FOCUSED SOFTWARE PROCESS IMPROVEMENT, PROCEEDINGS",
     elcompendex="1",
+    scholar="http://scholar.google.com/scholar?cites=265744665272195211&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="265744665272195211",
+    scholar_ok=True,
 ))
 
 bjørnson2009a = DB(WorkUnrelated(
@@ -374,10 +378,10 @@ trendowicz2009a = DB(WorkUnrelated(
 trienekens2009a = DB(WorkSnowball(
     2009, "Entropy based software processes improvement",
     display="trienekens",
-    authors="Trienekens, J.J.M. and Kusters, R. and Kriek, D. and Siemons, P.",
+    authors="Trienekens, Jos JM and Kusters, Rob and Kriek, Dirk and Siemons, Paul",
     place=SQJ,
-    pp="231-243",
-    entrytype="inproceedings",
+    pp="231--243",
+    entrytype="article",
     volume="17",
     number="3",
     doi="10.1007/s11219-008-9063-6",
@@ -386,6 +390,10 @@ trienekens2009a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Trienekens2009231",
+    scholar="http://scholar.google.com/scholar?cites=16998397325353603051&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="16998397325353603051",
+    publisher="Springer",
+    scholar_ok=True,
 ))
 
 vieira2009a = DB(WorkUnrelated(

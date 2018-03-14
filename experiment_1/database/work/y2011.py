@@ -173,9 +173,9 @@ dieste2011a = DB(WorkUnrelated(
 esfahani2011a = DB(WorkSnowball(
     2011, "Strategically balanced process adoption",
     display="esfahani",
-    authors="Esfahani, H.C. and Yu, E. and Annosi, M.C.",
+    authors="Esfahani, Hesam Chiniforooshan and Yu, Eric and Annosi, Maria Carmela",
     place=ICSE,
-    pp="169-178",
+    pp="169--178",
     entrytype="inproceedings",
     doi="10.1145/1987875.1987902",
     note="cited By 4",
@@ -183,6 +183,10 @@ esfahani2011a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="Esfahani2011169",
+    scholar="http://scholar.google.com/scholar?cites=13891228873136254123&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="ACM",
+    cluster_id="13891228873136254123",
+    scholar_ok=True,
 ))
 
 finke2011a = DB(WorkUnrelated(
@@ -366,11 +370,11 @@ jia2011a = DB(WorkUnrelated(
 ))
 
 kaneko2011a = DB(WorkSnowball(
-    2011, "Application of GQM+Strategies® in the Japanese space industry",
+    2011, "Application of GQM+ Strategies{	extregistered} in the Japanese space industry",
     display="kaneko",
-    authors="Kaneko, T. and Katahira, M. and Miyamoto, Y. and Kowalczyk, M.",
+    authors="Kaneko, Tatsuya and Katahira, Masafumi and Miyamoto, Yuko and Kowalczyk, Martin",
     place=ICSPPM,
-    pp="221-226",
+    pp="221--226",
     entrytype="inproceedings",
     doi="10.1109/IWSM-MENSURA.2011.22",
     art_number="6113063",
@@ -382,6 +386,10 @@ kaneko2011a = DB(WorkSnowball(
     scopus="1",
     elcompendex="1",
     placex="Proceedings - Joint Conference of the 21st International Workshop on Software Measurement, IWSM 2011 and the 6th International Conference on Software Process and Product Measurement, MENSURA 2011",
+    scholar="http://scholar.google.com/scholar?cites=94453978794571135&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="IEEE",
+    cluster_id="94453978794571135",
+    scholar_ok=True,
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -485,11 +493,11 @@ petersen2011a = DB(WorkUnrelated(
 ))
 
 plösch2011a = DB(WorkSnowball(
-    2011, "Software engineering strategies: Aligning software process improvement with strategic goals",
+    2011, "Software engineering strategies: aligning software process improvement with strategic goals",
     display="plösch",
-    authors="Plösch, R. and Pomberger, G. and Stallinger, F.",
+    authors="Plösch, Reinhold and Pomberger, Gustav and Stallinger, Fritz",
     place=CCIS,
-    pp="221-226",
+    pp="221--226",
     entrytype="inproceedings",
     volume="155 CCIS",
     doi="10.1007/978-3-642-21233-8-26",
@@ -503,6 +511,10 @@ plösch2011a = DB(WorkSnowball(
     webofscience="1",
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
+    scholar="http://scholar.google.com/scholar?cites=17290858405010918108&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="17290858405010918108",
+    scholar_ok=True,
 ))
 
 rantapuska2011a = DB(WorkUnrelated(

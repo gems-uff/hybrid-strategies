@@ -84,10 +84,12 @@ becker2008a = DB(WorkSnowball(
     webofscience="1",
     elcompendex="1",
     placex="ICEIS 2008 - Proceedings of the 10th International Conference on Enterprise Information Systems",
+    scholar="https://scholar.google.com/scholar?cites=12615708466078293814&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar_ok=True,
 ))
 
 becker2008b = DB(WorkSnowball(
-    2008, "Strategic Alignment of Software Process Improvement Programs Using QFD",
+    2008, "Strategic alignment of software process improvement programs using QFD",
     display="becker",
     authors="Becker, André Luiz and Prikladnicki, Rafael and Audy, Jorge Luis Nicolas",
     place=IWBIPI,
@@ -104,6 +106,10 @@ becker2008b = DB(WorkSnowball(
     address="New York, NY, USA",
     keyword="cmmi, software process improvement, strategic alignment, strategic planning",
     ID="Becker:2008:SAS:1370837.1370840",
+    scholar="http://scholar.google.com/scholar?cites=2559826507613970329&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="ACM",
+    cluster_id="2559826507613970329",
+    scholar_ok=True,
 ))
 
 bjørnson2008a = DB(WorkUnrelated(
@@ -342,11 +348,11 @@ kleinberg2008a = DB(WorkUnrelated(
 ))
 
 martins2008a = DB(WorkSnowball(
-    2008, "Propamet: A metric for process and project alignment",
+    2008, "ProPAMet: a Metric for process and project alignment",
     display="martins",
-    authors="Martins, P.V. and Silva, A.R.D.",
+    authors="Martins, Paula Ventura and Da Silva, Alberto Rodrigues",
     place=CCIS,
-    pp="201-212",
+    pp="201--212",
     entrytype="inproceedings",
     volume="16",
     note="cited By 6",
@@ -358,6 +364,10 @@ martins2008a = DB(WorkSnowball(
     webofscience="1",
     elcompendex="1",
     placex="Communications in Computer and Information Science",
+    scholar="http://scholar.google.com/scholar?cites=201686578103891917&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="201686578103891917",
+    scholar_ok=True,
 ))
 
 niebuhr2008a = DB(WorkUnrelated(

@@ -394,9 +394,9 @@ nilsson2015a = DB(WorkUnrelated(
 oConnor2015a = DB(WorkSnowball(
     2015, "Exploring the use of the cynefin framework to inform software development approach decisions",
     display="oConnor",
-    authors="O'Connor, R.V. and Lepmets, M.",
+    authors="O Connor, Rory V and Lepmets, Marion",
     place=ACMICPS,
-    pp="97-101",
+    pp="97--101",
     entrytype="inproceedings",
     volume="24-26-August-2015",
     doi="10.1145/2785592.2785608",
@@ -405,6 +405,10 @@ oConnor2015a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="O'Connor201597",
+    scholar="http://scholar.google.com/scholar?cites=8321741387367091387&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="ACM",
+    cluster_id="8321741387367091387",
+    scholar_ok=True,
 ))
 
 pernstål2015a = DB(WorkUnrelated(
@@ -427,12 +431,12 @@ pernstål2015a = DB(WorkUnrelated(
 ))
 
 petersen2015a = DB(WorkSnowball(
-    2015, "An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)",
+    2015, "An elicitation instrument for operationalising GQM+ Strategies (GQM+ S-EI)",
     display="petersen",
-    authors="Petersen, K. and Gencel, C. and Asghari, N. and Betz, S.",
+    authors="Petersen, Kai and Gencel, Cigdem and Asghari, Negin and Betz, Stefanie",
     place=ESE,
-    pp="968-1005",
-    entrytype="inproceedings",
+    pp="968--1005",
+    entrytype="article",
     volume="20",
     number="4",
     doi="10.1007/s10664-014-9306-z",
@@ -441,6 +445,10 @@ petersen2015a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Petersen2015968",
+    scholar="http://scholar.google.com/scholar?cites=14577763734978233491&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="14577763734978233491",
+    publisher="Springer",
+    scholar_ok=True,
 ))
 
 ralph2015a = DB(WorkUnrelated(
