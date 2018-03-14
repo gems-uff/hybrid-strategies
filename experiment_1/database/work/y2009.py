@@ -156,6 +156,21 @@ hsiao2009a = DB(WorkUnrelated(
     placex="Information Sciences",
 ))
 
+huang2009a = DB(WorkUnrelated(
+    2009, "Designing a knowledge-based system for strategic planning: A balanced scorecard perspective",
+    display="huang",
+    authors="Huang, H.-C.",
+    place=FAKE,
+    pp="209-218",
+    entrytype="article",
+    volume="36",
+    number="1",
+    doi="10.1016/j.eswa.2007.09.046",
+    note="cited By 90",
+    ID="Huang2009209",
+    placex="Expert Systems with Applications",
+))
+
 karhu2009a = DB(WorkUnrelated(
     2009, "Investigating the relationship between schedules and knowledge transfer in software testing",
     display="karhu",

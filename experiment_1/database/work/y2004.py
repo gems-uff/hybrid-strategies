@@ -360,6 +360,17 @@ pedersen2004a = DB(WorkUnrelated(
     placex="Software Process Improvement",
 ))
 
+pmi2004a = DB(WorkUnrelated(
+    2004, "PMBOK - A Guide to the Project Management Body of Knowledge",
+    display="pmi",
+    authors="PMI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 17",
+    ID="PMI2004",
+    placex="Project Management Institute: 3rd edn",
+))
+
 rittinghouse2004a = DB(WorkUnrelated(
     2004, "1 - Understanding the \SPMO",
     display="rittinghouse",

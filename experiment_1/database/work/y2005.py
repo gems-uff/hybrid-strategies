@@ -125,6 +125,7 @@ dyba2005a = DB(WorkUnrelated(
     doi="10.1109/TSE.2005.53",
     note="cited By 150",
     ID="Dyba2005410",
+    placex="IEEE Transactions on Software Engineering",
 ))
 
 fernandes2005a = DB(WorkUnrelated(
@@ -254,6 +255,21 @@ taxen2005a = DB(WorkUnrelated(
     ID="2005529614780",
     elcompendex="1",
     placex="Software Process Improvement and Practice",
+))
+
+thomas2005a = DB(WorkUnrelated(
+    2005, "A Semantic approach to monitor business process performance",
+    display="thomas",
+    authors="Thomas, M. and Redmond, R. and Yoon, V. and Singh, R.",
+    place=CACM,
+    pp="55-59",
+    entrytype="article",
+    volume="48",
+    number="12",
+    doi="10.1145/1101779.1101809",
+    note="cited By 37",
+    ID="Thomas200555",
+    placex="Communications of the ACM",
 ))
 
 trienekens2005a = DB(WorkSnowball(

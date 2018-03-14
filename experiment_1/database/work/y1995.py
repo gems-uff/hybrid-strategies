@@ -146,6 +146,17 @@ rombach1995a = DB(WorkUnrelated(
     placex="",
 ))
 
+russell1995a = DB(WorkUnrelated(
+    1995, "Artificial Intelligence: A Modern Approach",
+    display="russell",
+    authors="Russell, S. and Norvig, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 11027",
+    ID="Russell1995",
+    placex="Prentice Hall",
+))
+
 teufel1995a = DB(WorkUnrelated(
     1995, "Bridging Information Technology and Business&Mdash;Some Modelling Aspects",
     display="teufel",

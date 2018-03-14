@@ -79,6 +79,20 @@ basili2007b = DB(WorkUnrelated(
     placex="Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007",
 ))
 
+castillo2007a = DB(WorkUnrelated(
+    2007, "The 'MECIMPLAN' approach to agent-based strategic planning",
+    display="castillo",
+    authors="Castillo, J.M. and Ossowski, S. and Pastor, L.",
+    place=FAKE,
+    pp="540-543",
+    entrytype="conference",
+    doi="10.1109/WI-IATW.2006.127",
+    art_number="4053309",
+    note="cited By 2",
+    ID="Castillo2007540",
+    placex="Proceedings - 2006 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2006 Workshops Proceedings)",
+))
+
 deng2007a = DB(WorkUnrelated(
     2007, "Pong: Diagnosing Spatio-temporal Internet Congestion Properties",
     display="deng",
@@ -198,6 +212,7 @@ montoni2007a = DB(WorkUnrelated(
     art_number="4273471",
     note="cited By 10",
     ID="Montoni2007",
+    artnumber="4273471",
 ))
 
 ordóñez2007a = DB(WorkUnrelated(
@@ -259,6 +274,21 @@ team2007a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="NoAuthor2007",
+))
+
+uraikul2007a = DB(WorkUnrelated(
+    2007, "Artificial intelligence for monitoring and supervisory control of process systems",
+    display="uraikul",
+    authors="Uraikul, V. and Chan, C.W. and Tontiwachwuthikul, P.",
+    place=FAKE,
+    pp="115-131",
+    entrytype="article",
+    volume="20",
+    number="2",
+    doi="10.1016/j.engappai.2006.07.002",
+    note="cited By 116",
+    ID="Uraikul2007115",
+    placex="Engineering Applications of Artificial Intelligence",
 ))
 
 verhoef2007a = DB(WorkUnrelated(

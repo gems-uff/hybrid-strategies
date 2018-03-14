@@ -110,6 +110,9 @@ becker2008b = DB(WorkSnowball(
     organization="ACM",
     cluster_id="2559826507613970329",
     scholar_ok=True,
+    artnumber="1370840",
+    note="cited By 9",
+    placex="Proceedings - International Conference on Software Engineering",
 ))
 
 bjørnson2008a = DB(WorkUnrelated(
@@ -356,6 +359,20 @@ kleinberg2008a = DB(WorkUnrelated(
     ID="Kleinberg:2008:SNF:1386790.1386835",
     acm="1",
     placex="Proceedings of the 9th ACM Conference on Electronic Commerce",
+))
+
+markovic2008a = DB(WorkUnrelated(
+    2008, "Linking business goals to process models in semantic business process modeling",
+    display="markovic",
+    authors="Markovic, I. and Kowalkiewicz, M.",
+    place=FAKE,
+    pp="332-338",
+    entrytype="conference",
+    doi="10.1109/EDOC.2008.43",
+    artnumber="4634785",
+    note="cited By 51",
+    ID="Markovic2008332",
+    placex="Proceedings - 12th IEEE International Enterprise Distributed Object Computing Conference, EDOC 2008",
 ))
 
 martins2008a = DB(WorkSnowball(

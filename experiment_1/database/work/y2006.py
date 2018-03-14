@@ -277,6 +277,20 @@ nejmeh2006a = DB(WorkUnrelated(
     placex="Quality Software Development",
 ))
 
+pu2006a = DB(WorkUnrelated(
+    2006, "Real time business performance monitoring and analysis using metric network",
+    display="pu",
+    authors="Pu, H. and Hui, L. and Lipyeow, L.",
+    place=FAKE,
+    pp="442-448",
+    entrytype="conference",
+    doi="10.1109/ICEBE.2006.84",
+    artnumber="4031685",
+    note="cited By 4",
+    ID="Pu2006442",
+    placex="Proceedings - IEEE International Conference on e-Business Engineering, ICEBE 2006",
+))
+
 pérez2006a = DB(WorkUnrelated(
     2006, "Requirements Variability Support Through MDA and Graph Transformation",
     display="pérez",
@@ -294,6 +308,18 @@ pérez2006a = DB(WorkUnrelated(
     ID="Pérez2006161",
     sciencedirect="1",
     placex="Electronic Notes in Theoretical Computer Science",
+))
+
+rocha2006a = DB(WorkUnrelated(
+    2006, "Success Factors and Difficulties in Software Process Deployment Experiences based on CMMI and MR-MPS.BR",
+    display="rocha",
+    authors="Rocha, A.R. and Montoni, M. and Santos, G. and Oliveira, K. and Natali, A.C. and Mian, P. and Conte, T. and Mafra, S. and Barreto, A. and Albuquerque, A. and Figueiredo, S. and Soares, A. and Bianchi, F. and Cabral, R. and Neto, A.D.",
+    place=FAKE,
+    pp="77-87",
+    entrytype="article",
+    note="cited By 7",
+    ID="Rocha200677",
+    placex="Proc. of the 6th International Workshop on Learning Software Organizations (LSO'2006)",
 ))
 
 solingen2006a = DB(WorkUnrelated(

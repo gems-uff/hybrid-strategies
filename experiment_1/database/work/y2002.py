@@ -138,6 +138,21 @@ chauveau2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+conradi2002a = DB(WorkUnrelated(
+    2002, "Improving software process improvement",
+    display="conradi",
+    authors="Conradi, R. and Fuggetta, A.",
+    place=IEEES,
+    pp="92-99",
+    entrytype="article",
+    volume="19",
+    number="4",
+    doi="10.1109/MS.2002.1020295",
+    note="cited By 100",
+    ID="Conradi200292",
+    placex="IEEE Software",
+))
+
 dag2002a = DB(WorkUnrelated(
     2002, "A Feasibility Study of Automated Natural Language Requirements Analysis in Market-Driven Development",
     display="dag",

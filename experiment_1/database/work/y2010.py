@@ -271,6 +271,17 @@ immorlica2010a = DB(WorkUnrelated(
     placex="Proceedings of the 11th ACM Conference on Electronic Commerce",
 ))
 
+itgi2010a = DB(WorkUnrelated(
+    2010, "Control Objectives for Information and Related Technology",
+    display="itgi",
+    authors="ITGI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ITGI2010",
+    placex="IT Governance Institute",
+))
+
 kim2010a = DB(WorkUnrelated(
     2010, "The Role of IT in Business Ecosystems",
     display="kim",
@@ -590,6 +601,18 @@ sarcia2010a = DB(WorkUnrelated(
     art_number="1852844",
     note="cited By 10",
     ID="Sarcia'2010",
+))
+
+softex2010a = DB(WorkUnrelated(
+    2010, "MPS.BR",
+    journal= "softex",
+    display="softex",
+    authors="SOFTEX",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="SOFTEX2010",
+    placex="",
 ))
 
 sun2010a = DB(WorkUnrelated(

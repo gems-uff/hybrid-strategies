@@ -33,6 +33,17 @@ bratthall2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+chiavenato2000a = DB(WorkUnrelated(
+    2000, "Administração: Teoria, Processo e Prática",
+    display="chiavenato",
+    authors="Chiavenato, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 10",
+    ID="Chiavenato2000",
+    placex="Makronbooks",
+))
+
 conradi2000a = DB(WorkUnrelated(
     2000, "Software Experience Bases: A Consolidated Evaluation and Status Report",
     display="conradi",
@@ -215,6 +226,17 @@ mendonça2000a = DB(WorkUnrelated(
     doi="10.1109/32.852739",
     note="cited By 46",
     ID="Mendonça2000484",
+))
+
+mintzberg2000a = DB(WorkUnrelated(
+    2000, "Safári de estratégia: Um Roteiro Pela Selva Do Planejamento Estratégico",
+    display="mintzberg",
+    authors="Mintzberg, H. and Ahlstrand, B. and Lampel, J.",
+    place=Book,
+    entrytype="article",
+    note="cited By 97",
+    ID="Mintzberg2000",
+    placex="Bookman",
 ))
 
 pfahl2000a = DB(WorkUnrelated(
