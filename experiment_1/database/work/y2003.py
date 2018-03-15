@@ -133,6 +133,18 @@ dybå2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
+dybå2003b = DB(WorkUnrelated(
+    2003, "Factors of Software Process Improvement Success in Small and Large Organizations: An Empirical Study in the Scandinavian Context",
+    display="dybå b",
+    authors="Dybå, T.",
+    place=SIGSOFT,
+    pp="148-157",
+    entrytype="conference",
+    note="cited By 51",
+    ID="Dybå2003148",
+    placex="Proceedings of the Joint European Software Engineering Conference (ESEC) and SIGSOFT Symposium on the Foundations of Software Engineering (FSE-11)",
+))
+
 ebert2003a = DB(WorkUnrelated(
     2003, "e-R&D: Effectively Managing and Using R&D Knowledge",
     display="ebert",

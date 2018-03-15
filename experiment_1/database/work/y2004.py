@@ -80,6 +80,20 @@ capell2004a = DB(WorkUnrelated(
     placex="SEI SPECIAL REPORT CMU",
 ))
 
+cater2004a = DB(WorkUnrelated(
+    2004, "Low-rigour, rapid software process assessments for small software development firms",
+    display="cater",
+    authors="Cater-Steel, A.P.",
+    place=SEC,
+    pp="368-377",
+    entrytype="conference",
+    volume="2004",
+    doi="10.1109/ASWEC.2004.1290490",
+    note="cited By 23",
+    ID="Cater-Steel2004368",
+    placex="Proceedings of the Australian Software Engineering Conference, ASWEC",
+))
+
 chrissis2004a = DB(WorkUnrelated(
     2004, "CMMI: Guidelines for Process Integration and Product Improvement",
     display="chrissis",
@@ -225,6 +239,17 @@ isoiec2004a = DB(WorkUnrelated(
     placex="ISO/IEC 15504-4:2004",
 ))
 
+isoiec2004b = DB(WorkUnrelated(
+    2004, "Information Technology - Amendment 2 to ISO/IEC 12207",
+    display="isoiec b",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="isoiec2004",
+    placex="ISO/IEC PDAM 12207",
+))
+
 iversen2004a = DB(WorkUnrelated(
     2004, "Managing risk in software process improvement: AN action research approach",
     display="iversen",
@@ -305,6 +330,17 @@ kauppinen2004a = DB(WorkUnrelated(
     ID="Kauppinen2004937",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+komi2004a = DB(WorkUnrelated(
+    2004, "Development and Evaluation of Software Process Improvement Methods",
+    display="komi",
+    authors="Komi-Sirvio, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Komi2004",
+    placex="Espoo 2004, p. 535. VTT Publications",
 ))
 
 larsson2004a = DB(WorkUnrelated(
@@ -499,6 +535,17 @@ sommerville2004a = DB(WorkUnrelated(
     note="cited By 22",
     ID="Sommerville2004",
     placex="Addison Wesley Publishing Company",
+))
+
+stalhane2004a = DB(WorkUnrelated(
+    2004, "Root Cause Analysis and Gap Analysis - A Tale of Two Methods",
+    display="stalhane",
+    authors="Stalhane, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Stalhane2004",
+    placex="Springer",
 ))
 
 wilkie2004a = DB(WorkUnrelated(

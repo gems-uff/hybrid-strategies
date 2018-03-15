@@ -410,6 +410,17 @@ singh2009a = DB(WorkUnrelated(
     placex="Ecological Indicators",
 ))
 
+softex2009a = DB(WorkUnrelated(
+    2009, "SOFTEX: version 1.2",
+    display="softex",
+    authors="softex",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="softex2009",
+    placex="Brazilian Software Process Improvement - General Guide",
+))
+
 staron2009a = DB(WorkUnrelated(
     2009, "A framework for developing measurement systems and its industrial evaluation",
     display="staron",

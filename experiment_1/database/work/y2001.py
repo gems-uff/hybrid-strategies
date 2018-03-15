@@ -302,6 +302,17 @@ haug2001c = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+hefner2001a = DB(WorkUnrelated(
+    2001, "Things They Never Taught You in CMM School",
+    display="hefner",
+    authors="Hefner, R., Tauser, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Hefner2001",
+    placex="Proceedings of the 26th Annual NASA Goddard Software Engineering Workshop",
+))
+
 jing2001a = DB(WorkUnrelated(
     2001, "Quality Control for Process with Zero-uncomfortable",
     display="jing",
@@ -369,6 +380,17 @@ kucza2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44813-6_15",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+lawrence2001a = DB(WorkUnrelated(
+    2001, "Performance measurement practices: A long way from strategy management",
+    display="lawrence",
+    authors="Maisel Lawrence, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="MaiselLawrence2001",
+    placex="The Balanced Scorecard Report",
 ))
 
 lebsanft2001a = DB(WorkUnrelated(

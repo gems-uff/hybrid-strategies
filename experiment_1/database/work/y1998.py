@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+birk1998a = DB(WorkUnrelated(
+    1998, "PROFES - A product driven process improvement methodology",
+    display="birk",
+    authors="Birk, A. and Järvinen, J. and Komi-Sirviö, S. and Kuvaja, P. and Oivo, M. and Pfahl, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Birk1998",
+    placex="Proceedings of the European Conference on Software Process Improvement (SPI98)",
+))
+
 ebert1998a = DB(WorkUnrelated(
     1998, "Putting requirement management into praxis: dealing with nonfunctional requirements",
     display="ebert",

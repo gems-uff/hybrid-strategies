@@ -93,6 +93,17 @@ conradi1995a = DB(WorkUnrelated(
     placex="Proc. Fourth European Workshop Software Process Technology, Springer-Verlag",
 ))
 
+kim1995a = DB(WorkUnrelated(
+    1995, "Blue Ocean Strategy",
+    display="kim",
+    authors="Kim, W.C. and Mauborgne, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kim1995",
+    placex="Campus, São Paulo",
+))
+
 kotonya1995a = DB(WorkUnrelated(
     1995, "Requirements Engineering with Viewpoints",
     display="kotonya",

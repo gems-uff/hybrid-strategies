@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+adams1993a = DB(WorkUnrelated(
+    1993, "You Are What You Measure",
+    display="adams",
+    authors="Adams, C. and Roberts, P.",
+    place=FAKE,
+    pp="504-507",
+    entrytype="article",
+    note="cited By 3",
+    ID="Adams1993504",
+    placex="Manufacturing Europe",
+))
+
 arthur1993a = DB(WorkUnrelated(
     1993, "Improving Software Quality: An Insider's Guide to TQM",
     display="arthur",

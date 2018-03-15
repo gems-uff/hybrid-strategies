@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alloui2000a = DB(WorkUnrelated(
+    2000, "Advanced services for process evolution: Monitoring and decision support",
+    display="alloui",
+    authors="Alloui, I. and Beydeda, S. and Cîmpan, S. and Grnhn, V. and Oquendo, F. and Schneider, C.",
+    place=FAKE,
+    pp="21-37",
+    entrytype="article",
+    volume="1780",
+    doi="10.1007/BFb0095011",
+    note="cited By 8",
+    ID="Alloui200021",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 arent2000a = DB(WorkUnrelated(
     2000, "Transforming Software Organizations with the Capability Maturity Model",
     display="arent",
@@ -27,6 +41,17 @@ boehm2000a = DB(WorkUnrelated(
     note="cited By 1196",
     ID="Boehm2000",
     placex="Prentice HallSoftware",
+))
+
+boehm2000b = DB(WorkUnrelated(
+    2000, "Software Cost Estimation with COCOMO II",
+    display="boehm b",
+    authors="Boehm, B.W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1196",
+    ID="Boehm2000",
+    placex="Prentice-Hall",
 ))
 
 boltzmann2000a = DB(WorkUnrelated(
@@ -220,6 +245,17 @@ järvinen2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+kaplan2000a = DB(WorkUnrelated(
+    2000, "The Balanced Scorecard: Measures that Drive Performance",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 202",
+    ID="Kaplan2000",
+    placex="Harvard Business Review January/Febuary",
+))
+
 kautz2000a = DB(WorkSnowball(
     2000, "Applying and adjusting a software process improvement model in practice: the use of the IDEAL model in a small software enterprise",
     display="kautz",
@@ -359,6 +395,17 @@ pitterman2000a = DB(WorkUnrelated(
     ID="Pitterman200089",
 ))
 
+reed2000a = DB(WorkUnrelated(
+    2000, "Software engineering - a new millenium?",
+    display="reed",
+    authors="Reed, K.",
+    place=IEEES,
+    entrytype="article",
+    note="cited By 1",
+    ID="Reed2000",
+    placex="IEEE Software",
+))
+
 schmid2000a = DB(WorkUnrelated(
     2000, "PuLSE-BEAT --- A Decision Support Tool for Scoping Product Lines",
     display="schmid",
@@ -441,6 +488,17 @@ team2000a = DB(WorkUnrelated(
     ID="CMMI2000",
 ))
 
+thompson2000a = DB(WorkUnrelated(
+    2000, "Dtrategic Planning",
+    display="thompson2000 a",
+    authors="Thompson Jr., A.A., Strickland III, A.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Thompson2000",
+    placex="Pioneira, São Paulo",
+))
+
 waina2000a = DB(WorkUnrelated(
     2000, "Purpose-driven process improvement",
     display="waina",
@@ -465,6 +523,17 @@ warboys2000a = DB(WorkUnrelated(
     ID="Warboys2000",
     springer="1",
     placex="Systems Engineering for Business Process Change: Collected Papers from the EPSRC Research Programme",
+))
+
+wright2000a = DB(WorkUnrelated(
+    2000, "Strategic Administration",
+    display="wright",
+    authors="Wright, P. and Kroll, M.J. and Parnell, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Wright2000",
+    placex="Atlas",
 ))
 
 zelkowits2000a = DB(WorkUnrelated(

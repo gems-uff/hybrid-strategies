@@ -36,6 +36,19 @@ hammer1990a = DB(WorkUnrelated(
     placex="Obliterate, Harvard Business Review",
 ))
 
+mcnair1990a = DB(WorkUnrelated(
+    1990, "Do financial and nonfinancial performance measures have to agree?",
+    display="mcnair",
+    authors="McNair, C.J. and Lynch, R.L. and Cross, K.F.",
+    place=FAKE,
+    pp="28-36",
+    entrytype="article",
+    number="5",
+    note="cited By 104",
+    ID="McNair199028",
+    placex="Management Accounting",
+))
+
 ram1990a = DB(WorkUnrelated(
     1990, "HyperIntelligence: The Next Frontier",
     display="ram",

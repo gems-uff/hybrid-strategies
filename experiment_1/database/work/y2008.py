@@ -515,6 +515,17 @@ nobre2008a = DB(WorkUnrelated(
     placex="Journal of Manufacturing Systems",
 ))
 
+nollen2008a = DB(WorkUnrelated(
+    2008, "Software Industry Performance in India and China",
+    display="nollen",
+    authors="Nollen, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Nollen2008",
+    placex="INDIA in the Emerging Global Order",
+))
+
 pereira2008a = DB(WorkUnrelated(
     2008, "What do software practitioners really think about project success: A cross-cultural comparison",
     display="pereira",

@@ -61,6 +61,7 @@ birk2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_4",
     springer="1",
     placex="Product Focused Software Process Improvement",
+    note="cited By 1",
 ))
 
 boyd2002a = DB(WorkUnrelated(

@@ -79,6 +79,18 @@ caffery2005a = DB(WorkUnrelated(
     ID="McCaffery2005",
 ))
 
+caivano2005a = DB(WorkUnrelated(
+    2005, "Continuous software process improvement through statistical process control",
+    display="caivano",
+    authors="Caivano, D.",
+    place=FAKE,
+    pp="288-293",
+    entrytype="conference",
+    note="cited By 12",
+    ID="Caivano2005288",
+    placex="Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR",
+))
+
 chaudet2005a = DB(WorkUnrelated(
     2005, "Optimal Positioning of Active and Passive Monitoring Devices",
     display="chaudet",
@@ -248,6 +260,17 @@ salo2005a = DB(WorkUnrelated(
     note="cited By 6",
     ID="Salo20058",
     placex="Agile Newsletter",
+))
+
+salo2005b = DB(WorkUnrelated(
+    2005, "Integrating Agile Software Development and Software Process Improvement: a Longitudinal Case Study",
+    display="salo b",
+    authors="Salo, O., Abrahamson, P.",
+    place=ESEM,
+    entrytype="article",
+    note="cited By 1",
+    ID="Salo2005",
+    placex="Proceedings of the 4th International Symposium on Empirical Software Engineering (ISESE 2005)",
 ))
 
 sei2005a = DB(WorkUnrelated(

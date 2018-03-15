@@ -192,6 +192,18 @@ humphrey1999a = DB(WorkUnrelated(
     ID="Humphrey1999",
 ))
 
+prahalad1999a = DB(WorkUnrelated(
+    1999, "The new meaning of quality in the information age",
+    display="prahalad",
+    authors="Prahalad, C.K.",
+    place=FAKE,
+    pp="109-118",
+    entrytype="article",
+    note="cited By 1",
+    ID="Prahalad1999109",
+    placex="Harvard Business",
+))
+
 raffo1999a = DB(WorkUnrelated(
     1999, "Software process simulation to achieve higher \CMM\ levels",
     display="raffo",

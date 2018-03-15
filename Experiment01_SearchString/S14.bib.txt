@@ -1,0 +1,199 @@
+﻿Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{Nollen2008,
+author={Nollen, S.},
+title={Software Industry Performance in India and China},
+journal={INDIA in the Emerging Global Order},
+year={2008},
+note={cited By 1},
+}
+
+@ARTICLE{Prahalad1999109,
+author={Prahalad, C.K.},
+journal={The new meaning of quality in the information age},
+year={1999},
+pages={109-118},
+note={cited By 1},
+}
+
+@ARTICLE{Reed2000,
+author={Reed, K.},
+title={Software engineering - a new millenium?},
+journal={IEEE Software},
+year={2000},
+note={cited By 1},
+}
+
+@ARTICLE{Kaplan1992,
+author={Kaplan, R.S. and Norton, D.P.},
+title={The Balanced Scorecard: Measures that Drive Performance},
+journal={The Balanced Scorecard-Measures That Drive Performance},
+year={1992},
+note={cited By 202},
+}
+
+@ARTICLE{Wright2000,
+author={Wright, P. and Kroll, M.J. and Parnell, J.},
+journal={Strategic Administration},
+year={2000},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{MaiselLawrence2001,
+author={Maisel Lawrence, S.},
+title={Performance measurement practices: A long way from strategy management},
+journal={The Balanced Scorecard Report},
+year={2001},
+note={cited By 2},
+}
+
+@ARTICLE{McNair199028,
+author={McNair, C.J. and Lynch, R.L. and Cross, K.F.},
+title={Do financial and nonfinancial performance measures have to agree?},
+journal={Management Accounting},
+year={1990},
+number={5},
+pages={28-36},
+note={cited By 104},
+}
+
+@ARTICLE{Adams1993504,
+author={Adams, C. and Roberts, P.},
+title={You Are What You Measure},
+journal={Manufacturing Europe},
+year={1993},
+pages={504-507},
+note={cited By 3},
+}
+
+@ARTICLE{Kim1995,
+author={Kim, W.C. and Mauborgne, R.},
+journal={Blue Ocean Strategy},
+year={1995},
+note={cited By 1},
+}
+
+@CONFERENCE{Dybå2003148,
+author={Dybå, T.},
+title={Factors of Software Process Improvement Success in Small and Large Organizations: An Empirical Study in the Scandinavian Context},
+journal={Proceedings of the Joint European Software Engineering Conference (ESEC) and SIGSOFT Symposium on the Foundations of Software Engineering (FSE-11)},
+year={2003},
+pages={148-157},
+note={cited By 51},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@CONFERENCE{Cater-Steel2004368,
+author={Cater-Steel, A.P.},
+title={Low-rigour, rapid software process assessments for small software development firms},
+journal={Proceedings of the Australian Software Engineering Conference, ASWEC},
+year={2004},
+volume={2004},
+pages={368-377},
+doi={10.1109/ASWEC.2004.1290490},
+note={cited By 23},
+}
+
+@ARTICLE{NoAuthor0000,
+journal={Brazilian Software Process Improvement - General Guide},
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2004,
+title={Information Technology - Amendment 2 to ISO/IEC 12207},
+year={2004},
+note={cited By 2},
+}
+
+@ARTICLE{NoAuthor2004,
+title={Information technology - Process assessment - Part 4: Guidance on use for process improvement and process capability determination},
+journal={Information Technology - Process Assessment - Part 4: Guidance on Use for Process Improvement and Process Capability Determination},
+year={2004},
+note={cited By 24},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{Birk1998,
+author={Birk, A. and Järvinen, J. and Komi-Sirviö, S. and Kuvaja, P. and Oivo, M. and Pfahl, D.},
+title={PROFES - A product driven process improvement methodology},
+journal={Proceedings of the European Conference on Software Process Improvement (SPI’98)},
+year={1998},
+note={cited By 5},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@CONFERENCE{Caivano2005288,
+author={Caivano, D.},
+title={Continuous software process improvement through statistical process control},
+journal={Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR},
+year={2005},
+pages={288-293},
+note={cited By 12},
+}
+
+@ARTICLE{Martins2007,
+author={Martins, V.M. and Da Silva, A.R.},
+title={ProPAM: SPI based on Process and Project Alignment},
+journal={Proceedings of the IRMA International Conference},
+year={2007},
+note={cited By 8},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{Alloui200021,
+author={Alloui, I. and Beydeda, S. and Cîmpan, S. and Grnhn, V. and Oquendo, F. and Schneider, C.},
+title={Advanced services for process evolution: Monitoring and decision support},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2000},
+volume={1780},
+pages={21-37},
+doi={10.1007/BFb0095011},
+note={cited By 8},
+}
+
+@ARTICLE{Bardin1977,
+author={Bardin, L.},
+journal={Content Analysis},
+year={1977},
+note={cited By 65},
+}
+
+@ARTICLE{Boehm2000,
+author={Boehm, B.W.},
+journal={Software Cost Estimation with COCOMO II},
+year={2000},
+note={cited By 1196},
+}
