@@ -122,6 +122,20 @@ buglione2001a = DB(WorkUnrelated(
     placex="New Approaches in Software Measurement",
 ))
 
+cattaneo2001a = DB(WorkUnrelated(
+    2001, "Pursuing coherence in software process assessment and improvement",
+    display="cattaneo",
+    authors="Cattaneo, F. and Fuggetta, A. and Sciuto, D.",
+    place=SPIP,
+    pp="3-22",
+    entrytype="article",
+    volume="6",
+    number="1",
+    note="cited By 13",
+    ID="Cattaneo20013",
+    placex="Software Process: Improvement and Practice",
+))
+
 cmmi2001a = DB(WorkUnrelated(
     2001, "CMMI. Capability Maturity Model®",
     display="cmmi",
@@ -338,6 +352,17 @@ jones2001a = DB(WorkUnrelated(
     ID="Jones20014",
 ))
 
+kaplan2001a = DB(WorkUnrelated(
+    2001, "The strategy-focused organization: How balanced scorecard companies thrive in the new business environment",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1566",
+    ID="Kaplan2001",
+    placex="The Strategy-Focused Organization",
+))
+
 kauppinen2001a = DB(WorkUnrelated(
     2001, "Starting Improvement of Requirements Engineering Processes: An Experience Report",
     display="kauppinen",
@@ -534,6 +559,21 @@ smart2001a = DB(WorkUnrelated(
     ID="Smart:2001:CEE:501516.501559",
     acm="1",
     placex="Proceedings of the 19th Annual International Conference on Computer Documentation",
+))
+
+trienekens2001a = DB(WorkUnrelated(
+    2001, "Product Focused Software Process Improvement: Concepts and Experiences from Industry",
+    display="trienekens",
+    authors="Trienekens, J. and Kusters, R. and Van Solingen, R.",
+    place=SQJ,
+    pp="269-281",
+    entrytype="article",
+    volume="9",
+    number="4",
+    doi="10.1023/A:1013715203889",
+    note="cited By 19",
+    ID="Trienekens2001269",
+    placex="Software Quality Journal",
 ))
 
 vohwinkel2001a = DB(WorkUnrelated(

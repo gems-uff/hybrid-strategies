@@ -147,6 +147,21 @@ cspt2003a = DB(WorkUnrelated(
     ID="CSPT,2003",
 ))
 
+dawson2003a = DB(WorkUnrelated(
+    2003, "Simple metrics for improving software process performance and capability: A case study",
+    display="dawson",
+    authors="Dawson, R. and O'Neill, B.",
+    place=SQJ,
+    pp="243-258",
+    entrytype="article",
+    volume="11",
+    number="3",
+    doi="10.1023/A:1025118811896",
+    note="cited By 7",
+    ID="Dawson2003243",
+    placex="Software Quality Journal",
+))
+
 dybå2003a = DB(WorkUnrelated(
     2003, "A Dynamic Model of Software Engineering Knowledge Creation",
     display="dybå",
@@ -216,6 +231,20 @@ feldmann2003a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-40052-3_5",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+gack2003a = DB(WorkUnrelated(
+    2003, "Integrating improvement initiatives: connecting Six Sigma for software, CMMI, personal software process and team software process",
+    display="gack",
+    authors="Gack, A. and Robinson, K.",
+    place=SQJ,
+    pp="5-13",
+    entrytype="article",
+    volume="5",
+    number="4",
+    note="cited By 14",
+    ID="Gack20035",
+    placex="Software Quality Journal",
 ))
 
 goethert2003a = DB(WorkUnrelated(
@@ -384,6 +413,19 @@ murugappan2003a = DB(WorkUnrelated(
     note="cited By 37",
     ID="Murugappan200342",
     placex="IEEE Software",
+))
+
+neiger2003a = DB(WorkUnrelated(
+    2003, "Structuring business objectives: A business process modeling perspective",
+    display="neiger",
+    authors="Neiger, D. and Churilov, L.",
+    place=FAKE,
+    pp="72-87",
+    entrytype="article",
+    volume="2678",
+    note="cited By 7",
+    ID="Neiger200372",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 ngwenyama2003a = DB(WorkUnrelated(

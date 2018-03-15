@@ -183,6 +183,21 @@ paulk1995a = DB(WorkUnrelated(
     ID="Paulk1995",
 ))
 
+paulk1995b = DB(WorkUnrelated(
+    1995, "How ISO 9001 Compares with the CMM",
+    display="paulk b",
+    authors="Paulk, M.C.",
+    place=IEEES,
+    pp="74-83",
+    entrytype="article",
+    volume="12",
+    number="1",
+    doi="10.1109/52.363163",
+    note="cited By 89",
+    ID="Paulk199574",
+    placex="IEEE Software",
+))
+
 peterson1995a = DB(WorkUnrelated(
     1995, "Transitioning the CMM into practice",
     display="peterson",

@@ -208,6 +208,17 @@ isaca2005a = DB(WorkUnrelated(
     placex="ISACA",
 ))
 
+iso2005a = DB(WorkUnrelated(
+    2005, "http://www.iso.ch/iso/en/iso9000-14000/iso9000/iso9000index.html",
+    display="iso",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso2005",
+    placex="iso 9000",
+))
+
 kaplan2005a = DB(WorkUnrelated(
     2005, "The office of strategy management",
     display="kaplan",

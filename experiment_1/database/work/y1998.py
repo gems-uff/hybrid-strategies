@@ -145,6 +145,7 @@ latum1998a = DB(WorkUnrelated(
     doi="10.1109/52.646887",
     note="cited By 55",
     ID="VanLatum199878",
+    placex="IEEE Software",
 ))
 
 mccoy1998a = DB(WorkUnrelated(
@@ -158,6 +159,20 @@ mccoy1998a = DB(WorkUnrelated(
     volume="3",
     note="cited By 2",
     ID="McCoy19982620",
+))
+
+mellis1998a = DB(WorkUnrelated(
+    1998, "Software quality management in turbulent times - Are there alternatives to process oriented software quality management?",
+    display="mellis",
+    authors="Mellis, W.",
+    place=SQJ,
+    pp="277-295",
+    entrytype="article",
+    volume="7",
+    number="3",
+    note="cited By 14",
+    ID="Mellis1998277",
+    placex="Software Quality Journal",
 ))
 
 paulk1998a = DB(WorkUnrelated(
@@ -218,6 +233,20 @@ sommerville1998a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Sommerville1998",
     placex="Proc. Int'l Conf. Requirements Eng.",
+))
+
+stelzer1998a = DB(WorkUnrelated(
+    1998, "Success factors of organizational change in software process improvement",
+    display="stelzer",
+    authors="Stelzer, D. and Mellis, W.",
+    place=SPIP,
+    pp="227-250",
+    entrytype="article",
+    volume="4",
+    number="4",
+    note="cited By 125",
+    ID="Stelzer1998227",
+    placex="Software Process Improvement and Practice",
 ))
 
 stålhane1998a = DB(WorkUnrelated(

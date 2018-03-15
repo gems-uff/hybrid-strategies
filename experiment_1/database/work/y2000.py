@@ -130,6 +130,20 @@ davis2000a = DB(WorkUnrelated(
     ID="Davis2000",
 ))
 
+debou2000a = DB(WorkUnrelated(
+    2000, "Linking software process improvement to business strategies: Experiences from industry",
+    display="debou",
+    authors="Debou, C. and Kuntzmann-Combelles, A.",
+    place=SPIP,
+    pp="55-64",
+    entrytype="article",
+    volume="5",
+    number="1",
+    note="cited By 25",
+    ID="Debou200055",
+    placex="Software Process: Improvement and Practice",
+))
+
 elliott2000a = DB(WorkUnrelated(
     2000, "Design of a product-focused customer-oriented process",
     display="elliott",
@@ -475,6 +489,21 @@ solingen2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_7",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+solingen2000b = DB(WorkUnrelated(
+    2000, "From process improvement to people improvement: Enabling learning in software development",
+    display="solingen b",
+    authors="Van Solingen, R. and Berghout, E. and Kusters, R. and Trienekens, J.",
+    place=IST,
+    pp="965-971",
+    entrytype="article",
+    volume="42",
+    number="14",
+    doi="10.1016/S0950-5849(00)00148-8",
+    note="cited By 30",
+    ID="VanSolingen2000965",
+    placex="Information and Software Technology",
 ))
 
 team2000a = DB(WorkUnrelated(
