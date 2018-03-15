@@ -128,6 +128,17 @@ ebert1999b = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+florac1999a = DB(WorkUnrelated(
+    1999, "Measuring the Software Process: Statistical Process Control for Software Process Improvement",
+    display="florac",
+    authors="Florac, W.A. and Carleton, A.D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 202",
+    ID="Florac1999",
+    placex="Addison Wesley Publishing Company",
+))
+
 garbett1999a = DB(WorkUnrelated(
     1999, "A case study in innovative process improvement: code synthesis from formal specifications",
     display="garbett",

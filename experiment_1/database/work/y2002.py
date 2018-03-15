@@ -536,6 +536,17 @@ sheard2002a = DB(WorkUnrelated(
     placex="SIGCSE Bull.",
 ))
 
+stiller2002a = DB(WorkUnrelated(
+    2002, "Project-based Software Engineering",
+    display="stiller",
+    authors="Stiller, E. and LeBlanc, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 13",
+    ID="Stiller2002",
+    placex="Addison Wesley Publishing Company",
+))
+
 toval2002a = DB(WorkUnrelated(
     2002, "Requirements Reuse for Improving Information Systems Security: A Practitioner's Approach",
     display="toval",

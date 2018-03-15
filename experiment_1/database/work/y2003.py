@@ -147,6 +147,21 @@ ebert2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
+eickelmann2003a = DB(WorkUnrelated(
+    2003, "Statistical process control: What you don't measure can hurt you!",
+    display="eickelmann",
+    authors="Eickelmann, N. and Anant, A.",
+    place=IEEES,
+    pp="49-51",
+    entrytype="article",
+    volume="20",
+    number="2",
+    doi="10.1109/MS.2003.1184166",
+    note="cited By 13",
+    ID="Eickelmann200349",
+    placex="IEEE Software",
+))
+
 feldmann2003a = DB(WorkUnrelated(
     2003, "An On-Line Software Engineering Repository for Germany's SME -- An Experience Report",
     display="feldmann",
@@ -233,6 +248,32 @@ jung2003a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+kan2003a = DB(WorkUnrelated(
+    2003, "Metrics and Models in Software Quality Engineering 2 nd Edition",
+    display="kan",
+    authors="Kan, S.H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 671",
+    ID="Kan2003",
+    placex="Addison Wesley Publishing Company",
+))
+
+lawler2003a = DB(WorkUnrelated(
+    2003, "Measurement modeling technology",
+    display="lawler",
+    authors="Lawler, J. and Kitchenham, B.",
+    place=IEEES,
+    pp="68-75+4",
+    entrytype="article",
+    volume="20",
+    number="3",
+    doi="10.1109/MS.2003.1196324",
+    note="cited By 31",
+    ID="Lawler200368",
+    placex="IEEE Software",
+))
+
 lindvall2003a = DB(WorkUnrelated(
     2003, "Knowledge Management for Software Organizations",
     display="lindvall",
@@ -276,6 +317,21 @@ mcfall2003a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 10",
     ID="McFall2003",
+))
+
+murugappan2003a = DB(WorkUnrelated(
+    2003, "Blending CMM and Six Sigma to meet business goals",
+    display="murugappan",
+    authors="Murugappan, M. and Keeni, G.",
+    place=IEEES,
+    pp="42-48",
+    entrytype="article",
+    volume="20",
+    number="2",
+    doi="10.1109/MS.2003.1184165",
+    note="cited By 37",
+    ID="Murugappan200342",
+    placex="IEEE Software",
 ))
 
 ngwenyama2003a = DB(WorkUnrelated(
@@ -343,6 +399,19 @@ scholtes2003a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="Scholtes2003",
+))
+
+sixsigma2003a = DB(WorkUnrelated(
+    2003, "Six Sigma Forum Magazine",
+    display="sixsigma",
+    authors="sixsigma",
+    place=FAKE,
+    entrytype="article",
+    volume="2",
+    number="3",
+    note="cited By 1",
+    ID="sixsigma2003",
+    placex="Six Sigma Forum Magazine May",
 ))
 
 solingen2003a = DB(WorkUnrelated(

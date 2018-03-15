@@ -302,6 +302,17 @@ haug2001c = DB(WorkUnrelated(
     placex="Software Process Improvement: Metrics, Measurement, and Process Modelling: Software Best Practice 4",
 ))
 
+jing2001a = DB(WorkUnrelated(
+    2001, "Quality Control for Process with Zero-uncomfortable",
+    display="jing",
+    authors="Jing, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Jing2001",
+    placex="Tsinghua University Press",
+))
+
 jones2001a = DB(WorkUnrelated(
     2001, "Software measurement programs and industry leadership",
     display="jones",
@@ -373,6 +384,17 @@ lebsanft2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44813-6_10",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+mcgarry2001a = DB(WorkUnrelated(
+    2001, "Practical Software Measurement: Objective Information for Decision Makers",
+    display="mcgarry",
+    authors="McGarry, J. and Card, D. and Jones, C. and Layman, B. and Clark, E. and Dean, J. and Hall, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 118",
+    ID="McGarry2001",
+    placex="Addison Wesley Publishing Company",
 ))
 
 niessink2001a = DB(WorkUnrelated(

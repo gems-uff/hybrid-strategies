@@ -80,6 +80,17 @@ capell2004a = DB(WorkUnrelated(
     placex="SEI SPECIAL REPORT CMU",
 ))
 
+chrissis2004a = DB(WorkUnrelated(
+    2004, "CMMI: Guidelines for Process Integration and Product Improvement",
+    display="chrissis",
+    authors="Chrissis, M.B. and Konrad, M. and Shrum, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 687",
+    ID="Chrissis2004",
+    placex="Addison-Wesley Publishing Company",
+))
+
 davis2004a = DB(WorkUnrelated(
     2004, "Using Measurement Data in a TSPSM Project",
     display="davis",
@@ -477,6 +488,17 @@ sei2004a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 17",
     ID="SEI2004",
+))
+
+sommerville2004a = DB(WorkUnrelated(
+    2004, "Software Engineering 7th Edition",
+    display="sommerville",
+    authors="Sommerville, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 22",
+    ID="Sommerville2004",
+    placex="Addison Wesley Publishing Company",
 ))
 
 wilkie2004a = DB(WorkUnrelated(

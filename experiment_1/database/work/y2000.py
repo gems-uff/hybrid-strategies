@@ -289,6 +289,28 @@ mintzberg2000a = DB(WorkUnrelated(
     placex="Bookman",
 ))
 
+nasa2000a = DB(WorkUnrelated(
+    2000, "Nasa hq library",
+    display="nasa",
+    authors="nasa",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="nasa2000",
+    placex="http://www.hq.nasa.gov/office/hqlibrary/ppm/ppm31.htm",
+))
+
+paulk2000a = DB(WorkUnrelated(
+    2000, "Applying SPC to the Personal Software ProcessSM",
+    display="paulk",
+    authors="Paulk, M.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Paulk2000",
+    placex="Proceedings of the Tenth International Conference on Software Quality",
+))
+
 pfahl2000a = DB(WorkUnrelated(
     2000, "Using simulation to analyse the impact of software requirement volatility on project performance",
     display="pfahl",
@@ -380,6 +402,17 @@ seppänen2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_32",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+sixsigma2000a = DB(WorkUnrelated(
+    2000, "SixSigma",
+    display="sixsigma",
+    authors="sixsigma",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="sixsigma2000",
+    placex="http://www.isixsigma.com/st/control_charts",
 ))
 
 solingen2000a = DB(WorkUnrelated(
