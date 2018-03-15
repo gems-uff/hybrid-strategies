@@ -109,6 +109,41 @@ grady1997a = DB(WorkUnrelated(
     ID="Grady1997",
 ))
 
+group1997a = DB(WorkUnrelated(
+    1997, "SEI Process Assessment",
+    display="group",
+    authors="AMI USER GROUP",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ami1997",
+    placex="AMI (Application of Metrics in Industry) Report",
+))
+
+hinley1997a = DB(WorkUnrelated(
+    1997, "A goal-oriented approach for managing software process change",
+    display="hinley",
+    authors="Hinley, D.S. and Reiblein, S.",
+    place=FAKE,
+    entrytype="article",
+    volume="1",
+    note="cited By 1",
+    ID="Hinley1997",
+    placex="Software Quality Management III",
+))
+
+isoies1997a = DB(WorkUnrelated(
+    1997, "SPICE - Software Process Improvement and Capability Determination",
+    display="isoies",
+    authors="isoies",
+    place=FAKE,
+    entrytype="article",
+    number="1-9 PARTS",
+    note="cited By 1",
+    ID="isoies1997",
+    placex="Study report ISO/IES JTC1/SC7",
+))
+
 kaplan1997a = DB(WorkUnrelated(
     1997, "Cost and Effect: Using Integrated Cost Systems to Drive Profitability and Performance, Activity-Based Costing: Introduction (79-110)",
     display="kaplan",

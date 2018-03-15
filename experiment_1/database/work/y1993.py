@@ -52,6 +52,17 @@ cederling1993a = DB(WorkUnrelated(
     placex="Software Engineering --- ESEC '93",
 ))
 
+cmm1993a = DB(WorkUnrelated(
+    1993, "The Capability Maturity Model (CMM)",
+    display="cmm",
+    authors="cmm",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 982",
+    ID="cmm1993",
+    placex="Carnegie-Mellon University, Pittsburgh, USA, CMU/SEI-93-TR-24 and -25",
+))
+
 curtis1993a = DB(WorkUnrelated(
     1993, "Creating a software process improvement program",
     display="curtis",
@@ -95,6 +106,19 @@ fernstro1993a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Fernstro1993",
     placex="?Proc. Second Int'l Conf. Software Process",
+))
+
+kaplan1993a = DB(WorkUnrelated(
+    1993, "Putting the balanced scorecard to work",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    pp="134-147",
+    entrytype="article",
+    number="5",
+    note="cited By 1010",
+    ID="Kaplan1993134",
+    placex="Harvard Business Review",
 ))
 
 lott1993a = DB(WorkUnrelated(

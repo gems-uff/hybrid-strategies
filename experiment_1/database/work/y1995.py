@@ -145,6 +145,18 @@ kuvaja1995a = DB(WorkUnrelated(
     placex="Objective Software Quality",
 ))
 
+miller1995a = DB(WorkUnrelated(
+    1995, "The Quantum Study",
+    display="miller",
+    authors="Miller, C.",
+    place=FAKE,
+    pp="475-487",
+    entrytype="article",
+    note="cited By 1",
+    ID="Miller1995475",
+    placex="Software Quality Management II",
+))
+
 obbink1995a = DB(WorkUnrelated(
     1995, "Process differentiation and integration: The key to just-in-time in product development",
     display="obbink",
@@ -238,6 +250,19 @@ teufel1995a = DB(WorkUnrelated(
     ID="Teufel:1995:BIT:209891.209895",
     acm="1",
     placex="SIGOIS Bull.",
+))
+
+vlasveld1995a = DB(WorkUnrelated(
+    1995, "IMPRESS: To plug and improve",
+    display="vlasveld",
+    authors="Vlasveld, G.-J.",
+    place=FAKE,
+    pp="53-57",
+    entrytype="article",
+    volume="2",
+    note="cited By 1",
+    ID="Vlasveld199553",
+    placex="Software Quality Management IV",
 ))
 
 zucconi1995a = DB(WorkUnrelated(

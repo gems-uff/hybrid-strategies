@@ -25,6 +25,17 @@ humphrey1989b = DB(WorkUnrelated(
     ID="Humphrey1989",
 ))
 
+itil1989a = DB(WorkUnrelated(
+    1989, "ITIL - The Information Technology Infrastructure Library",
+    display="itil",
+    authors="itil",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="itil1989",
+    placex="HMSO",
+))
+
 marques1989a = DB(WorkUnrelated(
     1989, "Extending the Operating System to Support an Object-oriented Environment",
     display="marques",

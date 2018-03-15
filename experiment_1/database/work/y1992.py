@@ -78,3 +78,14 @@ kotonya1992a = DB(WorkUnrelated(
     ID="Kotonya1992",
     placex="BCS/IEE Software Eng. J., Vol. 7, No. 6, Pp. 375-87",
 ))
+
+trade1992a = DB(WorkUnrelated(
+    1992, "Guide to Software Quality Management System Construction and Certification",
+    display="trade",
+    authors="Department of Trade and Industry - DTI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="DTI1992",
+    placex="British Computer Society 28 February",
+))

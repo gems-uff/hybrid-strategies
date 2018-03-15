@@ -89,6 +89,29 @@ heineman1994a = DB(WorkUnrelated(
     placex="IBM Systems J., Vol. 33, No. 3, Pp. 501-529",
 ))
 
+iso1994a = DB(WorkUnrelated(
+    1994, "Guidelines for Auditing Quality Systems",
+    display="iso",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    number="1-3 PARTS",
+    note="cited By 1",
+    ID="iso1994",
+    placex="Geneva, Switzerland, ISO 1011-1:1990(E), ISO 1011-2:1991(E), ISO 1011-3:1991(E)",
+))
+
+iso1994b = DB(WorkUnrelated(
+    1994, "Model for Quality Assurance in Design, Development, Installation and Servicing",
+    display="iso b",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso1994",
+    placex="Geneva, Switzerland, ISO 9001:1994(E)",
+))
+
 jm1994a = DB(WorkUnrelated(
     1994, "Designing funded qualitative research",
     display="jm",

@@ -143,6 +143,18 @@ kaplan1996a = DB(WorkUnrelated(
     ID="Kaplan1996",
 ))
 
+kaplan1996b = DB(WorkUnrelated(
+    1996, "Linking the balanced scorecard to strategy",
+    display="kaplan b",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    entrytype="article",
+    volume="74",
+    note="cited By 1",
+    ID="Kaplan1996",
+    placex="Harvard Business Review",
+))
+
 mcfeeley1996a = DB(WorkUnrelated(
     1996, "IDEAL: A User's Guide for Software Process Improvement",
     display="mcfeeley",

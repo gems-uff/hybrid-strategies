@@ -1,0 +1,110 @@
+Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{NoAuthor1989,
+journal={ITIL - The Information Technology Infrastructure Library},
+year={1989},
+note={cited By 1},
+}
+
+@ARTICLE{Miller1995475,
+author={Miller, C.},
+title={The Quantum Study},
+journal={Software Quality Management II},
+year={1995},
+pages={475-487},
+note={cited By 1},
+}
+
+@ARTICLE{Hinley0000,
+author={Hinley, D.S. and Reiblein, S.},
+title={A goal-oriented approach for managing software process change},
+journal={Software Quality Management III},
+year={0000},
+volume={1},
+note={cited By 1},
+}
+
+@ARTICLE{Kaplan1993134,
+author={Kaplan, R.S. and Norton, D.P.},
+title={Putting the balanced scorecard to work},
+journal={Harvard Business Review},
+year={1993},
+number={5},
+pages={134-147},
+note={cited By 1010},
+}
+
+@ARTICLE{Kaplan1996,
+author={Kaplan, R.S. and Norton, D.P.},
+title={Linking the balanced scorecard to strategy},
+journal={Harvard Business Review},
+year={1996},
+volume={74},
+note={cited By 1},
+}
+
+@ARTICLE{Deming1986,
+author={Deming, W.E.},
+title={Out of crisis: Quality, productivity and competitive position},
+journal={Out of the Crisis: Quality, Productivity and Competitive Position},
+year={1986},
+note={cited By 331},
+}
+
+@ARTICLE{Vlasveld199553,
+author={Vlasveld, G.-J.},
+title={IMPRESS: To plug and improve},
+journal={Software Quality Management IV},
+year={1995},
+volume={2},
+pages={53-57},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor1994,
+journal={Guidelines for Auditing Quality Systems},
+year={1994},
+number={1-3 PARTS},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor1992,
+journal={Guide to Software Quality Management System Construction and Certification},
+year={1992},
+note={cited By 1},
+}
+
+@ARTICLE{Humphrey1989,
+author={Humphrey, W.S.},
+title={Managing the software process},
+journal={Managing the Software Process},
+year={1989},
+note={cited By 1290},
+}
+
+@ARTICLE{NoAuthor0000,
+journal={SPICE - Software Process Improvement and Capability Determination},
+year={0000},
+number={1-9 PARTS},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor1994,
+journal={Model for Quality Assurance in Design, Development, Installation and Servicing},
+year={1994},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk1995,
+author={Paulk, M.C. and Weber, C.V. and Curtis, B. and Chrissis, M.B.},
+title={The capability maturity model: Guidelines for improving the software process},
+journal={The Capability Maturity Model: Guidelines for Improving the Software Process},
+year={1995},
+note={cited By 982},
+}
