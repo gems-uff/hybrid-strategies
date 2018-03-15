@@ -214,6 +214,17 @@ isoiec2003a = DB(WorkUnrelated(
     ID="ISOIEC2003",
 ))
 
+isoiec2003b = DB(WorkUnrelated(
+    2003, "Information technology - Process assessment - Parts 1-5",
+    display="isoiec b",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 251",
+    ID="isoiec2003",
+    placex="ISO/IEC 15504:2003. International Standards Organization",
+))
+
 jedlitschka2003a = DB(WorkUnrelated(
     2003, "Software Engineering Knowledge Repositories",
     display="jedlitschka",
@@ -453,6 +464,17 @@ usddusa2003a = DB(WorkUnrelated(
     note="cited By 8",
     ID="USDDUSA2003",
     placex="US Dept. of Defense and US Army,",
+))
+
+venzin2003a = DB(WorkUnrelated(
+    2003, "Der Strategieprozess - Praxishandbuch Zur Umsetzung Im Unternehmen",
+    display="venzin",
+    authors="Venzin, M. and Rasner, C. and Mahnke, V.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Venzin2003",
+    placex="Campus, Frankfurt/Main",
 ))
 
 yap2003a = DB(WorkUnrelated(

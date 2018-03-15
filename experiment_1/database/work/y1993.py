@@ -59,6 +59,21 @@ curtis1993a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+dion1993a = DB(WorkUnrelated(
+    1993, "Process Improvement and the Corporate Balance Sheet",
+    display="dion",
+    authors="Dion, R.",
+    place=IEEES,
+    pp="28-35",
+    entrytype="article",
+    volume="10",
+    number="4",
+    doi="10.1109/52.219618",
+    note="cited By 100",
+    ID="Dion199328",
+    placex="IEEE Software",
+))
+
 fernstro1993a = DB(WorkUnrelated(
     1993, "Process Weaver: Adding Process Support to Unix",
     display="fernstro",

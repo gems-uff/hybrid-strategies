@@ -1,0 +1,63 @@
+﻿Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{NoAuthor2006,
+title={Information technology - Process assessment - Parts 1-5},
+journal={Information Technology - Process Assessment},
+year={2006},
+note={cited By 251},
+}
+
+@ARTICLE{NoAuthor2006,
+journal={CMMI for Development},
+year={2006},
+note={cited By 239},
+}
+
+@ARTICLE{Shewhart1931,
+author={Shewhart, W.A.},
+journal={Economic Control of Quality of Manufactured Product},
+year={1931},
+note={cited By 2168},
+}
+
+@ARTICLE{Dion199328,
+author={Dion, R.},
+title={Process Improvement and the Corporate Balance Sheet},
+journal={IEEE Software},
+year={1993},
+volume={10},
+number={4},
+pages={28-35},
+doi={10.1109/52.219618},
+note={cited By 100},
+}
+
+@ARTICLE{McFeeley1996,
+author={McFeeley, B.},
+title={IDEAL: A user's guide for software process improvement},
+journal={Handbook CMU/SEI-96-HB-001},
+year={1996},
+note={cited By 10},
+}
+
+@ARTICLE{NoAuthor1998,
+title={Information technology - Software process assessment},
+journal={Information Technology - Software Process Assessment},
+year={1998},
+note={cited By 117},
+}
+
+@ARTICLE{Simon2002,
+author={Simon, H. and Von Der Gathen, A.},
+journal={Das Große Handbuch der Strategieinstrumente},
+year={2002},
+note={cited By 11},
+}
+
+@ARTICLE{Venzin2003,
+author={Venzin, M. and Rasner, C. and Mahnke, V.},
+journal={Der Strategieprozess - Praxishandbuch Zur Umsetzung Im Unternehmen},
+year={2003},
+note={cited By 3},
+}
