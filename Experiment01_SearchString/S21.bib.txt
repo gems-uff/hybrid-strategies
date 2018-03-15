@@ -1,0 +1,95 @@
+﻿Scopus
+EXPORT DATE: 15 March 2018
+
+@CONFERENCE{Brodman1994331,
+author={Brodman, Judith G. and Johnson, Donna L.},
+title={What small businesses and small organizations say about the CMM},
+journal={Proceedings - International Conference on Software Engineering},
+year={1994},
+pages={331-340},
+note={cited By 69},
+}
+
+@ARTICLE{Kautz199914,
+author={Kautz, K.},
+title={Making Sense of Measurement for Small Organizations},
+journal={IEEE Software},
+year={1999},
+volume={16},
+number={2},
+pages={14-20},
+doi={10.1109/52.754047},
+note={cited By 32},
+}
+
+@ARTICLE{Argyris199185,
+author={Argyris, C. and Schön, D.A.},
+title={Participatory action research and action science compared: A commentary},
+journal={Participatory Action Research},
+year={1991},
+pages={85-96},
+note={cited By 122},
+}
+
+@ARTICLE{McFeeley1996,
+author={McFeeley, B.},
+title={IDEALSM: A user's guide for software process improvement},
+journal={Handbook CMU/SEI-96-HB-001},
+year={1996},
+note={cited By 5},
+}
+
+@ARTICLE{Iversen1998451,
+author={Iversen, J. and Johansen, J. and Nielsen, P.A. and Pries-Heje, J.},
+title={Combining quantitative and qualitative assessment methods in software process improvement},
+journal={Proceedings of the 6th European Conference on Information Systems (ECIS)},
+year={1998},
+pages={451-466},
+note={cited By 9},
+}
+
+@ARTICLE{WestergaardHansen1998,
+author={Westergaard Hansen, H. and Thaysen, K.},
+title={NP -Assessment Process Report},
+journal={Np-Assessment Process Report (In Danish).},
+year={1998},
+note={cited By 2},
+}
+
+@ARTICLE{WestergaardHansen1998,
+author={Westergaard Hansen, H. and Thaysen, K.},
+journal={Process Improvement in A Small Danish Software Company (in Danish)},
+year={1998},
+note={cited By 2},
+}
+
+@ARTICLE{Kautz2000,
+author={Kautz, K. and Thaysen, K.},
+title={Knowledge, learning and IT support in a small software company},
+journal={Proceedings of BPRC CONFERENCE on 'Knowledge Management: Concepts and Controversies'},
+year={2000},
+note={cited By 2},
+}
+
+@ARTICLE{Rogers1995,
+author={Rogers, E.M.},
+journal={Diffusion of Innovations},
+year={1995},
+note={cited By 30913},
+}
+
+@ARTICLE{Kautz1999,
+author={Kautz, K.},
+title={Software Process Improvement in very Small Enterprises: Does it pay off?},
+journal={Journal of the Software Process-Improvement and Practice},
+year={1999},
+volume={5},
+note={cited By 2},
+}
+
+@ARTICLE{Borum1995,
+author={Borum, F.},
+journal={Strategies for Organizational Change},
+year={1995},
+note={cited By 4},
+}

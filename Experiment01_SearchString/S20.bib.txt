@@ -1,0 +1,156 @@
+Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{Kurtz2003462,
+author={Kurtz, C.F. and Snowden, D.J.},
+title={The new dynamics of strategy: Sense-making in a complex and complicated world},
+journal={IBM Systems Journal},
+year={2003},
+volume={42},
+number={3},
+pages={462-483},
+doi={10.1147/sj.423.0462},
+note={cited By 452},
+}
+
+@ARTICLE{Boehm2004,
+author={Boehm, B. and Turner, R.},
+journal={Balancing Agility and Discipline: A Guide for the Perplexed},
+year={2004},
+note={cited By 761},
+}
+
+@ARTICLE{Coleman2008772,
+author={Coleman, G. and O'Connor, R.},
+title={Investigating software process in practice: A grounded theory perspective},
+journal={Journal of Systems and Software},
+year={2008},
+volume={81},
+number={5},
+pages={772-784},
+doi={10.1016/j.jss.2007.07.027},
+note={cited By 112},
+}
+
+@ARTICLE{Dettmer2011,
+author={Dettmer, H.W.},
+journal={Systems Thinking and the Cynefin Framework-A Strategic Approach to Managing Complex Systems},
+year={2011},
+note={cited By 6},
+}
+
+@ARTICLE{Snowden2007,
+author={Snowden, D.J. and Boone, M.E.},
+title={A leader's framework for decision making},
+journal={Harvard Business Review},
+year={2007},
+volume={85},
+number={11},
+pages={69-76+149},
+note={cited By 285},
+}
+
+@ARTICLE{Lepmets20121440,
+author={Lepmets, M. and McBride, T. and Ras, E.},
+title={Goal alignment in process improvement},
+journal={Journal of Systems and Software},
+year={2012},
+volume={85},
+number={6},
+pages={1440-1452},
+doi={10.1016/j.jss.2012.01.038},
+note={cited By 26},
+}
+
+@ARTICLE{Salo200781,
+author={Salo, O. and Abrahamsson, P.},
+title={An iterative improvement process for agile software development},
+journal={Software Process Improvement and Practice},
+year={2007},
+volume={12},
+number={1},
+pages={81-100},
+doi={10.1002/spip.305},
+note={cited By 31},
+}
+
+@ARTICLE{Paternoster20141200,
+author={Paternoster, N. and Giardino, C. and Unterkalmsteiner, M. and Gorschek, T. and Abrahamsson, P.},
+title={Software development in startup companies: A systematic mapping study},
+journal={Information and Software Technology},
+year={2014},
+volume={56},
+number={10},
+pages={1200-1218},
+doi={10.1016/j.infsof.2014.04.014},
+note={cited By 54},
+}
+
+@ARTICLE{Thorpe2005257,
+author={Thorpe, R. and Holt, R. and Macpherson, A. and Pittaway, L.},
+title={Using knowledge within small and medium-sized firms: A systematic review of the evidence},
+journal={International Journal of Management Reviews},
+year={2005},
+volume={7},
+number={4},
+pages={257-281},
+doi={10.1111/j.1468-2370.2005.00116.x},
+note={cited By 205},
+}
+
+@ARTICLE{Pelrine201126,
+author={Pelrine, J.},
+title={On understanding software agility: A social complexity point of view},
+journal={Emergence: Complexity and Organization},
+year={2011},
+volume={13},
+number={1-2},
+pages={26-37},
+note={cited By 10},
+}
+
+@ARTICLE{Hobcraft2015,
+author={Hobcraft, P.},
+title={The use of the cynefin model for innovation},
+journal={Paul4innovating's Innovation Views},
+year={2015},
+note={cited By 1},
+}
+
+@ARTICLE{Kim2015,
+author={Kim, J.},
+title={How complexity domain impacts software development process},
+journal={Mobile Game Industry Points of View},
+year={2015},
+note={cited By 1},
+}
+
+@ARTICLE{Clarke2012433,
+author={Clarke, P. and O'Connor, R.V.},
+title={The situational factors that affect the software development process: Towards a comprehensive reference framework},
+journal={Information and Software Technology},
+year={2012},
+volume={54},
+number={5},
+pages={433-447},
+note={cited By 89},
+}
+
+@ARTICLE{Samios2015,
+author={Samios, H.},
+title={Software development},
+journal={Scrum and Cynefin},
+year={2015},
+note={cited By 1},
+}
+
+@CONFERENCE{Lepmets2014166,
+author={Lepmets, M. and O'Connor, R.V. and Cater-Steel, A. and Mesquida, A.L. and McBride, T.},
+title={A cynefin based approach to process model tailoring and goal alignment},
+journal={Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014},
+year={2014},
+pages={166-169},
+doi={10.1109/QUATIC.2014.30},
+art_number={6984111},
+note={cited By 4},
+}
