@@ -237,6 +237,19 @@ procaccino2005a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+salo2005a = DB(WorkUnrelated(
+    2005, "Improving Software Development Practices in an Agile Fashion",
+    display="salo",
+    authors="Salo, O.",
+    place=FAKE,
+    pp="8",
+    entrytype="article",
+    volume="2",
+    note="cited By 6",
+    ID="Salo20058",
+    placex="Agile Newsletter",
+))
+
 sei2005a = DB(WorkUnrelated(
     2005, "The IDEALSM Model",
     display="sei",

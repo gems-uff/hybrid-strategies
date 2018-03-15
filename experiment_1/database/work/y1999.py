@@ -128,6 +128,18 @@ ebert1999b = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+emam1999a = DB(WorkUnrelated(
+    1999, "Success factors and barriers for software process improvement",
+    display="emam",
+    authors="El Emam, K. and Fusaro, P. and Smith, B.",
+    place=FAKE,
+    pp="355-371",
+    entrytype="article",
+    note="cited By 19",
+    ID="ElEmam1999355",
+    placex="Better Software Practice for Business Benefit: Principles and Experience",
+))
+
 florac1999a = DB(WorkUnrelated(
     1999, "Measuring the Software Process: Statistical Process Control for Software Process Improvement",
     display="florac",
@@ -196,6 +208,17 @@ raffo1999a = DB(WorkUnrelated(
     ID="Raffo1999163",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+solingen1999a = DB(WorkUnrelated(
+    1999, "The Goal/Question/Metric Method: A Practical Guide for Quality Improvement of Software Development",
+    display="solingen",
+    authors="Van Solingen, R. and Berghout, E.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 315",
+    ID="VanSolingen1999",
+    placex="McGraw-Hill, Cambridge",
 ))
 
 sommerville1999a = DB(WorkSnowball(

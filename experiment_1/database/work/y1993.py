@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+arthur1993a = DB(WorkUnrelated(
+    1993, "Improving Software Quality: An Insider's Guide to TQM",
+    display="arthur",
+    authors="Arthur, L.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 44",
+    ID="Arthur1993",
+    placex="New York",
+))
+
 bandinelli1993a = DB(WorkUnrelated(
     1993, "Software Process Evolution in the SPADE Environment",
     display="bandinelli",
@@ -85,6 +96,8 @@ paulk1993a = DB(WorkUnrelated(
     place=EBSE,
     entrytype="article",
     ID="Paulk1993",
+    note="cited By 1",
+    placex="Carnegie Mellon University",
 ))
 
 paulk1993b = DB(WorkUnrelated(

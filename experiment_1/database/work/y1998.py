@@ -45,6 +45,39 @@ hierholzer1998a = DB(WorkUnrelated(
     ID="Hierholzer199885",
 ))
 
+isoiec1998a = DB(WorkUnrelated(
+    1998, "Information technology - Software process assessment- Part2: A reference model for processes and process capability",
+    display="isoiec",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 25",
+    ID="isoiec1998",
+    placex="ISO/IEC TR 15504-2",
+))
+
+isoiec1998b = DB(WorkUnrelated(
+    1998, "Information Technology  Software Process Assessment  Part 5: An Assessment Model and Indicator Guidance.",
+    display="isoiec b",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 117",
+    ID="isoiec1998",
+    placex="ISO/IEC JTC1/ SC7",
+))
+
+isoiec1998c = DB(WorkUnrelated(
+    1998, "Information technology - Software process assessment - Part 7: Guide for use in process improvement, International Organization for Standardization",
+    display="isoiec c",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="isoiec1998",
+    placex="ISO/IEC TR 15504-7",
+))
+
 kontio1998a = DB(WorkUnrelated(
     1998, "A Software Process Engineering Framework",
     display="kontio",

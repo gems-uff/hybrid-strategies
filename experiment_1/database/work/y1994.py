@@ -115,6 +115,17 @@ knoll1994a = DB(WorkUnrelated(
     placex="Proceedings of the 1994 Computer Personnel Research Conference on Reinventing IS : Managing Information Technology in Changing Organizations: Managing Information Technology in Changing Organizations",
 ))
 
+kuvaja1994a = DB(WorkUnrelated(
+    1994, "Software Process Assessment and Improvement: The BOOTSTRAP Approach",
+    display="kuvaja",
+    authors="Kuvaja, P. and Similä, J. and Krzanik, L. and Bicego, A. and Saukkonen, S. and Koch, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 123",
+    ID="Kuvaja1994",
+    placex="Publishers, Malden",
+))
+
 madhavji1994a = DB(WorkUnrelated(
     1994, "Elicit: A Method for Eliciting Process Models, Proc",
     display="madhavji",
@@ -152,6 +163,21 @@ nú1994a = DB(WorkUnrelated(
     placex="Ada in Europe",
 ))
 
+pfleeger1994a = DB(WorkUnrelated(
+    1994, "Measurement based process improvement",
+    display="pfleeger",
+    authors="Pfleeger, S.L. and Rombach, H.D.",
+    place=IEEES,
+    pp="8-11",
+    entrytype="article",
+    volume="11",
+    number="4",
+    doi="10.1109/52.300077",
+    note="cited By 14",
+    ID="Pfleeger19948",
+    placex="IEEE Software",
+))
+
 roche1994a = DB(WorkUnrelated(
     1994, "Software measurement methods: recipes for success?",
     display="roche",
@@ -180,6 +206,7 @@ vertage1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Vertage1994",
     placex="Proc. Third European Workshop Software Process Technology, SpringerVerlag, Pp. 123-127",
+    pp="123-127",
 ))
 
 whitney1994a = DB(WorkUnrelated(

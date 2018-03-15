@@ -290,6 +290,17 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
+martins2007b = DB(WorkUnrelated(
+    2007, "ProPAM: SPI based on Process and Project Alignment",
+    display="martins b",
+    authors="Martins, V.M. and Da Silva, A.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 8",
+    ID="Martins2007",
+    placex="Proceedings of the IRMA International Conference",
+))
+
 mcloone2007a = DB(WorkUnrelated(
     2007, "Performances outcomes of CMMI-based process improvements",
     display="mcloone",

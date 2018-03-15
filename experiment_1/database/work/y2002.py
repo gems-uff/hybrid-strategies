@@ -138,6 +138,17 @@ chauveau2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+cmm2002a = DB(WorkUnrelated(
+    2002, "Capability Maturity Model Integration (CMMI), Version 1.2",
+    display="cmm",
+    authors="cmm",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="cmm2002",
+    placex="Carnegie Mellon University",
+))
+
 conradi2002a = DB(WorkUnrelated(
     2002, "Improving software process improvement",
     display="conradi",

@@ -1,0 +1,132 @@
+Scopus
+EXPORT DATE: 14 March 2018
+
+@ARTICLE{Sommerville1996,
+author={Sommerville, I.},
+journal={Software Engineering 5th},
+year={1996},
+note={cited By 22},
+}
+
+@ARTICLE{Stiller2002,
+author={Stiller, E. and LeBlanc, C.},
+journal={Project-based Software Engineering},
+year={2002},
+note={cited By 13},
+}
+
+@ARTICLE{Jing2001,
+author={Jing, S.},
+journal={Quality Control for Process with Zero-uncomfortable},
+year={2001},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2012,
+year={2012},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2012,
+year={2012},
+note={cited By 1},
+}
+
+@ARTICLE{Lawler200368,
+author={Lawler, J. and Kitchenham, B.},
+title={Measurement modeling technology},
+journal={IEEE Software},
+year={2003},
+volume={20},
+number={3},
+pages={68-75+4},
+doi={10.1109/MS.2003.1196324},
+note={cited By 31},
+}
+
+@ARTICLE{Kan1995,
+author={Kan, S.H.},
+journal={Metrics and Models in Software Quality Engineering},
+year={1995},
+note={cited By 671},
+}
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1409},
+}
+
+@ARTICLE{Park1996,
+author={Park, R.E. and Goethert, W.B. and Florac, W.A.},
+title={Goal-driven software measurement - A guidebook},
+journal={Goal-Driven Software Measurement - A Guidebook},
+year={1996},
+note={cited By 110},
+}
+
+@ARTICLE{McGarry2002,
+author={McGarry, J. and Card, D. and Jones, C. and Layman, B. and Clark, E. and Dean, J. and Hall, F.},
+journal={Practical Software Measurement: Objective Information for Decision Makers},
+year={2002},
+note={cited By 118},
+}
+
+@ARTICLE{Florac1999,
+author={Florac, W.A. and Carleton, A.D.},
+title={Measuring the software process},
+journal={Measuring the Software Process: Statistical Process Control for Software Process Improvement},
+year={1999},
+note={cited By 202},
+}
+
+@ARTICLE{Eickelmann200349,
+author={Eickelmann, N. and Anant, A.},
+title={Statistical process control: What you don't measure can hurt you!},
+journal={IEEE Software},
+year={2003},
+volume={20},
+number={2},
+pages={49-51},
+doi={10.1109/MS.2003.1184166},
+note={cited By 13},
+}
+
+@ARTICLE{Paulk2000,
+author={Paulk, M.C.},
+title={Applying SPC to the Personal Software ProcessSM},
+journal={Proceedings of the Tenth International Conference on Software Quality},
+year={2000},
+note={cited By 5},
+}
+
+@ARTICLE{NoAuthor2003,
+journal={Six Sigma Forum Magazine},
+year={2003},
+volume={2},
+number={3},
+note={cited By 1},
+}
+
+@ARTICLE{Murugappan200342,
+author={Murugappan, M. and Keeni, G.},
+title={Blending CMM and Six Sigma to meet business goals},
+journal={IEEE Software},
+year={2003},
+volume={20},
+number={2},
+pages={42-48},
+doi={10.1109/MS.2003.1184165},
+note={cited By 37},
+}
+
+@ARTICLE{Chrissis2003,
+author={Chrissis, M.B. and Konrad, M. and Shrum, S.},
+journal={CMMI: Guidelines for Process Integration and Product Improvement},
+year={2003},
+note={cited By 687},
+}

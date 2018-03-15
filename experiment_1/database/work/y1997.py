@@ -139,6 +139,17 @@ king1997a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+krasner1997a = DB(WorkUnrelated(
+    1997, "Accumulating the body of evidence for the payoff of software process improvement-1997",
+    display="krasner",
+    authors="Krasner, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Krasner1997",
+    placex="Krasner Consulting",
+))
+
 offen1997a = DB(WorkUnrelated(
     1997, "Establishing software measurement programs",
     display="offen",

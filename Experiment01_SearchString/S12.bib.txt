@@ -1,0 +1,113 @@
+﻿Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{Salo20058,
+author={Salo, O.},
+title={Improving Software Development Practices in an Agile Fashion},
+journal={Agile Newsletter},
+year={2005},
+volume={2},
+pages={8},
+note={cited By 6},
+}
+
+@ARTICLE{Krasner1997,
+author={Krasner, H.},
+title={Accumulating the body of evidence for the payoff of software process improvement-1997},
+journal={Krasner Consulting},
+year={1997},
+note={cited By 2},
+}
+
+@ARTICLE{NoAuthor1993,
+title={Capability Maturity Model for Software (CMM), Version 1.1},
+journal={Carnegie Mellon University},
+year={1993},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2002,
+journal={Capability Maturity Model Integration (CMMI), Version 1.2},
+year={2002},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor1998,
+title={Information technology - Software process assessment- Part2: A reference model for processes and process capability},
+journal={Information Technology - Software Process Assessment - Part 2: A Reference Model for Processes and Process Capability},
+year={1998},
+note={cited By 25},
+}
+
+@ARTICLE{NoAuthor1998,
+title={Information technology - Software process assessment},
+journal={Information Technology - Software Process Assessment},
+year={1998},
+note={cited By 117},
+}
+
+@ARTICLE{NoAuthor1998,
+title={Information technology - Software process assessment - Part 7: Guide for use in process improvement, International Organization for Standardization},
+journal={Information Technology – Software Process Assessment – Part 7: Guide for Use in Process Improvement, International Organization for Standardization},
+year={1998},
+note={cited By 2},
+}
+
+@ARTICLE{Kuvaja1994,
+author={Kuvaja, P. and Similä, J. and Krzanik, L. and Bicego, A. and Saukkonen, S. and Koch, G.},
+journal={Software Process Assessment and Improvement: The BOOTSTRAP Approach},
+year={1994},
+note={cited By 123},
+}
+
+@ARTICLE{ElEmam1999355,
+author={El Emam, K. and Fusaro, P. and Smith, B.},
+title={Success factors and barriers for software process improvement},
+journal={Better Software Practice for Business Benefit: Principles and Experience},
+year={1999},
+pages={355-371},
+note={cited By 19},
+}
+
+@ARTICLE{Arthur1993,
+author={Arthur, L.J.},
+journal={Improving Software Quality: An Insider's Guide to TQM},
+year={1993},
+note={cited By 44},
+}
+
+@ARTICLE{Pfleeger19948,
+author={Pfleeger, S.L. and Rombach, H.D.},
+title={Measurement based process improvement},
+journal={IEEE Software},
+year={1994},
+volume={11},
+number={4},
+pages={8-11},
+doi={10.1109/52.300077},
+note={cited By 14},
+}
+
+@ARTICLE{VanSolingen1999,
+author={Van Solingen, R. and Berghout, E.},
+journal={The Goal/Question/Metric Method: A Practical Guide for Quality Improvement of Software Development},
+year={1999},
+note={cited By 315},
+}
+
+@ARTICLE{Martins2007,
+author={Martins, V.M. and Da Silva, A.R.},
+title={ProPAM: SPI based on Process and Project Alignment},
+journal={Proceedings of the IRMA International Conference},
+year={2007},
+note={cited By 8},
+}
+
+@ARTICLE{Verlage1994123,
+author={Verlage, M.},
+title={Multi-view modeling of software processes},
+journal={Software Process Technology Third European Workshop, EWSPT '94},
+year={1994},
+pages={123-127},
+note={cited By 8},
+}
