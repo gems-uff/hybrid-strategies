@@ -174,6 +174,20 @@ egorova2010a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+esfahani2010a = DB(WorkUnrelated(
+    2010, "A repository of agile method fragments",
+    display="esfahani",
+    authors="Esfahani, H.C. and Yu, E.",
+    place=FAKE,
+    pp="163-174",
+    entrytype="article",
+    volume="6195 LNCS",
+    doi="10.1007/978-3-642-14347-2_15",
+    note="cited By 14",
+    ID="Esfahani2010163",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 faegri2010a = DB(WorkUnrelated(
     2010, "Introducing knowledge redundancy practice in software development: Experiences with job rotation in support work",
     display="faegri",
@@ -283,6 +297,17 @@ immorlica2010a = DB(WorkUnrelated(
     placex="Proceedings of the 11th ACM Conference on Electronic Commerce",
 ))
 
+institute2010a = DB(WorkUnrelated(
+    2010, "The Strategic Management Maturity Model",
+    display="institute",
+    authors="BSI Balanced Scorecard Institute",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="BSI2010",
+    placex="Smg, Strategy Managemetn Group",
+))
+
 itgi2010a = DB(WorkUnrelated(
     2010, "Control Objectives for Information and Related Technology",
     display="itgi",
@@ -335,6 +360,20 @@ kowalczyk2010a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Kowalczyk2010",
     placex="Proceedings of the International Conference on Software Process and Product Measurement (IWSM/MetriKon/Mensura 2010)",
+))
+
+krasteva2010a = DB(WorkUnrelated(
+    2010, "Experience-based approach for adoption of agile practices in software development projects",
+    display="krasteva",
+    authors="Krasteva, I. and Ilieva, S. and Dimov, A.",
+    place=FAKE,
+    pp="266-280",
+    entrytype="article",
+    volume="6051 LNCS",
+    doi="10.1007/978-3-642-13094-6_22",
+    note="cited By 7",
+    ID="Krasteva2010266",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 kremmel2010a = DB(WorkUnrelated(

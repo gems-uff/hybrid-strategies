@@ -240,6 +240,21 @@ dybå2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+eilat2008a = DB(WorkUnrelated(
+    2008, "R&D project evaluation: An integrated DEA and balanced scorecard approach",
+    display="eilat",
+    authors="Eilat, H. and Golany, B. and Shtub, A.",
+    place=FAKE,
+    pp="895-912",
+    entrytype="article",
+    volume="36",
+    number="5",
+    doi="10.1016/j.omega.2006.05.002",
+    note="cited By 132",
+    ID="Eilat2008895",
+    placex="Omega",
+))
+
 fairweather2008a = DB(WorkUnrelated(
     2008, "How Older and Younger Adults Differ in Their Approach to Problem Solving on a Complex Website",
     display="fairweather",
@@ -662,6 +677,20 @@ staples2008a = DB(WorkUnrelated(
     ID="Staples2008605",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+sureshchandra2008a = DB(WorkUnrelated(
+    2008, "Adopting agile in distributed development",
+    display="sureshchandra",
+    authors="Sureshchandra, K. and Shrinivasavadhani, J.",
+    place=FAKE,
+    pp="217-221",
+    entrytype="conference",
+    doi="10.1109/ICGSE.2008.25",
+    art_number="4638670",
+    note="cited By 44",
+    ID="Sureshchandra2008217",
+    placex="Proceedings - 2008 3rd IEEE International Conference Global Software Engineering, ICGSE 2008",
 ))
 
 vähäniitty2008a = DB(WorkUnrelated(

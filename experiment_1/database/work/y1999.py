@@ -192,6 +192,21 @@ humphrey1999a = DB(WorkUnrelated(
     ID="Humphrey1999",
 ))
 
+martinsons1999a = DB(WorkUnrelated(
+    1999, "The balanced scorecard: A foundation for the strategic management of information systems",
+    display="martinsons",
+    authors="Martinsons, M. and Davison, R. and Tse, D.",
+    place=FAKE,
+    pp="71-88",
+    entrytype="article",
+    volume="25",
+    number="1",
+    doi="10.1016/S0167-9236(98)00086-4",
+    note="cited By 276",
+    ID="Martinsons199971",
+    placex="Decision Support Systems",
+))
+
 prahalad1999a = DB(WorkUnrelated(
     1999, "The new meaning of quality in the information age",
     display="prahalad",

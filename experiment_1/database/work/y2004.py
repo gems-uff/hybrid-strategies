@@ -313,6 +313,17 @@ jokela2004a = DB(WorkUnrelated(
     placex="Interacting with Computers",
 ))
 
+kaplan2004a = DB(WorkUnrelated(
+    2004, "Strategy Maps: Converting Intangible Assets Into Tangible Outcomes",
+    display="kaplan",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1050",
+    ID="Kaplan2004",
+    placex="Boston, Harvard Business School",
+))
+
 karinsalo2004a = DB(WorkUnrelated(
     2004, "Software Reuse and the Test Development Process: A Combined Approach",
     display="karinsalo",

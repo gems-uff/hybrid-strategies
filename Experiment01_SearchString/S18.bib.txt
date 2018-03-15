@@ -1,0 +1,189 @@
+Scopus
+EXPORT DATE: 15 March 2018
+
+@ARTICLE{Esfahani2010163,
+author={Esfahani, H.C. and Yu, E.},
+title={A repository of agile method fragments},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6195 LNCS},
+pages={163-174},
+doi={10.1007/978-3-642-14347-2_15},
+note={cited By 14},
+}
+
+@ARTICLE{Kaplan1996,
+author={Kaplan, R.S. and Norton, D.P.},
+title={The balanced scorecard: Translating strategy into action},
+journal={The Balanced Scorecard: Translating Strategy into Action},
+year={1996},
+note={cited By 3372},
+}
+
+@ARTICLE{Kaplan199675,
+author={Kaplan, R.S. and Norton, D.P.},
+title={Using the balanced scorecard as a strategic management system},
+journal={Harvard Business Review},
+year={1996},
+number={1},
+pages={75-85},
+note={cited By 1856},
+}
+
+@ARTICLE{Kaplan2004,
+author={Kaplan, R.S. and Norton, D.P.},
+journal={Strategy Maps: Converting Intangible Assets Into Tangible Outcomes},
+year={2004},
+note={cited By 1050},
+}
+
+@ARTICLE{NoAuthor2010,
+journal={The Strategic Management Maturity Model},
+year={2010},
+note={cited By 1},
+}
+
+@ARTICLE{Martinsons199971,
+author={Martinsons, M. and Davison, R. and Tse, D.},
+title={The balanced scorecard: A foundation for the strategic management of information systems},
+journal={Decision Support Systems},
+year={1999},
+volume={25},
+number={1},
+pages={71-88},
+doi={10.1016/S0167-9236(98)00086-4},
+note={cited By 276},
+}
+
+@CONFERENCE{VanGrembergen2002,
+author={Van Grembergen, W. and Amelinckx, I.},
+title={Measuring and managing e-business projects through the balanced scorecard},
+journal={Proceedings of the Annual Hawaii International Conference on System Sciences},
+year={2002},
+volume={2002-January},
+page_count={9},
+doi={10.1109/HICSS.2002.994395},
+art_number={994395},
+note={cited By 37},
+}
+
+@ARTICLE{Huang2007173,
+author={Huang, C.D. and Hu, Q.},
+title={Achieving IT-business strategic alignment via enterprise-wide implementation of balanced scorecards},
+journal={Information Systems Management},
+year={2007},
+volume={24},
+number={2},
+pages={173-184},
+doi={10.1080/10580530701239314},
+note={cited By 68},
+}
+
+@ARTICLE{Kim20035,
+author={Kim, J. and Suh, E. and Hwang, H.},
+title={A model for evaluating the effectiveness of crm using the balanced scorecard},
+journal={Journal of Interactive Marketing},
+year={2003},
+volume={17},
+number={2},
+pages={5-19},
+doi={10.1002/dir.10051},
+note={cited By 153},
+}
+
+@CONFERENCE{Sureshchandra2008217,
+author={Sureshchandra, K. and Shrinivasavadhani, J.},
+title={Adopting agile in distributed development},
+journal={Proceedings - 2008 3rd IEEE International Conference Global Software Engineering, ICGSE 2008},
+year={2008},
+pages={217-221},
+doi={10.1109/ICGSE.2008.25},
+art_number={4638670},
+note={cited By 44},
+}
+
+@ARTICLE{Eilat2008895,
+author={Eilat, H. and Golany, B. and Shtub, A.},
+title={R&D project evaluation: An integrated DEA and balanced scorecard approach},
+journal={Omega},
+year={2008},
+volume={36},
+number={5},
+pages={895-912},
+doi={10.1016/j.omega.2006.05.002},
+note={cited By 132},
+}
+
+@CONFERENCE{Yu1997226,
+author={Yu, Eric S.K.},
+title={Towards modelling and reasoning support for early-phase requirements engineering},
+journal={Proceedings of the IEEE International Conference on Requirements Engineering},
+year={1997},
+pages={226-235},
+note={cited By 949},
+}
+
+@ARTICLE{Brinkkemper1996275,
+author={Brinkkemper, S.},
+title={Method engineering: Engineering of information systems development methods and tools},
+journal={Information and Software Technology},
+year={1996},
+volume={38},
+number={4 SPEC. ISS.},
+pages={275-280},
+doi={10.1016/0950-5849(95)01059-9},
+note={cited By 502},
+}
+
+@ARTICLE{Poppendieck2003,
+author={Poppendieck, M. and Poppendieck, T.},
+journal={Lean Software Development: An Agile Toolkit},
+year={2003},
+note={cited By 529},
+}
+
+@ARTICLE{Sidky2007203,
+author={Sidky, A. and Arthur, J. and Bohner, S.},
+title={A disciplined approach to adopting agile practices: The agile adoption framework},
+journal={Innovations in Systems and Software Engineering},
+year={2007},
+volume={3},
+number={3},
+pages={203-216},
+doi={10.1007/s11334-007-0026-z},
+note={cited By 57},
+}
+
+@CONFERENCE{Sidky20073,
+author={Sidky, A. and Arthur, J.},
+title={Determining the applicability of agile practices to mission and life-critical systems},
+journal={Proceedings - International Conference on Software Engineering},
+year={2007},
+pages={3-12},
+doi={10.1109/SEW.2007.61},
+art_number={4402759},
+note={cited By 14},
+}
+
+@ARTICLE{Qumer20081899,
+author={Qumer, A. and Henderson-Sellers, B.},
+title={A framework to support the evaluation, adoption and improvement of agile methods in practice},
+journal={Journal of Systems and Software},
+year={2008},
+volume={81},
+number={11},
+pages={1899-1919},
+doi={10.1016/j.jss.2007.12.806},
+note={cited By 76},
+}
+
+@ARTICLE{Krasteva2010266,
+author={Krasteva, I. and Ilieva, S. and Dimov, A.},
+title={Experience-based approach for adoption of agile practices in software development projects},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6051 LNCS},
+pages={266-280},
+doi={10.1007/978-3-642-13094-6_22},
+note={cited By 7},
+}

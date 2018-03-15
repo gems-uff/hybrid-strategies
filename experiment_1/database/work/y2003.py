@@ -340,6 +340,21 @@ kan2003a = DB(WorkUnrelated(
     placex="Addison Wesley Publishing Company",
 ))
 
+kim2003a = DB(WorkUnrelated(
+    2003, "A model for evaluating the effectiveness of crm using the balanced scorecard",
+    display="kim",
+    authors="Kim, J. and Suh, E. and Hwang, H.",
+    place=FAKE,
+    pp="5-19",
+    entrytype="article",
+    volume="17",
+    number="2",
+    doi="10.1002/dir.10051",
+    note="cited By 153",
+    ID="Kim20035",
+    placex="Journal of Interactive Marketing",
+))
+
 lawler2003a = DB(WorkUnrelated(
     2003, "Measurement modeling technology",
     display="lawler",
@@ -482,6 +497,17 @@ poppendieck2003a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 6",
     ID="Poppendieck2003",
+))
+
+poppendieck2003b = DB(WorkUnrelated(
+    2003, "Lean Software Development: An Agile Toolkit",
+    display="poppendieck b",
+    authors="Poppendieck, M. and Poppendieck, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 529",
+    ID="Poppendieck2003",
+    placex="Addison Wesley",
 ))
 
 scholtes2003a = DB(WorkUnrelated(

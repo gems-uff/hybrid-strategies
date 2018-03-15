@@ -254,6 +254,21 @@ gantner2002a = DB(WorkUnrelated(
     placex="Software Quality --- ECSQ 2002",
 ))
 
+grembergen2002a = DB(WorkUnrelated(
+    2002, "Measuring and managing e-business projects through the balanced scorecard",
+    display="grembergen",
+    authors="Van Grembergen, W. and Amelinckx, I.",
+    place=FAKE,
+    entrytype="conference",
+    volume="2002-January",
+    page_count="9",
+    doi="10.1109/HICSS.2002.994395",
+    art_number="994395",
+    note="cited By 37",
+    ID="VanGrembergen2002",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
+))
+
 helokunnas2002a = DB(WorkUnrelated(
     2002, "The Dimensions of Embedded COTS and OSS Software Component Integration",
     display="helokunnas",

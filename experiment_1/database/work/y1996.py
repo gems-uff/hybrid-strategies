@@ -58,6 +58,21 @@ briand1996a = DB(WorkUnrelated(
     ID="Briand1996253",
 ))
 
+brinkkemper1996a = DB(WorkUnrelated(
+    1996, "Method engineering: Engineering of information systems development methods and tools",
+    display="brinkkemper",
+    authors="Brinkkemper, S.",
+    place=IST,
+    pp="275-280",
+    entrytype="article",
+    volume="38",
+    number="4 SPEC. ISS.",
+    doi="10.1016/0950-5849(95)01059-9",
+    note="cited By 502",
+    ID="Brinkkemper1996275",
+    placex="Information and Software Technology",
+))
+
 cugola1996a = DB(WorkUnrelated(
     1996, "A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems",
     display="cugola",
@@ -152,6 +167,19 @@ kaplan1996b = DB(WorkUnrelated(
     volume="74",
     note="cited By 1",
     ID="Kaplan1996",
+    placex="Harvard Business Review",
+))
+
+kaplan1996c = DB(WorkUnrelated(
+    1996, "Using the balanced scorecard as a strategic management system",
+    display="kaplan c",
+    authors="Kaplan, R.S. and Norton, D.P.",
+    place=FAKE,
+    pp="75-85",
+    entrytype="article",
+    number="1",
+    note="cited By 1856",
+    ID="Kaplan199675",
     placex="Harvard Business Review",
 ))
 

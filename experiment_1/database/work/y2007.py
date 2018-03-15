@@ -177,6 +177,21 @@ habra2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+huang2007a = DB(WorkUnrelated(
+    2007, "Achieving IT-business strategic alignment via enterprise-wide implementation of balanced scorecards",
+    display="huang",
+    authors="Huang, C.D. and Hu, Q.",
+    place=FAKE,
+    pp="173-184",
+    entrytype="article",
+    volume="24",
+    number="2",
+    doi="10.1080/10580530701239314",
+    note="cited By 68",
+    ID="Huang2007173",
+    placex="Information Systems Management",
+))
+
 isoiec2007a = DB(WorkUnrelated(
     2007, "Software engineeringsoftware measurement process",
     display="isoiec",
@@ -373,6 +388,35 @@ qi2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Qi2007",
     placex="Performance results from process improvement, DACS Journal",
+))
+
+sidky2007a = DB(WorkUnrelated(
+    2007, "A disciplined approach to adopting agile practices: The agile adoption framework",
+    display="sidky",
+    authors="Sidky, A. and Arthur, J. and Bohner, S.",
+    place=FAKE,
+    pp="203-216",
+    entrytype="article",
+    volume="3",
+    number="3",
+    doi="10.1007/s11334-007-0026-z",
+    note="cited By 57",
+    ID="Sidky2007203",
+    placex="Innovations in Systems and Software Engineering",
+))
+
+sidky2007b = DB(WorkUnrelated(
+    2007, "Determining the applicability of agile practices to mission and life-critical systems",
+    display="sidky b",
+    authors="Sidky, A. and Arthur, J.",
+    place=ICSE,
+    pp="3-12",
+    entrytype="conference",
+    doi="10.1109/SEW.2007.61",
+    art_number="4402759",
+    note="cited By 14",
+    ID="Sidky20073",
+    placex="Proceedings - International Conference on Software Engineering",
 ))
 
 sitnikova2007a = DB(WorkUnrelated(

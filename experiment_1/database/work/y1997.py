@@ -252,3 +252,15 @@ sutton1997a = DB(WorkUnrelated(
     ID="Sutton1997",
     placex="ESEC/FSE'97 Springer-Verlag",
 ))
+
+yu1997a = DB(WorkUnrelated(
+    1997, "Towards modelling and reasoning support for early-phase requirements engineering",
+    display="yu",
+    authors="Yu, Eric S.K.",
+    place=ICSE,
+    pp="226-235",
+    entrytype="conference",
+    note="cited By 949",
+    ID="Yu1997226",
+    placex="Proceedings of the IEEE International Conference on Requirements Engineering",
+))
