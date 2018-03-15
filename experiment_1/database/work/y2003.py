@@ -22,6 +22,35 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+boehm2003a = DB(WorkUnrelated(
+    2003, "Value-based software engineering: A case study",
+    display="boehm",
+    authors="Boehm, B. and Huang, L.G.",
+    place=C,
+    pp="33-41+4",
+    entrytype="article",
+    volume="36",
+    number="3",
+    doi="10.1109/MC.2003.1185215",
+    note="cited By 97",
+    ID="Boehm200333",
+    placex="Computer",
+))
+
+boehm2003b = DB(WorkUnrelated(
+    2003, "Value-based software engineering",
+    display="boehm b",
+    authors="Boehm, B.",
+    place=FAKE,
+    pp="1-12",
+    entrytype="article",
+    volume="28",
+    number="2",
+    note="cited By 204",
+    ID="Boehm20031",
+    placex="ACM Software Engineering Notes",
+))
+
 brydon2003a = DB(WorkUnrelated(
     2003, "Why action research?",
     display="brydon",

@@ -14,6 +14,20 @@ birk1998a = DB(WorkUnrelated(
     placex="Proceedings of the European Conference on Software Process Improvement (SPI98)",
 ))
 
+brandon1998a = DB(WorkUnrelated(
+    1998, "Implementing earned value easily and effectively",
+    display="brandon",
+    authors="Brandon, D.M.",
+    place=FAKE,
+    pp="11-18",
+    entrytype="article",
+    volume="29",
+    number="2",
+    note="cited By 23",
+    ID="Brandon199811",
+    placex="Project Management Journal",
+))
+
 ebert1998a = DB(WorkUnrelated(
     1998, "Putting requirement management into praxis: dealing with nonfunctional requirements",
     display="ebert",

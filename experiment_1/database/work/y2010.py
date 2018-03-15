@@ -45,6 +45,7 @@ basili2010a = DB(WorkSnowball(
     cluster_id="8027935919137885990",
     publisher="IEEE",
     scholar_ok=True,
+    placex="Computer",
 ))
 
 buehrer2010a = DB(WorkUnrelated(

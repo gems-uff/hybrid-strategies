@@ -37,6 +37,19 @@ bandinelli1993a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 19, No. 12, Pp. 1,128-1,144",
 ))
 
+basili1993a = DB(WorkUnrelated(
+    1993, "The experience factory and its relationship to other improvement paradigms",
+    display="basili",
+    authors="Basili, V.R.",
+    place=FAKE,
+    pp="68-83",
+    entrytype="article",
+    volume="717 LNCS",
+    note="cited By 43",
+    ID="Basili199368",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 cederling1993a = DB(WorkUnrelated(
     1993, "Industrial software development --- a case study",
     display="cederling",

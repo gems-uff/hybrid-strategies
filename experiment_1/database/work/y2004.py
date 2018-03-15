@@ -120,6 +120,21 @@ davis2004a = DB(WorkUnrelated(
     placex="Software Process Improvement",
 ))
 
+erdogmus2004a = DB(WorkUnrelated(
+    2004, "Guest editors' introduction: Return on investment",
+    display="erdogmus",
+    authors="Erdogmus, H. and Favaro, J. and Strigel, W.",
+    place=IEEES,
+    pp="18-22",
+    entrytype="article",
+    volume="21",
+    number="3",
+    doi="10.1109/MS.2004.1293068",
+    note="cited By 28",
+    ID="Erdogmus200418",
+    placex="IEEE Software",
+))
+
 fernandes2004a = DB(WorkUnrelated(
     2004, "Using RUP for Process-Oriented Organisations",
     display="fernandes",
