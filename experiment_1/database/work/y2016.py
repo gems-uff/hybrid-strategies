@@ -3,6 +3,36 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aoki2016a = DB(WorkUnrelated(
+    2016, "Identifying misalignment of goal and strategies across organizational units by interpretive structural modeling",
+    display="aoki",
+    authors="Aoki, Yohei and Kobori, Takanobu and Washizaki, Hironori and Fukazawa, Yoshiaki",
+    place=FAKE,
+    pp="4576--4585",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="aoki2016identifying",
+    cluster_id="16572664645223845209",
+    scholar="http://scholar.google.com/scholar?cites=16572664645223845209&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Sciences (HICSS), 2016 49th Hawaii International Conference on",
+))
+
+kobori2016a = DB(WorkUnrelated(
+    2016, "Exhaustive and efficient identification of rationales using GQM+ Strategies with stakeholder relationship analysis",
+    display="kobori",
+    authors="Kobori, Takanobu and Washizaki, Hironori and Fukazawa, Yoshiaki and Hirabayashi, Daisuke and Shintani, Katsutoshi and Okazaki, Yasuko and Kikushima, Yasuhiro",
+    place=FAKE,
+    pp="2219--2228",
+    entrytype="article",
+    volume="99",
+    number="9",
+    publisher="The Institute of Electronics, Information and Communication Engineers",
+    ID="kobori2016exhaustive",
+    cluster_id="22453609460131864",
+    scholar="http://scholar.google.com/scholar?cites=22453609460131864&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEICE TRANSACTIONS on Information and Systems",
+))
+
 lópez2016a = DB(WorkUnrelated(
     2016, "Application of GQM+ Strategies in a Multi-industry State-Owned Company",
     display="lópez",

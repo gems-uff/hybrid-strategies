@@ -15,6 +15,18 @@ ali2012a = DB(WorkUnrelated(
     ID="Ali2012211",
 ))
 
+asghari2012a = DB(WorkUnrelated(
+    2012, "Evaluating GQM+ Strategies Framework for Planning Measurement System",
+    display="asghari",
+    authors="Asghari, Negin",
+    place=FAKE,
+    entrytype="misc",
+    ID="asghari2012evaluating",
+    cluster_id="11420221590920128501",
+    scholar="http://scholar.google.com/scholar?cites=11420221590920128501&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 aversano2012a = DB(WorkUnrelated(
     2012, "A Literature Review of Business/IT Alignment Strategies",
     display="aversano",
@@ -237,6 +249,20 @@ heidrich2012a = DB(WorkUnrelated(
     ID="20122515123766",
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+heidrich2012b = DB(WorkUnrelated(
+    2012, "Tutorial: business IT alignment using the GQM+ Strategies{	extregistered} approach",
+    display="heidrich b",
+    authors="Heidrich, Jens and Kowalczyk, Martin",
+    place=ICPFSPI,
+    pp="370--373",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="heidrich2012tutorial",
+    cluster_id="17367274084717427031",
+    scholar="http://scholar.google.com/scholar?cites=17367274084717427031&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
 ))
 
 jaanus2012a = DB(WorkUnrelated(

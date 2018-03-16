@@ -514,6 +514,17 @@ rinkevics2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+teixeira2013a = DB(WorkUnrelated(
+    2013, "Towards a Semantic Alignment of the ArchiMate Motivation Extension and the Goal-Question-Metric Approach",
+    display="teixeira",
+    authors="Teixeira, Silva and Guizzardi, Renata and Guizzardi, Giancarlo",
+    place=FAKE,
+    pp="59",
+    entrytype="inproceedings",
+    ID="teixeira2013towards",
+    placex="VI Seminar on Ontology Research in Brazil",
+))
+
 ullah2013a = DB(WorkUnrelated(
     2013, "A Systematic Review of Business and Information Technology Alignment",
     display="ullah",

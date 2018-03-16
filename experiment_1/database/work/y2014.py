@@ -256,6 +256,20 @@ hustad2014a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+kobori2014a = DB(WorkUnrelated(
+    2014, "Identifying rationales of strategies by stakeholder relationship analysis to refine and maintain GQM+ Strategies models",
+    display="kobori",
+    authors="Kobori, Takanobu and Washizaki, Hironori and Fukazawa, Yoshiaki and Hirabayashi, Daisuke and Shintani, Katsutoshi and Okazaki, Yasuko and Kikushima, Yasuhiro",
+    place=ICPFSPI,
+    pp="78--92",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kobori2014identifying",
+    cluster_id="8051179515907417104",
+    scholar="http://scholar.google.com/scholar?cites=8051179515907417104&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
 kudryashova2014a = DB(WorkUnrelated(
     2014, "The Market of Internet Sponsored Links in the Context of Competition Law: Can Modeling Help?",
     display="kudryashova",
@@ -451,6 +465,33 @@ ramnani2014a = DB(WorkUnrelated(
     ID="Ramnani:2014:MIE:2668056.2668059",
     acm="1",
     placex="Proceedings of the 2014 Workshop on Emotion Representation and Modelling in Human-Computer-Interaction-Systems",
+))
+
+razón2014a = DB(WorkUnrelated(
+    2014, "Como guiar a las Pymes en la mejora de procesos software",
+    display="razón",
+    authors="Razón, Oscar Carrillo and Durán, Josefina García and González, Julio Alonso García and Cortés, Felipe Iturriaga and Miranda, Jezreel Mejía",
+    place=FAKE,
+    pp="17--30",
+    entrytype="article",
+    number="SPE1",
+    publisher="Associa{ç}ão Ibérica de Sistemas e Tecnologias de Informa{ç}ão (AISTI)",
+    ID="razon2014guiar",
+    cluster_id="5972891125637568036",
+    scholar="http://scholar.google.com/scholar?cites=5972891125637568036&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="RISTI-Revista Ibérica de Sistemas e Tecnologias de Informa{ç}ão",
+))
+
+razón2014b = DB(WorkUnrelated(
+    2014, "How to Lead the Software Process Improvement in SMEs",
+    display="razón b",
+    authors="Razón, Oscar Carrillo and Durán, Josefina García and González, Julio Alonso García and Cortés, Felipe Iturriaga and Miranda, Jezreel Mejía",
+    place=FAKE,
+    pp="17--30",
+    entrytype="article",
+    publisher="AISTI-Associa{ç}ão Ibérica de Sistemas e Tecnologias de Informa{ç}ão",
+    ID="razon2014lead",
+    placex="RISTI-Revista Ibérica de Sistemas e Tecnologias de Informa{ç}ão",
 ))
 
 renals2014a = DB(WorkUnrelated(

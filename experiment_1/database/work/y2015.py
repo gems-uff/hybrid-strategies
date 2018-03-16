@@ -586,6 +586,20 @@ thompson2015a = DB(WorkUnrelated(
     placex="Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems",
 ))
 
+trinkenreich2015a = DB(WorkUnrelated(
+    2015, "SINIS: A Method to Select Indicators for IT Services",
+    display="trinkenreich",
+    authors="Trinkenreich, Bianca and Santos, Gleison and Barcellos, Monalessa Perini",
+    place=ICPFSPI,
+    pp="68--86",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="trinkenreich2015sinis",
+    cluster_id="13799250266303939753",
+    scholar="http://scholar.google.com/scholar?cites=13799250266303939753&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
 tüzün2015a = DB(WorkUnrelated(
     2015, "Empirical evaluation of a decision support model for adopting software product line engineering",
     display="tüzün",

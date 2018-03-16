@@ -39,6 +39,16 @@ mughal2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+tomaz2017 = DB(WorkUnrelated(
+    2017, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
+    display="tomaz",
+    authors="Tomaz, Daisy Ferreira Brito",
+    place=FAKE,
+    entrytype="article",
+    ID="tomazlinguagem",
+    placex="",
+))
+
 trinkenreich2017a = DB(WorkUnrelated(
     2017, "A Method To Select Goals, Indicators and Strategies for IT Services",
     display="trinkenreich",
@@ -51,6 +61,7 @@ trinkenreich2017a = DB(WorkUnrelated(
     cluster_id="9788662361037217502",
     scholar="http://scholar.google.com/scholar?cites=9788662361037217502&as_sdt=2005&sciodt=0,5&hl=en",
     placex="RelaTe-DIA",
+    excerpt="Background: Measurement is a key process to support organizations in management and improvement of processes, products and services. Indicators are measures used to monitor whether a goal is reached, increasing feedback and objectivity on judgment and helping ",
 ))
 
 trinkenreich2017b = DB(WorkUnrelated(
@@ -63,4 +74,16 @@ trinkenreich2017b = DB(WorkUnrelated(
     organization="IEEE",
     ID="trinkenreich2017eliciting",
     placex="2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+))
+
+watanabe2017a = DB(WorkUnrelated(
+    2017, "ID3P: Iterative Data-Driven Development of Persona based on quantitative evaluation and revision",
+    display="watanabe",
+    authors="Watanabe, Yasuhiro and Washizaki, Hironori and Honda, Kiyoshi and Noyori, Yuki and Fukazawa, Yoshiaki and Morizuki, Aoi and Shibata, Hiroyuki and Ogawa, Kentaro and Ishigaki, Mikako and Shiizaki, Satiyo and others",
+    place=FAKE,
+    pp="49--55",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="watanabe2017id3p",
+    placex="Proceedings of the 10th International Workshop on Cooperative and Human Aspects of Software Engineering",
 ))
