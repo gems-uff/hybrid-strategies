@@ -331,6 +331,20 @@ kowalczyk2015a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+liberato2015a = DB(WorkUnrelated(
+    2015, "CMMI Implementation and Results: The Case of",
+    display="liberato",
+    authors="Liberato, Marco and Varajão, João and Martins, Paulo",
+    place=FAKE,
+    pp="48",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="liberato2015cmmi",
+    cluster_id="6442548626406510700",
+    scholar="http://scholar.google.com/scholar?cites=6442548626406510700&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Modern Techniques for Successful IT Project Management",
+))
+
 liu2015a = DB(WorkUnrelated(
     2015, "Achieving High Throughput and Low Delay in Mobile Data Networks by Accurately Predicting Queue Lengths",
     display="liu",

@@ -69,6 +69,18 @@ bjørnson2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+borgert2009a = DB(WorkUnrelated(
+    2009, "A Comparative Study of Complexity Measures to Analyze Business Process Models",
+    display="borgert",
+    authors="Borgert, Stephan and Dehmer, Matthias and Aitenbichler, Erwin",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="borgert2009comparative",
+    cluster_id="15899165971277324033",
+    scholar="http://scholar.google.com/scholar?cites=15899165971277324033&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the International Symposium on Understanding Intelligent and Complex Systems, UICS 2009",
+))
+
 chastek2009a = DB(WorkUnrelated(
     2009, "Formulation of a production strategy for a software product line",
     display="chastek",

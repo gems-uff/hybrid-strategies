@@ -97,6 +97,20 @@ bensiek2012a = DB(WorkUnrelated(
     placex="Product Lifecycle Management. Towards Knowledge-Rich Enterprises",
 ))
 
+bruyn2012a = DB(WorkUnrelated(
+    2012, "On the generalization of normalized systems concepts to the analysis and design of modules in systems and enterprise engineering",
+    display="bruyn",
+    authors="De Bruyn, Peter and Mannaert, Herwig",
+    place=FAKE,
+    entrytype="article",
+    volume="5",
+    number="3",
+    ID="de2012generalization",
+    cluster_id="10457944057434235115",
+    scholar="http://scholar.google.com/scholar?cites=10457944057434235115&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International journal on advances in systems and measurements",
+))
+
 chouseinoglou2012a = DB(WorkUnrelated(
     2012, "A Model for Assessing Organizational Learning in Software Development Organizations",
     display="chouseinoglou",
@@ -143,6 +157,21 @@ clarke2012b = DB(WorkUnrelated(
     note="cited By 89",
     ID="Clarke2012433",
     placex="Information and Software Technology",
+))
+
+colomo2012a = DB(WorkUnrelated(
+    2012, "A study of the impact of global software development in packaged software release planning",
+    display="colomo",
+    authors="Colomo-Palacios, Ricardo and Soto-Acosta, Pedro and García-Peñalvo, Francisco J and García-Crespo, Ángel",
+    place=JCS,
+    pp="2646--2668",
+    entrytype="article",
+    volume="18",
+    number="19",
+    ID="colomo2012study",
+    cluster_id="7841931770111145184",
+    scholar="http://scholar.google.com/scholar?cites=7841931770111145184&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Universal Computer Science",
 ))
 
 delgado2012a = DB(WorkUnrelated(
@@ -234,6 +263,29 @@ draghici2012a = DB(WorkUnrelated(
     ID="Draghici2012527",
     sciencedirect="1",
     placex="Procedia Technology",
+))
+
+haigh2012a = DB(WorkUnrelated(
+    2012, "Requirements engineering for business stakeholders: applying quality views framework to software",
+    display="haigh",
+    authors="Haigh, M",
+    place=FAKE,
+    entrytype="article",
+    publisher="???????????",
+    ID="haigh2012requirements",
+    placex="",
+))
+
+haigh2012b = DB(WorkUnrelated(
+    2012, "Nao foi possivel identificar o texto",
+    display="haigh b",
+    authors="Haigh, Maria",
+    place=FAKE,
+    pp="31--38",
+    entrytype="article",
+    number="1",
+    ID="haigh2012",
+    placex="?",
 ))
 
 heidrich2012a = DB(WorkUnrelated(

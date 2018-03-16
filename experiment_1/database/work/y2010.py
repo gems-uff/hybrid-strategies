@@ -326,6 +326,22 @@ guzmán2010a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+haigh2010a = DB(WorkUnrelated(
+    2010, "Software quality, non-functional software requirements and IT-business alignment",
+    display="haigh",
+    authors="Haigh, Maria",
+    place=SQJ,
+    pp="361--385",
+    entrytype="article",
+    volume="18",
+    number="3",
+    publisher="Springer",
+    ID="haigh2010software",
+    cluster_id="12894759810750422661",
+    scholar="http://scholar.google.com/scholar?cites=12894759810750422661&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Journal",
+))
+
 hauge2010a = DB(WorkUnrelated(
     2010, "Adoption of open source software in software-intensive organizations  A systematic literature review",
     display="hauge",
@@ -358,6 +374,19 @@ hauge2010b = DB(WorkUnrelated(
     ID="10.1007/978-3-642-13244-5_9",
     springer="1",
     placex="Open Source Software: New Horizons",
+))
+
+hinz2010a = DB(WorkUnrelated(
+    2010, "Exploring the localization requirements for Kashubian Linux: Opening new markets for open-source development projects",
+    display="hinz",
+    authors="Hinz, Yurek K",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hinz2010exploring",
+    cluster_id="10207225523023467263",
+    scholar="http://scholar.google.com/scholar?cites=10207225523023467263&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Northcentral University",
+    placex="",
 ))
 
 immorlica2010a = DB(WorkUnrelated(
@@ -653,6 +682,22 @@ nikula2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+oliveira2010a = DB(WorkUnrelated(
+    2010, "A comparative analysis of CMMI software project management by Brazilian, Indian and Chinese companies",
+    display="oliveira",
+    authors="de Oliveira, Saulo Barbará and Valle, Rogerio and Mahler, Cláudio Fernando",
+    place=SQJ,
+    pp="177--194",
+    entrytype="article",
+    volume="18",
+    number="2",
+    publisher="Springer",
+    ID="de2010comparative",
+    cluster_id="6043457506987012415",
+    scholar="http://scholar.google.com/scholar?cites=6043457506987012415&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Journal",
+))
+
 petersen2010a = DB(WorkUnrelated(
     2010, "The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study",
     display="petersen",
@@ -794,6 +839,22 @@ tisselli2010a = DB(WorkUnrelated(
     ID="Tisselli:2010:TCS:1787234.1787270",
     acm="1",
     placex="Commun. ACM",
+))
+
+vanut2010a = DB(WorkUnrelated(
+    2010, "A tool for IT process construction",
+    display="vanut",
+    authors="{}vanut, Bo{}tjan and Bajec, Marko",
+    place=IST,
+    pp="397--410",
+    entrytype="article",
+    volume="52",
+    number="4",
+    publisher="Elsevier",
+    ID="vzvanut2010tool",
+    cluster_id="9532085647863335493",
+    scholar="http://scholar.google.com/scholar?cites=9532085647863335493&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
 ))
 
 wangenheim2010a = DB(WorkUnrelated(

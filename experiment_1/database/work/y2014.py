@@ -90,6 +90,20 @@ brannen2014a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Conference on Collaboration Across Boundaries: Culture, Distance &#38; Technology",
 ))
 
+bruyn2014a = DB(WorkUnrelated(
+    2014, "Using Entropy's Justificatory Knowledge for a Business Process Design Theory",
+    display="bruyn",
+    authors="De Bruyn, Peter and Huysmans, Philip and Oorts, Gilles and Mannaert, Herwig and Verelst, Jan",
+    place=FAKE,
+    pp="3717--3726",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="de2014using",
+    cluster_id="11841178597252930564",
+    scholar="http://scholar.google.com/scholar?cites=11841178597252930564&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
+))
+
 carlson2014a = DB(WorkUnrelated(
     2014, "The NASA automated requirements measurement tool: a reconstruction",
     display="carlson",
@@ -254,6 +268,20 @@ hustad2014a = DB(WorkUnrelated(
     ID="Hustad2014684",
     sciencedirect="1",
     placex="Procedia Technology",
+))
+
+huysmans2014a = DB(WorkUnrelated(
+    2014, "Activity-based costing as a design science artifact",
+    display="huysmans",
+    authors="Huysmans, Philip and De Bruyn, Peter",
+    place=FAKE,
+    pp="3667--3676",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="huysmans2014activity",
+    cluster_id="2646845842852726535",
+    scholar="http://scholar.google.com/scholar?cites=2646845842852726535&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
 ))
 
 kobori2014a = DB(WorkUnrelated(
@@ -557,6 +585,22 @@ sulayman2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+suominen2014a = DB(WorkUnrelated(
+    2014, "On the applicability of capability models for small software organizations: does the use of standard processes lead to a better achievement of business goals?",
+    display="suominen",
+    authors="Suominen, Mika and Mäkinen, Timo",
+    place=SQJ,
+    pp="579--591",
+    entrytype="article",
+    volume="22",
+    number="4",
+    publisher="Springer",
+    ID="suominen2014applicability",
+    cluster_id="8687673026515709180",
+    scholar="http://scholar.google.com/scholar?cites=8687673026515709180&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Journal",
+))
+
 tessem2014a = DB(WorkUnrelated(
     2014, "Individual empowerment of agile and non-agile software developers in small teams",
     display="tessem",
@@ -644,6 +688,22 @@ youn2014a = DB(WorkUnrelated(
     ID="Youn:2014:PBL:2593069.2593190",
     acm="1",
     placex="Proceedings of the 51st Annual Design Automation Conference",
+))
+
+zawedde2014a = DB(WorkUnrelated(
+    2014, "Dynamics of software systems projects during the requirements process improvement",
+    display="zawedde",
+    authors="Zawedde, Aminah and Williams, Ddembe",
+    place=FAKE,
+    pp="206--221",
+    entrytype="article",
+    volume="9",
+    number="4",
+    publisher="Inderscience Publishers",
+    ID="zawedde2014dynamics",
+    cluster_id="10044690212846149882",
+    scholar="http://scholar.google.com/scholar?cites=10044690212846149882&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Simulation and Process Modelling",
 ))
 
 zeleti2014a = DB(WorkUnrelated(

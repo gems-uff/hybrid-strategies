@@ -396,6 +396,22 @@ khraiwesh2013a = DB(WorkUnrelated(
     placex="International Journal of Computer Science & Information Technology",
 ))
 
+lee2013a = DB(WorkUnrelated(
+    2013, "Knowledge mapping: encouragements and impediments to adoption",
+    display="lee",
+    authors="Lee, Joseph and Fink, Dieter",
+    place=FAKE,
+    pp="16--28",
+    entrytype="article",
+    volume="17",
+    number="1",
+    publisher="Emerald Group Publishing Limited",
+    ID="lee2013knowledge",
+    cluster_id="17672865162220908822",
+    scholar="http://scholar.google.com/scholar?cites=17672865162220908822&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Knowledge Management",
+))
+
 maglyas2013a = DB(WorkUnrelated(
     2013, "What are the roles of software product managers? An empirical investigation",
     display="maglyas",

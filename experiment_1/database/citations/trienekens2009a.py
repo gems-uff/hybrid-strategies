@@ -16,7 +16,28 @@ from ..work.y2006 import sei2006a
 from ..work.y2006 import wangeheim2006a
 from ..work.y2007 import habra2007a
 from ..work.y2009 import trienekens2009a
+from ..work.y2009 import borgert2009a
+from ..work.y2010 import haigh2010a
+from ..work.y2010 import oliveira2010a
+from ..work.y2010 import vanut2010a
+from ..work.y2010 import hinz2010a
 from ..work.y2011 import humphrey2011a
+from ..work.y2011 import colomo2011a
+from ..work.y2011 import samalikova2011a
+from ..work.y2011 import lee2011a
+from ..work.y2012 import colomo2012a
+from ..work.y2012 import bruyn2012a
+from ..work.y2012 import haigh2012a
+from ..work.y2012 import haigh2012b
+from ..work.y2013 import lee2013a
+from ..work.y2014 import bruyn2014a
+from ..work.y2014 import suominen2014a
+from ..work.y2014 import huysmans2014a
+from ..work.y2014 import zawedde2014a
+from ..work.y2015 import liberato2015a
+from ..work.y2016 import dijkman2016a
+from ..work.y2016 import zawedde2016a
+from ..work.y2016 import liberato2016a
 
 DB(Citation(
     trienekens2009a, balla2001a, ref="",
@@ -104,6 +125,153 @@ DB(Citation(
 
 DB(Citation(
     trienekens2009a, wangeheim2006a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    colomo2011a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haigh2010a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lee2013a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    colomo2012a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oliveira2010a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    samalikova2011a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dijkman2016a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vanut2010a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    liberato2015a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bruyn2012a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bruyn2014a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    suominen2014a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    huysmans2014a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zawedde2014a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zawedde2016a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hinz2010a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    borgert2009a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haigh2012a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    liberato2016a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lee2011a, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haigh2012b, trienekens2009a, ref="",
     contexts=[
 
     ],

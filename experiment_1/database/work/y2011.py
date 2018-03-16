@@ -150,6 +150,22 @@ cantor2011a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
+colomo2011a = DB(WorkUnrelated(
+    2011, "Software product evolution for intellectual capital management: The case of Meta4 PeopleNet",
+    display="colomo",
+    authors="Colomo-Palacios, Ricardo and Fernandes, Eduardo and Soto-Acosta, Pedro and Sabbagh, Marc",
+    place=FAKE,
+    pp="395--399",
+    entrytype="article",
+    volume="31",
+    number="4",
+    publisher="Elsevier",
+    ID="colomo2011software",
+    cluster_id="8700706401000932323",
+    scholar="http://scholar.google.com/scholar?cites=8700706401000932323&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Information Management",
+))
+
 dawson2011a = DB(WorkUnrelated(
     2011, "Uncovering and Testing Archetypes of Effective Public Sector CIOs",
     display="dawson",
@@ -485,6 +501,16 @@ lane2011a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+lee2011a = DB(WorkUnrelated(
+    2011, "Determinants of knowledge mapping adoption in software maintenance",
+    display="lee",
+    authors="Lee, Joseph K",
+    place=FAKE,
+    entrytype="article",
+    ID="lee2011determinants",
+    placex="",
+))
+
 mujtaba2011a = DB(WorkUnrelated(
     2011, "Analyzing strategy and processes for product customization in large-scale industrial settings",
     display="mujtaba",
@@ -595,6 +621,22 @@ saetang2011a = DB(WorkUnrelated(
     ID="Saetang:2011:CAG:1982143.1982164",
     acm="1",
     placex="Proceedings of the 49th SIGMIS Annual Conference on Computer Personnel Research",
+))
+
+samalikova2011a = DB(WorkUnrelated(
+    2011, "Toward objective software process information: experiences from a case study",
+    display="samalikova",
+    authors="Samalikova, Jana and Kusters, Rob and Trienekens, Jos and Weijters, Ton and Siemons, Paul",
+    place=SQJ,
+    pp="101--120",
+    entrytype="article",
+    volume="19",
+    number="1",
+    publisher="Springer",
+    ID="samalikova2011toward",
+    cluster_id="17386829972115920160",
+    scholar="http://scholar.google.com/scholar?cites=17386829972115920160&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Journal",
 ))
 
 stallinger2011a = DB(WorkUnrelated(

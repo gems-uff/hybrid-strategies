@@ -28,6 +28,22 @@ cervantes2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+dijkman2016a = DB(WorkUnrelated(
+    2016, "Properties that influence business process management maturity and its effect on organizational performance",
+    display="dijkman",
+    authors="Dijkman, Remco and Lammers, Sander Vincent and de Jong, Ad",
+    place=FAKE,
+    pp="717--734",
+    entrytype="article",
+    volume="18",
+    number="4",
+    publisher="Springer",
+    ID="dijkman2016properties",
+    cluster_id="10927860086053260114",
+    scholar="http://scholar.google.com/scholar?cites=10927860086053260114&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems Frontiers",
+))
+
 kobori2016a = DB(WorkUnrelated(
     2016, "Exhaustive and efficient identification of rationales using GQM+ Strategies with stakeholder relationship analysis",
     display="kobori",
@@ -42,6 +58,20 @@ kobori2016a = DB(WorkUnrelated(
     cluster_id="22453609460131864",
     scholar="http://scholar.google.com/scholar?cites=22453609460131864&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEICE TRANSACTIONS on Information and Systems",
+))
+
+liberato2016a = DB(WorkUnrelated(
+    2016, "In Pursuit of Continuous Improvement: The Case of a Software Company",
+    display="liberato",
+    authors="Liberato, Marco",
+    place=FAKE,
+    pp="34--56",
+    entrytype="article",
+    volume="5",
+    number="1",
+    publisher="IGI Global",
+    ID="liberato2016pursuit",
+    placex="International Journal of Social and Organizational Dynamics in IT (IJSODIT)",
 ))
 
 lópez2016a = DB(WorkUnrelated(
@@ -111,4 +141,17 @@ tahir2016a = DB(WorkUnrelated(
     cluster_id="11585244638554325848",
     scholar="http://scholar.google.com/scholar?cites=11585244638554325848&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+))
+
+zawedde2016a = DB(WorkUnrelated(
+    2016, "Modeling the dynamics of requirements process improvement",
+    display="zawedde",
+    authors="Zawedde, A",
+    place=Book,
+    entrytype="book",
+    publisher="Technische Universiteit Eindhoven",
+    ID="zawedde2016modeling",
+    cluster_id="17416072732842740779",
+    scholar="http://scholar.google.com/scholar?cites=17416072732842740779&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
