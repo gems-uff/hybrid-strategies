@@ -245,6 +245,19 @@ kettunen2009a = DB(WorkUnrelated(
     placex="Technovation",
 ))
 
+laporte2009a = DB(WorkUnrelated(
+    2009, "Contributions to Software Engineering and to the Development and Deployment of International Software Engineering Standards for Very Small Entities",
+    display="laporte",
+    authors="Laporte, Claude",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="laporte2009contributions",
+    cluster_id="10325611805083199554",
+    scholar="http://scholar.google.com/scholar?cites=10325611805083199554&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Université de Bretagne occidentale-Brest",
+    placex="",
+))
+
 loikkanen2009a = DB(WorkUnrelated(
     2009, "The role of the technology barometer in assessing the performance of the national innovation system",
     display="loikkanen",
@@ -281,6 +294,22 @@ marew2009a = DB(WorkUnrelated(
     ID="Marew20091642",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+napier2009a = DB(WorkUnrelated(
+    2009, "Combining perceptions and prescriptions in requirements engineering process assessment: an industrial case study",
+    display="napier",
+    authors="Napier, Nannette P and Mathiassen, Lars and Johnson, Roy D",
+    place=ToSE,
+    pp="593--606",
+    entrytype="article",
+    volume="35",
+    number="5",
+    publisher="IEEE",
+    ID="napier2009combining",
+    cluster_id="10809630425482335560",
+    scholar="http://scholar.google.com/scholar?cites=10809630425482335560&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Software Engineering",
 ))
 
 oliveira2009a = DB(WorkUnrelated(
@@ -440,6 +469,18 @@ staron2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+taylor2009a = DB(WorkUnrelated(
+    2009, "Using Visual Risk Assessment to Uncover Subtle Team Performance Issues",
+    display="taylor",
+    authors="Taylor, Philip S and Coleman, Gerry and McDaid, Kevin and Keenan, Frank and Bustard, Dave",
+    place=FAKE,
+    pp="15--23",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="taylor2009using",
+    placex="Information Systems Development",
+))
+
 trendowicz2009a = DB(WorkUnrelated(
     2009, "Chapter 6 Factors Influencing Software Development ProductivityState?of?the?Art and Industrial Experiences",
     display="trendowicz",
@@ -530,4 +571,28 @@ widya2009a = DB(WorkUnrelated(
     ID="Widya:2009:EPR:1529282.1529368",
     acm="1",
     placex="Proceedings of the 2009 ACM Symposium on Applied Computing",
+))
+
+zarour2009a = DB(WorkUnrelated(
+    2009, "Methods to evaluate lightweight software process assessment methods based on evaluation theory and engineering design principles",
+    display="zarour",
+    authors="Zarour, Mohammad",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="zarour2009methods",
+    cluster_id="17924879354094902514",
+    scholar="http://scholar.google.com/scholar?cites=17924879354094902514&as_sdt=2005&sciodt=0,5&hl=en",
+    local="École de technologie supérieure",
+    placex="",
+))
+
+zarour2009b = DB(WorkUnrelated(
+    2009, "THE DEGREE OF DOCTOR OF PHILOSOPHY PH. D.",
+    display="zarour b",
+    authors="ZAROUR, Mohammad",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="zarour2009degree",
+    local="ÉCOLE DE TECHNOLOGIE SUPÉRIEURE",
+    placex="",
 ))

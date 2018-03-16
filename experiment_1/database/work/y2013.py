@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+al2013a = DB(WorkUnrelated(
+    2013, "Harmonizing CMMI-DEV 1.2 and XP Method to Improve The Software Development Processes in Small Software Development Firms",
+    display="al",
+    authors="Al-Tarawneh, Mejhem Yousef",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="al2013harmonizing",
+    cluster_id="16447224393397522528",
+    scholar="http://scholar.google.com/scholar?cites=16447224393397522528&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Universiti Utara Malaysia",
+    placex="",
+))
+
 arcilla2013a = DB(WorkUnrelated(
     2013, "Building an \IT\ service catalog in a small company as the main input for the \IT\ financial management",
     display="arcilla",

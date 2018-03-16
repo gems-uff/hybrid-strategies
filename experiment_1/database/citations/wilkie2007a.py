@@ -24,6 +24,16 @@ from ..work.y2006 import iso2006a
 from ..work.y2006 import ISOIEC2006a
 from ..work.y2007 import wilkie2007a
 from ..work.y2007 import team2007a
+from ..work.y2007 import lester2007a
+from ..work.y2009 import napier2009a
+from ..work.y2009 import laporte2009a
+from ..work.y2009 import zarour2009a
+from ..work.y2009 import zarour2009b
+from ..work.y2009 import taylor2009a
+from ..work.y2010 import lester2010a
+from ..work.y2011 import zarour2011a
+from ..work.y2013 import al2013a
+from ..work.y2016 import sánchez2016a
 
 DB(Citation(
     wilkie2007a, anacleto2004a, ref="",
@@ -160,6 +170,76 @@ DB(Citation(
 
 DB(Citation(
     wilkie2007a, wilkie2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    napier2009a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lester2010a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    laporte2009a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zarour2009a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sánchez2016a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lester2007a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    al2013a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zarour2011a, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zarour2009b, wilkie2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    taylor2009a, wilkie2007a, ref="",
     contexts=[
 
     ],

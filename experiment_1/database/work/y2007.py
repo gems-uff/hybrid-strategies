@@ -274,6 +274,20 @@ keele2007a = DB(WorkUnrelated(
     ID="Keele2007",
 ))
 
+lester2007a = DB(WorkUnrelated(
+    2007, "Evaluating the internal consistency of the base questions in the express process appraisal",
+    display="lester",
+    authors="Lester, NG and Wilkie, F George and McFall, Donald and Ware, MP",
+    place=SEAA,
+    pp="289--296",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lester2007evaluating",
+    cluster_id="8936050264384289914",
+    scholar="http://scholar.google.com/scholar?cites=8936050264384289914&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications, 2007. 33rd EUROMICRO Conference on",
+))
+
 linden2007a = DB(WorkUnrelated(
     2007, "Software product lines in action",
     display="linden",

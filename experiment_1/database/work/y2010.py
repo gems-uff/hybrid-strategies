@@ -456,6 +456,22 @@ lee2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
+lester2010a = DB(WorkUnrelated(
+    2010, "Investigating the role of CMMI with expanding company size for small-to medium-sized enterprises",
+    display="lester",
+    authors="Lester, NG and Wilkie, F George and McFall, Donald and Ware, MP",
+    place=JSEP,
+    pp="17--31",
+    entrytype="article",
+    volume="22",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="lester2010investigating",
+    cluster_id="10505469713876022799",
+    scholar="http://scholar.google.com/scholar?cites=10505469713876022799&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
+))
+
 mandic2010a = DB(WorkUnrelated(
     2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
     display="mandic",

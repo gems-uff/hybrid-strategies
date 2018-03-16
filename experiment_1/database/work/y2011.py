@@ -694,3 +694,17 @@ yin2011a = DB(WorkUnrelated(
     note="cited By 4",
     ID="Yin2011",
 ))
+
+zarour2011a = DB(WorkUnrelated(
+    2011, "Software Process Improvement for Small and Very Small Enterprises",
+    display="zarour",
+    authors="Zarour, Mohammad and Abran, Alain and Desharnais, Jean-Marc",
+    place=FAKE,
+    pp="183",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="zarour2011software",
+    cluster_id="13170586433889280781",
+    scholar="http://scholar.google.com/scholar?cites=13170586433889280781&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process Improvement and Management: Approaches and Tools for Practical Development: Approaches and Tools for Practical Development",
+))
