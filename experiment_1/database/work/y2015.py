@@ -240,6 +240,17 @@ hithnawi2015a = DB(WorkUnrelated(
     placex="Proceedings of the 14th International Conference on Information Processing in Sensor Networks",
 ))
 
+hobcraft2015a = DB(WorkUnrelated(
+    2015, "The use of the cynefin model for innovation",
+    display="hobcraft",
+    authors="Hobcraft, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Hobcraft2015",
+    placex="Paul4innovating's Innovation Views",
+))
+
 hurtado2015a = DB(WorkUnrelated(
     2015, "Using simulation to aid decision making in managing the usability evaluation process",
     display="hurtado",
@@ -288,6 +299,17 @@ kerzazi2015a = DB(WorkUnrelated(
         bookgroupauthor="IEEE",
         note="10th International Conference on Intelligent Systems - Theories and Applications (SITA), ENSIAS, Rabat, MOROCCO, OCT 20-21, 2015",
         placex="INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS: THEORIES AND APPLICATIONS",
+))
+
+kim2015a = DB(WorkUnrelated(
+    2015, "How complexity domain impacts software development process",
+    display="kim",
+    authors="Kim, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kim2015",
+    placex="Mobile Game Industry Points of View",
 ))
 
 kowalczyk2015a = DB(WorkUnrelated(
@@ -483,6 +505,17 @@ rosa2015a = DB(WorkUnrelated(
     ID="LaRosa:2015:SBP:2785592.2785620",
     acm="1",
     placex="Proceedings of the 2015 International Conference on Software and System Process",
+))
+
+samios2015a = DB(WorkUnrelated(
+    2015, "Software development",
+    display="samios",
+    authors="Samios, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Samios2015",
+    placex="Scrum and Cynefin",
 ))
 
 silva2015a = DB(WorkUnrelated(

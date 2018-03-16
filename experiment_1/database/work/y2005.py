@@ -345,6 +345,21 @@ thomas2005a = DB(WorkUnrelated(
     placex="Communications of the ACM",
 ))
 
+thorpe2005a = DB(WorkUnrelated(
+    2005, "Using knowledge within small and medium-sized firms: A systematic review of the evidence",
+    display="thorpe",
+    authors="Thorpe, R. and Holt, R. and Macpherson, A. and Pittaway, L.",
+    place=FAKE,
+    pp="257-281",
+    entrytype="article",
+    volume="7",
+    number="4",
+    doi="10.1111/j.1468-2370.2005.00116.x",
+    note="cited By 205",
+    ID="Thorpe2005257",
+    placex="International Journal of Management Reviews",
+))
+
 trienekens2005a = DB(WorkSnowball(
     2005, "Business-oriented process improvement: practices and experiences at Thales Naval The Netherlands (TNNL)",
     display="trienekens",

@@ -51,6 +51,17 @@ boehm2003b = DB(WorkUnrelated(
     placex="ACM Software Engineering Notes",
 ))
 
+boehm2003c = DB(WorkUnrelated(
+    2003, "Balancing Agility and Discipline: A Guide for the Perplexed",
+    display="boehm c",
+    authors="Boehm, B. and Turner, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 761",
+    ID="Boehm2003",
+    placex="Addison-Wesley",
+))
+
 brydon2003a = DB(WorkUnrelated(
     2003, "Why action research?",
     display="brydon",
@@ -353,6 +364,21 @@ kim2003a = DB(WorkUnrelated(
     note="cited By 153",
     ID="Kim20035",
     placex="Journal of Interactive Marketing",
+))
+
+kurtz2003a = DB(WorkUnrelated(
+    2003, "The new dynamics of strategy: Sense-making in a complex and complicated world",
+    display="kurtz",
+    authors="Kurtz, C.F. and Snowden, D.J.",
+    place=FAKE,
+    pp="462-483",
+    entrytype="article",
+    volume="42",
+    number="3",
+    doi="10.1147/sj.423.0462",
+    note="cited By 452",
+    ID="Kurtz2003462",
+    placex="IBM Systems Journal",
 ))
 
 lawler2003a = DB(WorkUnrelated(

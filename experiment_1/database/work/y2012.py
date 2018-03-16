@@ -119,6 +119,20 @@ clarke2012a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+clarke2012b = DB(WorkUnrelated(
+    2012, "The situational factors that affect the software development process: Towards a comprehensive reference framework",
+    display="clarke b",
+    authors="Clarke, P. and O'Connor, R.V.",
+    place=IST,
+    pp="433-447",
+    entrytype="article",
+    volume="54",
+    number="5",
+    note="cited By 89",
+    ID="Clarke2012433",
+    placex="Information and Software Technology",
+))
+
 delgado2012a = DB(WorkUnrelated(
     2012, "Model Transformations for Business-IT Alignment: From Collaborative Business Process to SoaML Service Model",
     display="delgado",

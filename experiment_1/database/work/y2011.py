@@ -155,6 +155,17 @@ dawson2011a = DB(WorkUnrelated(
     placex="ACM Trans. Manage. Inf. Syst.",
 ))
 
+dettmer2011a = DB(WorkUnrelated(
+    2011, "Systems Thinking and the Cynefin Framework-A Strategic Approach to Managing Complex Systems",
+    display="dettmer",
+    authors="Dettmer, H.W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 6",
+    ID="Dettmer2011",
+    placex="Port Angeles, WA: Goal Systems International",
+))
+
 dieste2011a = DB(WorkUnrelated(
     2011, "Systematic review and aggregation of empirical studies on elicitation techniques",
     display="dieste",
@@ -488,6 +499,20 @@ nieters2011a = DB(WorkUnrelated(
     ID="Nieters:2011:LCC:1979742.1979671",
     acm="1",
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+pelrine2011a = DB(WorkUnrelated(
+    2011, "On understanding software agility: A social complexity point of view",
+    display="pelrine",
+    authors="Pelrine, J.",
+    place=FAKE,
+    pp="26-37",
+    entrytype="article",
+    volume="13",
+    number="1-2",
+    note="cited By 10",
+    ID="Pelrine201126",
+    placex="Emergence: Complexity and Organization",
 ))
 
 petersen2011a = DB(WorkUnrelated(

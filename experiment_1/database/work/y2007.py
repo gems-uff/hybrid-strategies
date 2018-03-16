@@ -390,6 +390,21 @@ qi2007a = DB(WorkUnrelated(
     placex="Performance results from process improvement, DACS Journal",
 ))
 
+salo2007a = DB(WorkUnrelated(
+    2007, "An iterative improvement process for agile software development",
+    display="salo",
+    authors="Salo, O. and Abrahamsson, P.",
+    place=SPIP,
+    pp="81-100",
+    entrytype="article",
+    volume="12",
+    number="1",
+    doi="10.1002/spip.305",
+    note="cited By 31",
+    ID="Salo200781",
+    placex="Software Process Improvement and Practice",
+))
+
 sidky2007a = DB(WorkUnrelated(
     2007, "A disciplined approach to adopting agile practices: The agile adoption framework",
     display="sidky",
@@ -433,6 +448,20 @@ sitnikova2007a = DB(WorkUnrelated(
     ID="Sitnikova2007",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+))
+
+snowden2007a = DB(WorkUnrelated(
+    2007, "A leader's framework for decision making",
+    display="snowden",
+    authors="Snowden, D.J. and Boone, M.E.",
+    place=FAKE,
+    pp="69-76+149",
+    entrytype="article",
+    volume="85",
+    number="11",
+    note="cited By 285",
+    ID="Snowden2007",
+    placex="Harvard Business Review",
 ))
 
 steen2007a = DB(WorkUnrelated(

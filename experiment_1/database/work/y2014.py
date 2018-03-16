@@ -272,6 +272,20 @@ kudryashova2014a = DB(WorkUnrelated(
     placex="Proceedings of the 23rd International Conference on World Wide Web",
 ))
 
+lepmets2014a = DB(WorkUnrelated(
+    2014, "A cynefin based approach to process model tailoring and goal alignment",
+    display="lepmets",
+    authors="Lepmets, M. and O'Connor, R.V. and Cater-Steel, A. and Mesquida, A.L. and McBride, T.",
+    place=ICQICT,
+    pp="166-169",
+    entrytype="conference",
+    doi="10.1109/QUATIC.2014.30",
+    art_number="6984111",
+    note="cited By 4",
+    ID="Lepmets2014166",
+    placex="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014",
+))
+
 mercer2014a = DB(WorkUnrelated(
     2014, "Human-automation Cooperation for Separation Assurance in Future NextGen Environments",
     display="mercer",
