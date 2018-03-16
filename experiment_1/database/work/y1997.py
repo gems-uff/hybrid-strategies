@@ -109,6 +109,17 @@ grady1997a = DB(WorkUnrelated(
     ID="Grady1997",
 ))
 
+grady1997b = DB(WorkUnrelated(
+    1997, "Successful Software Process Improvement",
+    display="grady b",
+    authors="Grady, R.B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 89",
+    ID="Grady1997",
+    placex="Prentice-Hall",
+))
+
 group1997a = DB(WorkUnrelated(
     1997, "SEI Process Assessment",
     display="group",

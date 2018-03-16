@@ -305,4 +305,5 @@ yamamura1999a = DB(WorkUnrelated(
     number="5",
     note="cited By 21",
     ID="Yamamura199983",
+    placex="IEEE Software",
 ))

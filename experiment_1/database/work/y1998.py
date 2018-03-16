@@ -175,6 +175,17 @@ mellis1998a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+oliveira1998a = DB(WorkUnrelated(
+    1998, "Planejamento Estratégico - Conceitos Metodologia e Pratica",
+    display="oliveira",
+    authors="Oliveira, D.P.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 41",
+    ID="Oliveira1998",
+    placex="Planejamento estratégico: Conceitos, metodologia e práticas",
+))
+
 paulk1998a = DB(WorkUnrelated(
     1998, "Software Process Appraisal and Improvement: Models and Standards",
     display="paulk",

@@ -521,6 +521,21 @@ scholtes2003a = DB(WorkUnrelated(
     ID="Scholtes2003",
 ))
 
+serrano2003a = DB(WorkUnrelated(
+    2003, "An experience on using the team software process for implementing the Capability Maturity Model for software in a small organization",
+    display="serrano",
+    authors="Serrano, M.A. and De Oca, C.M. and Cedillo, K.",
+    place=FAKE,
+    pp="327-334",
+    entrytype="conference",
+    volume="2003-January",
+    doi="10.1109/QSIC.2003.1319118",
+    art_number="1319118",
+    note="cited By 6",
+    ID="Serrano2003327",
+    placex="Proceedings - International Conference on Quality Software",
+))
+
 sixsigma2003a = DB(WorkUnrelated(
     2003, "Six Sigma Forum Magazine",
     display="sixsigma",

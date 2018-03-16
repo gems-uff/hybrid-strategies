@@ -490,6 +490,17 @@ pfahl2001a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+richardson2001a = DB(WorkUnrelated(
+    2001, "Software Process Improvements in a Very Small Company",
+    display="richardson",
+    authors="Richardson, I. and Ryan, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Richardson2001",
+    placex="Quality Management",
+))
+
 rout2001a = DB(WorkUnrelated(
     2001, "The RAPID assessment of software process capability. In Software Process Improvement, Hunter RB",
     display="rout",

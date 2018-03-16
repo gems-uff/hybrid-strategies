@@ -227,6 +227,17 @@ pulford1996a = DB(WorkUnrelated(
     ID="Pulford1996",
 ))
 
+pulford1996b = DB(WorkUnrelated(
+    1996, "A Quantitative Approach to Software Management",
+    display="pulford b",
+    authors="Pulford, K, Kuntzmann-Combelles, A., Shirlaw, and S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Pulford1996",
+    placex="Addison-Wesley",
+))
+
 sommerville1996a = DB(WorkUnrelated(
     1996, "Human, Social and Organizational Influences on the Software Process",
     display="sommerville",

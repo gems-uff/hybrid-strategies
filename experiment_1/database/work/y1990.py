@@ -14,6 +14,17 @@ akao1990a = DB(WorkUnrelated(
     ID="Akao1990",
 ))
 
+akao1990b = DB(WorkUnrelated(
+    1990, "QFD: Integrating Customer Requirements into Product Design",
+    display="akao b",
+    authors="Akao, Y.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 62",
+    ID="Akao1990",
+    placex="Productivity Press",
+))
+
 checkland1990a = DB(WorkUnrelated(
     1990, "Soft Systems Methodology in Action",
     display="checkland",

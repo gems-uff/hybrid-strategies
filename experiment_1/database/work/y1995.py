@@ -36,6 +36,7 @@ brodman1995a = DB(WorkUnrelated(
     number="1",
     note="cited By 22",
     ID="Brodman199535",
+    placex="Software Process Improvement and Practice",
 ))
 
 bukowski1995a = DB(WorkUnrelated(

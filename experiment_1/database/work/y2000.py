@@ -407,6 +407,7 @@ pitterman2000a = DB(WorkUnrelated(
     doi="10.1109/52.854074",
     note="cited By 60",
     ID="Pitterman200089",
+    placex="IEEE Software",
 ))
 
 reed2000a = DB(WorkUnrelated(
