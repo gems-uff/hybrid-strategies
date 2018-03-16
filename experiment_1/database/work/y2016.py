@@ -17,6 +17,17 @@ aoki2016a = DB(WorkUnrelated(
     placex="System Sciences (HICSS), 2016 49th Hawaii International Conference on",
 ))
 
+cervantes2016a = DB(WorkUnrelated(
+    2016, "Proceso de cambio: formalización y valorización con análisis costo-eficiencia en fase inicial para la mejora del proceso de software",
+    display="cervantes",
+    authors="Yangüez Cervantes, Nilda",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universitat Politècnica de Catalunya",
+    ID="yanguez2016proceso",
+    placex="",
+))
+
 kobori2016a = DB(WorkUnrelated(
     2016, "Exhaustive and efficient identification of rationales using GQM+ Strategies with stakeholder relationship analysis",
     display="kobori",

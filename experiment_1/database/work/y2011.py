@@ -106,6 +106,18 @@ baker2011a = DB(WorkUnrelated(
     placex="ACM SIGGRAPH 2011 Posters",
 ))
 
+barreto2011a = DB(WorkUnrelated(
+    2011, "Defini{ç}ão e Gerência de Objetivos de Software Alinhados ao Planejamento Estratégico",
+    display="barreto",
+    authors="Barreto, AS",
+    place=FAKE,
+    entrytype="article",
+    ID="barreto2011definiccao",
+    cluster_id="1134592083424039920",
+    scholar="http://scholar.google.com/scholar?cites=1134592083424039920&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Dsc Dissertation, Universidade Federal do Rio de Janeiro",
+))
+
 becker2011a = DB(WorkUnrelated(
     2011, "Strategy to Improve Quality for Software Applications: A Process View",
     display="becker",

@@ -76,6 +76,21 @@ trinkenreich2017b = DB(WorkUnrelated(
     placex="2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
 ))
 
+vasconcellos2017a = DB(WorkUnrelated(
+    2017, "Approaches to strategic alignment of software process improvement: A systematic literature review",
+    display="vasconcellos",
+    authors="Vasconcellos, Francisco JS and Landre, Geraldo B and Cunha, José Adson OG and Oliveira, Juliano L and Ferreira, Ronaldo A and Vincenzi, Auri MR",
+    place=JSS,
+    pp="45--63",
+    entrytype="article",
+    volume="123",
+    publisher="Elsevier",
+    ID="vasconcellos2017approaches",
+    cluster_id="13351017972535420961",
+    scholar="http://scholar.google.com/scholar?cites=13351017972535420961&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of systems and software",
+))
+
 watanabe2017a = DB(WorkUnrelated(
     2017, "ID3P: Iterative Data-Driven Development of Persona based on quantitative evaluation and revision",
     display="watanabe",

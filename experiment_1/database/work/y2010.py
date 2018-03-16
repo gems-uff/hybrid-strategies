@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+barcellos2010a = DB(WorkUnrelated(
+    2010, "A well-founded software process behavior ontology to support business goals monitoring in high maturity software organizations",
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and de Almeida Falbo, Ricardo and Rocha, Ana Regina",
+    place=FAKE,
+    pp="253--262",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="barcellos2010well",
+    cluster_id="8525192396157377506",
+    scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2010 14th IEEE International",
+))
+
 barreto2010a = DB(WorkSnowball(
     2010, "Defining and monitoring strategically aligned software improvement goals",
     display="barreto",
@@ -23,6 +37,20 @@ barreto2010a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="17460321150978889682",
     scholar_ok=True,
+))
+
+barreto2010b = DB(WorkUnrelated(
+    2010, "Analyzing the similarity among software projects to improve software project monitoring processes",
+    display="barreto b",
+    authors="Barreto, Andrea Oliveira Soares and Rocha, Ana Regina",
+    place=ICQICT,
+    pp="441--446",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="barreto2010analyzing",
+    cluster_id="1505945229113365171",
+    scholar="http://scholar.google.com/scholar?cites=1505945229113365171&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Quality of Information and Communications Technology (QUATIC), 2010 Seventh International Conference on the",
 ))
 
 basili2010a = DB(WorkSnowball(

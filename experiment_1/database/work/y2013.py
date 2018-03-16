@@ -35,6 +35,35 @@ arcilla2013a = DB(WorkUnrelated(
     placex="Computer Standards & Interfaces",
 ))
 
+ardila2013a = DB(WorkUnrelated(
+    2013, "Panorama de gestión cuantitativa de procesos de desarrollo de software en pequeñas organizaciones",
+    display="ardila",
+    authors="Ardila, Carlos A and Pino, Francisco J",
+    place=FAKE,
+    pp="29--46",
+    entrytype="article",
+    volume="11",
+    number="26",
+    publisher="Universidad ICESI",
+    ID="ardila2013panorama",
+    cluster_id="15232777509120363932",
+    scholar="http://scholar.google.com/scholar?cites=15232777509120363932&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Sistemas & Telemática",
+))
+
+ardila2013b = DB(WorkUnrelated(
+    2013, "Panorama of quantitative management of software development process for very small entities",
+    display="ardila b",
+    authors="Ardila, Carlos A and Pino, Francisco J",
+    place=FAKE,
+    pp="29--46",
+    entrytype="article",
+    volume="11",
+    number="26",
+    ID="ardila2013panorama",
+    placex="Sistemas & Telemática",
+))
+
 aversano2013a = DB(WorkUnrelated(
     2013, "Goal-driven Approach for Business/IT Alignment Evaluation",
     display="aversano",
@@ -351,6 +380,20 @@ kazato2013a = DB(WorkUnrelated(
     ID="Kazato:2013:TCD:2534142.2534146",
     acm="1",
     placex="Proceedings of the 9th Asian Internet Engineering Conference",
+))
+
+khraiwesh2013a = DB(WorkUnrelated(
+    2013, "PROJECT MONITORING AND CONTROL MEASURES IN CMMI",
+    display="khraiwesh",
+    authors="Khraiwesh, Mahmoud",
+    place=FAKE,
+    pp="39",
+    entrytype="article",
+    volume="5",
+    number="5",
+    publisher="Academy & Industry Research Collaboration Center (AIRCC)",
+    ID="khraiwesh2013project",
+    placex="International Journal of Computer Science & Information Technology",
 ))
 
 maglyas2013a = DB(WorkUnrelated(

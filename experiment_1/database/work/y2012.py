@@ -383,6 +383,8 @@ lepmets2012a = DB(WorkUnrelated(
     ID="Lepmets20121440",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    publisher="Elsevier",
+    scholar="http://scholar.google.com/scholar?cites=72631659526478855&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 lim2012a = DB(WorkUnrelated(
