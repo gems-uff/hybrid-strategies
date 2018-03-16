@@ -29,6 +29,8 @@ from ..work.y2001 import waina2001a
 from ..work.y2001 import waina2001b
 from ..work.y2001 import jones2001a
 from ..work.y2001 import perkins2001a
+from ..work.y2010 import dounos2010a
+from ..work.y2010 import ye2010a
 
 DB(Citation(
     waina2001a, whitney1994a, ref="",
@@ -207,6 +209,20 @@ DB(Citation(
 
 DB(Citation(
     waina2001a, dekkers1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dounos2010a, waina2001a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ye2010a, waina2001a, ref="",
     contexts=[
 
     ],

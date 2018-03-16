@@ -145,6 +145,20 @@ daramola2010a = DB(WorkUnrelated(
     placex="Current Trends in Web Engineering",
 ))
 
+dounos2010a = DB(WorkUnrelated(
+    2010, "Factors for the design of CMMI-based software process improvement initiatives",
+    display="dounos",
+    authors="Dounos, Petros and Bohoris, George",
+    place=FAKE,
+    pp="43--47",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="dounos2010factors",
+    cluster_id="9521064757940340749",
+    scholar="http://scholar.google.com/scholar?cites=9521064757940340749&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatics (PCI), 2010 14th Panhellenic Conference on",
+))
+
 détienne2010a = DB(WorkUnrelated(
     2010, "Why Do Users Communicate via Such or Such Media?: Some Insights from Users' Daily Experiences",
     display="détienne",
@@ -793,6 +807,18 @@ winter2010a = DB(WorkUnrelated(
     ID="Winter20102059",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+ye2010a = DB(WorkUnrelated(
+    2010, "A Fast Variable Precision Template Matching Algorithm Based on Hybrid Genetic Algorithm",
+    display="ye",
+    authors="Ye, Mao-yi and You, Fu-cheng",
+    place=FAKE,
+    pp="1--3",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ye2010fast",
+    placex="Multimedia Technology (ICMT), 2010 International Conference on",
 ))
 
 zalzala2010a = DB(WorkUnrelated(
