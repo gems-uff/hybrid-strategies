@@ -82,6 +82,20 @@ bayona2012a = DB(WorkUnrelated(
 ))
 
 
+becker2012a = DB(WorkUnrelated(
+    2012, "Specifying process views for a measurement, evaluation, and improvement strategy",
+    display="becker",
+    authors="Becker, Pablo and Lew, Philip and Olsina, Luis",
+    place=FAKE,
+    entrytype="article",
+    volume="2012",
+    publisher="Hindawi Publishing Corporation",
+    ID="becker2012specifying",
+    cluster_id="12760996184446464944",
+    scholar="http://scholar.google.com/scholar?cites=12760996184446464944&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Advances in Software Engineering",
+))
+
 bensiek2012a = DB(WorkUnrelated(
     2012, "Maturity Model for Improving Virtual Engineering in Small and Medium-Sized Enterprises",
     display="bensiek",
@@ -172,6 +186,22 @@ colomo2012a = DB(WorkUnrelated(
     cluster_id="7841931770111145184",
     scholar="http://scholar.google.com/scholar?cites=7841931770111145184&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Universal Computer Science",
+))
+
+dadhich2012a = DB(WorkUnrelated(
+    2012, "integrating cmmi maturity level-3 in traditional software development process",
+    display="dadhich",
+    authors="Dadhich, Reena and Chauhan, Ujala",
+    place=FAKE,
+    pp="17",
+    entrytype="article",
+    volume="3",
+    number="1",
+    publisher="Academy & Industry Research Collaboration Center (AIRCC)",
+    ID="dadhich2012integrating",
+    cluster_id="1780392299684131259",
+    scholar="http://scholar.google.com/scholar?cites=1780392299684131259&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Software Engineering & Applications",
 ))
 
 delgado2012a = DB(WorkUnrelated(
@@ -456,6 +486,20 @@ lim2012a = DB(WorkUnrelated(
     ID="Lim201210544",
     sciencedirect="1",
     placex="Expert Systems with Applications",
+))
+
+lópez2012a = DB(WorkUnrelated(
+    2012, "Software process improvement as an organizational self-production process",
+    display="lópez",
+    authors="López, Javier Eduardo López and Cifuentes, Angela Paola Garay",
+    place=FAKE,
+    pp="1--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lopez2012software",
+    cluster_id="7247087441529350213",
+    scholar="http://scholar.google.com/scholar?cites=7247087441529350213&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
 ))
 
 mesquida2012a = DB(WorkUnrelated(

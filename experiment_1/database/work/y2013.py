@@ -314,6 +314,33 @@ gu2013b = DB(WorkUnrelated(
     placex="Information & Management",
 ))
 
+haghighatfar2013a = DB(WorkUnrelated(
+    2013, "Presentation of an approach for adapting software production process based ISO/IEC 12207 to ITIL Service",
+    display="haghighatfar",
+    authors="Haghighatfar, Samira and Modiri, Nasser and Tajfar, Amir Houshang",
+    place=FAKE,
+    pp="25--30",
+    entrytype="article",
+    volume="2",
+    number="2",
+    ID="haghighatfar2013presentation",
+    placex="Advances in Computer Science: an International Journal",
+))
+
+hamouda2013a = DB(WorkUnrelated(
+    2013, "The BSCBAS: a Balanced Scorecard-based appraisal system for improving the performance of software organizations",
+    display="hamouda",
+    authors="Hamouda, Alaa El-deen",
+    place=JSEP,
+    pp="763--780",
+    entrytype="article",
+    volume="25",
+    number="7",
+    publisher="Wiley Online Library",
+    ID="hamouda2013bscbas",
+    placex="Journal of Software: Evolution and Process",
+))
+
 herranz2013a = DB(WorkUnrelated(
     2013, "Towards a New Approach to Supporting Top Managers in \SPI\ Organizational Change Management",
     display="herranz",
@@ -599,6 +626,16 @@ ullah2013a = DB(WorkUnrelated(
     ID="Ullah:2013:SRB:2445560.2445564",
     acm="1",
     placex="ACM Trans. Manage. Inf. Syst.",
+))
+
+valenciennes2013 = DB(WorkUnrelated(
+    2013, "Towards a strategy for analysing benefits of Software Process Improvement programs",
+    display="valenciennes",
+    authors="Valenciennes, France",
+    place=FAKE,
+    entrytype="article",
+    ID="valenciennestowards",
+    placex="",
 ))
 
 weckenmann2013a = DB(WorkUnrelated(

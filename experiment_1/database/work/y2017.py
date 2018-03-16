@@ -39,6 +39,22 @@ mughal2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+sanchez2017a = DB(WorkUnrelated(
+    2017, "Strategic characterization of process assets based on asset quality and business impact",
+    display="sanchez",
+    authors="Sanchez-Segura, Maria-Isabel and Ruiz-Robles, Alejandro and Medina-Dominguez, Fuensanta and Dugarte-Peña, German-Lenin",
+    place=FAKE,
+    pp="1720--1737",
+    entrytype="article",
+    volume="117",
+    number="8",
+    publisher="Emerald Publishing Limited",
+    ID="sanchez2017strategic",
+    clusterid="6059814431505565823",
+    scholar="http://scholar.google.com/scholar?cites=6059814431505565823&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Industrial Management & Data Systems",
+))
+
 tomaz2017 = DB(WorkUnrelated(
     2017, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
     display="tomaz",

@@ -166,6 +166,19 @@ colomo2011a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+cyrus2011a = DB(WorkUnrelated(
+    2011, "MABENA Strategic Management Model for Local Companies",
+    display="cyrus",
+    authors="Cyrus, Kaveh Mohammad and Sanagoo, Shadi",
+    place=FAKE,
+    entrytype="article",
+    volume="81",
+    ID="cyrus2011mabena",
+    cluster_id="13732203790123264407",
+    scholar="http://scholar.google.com/scholar?cites=13732203790123264407&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="World Academy of Science, Engineering and Technology",
+))
+
 dawson2011a = DB(WorkUnrelated(
     2011, "Uncovering and Testing Archetypes of Effective Public Sector CIOs",
     display="dawson",
@@ -591,6 +604,22 @@ plösch2011a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="17290858405010918108",
     scholar_ok=True,
+))
+
+pryor2011a = DB(WorkUnrelated(
+    2011, "Strategic quality management: the role of process ownership, management and improvement",
+    display="pryor",
+    authors="Pryor, Mildred Golden and Toombs, Leslie A and Cooke, Jack and Humphreys, John H",
+    place=FAKE,
+    pp="420--439",
+    entrytype="article",
+    volume="4",
+    number="4",
+    publisher="Inderscience Publishers Ltd",
+    ID="pryor2011strategic",
+    clusterid="16086864022874833943",
+    scholar="http://scholar.google.com/scholar?cites=16086864022874833943&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Business Excellence",
 ))
 
 rantapuska2011a = DB(WorkUnrelated(

@@ -100,6 +100,16 @@ petersen2016a = DB(WorkUnrelated(
     placex="Managing Software Process Evolution",
 ))
 
+robles2016a = DB(WorkUnrelated(
+    2016, "Valoración y gestión estratégica de activos de proceso intangibles en ingeniería del software",
+    display="robles",
+    authors="Ruiz Robles, Ronald Alejandro",
+    place=FAKE,
+    entrytype="article",
+    ID="ruiz2016valoracion",
+    placex="",
+))
+
 spósito2016a = DB(WorkUnrelated(
     2016, "Business-IT Alignment Research Field",
     display="spósito",

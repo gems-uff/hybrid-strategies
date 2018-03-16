@@ -47,6 +47,25 @@ from ..work.y2009 import kamel2009a
 from ..work.y2009 import oliveira2009a
 from ..work.y2009 import trienekens2009a
 from ..work.y2010 import guzmán2010a
+from ..work.y2011 import pryor2011a
+from ..work.y2011 import barreto2011a
+from ..work.y2011 import cyrus2011a
+from ..work.y2012 import lepmets2012a
+from ..work.y2012 import becker2012a
+from ..work.y2012 import dadhich2012a
+from ..work.y2012 import lópez2012a
+from ..work.y2013 import hamouda2013a
+from ..work.y2013 import haghighatfar2013a
+from ..work.y2013 import valenciennes2013
+from ..work.y2014 import mitre2014a
+from ..work.y2014 import aguirre2014a
+from ..work.y2014 import mitrehernández2014a
+from ..work.y2015 import ramos2015a
+from ..work.y2015 import salgado2015a
+from ..work.y2016 import robles2016a
+from ..work.y2017 import vasconcellos2017a
+from ..work.y2017 import sanchez2017a
+from ..work.y2018 import sanchez2018a
 
 DB(Citation(
     guzmán2010a, asgarkhani2006a, ref="",
@@ -351,6 +370,146 @@ DB(Citation(
 
 DB(Citation(
     guzmán2010a, el2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lepmets2012a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    becker2012a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pryor2011a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vasconcellos2017a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dadhich2012a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barreto2011a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cyrus2011a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2012a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ramos2015a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2017a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mitre2014a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hamouda2013a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2018a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haghighatfar2013a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valenciennes2013, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valenciennes2013, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aguirre2014a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mitrehernández2014a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    salgado2015a, guzmán2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    robles2016a, guzmán2010a, ref="",
     contexts=[
 
     ],

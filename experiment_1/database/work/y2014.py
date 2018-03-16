@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aguirre2014a = DB(WorkUnrelated(
+    2014, "Analyses of Strategic Institutionalization: The Emerging Integration of Strategic Conceptualization and Strategic Operationalization",
+    display="aguirre",
+    authors="Aguirre-Milling, Homero and Parhizgar, Kamal Dean",
+    place=FAKE,
+    pp="5",
+    entrytype="inproceedings",
+    volume="12",
+    number="1",
+    organization="American Society for Competitiveness",
+    ID="aguirre2014analyses",
+    placex="Competition Forum",
+))
+
 ali2014a = DB(WorkUnrelated(
     2014, "A systematic literature review on the industrial use of software process simulation",
     display="ali",
@@ -341,6 +355,20 @@ mercer2014a = DB(WorkUnrelated(
     ID="Mercer:2014:HCS:2669592.2669644",
     acm="1",
     placex="Proceedings of the International Conference on Human-Computer Interaction in Aerospace",
+))
+
+mitre2014a = DB(WorkUnrelated(
+    2014, "Diseño de un programa de medición estratégico para organizaciones de ingeniería de Software: descubriendo dificultades y problemas",
+    display="mitre",
+    authors="Mitre-Hernández, Hugo A and García-Guzmán, Javier and Amescua-Seco, De and Velasco-Elizondo, Perla and others",
+    place=FAKE,
+    pp="311--319",
+    entrytype="article",
+    volume="15",
+    number="2",
+    publisher="Facultad de Ingeniería, UNAM",
+    ID="mitre2014diseno",
+    placex="Ingeniería, investigación y tecnología",
 ))
 
 mitrehernández2014a = DB(WorkUnrelated(

@@ -506,6 +506,19 @@ ralph2015a = DB(WorkUnrelated(
     placex="Science of Computer Programming",
 ))
 
+ramos2015a = DB(WorkUnrelated(
+    2015, "Planejamento de Programa de Melhoria: Abordagem Multimodelo",
+    display="ramos",
+    authors="Ramos, C and Oliveira, Káthia Mar{ç}al and da Rocha, Ana Regina Cavalcanti",
+    place=FAKE,
+    pp="79--93",
+    entrytype="article",
+    ID="ramos2015planejamento",
+    cluster_id="13048923855479572684",
+    scholar="http://scholar.google.com/scholar?cites=13048923855479572684&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="XIV Simpósio Brasileiro de Qualidade de Software (SBQS 2015)",
+))
+
 rosa2015a = DB(WorkUnrelated(
     2015, "Strategic Business Process Management",
     display="rosa",
@@ -519,6 +532,17 @@ rosa2015a = DB(WorkUnrelated(
     ID="LaRosa:2015:SBP:2785592.2785620",
     acm="1",
     placex="Proceedings of the 2015 International Conference on Software and System Process",
+))
+
+salgado2015a = DB(WorkUnrelated(
+    2015, "Investigación y propuesta de un modelo de competitividad para una localidad de investigación y desarrollo en México en el ramo de la industria electrónica automotriz",
+    display="salgado",
+    authors="Salgado-Padilla, Rocío",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="salgado2015investigacion",
+    local="ITESO",
+    placex="",
 ))
 
 samios2015a = DB(WorkUnrelated(
