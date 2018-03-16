@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+argyris1991a = DB(WorkUnrelated(
+    1991, "Participatory action research and action science compared: A commentary",
+    display="argyris",
+    authors="Argyris, C. and Schön, D.A.",
+    place=FAKE,
+    pp="85-96",
+    entrytype="article",
+    note="cited By 122",
+    ID="Argyris199185",
+    placex="Participatory Action Research",
+))
+
 rombach1991a = DB(WorkUnrelated(
     1991, "MVP-L A Language for Process Modeling In-the-Large",
     display="rombach",

@@ -288,6 +288,17 @@ kautz2000a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+kautz2000b = DB(WorkUnrelated(
+    2000, "Knowledge, learning and IT support in a small software company",
+    display="kautz b",
+    authors="Kautz, K. and Thaysen, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Kautz2000",
+    placex="Proceedings of BPRC CONFERENCE on 'Knowledge Management: Concepts and Controversies'",
+))
+
 kuilboer2000a = DB(WorkUnrelated(
     2000, "Software process and product improvement: An empirical assessment",
     display="kuilboer",

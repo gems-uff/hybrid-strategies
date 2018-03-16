@@ -16,6 +16,18 @@ basili1994a = DB(WorkUnrelated(
     ID="Basili1994528",
 ))
 
+brodman1994a = DB(WorkUnrelated(
+    1994, "What small businesses and small organizations say about the CMM",
+    display="brodman",
+    authors="Brodman, Judith G. and Johnson, Donna L.",
+    place=ICSE,
+    pp="331-340",
+    entrytype="conference",
+    note="cited By 69",
+    ID="Brodman1994331",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 clegg1994a = DB(WorkUnrelated(
     1994, "Case Method Fast-Track: A RAD Approach",
     display="clegg",

@@ -14,6 +14,17 @@ bandinelli1995a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454",
 ))
 
+borum1995a = DB(WorkUnrelated(
+    1995, "Strategies for Organizational Change",
+    display="borum",
+    authors="Borum, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="Borum1995",
+    placex="CBS Publishing Company",
+))
+
 bro1995a = DB(WorkUnrelated(
     1995, "MVP-L Language Report, Version 2",
     display="bro",

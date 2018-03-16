@@ -58,6 +58,28 @@ ferguson1998a = DB(WorkUnrelated(
     ID="Ferguson1998",
 ))
 
+hansen1998a = DB(WorkUnrelated(
+    1998, "NP -Assessment Process Report",
+    display="hansen",
+    authors="Westergaard Hansen, H. and Thaysen, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="WestergaardHansen1998",
+    placex="Np-Assessment Process Report (In Danish).",
+))
+
+hansen1998b = DB(WorkUnrelated(
+    1998, "Process Improvement in A Small Danish Software Company (in Danish)",
+    display="hansen b",
+    authors="Westergaard Hansen, H. and Thaysen, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="WestergaardHansen1998",
+    placex="MSC Thesis, University of Aalborg, Institute for Electronic Systems, Department of Computer Science, Denmark",
+))
+
 hierholzer1998a = DB(WorkUnrelated(
     1998, "Applying QFD for software process improvement at SAP AG",
     display="hierholzer",
@@ -112,6 +134,18 @@ isoiec1998d = DB(WorkUnrelated(
     note="cited By 117",
     ID="isoiec1998",
     placex="ISO/IEC 15504-7:1998. International Standards Organization",
+))
+
+iversen1998a = DB(WorkUnrelated(
+    1998, "Combining quantitative and qualitative assessment methods in software process improvement",
+    display="iversen",
+    authors="Iversen, J. and Johansen, J. and Nielsen, P.A. and Pries-Heje, J.",
+    place=FAKE,
+    pp="451-466",
+    entrytype="article",
+    note="cited By 9",
+    ID="Iversen1998451",
+    placex="Proceedings of the 6th European Conference on Information Systems (ECIS)",
 ))
 
 kontio1998a = DB(WorkUnrelated(

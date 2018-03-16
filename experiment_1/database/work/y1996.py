@@ -194,6 +194,17 @@ mcfeeley1996a = DB(WorkUnrelated(
     ID="McFeeley1996",
 ))
 
+mcfeeley1996b = DB(WorkUnrelated(
+    1996, "IDEALSM: A user's guide for software process improvement",
+    display="mcfeeley b",
+    authors="McFeeley, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="McFeeley1996",
+    placex="Handbook CMU/SEI-96-HB-001",
+))
+
 park1996a = DB(WorkUnrelated(
     1996, "Goal-driven software measurement - A guidebook",
     display="park",

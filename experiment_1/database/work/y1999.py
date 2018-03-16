@@ -192,6 +192,33 @@ humphrey1999a = DB(WorkUnrelated(
     ID="Humphrey1999",
 ))
 
+kautz1999a = DB(WorkUnrelated(
+    1999, "Making Sense of Measurement for Small Organizations",
+    display="kautz",
+    authors="Kautz, K.",
+    place=IEEES,
+    pp="14-20",
+    entrytype="article",
+    volume="16",
+    number="2",
+    doi="10.1109/52.754047",
+    note="cited By 32",
+    ID="Kautz199914",
+    placex="IEEE Software",
+))
+
+kautz1999b = DB(WorkUnrelated(
+    1999, "Software Process Improvement in very Small Enterprises: Does it pay off?",
+    display="kautz b",
+    authors="Kautz, K.",
+    place=SPIP,
+    entrytype="article",
+    volume="5",
+    note="cited By 2",
+    ID="Kautz1999",
+    placex="Journal of the Software Process-Improvement and Practice",
+))
+
 martinsons1999a = DB(WorkUnrelated(
     1999, "The balanced scorecard: A foundation for the strategic management of information systems",
     display="martinsons",
