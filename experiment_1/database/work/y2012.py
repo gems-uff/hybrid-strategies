@@ -295,6 +295,22 @@ draghici2012a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+eremenko2012a = DB(WorkUnrelated(
+    2012, "Software of Information-Measurement System for Standardless Diagnostic of Composite Materials",
+    display="eremenko",
+    authors="Eremenko, VS and Pereidenko, AV",
+    place=ESE,
+    pp="65--76",
+    entrytype="article",
+    volume="2",
+    number="3",
+    publisher="Scientific & Academic Publishing",
+    ID="eremenko2012software",
+    clusterid="9241644097677689345",
+    scholar="http://scholar.google.com/scholar?cites=9241644097677689345&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering",
+))
+
 haigh2012a = DB(WorkUnrelated(
     2012, "Requirements engineering for business stakeholders: applying quality views framework to software",
     display="haigh",
@@ -469,6 +485,34 @@ lepmets2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=72631659526478855&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+leschera2012a = DB(WorkUnrelated(
+    2012, "Project Management Metrics in the Age of Global Software Engineering",
+    display="leschera",
+    authors="Leschera, Christian and Naughtona, Helmut and Brueggea, Bernd and Schulzb, Christopher and Neubertb, Christian and Matthesb, Florian",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="leschera2012project",
+    cluster_id="9942997634118535347",
+    scholar="http://scholar.google.com/scholar?cites=9942997634118535347&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the Software Metric Congress (MetriKon), Stuttgart",
+))
+
+lew2012a = DB(WorkUnrelated(
+    2012, "An integrated strategy to systematically understand and manage quality in use for web applications",
+    display="lew",
+    authors="Lew, Philip and Olsina, Luis and Becker, Pablo and Zhang, Li",
+    place=FAKE,
+    pp="299--330",
+    entrytype="article",
+    volume="17",
+    number="4",
+    publisher="Springer",
+    ID="lew2012integrated",
+    clusterid="1175773906040033957",
+    scholar="http://scholar.google.com/scholar?cites=1175773906040033957&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering",
+))
+
 lim2012a = DB(WorkUnrelated(
     2012, "Hybrid genetic algorithm and association rules for mining workflow best practices",
     display="lim",
@@ -502,6 +546,17 @@ lópez2012a = DB(WorkUnrelated(
     placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
 ))
 
+machado2012a = DB(WorkUnrelated(
+    2012, "From Information Systems Requirements to Service-Oriented Logical Architectures",
+    display="machado",
+    authors="Machado, Doutor Ricardo J",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="machado2012information",
+    local="Universidade do Minho",
+    placex="",
+))
+
 mesquida2012a = DB(WorkUnrelated(
     2012, "\IT\ Service Management Process Improvement based on ISO/IEC 15504: A systematic review",
     display="mesquida",
@@ -521,6 +576,22 @@ mesquida2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+monden2012a = DB(WorkUnrelated(
+    2012, "Customizing GQM models for software project monitoring",
+    display="monden",
+    authors="Monden, Akito and Matsumura, Tomoko and Barker, Mike and Torii, Koji and Basili, Victor R",
+    place=FAKE,
+    pp="2169--2182",
+    entrytype="article",
+    volume="95",
+    number="9",
+    publisher="The Institute of Electronics, Information and Communication Engineers",
+    ID="monden2012customizing",
+    clusterid="9016798503342365534",
+    scholar="http://scholar.google.com/scholar?cites=9016798503342365534&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEICE TRANSACTIONS on Information and Systems",
+))
+
 murphy2012a = DB(WorkUnrelated(
     2012, "An analysis of non-observance of best practice in a software measurement program",
     display="murphy",
@@ -538,6 +609,57 @@ murphy2012a = DB(WorkUnrelated(
     ID="Murphy201250",
     sciencedirect="1",
     placex="Procedia Technology",
+))
+
+münch2012a = DB(WorkUnrelated(
+    2012, "Evolving process simulators by using validated learning",
+    display="münch",
+    authors="Münch, Jürgen",
+    place=FAKE,
+    pp="226--227",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="munch2012evolving",
+    clusterid="7076285677612781205",
+    scholar="http://scholar.google.com/scholar?cites=7076285677612781205&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software and System Process (ICSSP), 2012 International Conference on",
+))
+
+olsina2012a = DB(WorkUnrelated(
+    2012, "Bridging the Gap between Security/Risk and Quality",
+    display="olsina",
+    authors="Olsina, Luis and Pesotskaya, Elena and Dieser, Alexander and Covella, Guillermo",
+    place=FAKE,
+    entrytype="article",
+    ID="olsinabridging",
+    placex="",
+))
+
+papa2012a = DB(WorkUnrelated(
+    2012, "Toward the improvement of a measurement and evaluation strategy from a comparative study",
+    display="papa",
+    authors="Papa, Fernanda",
+    place=ICSE,
+    pp="189--203",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="papa2012toward",
+    clusterid="6085209771639342692",
+    scholar="http://scholar.google.com/scholar?cites=6085209771639342692&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Web Engineering",
+))
+
+papa2012b = DB(WorkUnrelated(
+    2012, "Aspectos de Mejora de una Estrategia de Medición y Evaluación a partir de un Análisis Comparativo de Estrategias Integradas.",
+    display="papa b",
+    authors="Papa, María Fernanda and Olsina, Luis",
+    place=FAKE,
+    pp="168--181",
+    entrytype="inproceedings",
+    ID="papa2012aspectos",
+    cluster_id="14699900230036465013",
+    scholar="http://scholar.google.com/scholar?cites=14699900230036465013&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="CIbSE",
 ))
 
 pardo2012a = DB(WorkUnrelated(

@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abdulameer2015a = DB(WorkUnrelated(
+    2015, "The requirements management practices: A study at UUM IT",
+    display="abdulameer",
+    authors="Abdulameer, Enas Fadhil",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="abdulameer2015requirements",
+    local="Universiti Utara Malaysia",
+    placex="",
+))
+
 ali2015a = DB(WorkUnrelated(
     2015, "Evaluation of simulation-assisted value stream mapping for software product development: Two industrial cases",
     display="ali",
@@ -22,6 +33,22 @@ ali2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+becker2015a = DB(WorkUnrelated(
+    2015, "Process ontology specification for enhancing the process compliance of a measurement and evaluation strategy",
+    display="becker",
+    authors="Becker, Pablo and Papa, Fernanda and Olsina, Luis",
+    place=FAKE,
+    pp="3--3",
+    entrytype="article",
+    volume="18",
+    number="1",
+    publisher="Centro Latinoamericano de Estudios en Informática",
+    ID="becker2015process",
+    clusterid="12935000341823208895",
+    scholar="http://scholar.google.com/scholar?cites=12935000341823208895&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="CLEI Electronic Journal",
+))
+
 beheshitha2015a = DB(WorkUnrelated(
     2015, "A Process Mining Approach to Linking the Study of Aptitude and Event Facets of Self-regulated Learning",
     display="beheshitha",
@@ -35,6 +62,19 @@ beheshitha2015a = DB(WorkUnrelated(
     ID="Beheshitha:2015:PMA:2723576.2723628",
     acm="1",
     placex="Proceedings of the Fifth International Conference on Learning Analytics And Knowledge",
+))
+
+bird2015a = DB(WorkUnrelated(
+    2015, "The art and science of analyzing software data",
+    display="bird",
+    authors="Bird, Christian and Menzies, Tim and Zimmermann, Thomas",
+    place=Book,
+    entrytype="book",
+    publisher="Elsevier",
+    ID="bird2015art",
+    cluster_id="17076366919598171728",
+    scholar="http://scholar.google.com/scholar?cites=17076366919598171728&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 cakula2015a = DB(WorkUnrelated(
@@ -312,6 +352,36 @@ kim2015a = DB(WorkUnrelated(
     placex="Mobile Game Industry Points of View",
 ))
 
+kläs2015a = DB(WorkUnrelated(
+    2015, "A large-scale technology evaluation study: effects of model-based analysis and testing",
+    display="kläs",
+    authors="Kläs, Michael and Bauer, Thomas and Dereani, Andreas and Söderqvist, Thomas and Helle, Philipp",
+    place=ICSE,
+    pp="119--128",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="klas2015large",
+    clusterid="9247112288697275475",
+    scholar="http://scholar.google.com/scholar?cites=9247112288697275475&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 37th International Conference on Software Engineering-Volume 2",
+))
+
+koumaditis2015a = DB(WorkUnrelated(
+    2015, "A detailed framework for SOA governance",
+    display="koumaditis",
+    authors="Koumaditis, Konstantinos and Themistocleous, Marinos",
+    place=FAKE,
+    pp="52--74",
+    entrytype="article",
+    volume="5",
+    number="3",
+    publisher="IGI Global",
+    ID="koumaditis2015detailed",
+    cluster_id="2290734024937289666",
+    scholar="http://scholar.google.com/scholar?cites=2290734024937289666&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Systems and Service-Oriented Engineering (IJSSOE)",
+))
+
 kowalczyk2015a = DB(WorkUnrelated(
     2015, "An ambidextrous perspective on business intelligence and analytics support in decision processes: Insights from a multiple case study",
     display="kowalczyk",
@@ -329,6 +399,33 @@ kowalczyk2015a = DB(WorkUnrelated(
     ID="Kowalczyk20151",
     sciencedirect="1",
     placex="Decision Support Systems",
+))
+
+lavazza2015a = DB(WorkUnrelated(
+    2015, "Defining and evaluating software project success indicators: A GQM-based case study",
+    display="lavazza",
+    authors="Lavazza, Luigi and Frumento, Enrico and Mazza, Riccardo",
+    place=FAKE,
+    pp="1--12",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="lavazza2015defining",
+    cluster_id="1327648066075759788",
+    scholar="http://scholar.google.com/scholar?cites=1327648066075759788&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Technologies (ICSOFT), 2015 10th International Joint Conference on",
+))
+
+lavazza2015b = DB(WorkUnrelated(
+    2015, "GQM-Based Definition and Evaluation of Software Project Success Indicators",
+    display="lavazza b",
+    authors="Lavazza, Luigi and Frumento, Enrico and Mazza, Riccardo",
+    place=ICSE,
+    pp="228--249",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lavazza2015gqm",
+    placex="International Conference on Software Technologies",
 ))
 
 liberato2015a = DB(WorkUnrelated(
@@ -411,6 +508,19 @@ mesquida2015a = DB(WorkUnrelated(
     placex="Computers & Security",
 ))
 
+murphy2015a = DB(WorkUnrelated(
+    2015, "Towards holistic goal centered performance management in software development: lessons from a best practice analysis",
+    display="murphy",
+    authors="Murphy, Thomas and Cormican, Kathryn",
+    place=FAKE,
+    entrytype="article",
+    publisher="SciKA",
+    ID="murphy2015towards",
+    clusterid="10785371662697807519",
+    scholar="http://scholar.google.com/scholar?cites=10785371662697807519&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Information Systems and Project Management",
+))
+
 nilsson2015a = DB(WorkUnrelated(
     2015, "Assessing the effects of introducing a new software development process: a methodological description",
     display="nilsson",
@@ -445,6 +555,19 @@ oConnor2015a = DB(WorkSnowball(
     organization="ACM",
     cluster_id="8321741387367091387",
     scholar_ok=True,
+))
+
+papa2015a = DB(WorkUnrelated(
+    2015, "Aseguramiento de la calidad de un recurso organizacional: evaluando y mejorando una estrategia integrada de medición y evaluación",
+    display="papa",
+    authors="Papa, María Fernanda",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="papa2015aseguramiento",
+    cluster_id="4430853393341192674",
+    scholar="http://scholar.google.com/scholar?cites=4430853393341192674&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Facultad de Informática",
+    placex="",
 ))
 
 pernstål2015a = DB(WorkUnrelated(
@@ -517,6 +640,31 @@ ramos2015a = DB(WorkUnrelated(
     cluster_id="13048923855479572684",
     scholar="http://scholar.google.com/scholar?cites=13048923855479572684&as_sdt=2005&sciodt=0,5&hl=en",
     placex="XIV Simpósio Brasileiro de Qualidade de Software (SBQS 2015)",
+))
+
+rivera2015a = DB(WorkUnrelated(
+    2015, "Strategy Patterns for Evaluating and Improving Usability",
+    display="rivera",
+    authors="Rivera, Belen and Becker, Pablo and Lew, Philip and Olsina Santos, Luis Antonio",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="rivera2015strategy",
+    cluster_id="3897162626021776907",
+    scholar="http://scholar.google.com/scholar?cites=3897162626021776907&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Simposio Argentino de Ingeniería de Software (ASSE 2015)-JAIIO 44 (Rosario, 2015)",
+))
+
+rivera2015ab = DB(WorkUnrelated(
+    2015, "Patrones de Estrategia para Proyectos de Medición, Evaluación y Mejora",
+    display="rivera",
+    authors="Rivera, Belén and Becker, Pablo and Olsina, Luis",
+    place=FAKE,
+    pp="166--180",
+    entrytype="inproceedings",
+    ID="rivera15patrones",
+    cluster_id="13549070303153974173",
+    scholar="http://scholar.google.com/scholar?cites=13549070303153974173&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="XVIII Conferencia Iberoamericana en Software Engineering (CIbSE15), Lima, Perú",
 ))
 
 rosa2015a = DB(WorkUnrelated(
@@ -693,4 +841,20 @@ zarour2015a = DB(WorkUnrelated(
     ID="Zarour2015180",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+álvarez2015a = DB(WorkUnrelated(
+    2015, "A Scorecard Framework Proposal for Improving Software Factories Sustainability: A Case Study of a Spanish Firm in the Financial Sector",
+    display="álvarez",
+    authors="Álvarez, César and Rodríguez, Vicente and Ortega, Francisco and Villanueva, Joaquín",
+    place=FAKE,
+    pp="15999--16021",
+    entrytype="article",
+    volume="7",
+    number="12",
+    publisher="Multidisciplinary Digital Publishing Institute",
+    ID="alvarez2015scorecard",
+    clusterid="1264681081411580222",
+    scholar="http://scholar.google.com/scholar?cites=1264681081411580222&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Sustainability",
 ))

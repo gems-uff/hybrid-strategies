@@ -130,6 +130,7 @@ basili2013a = DB(WorkUnrelated(
     ID="20134116830564",
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    scholar="http://scholar.google.com/scholar?cites=9467926839729077347&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 buglione2013a = DB(WorkUnrelated(
@@ -208,6 +209,20 @@ daneva2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+doerr2013a = DB(WorkUnrelated(
+    2013, "Modeling Complex Information Systems",
+    display="doerr",
+    authors="Doerr, Joerg",
+    place=FAKE,
+    pp="95--109",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="doerr2013modeling",
+    cluster_id="11677012338276482477",
+    scholar="http://scholar.google.com/scholar?cites=11677012338276482477&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Perspectives on the Future of Software Engineering",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -221,6 +236,20 @@ elliott2013a = DB(WorkUnrelated(
     ID="Elliott:2013:NAP:2492002.2482556",
     acm="1",
     placex="Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
+))
+
+ferreira2013a = DB(WorkUnrelated(
+    2013, "Aligning domain-related models for creating context for software product design",
+    display="ferreira",
+    authors="Ferreira, Nuno and Santos, Nuno and Machado, Ricardo J and Ga{}evi{c?}, Dragan",
+    place=ICSE,
+    pp="168--190",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ferreira2013aligning",
+    clusterid="16961306956407146149",
+    scholar="http://scholar.google.com/scholar?cites=16961306956407146149&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Quality",
 ))
 
 garcíaguzmán2013a = DB(WorkUnrelated(
@@ -278,6 +307,21 @@ gencel2013a = DB(WorkUnrelated(
     ID="Gencel20133091",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    scholar="http://scholar.google.com/scholar?cites=18058320781439869662&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+giannoulis2013a = DB(WorkUnrelated(
+    2013, "Model-centric strategy-IT alignment: An empirical study in progress",
+    display="giannoulis",
+    authors="Giannoulis, Constantinos and Zdravkovic, Jelena and Petit, Michaël",
+    place=FAKE,
+    pp="146--155",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="giannoulis2013model",
+    clusterid="13106911384862267666",
+    scholar="http://scholar.google.com/scholar?cites=13106911384862267666&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Advanced Information Systems Engineering",
 ))
 
 gu2013a = DB(WorkUnrelated(
@@ -314,6 +358,18 @@ gu2013b = DB(WorkUnrelated(
     placex="Information & Management",
 ))
 
+guinea2013a = DB(WorkUnrelated(
+    2013, "A Design Methodology for Software Measurement Programs",
+    display="guinea",
+    authors="Guinea, Alejandro Sanchez",
+    place=FAKE,
+    entrytype="article",
+    ID="guinea2013design",
+    cluster_id="13231135432861665807",
+    scholar="http://scholar.google.com/scholar?cites=13231135432861665807&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1307.4695",
+))
+
 haghighatfar2013a = DB(WorkUnrelated(
     2013, "Presentation of an approach for adapting software production process based ISO/IEC 12207 to ITIL Service",
     display="haghighatfar",
@@ -341,6 +397,20 @@ hamouda2013a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+heidrich2013a = DB(WorkUnrelated(
+    2013, "Continuous Process Improvement",
+    display="heidrich",
+    authors="Heidrich, Jens",
+    place=FAKE,
+    pp="111--129",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="heidrich2013continuous",
+    cluster_id="3543340852900275371",
+    scholar="http://scholar.google.com/scholar?cites=3543340852900275371&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Perspectives on the Future of Software Engineering",
+))
+
 herranz2013a = DB(WorkUnrelated(
     2013, "Towards a New Approach to Supporting Top Managers in \SPI\ Organizational Change Management",
     display="herranz",
@@ -360,6 +430,18 @@ herranz2013a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+hästbacka2013a = DB(WorkUnrelated(
+    2013, "Developing Modern lndustrial Control Applications: On lnformation Models, Methods and Processes for Distributed Engineering",
+    display="hästbacka",
+    authors="Hästbacka, David",
+    place=FAKE,
+    entrytype="article",
+    ID="hastbacka2013developing",
+    cluster_id="6705139609000744247",
+    scholar="http://scholar.google.com/scholar?cites=6705139609000744247&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Tampereen teknillinen yliopisto. Julkaisu-Tampere University of Technology. Publication; 1143",
+))
+
 iivari2013a = DB(WorkUnrelated(
     2013, "Usability Specialists as Boundary Spanners -- An Appraisal of Usability Specialists' Work in Multiparty Distributed Open Source Software Development Effort",
     display="iivari",
@@ -373,6 +455,20 @@ iivari2013a = DB(WorkUnrelated(
     ID="10.1007/978-3-642-40480-1_40",
     springer="1",
     placex="Human-Computer Interaction -- INTERACT 2013",
+))
+
+jedlitschka2013a = DB(WorkUnrelated(
+    2013, "Empirical practice in software engineering",
+    display="jedlitschka",
+    authors="Jedlitschka, Andreas and Guzmán, Liliana and Jung, Jessica and Lampasona, Constanza and Steinbach, Silke",
+    place=FAKE,
+    pp="217--233",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="jedlitschka2013empirical",
+    clusterid="836246177339156723",
+    scholar="http://scholar.google.com/scholar?cites=836246177339156723&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Perspectives on the Future of Software Engineering",
 ))
 
 kasoju2013a = DB(WorkUnrelated(
@@ -421,6 +517,36 @@ khraiwesh2013a = DB(WorkUnrelated(
     publisher="Academy & Industry Research Collaboration Center (AIRCC)",
     ID="khraiwesh2013project",
     placex="International Journal of Computer Science & Information Technology",
+))
+
+kläs2013a = DB(WorkUnrelated(
+    2013, "Beyond herding cats: aligning quantitative technology evaluation in large-scale research projects",
+    display="kläs",
+    authors="Kläs, Michael and Bauer, Thomas and Tiberi, Ubaldo",
+    place=ICPFSPI,
+    pp="80--92",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="klas2013beyond",
+    clusterid="3628608704940185612",
+    scholar="http://scholar.google.com/scholar?cites=3628608704940185612&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
+lavazza2013a = DB(WorkUnrelated(
+    2013, "Business goals, user needs, and requirements: A problem frame-based view",
+    display="lavazza",
+    authors="Lavazza, Luigi",
+    place=FAKE,
+    pp="215--232",
+    entrytype="article",
+    volume="30",
+    number="3",
+    publisher="Wiley Online Library",
+    ID="lavazza2013business",
+    cluster_id="250457214517349441",
+    scholar="http://scholar.google.com/scholar?cites=250457214517349441&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Expert Systems",
 ))
 
 lee2013a = DB(WorkUnrelated(
@@ -533,6 +659,60 @@ münch2013b = DB(WorkUnrelated(
     ID="Münch2013",
 ))
 
+münch2013c = DB(WorkUnrelated(
+    2013, "Experiences and insights from applying gqm+ strategies in a systems product development organisation",
+    display="münch c",
+    authors="Münch, Jürgen and Fagerholm, Fabian and Kettunen, Petri and Pagels, Max and Partanen, Jari",
+    place=SEAA,
+    pp="70--77",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="munch2013experiences",
+    clusterid="12219098581311741649",
+    scholar="http://scholar.google.com/scholar?cites=12219098581311741649&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2013 39th EUROMICRO Conference on",
+))
+
+münch2013d = DB(WorkUnrelated(
+    2013, "The effects of gqm+ strategies on organizational alignment",
+    display="münch d",
+    authors="Münch, Jürgen and Fagerholm, Fabian and Kettunen, Petri and Pagels, Max and Partanen, Jari",
+    place=FAKE,
+    entrytype="article",
+    ID="munch2013effects",
+    clusterid="3182239711427877041",
+    scholar="http://scholar.google.com/scholar?cites=3182239711427877041&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1311.6221",
+))
+
+novais2013a = DB(WorkUnrelated(
+    2013, "Software evolution visualization: A systematic mapping study",
+    display="novais",
+    authors="Novais, Renato Lima and Torres, André and Mendes, Thiago Souto and Mendon{ç}a, Manoel and Zazworka, Nico",
+    place=IST,
+    pp="1860--1883",
+    entrytype="article",
+    volume="55",
+    number="11",
+    publisher="Elsevier",
+    ID="novais2013software",
+    clusterid="16463700369166489013",
+    scholar="http://scholar.google.com/scholar?cites=16463700369166489013&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
+oberscheven2013a = DB(WorkUnrelated(
+    2013, "Software Quality Assessment in an Agile Environment",
+    display="oberscheven",
+    authors="Oberscheven, Falk Martin",
+    place=FAKE,
+    entrytype="article",
+    ID="oberscheven2013software",
+    clusterid="8972821853596261518",
+    scholar="http://scholar.google.com/scholar?cites=8972821853596261518&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Faculty of Science of Radboud University in Nijmegen.",
+))
+
 oloniteru2013a = DB(WorkUnrelated(
     2013, "On Ekiti's Smart Governance for Development Approach: A Reflexive Account",
     display="oloniteru",
@@ -546,6 +726,19 @@ oloniteru2013a = DB(WorkUnrelated(
     ID="Oloniteru:2013:ESG:2591888.2591920",
     acm="1",
     placex="Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance",
+))
+
+osadchyy2013a = DB(WorkUnrelated(
+    2013, "Natural systematic approaches to offshore software development opportunities beyound traditional benefits: A grounded theory study",
+    display="osadchyy",
+    authors="Osadchyy, Oleksandr",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="osadchyy2013natural",
+    cluster_id="7824840779280033486",
+    scholar="http://scholar.google.com/scholar?cites=7824840779280033486&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Phoenix",
+    placex="",
 ))
 
 pardo2013a = DB(WorkUnrelated(
@@ -609,6 +802,19 @@ teixeira2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="teixeira2013towards",
     placex="VI Seminar on Ontology Research in Brazil",
+))
+
+trendowicz2013a = DB(WorkUnrelated(
+    2013, "Software Cost Estimation, Benchmarking, and Risk Assessment: The Software Decision-Makers' Guide to Predictable Software Development",
+    display="trendowicz",
+    authors="Trendowicz, Adam",
+    place=Book,
+    entrytype="book",
+    publisher="Springer Science & Business Media",
+    ID="trendowicz2013software",
+    clusterid="3161032578968285420",
+    scholar="http://scholar.google.com/scholar?cites=3161032578968285420&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 ullah2013a = DB(WorkUnrelated(

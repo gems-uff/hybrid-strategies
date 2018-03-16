@@ -1,0 +1,73 @@
+forward nao realizado:
+basili2010a:
+
+
+insert('''
+alignment0a = DB(WorkUnrelated(
+    0, "ASCIENTIAE RERUM",
+    display="alignment",
+    authors="ALIGNMENT, VALUE",
+    place=FAKE,
+    entrytype="article",
+    ID="alignmentascientiae",
+    placex="",
+))
+
+DB(Citation(
+    alignment0a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+''', citations='basili2010a');
+
+insert('''
+anders0a = DB(WorkUnrelated(
+    0, "Internet Marketing Metrics--Analogies with Software Engineering",
+    display="anders",
+    authors="Anders, CMS",
+    place=FAKE,
+    entrytype="article",
+    ID="andersinternet",
+    placex="",
+))
+
+DB(Citation(
+    anders0a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+''', citations='basili2010a');
+
+
+# Temp
+insert('''
+heidrich0a = DB(WorkUnrelated(
+    0, "4 Evidence-based Quality Management of Software De-velopment Projects",
+    display="heidrich",
+    authors="Heidrich, Jens and Rombach, Dieter and Kläs, Michael",
+    place=FAKE,
+    entrytype="article",
+    ID="heidrich4",
+    placex="",
+))
+
+DB(Citation(
+    heidrich0a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+''', citations='basili2010a');
+
+
+@phdthesis{ferreira2012information,
+  title={From information systems requirements to service-oriented logical architectures},
+  author={Ferreira, Nuno Alexandre Castro},
+  year={2012},
+  school={Universidade do Minho (Portugal)}
+}

@@ -133,6 +133,20 @@ becker2011a = DB(WorkUnrelated(
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
 ))
 
+becker2011b = DB(WorkUnrelated(
+    2011, "Strategy to improve quality for software applications: a process view",
+    display="becker b",
+    authors="Becker, Pablo and Lew, Philip and Olsina, Luis",
+    place=FAKE,
+    pp="129--138",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="becker2011strategy",
+    clusterid="12579974428954366612",
+    scholar="http://scholar.google.com/scholar?cites=12579974428954366612&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2011 International Conference on Software and Systems Process",
+))
+
 cantor2011a = DB(WorkUnrelated(
     2011, "Calculating and Improving ROI in Software and System Programs",
     display="cantor",
@@ -148,6 +162,30 @@ cantor2011a = DB(WorkUnrelated(
     ID="Cantor:2011:CIR:1995376.1995404",
     acm="1",
     placex="Commun. ACM",
+))
+
+cedergren2011a = DB(WorkUnrelated(
+    2011, "Performance in product development-the case of complex products",
+    display="cedergren",
+    authors="Cedergren, Stefan",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="cedergren2011performance",
+    cluster_id="202304388261866195",
+    scholar="http://scholar.google.com/scholar?cites=202304388261866195&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Mälardalen University",
+    placex="",
+))
+
+cedergren2011b = DB(WorkUnrelated(
+    2011, "Making the Important Measurable",
+    display="cedergren b",
+    authors="Cedergren, Stefan and Eriksson, Joakim and Larsson, Stig",
+    place=FAKE,
+    entrytype="article",
+    publisher="Miami Beach, USA",
+    ID="cedergren2011making",
+    placex="International Association for Management of Technology IAMOT 2011 Proceedings",
 ))
 
 colomo2011a = DB(WorkUnrelated(
@@ -514,6 +552,20 @@ lane2011a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+lavazza2011a = DB(WorkUnrelated(
+    2011, "Multi-scope evaluation of public administration initiatives in process automation",
+    display="lavazza",
+    authors="Lavazza, Luigi",
+    place=ECIME,
+    pp="294",
+    entrytype="inproceedings",
+    organization="Academic Conferences International Limited",
+    ID="lavazza2011multi",
+    cluster_id="6123578036232221044",
+    scholar="http://scholar.google.com/scholar?cites=6123578036232221044&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Information Management and Evaluation",
+))
+
 lee2011a = DB(WorkUnrelated(
     2011, "Determinants of knowledge mapping adoption in software maintenance",
     display="lee",
@@ -522,6 +574,33 @@ lee2011a = DB(WorkUnrelated(
     entrytype="article",
     ID="lee2011determinants",
     placex="",
+))
+
+lescher2011a = DB(WorkUnrelated(
+    2011, "Collaboration-based Metrics for Project Management Support in Global Software Engineering",
+    display="lescher",
+    authors="Lescher, Christian",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="lescher2011collaboration",
+    clusterid="1902300020669107441",
+    scholar="http://scholar.google.com/scholar?cites=1902300020669107441&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Technische Universität München",
+    placex="",
+))
+
+lew2011a = DB(WorkUnrelated(
+    2011, "Instantiating web quality models in a purposeful way",
+    display="lew",
+    authors="Lew, Philip and Olsina, Luis",
+    place=ICSE,
+    pp="214--227",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lew2011instantiating",
+    cluster_id="16362575320374151430",
+    scholar="http://scholar.google.com/scholar?cites=16362575320374151430&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Web Engineering",
 ))
 
 mujtaba2011a = DB(WorkUnrelated(
@@ -550,6 +629,36 @@ nieters2011a = DB(WorkUnrelated(
     ID="Nieters:2011:LCC:1979742.1979671",
     acm="1",
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+olsina2011a = DB(WorkUnrelated(
+    2011, "Using web quality models and a strategy for purpose-oriented evaluations",
+    display="olsina",
+    authors="Olsina, Luis and Lew, Philip and Dieser, Alexander and Rivera, Belen",
+    place=FAKE,
+    pp="316--352",
+    entrytype="article",
+    volume="10",
+    number="4",
+    publisher="Rinton Press, Incorporated",
+    ID="olsina2011using",
+    clusterid="8861879371188813768",
+    scholar="http://scholar.google.com/scholar?cites=8861879371188813768&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Web Engineering",
+))
+
+olsina2011b = DB(WorkUnrelated(
+    2011, "Assessing integrated measurement and evaluation strategies: A case study",
+    display="olsina b",
+    authors="Olsina, Luis and Papa, Maria Fernanda and Becker, Pablo",
+    place=SEC,
+    pp="1--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="olsina2011assessing",
+    clusterid="11253861838833437973",
+    scholar="http://scholar.google.com/scholar?cites=11253861838833437973&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference in Russia (CEE-SECR), 2011 7th Central and Eastern European",
 ))
 
 pelrine2011a = DB(WorkUnrelated(
@@ -746,6 +855,7 @@ trendowicz2011a = DB(WorkUnrelated(
     art_number="6113054",
     note="cited By 11",
     ID="Trendowicz2011142",
+    scholar="http://scholar.google.com/scholar?cites=2354941768345762676&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 valdés2011a = DB(WorkUnrelated(

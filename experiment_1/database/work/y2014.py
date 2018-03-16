@@ -74,6 +74,19 @@ baskerville2014a = DB(WorkUnrelated(
     placex="Information & Management",
 ))
 
+becker2014a = DB(WorkUnrelated(
+    2014, "Visión de proceso de estrategias integradas de medición y evaluación de calidad",
+    display="becker",
+    authors="Becker, Pablo",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="becker2014vision",
+    cluster_id="9781126343364591257",
+    scholar="http://scholar.google.com/scholar?cites=9781126343364591257&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Facultad de Informática",
+    placex="",
+))
+
 bosch2014a = DB(WorkUnrelated(
     2014, "ESAO: Towards Data- and Ecosystem-driven R&#38;D",
     display="bosch",
@@ -134,6 +147,36 @@ carlson2014a = DB(WorkUnrelated(
     placex="Innovations in Systems and Software Engineering",
 ))
 
+cedergren2014a = DB(WorkUnrelated(
+    2014, "Evaluating performance in the development of software-intensive products",
+    display="cedergren",
+    authors="Cedergren, Stefan and Larsson, Stig",
+    place=IST,
+    pp="516--526",
+    entrytype="article",
+    volume="56",
+    number="5",
+    publisher="Elsevier",
+    ID="cedergren2014evaluating",
+    clusterid="1737899589256697815",
+    scholar="http://scholar.google.com/scholar?cites=1737899589256697815&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
+cocozza2014a = DB(WorkUnrelated(
+    2014, "Application of GQM+ Strategies in a small software development unit",
+    display="cocozza",
+    authors="Cocozza, Francisco and Brenes, Enrique and Herrera, Gustavo López and Jenkins, Marcelo and Martínez, Alexandra",
+    place=ICPFSPI,
+    pp="108--118",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cocozza2014application",
+    cluster_id="11421519945726743811",
+    scholar="http://scholar.google.com/scholar?cites=11421519945726743811&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
 costa2014a = DB(WorkUnrelated(
     2014, "Challenges in Computing Semantic Relatedness for Large Semantic Graphs",
     display="costa",
@@ -184,6 +227,18 @@ diirr2014a = DB(WorkUnrelated(
     placex="Journal of Software Engineering Research and Development",
 ))
 
+ebner2014a = DB(WorkUnrelated(
+    2014, "IT{{?}} S NOT FAIR! A MULTILEVEL CONCEPTUALIZATION OF STRATEGIC IT BENCHMARKING SUCCESS: THE ROLE OF PROCEDURAL JUSTICE",
+    display="ebner",
+    authors="Ebner, Katharina",
+    place=FAKE,
+    entrytype="article",
+    ID="ebner2014s",
+    cluster_id="4801376776918267602",
+    scholar="http://scholar.google.com/scholar?cites=4801376776918267602&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 eito2014a = DB(WorkUnrelated(
     2014, "Mapping of improvement models as a risk reduction strategy: a theoretical comparison for the aerospace industry",
     display="eito",
@@ -198,6 +253,20 @@ eito2014a = DB(WorkUnrelated(
     ID="Eito-Brun2014",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+))
+
+falessi2014a = DB(WorkUnrelated(
+    2014, "Trends and emerging areas of agile research: the report on XP2014 PhD symposium",
+    display="falessi",
+    authors="Falessi, Davide and Oliveira, Renan and Taylor, Katie and Fontana, Rafaela M and Power, Ken and Vallon, Raoul and Giardino, Carmine and Rejab, Mawarny Md and Wang, Xiaofeng",
+    place=FAKE,
+    pp="26--29",
+    entrytype="article",
+    volume="39",
+    number="5",
+    publisher="ACM",
+    ID="falessi2014trends",
+    placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
 felderer2014a = DB(WorkUnrelated(
@@ -250,6 +319,33 @@ ghanavati2014a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Workshop on Modeling in Software Engineering",
 ))
 
+giannoulis2014a = DB(WorkUnrelated(
+    2014, "Model-driven Alignment: Linking Business Strategy with Information Systems",
+    display="giannoulis",
+    authors="Giannoulis, Constantinos",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="giannoulis2014model",
+    cluster_id="3366368114726089015",
+    scholar="http://scholar.google.com/scholar?cites=3366368114726089015&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Department of Computer and Systems Sciences, Stockholm University",
+    placex="",
+))
+
+giardino2014a = DB(WorkUnrelated(
+    2014, "Why early-stage software startups fail: a behavioral framework",
+    display="giardino",
+    authors="Giardino, Carmine and Wang, Xiaofeng and Abrahamsson, Pekka",
+    place=ICSE,
+    pp="27--41",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="giardino2014early",
+    clusterid="7083650439239952290",
+    scholar="http://scholar.google.com/scholar?cites=7083650439239952290&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference of Software Business",
+))
+
 girata2014a = DB(WorkUnrelated(
     2014, "eGov Website Evolution Study Within Strategic Planning",
     display="girata",
@@ -263,6 +359,20 @@ girata2014a = DB(WorkUnrelated(
     ID="Girata:2014:EWE:2612733.2612774",
     acm="1",
     placex="Proceedings of the 15th Annual International Conference on Digital Government Research",
+))
+
+heidrich2014a = DB(WorkUnrelated(
+    2014, "Model-based quality management of software development projects",
+    display="heidrich",
+    authors="Heidrich, Jens and Rombach, Dieter and Kläs, Michael",
+    place=FAKE,
+    pp="125--156",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="heidrich2014model",
+    clusterid="9390974486667259205",
+    scholar="http://scholar.google.com/scholar?cites=9390974486667259205&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Project Management in a Changing World",
 ))
 
 hustad2014a = DB(WorkUnrelated(
@@ -298,6 +408,47 @@ huysmans2014a = DB(WorkUnrelated(
     placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
 ))
 
+jahn2014a = DB(WorkUnrelated(
+    2014, "Ein semantisches Netz des Informationsmanagements im Krankenhaus",
+    display="jahn",
+    authors="Jahn, Franziska and Schaaf, Michael and Paech, Barbara and Winter, Alfred",
+    place=FAKE,
+    entrytype="article",
+    publisher="Gesellschaft für Informatik eV",
+    ID="jahn2014semantisches",
+    clusterid="5107985676713965120",
+    scholar="http://scholar.google.com/scholar?cites=5107985676713965120&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatik 2014",
+))
+
+janes2014a = DB(WorkUnrelated(
+    2014, "The GQM+ Strategies approach",
+    display="janes",
+    authors="Janes, Andrea and Succi, Giancarlo",
+    place=FAKE,
+    pp="151--170",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="janes2014gqm+",
+    cluster_id="4694706684481748929",
+    scholar="http://scholar.google.com/scholar?cites=4694706684481748929&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Lean Software Development in Action",
+))
+
+kettunen2014a = DB(WorkUnrelated(
+    2014, "Realizing agile software enterprise transformations by team performance development",
+    display="kettunen",
+    authors="Kettunen, Petri",
+    place=FAKE,
+    pp="285--293",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kettunen2014realizing",
+    cluster_id="16638445088340865576",
+    scholar="http://scholar.google.com/scholar?cites=16638445088340865576&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
 kobori2014a = DB(WorkUnrelated(
     2014, "Identifying rationales of strategies by stakeholder relationship analysis to refine and maintain GQM+ Strategies models",
     display="kobori",
@@ -310,6 +461,20 @@ kobori2014a = DB(WorkUnrelated(
     cluster_id="8051179515907417104",
     scholar="http://scholar.google.com/scholar?cites=8051179515907417104&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product-Focused Software Process Improvement",
+))
+
+kobori2014b = DB(WorkUnrelated(
+    2014, "Efficient identification of rationales by stakeholder relationship analysis to refine and maintain GQM+ Strategies models",
+    display="kobori b",
+    authors="Kobori, Takanobu and Washizaki, Hironori and Fukazawa, Yoshiaki and Hirabayashi, Daisuke and Shintani, Katsutoshi and Okazaki, Yasuko and Kikushima, Yasuhiro",
+    place=FAKE,
+    pp="77--82",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="kobori2014efficient",
+    clusterid="13802030667887635799",
+    scholar="http://scholar.google.com/scholar?cites=13802030667887635799&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering",
 ))
 
 kudryashova2014a = DB(WorkUnrelated(
@@ -340,6 +505,22 @@ lepmets2014a = DB(WorkUnrelated(
     note="cited By 4",
     ID="Lepmets2014166",
     placex="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014",
+))
+
+liggesmeyer2014a = DB(WorkUnrelated(
+    2014, "Big Data in Smart Ecosystems",
+    display="liggesmeyer",
+    authors="Liggesmeyer, Peter and Dörr, Jörg and Heidrich, Jens",
+    place=FAKE,
+    pp="105--111",
+    entrytype="article",
+    volume="37",
+    number="2",
+    publisher="Springer",
+    ID="liggesmeyer2014big",
+    clusterid="3633901488445906827",
+    scholar="http://scholar.google.com/scholar?cites=3633901488445906827&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatik-Spektrum",
 ))
 
 mercer2014a = DB(WorkUnrelated(
@@ -439,6 +620,20 @@ odiit2014a = DB(WorkUnrelated(
     placex="Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology",
 ))
 
+olsina2014a = DB(WorkUnrelated(
+    2014, "Metrics and indicators as key organizational assets for ICT security assessment",
+    display="olsina",
+    authors="Olsina, Luis and Dieser, Alexander and Covella, Guillermo",
+    place=FAKE,
+    pp="25--44",
+    entrytype="incollection",
+    publisher="Elsevier",
+    ID="olsina2014metrics",
+    clusterid="14660506010384288685",
+    scholar="http://scholar.google.com/scholar?cites=14660506010384288685&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Emerging Trends in ICT Security",
+))
+
 orta2014a = DB(WorkUnrelated(
     2014, "Decision-making in \IT\ service management: a simulation based approach",
     display="orta",
@@ -475,6 +670,7 @@ paternoster2014a = DB(WorkUnrelated(
     ID="Paternoster20141200",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=18287134524021887105&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 petersen2014a = DB(WorkUnrelated(
@@ -489,6 +685,22 @@ petersen2014a = DB(WorkUnrelated(
     cluster_id="6766945048968557874",
     scholar="http://scholar.google.com/scholar?cites=6766945048968557874&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2014 international workshop on Long-term industrial collaboration on software engineering",
+))
+
+poligadu2014a = DB(WorkUnrelated(
+    2014, "An innovative measurement programme for agile governance",
+    display="poligadu",
+    authors="Poligadu, Aroun and Moloo, Raj Kishen",
+    place=FAKE,
+    pp="26--60",
+    entrytype="article",
+    volume="7",
+    number="1",
+    publisher="Inderscience Publishers Ltd",
+    ID="poligadu2014innovative",
+    cluster_id="9471240834052668959",
+    scholar="http://scholar.google.com/scholar?cites=9471240834052668959&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Agile Systems and Management",
 ))
 
 rahrovani2014a = DB(WorkUnrelated(
@@ -578,6 +790,18 @@ roditi2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+rombach2014a = DB(WorkUnrelated(
+    2014, "Measuring the Impact of Emergence in Business Applications",
+    display="rombach",
+    authors="Rombach, Dieter and Kläs, Michael and Webel, Christian",
+    place=FAKE,
+    pp="25--37",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="rombach2014measuring",
+    placex="Future Business Software",
+))
+
 simões2014a = DB(WorkUnrelated(
     2014, "Applying statistical process control in small sized evolutionary projects: results and lessons learned in the implementation of CMMI-DEV maturity level 5 in Synapsis Brazil",
     display="simões",
@@ -648,6 +872,35 @@ tessem2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+trendowicz2014a = DB(WorkUnrelated(
+    2014, "Aligning Organizations Through Measurement",
+    display="trendowicz",
+    authors="Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and Münch, Carolyn Seaman Jürgen and Rombach, Dieter",
+    place=FAKE,
+    entrytype="article",
+    publisher="Springer",
+    ID="trendowiczaligning",
+    cluster_id="1570309116013095076",
+    scholar="http://scholar.google.com/scholar?cites=1570309116013095076&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+unterkalmsteiner2014a = DB(WorkUnrelated(
+    2014, "A conceptual framework for SPI evaluation",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, Michael and Gorschek, Tony and Islam, AKM and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=JSEP,
+    pp="251--279",
+    entrytype="article",
+    volume="26",
+    number="2",
+    publisher="Wiley Online Library",
+    ID="unterkalmsteiner2014conceptual",
+    clusterid="3992581102195270532",
+    scholar="http://scholar.google.com/scholar?cites=3992581102195270532&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
+))
+
 verner2014a = DB(WorkUnrelated(
     2014, "Factors that motivate software engineering teams: A four country empirical study",
     display="verner",
@@ -703,6 +956,22 @@ vos2014a = DB(WorkUnrelated(
     placex="J. Emerg. Technol. Comput. Syst.",
 ))
 
+wallace2014a = DB(WorkUnrelated(
+    2014, "The adoption of software measures: A technology acceptance model (TAM) perspective",
+    display="wallace",
+    authors="Wallace, Linda G and Sheetz, Steven D",
+    place=FAKE,
+    pp="249--259",
+    entrytype="article",
+    volume="51",
+    number="2",
+    publisher="Elsevier",
+    ID="wallace2014adoption",
+    cluster_id="9880520453972790983",
+    scholar="http://scholar.google.com/scholar?cites=9880520453972790983&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information & Management",
+))
+
 youn2014a = DB(WorkUnrelated(
     2014, "Probabilistic Bug Localization via Statistical Inference Based on Partially Observed Data",
     display="youn",
@@ -748,4 +1017,20 @@ zeleti2014a = DB(WorkUnrelated(
     ID="Zeleti:2014:EBM:2612733.2612745",
     acm="1",
     placex="Proceedings of the 15th Annual International Conference on Digital Government Research",
+))
+
+zhang2014a = DB(WorkUnrelated(
+    2014, "Software process simulationat a crossroads?",
+    display="zhang",
+    authors="Zhang, He and Raffo, David and Birkhöltzer, Thomas and Houston, Dan and Madachy, Raymond and Münch, Jürgen and Sutton, Stanley M",
+    place=JSEP,
+    pp="923--928",
+    entrytype="article",
+    volume="26",
+    number="10",
+    publisher="Wiley Online Library",
+    ID="zhang2014software",
+    clusterid="8328283334704392410",
+    scholar="http://scholar.google.com/scholar?cites=8328283334704392410&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
 ))

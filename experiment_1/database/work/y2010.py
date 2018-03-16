@@ -376,6 +376,18 @@ hauge2010b = DB(WorkUnrelated(
     placex="Open Source Software: New Horizons",
 ))
 
+hernández2010a = DB(WorkUnrelated(
+    2010, "Alineación de la gestión estratégica con la medición de productos y procesos para organizaciones de ingeniería del software",
+    display="hernández",
+    authors="Mitre Hernández, Hugo Arnoldo",
+    place=FAKE,
+    entrytype="article",
+    ID="mitre2010alineacion",
+    cluster_id="14076163248140744138",
+    scholar="http://scholar.google.com/scholar?cites=14076163248140744138&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 hinz2010a = DB(WorkUnrelated(
     2010, "Exploring the localization requirements for Kashubian Linux: Opening new markets for open-source development projects",
     display="hinz",
@@ -540,6 +552,19 @@ mandic2010a = DB(WorkUnrelated(
     ID="Mandic2010",
 ))
 
+mandic2010b = DB(WorkUnrelated(
+    2010, "An approach for evaluating business goals",
+    display="mandic b",
+    authors="Mandic, Vladimir and Basili, Victor",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Technical report, Technical Report TR TR-TOL-2010-2802, University of Oulu, Department of Information Processing Science",
+    ID="mandic2010approach",
+    clusterid="1906476414681462280",
+    scholar="http://scholar.google.com/scholar?cites=1906476414681462280&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -594,6 +619,7 @@ mandić2010c = DB(WorkUnrelated(
     doi="10.1007/978-3-642-14347-2_3",
     note="cited By 7",
     ID="Mandi?201014",
+    scholar="http://scholar.google.com/scholar?cites=7638361024929094617&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 mandić2010d = DB(WorkUnrelated(
@@ -608,6 +634,21 @@ mandić2010d = DB(WorkUnrelated(
     doi="10.1007/978-3-642-13792-1_23",
     note="cited By 5",
     ID="Mandić2010291",
+    scholar="http://scholar.google.com/scholar?cites=8738894608367720961&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+marca2010a = DB(WorkUnrelated(
+    2010, "E-Business and Social Networks: Tapping Dynamic Niche Markets Using Language-Action and Artificial Intelligence",
+    display="marca",
+    authors="Marca, David A",
+    place=FAKE,
+    pp="3--23",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="marca2010business",
+    cluster_id="3029816640265494237",
+    scholar="http://scholar.google.com/scholar?cites=3029816640265494237&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software and Data Technologies",
 ))
 
 mashapa2010a = DB(WorkUnrelated(
@@ -791,6 +832,8 @@ sarcia2010a = DB(WorkUnrelated(
     art_number="1852844",
     note="cited By 10",
     ID="Sarcia'2010",
+    scholar="http://scholar.google.com/scholar?cites=18340962611795161582&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
 ))
 
 softex2010a = DB(WorkUnrelated(
