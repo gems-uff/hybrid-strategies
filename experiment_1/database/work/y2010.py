@@ -541,30 +541,6 @@ lester2010a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
-mandic2010a = DB(WorkUnrelated(
-    2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
-    display="mandic",
-    authors="Mandic, V. and Basili, V.",
-    place=FAKE,
-    placex="Department of Information Processing Science",
-    entrytype="article",
-    note="cited By 1",
-    ID="Mandic2010",
-))
-
-mandic2010b = DB(WorkUnrelated(
-    2010, "An approach for evaluating business goals",
-    display="mandic b",
-    authors="Mandic, Vladimir and Basili, Victor",
-    place=TechReport,
-    entrytype="techreport",
-    institution="Technical report, Technical Report TR TR-TOL-2010-2802, University of Oulu, Department of Information Processing Science",
-    ID="mandic2010approach",
-    clusterid="1906476414681462280",
-    scholar="http://scholar.google.com/scholar?cites=1906476414681462280&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="",
-))
-
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -635,6 +611,30 @@ mandić2010d = DB(WorkUnrelated(
     note="cited By 5",
     ID="Mandić2010291",
     scholar="http://scholar.google.com/scholar?cites=8738894608367720961&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+mandić2010e = DB(WorkUnrelated(
+    2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
+    display="mandic e",
+    authors="Mandic, V. and Basili, V.",
+    place=FAKE,
+    placex="Department of Information Processing Science",
+    entrytype="article",
+    note="cited By 1",
+    ID="Mandic2010",
+))
+
+mandić2010f = DB(WorkUnrelated(
+    2010, "An approach for evaluating business goals",
+    display="mandic f",
+    authors="Mandic, Vladimir and Basili, Victor",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Technical report, Technical Report TR TR-TOL-2010-2802, University of Oulu, Department of Information Processing Science",
+    ID="mandic2010approach",
+    clusterid="1906476414681462280",
+    scholar="http://scholar.google.com/scholar?cites=1906476414681462280&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 marca2010a = DB(WorkUnrelated(

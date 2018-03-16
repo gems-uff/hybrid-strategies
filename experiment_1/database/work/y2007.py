@@ -65,16 +65,6 @@ basili2007a = DB(WorkUnrelated(
     ID="Basili200725",
 ))
 
-basili2007ab = DB(WorkUnrelated(
-    2007, "Aligning an Organizations Goals and Strategies through Measurement: GQM+Strategies{	extregistered}",
-    display="basili",
-    authors="Basili, Victor R",
-    place=FAKE,
-    entrytype="article",
-    ID="basilialigning",
-    placex="",
-))
-
 basili2007b = DB(WorkUnrelated(
     2007, "GQM+Strategies - Aligning business strategies with software measurement",
     display="basili b",

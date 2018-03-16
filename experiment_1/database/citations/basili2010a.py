@@ -13,16 +13,15 @@ from ..work.y2001 import bianchi2001a
 from ..work.y2003 import usddusa2003a
 from ..work.y2003 import card2003b
 from ..work.y2007 import basili2007a
-from ..work.y2007 import basili2007ab
 from ..work.y2010 import basili2010a
 from ..work.y2010 import code2010a
 from ..work.y2010 import guzmán2010a
 from ..work.y2010 import sarcia2010a
 from ..work.y2010 import mandić2010c
 from ..work.y2010 import mandić2010d
-from ..work.y2010 import mandic2010b
 from ..work.y2010 import hernández2010a
 from ..work.y2010 import marca2010a
+from ..work.y2010 import mandić2010f
 from ..work.y2011 import trendowicz2011a
 from ..work.y2011 import becker2011b
 from ..work.y2011 import olsina2011a
@@ -44,6 +43,8 @@ from ..work.y2012 import asghari2012a
 from ..work.y2012 import papa2012b
 from ..work.y2012 import machado2012a
 from ..work.y2012 import olsina2012a
+from ..work.y2012 import buse2012a
+from ..work.y2012 import mandić2012a
 from ..work.y2013 import novais2013a
 from ..work.y2013 import trendowicz2013a
 from ..work.y2013 import münch2013c
@@ -61,6 +62,7 @@ from ..work.y2013 import osadchyy2013a
 from ..work.y2013 import lavazza2013a
 from ..work.y2013 import heidrich2013a
 from ..work.y2013 import doerr2013a
+from ..work.y2013 import olsina2013a
 from ..work.y2014 import wallace2014a
 from ..work.y2014 import paternoster2014a
 from ..work.y2014 import giardino2014a
@@ -84,6 +86,7 @@ from ..work.y2014 import falessi2014a
 from ..work.y2014 import trendowicz2014a
 from ..work.y2014 import mitre2014a
 from ..work.y2014 import rombach2014a
+from ..work.y2014 import basili2014a
 from ..work.y2015 import bird2015a
 from ..work.y2015 import becker2015a
 from ..work.y2015 import kläs2015a
@@ -127,6 +130,8 @@ from ..work.y2017 import zapata2017a
 from ..work.y2017 import mughal2017a
 from ..work.y2018 import novais2018a
 from ..work.y2018 import sanchez2018a
+from ..work.y9999 import anders9999a
+from ..work.y9999 import heidrich9999a
 
 DB(Citation(
     basili2010a, basili1994a, ref="",
@@ -521,7 +526,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    mandic2010b, basili2010a, ref="",
+    mandić2010f, basili2010a, ref="",
     contexts=[
 
     ],
@@ -878,13 +883,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    basili2007ab, basili2010a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     khalifa2016a, basili2010a, ref="",
     contexts=[
 
@@ -991,6 +989,48 @@ DB(Citation(
 
 DB(Citation(
     lavazza2015b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    buse2012a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2012a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    olsina2013a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    anders9999a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    heidrich9999a, basili2010a, ref="",
     contexts=[
 
     ],

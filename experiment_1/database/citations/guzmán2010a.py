@@ -56,7 +56,7 @@ from ..work.y2012 import dadhich2012a
 from ..work.y2012 import lópez2012a
 from ..work.y2013 import hamouda2013a
 from ..work.y2013 import haghighatfar2013a
-from ..work.y2013 import valenciennes2013
+from ..work.y2013 import valenciennes2013a
 from ..work.y2014 import mitre2014a
 from ..work.y2014 import aguirre2014a
 from ..work.y2014 import mitrehernández2014a
@@ -474,14 +474,14 @@ DB(Citation(
 ))
 
 DB(Citation(
-    valenciennes2013, guzmán2010a, ref="",
+    valenciennes2013a, guzmán2010a, ref="",
     contexts=[
 
     ],
 ))
 
 DB(Citation(
-    valenciennes2013, guzmán2010a, ref="",
+    valenciennes2013a, guzmán2010a, ref="",
     contexts=[
 
     ],

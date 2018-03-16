@@ -125,6 +125,20 @@ bruyn2012a = DB(WorkUnrelated(
     placex="International journal on advances in systems and measurements",
 ))
 
+buse2012a = DB(WorkUnrelated(
+    2012, "Information needs for software development analytics",
+    display="buse",
+    authors="Buse, Raymond PL and Zimmermann, Thomas",
+    place=ICSE,
+    pp="987--996",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="buse2012information",
+    cluster_id="12643050587801762773",
+    scholar="http://scholar.google.com/scholar?cites=12643050587801762773&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 34th international conference on software engineering",
+))
+
 chouseinoglou2012a = DB(WorkUnrelated(
     2012, "A Model for Assessing Organizational Learning in Software Development Organizations",
     display="chouseinoglou",
@@ -554,6 +568,19 @@ machado2012a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="machado2012information",
     local="Universidade do Minho",
+    placex="",
+))
+
+mandić2012a = DB(WorkUnrelated(
+    2012, "Measurement-based value alignment and reasoning about organizational goals and strategies : studies with the ICT industry",
+    aliases=[
+        (0, "ASCIENTIAE RERUM", "ALIGNMENT, VALUE"),
+    ],
+    display="mandić",
+    authors="Mandić, Vladimir",
+    place=FAKE,
+    entrytype="article",
+    ID="alignmentascientiae",
     placex="",
 ))
 

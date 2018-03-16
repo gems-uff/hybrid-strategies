@@ -37,13 +37,13 @@ from ..work.y2009 import petersen2009a
 from ..work.y2009 import petersen2009b
 from ..work.y2009 import runeson2009a
 from ..work.y2010 import basili2010a
-from ..work.y2010 import mandic2010a
 from ..work.y2010 import mandić2010b
 from ..work.y2010 import mandić2010c
 from ..work.y2010 import mandić2010d
 from ..work.y2010 import petersen2010a
 from ..work.y2010 import petersen2010b
 from ..work.y2010 import sarcia2010a
+from ..work.y2010 import mandić2010e
 from ..work.y2011 import dieste2011a
 from ..work.y2011 import finke2011a
 from ..work.y2011 import ivarsson2011a
@@ -276,7 +276,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    petersen2015a, mandic2010a, ref="",
+    petersen2015a, mandić2010e, ref="",
     contexts=[
 
     ],

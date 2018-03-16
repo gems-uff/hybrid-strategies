@@ -728,6 +728,19 @@ oloniteru2013a = DB(WorkUnrelated(
     placex="Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance",
 ))
 
+olsina2013a = DB(WorkUnrelated(
+    2013, "Bridging the Gap between Security/Risk and Quality",
+    aliases=[
+        (0, "Bridging the Gap between Security/Risk and Quality"),
+    ],
+    display="olsina",
+    authors="Olsina, Luis and Pesotskaya, Elena and Dieser, Alexander and Covella, Guillermo",
+    place=FAKE,
+    entrytype="article",
+    ID="olsinabridging",
+    placex="",
+))
+
 osadchyy2013a = DB(WorkUnrelated(
     2013, "Natural systematic approaches to offshore software development opportunities beyound traditional benefits: A grounded theory study",
     display="osadchyy",
@@ -834,7 +847,7 @@ ullah2013a = DB(WorkUnrelated(
     placex="ACM Trans. Manage. Inf. Syst.",
 ))
 
-valenciennes2013 = DB(WorkUnrelated(
+valenciennes2013a = DB(WorkUnrelated(
     2013, "Towards a strategy for analysing benefits of Software Process Improvement programs",
     display="valenciennes",
     authors="Valenciennes, France",

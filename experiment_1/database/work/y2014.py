@@ -55,6 +55,20 @@ barzilay2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+basili2014a = DB(WorkUnrelated(
+    2014, "Aligning an Organization’s Goals and Strategies through Measurement: GQM+Strategies{\\textregistered}",
+    aliases=[
+        (0, "Aligning an Organization’s Goals and Strategies through Measurement: GQM+Strategies{\\textregistered}")
+    ],
+    display="basili",
+    authors="Basili, Victor R",
+    place=FAKE,
+    entrytype="article",
+    ID="basilialigning",
+    placex="",
+    excerpt="Organizations need to be able to develop operational business goals define strategies for implementing them communicate the goals throughout the organization translate the goals into lower levels for projects assess the effectiveness of their strategies recognize the ",
+))
+
 baskerville2014a = DB(WorkUnrelated(
     2014, "Incident-centered information security: Managing a strategic balance between prevention and response",
     display="baskerville",
