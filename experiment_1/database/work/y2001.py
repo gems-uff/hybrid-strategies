@@ -572,6 +572,21 @@ smart2001a = DB(WorkUnrelated(
     placex="Proceedings of the 19th Annual International Conference on Computer Documentation",
 ))
 
+thomas2001a = DB(WorkUnrelated(
+    2001, "Business value analysis: ? coping with unruly uncertainty",
+    display="thomas",
+    authors="Thomas, R.",
+    place=FAKE,
+    pp="16-24",
+    entrytype="article",
+    volume="29",
+    number="2",
+    doi="10.1108/10878570110695129",
+    note="cited By 24",
+    ID="Thomas200116",
+    placex="Strategy & Leadership",
+))
+
 trienekens2001a = DB(WorkUnrelated(
     2001, "Product Focused Software Process Improvement: Concepts and Experiences from Industry",
     display="trienekens",

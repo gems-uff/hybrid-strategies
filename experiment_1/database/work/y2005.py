@@ -32,6 +32,16 @@ bleistein2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Symposium on Applied Computing",
 ))
 
+boehm2005a = DB(WorkUnrelated(
+    2005, "Value-based software engineering: Overview and agenda",
+    display="boehm",
+    authors="Boehm, B.W.",
+    place=Book,
+    entrytype="book",
+    ID="Boehm2005",
+    placex="Technical report, USC-CSE-2005-504, University of Southern California, Park Campus, Los Angeles",
+))
+
 boyd2005a = DB(WorkUnrelated(
     2005, "The evolution of goal-based information modelling: literature review. In: Aslib proceedings, vol 57. Emerald Group Publishing Limited",
     display="boyd",
@@ -138,6 +148,17 @@ dyba2005a = DB(WorkUnrelated(
     note="cited By 150",
     ID="Dyba2005410",
     placex="IEEE Transactions on Software Engineering",
+))
+
+emam2005a = DB(WorkUnrelated(
+    2005, "The ROI from Software Quality",
+    display="emam",
+    authors="El Emam, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 23",
+    ID="ElEmam2005",
+    placex="Taylor and Francis Group",
 ))
 
 fernandes2005a = DB(WorkUnrelated(

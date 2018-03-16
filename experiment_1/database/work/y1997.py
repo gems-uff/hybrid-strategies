@@ -264,6 +264,18 @@ sutton1997a = DB(WorkUnrelated(
     placex="ESEC/FSE'97 Springer-Verlag",
 ))
 
+tierstein1997a = DB(WorkUnrelated(
+    1997, "Managing a designer/2000 project",
+    display="tierstein",
+    authors="Tierstein, L.",
+    place=FAKE,
+    pp="1-6",
+    entrytype="article",
+    note="cited By 1",
+    ID="Tierstein19971",
+    placex="New York Oracle Users Group Conference (NYOUG Fall ?97)",
+))
+
 yu1997a = DB(WorkUnrelated(
     1997, "Towards modelling and reasoning support for early-phase requirements engineering",
     display="yu",

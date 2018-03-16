@@ -81,6 +81,21 @@ bratthall2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+brynjolfsson2000a = DB(WorkUnrelated(
+    2000, "Beyond computation: Information technology, organizational transformation and business performance",
+    display="brynjolfsson",
+    authors="Brynjolfsson, E. and Hitt, L.M.",
+    place=FAKE,
+    pp="23-48",
+    entrytype="article",
+    volume="14",
+    number="4",
+    doi="10.1257/jep.14.4.23",
+    note="cited By 1051",
+    ID="Brynjolfsson200023",
+    placex="Journal of Economic Perspectives",
+))
+
 buglione2000a = DB(WorkUnrelated(
     2000, "Balanced scorecards and GQM: What are the differences?",
     display="buglione",

@@ -13,3 +13,14 @@ checkland1981a = DB(WorkUnrelated(
     ID="Checkland1981",
     placex="John Wiley & Sons",
 ))
+
+ieee1981a = DB(WorkUnrelated(
+    1981, "Evaluation of a Software Requirements Document by Analysis of Change Data",
+    display="ieee",
+    authors="IEEE",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="IEEE1981",
+    placex="IEEE Press",
+))

@@ -269,6 +269,20 @@ goethert2003a = DB(WorkUnrelated(
     placex="Deriving Enterprise-based Measures Using the Balanced Scorecard and Goal-driven Measurement Techniques",
 ))
 
+halling2003a = DB(WorkUnrelated(
+    2003, "An economic approach for improving requirements negotiation models with inspection",
+    display="halling",
+    authors="Halling, M. and Biffl, S. and Grünbacher, P.",
+    place=FAKE,
+    pp="236-247",
+    entrytype="article",
+    volume="8",
+    number="4",
+    note="cited By 16",
+    ID="Halling2003236",
+    placex="Requirements Engineering",
+))
+
 henninger2003a = DB(WorkUnrelated(
     2003, "Tool Support for Experience-Based Methodologies",
     display="henninger",
@@ -603,6 +617,17 @@ solingen2003b = DB(WorkUnrelated(
     ID="vanSolingen2003",
     springer="1",
     placex="Managing Software Engineering Knowledge",
+))
+
+thorp2003a = DB(WorkUnrelated(
+    2003, "The Information Paradox: Realizing the Business Benefits of Information Technology",
+    display="thorp",
+    authors="Thorp, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 103",
+    ID="Thorp2003",
+    placex="McGraw-Hill Ryerson",
 ))
 
 usddusa2003a = DB(WorkUnrelated(

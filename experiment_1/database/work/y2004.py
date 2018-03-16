@@ -57,6 +57,21 @@ aversano2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+böckle2004a = DB(WorkUnrelated(
+    2004, "Calculating ROI for software product lines",
+    display="böckle",
+    authors="Böckle, G. and Clements, P. and McGregor, J.D. and Muthig, D. and Schmid, K.",
+    place=IEEES,
+    pp="23-31",
+    entrytype="article",
+    volume="21",
+    number="3",
+    doi="10.1109/MS.2004.1293069",
+    note="cited By 110",
+    ID="Böckle200423",
+    placex="IEEE Software",
+))
+
 caffery2004a = DB(WorkUnrelated(
     2004, "Northern Ireland Software Industry Survey",
     display="caffery",
@@ -431,6 +446,21 @@ linden2004a = DB(WorkUnrelated(
     placex="Software Product-Family Engineering",
 ))
 
+little2004a = DB(WorkUnrelated(
+    2004, "Value creation and capture: A model of the software development process",
+    display="little",
+    authors="Little, T.",
+    place=IEEES,
+    pp="48-53",
+    entrytype="article",
+    volume="21",
+    number="3",
+    doi="10.1109/MS.2004.1293072",
+    note="cited By 17",
+    ID="Little200448",
+    placex="IEEE Software",
+))
+
 malotaux2004a = DB(WorkUnrelated(
     2004, "Chapter 6 - Evolutionary Development: How to deliver Quality On Time in Software Development and Systems Engineering Projects",
     display="malotaux",
@@ -550,6 +580,21 @@ sei2004a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 17",
     ID="SEI2004",
+))
+
+solingen2004a = DB(WorkUnrelated(
+    2004, "Measuring the ROI of software process improvement",
+    display="solingen",
+    authors="Van Solingen, R.",
+    place=IEEES,
+    pp="32-38",
+    entrytype="article",
+    volume="21",
+    number="3",
+    doi="10.1109/MS.2004.1293070",
+    note="cited By 57",
+    ID="VanSolingen200432",
+    placex="IEEE Software",
 ))
 
 sommerville2004a = DB(WorkUnrelated(

@@ -83,6 +83,45 @@ basili2006a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 14, No. 6, Pp. 758-773",
 ))
 
+berry2006a = DB(WorkUnrelated(
+    2006, "Measurement and decision making",
+    display="berry",
+    authors="Berry, M. and Aurum, A.",
+    place=Book,
+    pp="155-177",
+    entrytype="book",
+    doi="10.1007/3-540-29263-2_8",
+    note="cited By 4",
+    ID="Berry2006155",
+    placex="Value-Based Software Engineering",
+))
+
+biffl2006a = DB(WorkUnrelated(
+    2006, "Value-based software engineering",
+    display="biffl",
+    authors="Biffl, S. and Aurum, A. and Boehm, B. and Erdogmus, H. and Grünbacher, P.",
+    place=Book,
+    pp="1-388",
+    entrytype="book",
+    doi="10.1007/3-540-29263-2",
+    note="cited By 201",
+    ID="Biffl20061",
+    placex="Value-Based Software Engineering",
+))
+
+boehm2006a = DB(WorkUnrelated(
+    2006, "Value-based software engineering: Overview and agenda",
+    display="boehm",
+    authors="Boehm, B.W.",
+    place=Book,
+    pp="3-14",
+    entrytype="book",
+    doi="10.1007/3-540-29263-2_1",
+    note="cited By 46",
+    ID="Boehm20063",
+    placex="Value-Based Software Engineering",
+))
+
 cmmi2006a = DB(WorkUnrelated(
     2006, "CMMI for Development",
     display="cmmi",
@@ -212,6 +251,19 @@ gorschek2006a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+grünbacher2006a = DB(WorkUnrelated(
+    2006, "Stakeholder value proposition elicitation and reconciliation",
+    display="grünbacher",
+    authors="Grünbacher, P. and Köszegi, S. and Biffl, S.",
+    place=Book,
+    pp="133-154",
+    entrytype="book",
+    doi="10.1007/3-540-29263-2_7",
+    note="cited By 14",
+    ID="Grünbacher2006133",
+    placex="Value-Based Software Engineering",
+))
+
 guest2006a = DB(WorkUnrelated(
     2006, "How many interviews are enough? an experiment with data saturation and variability",
     display="guest",
@@ -220,6 +272,19 @@ guest2006a = DB(WorkUnrelated(
     placex="Field Methods, 18",
     entrytype="article",
     ID="Guest2006",
+))
+
+harrison2006a = DB(WorkUnrelated(
+    2006, "Risk and the economic value of the software producer",
+    display="harrison",
+    authors="Harrison, W.",
+    place=Book,
+    pp="91-105",
+    entrytype="book",
+    doi="10.1007/3-540-29263-2_5",
+    note="cited By 1",
+    ID="Harrison200691",
+    placex="Value-Based Software Engineering",
 ))
 
 horkoff2006a = DB(WorkUnrelated(

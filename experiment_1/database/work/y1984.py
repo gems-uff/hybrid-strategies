@@ -15,6 +15,7 @@ basili1984a = DB(WorkUnrelated(
     doi="10.1109/TSE.1984.5010301",
     note="cited By 491",
     ID="Basili1984728",
+    placex="IEEE Transactions on Software Engineering",
 ))
 
 lamb1984a = DB(WorkUnrelated(

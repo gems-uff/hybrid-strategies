@@ -48,6 +48,30 @@ basili2010a = DB(WorkSnowball(
     placex="Computer",
 ))
 
+basili2010b = DB(WorkUnrelated(
+    2010, "GQM+Strategies: A comprehensive methodology for aligning business strategies with software measurement",
+    display="basili b",
+    authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, D.",
+    place=FAKE,
+    pp="1-14",
+    entrytype="article",
+    note="cited By 1",
+    ID="Basili20101",
+    placex="Kaiserslautern, Germany, 2007. MetriKon 2007",
+))
+
+basili2010c = DB(WorkUnrelated(
+    2010, "Determining the impact of business strategies using principles from goal-oriented measurement",
+    display="basili c",
+    authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Seaman, C. and Regardie, M.",
+    place=FAKE,
+    pp="1-10",
+    entrytype="article",
+    note="cited By 1",
+    ID="Basili20101",
+    placex="Wien, Austria, 2009. 9. Internationale Tagung Wirtschaftsinformatik 2009",
+))
+
 buehrer2010a = DB(WorkUnrelated(
     2010, "A Distributed Placement Service for Graph-structured and Tree-structured Data",
     display="buehrer",
@@ -205,6 +229,18 @@ faegri2010a = DB(WorkUnrelated(
     ID="Fægri20101118",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+faulk2010a = DB(WorkUnrelated(
+    2010, "Value-based software engineering (vbse): A value-driven approach to product-line engineering",
+    display="faulk",
+    authors="Faulk, S. and Harmon, R. and Raffo, D.",
+    place=FAKE,
+    pp="1-13",
+    entrytype="article",
+    note="cited By 1",
+    ID="Faulk20101",
+    placex="Denver, Colorado, 2000. The First International Conference on Software Product-Line Engineering",
 ))
 
 ferrari2010a = DB(WorkUnrelated(

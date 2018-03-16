@@ -264,6 +264,17 @@ raffo1999a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+rodger1999a = DB(WorkUnrelated(
+    1999, "Uncertainty and Risk Analysis : A Practical Guide from Business Dynamics.",
+    display="rodger",
+    authors="Rodger, C. and Petch, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Rodger1999",
+    placex="Business Dynamics, PricewaterhouseCoopers",
+))
+
 solingen1999a = DB(WorkUnrelated(
     1999, "The Goal/Question/Metric Method: A Practical Guide for Quality Improvement of Software Development",
     display="solingen",

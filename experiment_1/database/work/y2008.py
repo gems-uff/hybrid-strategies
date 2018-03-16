@@ -643,6 +643,20 @@ reitbauer2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
 ))
 
+sharma2008a = DB(WorkUnrelated(
+    2008, "Business value through product line engineering - a case study",
+    display="sharma",
+    authors="Sharma, D. and Aurum, A. and Paech, B.",
+    place=SEAA,
+    pp="167-174",
+    entrytype="conference",
+    doi="10.1109/SEAA.2008.19",
+    art_number="4725719",
+    note="cited By 6",
+    ID="Sharma2008167",
+    placex="EUROMICRO 2008 - Proceedings of the 34th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2008",
+))
+
 stafford2008a = DB(WorkUnrelated(
     2008, "Letter from the Editors",
     display="stafford",

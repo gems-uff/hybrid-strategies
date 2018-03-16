@@ -512,6 +512,17 @@ punter2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+reifer2002a = DB(WorkUnrelated(
+    2002, "Making the Software Business Case : Improvement by the Numbers",
+    display="reifer",
+    authors="Reifer, D.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 46",
+    ID="Reifer2002",
+    placex="Addison-Wesley",
+))
+
 ruiz2002a = DB(WorkUnrelated(
     2002, "A Dynamic Integrated Framework for Software Process Improvement",
     display="ruiz",
