@@ -28,6 +28,7 @@ from ..work.y2005 import weber2005a
 from ..work.y2005 import zaijun2005a
 from ..work.y2007 import montoni2007a
 from ..work.y2008 import becker2008a
+from ..work.y2016 import spósito2016a
 
 DB(Citation(
     becker2008a, akao1990a, ref="",
@@ -192,6 +193,13 @@ DB(Citation(
 
 DB(Citation(
     becker2008a, zaijun2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    spósito2016a, becker2008a, ref="",
     contexts=[
 
     ],

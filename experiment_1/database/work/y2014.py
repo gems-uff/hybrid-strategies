@@ -407,6 +407,20 @@ paternoster2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+petersen2014a = DB(WorkUnrelated(
+    2014, "Action research as a model for industry-academia collaboration in the software engineering context",
+    display="petersen",
+    authors="Petersen, Kai and Gencel, Cigdem and Asghari, Negin and Baca, Dejan and Betz, Stefanie",
+    place=FAKE,
+    pp="55--62",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="petersen2014action",
+    cluster_id="6766945048968557874",
+    scholar="http://scholar.google.com/scholar?cites=6766945048968557874&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2014 international workshop on Long-term industrial collaboration on software engineering",
+))
+
 rahrovani2014a = DB(WorkUnrelated(
     2014, "Aligning IT for Future Business Value: Conceptualizing It Project Portfolio Alignment",
     display="rahrovani",
@@ -452,6 +466,19 @@ renals2014a = DB(WorkUnrelated(
     ID="Renals:2014:RRC:2666253.2666262",
     acm="1",
     placex="Proceedings of the 2014 Workshop on Roadmapping the Future of Multimodal Interaction Research Including Business Opportunities and Challenges",
+))
+
+roditi2014a = DB(WorkUnrelated(
+    2014, "Quantifying the Contribution of Enterprise Architecture to Business Goals",
+    display="roditi",
+    authors="Roditi, Alexandra",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="roditi2014quantifying",
+    cluster_id="7178288619769077328",
+    scholar="http://scholar.google.com/scholar?cites=7178288619769077328&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Twente",
+    placex="",
 ))
 
 simões2014a = DB(WorkUnrelated(

@@ -60,7 +60,17 @@ from ..work.y2013 import gencel2013a
 from ..work.y2013 import münch2013a
 from ..work.y2013 import münch2013b
 from ..work.y2013 import petersen2013a
+from ..work.y2014 import petersen2014a
+from ..work.y2014 import roditi2014a
 from ..work.y2015 import petersen2015a
+from ..work.y2016 import tahir2016a
+from ..work.y2016 import lópez2016a
+from ..work.y2016 import petersen2016a
+from ..work.y2017 import trinkenreich2017a
+from ..work.y2017 import mandić2017a
+from ..work.y2017 import mughal2017a
+from ..work.y2017 import li2017a
+from ..work.y2017 import trinkenreich2017b
 
 DB(Citation(
     petersen2015a, ali2012a, ref="",
@@ -456,6 +466,76 @@ DB(Citation(
 
 DB(Citation(
     petersen2015a, yin2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    petersen2014a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tahir2016a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trinkenreich2017a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2016a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2017a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roditi2014a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mughal2017a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    li2017a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    petersen2016a, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trinkenreich2017b, petersen2015a, ref="",
     contexts=[
 
     ],
