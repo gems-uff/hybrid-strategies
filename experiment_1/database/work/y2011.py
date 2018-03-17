@@ -91,6 +91,19 @@ ayala2011b = DB(WorkUnrelated(
     placex="Open Source Systems: Grounding Research",
 ))
 
+aysolmaz2011a = DB(WorkUnrelated(
+    2011, "Kamuda i{?} süre{ç}leri modelleme: Gere{?}i ve yararlar?. 5",
+    display="aysolmaz",
+    authors="Aysolmaz, Banu and Co{?}kun{ç}ay, Ahmet and Demirörs, Onur and Y?ld?z, Ali",
+    place=FAKE,
+    pp="26--28",
+    entrytype="article",
+    ID="aysolmaz2011kamuda",
+    cluster_id="13379751639932924343",
+    scholar="http://scholar.google.com/scholar?cites=13379751639932924343&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Ulusal Yaz?l?m Mühendisli{?}i Sempozyumu",
+))
+
 baker2011a = DB(WorkUnrelated(
     2011, "Design Goal-oriented Level Design",
     display="baker",
@@ -900,4 +913,17 @@ zarour2011a = DB(WorkUnrelated(
     cluster_id="13170586433889280781",
     scholar="http://scholar.google.com/scholar?cites=13170586433889280781&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Process Improvement and Management: Approaches and Tools for Practical Development: Approaches and Tools for Practical Development",
+))
+
+zhiping2011a = DB(WorkUnrelated(
+    2011, "Research on the Method of C4ISR Capability Requirements Logic Validation Based on DODAF2. 0",
+    display="zhiping",
+    authors="Zhiping, Jiang and Guangxia, Zhou and Qingchao, Dong and Zhixue, Wang",
+    place=FAKE,
+    pp="899--903",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="zhiping2011research",
+    placex="Intelligent Computation Technology and Automation (ICICTA), 2011 International Conference on",
 ))

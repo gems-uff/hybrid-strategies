@@ -310,6 +310,27 @@ hurtado2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+hyvönen2015a = DB(WorkUnrelated(
+    2015, "Towards value-oriented product development roadmapping",
+    display="hyvönen",
+    authors="Hyvönen, Juuso and others",
+    place=FAKE,
+    entrytype="article",
+    ID="hyvonen2015towards",
+    placex="",
+))
+
+jeners2015a = DB(WorkUnrelated(
+    2015, "Model-supported Process Adoption and Assessment in the Context of Multiple Practice Repositories",
+    display="jeners",
+    authors="Jeners, Simona C",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="jeners2015model",
+    local="RWTH Aachen University, Germany",
+    placex="",
+))
+
 karjoth2015a = DB(WorkUnrelated(
     2015, "Aligning Security and Business Objectives for Process-Aware Information Systems",
     display="karjoth",
@@ -822,6 +843,17 @@ wohlin2015a = DB(WorkUnrelated(
     ID="Wohlin2015229",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+xu2015a = DB(WorkUnrelated(
+    2015, "To Enlighten Hidden Facts in The Code: A Review of Software Visualization Metaphors.",
+    display="xu",
+    authors="Xu, Yangyang and Liu, Yan and Zheng, Jiabin",
+    place=FAKE,
+    pp="294--297",
+    entrytype="inproceedings",
+    ID="xu2015enlighten",
+    placex="SEKE",
 ))
 
 zarour2015a = DB(WorkUnrelated(

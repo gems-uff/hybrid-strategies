@@ -987,3 +987,16 @@ zalzala2010a = DB(WorkUnrelated(
     placex="PROCEEDINGS OF THE 4TH EUROPEAN CONFERENCE ON INFORMATION MANAGEMENT AND EVALUATION",
     elcompendex="1",
 ))
+
+zhang2010a = DB(WorkUnrelated(
+    2010, "Capturing Antagonistic Stakeholder Value Propositions in Value-Based Software Development.",
+    display="zhang",
+    authors="Zhang, Du",
+    place=FAKE,
+    pp="12--18",
+    entrytype="inproceedings",
+    ID="zhang2010capturing",
+    cluster_id="1097166577944984033",
+    scholar="http://scholar.google.com/scholar?cites=1097166577944984033&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="SEKE",
+))

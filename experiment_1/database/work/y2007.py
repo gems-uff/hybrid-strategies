@@ -22,6 +22,17 @@ allison2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+apfelbacher2007a = DB(WorkUnrelated(
+    2007, "Tolerierbare Inkonsistenzen in Konzeptbeschreibungen.",
+    display="apfelbacher",
+    authors="Apfelbacher, Rémy",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="apfelbacher2007tolerierbare",
+    local="University of Potsdam",
+    placex="",
+))
+
 babar2007a = DB(WorkUnrelated(
     2007, "Towards Evolution of Strategic IT Requirements",
     display="babar",
@@ -91,6 +102,18 @@ castillo2007a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Castillo2007540",
     placex="Proceedings - 2006 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2006 Workshops Proceedings)",
+))
+
+charrel2007a = DB(WorkUnrelated(
+    2007, "Centred Methodology to Design Project/Subcontract Cooperation Policies",
+    display="charrel",
+    authors="Charrel, P-J and Thierry, C",
+    place=FAKE,
+    pp="47--62",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="charrel2007centred",
+    placex="Project Management and Risk Management in Complex Projects",
 ))
 
 deng2007a = DB(WorkUnrelated(
@@ -166,6 +189,34 @@ garcía2007a = DB(WorkUnrelated(
     placex="Information Sciences",
 ))
 
+ghose2007a = DB(WorkUnrelated(
+    2007, "Process discovery from model and text artefacts",
+    display="ghose",
+    authors="Ghose, Aditya and Koliadis, George and Chueng, Arthur",
+    place=FAKE,
+    pp="167--174",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ghose2007process",
+    cluster_id="4684905589424117143",
+    scholar="http://scholar.google.com/scholar?cites=4684905589424117143&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Services, 2007 IEEE Congress on",
+))
+
+ghose2007b = DB(WorkUnrelated(
+    2007, "Rapid business process discovery (R-BPD)",
+    display="ghose b",
+    authors="Ghose, Aditya and Koliadis, George and Chueng, Arthur",
+    place=FAKE,
+    pp="391--406",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ghose2007rapid",
+    cluster_id="170938679025769393",
+    scholar="http://scholar.google.com/scholar?cites=170938679025769393&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Conceptual Modeling",
+))
+
 habra2007a = DB(WorkUnrelated(
     2007, "Initiating software process improvement in very small enterprises: Experience with a light assessment tool",
     display="habra",
@@ -201,6 +252,18 @@ isoiec2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="ISOIEC2007",
     placex="ISO/IEC 15939:2007",
+))
+
+jun2007a = DB(WorkUnrelated(
+    2007, "Consistency Checking in C 4 ISR Architecture Designing Based on DOD Architecture Framework",
+    display="jun",
+    authors="Jun-xian, Liu and Zhi-ping, Jiang and Hong-hui, Chen",
+    place=FAKE,
+    pp="357--362",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="jun2007consistency",
+    placex="Management Science and Engineering, 2007. ICMSE 2007. International Conference on",
 ))
 
 kahraman2007a = DB(WorkUnrelated(
@@ -497,6 +560,18 @@ steen2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+taipale2007a = DB(WorkUnrelated(
+    2007, "Observations on software testing practice",
+    display="taipale",
+    authors="Taipale, Ossi and others",
+    place=FAKE,
+    entrytype="article",
+    ID="taipale2007observations",
+    cluster_id="7938454154983017954",
+    scholar="http://scholar.google.com/scholar?cites=7938454154983017954&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Acta Universitatis Lappeenrantaensis",
+))
+
 team2007a = DB(WorkUnrelated(
     2007, "Appraisal requirements for CMMI®, Version 1.1",
     display="team",
@@ -506,6 +581,19 @@ team2007a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="NoAuthor2007",
+))
+
+türetken2007a = DB(WorkUnrelated(
+    2007, "A method for decentralized business process modeling",
+    display="türetken",
+    authors="Türetken, Oktey",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="turetken2007method",
+    cluster_id="16064690631435354191",
+    scholar="http://scholar.google.com/scholar?cites=16064690631435354191&as_sdt=2005&sciodt=0,5&hl=en",
+    local="PhD thesis, The Middle East Technical University, 2007. 20",
+    placex="",
 ))
 
 uraikul2007a = DB(WorkUnrelated(
@@ -577,4 +665,18 @@ wilkie2007a = DB(WorkSnowball(
     cluster_id="9041746887280427568",
     publisher="Wiley Online Library",
     scholar_ok=True,
+))
+
+yang2007a = DB(WorkUnrelated(
+    2007, "An algebraic approach for managing inconsistencies in software processes",
+    display="yang",
+    authors="Yang, Qiusong and Li, Mingshu and Wang, Qing and Yang, Guowei and Zhai, Jian and Li, Juan and Hou, Lishan and Yang, Yun",
+    place=ICSE,
+    pp="121--133",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="yang2007algebraic",
+    cluster_id="3552193483501405529",
+    scholar="http://scholar.google.com/scholar?cites=3552193483501405529&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
 ))

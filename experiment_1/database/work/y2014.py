@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+YAMAMOTO2014a = DB(WorkUnrelated(
+    2014, "?????????????",
+    aliases=[(2014,"?????????????")],
+    display="YAMAMOTO",
+    authors="YAMAMOTO Shuichiro",
+    place=FAKE,
+    pp="47--52",
+    entrytype="article",
+    volume="114",
+    number="292",
+    publisher="??????????????",
+    ID="?????2014?????????????",
+    placex="??????????????. KBSE, ??????????",
+))
+
 aguirre2014a = DB(WorkUnrelated(
     2014, "Analyses of Strategic Institutionalization: The Emerging Integration of Strategic Conceptualization and Strategic Operationalization",
     display="aguirre",
@@ -99,6 +114,18 @@ becker2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=9781126343364591257&as_sdt=2005&sciodt=0,5&hl=en",
     local="Facultad de Informática",
     placex="",
+))
+
+boehm2014a = DB(WorkUnrelated(
+    2014, "17.3. 7 Combine Multiple Alternative Estimates",
+    display="boehm",
+    authors="Boehm, Barry",
+    place=FAKE,
+    pp="419",
+    entrytype="article",
+    publisher="Springer",
+    ID="boehm201417",
+    placex="Software Project Effort Estimation",
 ))
 
 bosch2014a = DB(WorkUnrelated(
@@ -299,6 +326,17 @@ felderer2014a = DB(WorkUnrelated(
     placex="International Journal on Software Tools for Technology Transfer",
 ))
 
+ferreira2014a = DB(WorkUnrelated(
+    2014, "Methodological approaches for software process improvement in multi-model environments",
+    display="ferreira",
+    authors="Ferreira, André Leite",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ferreira2014methodological",
+    local="Universidade do Minho (Portugal)",
+    placex="",
+))
+
 fontana2014a = DB(WorkUnrelated(
     2014, "Processes versus people: How should agile software development maturity be defined?",
     display="fontana",
@@ -449,6 +487,19 @@ janes2014a = DB(WorkUnrelated(
     placex="Lean Software Development in Action",
 ))
 
+jørgensen2014a = DB(WorkUnrelated(
+    2014, "17.6 Last But Not Least...",
+    aliases=[(0,"17.6 Last But Not Least...")],
+    display="jørgensen",
+    authors="Jørgensen, Magne",
+    place=FAKE,
+    pp="430",
+    entrytype="article",
+    publisher="Springer",
+    ID="jorgensen17",
+    placex="Software Project Effort Estimation",
+))
+
 kettunen2014a = DB(WorkUnrelated(
     2014, "Realizing agile software enterprise transformations by team performance development",
     display="kettunen",
@@ -461,6 +512,22 @@ kettunen2014a = DB(WorkUnrelated(
     cluster_id="16638445088340865576",
     scholar="http://scholar.google.com/scholar?cites=16638445088340865576&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Agile Software Development",
+))
+
+kim2014a = DB(WorkUnrelated(
+    2014, "Functional and nonfunctional quality in cloud-based collaborative writing: An empirical investigation",
+    display="kim",
+    authors="Kim, Jongwoo and Mohan, Kannan and Ramesh, Balasubramaniam",
+    place=FAKE,
+    pp="182--203",
+    entrytype="article",
+    volume="57",
+    number="3",
+    publisher="IEEE",
+    ID="kim2014functional",
+    cluster_id="4638945669897366306",
+    scholar="http://scholar.google.com/scholar?cites=4638945669897366306&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Professional Communication",
 ))
 
 kobori2014a = DB(WorkUnrelated(
@@ -897,6 +964,18 @@ trendowicz2014a = DB(WorkUnrelated(
     cluster_id="1570309116013095076",
     scholar="http://scholar.google.com/scholar?cites=1570309116013095076&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+trendowicz2014b = DB(WorkUnrelated(
+    2014, "Continuously Improving Effort Estimation",
+    display="trendowicz b",
+    authors="Trendowicz, Adam and Jeffery, Ross",
+    place=FAKE,
+    pp="367--399",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="trendowicz2014continuously",
+    placex="Software Project Effort Estimation",
 ))
 
 unterkalmsteiner2014a = DB(WorkUnrelated(

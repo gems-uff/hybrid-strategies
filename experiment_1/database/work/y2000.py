@@ -274,6 +274,20 @@ järvinen2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+kandé2000a = DB(WorkUnrelated(
+    2000, "Towards a UML profile for software architecture descriptions",
+    display="kandé",
+    authors="Kandé, Mohamed Mancona and Strohmeier, Alfred",
+    place=FAKE,
+    pp="513--527",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kande2000towards",
+    cluster_id="1575333474059637220",
+    scholar="http://scholar.google.com/scholar?cites=1575333474059637220&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on the Unified Modeling Language",
+))
+
 kaplan2000a = DB(WorkUnrelated(
     2000, "The Balanced Scorecard: Measures that Drive Performance",
     display="kaplan",
@@ -436,6 +450,20 @@ pitterman2000a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
+rayson2000a = DB(WorkUnrelated(
+    2000, "Assisting requirements recovery from legacy documents",
+    display="rayson",
+    authors="Rayson, Paul and Garside, Roger and Sawyer, Pete",
+    place=FAKE,
+    pp="251--263",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="rayson2000assisting",
+    cluster_id="14643494279082944891",
+    scholar="http://scholar.google.com/scholar?cites=14643494279082944891&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Systems Engineering for Business Process Change",
+))
+
 reed2000a = DB(WorkUnrelated(
     2000, "Software engineering - a new millenium?",
     display="reed",
@@ -553,6 +581,17 @@ thompson2000a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Thompson2000",
     placex="Pioneira, São Paulo",
+))
+
+vazquez2000a = DB(WorkUnrelated(
+    2000, "Método de ingeniería de requisitos para manejo de discrepancias",
+    display="vazquez",
+    authors="Silva Vazquez, Andrés",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="silva2000metodo",
+    local="Informatica",
+    placex="",
 ))
 
 waina2000a = DB(WorkUnrelated(

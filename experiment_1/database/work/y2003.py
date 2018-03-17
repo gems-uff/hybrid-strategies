@@ -22,6 +22,18 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+aida2003a = DB(WorkUnrelated(
+    2003, "Program generation for application domain users by selecting model candidates",
+    display="aida",
+    authors="Aida, Takumi and Ohsuga, Setsuo",
+    place=FAKE,
+    pp="242--251",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="aida2003program",
+    placex="International Symposium on Methodologies for Intelligent Systems",
+))
+
 boehm2003a = DB(WorkUnrelated(
     2003, "Value-based software engineering: A case study",
     display="boehm",
@@ -258,6 +270,22 @@ gack2003a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+gans2003a = DB(WorkUnrelated(
+    2003, "Continuous requirements management for organisation networks: a (dis) trust-based approach",
+    display="gans",
+    authors="Gans, Günter and Jarke, Matthias and Kethers, Stefanie and Lakemeyer, Gerhard",
+    place=FAKE,
+    pp="4--22",
+    entrytype="article",
+    volume="8",
+    number="1",
+    publisher="Springer",
+    ID="gans2003continuous",
+    cluster_id="4439341089860792530",
+    scholar="http://scholar.google.com/scholar?cites=4439341089860792530&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering",
+))
+
 goethert2003a = DB(WorkUnrelated(
     2003, "Deriving enterprise-based measures using the balanced scorecard and goal-driven measurement techniques",
     display="goethert",
@@ -481,6 +509,20 @@ neiger2003a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Neiger200372",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+nguyen2003a = DB(WorkUnrelated(
+    2003, "A model for conformance analysis of software documents",
+    display="nguyen",
+    authors="Nguyen, Tien Nhut and Munson, Ethan V",
+    place=FAKE,
+    pp="24--35",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="nguyen2003model",
+    cluster_id="17316817449091657539",
+    scholar="http://scholar.google.com/scholar?cites=17316817449091657539&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Evolution, 2003. Proceedings. Sixth International Workshop on Principles of",
 ))
 
 ngwenyama2003a = DB(WorkUnrelated(

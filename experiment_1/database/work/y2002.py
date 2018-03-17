@@ -18,6 +18,17 @@ alleman2002a = DB(WorkUnrelated(
     placex="Extreme Programming and Agile Methods --- XP/Agile Universe 2002",
 ))
 
+alves2002a = DB(WorkUnrelated(
+    2002, "IDENTIFICA{Ç}ÃO DE INDICADORES DE DESEMPENHO EM SISTEMAS DE INFORMA{Ç}ÃO",
+    display="alves",
+    authors="ALVES, RAFAEL FERREIRA",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="alves2002identificaccao",
+    local="Universidade Metodista de Piracicaba",
+    placex="",
+))
+
 aydin2002a = DB(WorkUnrelated(
     2002, "Making a Method Work for a Project Situation in the Context of CMM",
     display="aydin",
@@ -310,6 +321,32 @@ jones2002a = DB(WorkUnrelated(
     placex="Components of System Safety",
 ))
 
+karlström2002a = DB(WorkUnrelated(
+    2002, "Aggregating viewpoints for strategic software process improvementa method and a case study",
+    display="karlström",
+    authors="Karlström, Daniel and Runeson, Per and Wohlin, Claes",
+    place=FAKE,
+    pp="143--152",
+    entrytype="article",
+    volume="149",
+    number="5",
+    publisher="IET",
+    ID="karlstrom2002aggregating",
+    cluster_id="4179476263282382400",
+    scholar="http://scholar.google.com/scholar?cites=4179476263282382400&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEE Proceedings-Software",
+))
+
+karlström2002b = DB(WorkUnrelated(
+    2002, "Increasing Involvement in Software Process Improvement Process Improvement",
+    display="karlström",
+    authors="Karlström, Daniel Karlström Daniel",
+    place=FAKE,
+    entrytype="article",
+    ID="karlstromincreasing",
+    placex="",
+))
+
 kock2002a = DB(WorkUnrelated(
     2002, "Managing with Web-based IT in Mind",
     display="kock",
@@ -536,6 +573,22 @@ ruiz2002a = DB(WorkUnrelated(
     note="cited By 12",
     ID="Ruiz2002181",
     placex="Software Quality Journal",
+))
+
+sawyer2002a = DB(WorkUnrelated(
+    2002, "REVERE: support for requirements synthesis from documents",
+    display="sawyer",
+    authors="Sawyer, Pete and Rayson, Paul and Garside, Roger",
+    place=FAKE,
+    pp="343--353",
+    entrytype="article",
+    volume="4",
+    number="3",
+    publisher="Springer",
+    ID="sawyer2002revere",
+    cluster_id="10910994715845773600",
+    scholar="http://scholar.google.com/scholar?cites=10910994715845773600&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems Frontiers",
 ))
 
 scott2002a = DB(WorkUnrelated(

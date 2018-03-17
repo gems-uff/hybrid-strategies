@@ -238,6 +238,20 @@ elliott2013a = DB(WorkUnrelated(
     placex="Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
 ))
 
+eremenko2013a = DB(WorkUnrelated(
+    2013, "Neural Network Based System for Nondestructive Testing of Composite Materials Using Low-Frequency Acoustic Methods",
+    display="eremenko",
+    authors="Eremenko, VS and Pereidenko, AV and Suslov, EF",
+    place=FAKE,
+    pp="95--109",
+    entrytype="article",
+    volume="1",
+    number="3",
+    publisher="Horizon Research Publishing",
+    ID="eremenko2013neural",
+    placex="Universal Journal of Engineering Science",
+))
+
 ferreira2013a = DB(WorkUnrelated(
     2013, "Aligning domain-related models for creating context for software product design",
     display="ferreira",
@@ -440,6 +454,17 @@ hästbacka2013a = DB(WorkUnrelated(
     cluster_id="6705139609000744247",
     scholar="http://scholar.google.com/scholar?cites=6705139609000744247&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Tampereen teknillinen yliopisto. Julkaisu-Tampere University of Technology. Publication; 1143",
+))
+
+hästbacka2013b = DB(WorkUnrelated(
+    2013, "Developing Modern Industrial Control Applications",
+    aliases=[(0,"Developing Modern Industrial Control Applications")],
+    display="hästbacka",
+    authors="Hästbacka, David",
+    place=FAKE,
+    entrytype="article",
+    ID="hastbackadeveloping",
+    placex="",
 ))
 
 iivari2013a = DB(WorkUnrelated(
@@ -827,6 +852,17 @@ trendowicz2013a = DB(WorkUnrelated(
     ID="trendowicz2013software",
     clusterid="3161032578968285420",
     scholar="http://scholar.google.com/scholar?cites=3161032578968285420&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+trendowicz2013b = DB(WorkUnrelated(
+    2013, "????????????",
+    aliases=[(0,"????????????")],
+    display="trendowicz",
+    authors="Trendowicz, Adam",
+    place=FAKE,
+    entrytype="article",
+    ID="trendowicz????????????",
     placex="",
 ))
 

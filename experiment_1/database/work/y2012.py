@@ -111,6 +111,19 @@ bensiek2012a = DB(WorkUnrelated(
     placex="Product Lifecycle Management. Towards Knowledge-Rich Enterprises",
 ))
 
+berkovich2012a = DB(WorkUnrelated(
+    2012, "Requirements Engineering für IT-gestützte Product Service Systems",
+    display="berkovich",
+    authors="Berkovich, Marina",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="berkovich2012requirements",
+    cluster_id="6756465322222694715",
+    scholar="http://scholar.google.com/scholar?cites=6756465322222694715&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Technische Universität München",
+    placex="",
+))
+
 bruyn2012a = DB(WorkUnrelated(
     2012, "On the generalization of normalized systems concepts to the analysis and design of modules in systems and enterprise engineering",
     display="bruyn",
@@ -307,6 +320,18 @@ draghici2012a = DB(WorkUnrelated(
     ID="Draghici2012527",
     sciencedirect="1",
     placex="Procedia Technology",
+))
+
+eljabiri2012a = DB(WorkUnrelated(
+    2012, "Tailoring the Software Process Model to Project requirements",
+    display="eljabiri",
+    authors="Eljabiri, Osama and Deek, Fadi P",
+    place=FAKE,
+    entrytype="article",
+    ID="eljabiritailoring",
+    cluster_id="8115521228387773401",
+    scholar="http://scholar.google.com/scholar?cites=8115521228387773401&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Citeseer Scientific Literature Digital Library and Search Engine",
 ))
 
 eremenko2012a = DB(WorkUnrelated(
@@ -584,6 +609,17 @@ mandić2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+mandić2012ab = DB(WorkUnrelated(
+    2012, "Empirical Evaluation of the GQM+Strategies Approach",
+    aliases=[(0,"Empirical Evaluation of the GQM+Strategies Approach")],
+    display="mandić",
+    authors="Mandi{c?}, Vladimir and Oivo, Markku",
+    place=FAKE,
+    entrytype="article",
+    ID="mandicempirical",
+    placex="",
+))
+
 mesquida2012a = DB(WorkUnrelated(
     2012, "\IT\ Service Management Process Improvement based on ISO/IEC 15504: A systematic review",
     display="mesquida",
@@ -638,6 +674,18 @@ murphy2012a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+müller2012a = DB(WorkUnrelated(
+    2012, "IT-enabled process innovation: A literature review",
+    display="müller",
+    authors="Müller, Sune and Møller, Elisa and Nygaard, Thomas",
+    place=FAKE,
+    entrytype="article",
+    ID="muller2012enabled",
+    cluster_id="8777552202341599363",
+    scholar="http://scholar.google.com/scholar?cites=8777552202341599363&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 münch2012a = DB(WorkUnrelated(
     2012, "Evolving process simulators by using validated learning",
     display="münch",
@@ -660,6 +708,17 @@ olsina2012a = DB(WorkUnrelated(
     entrytype="article",
     ID="olsinabridging",
     placex="",
+))
+
+olsina2012b = DB(WorkUnrelated(
+    2012, "Bridging the Gap betweenSecurity/Risk Assessment and Quality Evaluation Methods",
+    display="olsina b",
+    authors="Olsina, Luis and Pesotskaya, Elena and Dieser, Alexander and Covella, Guillermo",
+    place=FAKE,
+    pp="1--10",
+    entrytype="inproceedings",
+    ID="olsina2012bridging",
+    placex="Pen-Drive of the 8th Central Eastern European Software Engineering Conference (CEE-SECR) Available at http://2012. secr. ru/talks/bridging-the-gap-betweensecurity-risk-assessment-and-quality-evaluation-methods., Moscow, Russia",
 ))
 
 papa2012a = DB(WorkUnrelated(
@@ -743,6 +802,17 @@ pareto2012b = DB(WorkUnrelated(
     placex="Software {&} Systems Modeling",
 ))
 
+rensburg2012a = DB(WorkUnrelated(
+    2012, "The relationship between process maturity models and the use and effectiveness of systems development methodologies",
+    display="rensburg",
+    authors="Van Rensburg, Christoffel Wilhelmus Janse",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="van2012relationship",
+    local="North-West University",
+    placex="",
+))
+
 robles2012a = DB(WorkUnrelated(
     2012, "A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes",
     display="robles",
@@ -756,6 +826,17 @@ robles2012a = DB(WorkUnrelated(
     ID="10.1007/978-3-642-33442-9_1",
     springer="1",
     placex="Open Source Systems: Long-Term Sustainability",
+))
+
+rombach2012a = DB(WorkUnrelated(
+    2012, "The Fraunhofer IESE Series on Software and Systems Engineering",
+    display="rombach",
+    authors="Rombach, Dieter and Liggesmeyer, Peter and Cleaveland II, W Rance and Achatz, Reinhold E",
+    place=Book,
+    entrytype="book",
+    publisher="Springer",
+    ID="rombach2012fraunhofer",
+    placex="",
 ))
 
 runeson2012a = DB(WorkUnrelated(
@@ -863,6 +944,30 @@ singh2012a = DB(WorkUnrelated(
     ID="Singh2012281",
     sciencedirect="1",
     placex="Ecological Indicators",
+))
+
+soares2012a = DB(WorkUnrelated(
+    2012, "Analysis of techniques for documenting user requirements",
+    display="soares",
+    authors="dos Santos Soares, Michel and Cioquetta, Daniel Souza",
+    place=FAKE,
+    pp="16--28",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="dos2012analysis",
+    cluster_id="10723634258977413634",
+    scholar="http://scholar.google.com/scholar?cites=10723634258977413634&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Computational Science and Its Applications",
+))
+
+solaimani2012a = DB(WorkUnrelated(
+    2012, "Business Model",
+    display="solaimani",
+    authors="Solaimani, Sam",
+    place=FAKE,
+    entrytype="article",
+    ID="solaimanibusiness",
+    placex="",
 ))
 
 sulayman2012a = DB(WorkUnrelated(

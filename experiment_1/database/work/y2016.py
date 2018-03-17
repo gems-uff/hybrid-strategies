@@ -95,6 +95,18 @@ djouab2016a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+francalanci2016a = DB(WorkUnrelated(
+    2016, "Evaluating the Economic Implications of Information Systems: A Formal Model of Information Processing Capacity",
+    display="francalanci",
+    authors="Francalanci, Chiara and Giacomazzi, Paolo and others",
+    place=FAKE,
+    pp="242--251",
+    entrytype="article",
+    volume="1",
+    ID="francalanci2016evaluating",
+    placex="INTERNATIONAL JOURNAL OF COMPUTERS",
+))
+
 jaramillo2016a = DB(WorkUnrelated(
     2016, "A Method Based on Patterns for Deriving Key Performance Indicators from Organizational Objectives",
     display="jaramillo",
@@ -214,6 +226,17 @@ machado2016a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="machado2016andre",
+    placex="",
+))
+
+nunn2016a = DB(WorkUnrelated(
+    2016, "Towards a unified methodology for supporting the integration of data sources for use in web applications",
+    display="nunn",
+    authors="Nunn, Jeremy",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="nunn2016towards",
+    local="Murdoch University",
     placex="",
 ))
 

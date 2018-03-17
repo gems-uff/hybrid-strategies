@@ -15,6 +15,27 @@ becker2017a = DB(WorkUnrelated(
     placex="Computer Conference (CLEI), 2017 XLIII Latin American",
 ))
 
+ghose2017a = DB(WorkUnrelated(
+    2017, "Process Discovery from Model and Text Artefacts (Preprint)",
+    display="ghose",
+    authors="Ghose, Aditya and Koliadis, George and Chueng, Arthur",
+    place=FAKE,
+    entrytype="article",
+    ID="ghoseprocess",
+    placex="",
+))
+
+jurczuk2017a = DB(WorkUnrelated(
+    2017, "BUSINESS PROCESS INCONSISTENCIES IN POLISH SMALL AND MEDIUM ENTERPRISES",
+    display="jurczuk",
+    authors="Jurczuk, Arkadiusz",
+    place=FAKE,
+    pp="742",
+    entrytype="inproceedings",
+    ID="jurczuk2017business",
+    placex="Economic and Social Development (Book of Proceedings), 23rd International Scientific Conference on Economic and Social",
+))
+
 li2017a = DB(WorkUnrelated(
     2017, "A Comparative Study of Value in Agile Software Development Organizations",
     display="li",
@@ -51,6 +72,17 @@ mughal2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+nicho2017a = DB(WorkUnrelated(
+    2017, "IT governance measurement tools and its application in IT-business alignment.",
+    display="nicho",
+    authors="Nicho, Mathew and Khan, Shafaq",
+    place=FAKE,
+    entrytype="article",
+    publisher="CSUSB ScholarWorks",
+    ID="nicho2017governance",
+    placex="",
+))
+
 olsina2017a = DB(WorkUnrelated(
     2017, "Family of Strategies for different Evaluation Purposes",
     display="olsina a",
@@ -62,6 +94,17 @@ olsina2017a = DB(WorkUnrelated(
     cluster_id="12961364450747064617",
     scholar="http://scholar.google.com/scholar?cites=12961364450747064617&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proc. de la XX Conferencia Iberoamericana en\ Software Engineering\(CIbSE), CABA, Argentina",
+))
+
+pinheiro2017a = DB(WorkUnrelated(
+    2017, "Active Gamification: A gamification process for successful gamification.",
+    display="pinheiro",
+    aliases=[(0,"Developing Modern Industrial Control Applications")],
+    authors="Pinheiro, Bruno Contessotto Bragan{ç}a",
+    place=FAKE,
+    entrytype="article",
+    ID="pinheiroactive",
+    placex="",
 ))
 
 pérez2017a = DB(WorkUnrelated(
@@ -106,6 +149,29 @@ santos2017a = DB(WorkUnrelated(
     publisher="Springer",
     ID="santos2017transition",
     placex="Requirements Engineering for Service and Cloud Computing",
+))
+
+solaimani2017a = DB(WorkUnrelated(
+    2017, "Business Model Implementation within Networked Enterprises: A Case Study on a Finnish Pharmaceutical Project",
+    display="solaimani",
+    authors="Solaimani, Sam and Heikkilä, Marikka and Bouwman, Harry",
+    place=FAKE,
+    entrytype="article",
+    publisher="Wiley Online Library",
+    ID="solaimani2017business",
+    cluster_id="1650566889326586480",
+    scholar="http://scholar.google.com/scholar?cites=1650566889326586480&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Management Review",
+))
+
+tebes2017a = DB(WorkUnrelated(
+    2017, "Strategy for Comparing and Adopting Strengths",
+    display="tebes",
+    authors="Tebes, Guido and Peppino, Denis and Becker, Pablo and Papa, María Fernanda and Rivera, María Belén and Olsina Santos, Luis Antonio",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="tebes2017strategy",
+    placex="XXIII Congreso Argentino de Ciencias de la Computación (La Plata, 2017).",
 ))
 
 tomaz2017 = DB(WorkUnrelated(
@@ -199,4 +265,17 @@ zapata2017a = DB(WorkUnrelated(
     publisher="Facultad de Ingeniería, Universidad Nacional de Colombia.",
     ID="zapata2017pre",
     placex="Ingeniería e Investigación",
+))
+
+ОВ2017a = DB(WorkUnrelated(
+    2017, "?",
+    display="?",
+    authors="ОВ",
+    place=FAKE,
+    pp="12--19",
+    entrytype="article",
+    number="9",
+    publisher="?",
+    ID="??????2017???????",
+    placex="?",
 ))

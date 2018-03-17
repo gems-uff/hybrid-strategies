@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acharya2005a = DB(WorkUnrelated(
+    2005, "Domain consistency in requirements specification",
+    display="acharya",
+    authors="Acharya, Satyajit and Mohanty, Hrushikesha and George, Chris",
+    place=FAKE,
+    pp="231--238",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="acharya2005domain",
+    cluster_id="10008082458443963740",
+    scholar="http://scholar.google.com/scholar?cites=10008082458443963740&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Quality Software, 2005.(QSIC 2005). Fifth International Conference on",
+))
+
 beecham2005a = DB(WorkUnrelated(
     2005, "Using an expert panel to validate a requirements process improvement model",
     display="beecham",
@@ -251,6 +265,22 @@ kaplan2005a = DB(WorkUnrelated(
     placex="Harvard Business Review Article",
 ))
 
+karlström2005a = DB(WorkUnrelated(
+    2005, "A minimal test practice framework for emerging software organizations",
+    display="karlström",
+    authors="Karlström, Daniel and Runeson, Per and Nordén, Sara",
+    place=FAKE,
+    pp="145--166",
+    entrytype="article",
+    volume="15",
+    number="3",
+    publisher="Wiley Online Library",
+    ID="karlstrom2005minimal",
+    cluster_id="4370750997621667094",
+    scholar="http://scholar.google.com/scholar?cites=4370750997621667094&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Testing, Verification and Reliability",
+))
+
 liu2005a = DB(WorkUnrelated(
     2005, "QFD Application in Software Process Management and Improvement Based on CMM",
     display="liu",
@@ -260,6 +290,22 @@ liu2005a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 2",
     ID="Liu2005",
+))
+
+marcus2005a = DB(WorkUnrelated(
+    2005, "Recovery of traceability links between software documentation and source code",
+    display="marcus",
+    authors="Marcus, Andrian and Maletic, Jonathan I and Sergeyev, Andrey",
+    place=FAKE,
+    pp="811--836",
+    entrytype="article",
+    volume="15",
+    number="05",
+    publisher="World Scientific",
+    ID="marcus2005recovery",
+    cluster_id="5308395896136199419",
+    scholar="http://scholar.google.com/scholar?cites=5308395896136199419&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Software Engineering and Knowledge Engineering",
 ))
 
 procaccino2005a = DB(WorkUnrelated(

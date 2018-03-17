@@ -192,6 +192,22 @@ dekkers2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+easterbrook2001a = DB(WorkUnrelated(
+    2001, "2nd international workshop on living with inconsistency (IWLWI01)",
+    display="easterbrook",
+    authors="Easterbrook, Steve and Chechik, Marsha",
+    place=FAKE,
+    pp="76--78",
+    entrytype="article",
+    volume="26",
+    number="6",
+    publisher="ACM",
+    ID="easterbrook20012nd",
+    cluster_id="13367524784770591648",
+    scholar="http://scholar.google.com/scholar?cites=13367524784770591648&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
 el2001a = DB(WorkUnrelated(
     2001, "Modelling the likelihood of software process improvement: An exploratory study",
     display="el",
@@ -205,6 +221,19 @@ el2001a = DB(WorkUnrelated(
     note="cited By 33",
     ID="El-Emam2001207",
     placex="Empirical Software Engineering",
+))
+
+eljabiri2001a = DB(WorkUnrelated(
+    2001, "Drivers for software process modeling evolution",
+    display="eljabiri",
+    authors="Eljabiri, Osama and Deek, Fadi",
+    place=FAKE,
+    pp="283",
+    entrytype="article",
+    ID="eljabiri2001drivers",
+    cluster_id="8475506320882258200",
+    scholar="http://scholar.google.com/scholar?cites=8475506320882258200&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="AMCIS 2001 Proceedings",
 ))
 
 emam2001a = DB(WorkUnrelated(
@@ -433,6 +462,22 @@ lebsanft2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+marcelloni2001a = DB(WorkUnrelated(
+    2001, "Leaving inconsistency using fuzzy logic",
+    display="marcelloni",
+    authors="Marcelloni, Francesco and Aksit, Mehmet",
+    place=IST,
+    pp="725--741",
+    entrytype="article",
+    volume="43",
+    number="12",
+    publisher="Elsevier",
+    ID="marcelloni2001leaving",
+    cluster_id="16758390103148486178",
+    scholar="http://scholar.google.com/scholar?cites=16758390103148486178&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and software technology",
+))
+
 mcgarry2001a = DB(WorkUnrelated(
     2001, "Practical Software Measurement: Objective Information for Decision Makers",
     display="mcgarry",
@@ -615,6 +660,17 @@ vohwinkel2001a = DB(WorkUnrelated(
     ID="Vohwinkel2001",
     springer="1",
     placex="Software Quality: State of the Art in Management, Testing, and Tools",
+))
+
+vázquez2001a = DB(WorkUnrelated(
+    2001, "Método de ingeniería de requisitos para manejo de discrepancias",
+    display="vázquez",
+    authors="Vázquez, Andrés Silva and Sánchez-Capuchino, Ana María Moreno",
+    place=Book,
+    entrytype="book",
+    publisher="A. Silva",
+    ID="vazquez2001metodo",
+    placex="",
 ))
 
 waina2001a = DB(WorkSnowball(

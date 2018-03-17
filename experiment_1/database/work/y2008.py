@@ -382,6 +382,20 @@ janssen2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd International Conference on Theory and Practice of Electronic Governance",
 ))
 
+kabbaj2008a = DB(WorkUnrelated(
+    2008, "A deviation management system for handling software process enactment evolution",
+    display="kabbaj",
+    authors="Kabbaj, Mohammed and Lbath, Redouane and Coulette, Bernard",
+    place=ICSE,
+    pp="186--197",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kabbaj2008deviation",
+    cluster_id="5271360689171300486",
+    scholar="http://scholar.google.com/scholar?cites=5271360689171300486&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
 kaplan2008a = DB(WorkUnrelated(
     2008, "Plan the strategy: Aligning the organization for effective strategy execution",
     display="kaplan",
@@ -438,6 +452,22 @@ kuppusamy2008a = DB(WorkUnrelated(
     placex="American Journal of Applied Sciences",
 ))
 
+liu2008a = DB(WorkUnrelated(
+    2008, "The impact of software process standardization on software flexibility and project management performance: Control theory perspective",
+    display="liu",
+    authors="Liu, Julie Yu-Chih and Chen, Victor J and Chan, Chien-Lung and Lie, Ting",
+    place=IST,
+    pp="889--896",
+    entrytype="article",
+    volume="50",
+    number="9-10",
+    publisher="Elsevier",
+    ID="liu2008impact",
+    cluster_id="2258168969150207003",
+    scholar="http://scholar.google.com/scholar?cites=2258168969150207003&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
 long2008a = DB(WorkUnrelated(
     2008, "ITIL version 3 at a glance",
     display="long",
@@ -447,6 +477,18 @@ long2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Long2008",
     placex="Springer US",
+))
+
+lui2008a = DB(WorkUnrelated(
+    2008, "Start with Open Source",
+    display="lui",
+    authors="Lui, Kim Man and Chan, Keith CC",
+    place=FAKE,
+    pp="55--84",
+    entrytype="article",
+    publisher="Wiley Online Library",
+    ID="lui2008start",
+    placex="Software Development Rhythms: Harmonizing Agile Practices for Synergy",
 ))
 
 markovic2008a = DB(WorkUnrelated(

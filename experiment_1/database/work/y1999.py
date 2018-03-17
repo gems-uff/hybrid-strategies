@@ -192,6 +192,16 @@ humphrey1999a = DB(WorkUnrelated(
     ID="Humphrey1999",
 ))
 
+jesko1999a = DB(WorkUnrelated(
+    1999, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",
+    display="jesko",
+    authors="Jesko, Dirk and Paul, Georg",
+    place=FAKE,
+    entrytype="article",
+    ID="jeskodistributed",
+    placex="",
+))
+
 kautz1999a = DB(WorkUnrelated(
     1999, "Making Sense of Measurement for Small Organizations",
     display="kautz",
@@ -262,6 +272,44 @@ raffo1999a = DB(WorkUnrelated(
     ID="Raffo1999163",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+rayson1999a = DB(WorkUnrelated(
+    1999, "Recovering legacy requirements",
+    display="rayson",
+    authors="Rayson, Paul and Garside, Roger and Sawyer, Pete",
+    place=REFSQ,
+    pp="49--54",
+    entrytype="inproceedings",
+    ID="rayson1999recovering",
+    cluster_id="17048212780347031346",
+    scholar="http://scholar.google.com/scholar?cites=17048212780347031346&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fifth International Workshop on Requirements Engineering: Foundations of Software Quality (REFSQ'99)",
+))
+
+rayson1999b = DB(WorkUnrelated(
+    1999, "Recovering Requirements from Legacy Documents",
+    display="rayson b",
+    authors="Rayson, Paul and Garside, Roger and Sawyer, Pete",
+    place=FAKE,
+    entrytype="misc",
+    ID="rayson1999recovering",
+    cluster_id="10909399688610067245",
+    scholar="http://scholar.google.com/scholar?cites=10909399688610067245&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+rayson1999c = DB(WorkUnrelated(
+    1999, "Language engineering for the recovery of requirements from legacy documents",
+    display="rayson c",
+    authors="Rayson, Paul and Garside, Roger and Sawyer, Pete",
+    place=FAKE,
+    entrytype="article",
+    publisher="Lancaster University",
+    ID="rayson1999language",
+    cluster_id="7909653469586778662",
+    scholar="http://scholar.google.com/scholar?cites=7909653469586778662&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 rodger1999a = DB(WorkUnrelated(

@@ -109,6 +109,20 @@ dubinsky2009a = DB(WorkUnrelated(
     placex="SIGSOFT Softw. Eng. Notes",
 ))
 
+egorova2009a = DB(WorkUnrelated(
+    2009, "Stakeholders' perception of success: An empirical investigation",
+    display="egorova",
+    authors="Egorova, Evgenia and Torchiano, Marco and Morisio, Maurizio and Wohlin, Claes and Aurum, Aybuke and Svensson, Richard Berntsson",
+    place=SEAA,
+    pp="210--216",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="egorova2009stakeholders",
+    cluster_id="2222336401975279588",
+    scholar="http://scholar.google.com/scholar?cites=2222336401975279588&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications, 2009. SEAA'09. 35th Euromicro Conference on",
+))
+
 fachrunnisa2009a = DB(WorkUnrelated(
     2009, "Current Research Trends and Directions for Future Research in Trust Maintenance for Virtual Environments",
     display="fachrunnisa",
@@ -306,6 +320,42 @@ marew2009a = DB(WorkUnrelated(
     ID="Marew20091642",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+michel2009a = DB(WorkUnrelated(
+    2009, "Detecting inconsistencies between software architecture views",
+    display="michel",
+    authors="Michel, Mirette M and Galal-Edeen, Galal H",
+    place=FAKE,
+    pp="429--434",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="michel2009detecting",
+    cluster_id="9981624624273703268",
+    scholar="http://scholar.google.com/scholar?cites=9981624624273703268&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Engineering & Systems, 2009. ICCES 2009. International Conference on",
+))
+
+morisio2009a = DB(WorkUnrelated(
+    2009, "Software project success: quantitative and qualitative evidences from the industrial projects",
+    display="morisio",
+    authors="MORISIO, Maurizio and EGOROVA, Evgenia",
+    place=FAKE,
+    entrytype="article",
+    ID="morisiosoftware",
+    placex="",
+))
+
+nair2009a = DB(WorkUnrelated(
+    2009, "Comprehensive Software Industry Analysis Model (CSIAM)",
+    display="nair",
+    authors="Nair, TR Gopalakrishnan and Selvarani, R and Ramachandran, Muthu",
+    place=FAKE,
+    pp="128",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="nair2009comprehensive",
+    placex="Handbook of Research on Software Engineering and Productivity Technologies: Implications of Globalization: Implications of Globalization",
 ))
 
 napier2009a = DB(WorkUnrelated(
@@ -607,4 +657,17 @@ zarour2009b = DB(WorkUnrelated(
     ID="zarour2009degree",
     local="ÉCOLE DE TECHNOLOGIE SUPÉRIEURE",
     placex="",
+))
+
+zhang2009a = DB(WorkUnrelated(
+    2009, "Taming Inconsistency in Value-based Software Development.",
+    display="zhang",
+    authors="Zhang, Du",
+    place=FAKE,
+    pp="450--455",
+    entrytype="inproceedings",
+    ID="zhang2009taming",
+    cluster_id="17743671589694981128",
+    scholar="http://scholar.google.com/scholar?cites=17743671589694981128&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="SEKE",
 ))

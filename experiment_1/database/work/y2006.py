@@ -83,6 +83,18 @@ basili2006a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 14, No. 6, Pp. 758-773",
 ))
 
+bent2006a = DB(WorkUnrelated(
+    2006, "A quality instrument for the enterprise architecture development process",
+    display="bent",
+    authors="van den Bent, Bas",
+    place=IC,
+    entrytype="article",
+    ID="van2006quality",
+    cluster_id="13423750184475062745",
+    scholar="http://scholar.google.com/scholar?cites=13423750184475062745&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Science",
+))
+
 berry2006a = DB(WorkUnrelated(
     2006, "Measurement and decision making",
     display="berry",

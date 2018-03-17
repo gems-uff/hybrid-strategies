@@ -354,6 +354,33 @@ karinsalo2004a = DB(WorkUnrelated(
     placex="Software Reuse: Methods, Techniques, and Tools",
 ))
 
+katz2004a = DB(WorkUnrelated(
+    2004, "From aspectual requirements to proof obligations for aspect-oriented systems",
+    display="katz",
+    authors="Katz, Shmuel and Rashid, Awais",
+    place=FAKE,
+    pp="48--57",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="katz2004aspectual",
+    cluster_id="11419762633775007925",
+    scholar="http://scholar.google.com/scholar?cites=11419762633775007925&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering Conference, 2004. Proceedings. 12th IEEE International",
+))
+
+katz2004b = DB(WorkUnrelated(
+    2004, "PROBE: From Requirements and Design to Proof Obligations for Aspect-Oriented Systems",
+    display="katz b",
+    authors="Katz, Shmuel and Rashid, Awais",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="katz2004probe",
+    cluster_id="1975009324973387269",
+    scholar="http://scholar.google.com/scholar?cites=1975009324973387269&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computing Department, Lancaster University, Lancaster COMP-002-2004",
+))
+
 kauppinen2004a = DB(WorkUnrelated(
     2004, "Implementing requirements engineering processes throughout organizations: success factors and challenges",
     display="kauppinen",
@@ -494,6 +521,20 @@ mehra2004a = DB(WorkUnrelated(
     note="cited By 20",
     ID="Mehra2004710",
     placex="Production Planning and Control",
+))
+
+nguyen2004a = DB(WorkUnrelated(
+    2004, "A formalism for conformance analysis and its applications",
+    display="nguyen",
+    authors="Nguyen, Tien Nhut and Munson, Ethan V",
+    place=ICSE,
+    pp="330--339",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="nguyen2004formalism",
+    cluster_id="14786983970671137879",
+    scholar="http://scholar.google.com/scholar?cites=14786983970671137879&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Formal Methods, 2004. SEFM 2004. Proceedings of the Second International Conference on",
 ))
 
 pedersen2004a = DB(WorkUnrelated(

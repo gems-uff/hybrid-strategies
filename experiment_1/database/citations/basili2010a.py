@@ -45,6 +45,10 @@ from ..work.y2012 import machado2012a
 from ..work.y2012 import olsina2012a
 from ..work.y2012 import buse2012a
 from ..work.y2012 import mandić2012a
+from ..work.y2012 import olsina2012b
+from ..work.y2012 import rombach2012a
+from ..work.y2012 import rensburg2012a
+from ..work.y2012 import mandić2012ab
 from ..work.y2013 import novais2013a
 from ..work.y2013 import trendowicz2013a
 from ..work.y2013 import münch2013c
@@ -63,6 +67,9 @@ from ..work.y2013 import lavazza2013a
 from ..work.y2013 import heidrich2013a
 from ..work.y2013 import doerr2013a
 from ..work.y2013 import olsina2013a
+from ..work.y2013 import hästbacka2013b
+from ..work.y2013 import eremenko2013a
+from ..work.y2013 import trendowicz2013b
 from ..work.y2014 import wallace2014a
 from ..work.y2014 import paternoster2014a
 from ..work.y2014 import giardino2014a
@@ -87,6 +94,12 @@ from ..work.y2014 import trendowicz2014a
 from ..work.y2014 import mitre2014a
 from ..work.y2014 import rombach2014a
 from ..work.y2014 import basili2014a
+from ..work.y2014 import mitrehernández2014a
+from ..work.y2014 import jørgensen2014a
+from ..work.y2014 import trendowicz2014b
+from ..work.y2014 import boehm2014a
+from ..work.y2014 import ferreira2014a
+from ..work.y2014 import YAMAMOTO2014a
 from ..work.y2015 import bird2015a
 from ..work.y2015 import becker2015a
 from ..work.y2015 import kläs2015a
@@ -99,6 +112,9 @@ from ..work.y2015 import papa2015a
 from ..work.y2015 import rivera2015ab
 from ..work.y2015 import abdulameer2015a
 from ..work.y2015 import lavazza2015b
+from ..work.y2015 import hyvönen2015a
+from ..work.y2015 import jeners2015a
+from ..work.y2015 import xu2015a
 from ..work.y2016 import kim2016a
 from ..work.y2016 import rivera2016a
 from ..work.y2016 import rivera2016b
@@ -128,6 +144,10 @@ from ..work.y2017 import becker2017a
 from ..work.y2017 import santos2017a
 from ..work.y2017 import zapata2017a
 from ..work.y2017 import mughal2017a
+from ..work.y2017 import nicho2017a
+from ..work.y2017 import pinheiro2017a
+from ..work.y2017 import tebes2017a
+from ..work.y2017 import ОВ2017a
 from ..work.y2018 import novais2018a
 from ..work.y2018 import sanchez2018a
 from ..work.y9999 import anders9999a
@@ -1031,6 +1051,146 @@ DB(Citation(
 
 DB(Citation(
     heidrich9999a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    nicho2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mitrehernández2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    olsina2012b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jørgensen2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hästbacka2013b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz2014b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hyvönen2015a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rombach2012a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    eremenko2013a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jeners2015a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rensburg2012a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    boehm2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pinheiro2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2012ab, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferreira2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tebes2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    xu2015a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz2013b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    YAMAMOTO2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ОВ2017a, basili2010a, ref="",
     contexts=[
 
     ],
