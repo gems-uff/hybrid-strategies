@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+mei2018a = DB(WorkUnrelated(
+    2018, "A Review of Software Engineering Research in China",
+    display="mei",
+    authors="Mei, Hong",
+    place=FAKE,
+    pp="6--9",
+    entrytype="article",
+    volume="42",
+    number="4",
+    publisher="ACM",
+    ID="mei2018review",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
 novais2018a = DB(WorkUnrelated(
     2018, "Software evolution visualization: status, challenges, and research directions",
     display="novais",

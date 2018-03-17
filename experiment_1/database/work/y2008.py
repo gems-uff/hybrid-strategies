@@ -67,6 +67,30 @@ babar2008b = DB(WorkUnrelated(
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
 ))
 
+barcellos2008a = DB(WorkUnrelated(
+    2008, "Avalia{ç}ão de Bases de Medidas considerando sua Aplicabilidade ao Controle Estatístico de Processos de Software",
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and ROCHA, ARC",
+    place=FAKE,
+    entrytype="article",
+    ID="barcellos2008avaliaccao",
+    cluster_id="6130679276477238473",
+    scholar="http://scholar.google.com/scholar?cites=6130679276477238473&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="VII Simpósio Brasileiro de Qualidade de Software (SBQS08), Florianópolis--SC",
+))
+
+barcellos2008b = DB(WorkUnrelated(
+    2008, "Uma Abordagem para Controle Estatístico de Processos de Software em Organiza{ç}ões de Alta Maturidade",
+    display="barcellos b",
+    authors="Barcellos, Monalessa Perini",
+    place=FAKE,
+    entrytype="article",
+    ID="barcellos2008abordagem",
+    cluster_id="13291230235783373616",
+    scholar="http://scholar.google.com/scholar?cites=13291230235783373616&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Exame de Qualifica{ç}ão para Tese de D. Sc., COPPE/UFRJ, Rio de Janeiro, Brasil",
+))
+
 becker2008a = DB(WorkSnowball(
     2008, "An approach to support the strategic alignment of software process improvement programs",
     display="becker b",
@@ -289,6 +313,20 @@ gorschek2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+gou2008a = DB(WorkUnrelated(
+    2008, "Quantitatively managing defects for iterative projects: An industrial experience report in China",
+    display="gou",
+    authors="Gou, Lang and Wang, Qing and Yuan, Jun and Yang, Ye and Li, Mingshu and Jiang, Nan",
+    place=ICSE,
+    pp="369--380",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="gou2008quantitatively",
+    cluster_id="1595857835389432228",
+    scholar="http://scholar.google.com/scholar?cites=1595857835389432228&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
 hanssen2008a = DB(WorkUnrelated(
     2008, "Process fusion: An industrial case study on agile software product line engineering",
     display="hanssen",
@@ -491,6 +529,21 @@ lui2008a = DB(WorkUnrelated(
     placex="Software Development Rhythms: Harmonizing Agile Practices for Synergy",
 ))
 
+mao2008a = DB(WorkUnrelated(
+    2008, "A coherent object-oriented (oo) software metric framework model: Software engineering",
+    display="mao",
+    authors="Mao, Mingzhi and Jiang, Yunfei",
+    place=ICSE,
+    pp="68--72",
+    entrytype="inproceedings",
+    volume="2",
+    organization="IEEE",
+    ID="mao2008coherent",
+    cluster_id="10340103246267672850",
+    scholar="http://scholar.google.com/scholar?cites=10340103246267672850&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Science and Software Engineering, 2008 International Conference on",
+))
+
 markovic2008a = DB(WorkUnrelated(
     2008, "Linking business goals to process models in semantic business process modeling",
     display="markovic",
@@ -537,6 +590,19 @@ mishra2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Mishra2008",
     placex="Product-focused software process improvement",
+))
+
+monteiro2008a = DB(WorkUnrelated(
+    2008, "Defini{ç}ão de um catálogo de medidas para a análise de desempenho de processo de software",
+    display="monteiro",
+    authors="Monteiro, Luis Felipe Salin and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Católica de Brasília",
+    ID="monteiro2008definiccao",
+    cluster_id="5865241509283977422",
+    scholar="http://scholar.google.com/scholar?cites=5865241509283977422&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 niebuhr2008a = DB(WorkUnrelated(
@@ -685,6 +751,19 @@ reitbauer2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
 ))
 
+santos2008a = DB(WorkUnrelated(
+    2008, "Ambientes de Engenharia de Software Orientados a Corpora{ç}ão",
+    display="santos",
+    authors="Santos, Gleison and Rocha, Ana Regina and Travassos, Guilherme Horta",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="santos2008ambientes",
+    cluster_id="3210481893095229341",
+    scholar="http://scholar.google.com/scholar?cites=3210481893095229341&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Tese de D. Sc., COPPE/UFRJ, Rio de Janeiro, RJ, Brasil",
+    placex="",
+))
+
 sharma2008a = DB(WorkUnrelated(
     2008, "Business value through product line engineering - a case study",
     display="sharma",
@@ -762,4 +841,60 @@ vähäniitty2008a = DB(WorkUnrelated(
     ID="Vahaniitty:2008:TCF:1370720.1370730",
     acm="1",
     placex="Proceedings of the 1st International Workshop on Software Development Governance",
+))
+
+wang2008a = DB(WorkUnrelated(
+    2008, "Estimating fixing effort and schedule based on defect injection distribution",
+    display="wang",
+    authors="Wang, Qing and Gou, Lang and Jiang, Nan and Che, Meiru and Zhang, Ronghui and Yang, Yun and Li, Mingshu",
+    place=SPIP,
+    pp="35--50",
+    entrytype="article",
+    volume="13",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="wang2008estimating",
+    cluster_id="10037802072190717452",
+    scholar="http://scholar.google.com/scholar?cites=10037802072190717452&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
+zhai2008a = DB(WorkUnrelated(
+    2008, "automated process quality assurance for distributed software development",
+    display="zhai",
+    authors="Zhai, Jian and Yang, Qiusong and Yang, Ye and Xiao, Junchao and Wang, Qing and Li, Mingshu",
+    place=FAKE,
+    pp="196--210",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="zhai2008automated",
+    placex="International Conference on Software Engineering Approaches for Offshore and Outsourced Development",
+))
+
+zhang2008a = DB(WorkUnrelated(
+    2008, "Capability assessment of individual software development processes using software repositories and dea",
+    display="zhang",
+    authors="Zhang, Shen and Wang, Yongji and Yang, Ye and Xiao, Junchao",
+    place=ICSE,
+    pp="147--159",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="zhang2008capability",
+    cluster_id="8413074065970719792",
+    scholar="http://scholar.google.com/scholar?cites=8413074065970719792&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
+zhang2008b = DB(WorkUnrelated(
+    2008, "Basic research in computer science and software engineering at SKLCS",
+    display="zhang b",
+    authors="Zhang, Jian and Zhang, Wenhui and Zhan, Naijun and Shen, Yidong and Chen, Haiming and Zhang, Yunquan and Wang, Yongji and Wu, Enhua and Wang, Hongan and Zhu, Xueyang",
+    place=FAKE,
+    pp="1--11",
+    entrytype="article",
+    volume="2",
+    number="1",
+    publisher="Springer",
+    ID="zhang2008basic",
+    placex="Frontiers of Computer Science in China",
 ))

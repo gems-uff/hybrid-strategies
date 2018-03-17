@@ -40,6 +40,19 @@ armstrong2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+brito2016a = DB(WorkUnrelated(
+    2016, "Measures Suitable for SPC: A Systematic Mapping",
+    display="brito",
+    authors="Brito, Daisy Ferreira and Barcellos, Monalessa Perini",
+    place=FAKE,
+    pp="166--180",
+    entrytype="inproceedings",
+    ID="brito2016measures",
+    cluster_id="9614728531402651272",
+    scholar="http://scholar.google.com/scholar?cites=9614728531402651272&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the XV Brazilian Symposium on Software Quality, Maceió--AL, Brazil",
+))
+
 cervantes2016a = DB(WorkUnrelated(
     2016, "Proceso de cambio: formalización y valorización con análisis costo-eficiencia en fase inicial para la mejora del proceso de software",
     display="cervantes",
@@ -226,6 +239,17 @@ machado2016a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="machado2016andre",
+    placex="",
+))
+
+machado2016b = DB(WorkUnrelated(
+    2016, "Análise da gestão da sustentabilidade nas empresas de software que empregam modelos de maturidade",
+    display="machado b",
+    authors="Machado, Márcia Cristina and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Nove de Julho",
+    ID="machado2016analise",
     placex="",
 ))
 

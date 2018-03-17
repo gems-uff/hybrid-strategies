@@ -385,6 +385,20 @@ kishore2006a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+li2006a = DB(WorkUnrelated(
+    2006, "Assessing 3-D integrated software development processes: A new benchmark",
+    display="li",
+    authors="Li, Mingshu",
+    place=FAKE,
+    pp="15--38",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="li2006assessing",
+    cluster_id="1748080141810175497",
+    scholar="http://scholar.google.com/scholar?cites=1748080141810175497&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process Workshop",
+))
+
 martins2006a = DB(WorkUnrelated(
     2006, "A case study applying process and project alignment methodology",
     display="martins",
@@ -535,6 +549,20 @@ tuan2006a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Tuan2006",
     placex="Proceedings of the 39th annual Hawaii international conference on system sciences",
+))
+
+wang2006a = DB(WorkUnrelated(
+    2006, "BSR: a statistic-based approach for establishing and refining software process performance baseline",
+    display="wang",
+    authors="Wang, Qing and Jiang, Nan and Gou, Lang and Liu, Xia and Li, Mingshu and Wang, Yongji",
+    place=ICSE,
+    pp="585--594",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="wang2006bsr",
+    cluster_id="8175570722120207926",
+    scholar="http://scholar.google.com/scholar?cites=8175570722120207926&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 28th international conference on Software engineering",
 ))
 
 wangeheim2006a = DB(WorkUnrelated(

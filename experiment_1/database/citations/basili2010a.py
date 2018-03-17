@@ -135,6 +135,7 @@ from ..work.y2016 import khalifa2016a
 from ..work.y2016 import port2016a
 from ..work.y2016 import armstrong2016a
 from ..work.y2016 import machado2016a
+from ..work.y2016 import machado2016b
 from ..work.y2017 import mandić2017a
 from ..work.y2017 import sanchez2017a
 from ..work.y2017 import olsina2017a
@@ -1191,6 +1192,13 @@ DB(Citation(
 
 DB(Citation(
     ОВ2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    machado2016b, basili2010a, ref="",
     contexts=[
 
     ],

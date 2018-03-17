@@ -701,6 +701,17 @@ odiit2014a = DB(WorkUnrelated(
     placex="Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology",
 ))
 
+oliveira2014a = DB(WorkUnrelated(
+    2014, "Software Quality Assurance by means of Methodologies, Measurements and Knowledge Management Issues",
+    display="oliveira",
+    authors="de Oliveira, Káthia Mar{ç}al",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="de2014software",
+    local="Université de Valenciennes et du Hainaut-Cambrésis",
+    placex="",
+))
+
 olsina2014a = DB(WorkUnrelated(
     2014, "Metrics and indicators as key organizational assets for ICT security assessment",
     display="olsina",

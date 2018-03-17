@@ -522,3 +522,13 @@ zaijun2005a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Zaijun2005",
 ))
+
+zhang2005a = DB(WorkUnrelated(
+    2005, "A Laboratory for Basic Research in Computer Science and Software Engineering",
+    display="zhang",
+    authors="Zhang, Jian and Zhang, Wenhui and Zhan, Naijun and Shen, Yidong and Chen, Haiming and Zhang, Yunquan and Wang, Yongji and Wu, Enhua and Wang, Hongan and Zhu, Xueyang",
+    place=FAKE,
+    entrytype="article",
+    ID="zhanglaboratory",
+    placex="",
+))

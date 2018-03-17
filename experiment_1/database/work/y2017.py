@@ -61,6 +61,18 @@ mandić2017a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+minhas2017a = DB(WorkUnrelated(
+    2017, "Regression Testing Goals-View of Practitioners and Researchers",
+    display="minhas",
+    authors="Minhas, Nasir Mehmood and Petersen, Kai and Ali, Nauman Bin and Wnuk, Krzysztof",
+    place=SEC,
+    pp="25--31",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="minhas2017regression",
+    placex="Software Engineering Conference Workshops (APSECW), 2017 24th Asia-Pacific",
+))
+
 mughal2017a = DB(WorkUnrelated(
     2017, "A Framework for Implementing Software Measurement Programs in Small and Medium Enterprises",
     display="mughal",
@@ -162,6 +174,17 @@ solaimani2017a = DB(WorkUnrelated(
     cluster_id="1650566889326586480",
     scholar="http://scholar.google.com/scholar?cites=1650566889326586480&as_sdt=2005&sciodt=0,5&hl=en",
     placex="European Management Review",
+))
+
+tatibana2017a = DB(WorkUnrelated(
+    2017, "Análise comparativa do impacto dos artefatos de requisito no processo de desenvolvimento de software",
+    display="tatibana",
+    authors="Tatibana, Guilherme Mitsuo and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Florianópolis, SC",
+    ID="tatibana2017analise",
+    placex="",
 ))
 
 tebes2017a = DB(WorkUnrelated(

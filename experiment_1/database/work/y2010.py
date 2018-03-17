@@ -187,6 +187,20 @@ dounos2010a = DB(WorkUnrelated(
     placex="Informatics (PCI), 2010 14th Panhellenic Conference on",
 ))
 
+du2010a = DB(WorkUnrelated(
+    2010, "a case study on usage of a software process management tool in china",
+    display="du",
+    authors="Du, Jing and Yang, Ye and Lin, Zhongpeng and Wang, Qing and Li, Mingshu and Yuan, Feng",
+    place=SEC,
+    pp="443--452",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="du2010case",
+    cluster_id="5599657959749411000",
+    scholar="http://scholar.google.com/scholar?cites=5599657959749411000&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference (APSEC), 2010 17th Asia Pacific",
+))
+
 détienne2010a = DB(WorkUnrelated(
     2010, "Why Do Users Communicate via Such or Such Media?: Some Insights from Users' Daily Experiences",
     display="détienne",
@@ -541,6 +555,34 @@ lester2010a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+malik2010a = DB(WorkUnrelated(
+    2010, "Quantitative and qualitative analyses of requirements elaboration for early software size estimation",
+    display="malik",
+    authors="Malik, Ali Afzal",
+    place=Book,
+    entrytype="book",
+    publisher="University of Southern California",
+    ID="malik2010quantitative",
+    cluster_id="18380665794697140974",
+    scholar="http://scholar.google.com/scholar?cites=18380665794697140974&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+malik2010b = DB(WorkUnrelated(
+    2010, "Comparative analysis of requirements elaboration of an industrial product",
+    display="malik b",
+    authors="Malik, Ali Afzal and Boehm, Barry and Ku, Yan and Yang, Ye",
+    place=FAKE,
+    pp="V1--46",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="malik2010comparative",
+    cluster_id="2813919223280174213",
+    scholar="http://scholar.google.com/scholar?cites=2813919223280174213&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Technology and Engineering (ICSTE), 2010 2nd International Conference on",
+))
+
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -683,6 +725,19 @@ mellado2010a = DB(WorkUnrelated(
     ID="Mellado2010153",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+))
+
+monteiro2010a = DB(WorkUnrelated(
+    2010, "Defining a catalog of indicators to support process performance analysis",
+    display="monteiro",
+    authors="Monteiro, Luis Felipe Salin and de Oliveira, Kathia Mar{ç}al",
+    place=JSEP,
+    entrytype="article",
+    publisher="Wiley Online Library",
+    ID="monteiro2010defining",
+    cluster_id="13701762143396136253",
+    scholar="http://scholar.google.com/scholar?cites=13701762143396136253&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
 ))
 
 müller2010a = DB(WorkUnrelated(
@@ -836,6 +891,20 @@ sarcia2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
 ))
 
+shu2010a = DB(WorkUnrelated(
+    2010, "Measurement and analysis of process audit: A case study",
+    display="shu",
+    authors="Shu, Fengdi and Li, Qi and Wang, Qing and Zhang, Haopeng",
+    place=ICSE,
+    pp="285--296",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="shu2010measurement",
+    cluster_id="1972877809701793784",
+    scholar="http://scholar.google.com/scholar?cites=1972877809701793784&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
 softex2010a = DB(WorkUnrelated(
     2010, "MPS.BR",
     journal= "softex",
@@ -882,6 +951,18 @@ tisselli2010a = DB(WorkUnrelated(
     ID="Tisselli:2010:TCS:1787234.1787270",
     acm="1",
     placex="Commun. ACM",
+))
+
+unterkalmsteiner2010a = DB(WorkUnrelated(
+    2010, "Extended Material to Evaluation and Measurement of Software Process ImprovementA Systematic Literature Review",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, M and Gorschek, Tony and Islam, AKMM and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=FAKE,
+    entrytype="misc",
+    ID="unterkalmsteiner2010extended",
+    cluster_id="7059711458164801125",
+    scholar="http://scholar.google.com/scholar?cites=7059711458164801125&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 vanut2010a = DB(WorkUnrelated(
@@ -999,4 +1080,18 @@ zhang2010a = DB(WorkUnrelated(
     cluster_id="1097166577944984033",
     scholar="http://scholar.google.com/scholar?cites=1097166577944984033&as_sdt=2005&sciodt=0,5&hl=en",
     placex="SEKE",
+))
+
+zhang2010b = DB(WorkUnrelated(
+    2010, "A fuzzy-based method for evaluating the trustworthiness of software processes",
+    display="zhang b",
+    authors="Zhang, Haopeng and Shu, Fengdi and Yang, Ye and Wang, Xu and Wang, Qing",
+    place=ICSE,
+    pp="297--308",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="zhang2010fuzzy",
+    cluster_id="9419717857347968417",
+    scholar="http://scholar.google.com/scholar?cites=9419717857347968417&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
 ))

@@ -890,6 +890,20 @@ valdés2011a = DB(WorkUnrelated(
     placex="Government Information Quarterly",
 ))
 
+wang2011a = DB(WorkUnrelated(
+    2011, "Is It Really a Defect? An Empirical Study on Measuring and Improving the Process of Software Defect Reporting",
+    display="wang",
+    authors="Wang, Dandan and Wang, Qing and Yang, Ye and Li, Qi and Wang, Haitao and Yuan, Feng",
+    place=ESEM,
+    pp="434--443",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2011really",
+    cluster_id="7102192581024038600",
+    scholar="http://scholar.google.com/scholar?cites=7102192581024038600&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Empirical Software Engineering and Measurement (ESEM), 2011 International Symposium on",
+))
+
 yin2011a = DB(WorkUnrelated(
     2011, "Applications of case study research",
     display="yin",

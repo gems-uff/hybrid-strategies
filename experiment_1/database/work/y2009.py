@@ -28,6 +28,16 @@ albuquerque2009a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+barcellos2009a = DB(WorkUnrelated(
+    2009, "An Ontology-based Approach for Software Measurement and Suitability Measurement Repository Evaluation to Apply Statistical Software Process Control in High Maturity Organizations.",
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and da Rocha, Ana Regina C and Falbo, Ricardo de A",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="barcellos2009ontology",
+    placex="ER PhD Colloquium",
+))
+
 basili2009a = DB(WorkUnrelated(
     2009, "Determining the impact of business strategies using principles from goal-oriented measurement",
     display="basili",
@@ -48,6 +58,30 @@ basili2009b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Basili2009",
     placex="IEEE",
+))
+
+bhatti2009a = DB(WorkUnrelated(
+    2009, "A model for selecting an optimum set of measures in software organizations",
+    display="bhatti",
+    authors="Bhatti, Ansar Malook and Abdullah, Hafiz Muhammad and Gencel, Cigdem",
+    place=FAKE,
+    pp="44--56",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="bhatti2009model",
+    cluster_id="4518984954163572045",
+    scholar="http://scholar.google.com/scholar?cites=4518984954163572045&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
+bhatti2009b = DB(WorkUnrelated(
+    2009, "Deciding on Optimum Set of Measures in Software Organizations",
+    display="bhatti b",
+    authors="Bhatti, Ansar Malook and Abdullah, Hafiz Muhammad",
+    place=FAKE,
+    entrytype="misc",
+    ID="bhatti2009deciding",
+    placex="",
 ))
 
 bjørnson2009a = DB(WorkUnrelated(
@@ -90,6 +124,18 @@ chastek2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Chastek2009",
     placex="DTIC MIL",
+))
+
+cheng2009a = DB(WorkUnrelated(
+    2009, "Towards an Evaluation Framework for Software Process Improvement",
+    display="cheng",
+    authors="Cheng, Chow Kian and Permadi, Rahadian Bayu",
+    place=FAKE,
+    entrytype="misc",
+    ID="cheng2009towards",
+    cluster_id="13040429128740927555",
+    scholar="http://scholar.google.com/scholar?cites=13040429128740927555&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 dubinsky2009a = DB(WorkUnrelated(
@@ -156,6 +202,22 @@ galinac2009a = DB(WorkUnrelated(
     scopus="1",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+gou2009a = DB(WorkUnrelated(
+    2009, "Quantitative defects management in iterative development with BiDefect",
+    display="gou",
+    authors="Gou, Lang and Wang, Qing and Yuan, Jun and Yang, Ye and Li, Mingshu and Jiang, Nan",
+    place=SPIP,
+    pp="227--241",
+    entrytype="article",
+    volume="14",
+    number="4",
+    publisher="Wiley Online Library",
+    ID="gou2009quantitative",
+    cluster_id="4408358131394087276",
+    scholar="http://scholar.google.com/scholar?cites=4408358131394087276&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
 ))
 
 graham2009a = DB(WorkUnrelated(
@@ -282,6 +344,34 @@ laporte2009a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10325611805083199554&as_sdt=2005&sciodt=0,5&hl=en",
     local="Université de Bretagne occidentale-Brest",
     placex="",
+))
+
+li2009a = DB(WorkUnrelated(
+    2009, "A case study on tailoring software process for characteristics based on rup",
+    display="li",
+    authors="Li, Jieshan and Mao, Mingzhi",
+    place=FAKE,
+    pp="1--5",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="li2009case",
+    cluster_id="2422997012279934355",
+    scholar="http://scholar.google.com/scholar?cites=2422997012279934355&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computational Intelligence and Software Engineering, 2009. CiSE 2009. International Conference on",
+))
+
+lin2009a = DB(WorkUnrelated(
+    2009, "An empirical study on bug assignment automation using Chinese bug data",
+    display="lin",
+    authors="Lin, Zhongpeng and Shu, Fengdi and Yang, Ye and Hu, Chenyong and Wang, Qing",
+    place=ESEM,
+    pp="451--455",
+    entrytype="inproceedings",
+    organization="IEEE Computer Society",
+    ID="lin2009empirical",
+    cluster_id="11632414351493290878",
+    scholar="http://scholar.google.com/scholar?cites=11632414351493290878&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2009 3rd International Symposium on Empirical Software Engineering and Measurement",
 ))
 
 loikkanen2009a = DB(WorkUnrelated(
@@ -543,6 +633,16 @@ taylor2009a = DB(WorkUnrelated(
     placex="Information Systems Development",
 ))
 
+tomaz2009a = DB(WorkUnrelated(
+    2009, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
+    display="tomaz",
+    authors="Tomaz, Daisy Ferreira Brito",
+    place=FAKE,
+    entrytype="article",
+    ID="tomazlinguagem",
+    placex="",
+))
+
 trendowicz2009a = DB(WorkUnrelated(
     2009, "Chapter 6 Factors Influencing Software Development ProductivityState?of?the?Art and Industrial Experiences",
     display="trendowicz",
@@ -633,6 +733,20 @@ widya2009a = DB(WorkUnrelated(
     ID="Widya:2009:EPR:1529282.1529368",
     acm="1",
     placex="Proceedings of the 2009 ACM Symposium on Applied Computing",
+))
+
+yang2009a = DB(WorkUnrelated(
+    2009, "Process trustworthiness as a capability indicator for measuring and improving software trustworthiness",
+    display="yang",
+    authors="Yang, Ye and Wang, Qing and Li, Mingshu",
+    place=ICSE,
+    pp="389--401",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="yang2009process",
+    cluster_id="8821356941599800402",
+    scholar="http://scholar.google.com/scholar?cites=8821356941599800402&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
 ))
 
 zarour2009a = DB(WorkUnrelated(

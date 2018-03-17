@@ -467,6 +467,20 @@ qi2007a = DB(WorkUnrelated(
     placex="Performance results from process improvement, DACS Journal",
 ))
 
+ruan2007a = DB(WorkUnrelated(
+    2007, "Empirical study on benchmarking software development tasks",
+    display="ruan",
+    authors="Ruan, Li and Wang, Yongji and Wang, Qing and Li, Mingshu and Yang, Yun and Xie, Lizi and Liu, Dapeng and Zeng, Haitao and Zhang, Shen and Xiao, Junchao and others",
+    place=ICSE,
+    pp="221--232",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ruan2007empirical",
+    cluster_id="2464670539852424689",
+    scholar="http://scholar.google.com/scholar?cites=2464670539852424689&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
 salo2007a = DB(WorkUnrelated(
     2007, "An iterative improvement process for agile software development",
     display="salo",
@@ -628,6 +642,20 @@ verhoef2007a = DB(WorkUnrelated(
     ID="Verhoef2007247",
     sciencedirect="1",
     placex="Science of Computer Programming",
+))
+
+wang2007a = DB(WorkUnrelated(
+    2007, "An empirical study on establishing quantitative management model for testing process",
+    display="wang",
+    authors="Wang, Qing and Gou, Lang and Jiang, Nan and Che, Meiru and Zhang, Ronghui and Yang, Yun and Li, Mingshu",
+    place=ICSE,
+    pp="233--245",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="wang2007empirical",
+    cluster_id="9369912459676437596",
+    scholar="http://scholar.google.com/scholar?cites=9369912459676437596&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
 ))
 
 watson2007a = DB(WorkUnrelated(

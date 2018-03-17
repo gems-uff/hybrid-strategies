@@ -989,6 +989,22 @@ sulayman2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+unterkalmsteiner2012a = DB(WorkUnrelated(
+    2012, "Evaluation and measurement of software process improvementa systematic literature review",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, Michael and Gorschek, Tony and Islam, AKM Moinul and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=ToSE,
+    pp="398--424",
+    entrytype="article",
+    volume="38",
+    number="2",
+    publisher="IEEE",
+    ID="unterkalmsteiner2012evaluation",
+    cluster_id="17653250403819569327",
+    scholar="http://scholar.google.com/scholar?cites=17653250403819569327&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 wendler2012a = DB(WorkUnrelated(
     2012, "The maturity of maturity model research: A systematic mapping study",
     display="wendler",

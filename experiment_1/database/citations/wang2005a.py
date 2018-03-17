@@ -20,6 +20,43 @@ from ..work.y2003 import murugappan2003a
 from ..work.y2004 import sommerville2004a
 from ..work.y2004 import chrissis2004a
 from ..work.y2005 import wang2005a
+from ..work.y2005 import zhang2005a
+from ..work.y2006 import wang2006a
+from ..work.y2006 import li2006a
+from ..work.y2007 import wang2007a
+from ..work.y2007 import ruan2007a
+from ..work.y2008 import gou2008a
+from ..work.y2008 import wang2008a
+from ..work.y2008 import santos2008a
+from ..work.y2008 import zhang2008a
+from ..work.y2008 import mao2008a
+from ..work.y2008 import barcellos2008a
+from ..work.y2008 import barcellos2008b
+from ..work.y2008 import monteiro2008a
+from ..work.y2008 import zhai2008a
+from ..work.y2008 import zhang2008b
+from ..work.y2009 import yang2009a
+from ..work.y2009 import lin2009a
+from ..work.y2009 import gou2009a
+from ..work.y2009 import bhatti2009a
+from ..work.y2009 import li2009a
+from ..work.y2009 import cheng2009a
+from ..work.y2009 import barcellos2009a
+from ..work.y2009 import bhatti2009b
+from ..work.y2009 import tomaz2009a
+from ..work.y2010 import monteiro2010a
+from ..work.y2010 import zhang2010b
+from ..work.y2010 import malik2010a
+from ..work.y2010 import du2010a
+from ..work.y2010 import shu2010a
+from ..work.y2010 import unterkalmsteiner2010a
+from ..work.y2010 import malik2010b
+from ..work.y2011 import wang2011a
+from ..work.y2012 import unterkalmsteiner2012a
+from ..work.y2014 import oliveira2014a
+from ..work.y2016 import brito2016a
+from ..work.y2017 import tatibana2017a
+from ..work.y2018 import mei2018a
 
 DB(Citation(
     wang2005a, sommerville2004a, ref="",
@@ -128,6 +165,272 @@ DB(Citation(
 
 DB(Citation(
     wang2005a, chrissis2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    unterkalmsteiner2012a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    unterkalmsteiner2012a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2006a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    yang2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lin2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2007a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    monteiro2010a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gou2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gou2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    li2006a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bhatti2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    li2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ruan2007a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    santos2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mao2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2011a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2010b, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    malik2010a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barcellos2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cheng2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barcellos2008b, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    du2010a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    shu2010a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    brito2016a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    unterkalmsteiner2010a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    malik2010b, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    monteiro2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barcellos2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bhatti2009b, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhai2008a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2008b, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mei2018a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oliveira2014a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2005a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tomaz2009a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tatibana2017a, wang2005a, ref="",
     contexts=[
 
     ],

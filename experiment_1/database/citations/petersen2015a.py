@@ -71,6 +71,7 @@ from ..work.y2017 import mandić2017a
 from ..work.y2017 import mughal2017a
 from ..work.y2017 import li2017a
 from ..work.y2017 import trinkenreich2017b
+from ..work.y2017 import minhas2017a
 
 DB(Citation(
     petersen2015a, ali2012a, ref="",
@@ -536,6 +537,13 @@ DB(Citation(
 
 DB(Citation(
     trinkenreich2017b, petersen2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    minhas2017a, petersen2015a, ref="",
     contexts=[
 
     ],
