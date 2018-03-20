@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alagarsamy2008a = DB(WorkUnrelated(
+    2008, "Implementation specification for software process improvement supportive knowledge management tool",
+    display="alagarsamy",
+    authors="Alagarsamy, K and Justus, Selwyn and Iyakutti, Kombiah",
+    place=IEEES,
+    pp="123--133",
+    entrytype="article",
+    volume="2",
+    number="2",
+    publisher="IET",
+    ID="alagarsamy2008implementation",
+    cluster_id="6143026836610612217",
+    scholar="http://scholar.google.com/scholar?cites=6143026836610612217&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IET software",
+))
+
 asokan2008a = DB(WorkUnrelated(
     2008, "Healthy Technology",
     display="asokan",
@@ -139,6 +155,18 @@ becker2008b = DB(WorkSnowball(
     placex="Proceedings - International Conference on Software Engineering",
 ))
 
+bertrand2008a = DB(WorkUnrelated(
+    2008, "Modeling and management of process in numerical engineering. Application in foundry.",
+    display="bertrand",
+    authors="Bertrand, B and Danesi, F and Gardan, N and Gardan, Y",
+    place=FAKE,
+    pp="206--210",
+    entrytype="inproceedings",
+    organization="World Scientific and Engineering Academy and Society (WSEAS)",
+    ID="bertrand2008modeling",
+    placex="Proceedings of the 7th WSEAS international conference on System science and simulation in engineering",
+))
+
 bjørnson2008a = DB(WorkUnrelated(
     2008, "Knowledge management in software engineering: A systematic review of studied concepts, findings and research methods used",
     display="bjørnson",
@@ -156,6 +184,22 @@ bjørnson2008a = DB(WorkUnrelated(
     ID="Bjørnson20081055",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+chen2008a = DB(WorkUnrelated(
+    2008, "An objective-oriented and product-line-based manufacturing performance measurement",
+    display="chen",
+    authors="Chen, Chee-Cheng",
+    place=FAKE,
+    pp="380--390",
+    entrytype="article",
+    volume="112",
+    number="1",
+    publisher="Elsevier",
+    ID="chen2008objective",
+    cluster_id="2788151225591553526",
+    scholar="http://scholar.google.com/scholar?cites=2788151225591553526&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Production Economics",
 ))
 
 cheng2008a = DB(WorkUnrelated(
@@ -311,6 +355,7 @@ gorschek2008a = DB(WorkUnrelated(
     ID="Gorschek200867",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=11359460249030422468&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 gou2008a = DB(WorkUnrelated(
@@ -325,6 +370,20 @@ gou2008a = DB(WorkUnrelated(
     cluster_id="1595857835389432228",
     scholar="http://scholar.google.com/scholar?cites=1595857835389432228&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+))
+
+habib2008a = DB(WorkUnrelated(
+    2008, "Blending six sigma and CMMI-an approach to accelerate process improvement in SMEs",
+    display="habib",
+    authors="Habib, Maria and Ahmed, Sana and Rehmat, Amna and Khan, Malik Jahan and Shamail, Shafay",
+    place=FAKE,
+    pp="386--391",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="habib2008blending",
+    cluster_id="12942614433290959761",
+    scholar="http://scholar.google.com/scholar?cites=12942614433290959761&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Multitopic Conference, 2008. INMIC 2008. IEEE International",
 ))
 
 hanssen2008a = DB(WorkUnrelated(
@@ -490,6 +549,20 @@ kuppusamy2008a = DB(WorkUnrelated(
     placex="American Journal of Applied Sciences",
 ))
 
+landaeta2008a = DB(WorkUnrelated(
+    2008, "Practical SPI planning",
+    display="landaeta",
+    authors="Landaeta, José Francisco and García, Javier and Amescua, Antonio",
+    place=FAKE,
+    pp="82--93",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="landaeta2008practical",
+    cluster_id="8912082203644082263",
+    scholar="http://scholar.google.com/scholar?cites=8912082203644082263&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
 liu2008a = DB(WorkUnrelated(
     2008, "The impact of software process standardization on software flexibility and project management performance: Control theory perspective",
     display="liu",
@@ -590,6 +663,7 @@ mishra2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Mishra2008",
     placex="Product-focused software process improvement",
+    scholar="http://scholar.google.com/scholar?cites=4586401233150442603&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 monteiro2008a = DB(WorkUnrelated(
@@ -736,6 +810,21 @@ qumer2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+rasidi2008a = DB(WorkUnrelated(
+    2008, "The adoption of software process improvement (SPI) Program in the construction industry",
+    display="rasidi",
+    authors="Rasidi, Hanim and Ibrahim, Rahinah",
+    place=FAKE,
+    pp="79--90",
+    entrytype="article",
+    volume="3",
+    number="1",
+    ID="rasidi2008adoption",
+    cluster_id="12183783356567413526",
+    scholar="http://scholar.google.com/scholar?cites=12183783356567413526&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ALAM CIPTA, International Journal on Sustainable Tropical Design Research & Practice",
+))
+
 reitbauer2008a = DB(WorkUnrelated(
     2008, "Redesigning Business Networks: Reference Process, Network and Service Map",
     display="reitbauer",
@@ -749,6 +838,17 @@ reitbauer2008a = DB(WorkUnrelated(
     ID="Reitbauer:2008:RBN:1363686.1363819",
     acm="1",
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
+))
+
+sanders2008a = DB(WorkUnrelated(
+    2008, "Finding out what really happened after SPI assistance in Ireland",
+    display="sanders",
+    authors="Sanders, Martha H",
+    place=FAKE,
+    entrytype="article",
+    publisher="University of Limerick",
+    ID="sanders2008finding",
+    placex="",
 ))
 
 santos2008a = DB(WorkUnrelated(
@@ -776,6 +876,40 @@ sharma2008a = DB(WorkUnrelated(
     note="cited By 6",
     ID="Sharma2008167",
     placex="EUROMICRO 2008 - Proceedings of the 34th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2008",
+))
+
+shen2008a = DB(WorkUnrelated(
+    2008, "Software Engineering Challenges in Small Companies",
+    display="shen",
+    authors="Shen, Yiyun",
+    place=FAKE,
+    entrytype="article",
+    ID="shen2008software",
+    cluster_id="15244587620961666101",
+    scholar="http://scholar.google.com/scholar?cites=15244587620961666101&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="UNIVERSITY OF HELSINKI",
+))
+
+siritanachot2008a = DB(WorkUnrelated(
+    2008, "The Impact of Interventional Change Techniques on an Internet Banking Cross-functional Team.",
+    display="siritanachot",
+    authors="Siritanachot, Chansit",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="siritanachot2008impact",
+    local="The University of Waikato",
+    placex="",
+))
+
+songnisai2008a = DB(WorkUnrelated(
+    2008, "Using Capability Maturity Model to Assess the Effectiveness of ISO 9001: 2000 Implementation: Case Study at Sanyo Semiconductor (Thailand) Co., Ltd",
+    display="songnisai",
+    authors="Songnisai, Sakulrat",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="songnisai2008using",
+    local="Kasetsart University",
+    placex="",
 ))
 
 stafford2008a = DB(WorkUnrelated(
@@ -812,6 +946,7 @@ staples2008a = DB(WorkUnrelated(
     ID="Staples2008605",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=14831048305439200443&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 sureshchandra2008a = DB(WorkUnrelated(
@@ -826,6 +961,36 @@ sureshchandra2008a = DB(WorkUnrelated(
     note="cited By 44",
     ID="Sureshchandra2008217",
     placex="Proceedings - 2008 3rd IEEE International Conference Global Software Engineering, ICGSE 2008",
+))
+
+tjornehoj2008a = DB(WorkUnrelated(
+    2008, "Between control and drift: negotiating improvement in a small software firm",
+    display="tjornehoj",
+    authors="Tjornehoj, Gitte and Mathiassen, Lars",
+    place=FAKE,
+    pp="69--90",
+    entrytype="article",
+    volume="21",
+    number="1",
+    publisher="Emerald Group Publishing Limited",
+    ID="tjornehoj2008between",
+    cluster_id="15402895200947573760",
+    scholar="http://scholar.google.com/scholar?cites=15402895200947573760&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Technology & People",
+))
+
+tjørnehøj2008a = DB(WorkUnrelated(
+    2008, "The Role of improvisation in adoption of process technology in a small software firm",
+    display="tjørnehøj",
+    authors="Tjørnehøj, Gitte and Mathiassen, Lars",
+    place=FAKE,
+    pp="137",
+    entrytype="article",
+    publisher="Software Innovation Publisher Aalborg, Denmark",
+    ID="tjornehoj2008role",
+    cluster_id="1615703338188678444",
+    scholar="http://scholar.google.com/scholar?cites=1615703338188678444&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Processes & Knowledge",
 ))
 
 vähäniitty2008a = DB(WorkUnrelated(

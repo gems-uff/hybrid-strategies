@@ -18,6 +18,16 @@ from ..work.y1997 import reiblein1997a
 from ..work.y1997 import hinley1997a
 from ..work.y1997 import isoies1997a
 from ..work.y1997 import group1997a
+from ..work.y1998 import stelzer1998b
+from ..work.y1999 import halloran1999a
+from ..work.y2001 import baddoo2001a
+from ..work.y2001 import bowers2001a
+from ..work.y2002 import donkin2002a
+from ..work.y2004 import makipaa2004a
+from ..work.y2007 import alshawi2007a
+from ..work.y2007 import schalken2007a
+from ..work.y2007 import murakami2007a
+from ..work.y2007 import brouwer2007a
 
 DB(Citation(
     reiblein1997a, itil1989a, ref="",
@@ -112,6 +122,76 @@ DB(Citation(
 
 DB(Citation(
     reiblein1997a, cmm1993a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alshawi2007a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    halloran1999a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    baddoo2001a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stelzer1998b, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    schalken2007a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    donkin2002a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    murakami2007a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    brouwer2007a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bowers2001a, reiblein1997a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    makipaa2004a, reiblein1997a, ref="",
     contexts=[
 
     ],

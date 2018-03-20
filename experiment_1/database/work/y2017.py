@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ayaz2017a = DB(WorkUnrelated(
+    2017, "A Novel Model of Software Process Improvements for Small and Medium Scale Enterprises by using the Big Data Analytics Approach",
+    display="ayaz",
+    authors="Ayaz, Muhammad",
+    place=FAKE,
+    entrytype="article",
+    ID="ayaznovel",
+    placex="",
+))
+
 becker2017a = DB(WorkUnrelated(
     2017, "Tuning the analysis activity of quality evaluation strategies for different purposes",
     display="becker",
@@ -13,6 +23,52 @@ becker2017a = DB(WorkUnrelated(
     organization="IEEE",
     ID="becker2017tuning",
     placex="Computer Conference (CLEI), 2017 XLIII Latin American",
+))
+
+carmo2017a = DB(WorkUnrelated(
+    2017, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management",
+    display="carmo",
+    authors="Carmo, Adson and Fantinato, Marcelo and Thom, Lucinéia and Prado, Edmir and Spinola, Mauro and Hung, Patrick",
+    place=FAKE,
+    entrytype="article",
+    ID="carmoanalysis",
+    placex="",
+))
+
+carmo2017b = DB(WorkUnrelated(
+    2017, "KPI como base para modelagem de requisitos não funcionais em processos de negócio",
+    display="carmo",
+    authors="Carmo, Adson Rocha do",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="carmokpi",
+    local="Universidade de São Paulo",
+    placex="",
+))
+
+dashkov2017a = DB(WorkUnrelated(
+    2017, "coordination of Project and current Activities on the Basis of the strategy Alignment Metamodel in the Oil and Gas company",
+    display="dashkov",
+    authors="Dashkov, Roman Yu",
+    place=FAKE,
+    pp="263--275",
+    entrytype="article",
+    volume="8",
+    number="2",
+    ID="dashkov2017coordination",
+    placex="???????????? ????????? ????????",
+))
+
+freire2017a = DB(WorkUnrelated(
+    2017, "Catálogo de Práticas para Tratamento de Fatores Críticos de Influência Negativa em Iniciativas de Melhoria de Processos de Software Baseadas em Modelos de Maturidade",
+    display="freire",
+    authors="Freire, Raphael Khoury and Santos, Gleison and Viana, Davi",
+    place=FAKE,
+    entrytype="article",
+    volume="10",
+    number="1",
+    ID="freire2017catalogo",
+    placex="RelaTe-DIA",
 ))
 
 ghose2017a = DB(WorkUnrelated(
@@ -34,6 +90,20 @@ jurczuk2017a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="jurczuk2017business",
     placex="Economic and Social Development (Book of Proceedings), 23rd International Scientific Conference on Economic and Social",
+))
+
+kasurinen2017a = DB(WorkUnrelated(
+    2017, "Defining an Iterative ISO/IEC 29110 Deployment Package for Game Developers",
+    display="kasurinen",
+    authors="Kasurinen, Jussi and Smolander, Kari",
+    place=FAKE,
+    pp="107--125",
+    entrytype="article",
+    volume="10",
+    number="1",
+    publisher="IGI Global",
+    ID="kasurinen2017defining",
+    placex="International Journal of Information Technologies and Systems Approach (IJITSA)",
 ))
 
 li2017a = DB(WorkUnrelated(
@@ -71,6 +141,26 @@ minhas2017a = DB(WorkUnrelated(
     organization="IEEE",
     ID="minhas2017regression",
     placex="Software Engineering Conference Workshops (APSECW), 2017 24th Asia-Pacific",
+))
+
+moreira2017a = DB(WorkUnrelated(
+    2017, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION.",
+    display="moreira",
+    authors="Moreira, Renata Teles",
+    place=FAKE,
+    entrytype="article",
+    ID="moreirainsights",
+    placex="14th INTERNATIONAL CONFERENCE ON INFORMATION SYSTEMS & TECHNOLOGY MANAGEMENT - CONTECSI - 2017 ",
+))
+
+moreira2017b = DB(WorkUnrelated(
+    2017, "THE ADHESION OF THE PROCESS OF CONTRACTING OF INFORMATION TECHNOLOGY SOLUTIONS BY THE BODIES ASSOCIATED TO THE FEDERAL PUBLIC ADMINISTRATION ADOPTING DOCUMENTARY ANALYSIS",
+    display="moreira",
+    authors="Moreira, Renata Teles",
+    place=FAKE,
+    entrytype="article",
+    ID="moreiraadhesion",
+    placex="",
 ))
 
 mughal2017a = DB(WorkUnrelated(
@@ -247,6 +337,16 @@ vasconcellos2017a = DB(WorkUnrelated(
     cluster_id="13351017972535420961",
     scholar="http://scholar.google.com/scholar?cites=13351017972535420961&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of systems and software",
+))
+
+vasconcellos2017b = DB(WorkUnrelated(
+    2017, "Alinhamento estratégico de melhoria de processos de software: percep{ç}ões de um processo de apoio à decisão",
+    display="vasconcellos",
+    authors="Vasconcellos, Francisco JS and Minhare, Caíque and Fuchs, Leonardo and Vasconcellos, Jucele FA and da Cunha, José Adson OG and Vincenzi, Auri MR",
+    place=FAKE,
+    entrytype="article",
+    ID="vasconcellosalinhamento",
+    placex="",
 ))
 
 washizaki2017a = DB(WorkUnrelated(

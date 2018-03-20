@@ -51,6 +51,20 @@ ali2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+astromskis2014a = DB(WorkUnrelated(
+    2014, "An approach to non-invasive cost accounting",
+    display="astromskis",
+    authors="Astromskis, Saulius and Janes, Andrea and Sillitti, Alberto and Succi, Giancarlo",
+    place=SEAA,
+    pp="30--37",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="astromskis2014approach",
+    cluster_id="2338607806176101156",
+    scholar="http://scholar.google.com/scholar?cites=2338607806176101156&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on",
+))
+
 barzilay2014a = DB(WorkUnrelated(
     2014, "Understanding reuse of software examples: A case study of prejudice in a community of practice",
     display="barzilay",
@@ -82,6 +96,32 @@ basili2014a = DB(WorkUnrelated(
     ID="basilialigning",
     placex="",
     excerpt="Organizations need to be able to develop operational business goals define strategies for implementing them communicate the goals throughout the organization translate the goals into lower levels for projects assess the effectiveness of their strategies recognize the ",
+))
+
+basili2014b = DB(WorkUnrelated(
+    2014, "GQM+ Strategies in a Nutshell",
+    display="basili b",
+    authors="Basili, Victor and Trendowicz, Adam and Kowalczyk, Martin and Heidrich, Jens and Seaman, Carolyn and Münch, Jürgen and Rombach, Dieter",
+    place=FAKE,
+    pp="9--17",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="basili2014gqm+",
+    cluster_id="2619754601379869094",
+    scholar="http://scholar.google.com/scholar?cites=2619754601379869094&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Aligning Organizations Through Measurement",
+))
+
+basili2014c = DB(WorkUnrelated(
+    2014, "Summary and Future Perspectives",
+    display="basili c",
+    authors="Basili, Victor and Trendowicz, Adam and Kowalczyk, Martin and Heidrich, Jens and Seaman, Carolyn and Münch, Jürgen and Rombach, Dieter",
+    place=FAKE,
+    pp="181--185",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="basili2014summary",
+    placex="Aligning Organizations Through Measurement",
 ))
 
 baskerville2014a = DB(WorkUnrelated(
@@ -231,6 +271,34 @@ costa2014a = DB(WorkUnrelated(
     ID="Costa:2014:CCS:2628194.2628200",
     acm="1",
     placex="Proceedings of the 18th International Database Engineering &#38; Applications Symposium",
+))
+
+dagnino2014a = DB(WorkUnrelated(
+    2014, "Increasing the effectiveness of teaching software engineering: A university and industry partnership",
+    display="dagnino",
+    authors="Dagnino, Aldo",
+    place=FAKE,
+    pp="49--54",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="dagnino2014increasing",
+    cluster_id="17212163019721467814",
+    scholar="http://scholar.google.com/scholar?cites=17212163019721467814&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Education and Training (CSEE&T), 2014 IEEE 27th Conference on",
+))
+
+dagnino2014b = DB(WorkUnrelated(
+    2014, "A model to measure organizational readiness for software process improvement",
+    display="dagnino b",
+    authors="Dagnino, Aldo and Cordes, Andrew",
+    place=ICASEA,
+    pp="329--336",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="dagnino2014model",
+    cluster_id="3018530844986680330",
+    scholar="http://scholar.google.com/scholar?cites=3018530844986680330&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Applications (ICSOFT-EA), 2014 9th International Conference on",
 ))
 
 delgado2014a = DB(WorkUnrelated(
@@ -411,6 +479,47 @@ girata2014a = DB(WorkUnrelated(
     ID="Girata:2014:EWE:2612733.2612774",
     acm="1",
     placex="Proceedings of the 15th Annual International Conference on Digital Government Research",
+))
+
+gleirscher2014a = DB(WorkUnrelated(
+    2014, "Introduction of static quality analysis in small-and medium-sized software enterprises: experiences from technology transfer",
+    display="gleirscher",
+    authors="Gleirscher, Mario and Golubitskiy, Dmitriy and Irlbeck, Maximilian and Wagner, Stefan",
+    place=SQJ,
+    pp="499--542",
+    entrytype="article",
+    volume="22",
+    number="3",
+    publisher="Springer",
+    ID="gleirscher2014introduction",
+    cluster_id="4140243515403100207",
+    scholar="http://scholar.google.com/scholar?cites=4140243515403100207&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Journal",
+))
+
+glykas2014a = DB(WorkUnrelated(
+    2014, "Business Process Management",
+    display="glykas",
+    authors="Glykas, Michael",
+    place=Book,
+    entrytype="book",
+    publisher="Springer",
+    ID="glykas2014business",
+    cluster_id="12506694438481861527",
+    scholar="http://scholar.google.com/scholar?cites=12506694438481861527&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+gon2014a = DB(WorkUnrelated(
+    2014, "IAMPS: An process to support the MPS. BR implementation together with agile methods",
+    display="gon",
+    authors="Gon{ç}alves, Marcelo Benites and Cagnin, Maria Istela and Paiva, Débora",
+    place=FAKE,
+    pp="1--9",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="gonccalves2014iamps",
+    placex="Computing Conference (CLEI), 2014 XL Latin American",
 ))
 
 heidrich2014a = DB(WorkUnrelated(
@@ -894,6 +1003,30 @@ rombach2014a = DB(WorkUnrelated(
     placex="Future Business Software",
 ))
 
+schramm2014a = DB(WorkUnrelated(
+    2014, "Process model engineering lifecycle: Holistic concept proposal and systematic literature review",
+    display="schramm",
+    authors="Schramm, Joachim and Dohrmann, Patrick and Rausch, Andreas and Ternité, Thomas",
+    place=SEAA,
+    pp="127--130",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="schramm2014process",
+    cluster_id="7598687925868898870",
+    scholar="http://scholar.google.com/scholar?cites=7598687925868898870&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on",
+))
+
+schramm2014b = DB(WorkUnrelated(
+    2014, "Process Model Engineering Lifecycle: Holistic Concept Proposal and Systematic Literature",
+    display="schramm",
+    authors="Schramm, Joachim and Dohrmann, Patrick and Rausch, Andreas and Ternité, Thomas",
+    place=FAKE,
+    entrytype="article",
+    ID="schrammprocess",
+    placex="",
+))
+
 simões2014a = DB(WorkUnrelated(
     2014, "Applying statistical process control in small sized evolutionary projects: results and lessons learned in the implementation of CMMI-DEV maturity level 5 in Synapsis Brazil",
     display="simões",
@@ -987,6 +1120,18 @@ trendowicz2014b = DB(WorkUnrelated(
     publisher="Springer",
     ID="trendowicz2014continuously",
     placex="Software Project Effort Estimation",
+))
+
+ullah2014a = DB(WorkUnrelated(
+    2014, "Business process extraction for information technology/business alignment",
+    display="ullah",
+    authors="Ullah, Azmat and Lai, Richard",
+    place=ICSE,
+    pp="1--6",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ullah2014business",
+    placex="Data and Software Engineering (ICODSE), 2014 International Conference on",
 ))
 
 unterkalmsteiner2014a = DB(WorkUnrelated(

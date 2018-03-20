@@ -38,6 +38,19 @@ barcellos2009a = DB(WorkUnrelated(
     placex="ER PhD Colloquium",
 ))
 
+barreto2009a = DB(WorkUnrelated(
+    2009, "Defini{ç}ão e Monitora{ç}ão de Objetivos de Software Alinhados ao Planejamento Estratégico",
+    display="barreto",
+    authors="Barreto, Andrea Oliveira Soares and Rocha, Ana Regina",
+    place=FAKE,
+    pp="114--128",
+    entrytype="article",
+    ID="barreto2009definiccao",
+    cluster_id="14557588475878284225",
+    scholar="http://scholar.google.com/scholar?cites=14557588475878284225&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Simpósio Brasileiro de Qualidade de Software (SBQS)",
+))
+
 basili2009a = DB(WorkUnrelated(
     2009, "Determining the impact of business strategies using principles from goal-oriented measurement",
     display="basili",
@@ -58,6 +71,16 @@ basili2009b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Basili2009",
     placex="IEEE",
+))
+
+batista2009a = DB(WorkUnrelated(
+    2009, "Um programa de melhoria de estimativas em uma organiza{ç}ão desenvolvedora de software",
+    display="batista",
+    authors="Batista, Vitor Alcântara",
+    place=FAKE,
+    entrytype="article",
+    ID="batista2009programa",
+    placex="",
 ))
 
 bhatti2009a = DB(WorkUnrelated(
@@ -167,6 +190,19 @@ egorova2009a = DB(WorkUnrelated(
     cluster_id="2222336401975279588",
     scholar="http://scholar.google.com/scholar?cites=2222336401975279588&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications, 2009. SEAA'09. 35th Euromicro Conference on",
+))
+
+escofet2009a = DB(WorkUnrelated(
+    2009, "Strategic alignment as a way of addressing the barriers to e-business adoption",
+    display="escofet",
+    authors="Escofet, Eduardo and Rodríguez, María José and Garrido, José Luis and Chung, Lawrence",
+    place=FAKE,
+    pp="27--34",
+    entrytype="inproceedings",
+    ID="escofet2009strategic",
+    cluster_id="8454210439357748649",
+    scholar="http://scholar.google.com/scholar?cites=8454210439357748649&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="6th IADIS International Conference E-Commerce. Algarve: Krisnamurthy",
 ))
 
 fachrunnisa2009a = DB(WorkUnrelated(
@@ -333,6 +369,16 @@ kettunen2009a = DB(WorkUnrelated(
     placex="Technovation",
 ))
 
+khdair2009a = DB(WorkUnrelated(
+    2009, "Applying a Practical Software Process Improvement Model for Web-Based Application Development in Small Sized Firms",
+    display="khdair",
+    authors="Khdair, Hisham",
+    place=FAKE,
+    entrytype="article",
+    ID="khdairapplying",
+    placex="",
+))
+
 laporte2009a = DB(WorkUnrelated(
     2009, "Contributions to Software Engineering and to the Development and Deployment of International Software Engineering Standards for Very Small Entities",
     display="laporte",
@@ -426,6 +472,21 @@ michel2009a = DB(WorkUnrelated(
     placex="Computer Engineering & Systems, 2009. ICCES 2009. International Conference on",
 ))
 
+mishra2009a = DB(WorkUnrelated(
+    2009, "Software process improvement in SMEs: A comparative view",
+    display="mishra",
+    authors="Mishra, Deepti and Mishra, Alok",
+    place=FAKE,
+    pp="111--140",
+    entrytype="article",
+    volume="6",
+    number="1",
+    ID="mishra2009software",
+    cluster_id="7414684596204383667",
+    scholar="http://scholar.google.com/scholar?cites=7414684596204383667&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Science and Information Systems",
+))
+
 morisio2009a = DB(WorkUnrelated(
     2009, "Software project success: quantitative and qualitative evidences from the industrial projects",
     display="morisio",
@@ -505,6 +566,34 @@ petersen2009b = DB(WorkUnrelated(
     art_number="5316010",
     note="cited By 110",
     ID="Petersen2009401",
+))
+
+pino2009a = DB(WorkUnrelated(
+    2009, "A process for driving process improvement in VSEs",
+    display="pino",
+    authors="Pino, Francisco J and Alegría, Julio Ariel Hurtado and Vidal, Juan Carlos and García, Félix and Piattini, Mario",
+    place=ICSE,
+    pp="342--353",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="pino2009process",
+    cluster_id="8885670068712410104",
+    scholar="http://scholar.google.com/scholar?cites=8885670068712410104&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
+pino2009b = DB(WorkUnrelated(
+    2009, "An integrated framework to guide software process improvement in small organizations",
+    display="pino b",
+    authors="Pino, Francisco J and García, Félix and Piattini, Mario",
+    place=FAKE,
+    pp="213--224",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="pino2009integrated",
+    cluster_id="3660851037847429013",
+    scholar="http://scholar.google.com/scholar?cites=3660851037847429013&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
 ))
 
 qiu2009a = DB(WorkUnrelated(
@@ -784,4 +873,16 @@ zhang2009a = DB(WorkUnrelated(
     cluster_id="17743671589694981128",
     scholar="http://scholar.google.com/scholar?cites=17743671589694981128&as_sdt=2005&sciodt=0,5&hl=en",
     placex="SEKE",
+))
+
+zyl2009a = DB(WorkUnrelated(
+    2009, "SOFTWARE TESTING in a small company: a case study",
+    display="zyl",
+    authors="van Zyl, Johan",
+    place=FAKE,
+    entrytype="article",
+    ID="van2009software",
+    cluster_id="14662707176983223713",
+    scholar="http://scholar.google.com/scholar?cites=14662707176983223713&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="M. IT.-Thesis, Department of Comp. Sc., Univ. of Pretoria",
 ))

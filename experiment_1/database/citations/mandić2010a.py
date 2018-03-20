@@ -12,6 +12,14 @@ from ..work.y2004 import erdogmus2004a
 from ..work.y2010 import mandić2010a
 from ..work.y2010 import basili2010a
 from ..work.y2010 import mandić2010b
+from ..work.y2013 import garay2013a
+from ..work.y2014 import basili2014b
+from ..work.y2014 import basili2014a
+from ..work.y2014 import trendowicz2014a
+from ..work.y2014 import basili2014c
+from ..work.y2015 import valente2015a
+from ..work.y2016 import lópez2016a
+from ..work.y2018 import valente2018a
 
 DB(Citation(
     mandić2010a, erdogmus2004a, ref="",
@@ -64,6 +72,62 @@ DB(Citation(
 
 DB(Citation(
     mandić2010a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014b, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valente2015a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    garay2013a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2016a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz2014a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014c, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valente2018a, mandić2010a, ref="",
     contexts=[
 
     ],

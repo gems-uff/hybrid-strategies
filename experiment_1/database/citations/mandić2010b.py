@@ -37,6 +37,31 @@ from ..work.y2010 import basili2010c
 from ..work.y2010 import basili2010a
 from ..work.y2010 import faulk2010a
 from ..work.y2010 import mandić2010c
+from ..work.y2010 import mandić2010g
+from ..work.y2011 import fernández2011a
+from ..work.y2012 import ellis2012a
+from ..work.y2012 import asghari2012a
+from ..work.y2013 import münch2013c
+from ..work.y2013 import basili2013a
+from ..work.y2013 import ellis2013a
+from ..work.y2014 import basili2014b
+from ..work.y2014 import kobori2014b
+from ..work.y2014 import kobori2014a
+from ..work.y2014 import astromskis2014a
+from ..work.y2014 import cocozza2014a
+from ..work.y2014 import roditi2014a
+from ..work.y2014 import trendowicz2014a
+from ..work.y2014 import basili2014c
+from ..work.y2015 import tyrväinen2015a
+from ..work.y2015 import papa2015a
+from ..work.y2015 import dymek2015a
+from ..work.y2015 import hyvönen2015a
+from ..work.y2016 import aversano2016a
+from ..work.y2016 import aoki2016a
+from ..work.y2016 import kobori2016a
+from ..work.y2016 import kalidoss2016a
+from ..work.y2017 import mandić2017a
+from ..work.y2017 import dashkov2017a
 
 DB(Citation(
     mandić2010b, ieee1981a, ref="",
@@ -264,6 +289,181 @@ DB(Citation(
 
 DB(Citation(
     mandić2010b, boehm2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014b, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2010g, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    münch2013c, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2013a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aversano2016a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ellis2012a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kobori2014b, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kobori2014a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aoki2016a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    astromskis2014a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ellis2013a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kobori2016a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fernández2011a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tyrväinen2015a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2017a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cocozza2014a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roditi2014a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    asghari2012a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    papa2015a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dymek2015a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kalidoss2016a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz2014a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    basili2014c, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hyvönen2015a, mandić2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dashkov2017a, mandić2010b, ref="",
     contexts=[
 
     ],

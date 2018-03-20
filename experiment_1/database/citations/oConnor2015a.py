@@ -19,6 +19,10 @@ from ..work.y2015 import oConnor2015a
 from ..work.y2015 import hobcraft2015a
 from ..work.y2015 import kim2015a
 from ..work.y2015 import samios2015a
+from ..work.y2016 import lepmets2016a
+from ..work.y2016 import arnold2016a
+from ..work.y2016 import kruger2016a
+from ..work.y2016 import górski2016a
 
 DB(Citation(
     oConnor2015a, kurtz2003a, ref="",
@@ -120,6 +124,34 @@ DB(Citation(
 
 DB(Citation(
     oConnor2015a, lepmets2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lepmets2016a, oConnor2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    arnold2016a, oConnor2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kruger2016a, oConnor2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    górski2016a, oConnor2015a, ref="",
     contexts=[
 
     ],

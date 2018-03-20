@@ -20,6 +20,19 @@ bacon2001a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+baddoo2001a = DB(WorkUnrelated(
+    2001, "Motivators and de-motivators in software process improvement: an empirical study",
+    display="baddoo",
+    authors="Baddoo, Nathan",
+    place=FAKE,
+    entrytype="article",
+    publisher="University of Hertfordshire",
+    ID="baddoo2001motivators",
+    cluster_id="1422169505524947049",
+    scholar="http://scholar.google.com/scholar?cites=1422169505524947049&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 balla2001a = DB(WorkUnrelated(
     2001, "Quality through Managed Improvement and Measurement (QMIM): Towards a Phased Development and Implementation of a Quality Management System for a Software Company",
     display="balla",
@@ -107,6 +120,16 @@ bianchi2001a = DB(WorkUnrelated(
     placex="PICMET",
 ))
 
+bowers2001a = DB(WorkUnrelated(
+    2001, "Nurturing the acorn: helping a small software company onto the CMM ladder",
+    display="bowers",
+    authors="Bowers, DAVID S",
+    place=FAKE,
+    entrytype="article",
+    ID="bowers2001nurturing",
+    placex="",
+))
+
 buglione2001a = DB(WorkUnrelated(
     2001, "QF2D: A Different Way to Measure Software Quality",
     display="buglione",
@@ -120,6 +143,33 @@ buglione2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44704-0_17",
     springer="1",
     placex="New Approaches in Software Measurement",
+))
+
+carter2001a = DB(WorkUnrelated(
+    2001, "Evolving beyond requirements creep: a risk-based evolutionary prototyping model",
+    display="carter",
+    authors="Carter, Ryan A and Antón, Annie I and Dagnino, Aldo and Williams, Laurie",
+    place=FAKE,
+    pp="94--101",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="carter2001evolving",
+    cluster_id="15099596137504234089",
+    scholar="http://scholar.google.com/scholar?cites=15099596137504234089&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on",
+))
+
+carter2001b = DB(WorkUnrelated(
+    2001, "EPRAM: A Risk Analysis and Mitigation-Based Evolutionary Prototyping Model for Quality Requirements Development.",
+    display="carter b",
+    authors="Carter, Ryan Alden",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="carter2001epram",
+    cluster_id="17594639789510288464",
+    scholar="http://scholar.google.com/scholar?cites=17594639789510288464&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 cattaneo2001a = DB(WorkUnrelated(
@@ -405,6 +455,50 @@ kauppinen2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44813-6_19",
     springer="1",
     placex="Product Focused Software Process Improvement",
+    scholar="http://scholar.google.com/scholar?cites=16099038181638352569&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+kautz2001a = DB(WorkUnrelated(
+    2001, "Understanding and changing software organisations: an exploration of four perspectives on software process improvement",
+    display="kautz",
+    authors="Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim",
+    place=FAKE,
+    pp="4",
+    entrytype="article",
+    volume="13",
+    number="1",
+    ID="kautz2001understanding",
+    cluster_id="18281839127194095517",
+    scholar="http://scholar.google.com/scholar?cites=18281839127194095517&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Scandinavian Journal of Information Systems",
+))
+
+kautz2001b = DB(WorkUnrelated(
+    2001, "Understanding and Changing Software Organizations",
+    display="kautz b",
+    authors="Kautz, Karlheinz and Hansen, Henrik Westergaard and Thaysen, Kim",
+    place=FAKE,
+    pp="87--109",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kautz2001understanding",
+    cluster_id="11807442284350913902",
+    scholar="http://scholar.google.com/scholar?cites=11807442284350913902&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Working Conference on Diffusing Software Product and Process Innovations",
+))
+
+kautz2001c = DB(WorkUnrelated(
+    2001, "Software quality management and software process improvement in Denmark",
+    display="kautz c",
+    authors="Kautz, Karlheinz and Ramzan, Faisal",
+    place=FAKE,
+    pp="10--pp",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kautz2001software",
+    cluster_id="2072337843726504222",
+    scholar="http://scholar.google.com/scholar?cites=2072337843726504222&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Sciences, 2001. Proceedings of the 34th Annual Hawaii International Conference on",
 ))
 
 kilpl2001a = DB(WorkUnrelated(

@@ -104,6 +104,33 @@ aysolmaz2011a = DB(WorkUnrelated(
     placex="Ulusal Yaz?l?m Mühendisli{?}i Sempozyumu",
 ))
 
+aysolmaz2011b = DB(WorkUnrelated(
+    2011, "A detailed software process improvement methodology: BG-SPI",
+    display="aysolmaz b",
+    authors="Aysolmaz, Banu and Demirörs, Onur",
+    place=FAKE,
+    pp="97--108",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="aysolmaz2011detailed",
+    cluster_id="6864968567981980790",
+    scholar="http://scholar.google.com/scholar?cites=6864968567981980790&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
+aysolmaz2011c = DB(WorkUnrelated(
+    2011, "BG-SPI: Yinelemeli Yaz?l?m Süre{ç} {?I}yile{?}tirme Yöntemi",
+    display="aysolmaz c",
+    authors="Aysolmaz, Banu and Y?ld?z, Ali and Demirörs, Onur",
+    place=FAKE,
+    pp="163--168",
+    entrytype="article",
+    ID="aysolmaz2011bg",
+    cluster_id="12673174795287687382",
+    scholar="http://scholar.google.com/scholar?cites=12673174795287687382&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Ulusal Yaz?l?m Mühendisli{?}i Sempozyumu",
+))
+
 baker2011a = DB(WorkUnrelated(
     2011, "Design Goal-oriented Level Design",
     display="baker",
@@ -292,6 +319,33 @@ esfahani2011a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+esfahani2011b = DB(WorkUnrelated(
+    2011, "Towards the Strategic Analysis of Agile Practices.",
+    display="esfahani b",
+    authors="Esfahani, Hesam Chiniforooshan and Eric, SK and Annosi, Maria Carmela",
+    place=FAKE,
+    pp="155--162",
+    entrytype="inproceedings",
+    ID="esfahani2011towards",
+    cluster_id="6718638323432761364",
+    scholar="http://scholar.google.com/scholar?cites=6718638323432761364&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="CAiSE Forum",
+))
+
+fernández2011a = DB(WorkUnrelated(
+    2011, "Towards estimating the value of an idea",
+    display="fernández",
+    authors="Fernández, Carlos and López, Daniel and Yagüe, Agustín and Garbajosa, Juan",
+    place=ICPFSPI,
+    pp="62--67",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="fernandez2011towards",
+    cluster_id="17693145959023060061",
+    scholar="http://scholar.google.com/scholar?cites=17693145959023060061&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 12th International Conference on Product Focused Software Development and Process Improvement",
+))
+
 finke2011a = DB(WorkUnrelated(
     2011, "Implementing cisco unified communications manager, part 1 (CIPT1) foundation learning guide:(CCNP Voice CIPT1 642-447)",
     display="finke",
@@ -333,6 +387,22 @@ ghaly2011a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd International Conference on Computing for Geospatial Research & Applications",
 ))
 
+glykas2011a = DB(WorkUnrelated(
+    2011, "Effort based performance measurement in business process management",
+    display="glykas",
+    authors="Glykas, Michael Markos",
+    place=FAKE,
+    pp="10--33",
+    entrytype="article",
+    volume="18",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="glykas2011effort",
+    cluster_id="6503875854274908725",
+    scholar="http://scholar.google.com/scholar?cites=6503875854274908725&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Knowledge and Process Management",
+))
+
 goknil2011a = DB(WorkUnrelated(
     2011, "Semantics of trace relations in requirements models for consistency checking and inferencing",
     display="goknil",
@@ -347,6 +417,22 @@ goknil2011a = DB(WorkUnrelated(
     ID="Goknil2011",
     springer="1",
     placex="Software {&} Systems Modeling",
+))
+
+gruner2011a = DB(WorkUnrelated(
+    2011, "Software testing in small IT companies: A (not only) South African problem",
+    display="gruner",
+    authors="Gruner, Stefan and Van Zyl, Johan",
+    place=FAKE,
+    pp="7--32",
+    entrytype="article",
+    volume="47",
+    number="1",
+    publisher="South African Computer Society (SAICSIT)",
+    ID="gruner2011software",
+    cluster_id="3717681835278208361",
+    scholar="http://scholar.google.com/scholar?cites=3717681835278208361&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="South African Computer Journal",
 ))
 
 hassanzadeh2011a = DB(WorkUnrelated(
@@ -644,6 +730,22 @@ nieters2011a = DB(WorkUnrelated(
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
+ollus2011a = DB(WorkUnrelated(
+    2011, "Supporting collaborative project management",
+    display="ollus",
+    authors="Ollus, Martin and Jansson, Kim and Karvonen, Iris and Uoti, Mikko and Riikonen, Heli",
+    place=FAKE,
+    pp="538--553",
+    entrytype="article",
+    volume="22",
+    number="5-6",
+    publisher="Taylor & Francis",
+    ID="ollus2011supporting",
+    cluster_id="4455782418377523099",
+    scholar="http://scholar.google.com/scholar?cites=4455782418377523099&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Production Planning & Control",
+))
+
 olsina2011a = DB(WorkUnrelated(
     2011, "Using web quality models and a strategy for purpose-oriented evaluations",
     display="olsina",
@@ -759,6 +861,16 @@ rantapuska2011a = DB(WorkUnrelated(
     placex="Governance and Sustainability in Information Systems. Managing the Transfer and Diffusion of IT",
 ))
 
+rudzki2011a = DB(WorkUnrelated(
+    2011, "Software Quality Concerns in a Commercial Setting",
+    display="rudzki",
+    authors="Rudzki, Jakub",
+    place=FAKE,
+    entrytype="article",
+    ID="rudzki2011software",
+    placex="Tampereen teknillinen yliopisto. Julkaisu-Tampere University of Technology. Publication; 954",
+))
+
 saetang2011a = DB(WorkUnrelated(
     2011, "Conceptual Aspects of IT Governance in Enterprise Environment",
     display="saetang",
@@ -788,6 +900,21 @@ samalikova2011a = DB(WorkUnrelated(
     cluster_id="17386829972115920160",
     scholar="http://scholar.google.com/scholar?cites=17386829972115920160&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Quality Journal",
+))
+
+santos2011a = DB(WorkUnrelated(
+    2011, "Action research can swing the balance in experimental software engineering",
+    display="santos",
+    authors="Dos Santos, Paulo Sergio Medeiros and Travassos, Guilherme Horta",
+    place=FAKE,
+    pp="205--276",
+    entrytype="incollection",
+    volume="83",
+    publisher="Elsevier",
+    ID="dos2011action",
+    cluster_id="11238524381165944031",
+    scholar="http://scholar.google.com/scholar?cites=11238524381165944031&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Advances in computers",
 ))
 
 stallinger2011a = DB(WorkUnrelated(
@@ -869,6 +996,36 @@ trendowicz2011a = DB(WorkUnrelated(
     note="cited By 11",
     ID="Trendowicz2011142",
     scholar="http://scholar.google.com/scholar?cites=2354941768345762676&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+ullah2011a = DB(WorkUnrelated(
+    2011, "Modeling business goal for business/it alignment using requirements engineering",
+    display="ullah",
+    authors="Ullah, Azmat and Lai, Richard",
+    place=FAKE,
+    pp="21--28",
+    entrytype="article",
+    volume="51",
+    number="3",
+    publisher="Taylor & Francis",
+    ID="ullah2011modeling",
+    cluster_id="3546726514618726462",
+    scholar="http://scholar.google.com/scholar?cites=3546726514618726462&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Computer Information Systems",
+))
+
+uoti2011a = DB(WorkUnrelated(
+    2011, "Project alignment: A configurable model and tool for managing critical shared processes in collaborative projects",
+    display="uoti",
+    authors="Uoti, Mikko and Jansson, Kim and Karvonen, Iris and Ollus, Martin and Gusmeroli, Sergio",
+    place=FAKE,
+    pp="87--96",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="uoti2011project",
+    cluster_id="1072043031593065093",
+    scholar="http://scholar.google.com/scholar?cites=1072043031593065093&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Enterprise Distributed Object Computing Conference (EDOC), 2011 15th IEEE International",
 ))
 
 valdés2011a = DB(WorkUnrelated(

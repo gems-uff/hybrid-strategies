@@ -26,6 +26,23 @@ from ..work.y2005 import dyba2005a
 from ..work.y2005 import liu2005a
 from ..work.y2005 import zaijun2005a
 from ..work.y2008 import becker2008b
+from ..work.y2009 import escofet2009a
+from ..work.y2009 import barreto2009a
+from ..work.y2010 import sun2010a
+from ..work.y2010 import mandić2010c
+from ..work.y2010 import armbrust2010a
+from ..work.y2010 import escofet2010a
+from ..work.y2010 import carvalho2010a
+from ..work.y2010 import armbrust2010b
+from ..work.y2011 import ullah2011a
+from ..work.y2011 import barreto2011a
+from ..work.y2012 import lópez2012a
+from ..work.y2013 import chebrolu2013a
+from ..work.y2013 import aversano2013a
+from ..work.y2014 import ullah2014a
+from ..work.y2017 import vasconcellos2017a
+from ..work.y2017 import moreira2017a
+from ..work.y2017 import moreira2017b
 
 DB(Citation(
     becker2008b, akao1990b, ref="",
@@ -176,6 +193,126 @@ DB(Citation(
 
 DB(Citation(
     becker2008b, zaijun2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ullah2011a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sun2010a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chebrolu2013a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    mandić2010c, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vasconcellos2017a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    armbrust2010a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aversano2013a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barreto2011a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    escofet2009a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    escofet2010a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barreto2009a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2012a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    carvalho2010a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    armbrust2010b, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ullah2014a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    moreira2017a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    moreira2017b, becker2008b, ref="",
     contexts=[
 
     ],

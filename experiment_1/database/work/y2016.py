@@ -29,6 +29,16 @@ aoki2016a = DB(WorkUnrelated(
     placex="System Sciences (HICSS), 2016 49th Hawaii International Conference on",
 ))
 
+arenis2016a = DB(WorkUnrelated(
+    2016, "A Formal Approach to the Development of Industrial Cyber-Physical Systems",
+    display="arenis",
+    authors="Arenis, Sergio Alejandro Feo",
+    place=FAKE,
+    entrytype="article",
+    ID="arenis2016formal",
+    placex="",
+))
+
 armstrong2016a = DB(WorkUnrelated(
     2016, "Use of Metrics and their Visualisations in Software Engineering Projects",
     display="armstrong",
@@ -38,6 +48,32 @@ armstrong2016a = DB(WorkUnrelated(
     publisher="University of Canterbury",
     ID="armstrong2016use",
     placex="",
+))
+
+arnold2016a = DB(WorkUnrelated(
+    2016, "Analysis of a Multi Disciplinary Approach to Gun Misuse and the Need for a Paradigm Shift in Terminology",
+    display="arnold",
+    authors="Arnold, Damon T",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Naval Postgraduate School Monterey United States",
+    ID="arnold2016analysis",
+    placex="",
+))
+
+aversano2016a = DB(WorkUnrelated(
+    2016, "Managing the alignment between business processes and software systems",
+    display="aversano",
+    authors="Aversano, Lerina and Grasso, Carmine and Tortorella, Maria",
+    place=IST,
+    pp="171--188",
+    entrytype="article",
+    volume="72",
+    publisher="Elsevier",
+    ID="aversano2016managing",
+    cluster_id="17479480431478784936",
+    scholar="http://scholar.google.com/scholar?cites=17479480431478784936&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
 ))
 
 brito2016a = DB(WorkUnrelated(
@@ -120,6 +156,18 @@ francalanci2016a = DB(WorkUnrelated(
     placex="INTERNATIONAL JOURNAL OF COMPUTERS",
 ))
 
+górski2016a = DB(WorkUnrelated(
+    2016, "Konstrukcja diagramu klas UML z zastosowaniem Model-Driven Development",
+    display="górski",
+    authors="Górski, T and Sowa, M",
+    place=FAKE,
+    entrytype="article",
+    volume="65",
+    number="1",
+    ID="gorski2016konstrukcja",
+    placex="Biuletyn Wojskowej Akademii Technicznej",
+))
+
 jaramillo2016a = DB(WorkUnrelated(
     2016, "A Method Based on Patterns for Deriving Key Performance Indicators from Organizational Objectives",
     display="jaramillo",
@@ -133,6 +181,27 @@ jaramillo2016a = DB(WorkUnrelated(
     cluster_id="14875687672717289550",
     scholar="http://scholar.google.com/scholar?cites=14875687672717289550&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Polibits",
+))
+
+kalidoss2016a = DB(WorkUnrelated(
+    2016, "Intention-oriented organizational modeling-a top-down approach",
+    display="kalidoss",
+    authors="Kalidoss, Archana",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="kalidoss2016intention",
+    placex="",
+))
+
+key2016a = DB(WorkUnrelated(
+    2016, "Regulating sustainable development: an enabling model for consistent collaboration between planning and building control services in England",
+    display="key",
+    authors="Key, MA and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="key2016regulating",
+    local="University of Salford",
+    placex="",
 ))
 
 khalifa2016a = DB(WorkUnrelated(
@@ -188,6 +257,30 @@ koumaditis2016a = DB(WorkUnrelated(
     cluster_id="7764517978535737346",
     scholar="http://scholar.google.com/scholar?cites=7764517978535737346&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Reshaping medical practice and care with health information systems",
+))
+
+kruger2016a = DB(WorkUnrelated(
+    2016, "The Influence of enforced changes on systems performance",
+    display="kruger",
+    authors="Kruger, David",
+    place=FAKE,
+    pp="1723--1731",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kruger2016influence",
+    placex="Management of Engineering and Technology (PICMET), 2016 Portland International Conference on",
+))
+
+lepmets2016a = DB(WorkUnrelated(
+    2016, "Towards Safer Medical Device Software Systems: Industry-Wide Learning from Failures and the Use of Safety-Cases to Support Process Compliance",
+    display="lepmets",
+    authors="Lepmets, Marion and McBride, Tom and McCaffery, Fergal",
+    place=ICQICT,
+    pp="193--198",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lepmets2016towards",
+    placex="Quality of Information and Communications Technology (QUATIC), 2016 10th International Conference on the",
 ))
 
 liberato2016a = DB(WorkUnrelated(
@@ -251,6 +344,18 @@ machado2016b = DB(WorkUnrelated(
     publisher="Universidade Nove de Julho",
     ID="machado2016analise",
     placex="",
+))
+
+muñoz2016a = DB(WorkUnrelated(
+    2016, "Method to establish strategies for implementing process improvement according to the organizations context",
+    display="muñoz",
+    authors="Muñoz, Mirna and Mejia, Jezreel and Hurtado, Gloria P Gasca and Gómez-Álvarez, Maria C and Durón, Brenda",
+    place=FAKE,
+    pp="312--324",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="munoz2016method",
+    placex="European Conference on Software Process Improvement",
 ))
 
 nunn2016a = DB(WorkUnrelated(
@@ -366,6 +471,20 @@ spósito2016a = DB(WorkUnrelated(
     cluster_id="4395442112744373566",
     scholar="http://scholar.google.com/scholar?cites=4395442112744373566&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 18th International Conference on Enterprise Information Systems",
+))
+
+suganya2016a = DB(WorkUnrelated(
+    2016, "A Review on Software Process Improvement Methodologies for Small and Medium Enterprises",
+    display="suganya",
+    authors="Suganya, M and Alagarsamy, K",
+    place=FAKE,
+    entrytype="article",
+    volume="2",
+    number="08",
+    ID="suganya2016review",
+    cluster_id="2573225770388913281",
+    scholar="http://scholar.google.com/scholar?cites=2573225770388913281&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IJSTE-International Journal of Science Technology & Engineering",
 ))
 
 sánchez2016a = DB(WorkUnrelated(

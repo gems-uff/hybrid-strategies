@@ -96,6 +96,19 @@ becker2012a = DB(WorkUnrelated(
     placex="Advances in Software Engineering",
 ))
 
+bekkers2012a = DB(WorkUnrelated(
+    2012, "Situational Process Improvement in Software Product Management",
+    display="bekkers",
+    authors="Bekkers, WJ",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="bekkers2012situational",
+    cluster_id="6699315118151310643",
+    scholar="http://scholar.google.com/scholar?cites=6699315118151310643&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Utrecht University",
+    placex="",
+))
+
 bensiek2012a = DB(WorkUnrelated(
     2012, "Maturity Model for Improving Virtual Engineering in Small and Medium-Sized Enterprises",
     display="bensiek",
@@ -334,6 +347,18 @@ eljabiri2012a = DB(WorkUnrelated(
     placex="Citeseer Scientific Literature Digital Library and Search Engine",
 ))
 
+ellis2012a = DB(WorkUnrelated(
+    2012, "Modelling the strategic alignment of software requirements using goal graphs",
+    display="ellis",
+    authors="Ellis-Braithwaite, Richard and Lock, Russell and Dawson, Ray and Haque, Badr",
+    place=FAKE,
+    entrytype="article",
+    ID="ellis2012modelling",
+    cluster_id="17820805745176555063",
+    scholar="http://scholar.google.com/scholar?cites=17820805745176555063&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1211.6258",
+))
+
 eremenko2012a = DB(WorkUnrelated(
     2012, "Software of Information-Measurement System for Standardless Diagnostic of Composite Materials",
     display="eremenko",
@@ -348,6 +373,34 @@ eremenko2012a = DB(WorkUnrelated(
     clusterid="9241644097677689345",
     scholar="http://scholar.google.com/scholar?cites=9241644097677689345&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering",
+))
+
+gon2012a = DB(WorkUnrelated(
+    2012, "IAMPS: Uma Processo de Apoio ao Uso de Métodos Ágeis em Conjunto com o MPS. BR.",
+    display="gon",
+    authors="Gon{ç}alves, Marcelo Benites",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="gonccalves2012iamps",
+    cluster_id="6322966640847623240",
+    scholar="http://scholar.google.com/scholar?cites=6322966640847623240&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+gorschek2012a = DB(WorkUnrelated(
+    2012, "Introduction of a process maturity model for market-driven product management and requirements engineering",
+    display="gorschek",
+    authors="Gorschek, Tony and Gomes, Andrigo and Pettersson, Andreas and Torkar, Richard",
+    place=JSEP,
+    pp="83--113",
+    entrytype="article",
+    volume="24",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="gorschek2012introduction",
+    cluster_id="7210578498749152087",
+    scholar="http://scholar.google.com/scholar?cites=7210578498749152087&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of software: Evolution and Process",
 ))
 
 haigh2012a = DB(WorkUnrelated(
@@ -400,6 +453,19 @@ heidrich2012b = DB(WorkUnrelated(
     cluster_id="17367274084717427031",
     scholar="http://scholar.google.com/scholar?cites=17367274084717427031&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product Focused Software Process Improvement",
+))
+
+hochstetter2012a = DB(WorkUnrelated(
+    2012, "Call for Software Tenders: Features and Research Problems",
+    display="hochstetter",
+    authors="Hochstetter, Jorge and Cares, Carlos",
+    place=ICSE,
+    entrytype="inproceedings",
+    volume="12",
+    ID="hochstetter2012call",
+    cluster_id="407423830431973804",
+    scholar="http://scholar.google.com/scholar?cites=407423830431973804&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 7th International Conference on Software Engineering Advances (ICSEA",
 ))
 
 jaanus2012a = DB(WorkUnrelated(
@@ -482,6 +548,7 @@ kasurinen2012a = DB(WorkUnrelated(
     ID="Kasurinen20121",
     sciencedirect="1",
     placex="",
+    scholar="http://scholar.google.com/scholar?cites=16585768006269189057&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 kirk2012a = DB(WorkUnrelated(
@@ -501,6 +568,20 @@ kirk2012a = DB(WorkUnrelated(
     ID="Kirk2012582",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+klendauer2012a = DB(WorkUnrelated(
+    2012, "Using the IDEAL software process improvement model for the implementation of Automotive SPICE",
+    display="klendauer",
+    authors="Klendauer, Ruth and Hoffmann, Axel and Leimeister, Jan Marco and Berkovich, Marina and Krcmar, Helmut",
+    place=FAKE,
+    pp="66--72",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="klendauer2012using",
+    cluster_id="14625782705255894337",
+    scholar="http://scholar.google.com/scholar?cites=14625782705255894337&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 5th International Workshop on Co-operative and Human Aspects of Software Engineering",
 ))
 
 lepmets2012a = DB(WorkUnrelated(
@@ -802,6 +883,18 @@ pareto2012b = DB(WorkUnrelated(
     placex="Software {&} Systems Modeling",
 ))
 
+preis2012a = DB(WorkUnrelated(
+    2012, "Integration Evaluation of Scrum and CMMI",
+    display="preis",
+    authors="Preis, Armin",
+    place=FAKE,
+    entrytype="article",
+    ID="preis2012integration",
+    cluster_id="9311207463345166718",
+    scholar="http://scholar.google.com/scholar?cites=9311207463345166718&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Organizational Science",
+))
+
 rensburg2012a = DB(WorkUnrelated(
     2012, "The relationship between process maturity models and the use and effectiveness of systems development methodologies",
     display="rensburg",
@@ -927,6 +1020,19 @@ shahmehri2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+shahzad2012a = DB(WorkUnrelated(
+    2012, "Improving Business Processes using Process-oriented Data Warehouse",
+    display="shahzad",
+    authors="Shahzad, Muhammad Khurram",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="shahzad2012improving",
+    cluster_id="13099297373298189238",
+    scholar="http://scholar.google.com/scholar?cites=13099297373298189238&as_sdt=2005&sciodt=0,5&hl=en",
+    local="KTH Royal Institute of Technology",
+    placex="",
+))
+
 singh2012a = DB(WorkUnrelated(
     2012, "An overview of sustainability assessment methodologies",
     display="singh",
@@ -968,6 +1074,18 @@ solaimani2012a = DB(WorkUnrelated(
     entrytype="article",
     ID="solaimanibusiness",
     placex="",
+))
+
+stavru2012a = DB(WorkUnrelated(
+    2012, "Who Is Stronger in Your Agile Deployment--The Id or the Superego?",
+    display="stavru",
+    authors="Stavru, Stavros and Ilieva, Sylvia",
+    place=FAKE,
+    pp="185--192",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="stavru2012stronger",
+    placex="International Conference on Agile Software Development",
 ))
 
 sulayman2012a = DB(WorkUnrelated(

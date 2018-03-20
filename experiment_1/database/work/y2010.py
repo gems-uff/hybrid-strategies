@@ -3,6 +3,30 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+armbrust2010a = DB(WorkUnrelated(
+    2010, "Determining organization-specific process suitability",
+    display="armbrust",
+    authors="Armbrust, Ove",
+    place=ICSE,
+    pp="26--38",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="armbrust2010determining",
+    cluster_id="3542000251352756181",
+    scholar="http://scholar.google.com/scholar?cites=3542000251352756181&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Process",
+))
+
+armbrust2010b = DB(WorkUnrelated(
+    2010, "Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)",
+    display="armbrust",
+    authors="Armbrust, Ove and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi",
+    place=FAKE,
+    entrytype="article",
+    ID="armbrustprocesses",
+    placex="",
+))
+
 barcellos2010a = DB(WorkUnrelated(
     2010, "A well-founded software process behavior ontology to support business goals monitoring in high maturity software organizations",
     display="barcellos",
@@ -100,6 +124,18 @@ basili2010c = DB(WorkUnrelated(
     placex="Wien, Austria, 2009. 9. Internationale Tagung Wirtschaftsinformatik 2009",
 ))
 
+begum2010a = DB(WorkUnrelated(
+    2010, "Software development standard and software engineering practice: A case study of Bangladesh",
+    display="begum",
+    authors="Begum, Zerina and Khan, Mohammed Shafiul Alam and Hafiz, Mohd and Islam, Md and Shoyaib, MD and others",
+    place=FAKE,
+    entrytype="article",
+    ID="begum2010software",
+    cluster_id="7106924149308145684",
+    scholar="http://scholar.google.com/scholar?cites=7106924149308145684&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1008.3321",
+))
+
 buehrer2010a = DB(WorkUnrelated(
     2010, "A Distributed Placement Service for Graph-structured and Tree-structured Data",
     display="buehrer",
@@ -115,6 +151,19 @@ buehrer2010a = DB(WorkUnrelated(
     ID="Buehrer:2010:DPS:1837853.1693511",
     acm="1",
     placex="SIGPLAN Not.",
+))
+
+carvalho2010a = DB(WorkUnrelated(
+    2010, "Management Function Deployment: um Método para o Alinhamento Estratégico da Melhoria dos Processos de Gerenciamento de Projetos de Software",
+    display="carvalho",
+    authors="Carvalho, Gustavo HP and da Silva, Fabio QB and Fran{ç}a, A César C",
+    place=FAKE,
+    pp="135--149",
+    entrytype="article",
+    ID="carvalho2010management",
+    cluster_id="1413388519633656976",
+    scholar="http://scholar.google.com/scholar?cites=1413388519633656976&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings do IX Simpósio Brasileiro de Qualidade de Software. Belém, PA, Brasil: SBQS",
 ))
 
 chiprout2010a = DB(WorkUnrelated(
@@ -252,6 +301,20 @@ egorova2010a = DB(WorkUnrelated(
     ID="Egorova20101907",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+escofet2010a = DB(WorkUnrelated(
+    2010, "Strategic E-Business/IT Alignment for SME Competitiveness",
+    display="escofet",
+    authors="Escofet, Eduardo and Rodríguez-Fórtiz, María José and Garrido, José Luis and Chung, Lawrence",
+    place=FAKE,
+    pp="23",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="escofet2010strategic",
+    cluster_id="15929686017158318957",
+    scholar="http://scholar.google.com/scholar?cites=15929686017158318957&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="E-Business Managerial Aspects, Solutions and Case Studies",
 ))
 
 esfahani2010a = DB(WorkUnrelated(
@@ -539,6 +602,16 @@ lee2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
+leite2010a = DB(WorkUnrelated(
+    2010, "ProMeProS: UM PROCESSO DE MELHORIA DE PROCESSOS DE SOFTWARE",
+    display="leite",
+    authors="Leite, Cássia Rodrigues de Carvalho Ferreira",
+    place=FAKE,
+    entrytype="article",
+    ID="leite2010promepros",
+    placex="",
+))
+
 lester2010a = DB(WorkUnrelated(
     2010, "Investigating the role of CMMI with expanding company size for small-to medium-sized enterprises",
     display="lester",
@@ -679,6 +752,20 @@ mandić2010f = DB(WorkUnrelated(
     placex="",
 ))
 
+mandić2010g = DB(WorkUnrelated(
+    2010, "What is flowing in lean software development?",
+    display="mandić2010 g",
+    authors="Mandić, Vladimir and Oivo, Markku and Rodríguez, Pilar and Kuvaja, Pasi and Kaikkonen, Harri and Turhan, Burak",
+    place=FAKE,
+    pp="72--84",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="mandic2010gflowing",
+    cluster_id="1085662620234471522",
+    scholar="http://scholar.google.com/scholar?cites=1085662620234471522&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Lean enterprise software and systems",
+))
+
 marca2010a = DB(WorkUnrelated(
     2010, "E-Business and Social Networks: Tapping Dynamic Niche Markets Using Language-Action and Artificial Intelligence",
     display="marca",
@@ -740,6 +827,20 @@ monteiro2010a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+mäkiö2010a = DB(WorkUnrelated(
+    2010, "OUTSHORE maturity model: Assistance for software offshore outsourcing decisions",
+    display="mäkiö",
+    authors="Mäkiö, Juho and Betz, Stafanie and Oberweis, Andreas",
+    place=FAKE,
+    pp="329--341",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="makio2010outshore",
+    cluster_id="11450166452914102618",
+    scholar="http://scholar.google.com/scholar?cites=11450166452914102618&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Collaborative Software Engineering",
+))
+
 müller2010a = DB(WorkUnrelated(
     2010, "Software Process Improvement as organizational change: A metaphorical analysis of the literature",
     display="müller",
@@ -757,6 +858,7 @@ müller2010a = DB(WorkUnrelated(
     ID="Müller20102128",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    scholar="http://scholar.google.com/scholar?cites=17503453247437113979&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 nikula2010a = DB(WorkUnrelated(
@@ -841,6 +943,22 @@ pino2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+pino2010b = DB(WorkUnrelated(
+    2010, "Using Scrum to guide the execution of software process improvement in small organizations",
+    display="pino b",
+    authors="Pino, Francisco J and Pedreira, Oscar and García, Félix and Luaces, Miguel Rodríguez and Piattini, Mario",
+    place=JSS,
+    pp="1662--1677",
+    entrytype="article",
+    volume="83",
+    number="10",
+    publisher="Elsevier",
+    ID="pino2010using",
+    cluster_id="1428035976173142851",
+    scholar="http://scholar.google.com/scholar?cites=1428035976173142851&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of systems and software",
+))
+
 riel2010a = DB(WorkUnrelated(
     2010, "Qualification and certification for the competitive edge in Integrated Design",
     display="riel",
@@ -858,6 +976,16 @@ riel2010a = DB(WorkUnrelated(
     ID="Riel2010279",
     sciencedirect="1",
     placex="\{CIRP\} Journal of Manufacturing Science and Technology",
+))
+
+rodríguez2010a = DB(WorkUnrelated(
+    2010, "Software Process Improvement for SMEs using OMM",
+    display="rodríguez",
+    authors="Rodríguez, Jessica",
+    place=FAKE,
+    entrytype="misc",
+    ID="rodriguez2010software",
+    placex="",
 ))
 
 romero2010a = DB(WorkUnrelated(
@@ -934,6 +1062,7 @@ sun2010a = DB(WorkUnrelated(
     ID="Sun201079",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=4881529965332269987&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 tisselli2010a = DB(WorkUnrelated(
@@ -951,6 +1080,22 @@ tisselli2010a = DB(WorkUnrelated(
     ID="Tisselli:2010:TCS:1787234.1787270",
     acm="1",
     placex="Commun. ACM",
+))
+
+tjørnehøj2010a = DB(WorkUnrelated(
+    2010, "Improvisation during process-technology adoption: a longitudinal study of a software firm",
+    display="tjørnehøj",
+    authors="Tjørnehøj, Gitte and Mathiassen, Lars",
+    place=FAKE,
+    pp="20--34",
+    entrytype="article",
+    volume="25",
+    number="1",
+    publisher="Springer",
+    ID="tjornehoj2010improvisation",
+    cluster_id="18374028747705230951",
+    scholar="http://scholar.google.com/scholar?cites=18374028747705230951&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Information Technology",
 ))
 
 unterkalmsteiner2010a = DB(WorkUnrelated(
@@ -979,6 +1124,22 @@ vanut2010a = DB(WorkUnrelated(
     cluster_id="9532085647863335493",
     scholar="http://scholar.google.com/scholar?cites=9532085647863335493&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+))
+
+vuk2010a = DB(WorkUnrelated(
+    2010, "Adoption of business process orientation practices: Slovenian and Croatian survey",
+    display="vuk",
+    authors="Vuk{}i{c?}, Vesna and {}temberger, Mojca and others",
+    place=FAKE,
+    pp="5--19",
+    entrytype="article",
+    volume="1",
+    number="1-2",
+    publisher="Versita",
+    ID="vukvsic2010adoption",
+    cluster_id="10815219668476755713",
+    scholar="http://scholar.google.com/scholar?cites=10815219668476755713&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Business Systems Research",
 ))
 
 wangenheim2010a = DB(WorkUnrelated(

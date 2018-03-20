@@ -116,6 +116,20 @@ canfora2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+casey2002a = DB(WorkUnrelated(
+    2002, "A practical application of the IDEAL model",
+    display="casey",
+    authors="Casey, Valentine and Richardson, Ita",
+    place=ICPFSPI,
+    pp="172--184",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="casey2002practical",
+    cluster_id="5282374143101581661",
+    scholar="http://scholar.google.com/scholar?cites=5282374143101581661&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
 chan2002a = DB(WorkUnrelated(
     2002, "Quality function deployment: A literature review",
     display="chan",
@@ -192,6 +206,17 @@ dag2002a = DB(WorkUnrelated(
     ID="NattochDag2002",
     springer="1",
     placex="Requirements Engineering",
+))
+
+donkin2002a = DB(WorkUnrelated(
+    2002, "A study of process improvement activities for web development processes within a small company",
+    display="donkin",
+    authors="Donkin, Joanna M",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="donkin2002study",
+    local="Durham University",
+    placex="",
 ))
 
 ezran2002a = DB(WorkUnrelated(
@@ -344,6 +369,19 @@ karlström2002b = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="karlstromincreasing",
+    placex="",
+))
+
+kauppinen2002a = DB(WorkUnrelated(
+    2002, "A practical framework for systematic improvement of requirements engineering processes",
+    display="kauppinen",
+    authors="Kauppinen, Marjo",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Technical report, Helsinki University of Technology",
+    ID="kauppinen2002practical",
+    cluster_id="9138510322025891564",
+    scholar="http://scholar.google.com/scholar?cites=9138510322025891564&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
 ))
 

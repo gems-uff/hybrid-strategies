@@ -694,6 +694,29 @@ venzin2003a = DB(WorkUnrelated(
     placex="Campus, Frankfurt/Main",
 ))
 
+vähäniitty2003a = DB(WorkUnrelated(
+    2003, "Key Decisions in Strategic New Product Development for Small Software Product Businesses.",
+    display="vähäniitty",
+    authors="Vähäniitty, Jarno",
+    place=FAKE,
+    pp="375--385",
+    entrytype="inproceedings",
+    ID="vahaniitty2003key",
+    cluster_id="3172039912153689731",
+    scholar="http://scholar.google.com/scholar?cites=3172039912153689731&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="EUROMICRO",
+))
+
+vähäniitty2003b = DB(WorkUnrelated(
+    2003, "of the thesis: Product Strategy Decisions in Small Software Product Businesses--A",
+    display="vähäniitty b",
+    authors="Vähäniitty, Jarno",
+    place=FAKE,
+    entrytype="article",
+    ID="vahaniitty2003thesis",
+    placex="",
+))
+
 yap2003a = DB(WorkUnrelated(
     2003, "Leveraging knowledge representation, usage, and interpretation to help reengineer the product development life cycle: visual computing and the tacit dimensions of product development",
     display="yap",

@@ -81,6 +81,7 @@ aversano2013a = DB(WorkUnrelated(
     ID="Aversano2013388",
     sciencedirect="1",
     placex="Procedia Technology",
+    scholar="http://scholar.google.com/scholar?cites=12944648314111661539&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 baca2013a = DB(WorkUnrelated(
@@ -133,6 +134,20 @@ basili2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=9467926839729077347&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+brenda2013a = DB(WorkUnrelated(
+    2013, "Actual state of implementing software process improvements in software organizations",
+    display="brenda",
+    authors="Brenda, Duron and Mirna, Munoz and Jezreel, Mejia",
+    place=FAKE,
+    pp="1--7",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="brenda2013actual",
+    cluster_id="16758055609374525533",
+    scholar="http://scholar.google.com/scholar?cites=16758055609374525533&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems and Technologies (CISTI), 2013 8th Iberian Conference on",
+))
+
 buglione2013a = DB(WorkUnrelated(
     2013, "The \LEGO\ strategy: Guidelines for a profitable deployment",
     display="buglione",
@@ -150,6 +165,21 @@ buglione2013a = DB(WorkUnrelated(
     ID="Buglione201310",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+))
+
+chebrolu2013a = DB(WorkUnrelated(
+    2013, "How does alignment of business and IT strategies impact aspects of IT effectiveness?",
+    display="chebrolu",
+    authors="Chebrolu, Shankar Babu and Ness, Lawrence",
+    place=FAKE,
+    entrytype="article",
+    volume="12",
+    number="1",
+    publisher="Walden University Publishing",
+    ID="chebrolu2013does",
+    cluster_id="3797133265750154706",
+    scholar="http://scholar.google.com/scholar?cites=3797133265750154706&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Applied Management and Technology",
 ))
 
 chouseinoglou2013a = DB(WorkUnrelated(
@@ -188,6 +218,16 @@ cuenca2013a = DB(WorkUnrelated(
     ID="Cuenca2013898",
     sciencedirect="1",
     placex="Computers in Industry",
+))
+
+curiel2013a = DB(WorkUnrelated(
+    2013, "Mecanismos de soporte al proceso de adopción de un modelo de mejora de procesos de software en las micro, pequeñas y medianas empresas",
+    display="curiel",
+    authors="Curiel, Ismael Edrein Espinosa",
+    place=FAKE,
+    entrytype="article",
+    ID="curiel2013mecanismos",
+    placex="",
 ))
 
 daneva2013a = DB(WorkUnrelated(
@@ -238,6 +278,18 @@ elliott2013a = DB(WorkUnrelated(
     placex="Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
 ))
 
+ellis2013a = DB(WorkUnrelated(
+    2013, "Towards an approach for analysing the strategic alignment of software requirements using quantified goal graphs",
+    display="ellis",
+    authors="Ellis-Braithwaite, Richard and Lock, Russell and Dawson, Ray and Haque, Badr",
+    place=FAKE,
+    entrytype="article",
+    ID="ellis2013towards",
+    cluster_id="10576527708277758623",
+    scholar="http://scholar.google.com/scholar?cites=10576527708277758623&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1307.2580",
+))
+
 eremenko2013a = DB(WorkUnrelated(
     2013, "Neural Network Based System for Nondestructive Testing of Composite Materials Using Low-Frequency Acoustic Methods",
     display="eremenko",
@@ -264,6 +316,33 @@ ferreira2013a = DB(WorkUnrelated(
     clusterid="16961306956407146149",
     scholar="http://scholar.google.com/scholar?cites=16961306956407146149&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Quality",
+))
+
+gandomani2013a = DB(WorkUnrelated(
+    2013, "How pre-start up assessment helps software companies in Agile transition",
+    display="gandomani",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Javanmardi, Ali and Ghani, Abdul Azim Abdul and Sultan, Abu Bakar Md and Nafchi, Mina Ziaei",
+    place=FAKE,
+    pp="1125--1130",
+    entrytype="article",
+    volume="25",
+    ID="gandomani2013pre",
+    cluster_id="17846523137424552975",
+    scholar="http://scholar.google.com/scholar?cites=17846523137424552975&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Science International",
+))
+
+garay2013a = DB(WorkUnrelated(
+    2013, "Estudio de Mapeo Sistematizado sobre la Estimación de Valor del Producto Software",
+    display="garay",
+    authors="Garay-Hernández, Rubén and Espinoza, Angelina and Martínez-Martínez, Alfonso and Castro-Careaga, Luis",
+    place=FAKE,
+    pp="138--145",
+    entrytype="inproceedings",
+    ID="garay2013estudio",
+    cluster_id="8913330742035250473",
+    scholar="http://scholar.google.com/scholar?cites=8913330742035250473&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Congreso Internacional de Investigación e Innovación en Ingeniería de Software 2013. Xalapa, Veracruz, del 2 al 4 de octubre",
 ))
 
 garcíaguzmán2013a = DB(WorkUnrelated(
@@ -515,6 +594,20 @@ kasoju2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+kasurinen2013a = DB(WorkUnrelated(
+    2013, "How applicable is ISO/IEC 29110 in Game Software Development?",
+    display="kasurinen",
+    authors="Kasurinen, Jussi and Laine, Risto and Smolander, Kari",
+    place=ICPFSPI,
+    pp="5--19",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kasurinen2013applicable",
+    cluster_id="3453124049012849813",
+    scholar="http://scholar.google.com/scholar?cites=3453124049012849813&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
 kazato2013a = DB(WorkUnrelated(
     2013, "Towards Classification of DNS Erroneous Queries",
     display="kazato",
@@ -588,6 +681,18 @@ lee2013a = DB(WorkUnrelated(
     cluster_id="17672865162220908822",
     scholar="http://scholar.google.com/scholar?cites=17672865162220908822&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Knowledge Management",
+))
+
+lohrmann2013a = DB(WorkUnrelated(
+    2013, "Process Quality and Performance in a Shared Services Environment",
+    display="lohrmann",
+    authors="Lohrmann, Matthias and Riedel, Alexander",
+    place=FAKE,
+    pp="225--252",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="lohrmann2013process",
+    placex="Finance Bundling and Finance Transformation",
 ))
 
 maglyas2013a = DB(WorkUnrelated(
@@ -798,6 +903,19 @@ pardo2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+pernstål2013a = DB(WorkUnrelated(
+    2013, "Towards Managing the Interaction between Manufacturing and Development Organizations in Automotive Software Development",
+    display="pernstål",
+    authors="Pernstål, Joakim",
+    place=Book,
+    entrytype="book",
+    publisher="Chalmers University of Technology",
+    ID="pernstaal2013towards",
+    cluster_id="6148666644906249314",
+    scholar="http://scholar.google.com/scholar?cites=6148666644906249314&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 petersen2013a = DB(WorkUnrelated(
     2013, "Worldviews, research methods, and their relationship to validity in empirical software engineering research",
     display="petersen",
@@ -829,6 +947,34 @@ rinkevics2013a = DB(WorkUnrelated(
     ID="Rinkevics2013267",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+stallinger2013a = DB(WorkUnrelated(
+    2013, "Development and Evaluation of Systems Engineering Strategies: An Assessment-Based Approach",
+    display="stallinger",
+    authors="Stallinger, Fritz and Plösch, Reinhold and Neumann, Robert and Horn, Stefan and Vollmar, Jan",
+    place=ICSE,
+    pp="215--229",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="stallinger2013development",
+    placex="International Conference on Software Quality",
+))
+
+svahnberg2013a = DB(WorkUnrelated(
+    2013, "Uni-REPM: validated and improved",
+    display="svahnberg",
+    authors="Svahnberg, Mikael and Gorschek, Tony and Nguyen, Thi Than Loan and Nguyen, Mai",
+    place=FAKE,
+    pp="85--103",
+    entrytype="article",
+    volume="18",
+    number="1",
+    publisher="Springer",
+    ID="svahnberg2013uni",
+    cluster_id="1359537647884706678",
+    scholar="http://scholar.google.com/scholar?cites=1359537647884706678&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Requirements Engineering",
 ))
 
 teixeira2013a = DB(WorkUnrelated(

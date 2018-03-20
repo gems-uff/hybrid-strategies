@@ -328,6 +328,16 @@ kautz2000b = DB(WorkUnrelated(
     placex="Proceedings of BPRC CONFERENCE on 'Knowledge Management: Concepts and Controversies'",
 ))
 
+kautz2000c = DB(WorkUnrelated(
+    2000, "EuroSPI 2000",
+    display="kautz",
+    authors="Kautz, Karlheinz and Ramzan, Faisal",
+    place=FAKE,
+    entrytype="article",
+    ID="kautzeurospi",
+    placex="",
+))
+
 kuilboer2000a = DB(WorkUnrelated(
     2000, "Software process and product improvement: An empirical assessment",
     display="kuilboer",

@@ -294,6 +294,19 @@ stelzer1998a = DB(WorkUnrelated(
     placex="Software Process Improvement and Practice",
 ))
 
+stelzer1998b = DB(WorkUnrelated(
+    1998, "Möglichkeiten und Grenzen des prozeßorientierten Software-Qualitätsmanagements",
+    display="stelzer b",
+    authors="Stelzer, Dirk",
+    place=FAKE,
+    entrytype="article",
+    volume="8",
+    ID="stelzer1998moglichkeiten",
+    cluster_id="16280836976552330722",
+    scholar="http://scholar.google.com/scholar?cites=16280836976552330722&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Habilitation, Wirtschafts-und sozialwissenschaftliche Fakultät der Universität zu Köln",
+))
+
 stålhane1998a = DB(WorkUnrelated(
     1998, "Modification of safety critical systems: an assessment of three approaches",
     display="stålhane",

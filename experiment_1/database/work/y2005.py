@@ -17,6 +17,34 @@ acharya2005a = DB(WorkUnrelated(
     placex="Quality Software, 2005.(QSIC 2005). Fifth International Conference on",
 ))
 
+adamonis2005a = DB(WorkUnrelated(
+    2005, "DEPENDENCIES OF PROCESSESCAPABILITY LEVELS",
+    display="adamonis",
+    authors="Adamonis, Andrius and Mita{}i{?u}nas, Antanas and Naujikas, Irmantas and Ragai{}is, Saulius and Reingardtas, Martynas",
+    place=FAKE,
+    entrytype="article",
+    volume="34",
+    number="2",
+    ID="adamonis2005dependencies",
+    cluster_id="18054298415863928801",
+    scholar="http://scholar.google.com/scholar?cites=18054298415863928801&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information technology and control",
+))
+
+balandis2005a = DB(WorkUnrelated(
+    2005, "Software Process Improvement in Lithuania--UAB Sintagma Case Study",
+    display="balandis",
+    authors="Balandis, Osvaldas and Laurinskait?, Laura",
+    place=FAKE,
+    entrytype="article",
+    volume="34",
+    number="2",
+    ID="balandis2005software",
+    cluster_id="3011262327962969535",
+    scholar="http://scholar.google.com/scholar?cites=3011262327962969535&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information technology and control",
+))
+
 beecham2005a = DB(WorkUnrelated(
     2005, "Using an expert panel to validate a requirements process improvement model",
     display="beecham",
@@ -206,6 +234,18 @@ gairing2005a = DB(WorkUnrelated(
     placex="Proceedings of the Seventeenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
 ))
 
+gong2005a = DB(WorkUnrelated(
+    2005, "A process improvement framework and a supporting software oriented to chinese small organizations",
+    display="gong",
+    authors="Gong, Bo and He, Xingui and Liu, Weihong",
+    place=FAKE,
+    pp="277--286",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="gong2005process",
+    placex="Software Process Workshop",
+))
+
 gopal2005a = DB(WorkUnrelated(
     2005, "The impact of institutional forces on software metrics programs",
     display="gopal",
@@ -281,6 +321,19 @@ karlström2005a = DB(WorkUnrelated(
     placex="Software Testing, Verification and Reliability",
 ))
 
+kauppinen2005a = DB(WorkUnrelated(
+    2005, "Introducing requirements engineering into product development: towards systematic user requirements definition",
+    display="kauppinen",
+    authors="Kauppinen, Marjo and others",
+    place=Book,
+    entrytype="book",
+    publisher="Helsinki University of Technology",
+    ID="kauppinen2005introducing",
+    cluster_id="7715030592120089828",
+    scholar="http://scholar.google.com/scholar?cites=7715030592120089828&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 liu2005a = DB(WorkUnrelated(
     2005, "QFD Application in Software Process Management and Improvement Based on CMM",
     display="liu",
@@ -306,6 +359,21 @@ marcus2005a = DB(WorkUnrelated(
     cluster_id="5308395896136199419",
     scholar="http://scholar.google.com/scholar?cites=5308395896136199419&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+))
+
+mas2005a = DB(WorkUnrelated(
+    2005, "La mejora de los procesos de software en las pequeñas y medianas empresas (pyme). Un nuevo modelo y su aplicación a un caso real",
+    display="mas",
+    authors="Mas, Antònia and Amengual, Esperan{ç}a",
+    place=FAKE,
+    entrytype="article",
+    volume="1",
+    number="2",
+    publisher="Asociación de Técnicos de Informática",
+    ID="mas2005mejora",
+    cluster_id="6633335005355642323",
+    scholar="http://scholar.google.com/scholar?cites=6633335005355642323&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="REICIS. Revista Española de Innovación, Calidad e Ingeniería del Software",
 ))
 
 procaccino2005a = DB(WorkUnrelated(

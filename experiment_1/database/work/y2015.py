@@ -33,6 +33,20 @@ ali2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+babar2015a = DB(WorkUnrelated(
+    2015, "Modeling DevOps deployment choices using process architecture design dimensions",
+    display="babar",
+    authors="Babar, Zia and Lapouchnian, Alexei and Yu, Eric",
+    place=FAKE,
+    pp="322--337",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="babar2015modeling",
+    cluster_id="16602558223092829815",
+    scholar="http://scholar.google.com/scholar?cites=16602558223092829815&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IFIP Working Conference on The Practice of Enterprise Modeling",
+))
+
 becker2015a = DB(WorkUnrelated(
     2015, "Process ontology specification for enhancing the process compliance of a measurement and evaluation strategy",
     display="becker",
@@ -94,6 +108,19 @@ cakula2015a = DB(WorkUnrelated(
     ID="Cakula2015191",
     sciencedirect="1",
     placex="Procedia Computer Science",
+))
+
+dymek2015a = DB(WorkUnrelated(
+    2015, "Model parametryczny w zarz{?}dzaniu ryzykiem przedsi{?}wzi{?}{c?} informatycznych",
+    display="dymek",
+    authors="Dymek, Dariusz",
+    place=FAKE,
+    entrytype="article",
+    number="237",
+    ID="dymek2015model",
+    cluster_id="7608117474462826155",
+    scholar="http://scholar.google.com/scholar?cites=7608117474462826155&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Zeszyty Naukowe/Uniwersytet Ekonomiczny w Krakowie. Seria Specjalna, Monografie",
 ))
 
 fagerholm2015a = DB(WorkUnrelated(
@@ -318,6 +345,22 @@ hyvönen2015a = DB(WorkUnrelated(
     entrytype="article",
     ID="hyvonen2015towards",
     placex="",
+))
+
+jansson2015a = DB(WorkUnrelated(
+    2015, "Services supporting collaborative alignment of engineering networks",
+    display="jansson",
+    authors="Jansson, Kim and Uoti, Mikko and Karvonen, Iris",
+    place=FAKE,
+    pp="499--527",
+    entrytype="article",
+    volume="9",
+    number="5-6",
+    publisher="Taylor & Francis",
+    ID="jansson2015services",
+    cluster_id="10696602947359516752",
+    scholar="http://scholar.google.com/scholar?cites=10696602947359516752&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Enterprise Information Systems",
 ))
 
 jeners2015a = DB(WorkUnrelated(
@@ -703,6 +746,17 @@ rosa2015a = DB(WorkUnrelated(
     placex="Proceedings of the 2015 International Conference on Software and System Process",
 ))
 
+rúa2015a = DB(WorkUnrelated(
+    2015, "Marco de trabajo para adaptar las metodologías ágiles e implantarlas a nivel organizacional",
+    display="rúa",
+    authors="Caballero Rúa, Edgar Henry",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="caballero2015marco",
+    local="ETSI_Informatica",
+    placex="",
+))
+
 salgado2015a = DB(WorkUnrelated(
     2015, "Investigación y propuesta de un modelo de competitividad para una localidad de investigación y desarrollo en México en el ramo de la industria electrónica automotriz",
     display="salgado",
@@ -723,6 +777,21 @@ samios2015a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Samios2015",
     placex="Scrum and Cynefin",
+))
+
+sharma2015a = DB(WorkUnrelated(
+    2015, "SIRFrt method: Assessing and improving maintenance reliability",
+    display="sharma",
+    authors="Sharma, Subhash C and Chugh, Ritesh and Mather, Narein",
+    place=FAKE,
+    entrytype="article",
+    volume="10",
+    number="2 (37)",
+    publisher="????????-?????????? Gnedenko Forum",
+    ID="sharma2015sirfrt",
+    cluster_id="7495506040148135724",
+    scholar="http://scholar.google.com/scholar?cites=7495506040148135724&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Reliability: Theory & Applications",
 ))
 
 silva2015a = DB(WorkUnrelated(
@@ -807,6 +876,19 @@ trinkenreich2015a = DB(WorkUnrelated(
     placex="International Conference on Product-Focused Software Process Improvement",
 ))
 
+tyrväinen2015a = DB(WorkUnrelated(
+    2015, "Metrics framework for cycle-time reduction in software value creation",
+    display="tyrväinen",
+    authors="Tyrväinen, Pasi and Saarikallio, Matti and Aho, Timo and Lehtonen, Timo and Paukeri, Rauno",
+    place=FAKE,
+    entrytype="inproceedings",
+    organization="IARIA",
+    ID="tyrvainen2015metrics",
+    cluster_id="14892979710169575717",
+    scholar="http://scholar.google.com/scholar?cites=14892979710169575717&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ICSEA 2015: The Tenth International Conference on Software Engineering Advances, ISBN 978-1-61208-438-1",
+))
+
 tüzün2015a = DB(WorkUnrelated(
     2015, "Empirical evaluation of a decision support model for adopting software product line engineering",
     display="tüzün",
@@ -824,6 +906,19 @@ tüzün2015a = DB(WorkUnrelated(
     ID="Tüzün201577",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+valente2015a = DB(WorkUnrelated(
+    2015, "Improving Software Design Decisions towards Enhanced Return of Investment.",
+    display="valente",
+    authors="Valente, Pedro and Aveiro, David and Nunes, Nuno Jardim",
+    place=FAKE,
+    pp="388--394",
+    entrytype="inproceedings",
+    ID="valente2015improving",
+    cluster_id="9103715818272978924",
+    scholar="http://scholar.google.com/scholar?cites=9103715818272978924&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ICEIS (2)",
 ))
 
 wohlin2015a = DB(WorkUnrelated(

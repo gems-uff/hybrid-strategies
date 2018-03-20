@@ -12,6 +12,13 @@ from ..work.y2003 import isoiec2003b
 from ..work.y2003 import venzin2003a
 from ..work.y2006 import cmmi2006a
 from ..work.y2011 import plösch2011a
+from ..work.y2013 import stallinger2013a
+from ..work.y2015 import sharma2015a
+from ..work.y2016 import robles2016a
+from ..work.y2017 import sanchez2017a
+from ..work.y2017 import carmo2017a
+from ..work.y2017 import carmo2017b
+from ..work.y2018 import sanchez2018a
 
 DB(Citation(
     plösch2011a, isoiec2003b, ref="",
@@ -64,6 +71,55 @@ DB(Citation(
 
 DB(Citation(
     plösch2011a, venzin2003a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2017a, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sharma2015a, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    carmo2017a, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2018a, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stallinger2013a, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    carmo2017b, plösch2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    robles2016a, plösch2011a, ref="",
     contexts=[
 
     ],

@@ -22,6 +22,14 @@ from ..work.y2010 import esfahani2010a
 from ..work.y2010 import institute2010a
 from ..work.y2010 import krasteva2010a
 from ..work.y2011 import esfahani2011a
+from ..work.y2011 import esfahani2011b
+from ..work.y2012 import hochstetter2012a
+from ..work.y2012 import stavru2012a
+from ..work.y2013 import gandomani2013a
+from ..work.y2014 import schramm2014a
+from ..work.y2014 import schramm2014b
+from ..work.y2015 import babar2015a
+from ..work.y2015 import rúa2015a
 
 DB(Citation(
     esfahani2011a, esfahani2010a, ref="",
@@ -144,6 +152,62 @@ DB(Citation(
 
 DB(Citation(
     esfahani2011a, krasteva2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    babar2015a, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    esfahani2011b, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    schramm2014a, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gandomani2013a, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hochstetter2012a, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stavru2012a, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    schramm2014b, esfahani2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rúa2015a, esfahani2011a, ref="",
     contexts=[
 
     ],

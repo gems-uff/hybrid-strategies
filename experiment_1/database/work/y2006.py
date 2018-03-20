@@ -228,6 +228,20 @@ debarr2006a = DB(WorkUnrelated(
     placex="SIGKDD Explor. Newsl.",
 ))
 
+emam2006a = DB(WorkUnrelated(
+    2006, "An Overview of Process Improvement in Small Settings",
+    display="emam",
+    authors="El Emam, Khaled",
+    place=WE,
+    pp="261--275",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="el2006overview",
+    cluster_id="10762984489691300881",
+    scholar="http://scholar.google.com/scholar?cites=10762984489691300881&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Web Engineering",
+))
+
 fernándezmedina2006a = DB(WorkUnrelated(
     2006, "Access control and audit model for the multidimensional modeling of data warehouses",
     display="fernándezmedina",
@@ -261,6 +275,29 @@ gorschek2006a = DB(WorkUnrelated(
     ID="Gorschek2006",
     springer="1",
     placex="Requirements Engineering",
+))
+
+gorschek2006b = DB(WorkUnrelated(
+    2006, "Requirements engineering supporting technical product management",
+    display="gorschek b",
+    authors="Gorschek, Tony",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="gorschek2006requirements",
+    cluster_id="11677362890625672455",
+    scholar="http://scholar.google.com/scholar?cites=11677362890625672455&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Blekinge Institute of Technology",
+    placex="",
+))
+
+gorschek2006c = DB(WorkUnrelated(
+    2006, "Success Evaluation and Measures in Software Process Improvement",
+    display="gorschek c",
+    authors="Gorschek, Tony and Åsfält, Pär",
+    place=FAKE,
+    entrytype="misc",
+    ID="gorschek2006success",
+    placex="",
 ))
 
 grünbacher2006a = DB(WorkUnrelated(
@@ -383,6 +420,22 @@ kishore2006a = DB(WorkUnrelated(
     ID="Kishore200648",
     sciencedirect="1",
     placex="Decision Support Systems",
+))
+
+leih2006a = DB(WorkUnrelated(
+    2006, "The impact of the Sarbanes-Oxley Act on IT project management",
+    display="leih",
+    authors="Leih, Michael J",
+    place=FAKE,
+    pp="13",
+    entrytype="article",
+    volume="8",
+    number="3",
+    publisher="Association for Information Systems",
+    ID="leih2006impact",
+    cluster_id="11753970966294523513",
+    scholar="http://scholar.google.com/scholar?cites=11753970966294523513&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="JITTA: Journal of Information Technology Theory and Application",
 ))
 
 li2006a = DB(WorkUnrelated(
@@ -597,6 +650,19 @@ wangenheim2006a = DB(WorkUnrelated(
     ID="Wangenheim2006890",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+wong2006a = DB(WorkUnrelated(
+    2006, "Software process improvements in Bagladesh",
+    display="wong",
+    authors="Wong, Bernard and Hasan, Sazzad",
+    place=ICSE,
+    entrytype="inproceedings",
+    organization="CSREA Press",
+    ID="wong2006software",
+    cluster_id="128097436475771037",
+    scholar="http://scholar.google.com/scholar?cites=128097436475771037&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Software Engineering Research and Practice",
 ))
 
 xu2006a = DB(WorkUnrelated(

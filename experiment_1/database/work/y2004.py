@@ -95,6 +95,22 @@ capell2004a = DB(WorkUnrelated(
     placex="SEI SPECIAL REPORT CMU",
 ))
 
+casey2004a = DB(WorkUnrelated(
+    2004, "A practical application of the IDEAL model",
+    display="casey",
+    authors="Casey, Valentine and Richardson, Ita",
+    place=SPIP,
+    pp="123--132",
+    entrytype="article",
+    volume="9",
+    number="3",
+    publisher="Wiley Online Library",
+    ID="casey2004practical",
+    cluster_id="14240618123670173976",
+    scholar="http://scholar.google.com/scholar?cites=14240618123670173976&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
 cater2004a = DB(WorkUnrelated(
     2004, "Low-rigour, rapid software process assessments for small software development firms",
     display="cater",
@@ -107,6 +123,33 @@ cater2004a = DB(WorkUnrelated(
     note="cited By 23",
     ID="Cater-Steel2004368",
     placex="Proceedings of the Australian Software Engineering Conference, ASWEC",
+))
+
+cater2004b = DB(WorkUnrelated(
+    2004, "An evaluation of software development practice and assessment-based process improvement in small software development firms",
+    display="cater b",
+    authors="Cater-Steel, Aileen",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="cater2004evaluation",
+    cluster_id="8322987274008536048",
+    scholar="http://scholar.google.com/scholar?cites=8322987274008536048&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Griffith University",
+    placex="",
+))
+
+cater2004c = DB(WorkUnrelated(
+    2004, "After the assessment: actions and reactions of 22 small Australian firms",
+    display="cater c",
+    authors="Cater-Steel, Aileen and Toleman, Mark and Rout, Terry",
+    place=FAKE,
+    pp="54--63",
+    entrytype="inproceedings",
+    organization="Critical Software SA/SPICE User Group",
+    ID="cater2004after",
+    cluster_id="2238618385588393664",
+    scholar="http://scholar.google.com/scholar?cites=2238618385588393664&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 4th International SPICE Conference on Process Assessment and ImprovementSPICE 2004",
 ))
 
 chrissis2004a = DB(WorkUnrelated(
@@ -176,6 +219,22 @@ goethert2004a = DB(WorkUnrelated(
     placex="Carnegie Mellon University, Software Eng",
 ))
 
+gorschek2004a = DB(WorkUnrelated(
+    2004, "Packaging software process improvement issues: a method and a case study",
+    display="gorschek",
+    authors="Gorschek, Tony and Wohlin, Claes",
+    place=FAKE,
+    pp="1311--1344",
+    entrytype="article",
+    volume="34",
+    number="14",
+    publisher="Wiley Online Library",
+    ID="gorschek2004packaging",
+    cluster_id="13434671154375543572",
+    scholar="http://scholar.google.com/scholar?cites=13434671154375543572&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software: Practice and Experience",
+))
+
 grant2004a = DB(WorkUnrelated(
     2004, "Special section",
     display="grant",
@@ -192,6 +251,22 @@ grant2004a = DB(WorkUnrelated(
     ID="Grant2004449",
     sciencedirect="1",
     placex="International Journal of Information Management",
+))
+
+guerrero2004a = DB(WorkUnrelated(
+    2004, "Adopting the SW-CMM in a Small IT Organization",
+    display="guerrero",
+    authors="Guerrero, Felipe and Eterovic, Yadran",
+    place=IEEES,
+    pp="29--35",
+    entrytype="article",
+    volume="21",
+    number="4",
+    publisher="IEEE",
+    ID="guerrero2004adopting",
+    cluster_id="11640469187417357474",
+    scholar="http://scholar.google.com/scholar?cites=11640469187417357474&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE software",
 ))
 
 haaker2004a = DB(WorkUnrelated(
@@ -226,6 +301,7 @@ hansen2004a = DB(WorkUnrelated(
     ID="Hansen2004457",
     sciencedirect="1",
     placex="International Journal of Information Management",
+    scholar="http://scholar.google.com/scholar?cites=10770119955145613305&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 hansen2004b = DB(WorkUnrelated(
@@ -241,6 +317,31 @@ hansen2004b = DB(WorkUnrelated(
     ID="10.1007/978-3-540-30181-3_12",
     springer="1",
     placex="Software Process Improvement",
+))
+
+hjalmarsson2004a = DB(WorkUnrelated(
+    2004, "Att etablera och vidmakthålla förbättringsverksamhet: Behovet av koordination och interaktion vid förändring av systemutvecklingsverksamheter",
+    display="hjalmarsson",
+    authors="Hjalmarsson, Anders",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hjalmarsson2004att",
+    cluster_id="3890780300222766365",
+    scholar="http://scholar.google.com/scholar?cites=3890780300222766365&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Institutionen för datavetenskap",
+    placex="",
+))
+
+hjalmarsson2004b = DB(WorkUnrelated(
+    2004, "Att etablera och vidmakthålla förbättringsverksamhet",
+    display="hjalmarsson b",
+    authors="Hjalmarsson, Anders",
+    place=FAKE,
+    entrytype="article",
+    ID="hjalmarsson2004att",
+    cluster_id="12903822031910392999",
+    scholar="http://scholar.google.com/scholar?cites=12903822031910392999&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Behovet av koordination och interaktion vid förändring av systemutvecklingsverksamheter, lic. avhandling, IDA, Linköpings universitet",
 ))
 
 holz2004a = DB(WorkUnrelated(
@@ -398,6 +499,23 @@ kauppinen2004a = DB(WorkUnrelated(
     ID="Kauppinen2004937",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scholar="http://scholar.google.com/scholar?cites=5784926019705824565&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+kautz2004a = DB(WorkUnrelated(
+    2004, "Understanding the implementation of software process improvement innovations in software organizations",
+    display="kautz",
+    authors="Kautz, Karlheinz and Nielsen, Peter Axel",
+    place=FAKE,
+    pp="3--22",
+    entrytype="article",
+    volume="14",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="kautz2004understanding",
+    cluster_id="15073932125956591546",
+    scholar="http://scholar.google.com/scholar?cites=15073932125956591546&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems Journal",
 ))
 
 komi2004a = DB(WorkUnrelated(
@@ -486,6 +604,20 @@ little2004a = DB(WorkUnrelated(
     note="cited By 17",
     ID="Little200448",
     placex="IEEE Software",
+))
+
+makipaa2004a = DB(WorkUnrelated(
+    2004, "Mass Customization and Beyond in Software Engineering--Developing a Framework for Mass Customized Adaptive Software",
+    display="makipaa",
+    authors="Makipaa, Marko and Mattila, Jussi",
+    place=FAKE,
+    entrytype="inproceedings",
+    volume="12",
+    organization="Citeseer",
+    ID="makipaa2004mass",
+    cluster_id="7324433790968449270",
+    scholar="http://scholar.google.com/scholar?cites=7324433790968449270&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="The First Finnish Mass Customization and Personalization",
 ))
 
 malotaux2004a = DB(WorkUnrelated(

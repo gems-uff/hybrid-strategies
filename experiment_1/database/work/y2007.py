@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alagarsamy2007a = DB(WorkUnrelated(
+    2007, "On the implementation of a knowledge management tool for SPI",
+    display="alagarsamy",
+    authors="Alagarsamy, K and Justus, S and Iyakutti, K",
+    place=FAKE,
+    pp="48--55",
+    entrytype="inproceedings",
+    volume="2",
+    organization="IEEE",
+    ID="alagarsamy2007implementation",
+    cluster_id="6427160021258138258",
+    scholar="http://scholar.google.com/scholar?cites=6427160021258138258&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Conference on Computational Intelligence and Multimedia Applications, 2007. International Conference on",
+))
+
 allison2007a = DB(WorkUnrelated(
     2007, "Software process improvement as emergent change: A structurational analysis",
     display="allison",
@@ -20,6 +35,19 @@ allison2007a = DB(WorkUnrelated(
     ID="Allison2007668",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+alshawi2007a = DB(WorkUnrelated(
+    2007, "Rethinking IT in construction and engineering: Organisational readiness",
+    display="alshawi",
+    authors="Alshawi, Mustafa",
+    place=Book,
+    entrytype="book",
+    publisher="Routledge",
+    ID="alshawi2007rethinking",
+    cluster_id="13644107317510752221",
+    scholar="http://scholar.google.com/scholar?cites=13644107317510752221&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 apfelbacher2007a = DB(WorkUnrelated(
@@ -90,6 +118,16 @@ basili2007b = DB(WorkUnrelated(
     placex="Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007",
 ))
 
+brouwer2007a = DB(WorkUnrelated(
+    2007, "Management of SPI implementations",
+    display="brouwer",
+    authors="Brouwer, Jan Hendrik",
+    place=FAKE,
+    entrytype="article",
+    ID="brouwer2007management",
+    placex="",
+))
+
 castillo2007a = DB(WorkUnrelated(
     2007, "The 'MECIMPLAN' approach to agent-based strategic planning",
     display="castillo",
@@ -114,6 +152,22 @@ charrel2007a = DB(WorkUnrelated(
     publisher="Springer",
     ID="charrel2007centred",
     placex="Project Management and Risk Management in Complex Projects",
+))
+
+chen2007a = DB(WorkUnrelated(
+    2007, "Customer-focused and product-line-based manufacturing performance measurement",
+    display="chen",
+    authors="Chen, Chee-Cheng and Cheng, Wen-Ying",
+    place=FAKE,
+    pp="1236--1245",
+    entrytype="article",
+    volume="34",
+    number="11-12",
+    publisher="Springer",
+    ID="chen2007customer",
+    cluster_id="7935999299543068575",
+    scholar="http://scholar.google.com/scholar?cites=7935999299543068575&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
 deng2007a = DB(WorkUnrelated(
@@ -168,6 +222,22 @@ fahey2007a = DB(WorkUnrelated(
     note="cited By 16",
     ID="Fahey20074",
     placex="Strategy & Leadership",
+))
+
+farooq2007a = DB(WorkUnrelated(
+    2007, "Research directions in verification & validation process improvement",
+    display="farooq",
+    authors="Farooq, Ayaz and Dumke, Reiner R",
+    place=FAKE,
+    pp="3",
+    entrytype="article",
+    volume="32",
+    number="4",
+    publisher="ACM",
+    ID="farooq2007research",
+    cluster_id="373236104315609118",
+    scholar="http://scholar.google.com/scholar?cites=373236104315609118&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
 garcía2007a = DB(WorkUnrelated(
@@ -351,6 +421,22 @@ lester2007a = DB(WorkUnrelated(
     placex="Software Engineering and Advanced Applications, 2007. 33rd EUROMICRO Conference on",
 ))
 
+leung2007a = DB(WorkUnrelated(
+    2007, "Automated support of software quality improvement",
+    display="leung",
+    authors="Leung, Hareton KN and Liao, Li and Qu, Yuzhong",
+    place=FAKE,
+    pp="230--243",
+    entrytype="article",
+    volume="24",
+    number="3",
+    publisher="Emerald Group Publishing Limited",
+    ID="leung2007automated",
+    cluster_id="6600957259000167204",
+    scholar="http://scholar.google.com/scholar?cites=6600957259000167204&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Quality & Reliability Management",
+))
+
 linden2007a = DB(WorkUnrelated(
     2007, "Software product lines in action",
     display="linden",
@@ -416,6 +502,17 @@ montoni2007a = DB(WorkUnrelated(
     note="cited By 10",
     ID="Montoni2007",
     artnumber="4273471",
+))
+
+murakami2007a = DB(WorkUnrelated(
+    2007, "Product Quality & Software Quality",
+    display="murakami",
+    authors="Murakami, Lélis Tetsuo",
+    place=TechReport,
+    entrytype="techreport",
+    institution="SAE Technical Paper",
+    ID="murakami2007product",
+    placex="",
 ))
 
 neergaard2007a = DB(WorkUnrelated(
@@ -496,6 +593,34 @@ salo2007a = DB(WorkUnrelated(
     placex="Software Process Improvement and Practice",
 ))
 
+savioja2007a = DB(WorkUnrelated(
+    2007, "Measurement practices in financial software industry",
+    display="savioja",
+    authors="Savioja, Erkki and Tukiainen, Markku",
+    place=SPIP,
+    pp="585--595",
+    entrytype="article",
+    volume="12",
+    number="6",
+    publisher="Wiley Online Library",
+    ID="savioja2007measurement",
+    cluster_id="16914625710543940302",
+    scholar="http://scholar.google.com/scholar?cites=16914625710543940302&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
+schalken2007a = DB(WorkUnrelated(
+    2007, "Empirical investigations of software process improvement",
+    display="schalken",
+    authors="Schalken, Joost Joannes Petrus and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="schalken2007empirical",
+    cluster_id="11066956079933084981",
+    scholar="http://scholar.google.com/scholar?cites=11066956079933084981&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 sidky2007a = DB(WorkUnrelated(
     2007, "A disciplined approach to adopting agile practices: The agile adoption framework",
     display="sidky",
@@ -574,6 +699,21 @@ steen2007a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+sujaritha2007a = DB(WorkUnrelated(
+    2007, "Face recognition using wavelet transform and locally discriminating projection",
+    display="sujaritha",
+    authors="Sujaritha, M and Annadurai, S",
+    place=FAKE,
+    pp="436--440",
+    entrytype="inproceedings",
+    volume="2",
+    organization="IEEE",
+    ID="sujaritha2007face",
+    cluster_id="12480233407574120884",
+    scholar="http://scholar.google.com/scholar?cites=12480233407574120884&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Conference on Computational Intelligence and Multimedia Applications, 2007. International Conference on",
+))
+
 taipale2007a = DB(WorkUnrelated(
     2007, "Observations on software testing practice",
     display="taipale",
@@ -642,6 +782,19 @@ verhoef2007a = DB(WorkUnrelated(
     ID="Verhoef2007247",
     sciencedirect="1",
     placex="Science of Computer Programming",
+))
+
+walker2007a = DB(WorkUnrelated(
+    2007, "Development of a process improvement approach for graduate IT education: The CMMI IT ED",
+    display="walker",
+    authors="Walker, Loran W",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="walker2007development",
+    cluster_id="9052393636575279271",
+    scholar="http://scholar.google.com/scholar?cites=9052393636575279271&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Lawrence Technological University",
+    placex="",
 ))
 
 wang2007a = DB(WorkUnrelated(

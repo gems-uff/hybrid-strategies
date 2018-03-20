@@ -170,6 +170,20 @@ garbett1999a = DB(WorkUnrelated(
     placex="Microprocessors and Microsystems",
 ))
 
+halloran1999a = DB(WorkUnrelated(
+    1999, "Organisational learning from the perspective of a software process assessment and improvement program",
+    display="halloran",
+    authors="Halloran, Pat",
+    place=FAKE,
+    pp="11--pp",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="halloran1999organisational",
+    cluster_id="8058087638539536153",
+    scholar="http://scholar.google.com/scholar?cites=8058087638539536153&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Systems Sciences, 1999. HICSS-32. Proceedings of the 32nd Annual Hawaii International Conference on",
+))
+
 hefner1999a = DB(WorkUnrelated(
     1999, "The top ten reasons improvement efforts fail",
     display="hefner",

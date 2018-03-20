@@ -18,6 +18,11 @@ from ..work.y2002 import cmm2002a
 from ..work.y2005 import salo2005a
 from ..work.y2007 import martins2007b
 from ..work.y2008 import martins2008a
+from ..work.y2011 import ollus2011a
+from ..work.y2011 import uoti2011a
+from ..work.y2011 import jansson2011a
+from ..work.y2015 import jansson2015a
+from ..work.y2016 import muñoz2016a
 
 DB(Citation(
     martins2008a, salo2005a, ref="",
@@ -112,6 +117,41 @@ DB(Citation(
 
 DB(Citation(
     martins2008a, vertage1994a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ollus2011a, martins2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    uoti2011a, martins2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jansson2015a, martins2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    muñoz2016a, martins2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jansson2011a, martins2008a, ref="",
     contexts=[
 
     ],

@@ -31,6 +31,11 @@ from ..work.y2007 import martins2007b
 from ..work.y2008 import nollen2008a
 from ..work.y2009 import albuquerque2009a
 from ..work.y2009 import softex2009a
+from ..work.y2012 import lópez2012a
+from ..work.y2013 import ardila2013a
+from ..work.y2013 import ardila2013b
+from ..work.y2017 import vasconcellos2017a
+from ..work.y2017 import freire2017a
 
 DB(Citation(
     albuquerque2009a, nollen2008a, ref="",
@@ -216,6 +221,41 @@ DB(Citation(
 
 DB(Citation(
     albuquerque2009a, boehm2000b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vasconcellos2017a, albuquerque2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ardila2013a, albuquerque2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2012a, albuquerque2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ardila2013b, albuquerque2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    freire2017a, albuquerque2009a, ref="",
     contexts=[
 
     ],

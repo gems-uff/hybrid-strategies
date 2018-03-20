@@ -41,3 +41,13 @@ sanchez2018a = DB(WorkUnrelated(
     ID="sanchez2018system",
     placex="Kybernetes",
 ))
+
+valente2018a = DB(WorkUnrelated(
+    2018, "Bridging EE and SE: The Goals Approach",
+    display="valente",
+    authors="Valente, Pedro and Aveiro, David and Nunes, Nuno",
+    place=FAKE,
+    entrytype="article",
+    ID="valentebridging",
+    placex="",
+))
