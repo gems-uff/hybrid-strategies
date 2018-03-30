@@ -73,6 +73,8 @@ birk2002a = DB(WorkUnrelated(
     springer="1",
     placex="Product Focused Software Process Improvement",
     note="cited By 1",
+    organization="Springer",
+    gs="1",
 ))
 
 boyd2002a = DB(WorkUnrelated(
@@ -570,6 +572,18 @@ postema2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-47833-7_36",
     springer="1",
     placex="Software Product-Family Engineering",
+))
+
+potter2002a = DB(WorkUnrelated(
+    2002, "Making process improvement work: a concise action guide for software managers and practitioners",
+    display="potter",
+    authors="Potter, Neil and Sakry, Mary",
+    place=Book,
+    entrytype="book",
+    publisher="Addison-Wesley",
+    ID="potter2002making",
+    gs="1",
+    placex="",
 ))
 
 punter2002a = DB(WorkUnrelated(

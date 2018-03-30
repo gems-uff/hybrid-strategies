@@ -39,6 +39,24 @@ barcellos2010a = DB(WorkUnrelated(
     cluster_id="8525192396157377506",
     scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2010 14th IEEE International",
+    gs="1",
+))
+
+barcellos2010b = DB(WorkUnrelated(
+    2010, "A Well-Founded Software Process Behavior Ontology to Support Business Goals Monitoring in High Maturity Software Organizations",
+    display="barcellos b",
+    authors="M. P. Barcellos and R. d. A. Falbo and A. R. Rocha",
+    place=FAKE,
+    pp="253-262",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Capability Maturity Model;ontologies (artificial intelligence);software metrics;vocabulary;business goal achievement;business goal monitoring;high maturity software organization;process performance analysis;software measurement ontology;software process behavior ontology;technical goal achievement;unified foundational ontology;vocabulary;Ontologies;Organizations;Process control;Software;Software measurement;Standards organizations;Domain Ontologies;Foundational Ontology;Software Measurement;Software Measurement Ontology;Software Process Behavior Ontology",
+    doi="10.1109/EDOCW.2010.15",
+    issn="2325-6583",
+    ID="5629052",
+    ieee="1",
+    placex="2010 14th IEEE International Enterprise Distributed Object Computing Conference Workshops",
 ))
 
 barreto2010a = DB(WorkSnowball(
@@ -61,6 +79,7 @@ barreto2010a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="17460321150978889682",
     scholar_ok=True,
+    gs="1",
 ))
 
 barreto2010b = DB(WorkUnrelated(
@@ -75,6 +94,8 @@ barreto2010b = DB(WorkUnrelated(
     cluster_id="1505945229113365171",
     scholar="http://scholar.google.com/scholar?cites=1505945229113365171&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Quality of Information and Communications Technology (QUATIC), 2010 Seventh International Conference on the",
+    ieee="1",
+    gs="1",
 ))
 
 basili2010a = DB(WorkSnowball(
@@ -98,6 +119,8 @@ basili2010a = DB(WorkSnowball(
     publisher="IEEE",
     scholar_ok=True,
     placex="Computer",
+    ieee="1",
+    gs="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -234,6 +257,8 @@ dounos2010a = DB(WorkUnrelated(
     cluster_id="9521064757940340749",
     scholar="http://scholar.google.com/scholar?cites=9521064757940340749&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatics (PCI), 2010 14th Panhellenic Conference on",
+    ieee="1",
+    gs="1",
 ))
 
 du2010a = DB(WorkUnrelated(
@@ -515,6 +540,23 @@ itgi2010a = DB(WorkUnrelated(
     placex="IT Governance Institute",
 ))
 
+khoshkbarforoushha2010a = DB(WorkUnrelated(
+    2010, "Towards a Metrics Suite for Measuring Composite Service Granularity Level Appropriateness",
+    display="khoshkbarforoushha",
+    authors="A. Khoshkbarforoushha and R. Tabein and P. Jamshidi and F. Shams",
+    place=FAKE,
+    pp="245-252",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="business data processing;software metrics;software reusability;abstract service;business value;composite service granularity level appropriateness measurement;context-independency;granular service;granularity appropriateness analysis;metrics suite;quantitative model;reusability;service granularity level evaluation;service-oriented analysis;service-oriented solution development;weighted granularity level appropriateness;Analytical models;Business;Complexity theory;Measurement;Service oriented architecture;Software;Measuring Composite Service Granularity Level;Metric;SOA Metric Suite;Web service Metrics",
+    doi="10.1109/SERVICES.2010.68",
+    issn="2378-3818",
+    ID="5575839",
+    ieee="1",
+    placex="2010 6th World Congress on Services",
+))
+
 kim2010a = DB(WorkUnrelated(
     2010, "The Role of IT in Business Ecosystems",
     display="kim",
@@ -696,6 +738,7 @@ mandić2010b = DB(WorkSnowball(
     organization="ACM",
     cluster_id="341082888541335242",
     scholar_ok=True,
+    gs="1",
 ))
 
 mandić2010c = DB(WorkUnrelated(
@@ -988,6 +1031,25 @@ rodríguez2010a = DB(WorkUnrelated(
     placex="",
 ))
 
+rolland2010a = DB(WorkUnrelated(
+    2010, "Business Process Lines to Deal with the Variability",
+    display="rolland",
+    authors="C. Rolland and S. Nurcan",
+    place=FAKE,
+    pp="1-10",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="business data processing;organisational aspects;Map;business process lines;business process variability;electricity supply industry;organizational level model;organizational settings;representation system;software development;Business process re-engineering;Companies;Electricity supply industry;Environmental management;Kernel;Knowledge engineering;Management information systems;Manufacturing processes;Portfolios;Programming",
+    doi="10.1109/HICSS.2010.88",
+    issn="1530-1605",
+    ID="5428532",
+    ieee="1",
+    placex="2010 43rd Hawaii International Conference on System Sciences",
+    organization="IEEE",
+    gs="1",
+))
+
 romero2010a = DB(WorkUnrelated(
     2010, "ERP: Drilling for Profit in the Oil and Gas Industry",
     display="romero",
@@ -1255,4 +1317,23 @@ zhang2010b = DB(WorkUnrelated(
     cluster_id="9419717857347968417",
     scholar="http://scholar.google.com/scholar?cites=9419717857347968417&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+))
+
+zowghi2010a = DB(WorkUnrelated(
+    2010, "A Framework for the Elicitation and Analysis of Information Technology Service Requirements and Their Alignment with Enterprise Business Goals",
+    display="zowghi",
+    authors="D. Zowghi and Z. Jin",
+    place=FAKE,
+    pp="269-272",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Web services;business data processing;information technology;knowledge acquisition;service industries;Web service;co-value creation;enterprise business goal;information technology service requirement;service oriented computing;systematic identification;alignment;analysise;elicitation;service requirements",
+    doi="10.1109/COMPSACW.2010.54",
+    issn="",
+    ID="5615805",
+    ieee="1",
+    placex="2010 IEEE 34th Annual Computer Software and Applications Conference Workshops",
+    organization="IEEE",
+    gs="1",
 ))

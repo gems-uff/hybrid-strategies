@@ -61,6 +61,23 @@ ayala2012a = DB(WorkUnrelated(
     placex="Open Source Systems: Long-Term Sustainability",
 ))
 
+barcellos2012a = DB(WorkUnrelated(
+    2012, "Using a Reference Domain Ontology for Developing a Software Measurement Strategy for High Maturity Organizations",
+    display="barcellos",
+    authors="M. P. Barcellos and R. d. A. and A. R. C. da Rocha",
+    place=FAKE,
+    pp="114-123",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Capability Maturity Model;business data processing;decision making;ontologies (artificial intelligence);organisational aspects;SPC;SPI;business performance;conceptualization evaluation;high maturity levels;high maturity organizations;measurement problems;organization decision making;reference domain software measurement ontology;software component development;software organizations;software process improvement;statistical process control;Ontologies;Organizations;Pollution measurement;Process control;Software;Software measurement;Standards organizations;Domain Ontology Application;High Maturity;Software Measurement;Software Measurement Ontology",
+    doi="10.1109/EDOCW.2012.24",
+    issn="2325-6583",
+    ID="6406216",
+    ieee="1",
+    placex="2012 IEEE 16th International Enterprise Distributed Object Computing Conference Workshops",
+))
+
 bayona2012a = DB(WorkUnrelated(
     2012, "Critical success factors in software process improvement: A systematic review",
     display="bayona",
@@ -701,6 +718,23 @@ mandić2012ab = DB(WorkUnrelated(
     placex="",
 ))
 
+matalonga2012a = DB(WorkUnrelated(
+    2012, "Calculating return on investment of training using process variation",
+    display="matalonga",
+    authors="S. Matalonga and T. S. Feliu",
+    place=IEEES,
+    pp="140-147",
+    entrytype="article",
+    volume="6",
+    number="2",
+    keyword="cost-benefit analysis;investment;software development management;statistical analysis;training;organisation training;process variation;production environment;return-on-investment;software development process;software factory;software process improvement model;statistical management;training evaluation;training investment",
+    doi="10.1049/iet-sen.2011.0024",
+    issn="1751-8806",
+    ID="6200024",
+    ieee="1",
+    placex="IET Software",
+))
+
 mesquida2012a = DB(WorkUnrelated(
     2012, "\IT\ Service Management Process Improvement based on ISO/IEC 15504: A systematic review",
     display="mesquida",
@@ -961,6 +995,20 @@ sarosa2012a = DB(WorkUnrelated(
     ID="Sarosa2012244",
     sciencedirect="1",
     placex="Procedia Economics and Finance",
+))
+
+savino2012a = DB(WorkUnrelated(
+    2012, "PLM maturity model: a multi-criteria assessment in southern Italy companies",
+    display="savino",
+    authors="Savino, Matteo M and Mazza, Antonio and Ouzrout, Yacine",
+    place=FAKE,
+    pp="159--180",
+    entrytype="article",
+    volume="18",
+    number="3",
+    ID="savino2012plm",
+    gs="1",
+    placex="International Journal of Operations and Quantitative Management",
 ))
 
 savolainen2012a = DB(WorkUnrelated(

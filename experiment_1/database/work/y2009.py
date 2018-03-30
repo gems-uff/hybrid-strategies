@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aimin2009a = DB(WorkUnrelated(
+    2009, "Based on quantification software quality assessment method",
+    display="aimin",
+    authors="Aimin, Yang and Wenxiang, Zhang",
+    place=FAKE,
+    pp="1110--1118",
+    entrytype="article",
+    volume="4",
+    number="10",
+    ID="aimin2009based",
+    gs="1",
+    placex="journal of software",
+))
+
 albuquerque2009a = DB(WorkSnowball(
     2009, "Software process improvement: Supporting the linking of the software and the business strategies",
     display="albuquerque",
@@ -159,6 +173,21 @@ cheng2009a = DB(WorkUnrelated(
     cluster_id="13040429128740927555",
     scholar="http://scholar.google.com/scholar?cites=13040429128740927555&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+cox2009a = DB(WorkUnrelated(
+    2009, "Empirical study of Sommerville and Sawyer's requirements engineering practices",
+    display="cox",
+    authors="Cox, Karl and Niazi, Mahmood and Verner, June",
+    place=IEEES,
+    pp="339--355",
+    entrytype="article",
+    volume="3",
+    number="5",
+    publisher="IET",
+    ID="cox2009empirical",
+    gs="1",
+    placex="IET software",
 ))
 
 dubinsky2009a = DB(WorkUnrelated(
@@ -377,6 +406,19 @@ khdair2009a = DB(WorkUnrelated(
     entrytype="article",
     ID="khdairapplying",
     placex="",
+))
+
+lami2009a = DB(WorkUnrelated(
+    2009, "Is ISO/IEC 15504 Applicable to Agile Methods?",
+    display="lami",
+    authors="Lami, Giuseppe and Falcini, Fabio",
+    place=FAKE,
+    pp="130--135",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lami2009iso",
+    gs="1",
+    placex="International Conference on Agile Processes and Extreme Programming in Software Engineering",
 ))
 
 laporte2009a = DB(WorkUnrelated(
@@ -640,6 +682,25 @@ runeson2009a = DB(WorkUnrelated(
     doi="10.1007/s10664-008-9102-8",
     note="cited By 1062",
     ID="Runeson2009131",
+))
+
+saidani2009a = DB(WorkUnrelated(
+    2009, "Context-awareness for adequate business process modelling",
+    display="saidani",
+    authors="O. Saidani and S. Nurcan",
+    place=RCIS,
+    pp="177-186",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="business process re-engineering;corporate modelling;ubiquitous computing;BPM;RBPM;business process modelling;context related knowledge;context-awareness;role-based business process model;Computer science;Context awareness;Context modeling;Context-aware services;Organizational aspects;Reflection;Business Process Modelling;Context-aware Computing;Process Flexibility",
+    doi="10.1109/RCIS.2009.5089281",
+    issn="2151-1349",
+    ID="5089281",
+    ieee="1",
+    placex="2009 Third International Conference on Research Challenges in Information Science",
+    organization="IEEE",
+    gs="1",
 ))
 
 sheetz2009a = DB(WorkUnrelated(

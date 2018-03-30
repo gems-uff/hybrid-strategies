@@ -50,6 +50,19 @@ alshawi2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+amengual2007a = DB(WorkUnrelated(
+    2007, "Software process improvement through teamwork management",
+    display="amengual",
+    authors="Amengual, Esperan{ç}a and Mas, Antònia",
+    place=ICPFSPI,
+    pp="108--117",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="amengual2007software",
+    gs="1",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
 apfelbacher2007a = DB(WorkUnrelated(
     2007, "Tolerierbare Inkonsistenzen in Konzeptbeschreibungen.",
     display="apfelbacher",
@@ -257,6 +270,8 @@ garcía2007a = DB(WorkUnrelated(
     ID="García20072570",
     sciencedirect="1",
     placex="Information Sciences",
+    publisher="Elsevier",
+    gs="1",
 ))
 
 ghose2007a = DB(WorkUnrelated(
@@ -405,6 +420,25 @@ keele2007a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 94",
     ID="Keele2007",
+))
+
+khurum2007a = DB(WorkUnrelated(
+    2007, "A Method for Early Requirements Triage and Selection Utilizing Product Strategies",
+    display="khurum",
+    authors="M. Khurum and K. Aslam and T. Gorschek",
+    place=SEC,
+    pp="97-104",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="DP industry;product development;software development management;systems analysis;business goal;development organization;early requirements triage;market-driven product development;product management;technical product strategy formulation;Disaster management;Optimization methods;Packaging;Product development;Programming;Resource management;Software engineering;Software packages;Technology management;Usability",
+    doi="10.1109/ASPEC.2007.18",
+    issn="1530-1362",
+    ID="4425842",
+    ieee="1",
+    placex="14th Asia-Pacific Software Engineering Conference (APSEC'07)",
+    organization="IEEE",
+    gs="1",
 ))
 
 lester2007a = DB(WorkUnrelated(
@@ -697,6 +731,31 @@ steen2007a = DB(WorkUnrelated(
     ID="Steen2007625",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+steenbergen2007a = DB(WorkUnrelated(
+    2007, "A balanced approach to developing the enterprise architecture practice",
+    display="steenbergen",
+    authors="van Steenbergen, Marlies and van den Berg, Martin and Brinkkemper, Sjaak",
+    place=ICEIS,
+    pp="240--253",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="van2007balanced",
+    gs="1",
+    placex="International Conference on Enterprise Information Systems",
+))
+
+steenbergen2007b = DB(WorkUnrelated(
+    2007, "An Instrument for the Development of the Enterprise Architecture Practice.",
+    display="steenbergen b",
+    authors="van Steenbergen, Marlies and van den Berg, Martin and Brinkkemper, Sjaak",
+    place=FAKE,
+    pp="14--22",
+    entrytype="inproceedings",
+    ID="van2007instrument",
+    gs="1",
+    placex="ICEIS (3)",
 ))
 
 sujaritha2007a = DB(WorkUnrelated(

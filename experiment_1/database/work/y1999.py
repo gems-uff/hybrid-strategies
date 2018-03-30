@@ -107,6 +107,8 @@ ebert1999a = DB(WorkUnrelated(
     ID="Ebert199925",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    publisher="Elsevier",
+    gs="1",
 ))
 
 ebert1999b = DB(WorkUnrelated(
@@ -367,6 +369,8 @@ sommerville1999a = DB(WorkSnowball(
     publisher="IEEE",
     cluster_id="3693616915823083489",
     scholar_ok=True,
+    ieee="1",
+    placex="IEEE Transactions on Software Engineering",
 ))
 
 wastell1999a = DB(WorkUnrelated(

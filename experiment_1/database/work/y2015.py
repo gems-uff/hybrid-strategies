@@ -374,6 +374,21 @@ jeners2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+kabaale2015a = DB(WorkUnrelated(
+    2015, "A theoretical framework for requirements engineering and process improvement in small and medium software companies",
+    display="kabaale",
+    authors="Kabaale, Edward and Kituyi, Geoffrey Mayoka",
+    place=FAKE,
+    pp="80--99",
+    entrytype="article",
+    volume="21",
+    number="1",
+    publisher="Emerald Group Publishing Limited",
+    ID="kabaale2015theoretical",
+    gs="1",
+    placex="Business Process Management Journal",
+))
+
 karjoth2015a = DB(WorkUnrelated(
     2015, "Aligning Security and Business Objectives for Process-Aware Information Systems",
     display="karjoth",
@@ -938,6 +953,23 @@ wohlin2015a = DB(WorkUnrelated(
     ID="Wohlin2015229",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+wolfenstetter2015a = DB(WorkUnrelated(
+    2015, "Towards a requirements traceability reference model for Product Service Systems",
+    display="wolfenstetter",
+    authors="T. Wolfenstetter and K. Füller and M. Böhm and H. Krcmar and S. Bründl",
+    place=FAKE,
+    pp="1213-1220",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="customer services;product design;PSS development;customer needs;product service systems;requirements traceability reference model;Bibliographies;Conferences;Modeling;Production;Software;Stakeholders;Unified modeling language;Product Service Systems;Reference Model;Requirements Traceability",
+    doi="10.1109/IESM.2015.7380307",
+    issn="",
+    ID="7380307",
+    ieee="1",
+    placex="2015 International Conference on Industrial Engineering and Systems Management (IESM)",
 ))
 
 xu2015a = DB(WorkUnrelated(

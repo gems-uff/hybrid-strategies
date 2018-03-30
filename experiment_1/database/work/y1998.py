@@ -80,6 +80,23 @@ hansen1998b = DB(WorkUnrelated(
     placex="MSC Thesis, University of Aalborg, Institute for Electronic Systems, Department of Computer Science, Denmark",
 ))
 
+herbsleb1998a = DB(WorkUnrelated(
+    1998, "Conceptual simplicity meets organizational complexity: case study of a corporate metrics program",
+    display="herbsleb",
+    authors="J. D. Herbsleb and R. E. Grinter",
+    place=ICSE,
+    pp="271-280",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="software development management;software metrics;company-wide program;conformance;corporate metrics;organizational complexity;organizational dynamics;technology transfer;Computer aided software engineering;Data analysis;Navigation;Planning;Programming;Project management;Software development management;Software maintenance;Software metrics;Technology transfer",
+    doi="10.1109/ICSE.1998.671136",
+    issn="0270-5257",
+    ID="671136",
+    ieee="1",
+    placex="Proceedings of the 20th International Conference on Software Engineering",
+))
+
 hierholzer1998a = DB(WorkUnrelated(
     1998, "Applying QFD for software process improvement at SAP AG",
     display="hierholzer",

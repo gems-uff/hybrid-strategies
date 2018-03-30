@@ -406,6 +406,44 @@ hefner2001a = DB(WorkUnrelated(
     placex="Proceedings of the 26th Annual NASA Goddard Software Engineering Workshop",
 ))
 
+hunter2001a = DB(WorkUnrelated(
+    2001, "Software Process Improvement for Small Organizations",
+    display="hunter",
+    authors="Robin B. Hunter and Richard H. Thayer and Mark C. Paulk",
+    place=SPIP,
+    pp="0-",
+    entrytype="inbook",
+    volume="",
+    number="",
+    keyword="",
+    doi="10.1109/9781118156667.ch10",
+    issn="",
+    publisher="Wiley-IEEE Press",
+    isbn="9781118156667",
+    ID="5989260",
+    ieee="1",
+    placex="Software Process Improvement",
+))
+
+hunter2001b = DB(WorkUnrelated(
+    2001, "The SPICE Project",
+    display="hunter b",
+    authors="Robin B. Hunter and Richard H. Thayer and Mark C. Paulk",
+    place=SPIP,
+    pp="0-",
+    entrytype="inbook",
+    volume="",
+    number="",
+    keyword="",
+    doi="10.1109/9781118156667.ch8",
+    issn="",
+    publisher="Wiley-IEEE Press",
+    isbn="9781118156667",
+    ID="5989252",
+    ieee="1",
+    placex="Software Process Improvement",
+))
+
 jing2001a = DB(WorkUnrelated(
     2001, "Quality Control for Process with Zero-uncomfortable",
     display="jing",
@@ -583,6 +621,25 @@ mcgarry2001a = DB(WorkUnrelated(
     placex="Addison Wesley Publishing Company",
 ))
 
+mohapatra2001a = DB(WorkUnrelated(
+    2001, "Defect prevention through defect prediction: a case study at Infosys",
+    display="mohapatra",
+    authors="S. Mohapatra and B. Mohanty",
+    place=FAKE,
+    pp="260-272",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="software maintenance;software process improvement;software quality;INFOSYS Technologies;business goals;defect prediction;defect prevention;process oriented approach;productivity goals;quality;software process model;zero defect software;Business communication;Computer aided software engineering;Predictive models;Process control;Productivity;Programming;Project management;Quality management;Software quality;Technology management",
+    doi="10.1109/ICSM.2001.972739",
+    issn="1063-6773",
+    ID="972739",
+    ieee="1",
+    placex="Proceedings IEEE International Conference on Software Maintenance. ICSM 2001",
+    organization="IEEE Computer Society",
+    gs="1",
+))
+
 niessink2001a = DB(WorkUnrelated(
     2001, "Measurement program success factors revisited",
     display="niessink",
@@ -739,6 +796,23 @@ trienekens2001a = DB(WorkUnrelated(
     note="cited By 19",
     ID="Trienekens2001269",
     placex="Software Quality Journal",
+))
+
+varkoi2001a = DB(WorkUnrelated(
+    2001, "Priorities of process improvement outcomes based on process capability levels",
+    display="varkoi",
+    authors="T. Varkoi and M. Lepasaar and H. Jaakkola",
+    place=FAKE,
+    pp="349-353",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="DP industry;software development management;software process improvement;premature documentation reduction;process capability levels;process improvement process;software organization;software process improvement outcomes;software process improvement work;targeted capability levels;Application software;Capability maturity model;Continuous improvement;Costs;Documentation;IEC standards;ISO standards;SPICE;Software standards;Standards organizations",
+    doi="10.1109/APAQS.2001.990040",
+    issn="",
+    ID="990040",
+    ieee="1",
+    placex="Proceedings Second Asia-Pacific Conference on Quality Software",
 ))
 
 vohwinkel2001a = DB(WorkUnrelated(

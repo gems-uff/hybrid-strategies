@@ -146,6 +146,18 @@ baker2011a = DB(WorkUnrelated(
     placex="ACM SIGGRAPH 2011 Posters",
 ))
 
+balbino2011a = DB(WorkUnrelated(
+    2011, "An Agile Scoping Process for Software Product Lines.",
+    display="balbino",
+    authors="Balbino, Marcela and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero",
+    place=FAKE,
+    pp="717--722",
+    entrytype="inproceedings",
+    ID="balbino2011agile",
+    gs="1",
+    placex="SEKE",
+))
+
 barreto2011a = DB(WorkUnrelated(
     2011, "Defini{ç}ão e Gerência de Objetivos de Software Alinhados ao Planejamento Estratégico",
     display="barreto",
@@ -185,6 +197,23 @@ becker2011b = DB(WorkUnrelated(
     clusterid="12579974428954366612",
     scholar="http://scholar.google.com/scholar?cites=12579974428954366612&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
+))
+
+cai2011a = DB(WorkUnrelated(
+    2011, "A Survey of Service Identification Strategies",
+    display="cai",
+    authors="S. Cai and Y. Liu and X. Wang",
+    place=FAKE,
+    pp="464-470",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="service-oriented architecture;SOA;service engineering process;service identification strategies;service oriented engineering process;Analytical models;Business;Computational modeling;Service oriented architecture;Unified modeling language;SOA;Service Engineering;Service identification",
+    doi="10.1109/APSCC.2011.12",
+    issn="",
+    ID="6128019",
+    ieee="1",
+    placex="2011 IEEE Asia-Pacific Services Computing Conference",
 ))
 
 cantor2011a = DB(WorkUnrelated(
@@ -592,6 +621,24 @@ kaneko2011a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="94453978794571135",
     scholar_ok=True,
+    gs="1",
+))
+
+kaneko2011b = DB(WorkUnrelated(
+    2011, "Application of GQM+Strategies #x0AE; in the Japanese Space Industry",
+    display="kaneko b",
+    authors="T. Kaneko and M. Katahira and Y. Miyamoto and M. Kowalczyk",
+    place=FAKE,
+    pp="221-226",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="aerospace industry;business data processing;organisational aspects;GQM+Strategies®;Japan Aerospace Exploration Agency;Japanese space industry;measurement based approach;organizational goals;organizational subunits;top-level business goals;Context;Organizations;Software;Software measurement;Space exploration;Visualization;Aerospace;GQM+Strategies;Goal-oriented measurement;Measurement-based business IT alignment;Software process improvement",
+    doi="10.1109/IWSM-MENSURA.2011.22",
+    issn="",
+    ID="6113063",
+    ieee="1",
+    placex="2011 Joint Conference of the 21st International Workshop on Software Measurement and the 6th International Conference on Software Process and Product Measurement",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -871,6 +918,25 @@ rudzki2011a = DB(WorkUnrelated(
     placex="Tampereen teknillinen yliopisto. Julkaisu-Tampere University of Technology. Publication; 954",
 ))
 
+rychkova2011a = DB(WorkUnrelated(
+    2011, "Towards Adaptability and Control for Knowledge-Intensive Business Processes: Declarative Configurable Process Specifications",
+    display="rychkova",
+    authors="I. Rychkova and S. Nurcan",
+    place=FAKE,
+    pp="1-10",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="commerce;knowledge management;adaptability;declarative configurable process specification;knowledge-intensive business process;process realization;Adaptation model;Analytical models;Data models;Loans and mortgages;Organizations;Process control",
+    doi="10.1109/HICSS.2011.452",
+    issn="1530-1605",
+    ID="5718748",
+    ieee="1",
+    placex="2011 44th Hawaii International Conference on System Sciences",
+    organization="IEEE",
+    gs="1",
+))
+
 saetang2011a = DB(WorkUnrelated(
     2011, "Conceptual Aspects of IT Governance in Enterprise Environment",
     display="saetang",
@@ -1012,6 +1078,7 @@ ullah2011a = DB(WorkUnrelated(
     cluster_id="3546726514618726462",
     scholar="http://scholar.google.com/scholar?cites=3546726514618726462&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Computer Information Systems",
+    gs="1",
 ))
 
 uoti2011a = DB(WorkUnrelated(

@@ -535,6 +535,18 @@ kojima2008a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+kulpa2008a = DB(WorkUnrelated(
+    2008, "Interpreting the CMMI (R): A Process Improvement Approach",
+    display="kulpa",
+    authors="Kulpa, Margaret K and Johnson, Kent A",
+    place=Book,
+    entrytype="book",
+    publisher="CRC Press",
+    ID="kulpa2008interpreting",
+    gs="1",
+    placex="",
+))
+
 kuppusamy2008a = DB(WorkUnrelated(
     2008, "Fostering ICT development for growth: Measuring the payoffs for Australia and the Asean-5 countries",
     display="kuppusamy",
@@ -838,6 +850,36 @@ reitbauer2008a = DB(WorkUnrelated(
     ID="Reitbauer:2008:RBN:1363686.1363819",
     acm="1",
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
+))
+
+rifaut2008a = DB(WorkUnrelated(
+    2008, "Using Goal-Oriented Requirements Engineering for Improving the Quality of ISO/IEC 15504 based Compliance Assessment Frameworks",
+    display="rifaut",
+    authors="A. Rifaut and E. Dubois",
+    place=FAKE,
+    pp="33-42",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Business;Context modeling;IEC standards;ISO standards;Knowledge management;Process design;Project management;Risk management;Software systems;Taxonomy;Business Process;Compliance;Goal-Oriented;ISO/IEC 15504;Requirements Engineering",
+    doi="10.1109/RE.2008.44",
+    issn="1090-705X",
+    ID="4685650",
+    ieee="1",
+    placex="2008 16th IEEE International Requirements Engineering Conference",
+))
+
+rifaut2008b = DB(WorkUnrelated(
+    2008, "Using goal-oriented requirements engineering for improving the quality of iso/iec 15504 based compliance assessment frameworks",
+    display="rifaut b",
+    authors="Rifaut, Andre and Dubois, Eric",
+    place=FAKE,
+    pp="33--42",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="rifaut2008using",
+    gs="1",
+    placex="International Requirements Engineering, 2008. RE'08. 16th IEEE",
 ))
 
 sanders2008a = DB(WorkUnrelated(

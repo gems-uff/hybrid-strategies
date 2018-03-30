@@ -318,6 +318,8 @@ delgado2014a = DB(WorkUnrelated(
     ID="Delgado2014134",
     sciencedirect="1",
     placex="Information and Software Technology",
+    publisher="Elsevier",
+    gs="1",
 ))
 
 diirr2014a = DB(WorkUnrelated(
@@ -1132,6 +1134,7 @@ ullah2014a = DB(WorkUnrelated(
     organization="IEEE",
     ID="ullah2014business",
     placex="Data and Software Engineering (ICODSE), 2014 International Conference on",
+    ieee="1",
 ))
 
 unterkalmsteiner2014a = DB(WorkUnrelated(
@@ -1186,6 +1189,23 @@ verner2014b = DB(WorkUnrelated(
     ID="Verner201454",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+vieira2014a = DB(WorkUnrelated(
+    2014, "A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling",
+    display="vieira",
+    authors="R. Vieira and E. Cardoso and C. Becker",
+    place=FAKE,
+    pp="245-253",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="SQL;business data processing;program diagnostics;software architecture;IT governance frameworks;SCAMPI;SPARQL queries;business process modelling;efficient traceability mechanisms;enterprise architecture modelling;traceable maturity assessment method;Capability maturity model;Computer architecture;ISO standards;Organizations;Standards organizations;Unified modeling language;Business Process Modeling;Enterprise Architecture;Maturity Assessment Method",
+    doi="10.1109/EDOCW.2014.44",
+    issn="2325-6583",
+    ID="6975368",
+    ieee="1",
+    placex="2014 IEEE 18th International Enterprise Distributed Object Computing Conference Workshops and Demonstrations",
 ))
 
 vos2014a = DB(WorkUnrelated(

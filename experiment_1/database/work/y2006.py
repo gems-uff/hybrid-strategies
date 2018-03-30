@@ -422,6 +422,19 @@ kishore2006a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+komuro2006a = DB(WorkUnrelated(
+    2006, "Experiences of applying SPC techniques to software development processes",
+    display="komuro",
+    authors="Komuro, Mutsumi",
+    place=ICSE,
+    pp="577--584",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="komuro2006experiences",
+    gs="1",
+    placex="Proceedings of the 28th international conference on Software engineering",
+))
+
 leih2006a = DB(WorkUnrelated(
     2006, "The impact of the Sarbanes-Oxley Act on IT project management",
     display="leih",
@@ -489,6 +502,38 @@ nejmeh2006a = DB(WorkUnrelated(
     ID="Nejmeh2006173",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+niazi2006a = DB(WorkUnrelated(
+    2006, "An empirical study identifying high perceived value requirements engineering practices",
+    display="niazi",
+    authors="Niazi, Mahmood and Cox, Karl A and Verner, June M",
+    place=FAKE,
+    pp="731--743",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="niazi2006empirical",
+    gs="1",
+    placex="Advances in Information Systems Development",
+))
+
+park2006a = DB(WorkUnrelated(
+    2006, "The Effect of Improving IT Standard in IT Governance",
+    display="park",
+    authors="H. Y. Park and S. H. Jung and Y. j. Lee and K. C. Jang",
+    place=FAKE,
+    pp="22-22",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="organisational aspects;production engineering computing;semiconductor device manufacture;IT governance;IT standard;Samsung Electronics Semiconductor Business;business renovation;business strategy;robust set;semiconductor manufacturing;senior management attention;Companies;Computational intelligence;Decision making;Fabrication;Information systems;Investments;Manufacturing processes;Robust control;Semiconductor device manufacture;Standards organizations",
+    doi="10.1109/CIMCA.2006.210",
+    issn="",
+    ID="4052669",
+    ieee="1",
+    placex="2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)",
+    organization="IEEE",
+    gs="1",
 ))
 
 pu2006a = DB(WorkUnrelated(

@@ -16,6 +16,23 @@ al2013a = DB(WorkUnrelated(
     placex="",
 ))
 
+angles2013a = DB(WorkUnrelated(
+    2013, "V-BPMI: A variability-oriented framework for web-based business processes modeling and implementation",
+    display="angles",
+    authors="R. Angles and P. Ramadour and C. Cauvet and S. Rodier",
+    place=RCIS,
+    pp="1-11",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Internet;business data processing;hospitals;medical administrative data processing;security of data;AP-HM;Assistance Publique - Ho?pitaux de Marseille hospital;V-BPMI;Web-based business process fragment;Web-based business processes modeling;contextualization;medical unit;process line;process operationalization;process variant;security level;variability-oriented framework;Adaptation models;Context;Drugs;Hospitals;Organizations;Web services;Business Process Model;Process composition;Service composition;Variability",
+    doi="10.1109/RCIS.2013.6577699",
+    issn="2151-1349",
+    ID="6577699",
+    ieee="1",
+    placex="IEEE 7th International Conference on Research Challenges in Information Science (RCIS)",
+))
+
 arcilla2013a = DB(WorkUnrelated(
     2013, "Building an \IT\ service catalog in a small company as the main input for the \IT\ financial management",
     display="arcilla",
@@ -82,6 +99,8 @@ aversano2013a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Procedia Technology",
     scholar="http://scholar.google.com/scholar?cites=12944648314111661539&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Elsevier",
+    gs="1",
 ))
 
 baca2013a = DB(WorkUnrelated(
@@ -101,6 +120,21 @@ baca2013a = DB(WorkUnrelated(
     ID="Baca20132411",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+barcellos2013a = DB(WorkUnrelated(
+    2013, "A strategy for preparing software organizations for statistical process control",
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and de Almeida Falbo, Ricardo and Rocha, Ana Regina",
+    place=JBCS,
+    pp="445--473",
+    entrytype="article",
+    volume="19",
+    number="4",
+    publisher="Springer",
+    ID="barcellos2013strategy",
+    gs="1",
+    placex="Journal of the Brazilian Computer Society",
 ))
 
 barn2013a = DB(WorkUnrelated(
@@ -523,6 +557,21 @@ herranz2013a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+huang2013a = DB(WorkUnrelated(
+    2013, "Critical success factors in aligning IT and business objectives: A Delphi study",
+    display="huang",
+    authors="Huang, Sun-Jen and Wu, Ming-Shian and Chen, Li-Wei",
+    place=FAKE,
+    pp="1219--1240",
+    entrytype="article",
+    volume="24",
+    number="9-10",
+    publisher="Taylor & Francis",
+    ID="huang2013critical",
+    gs="1",
+    placex="Total Quality Management & Business Excellence",
+))
+
 hästbacka2013a = DB(WorkUnrelated(
     2013, "Developing Modern lndustrial Control Applications: On lnformation Models, Methods and Processes for Distributed Engineering",
     display="hästbacka",
@@ -748,6 +797,19 @@ marques2013a = DB(WorkUnrelated(
     placex="Procedia Technology",
 ))
 
+martini2013a = DB(WorkUnrelated(
+    2013, "Communication factors for speed and reuse in large-scale agile software development",
+    display="martini",
+    authors="Martini, Antonio and Pareto, Lars and Bosch, Jan",
+    place=FAKE,
+    pp="42--51",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="martini2013communication",
+    gs="1",
+    placex="Proceedings of the 17th international software product line conference",
+))
+
 mite2013a = DB(WorkUnrelated(
     2013, "Offshore insourcing in software development: Structuring the decision-making process",
     display="mite",
@@ -949,6 +1011,21 @@ rinkevics2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+rocha2013a = DB(WorkUnrelated(
+    2013, "The use of software product lines for business process management: A systematic literature review",
+    display="rocha",
+    authors="dos Santos Rocha, Roberto and Fantinato, Marcelo",
+    place=IST,
+    pp="1355--1373",
+    entrytype="article",
+    volume="55",
+    number="8",
+    publisher="Elsevier",
+    ID="dos2013use",
+    gs="1",
+    placex="Information and Software Technology",
+))
+
 stallinger2013a = DB(WorkUnrelated(
     2013, "Development and Evaluation of Systems Engineering Strategies: An Assessment-Based Approach",
     display="stallinger",
@@ -1027,6 +1104,21 @@ ullah2013a = DB(WorkUnrelated(
     ID="Ullah:2013:SRB:2445560.2445564",
     acm="1",
     placex="ACM Trans. Manage. Inf. Syst.",
+))
+
+ullah2013b = DB(WorkUnrelated(
+    2013, "Requirements engineering and Business/IT alignment: Lessons Learned.",
+    display="ullah b",
+    authors="Ullah, Azmat and Lai, Richard",
+    place=FAKE,
+    pp="1--10",
+    entrytype="article",
+    volume="8",
+    number="1",
+    publisher="Citeseer",
+    ID="ullah2013requirements",
+    gs="1",
+    placex="JSW",
 ))
 
 valenciennes2013a = DB(WorkUnrelated(

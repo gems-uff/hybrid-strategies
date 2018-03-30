@@ -129,6 +129,9 @@ caffery2005a = DB(WorkUnrelated(
     pp="286-298",
     entrytype="article",
     ID="McCaffery2005",
+    organization="Springer",
+    gs="1",
+    placex="International Conference on Product Focused Software Process Improvement",
 ))
 
 caivano2005a = DB(WorkUnrelated(
