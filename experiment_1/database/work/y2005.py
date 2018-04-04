@@ -101,7 +101,7 @@ bühne2005a = DB(WorkUnrelated(
     authors="Bühne, S. and Lauenroth, K. and Pohl, K.",
     place=ICSE,
     pp="41-50",
-    entrytype="conference",
+    entrytype="article",
     note="cited By 65",
     ID="Bühne200541",
 ))
@@ -140,7 +140,7 @@ caivano2005a = DB(WorkUnrelated(
     authors="Caivano, D.",
     place=FAKE,
     pp="288-293",
-    entrytype="conference",
+    entrytype="article",
     note="cited By 12",
     ID="Caivano2005288",
     placex="Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR",
