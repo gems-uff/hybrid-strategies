@@ -1,0 +1,8 @@
+@article{hinley1995goal,
+  title={A goal-oriented approach for managing software process change},
+  author={Hinley, DS and Reiblein, S},
+  journal={WIT Transactions on Information and Communication Technologies},
+  volume={13},
+  year={1995},
+  publisher={WIT Press}
+}

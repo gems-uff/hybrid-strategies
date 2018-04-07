@@ -17,14 +17,14 @@ armbrust2010a = DB(WorkSnowball(
     placex="International Conference on Software Process",
 ))
 
-armbrust2010b = DB(WorkUnrelated(
+armbrust2010b = DB(WorkSnowball(
     2010, "Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)",
     display="armbrust",
     authors="Armbrust, Ove and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi",
     place=FAKE,
     entrytype="article",
     ID="armbrustprocesses",
-    placex="",
+    placex="Proceedings of the International SPICE Days",
 ))
 
 barcellos2010a = DB(WorkUnrelated(
@@ -589,7 +589,7 @@ klöckner2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
 ))
 
-kowalczyk2010a = DB(WorkUnrelated(
+kowalczyk2010a = DB(WorkSnowball(
     2010, "Aligning software-related strategies in multi- organizational settings",
     display="kowalczyk",
     authors="Kowalczyk, M. and Münch, J. and Katahira, M. and Kaneko, T. and Miyamoto, Y. and Koishi, Y.",

@@ -1099,7 +1099,7 @@ tessem2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-trendowicz2014a = DB(WorkUnrelated(
+trendowicz2014a = DB(WorkSnowball(
     2014, "Aligning Organizations Through Measurement",
     display="trendowicz",
     authors="Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and Münch, Carolyn Seaman Jürgen and Rombach, Dieter",

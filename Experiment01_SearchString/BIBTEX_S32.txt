@@ -1,0 +1,10 @@
+@article{debou2000linking,
+  title={Linking software process improvement to business strategies: experiences from industry},
+  author={Debou, Christophe and Kuntzmann-Combelles, Annie},
+  journal={Software Process: improvement and practice},
+  volume={5},
+  number={1},
+  pages={55--64},
+  year={2000},
+  publisher={Wiley Online Library}
+}

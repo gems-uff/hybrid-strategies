@@ -1,0 +1,6 @@
+@article{armbrustprocesses,
+  title={Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)},
+  author={Armbrust, Ove and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi},
+year={2010},
+placex={Proceedings of the International SPICE Days}
+}

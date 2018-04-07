@@ -131,6 +131,16 @@ basili2007b = DB(WorkSnowball(
     placex="Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007",
 ))
 
+basili2007c = DB(WorkSnowball(
+    2007, "GQM+ Strategies: A comprehensive methodology for aligning business strategies with software measurement",
+    display="basili c",
+    authors="Basili, Victor and Heidrich, Jens and Lindvall, Mikael and Münch, Jürgen and Regardie, Myrna and Rombach, Dieter and Seaman, Carolyn and Trendowicz, Adam",
+    place=FAKE,
+    placex="Proceedings of the DASMA Software Metric Congress (MetriKon 2007), 2007, pp. 253266.",
+    entrytype="article",
+    ID="basili2007gqm+",
+))
+
 brouwer2007a = DB(WorkUnrelated(
     2007, "Management of SPI implementations",
     display="brouwer",
@@ -502,7 +512,7 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
 ))
 
-martins2007b = DB(WorkUnrelated(
+martins2007b = DB(WorkSnowball(
     2007, "ProPAM: SPI based on Process and Project Alignment",
     display="martins b",
     authors="Martins, V.M. and Da Silva, A.R.",

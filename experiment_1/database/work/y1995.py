@@ -105,6 +105,17 @@ conradi1995a = DB(WorkUnrelated(
     placex="Proc. Fourth European Workshop Software Process Technology, Springer-Verlag",
 ))
 
+hinley1995a = DB(WorkSnowball(
+    1995, "A goal-oriented approach for managing software process change",
+    display="hinley",
+    authors="Hinley, DS and Reiblein, S",
+    place1="WIT Transactions on Information and Communication Technologies",
+    entrytype="article",
+    volume="13",
+    publisher="WIT Press",
+    ID="hinley1995goal",
+))
+
 kim1995a = DB(WorkUnrelated(
     1995, "Blue Ocean Strategy",
     display="kim",

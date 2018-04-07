@@ -260,6 +260,16 @@ martinsons1999a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+messnarz1999a = DB(WorkSnowball(
+    1999, "Better Software Practice for Business Benefit: Principles and Experiences",
+    display="messnarz",
+    authors="Messnarz, Richard and Tully, Colin J",
+    place=Book,
+    entrytype="book",
+    publisher="IEEE Computer Society Press",
+    ID="messnarz1999better",
+))
+
 prahalad1999a = DB(WorkUnrelated(
     1999, "The new meaning of quality in the information age",
     display="prahalad",

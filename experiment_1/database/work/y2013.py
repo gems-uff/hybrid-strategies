@@ -829,10 +829,10 @@ mite2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
-münch2013a = DB(WorkUnrelated(
-    2013, "Partanen J (2013a) The effects of gqm+strategies on organizational alignment",
+münch2013a = DB(WorkSnowball(
+    2013, "The effects of gqm+strategies on organizational alignment",
     display="münch",
-    authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M.",
+    authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M., Partanen J",
     place=FAKE,
     placex="Proceedings of the DASMA software metric congress",
     entrytype="article",

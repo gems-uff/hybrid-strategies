@@ -1,0 +1,6 @@
+@article{kowalczyk2010aligning,
+  title={Aligning software-related strategies in multi-organizational settings},
+  author={Kowalczyk, Martin and M{\"u}nch, J{\"u}rgen and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi},
+  journal={arXiv preprint arXiv:1401.1910},
+  year={2010}
+}

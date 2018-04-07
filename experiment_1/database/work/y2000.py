@@ -145,7 +145,7 @@ davis2000a = DB(WorkUnrelated(
     ID="Davis2000",
 ))
 
-debou2000a = DB(WorkUnrelated(
+debou2000a = DB(WorkSnowball(
     2000, "Linking software process improvement to business strategies: Experiences from industry",
     display="debou",
     authors="Debou, C. and Kuntzmann-Combelles, A.",
