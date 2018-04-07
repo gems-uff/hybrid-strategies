@@ -387,7 +387,7 @@ eremenko2012a = DB(WorkUnrelated(
     number="3",
     publisher="Scientific & Academic Publishing",
     ID="eremenko2012software",
-    clusterid="9241644097677689345",
+    cluster_id="9241644097677689345",
     scholar="http://scholar.google.com/scholar?cites=9241644097677689345&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering",
 ))
@@ -645,7 +645,7 @@ lew2012a = DB(WorkUnrelated(
     number="4",
     publisher="Springer",
     ID="lew2012integrated",
-    clusterid="1175773906040033957",
+    cluster_id="1175773906040033957",
     scholar="http://scholar.google.com/scholar?cites=1175773906040033957&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Requirements Engineering",
 ))
@@ -765,7 +765,7 @@ monden2012a = DB(WorkUnrelated(
     number="9",
     publisher="The Institute of Electronics, Information and Communication Engineers",
     ID="monden2012customizing",
-    clusterid="9016798503342365534",
+    cluster_id="9016798503342365534",
     scholar="http://scholar.google.com/scholar?cites=9016798503342365534&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEICE TRANSACTIONS on Information and Systems",
 ))
@@ -810,7 +810,7 @@ münch2012a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="munch2012evolving",
-    clusterid="7076285677612781205",
+    cluster_id="7076285677612781205",
     scholar="http://scholar.google.com/scholar?cites=7076285677612781205&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software and System Process (ICSSP), 2012 International Conference on",
 ))
@@ -845,7 +845,7 @@ papa2012a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="papa2012toward",
-    clusterid="6085209771639342692",
+    cluster_id="6085209771639342692",
     scholar="http://scholar.google.com/scholar?cites=6085209771639342692&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Web Engineering",
 ))

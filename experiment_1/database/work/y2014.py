@@ -239,12 +239,12 @@ cedergren2014a = DB(WorkUnrelated(
     number="5",
     publisher="Elsevier",
     ID="cedergren2014evaluating",
-    clusterid="1737899589256697815",
+    cluster_id="1737899589256697815",
     scholar="http://scholar.google.com/scholar?cites=1737899589256697815&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
 ))
 
-cocozza2014a = DB(WorkUnrelated(
+cocozza2014a = DB(WorkSnowball(
     2014, "Application of GQM+ Strategies in a small software development unit",
     display="cocozza",
     authors="Cocozza, Francisco and Brenes, Enrique and Herrera, Gustavo López and Jenkins, Marcelo and Martínez, Alexandra",
@@ -463,7 +463,7 @@ giardino2014a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="giardino2014early",
-    clusterid="7083650439239952290",
+    cluster_id="7083650439239952290",
     scholar="http://scholar.google.com/scholar?cites=7083650439239952290&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference of Software Business",
 ))
@@ -533,7 +533,7 @@ heidrich2014a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="heidrich2014model",
-    clusterid="9390974486667259205",
+    cluster_id="9390974486667259205",
     scholar="http://scholar.google.com/scholar?cites=9390974486667259205&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Project Management in a Changing World",
 ))
@@ -579,7 +579,7 @@ jahn2014a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Gesellschaft für Informatik eV",
     ID="jahn2014semantisches",
-    clusterid="5107985676713965120",
+    cluster_id="5107985676713965120",
     scholar="http://scholar.google.com/scholar?cites=5107985676713965120&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatik 2014",
 ))
@@ -664,7 +664,7 @@ kobori2014b = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="kobori2014efficient",
-    clusterid="13802030667887635799",
+    cluster_id="13802030667887635799",
     scholar="http://scholar.google.com/scholar?cites=13802030667887635799&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Requirements Engineering",
 ))
@@ -685,7 +685,7 @@ kudryashova2014a = DB(WorkUnrelated(
     placex="Proceedings of the 23rd International Conference on World Wide Web",
 ))
 
-lepmets2014a = DB(WorkUnrelated(
+lepmets2014a = DB(WorkSnowball(
     2014, "A cynefin based approach to process model tailoring and goal alignment",
     display="lepmets",
     authors="Lepmets, M. and O'Connor, R.V. and Cater-Steel, A. and Mesquida, A.L. and McBride, T.",
@@ -710,7 +710,7 @@ liggesmeyer2014a = DB(WorkUnrelated(
     number="2",
     publisher="Springer",
     ID="liggesmeyer2014big",
-    clusterid="3633901488445906827",
+    cluster_id="3633901488445906827",
     scholar="http://scholar.google.com/scholar?cites=3633901488445906827&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatik-Spektrum",
 ))
@@ -832,7 +832,7 @@ olsina2014a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Elsevier",
     ID="olsina2014metrics",
-    clusterid="14660506010384288685",
+    cluster_id="14660506010384288685",
     scholar="http://scholar.google.com/scholar?cites=14660506010384288685&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Emerging Trends in ICT Security",
 ))
@@ -1137,7 +1137,7 @@ ullah2014a = DB(WorkUnrelated(
     ieee="1",
 ))
 
-unterkalmsteiner2014a = DB(WorkUnrelated(
+unterkalmsteiner2014a = DB(WorkSnowball(
     2014, "A conceptual framework for SPI evaluation",
     display="unterkalmsteiner",
     authors="Unterkalmsteiner, Michael and Gorschek, Tony and Islam, AKM and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
@@ -1148,7 +1148,7 @@ unterkalmsteiner2014a = DB(WorkUnrelated(
     number="2",
     publisher="Wiley Online Library",
     ID="unterkalmsteiner2014conceptual",
-    clusterid="3992581102195270532",
+    cluster_id="3992581102195270532",
     scholar="http://scholar.google.com/scholar?cites=3992581102195270532&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
 ))
@@ -1299,7 +1299,7 @@ zhang2014a = DB(WorkUnrelated(
     number="10",
     publisher="Wiley Online Library",
     ID="zhang2014software",
-    clusterid="8328283334704392410",
+    cluster_id="8328283334704392410",
     scholar="http://scholar.google.com/scholar?cites=8328283334704392410&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
 ))

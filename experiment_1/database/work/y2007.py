@@ -104,7 +104,7 @@ baccarelli2007a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Workshop on Mobility Management and Wireless Access",
 ))
 
-basili2007a = DB(WorkUnrelated(
+basili2007a = DB(WorkSnowball(
     2007, "Bridging the gap between business strategy and software development",
     display="basili",
     authors="Basili, V.R. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, H.D. and Seaman, C.B. and Trendowicz, A.",
@@ -117,7 +117,7 @@ basili2007a = DB(WorkUnrelated(
     ID="Basili200725",
 ))
 
-basili2007b = DB(WorkUnrelated(
+basili2007b = DB(WorkSnowball(
     2007, "GQM+Strategies - Aligning business strategies with software measurement",
     display="basili b",
     authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Trendowicz, A.",

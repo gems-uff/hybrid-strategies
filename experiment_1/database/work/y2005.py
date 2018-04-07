@@ -337,7 +337,7 @@ kauppinen2005a = DB(WorkUnrelated(
     placex="",
 ))
 
-liu2005a = DB(WorkUnrelated(
+liu2005a = DB(WorkSnowball(
     2005, "QFD Application in Software Process Management and Improvement Based on CMM",
     display="liu",
     authors="Liu, X. and Sun, Y. and Kane, G. and Kyoya, Y. and Noguchi, K.",

@@ -1,0 +1,15 @@
+Scopus
+EXPORT DATE: 7 April 2018
+
+@ARTICLE{Trienekens200433,
+author={Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.},
+title={Business Objectives as Drivers for Process Improvement: Practices and Experiences at Thales Naval the Netherlands (TNNL)},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2004},
+volume={3080},
+pages={33-48},
+note={cited By 0},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-35048900944&partnerID=40&md5=2652625f0089eb261045aefcf83026c2},
+document_type={Article},
+source={Scopus},
+}

@@ -1,0 +1,16 @@
+﻿Scopus
+EXPORT DATE: 7 April 2018
+
+@CONFERENCE{Basili2007488,
+author={Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Trendowicz, A.},
+title={GQM+Strategies - Aligning business strategies with software measurement},
+journal={Proceedings - 1st International Symposium on Empirical Software Engineering and Measurement, ESEM 2007},
+year={2007},
+pages={488-490},
+doi={10.1109/ESEM.2007.56},
+art_number={4343788},
+note={cited By 31},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-47949112269&doi=10.1109%2fESEM.2007.56&partnerID=40&md5=35ce09d873667e11489fcf1bebef70ae},
+document_type={Conference Paper},
+source={Scopus},
+}

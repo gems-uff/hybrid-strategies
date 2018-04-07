@@ -1,0 +1,16 @@
+Scopus
+EXPORT DATE: 7 April 2018
+
+@CONFERENCE{Munch201370,
+author={Munch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M. and Partanen, J.},
+title={Experiences and insights from applying GQM+Strategies in a systems product development organisation},
+journal={Proceedings - 39th Euromicro Conference Series on Software Engineering and Advanced Applications, SEAA 2013},
+year={2013},
+pages={70-77},
+doi={10.1109/SEAA.2013.62},
+art_number={6619491},
+note={cited By 7},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-84889010041&doi=10.1109%2fSEAA.2013.62&partnerID=40&md5=07daf69be1c339bf94dc2b225f581466},
+document_type={Conference Paper},
+source={Scopus},
+}

@@ -465,6 +465,23 @@ li2006a = DB(WorkUnrelated(
     placex="Software Process Workshop",
 ))
 
+liu2006a = DB(WorkSnowball(
+    2006, "Business-oriented software process improvement based on CMM using QFD",
+    display="liu",
+    authors="Liu, X. and Sun, Y. and Kane, G. and Kyoya, Y. and Noguchi, K.",
+    place=SPIP,
+    pp="573-589",
+    entrytype="article",
+    volume="11",
+    number="6",
+    doi="10.1002/spip.295",
+    note="cited By 6",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33845939841&doi=10.1002%2fspip.295&partnerID=40&md5=f6417a89b52c03fc47ae07b6b99b3955",
+    document_type="Article",
+    source="Scopus",
+    ID="Liu2006573",
+))
+
 martins2006a = DB(WorkUnrelated(
     2006, "A case study applying process and project alignment methodology",
     display="martins",

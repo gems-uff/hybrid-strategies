@@ -1,0 +1,15 @@
+﻿Scopus
+EXPORT DATE: 5 April 2018
+
+@ARTICLE{Cocozza2014108,
+author={Cocozza, F. and Brenes, E. and Herrera, G.L. and Jenkins, M. and Martínez, A.},
+title={Application of GQM+strategies in a small software development unit},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2014},
+volume={8892},
+pages={108-118},
+note={cited By 0},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-84911897966&partnerID=40&md5=1488b2d6cf98f32cf590f820cc0e31ee},
+document_type={Article},
+source={Scopus},
+}

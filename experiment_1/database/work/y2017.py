@@ -236,7 +236,7 @@ sanchez2017a = DB(WorkUnrelated(
     number="8",
     publisher="Emerald Publishing Limited",
     ID="sanchez2017strategic",
-    clusterid="6059814431505565823",
+    cluster_id="6059814431505565823",
     scholar="http://scholar.google.com/scholar?cites=6059814431505565823&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Industrial Management & Data Systems",
 ))

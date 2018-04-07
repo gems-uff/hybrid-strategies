@@ -418,7 +418,7 @@ rivera2016a = DB(WorkUnrelated(
     entrytype="article",
     volume="15",
     ID="rivera2016quality",
-    clusterid="5156874868052066866",
+    cluster_id="5156874868052066866",
     scholar="http://scholar.google.com/scholar?cites=5156874868052066866&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Web Engineering, Rinton Press, USA",
 ))

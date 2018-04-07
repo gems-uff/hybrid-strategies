@@ -58,7 +58,7 @@ becker2015a = DB(WorkUnrelated(
     number="1",
     publisher="Centro Latinoamericano de Estudios en Informática",
     ID="becker2015process",
-    clusterid="12935000341823208895",
+    cluster_id="12935000341823208895",
     scholar="http://scholar.google.com/scholar?cites=12935000341823208895&as_sdt=2005&sciodt=0,5&hl=en",
     placex="CLEI Electronic Journal",
 ))
@@ -440,7 +440,7 @@ kläs2015a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE Press",
     ID="klas2015large",
-    clusterid="9247112288697275475",
+    cluster_id="9247112288697275475",
     scholar="http://scholar.google.com/scholar?cites=9247112288697275475&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 37th International Conference on Software Engineering-Volume 2",
 ))
@@ -595,7 +595,7 @@ murphy2015a = DB(WorkUnrelated(
     entrytype="article",
     publisher="SciKA",
     ID="murphy2015towards",
-    clusterid="10785371662697807519",
+    cluster_id="10785371662697807519",
     scholar="http://scholar.google.com/scholar?cites=10785371662697807519&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Information Systems and Project Management",
 ))
@@ -1013,7 +1013,7 @@ zarour2015a = DB(WorkUnrelated(
     number="12",
     publisher="Multidisciplinary Digital Publishing Institute",
     ID="alvarez2015scorecard",
-    clusterid="1264681081411580222",
+    cluster_id="1264681081411580222",
     scholar="http://scholar.google.com/scholar?cites=1264681081411580222&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Sustainability",
 ))

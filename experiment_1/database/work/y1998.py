@@ -199,7 +199,7 @@ latum1998a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
-mccoy1998a = DB(WorkUnrelated(
+mccoy1998a = DB(WorkSnowball(
     1998, "Interfacing three complementary technologies: Strategic planning, process modeling, and system dynamics",
     display="mccoy",
     authors="McCoy, W.L.",

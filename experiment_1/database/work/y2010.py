@@ -3,7 +3,7 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-armbrust2010a = DB(WorkUnrelated(
+armbrust2010a = DB(WorkSnowball(
     2010, "Determining organization-specific process suitability",
     display="armbrust",
     authors="Armbrust, Ove",
@@ -756,7 +756,7 @@ mandić2010c = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=7638361024929094617&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-mandić2010d = DB(WorkUnrelated(
+mandić2010d = DB(WorkSnowball(
     2010, "SAS: A tool for the GQM+strategies grid derivation process",
     display="mandić d",
     authors="Mandić, V. and Oivo, M.",
@@ -790,7 +790,7 @@ mandić2010f = DB(WorkUnrelated(
     entrytype="techreport",
     institution="Technical report, Technical Report TR TR-TOL-2010-2802, University of Oulu, Department of Information Processing Science",
     ID="mandic2010approach",
-    clusterid="1906476414681462280",
+    cluster_id="1906476414681462280",
     scholar="http://scholar.google.com/scholar?cites=1906476414681462280&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
 ))
@@ -836,6 +836,39 @@ mashapa2010a = DB(WorkUnrelated(
     ID="Mashapa:2010:UEE:1899503.1899522",
     acm="1",
     placex="Proceedings of the 2010 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists",
+))
+
+mcloughlin2010a = DB(WorkSnowball(
+    2010, "The Rosetta stone methodology - A benefits driven approach to software process improvement",
+    display="mcloughlin",
+    authors="McLoughlin, F. and Richardson, I.",
+    pp="366-379",
+    place=FAKE,
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    entrytype="article",
+    volume="6156 LNCS",
+    doi="10.1007/978-3-642-13792-1_28",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77955436790&doi=10.1007%2f978-3-642-13792-1_28&partnerID=40&md5=dafacaf1767cfd1d3e7c9bdc4d3618f1",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="McLoughlin2010366",
+))
+
+mcloughlin2010b = DB(WorkSnowball(
+    2010, "The Rosetta Stone Methodology - A benefits-driven approach to SPI",
+    display="mcloughlin b",
+    authors="McLoughlin, F. and Richardson, I.",
+    place=CCIS,
+    pp="201-212",
+    entrytype="article",
+    volume="99 CCIS",
+    doi="10.1007/978-3-642-15666-3_18",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77957590654&doi=10.1007%2f978-3-642-15666-3_18&partnerID=40&md5=e06aaac5f23d90fcb4473a90273c06b2",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="McLoughlin2010201",
 ))
 
 mellado2010a = DB(WorkUnrelated(
@@ -1107,7 +1140,7 @@ softex2010a = DB(WorkUnrelated(
     placex="",
 ))
 
-sun2010a = DB(WorkUnrelated(
+sun2010a = DB(WorkSnowball(
     2010, "Business-oriented software process improvement based on \CMMI\ using \QFD",
     display="sun",
     authors="Yan Sun and Xiaoqing (Frank) Liu",

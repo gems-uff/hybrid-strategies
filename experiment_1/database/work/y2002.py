@@ -348,7 +348,7 @@ jones2002a = DB(WorkUnrelated(
     placex="Components of System Safety",
 ))
 
-karlström2002a = DB(WorkUnrelated(
+karlström2002a = DB(WorkSnowball(
     2002, "Aggregating viewpoints for strategic software process improvementa method and a case study",
     display="karlström",
     authors="Karlström, Daniel and Runeson, Per and Wohlin, Claes",

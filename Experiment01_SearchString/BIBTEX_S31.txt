@@ -1,0 +1,16 @@
+Scopus
+EXPORT DATE: 7 April 2018
+
+@ARTICLE{Armbrust201026,
+author={Armbrust, O.},
+title={Determining organization-specific process suitability},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6195 LNCS},
+pages={26-38},
+doi={10.1007/978-3-642-14347-2_4},
+note={cited By 3},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-77955444384&doi=10.1007%2f978-3-642-14347-2_4&partnerID=40&md5=54113773915a7fd5c54c895931a17da8},
+document_type={Conference Paper},
+source={Scopus},
+}

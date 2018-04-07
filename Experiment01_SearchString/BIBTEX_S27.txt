@@ -1,0 +1,17 @@
+﻿Scopus
+EXPORT DATE: 5 April 2018
+
+@ARTICLE{Karlström2002143,
+author={Karlström, D. and Runeson, P. and Wohlin, C.},
+title={Aggregating viewpoints for strategic software process improvement - A method and a case study},
+journal={IEE Proceedings: Software},
+year={2002},
+volume={149},
+number={5},
+pages={143-152},
+doi={10.1049/ip-sen:20020696},
+note={cited By 13},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036807046&doi=10.1049%2fip-sen%3a20020696&partnerID=40&md5=b330b315221e1f704e9b59895ed52a9d},
+document_type={Conference Paper},
+source={Scopus},
+}

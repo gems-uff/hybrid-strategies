@@ -194,9 +194,25 @@ becker2011b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="ACM",
     ID="becker2011strategy",
-    clusterid="12579974428954366612",
+    cluster_id="12579974428954366612",
     scholar="http://scholar.google.com/scholar?cites=12579974428954366612&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
+))
+
+birkhölzer2011a = DB(WorkSnowball(
+    2011, "A framework for systematic evaluation of process improvement priorities",
+    display="birkhölzer",
+    authors="Birkhölzer, T. and Dickmann, C. and Vaupel, J.",
+    place=SEAA,
+    pp="294-301",
+    entrytype="conference",
+    doi="10.1109/SEAA.2011.52",
+    art_number="6068359",
+    note="cited By 2",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-82955237771&doi=10.1109%2fSEAA.2011.52&partnerID=40&md5=844d55ebcb0dc1a797608a20b11a3e86",
+    document_type="Conference Paper",
+    source="Scopus",
+    ID="Birkhölzer2011294",
 ))
 
 cai2011a = DB(WorkUnrelated(
@@ -729,7 +745,7 @@ lescher2011a = DB(WorkUnrelated(
     place=Thesis,
     entrytype="phdthesis",
     ID="lescher2011collaboration",
-    clusterid="1902300020669107441",
+    cluster_id="1902300020669107441",
     scholar="http://scholar.google.com/scholar?cites=1902300020669107441&as_sdt=2005&sciodt=0,5&hl=en",
     local="Technische Universität München",
     placex="",
@@ -804,7 +820,7 @@ olsina2011a = DB(WorkUnrelated(
     number="4",
     publisher="Rinton Press, Incorporated",
     ID="olsina2011using",
-    clusterid="8861879371188813768",
+    cluster_id="8861879371188813768",
     scholar="http://scholar.google.com/scholar?cites=8861879371188813768&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Web Engineering",
 ))
@@ -818,7 +834,7 @@ olsina2011b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="olsina2011assessing",
-    clusterid="11253861838833437973",
+    cluster_id="11253861838833437973",
     scholar="http://scholar.google.com/scholar?cites=11253861838833437973&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering Conference in Russia (CEE-SECR), 2011 7th Central and Eastern European",
 ))
@@ -888,7 +904,7 @@ pryor2011a = DB(WorkUnrelated(
     number="4",
     publisher="Inderscience Publishers Ltd",
     ID="pryor2011strategic",
-    clusterid="16086864022874833943",
+    cluster_id="16086864022874833943",
     scholar="http://scholar.google.com/scholar?cites=16086864022874833943&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Business Excellence",
 ))
@@ -1049,7 +1065,7 @@ tietz2011a = DB(WorkUnrelated(
     placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
 ))
 
-trendowicz2011a = DB(WorkUnrelated(
+trendowicz2011a = DB(WorkSnowball(
     2011, "Aligning software projects with business objectives",
     display="trendowicz",
     authors="Trendowicz, A. and Heidrich, J. and Shintani, K.",

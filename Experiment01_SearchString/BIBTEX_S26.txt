@@ -1,0 +1,17 @@
+Scopus
+EXPORT DATE: 5 April 2018
+
+@ARTICLE{Unterkalmsteiner2014251,
+author={Unterkalmsteiner, M. and Gorschek, T. and Moinul Islam, A.K.M. and Cheng, C.K. and Permadi, R.B. and Feldt, R.},
+title={A conceptual framework for SPI evaluation},
+journal={Journal of software: Evolution and Process},
+year={2014},
+volume={26},
+number={2},
+pages={251-279},
+doi={10.1002/smr.1637},
+note={cited By 3},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-84900538646&doi=10.1002%2fsmr.1637&partnerID=40&md5=a57afe6564ddd007bc70b4ce4f229602},
+document_type={Article},
+source={Scopus},
+}

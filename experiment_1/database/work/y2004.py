@@ -792,6 +792,22 @@ stalhane2004a = DB(WorkUnrelated(
     placex="Springer",
 ))
 
+trienekens2004a = DB(WorkSnowball(
+    2004, "Business Objectives as Drivers for Process Improvement: Practices and Experiences at Thales Naval the Netherlands (TNNL)",
+    display="trienekens",
+    authors="Trienekens, J.J.M. and Kusters, R.J. and Rendering, B. and Stokla, K.",
+    pp="33-48",
+    place= FAKE,
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    entrytype="article",
+    volume="3080",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-35048900944&partnerID=40&md5=2652625f0089eb261045aefcf83026c2",
+    document_type="Article",
+    source="Scopus",
+    ID="Trienekens200433",
+))
+
 wilkie2004a = DB(WorkUnrelated(
     2004, "The centre for software process technologies: A model for process improvement in geographical regions with small software industries",
     display="wilkie",

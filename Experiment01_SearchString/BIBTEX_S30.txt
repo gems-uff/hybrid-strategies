@@ -1,0 +1,17 @@
+Scopus
+EXPORT DATE: 5 April 2018
+
+@ARTICLE{Sun201079,
+author={Sun, Y. and Liu, X.(F.)},
+title={Business-oriented software process improvement based on CMMI using QFD},
+journal={Information and Software Technology},
+year={2010},
+volume={52},
+number={1},
+pages={79-91},
+doi={10.1016/j.infsof.2009.08.003},
+note={cited By 24},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-70350574657&doi=10.1016%2fj.infsof.2009.08.003&partnerID=40&md5=f710f7957615ca5a9efe4c214fa3e650},
+document_type={Article},
+source={Scopus},
+}

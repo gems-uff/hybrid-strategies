@@ -483,7 +483,7 @@ mcfall2003a = DB(WorkUnrelated(
     ID="McFall2003",
 ))
 
-murugappan2003a = DB(WorkUnrelated(
+murugappan2003a = DB(WorkSnowball(
     2003, "Blending CMM and Six Sigma to meet business goals",
     display="murugappan",
     authors="Murugappan, M. and Keeni, G.",

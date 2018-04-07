@@ -347,7 +347,7 @@ ferreira2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="ferreira2013aligning",
-    clusterid="16961306956407146149",
+    cluster_id="16961306956407146149",
     scholar="http://scholar.google.com/scholar?cites=16961306956407146149&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Quality",
 ))
@@ -446,7 +446,7 @@ giannoulis2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="giannoulis2013model",
-    clusterid="13106911384862267666",
+    cluster_id="13106911384862267666",
     scholar="http://scholar.google.com/scholar?cites=13106911384862267666&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Advanced Information Systems Engineering",
 ))
@@ -619,7 +619,7 @@ jedlitschka2013a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="jedlitschka2013empirical",
-    clusterid="836246177339156723",
+    cluster_id="836246177339156723",
     scholar="http://scholar.google.com/scholar?cites=836246177339156723&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Perspectives on the Future of Software Engineering",
 ))
@@ -695,7 +695,7 @@ kläs2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="klas2013beyond",
-    clusterid="3628608704940185612",
+    cluster_id="3628608704940185612",
     scholar="http://scholar.google.com/scholar?cites=3628608704940185612&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product Focused Software Process Improvement",
 ))
@@ -851,7 +851,7 @@ münch2013b = DB(WorkUnrelated(
     ID="Münch2013",
 ))
 
-münch2013c = DB(WorkUnrelated(
+münch2013c = DB(WorkSnowball(
     2013, "Experiences and insights from applying gqm+ strategies in a systems product development organisation",
     display="münch c",
     authors="Münch, Jürgen and Fagerholm, Fabian and Kettunen, Petri and Pagels, Max and Partanen, Jari",
@@ -860,7 +860,7 @@ münch2013c = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="munch2013experiences",
-    clusterid="12219098581311741649",
+    cluster_id="12219098581311741649",
     scholar="http://scholar.google.com/scholar?cites=12219098581311741649&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications (SEAA), 2013 39th EUROMICRO Conference on",
 ))
@@ -872,7 +872,7 @@ münch2013d = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="munch2013effects",
-    clusterid="3182239711427877041",
+    cluster_id="3182239711427877041",
     scholar="http://scholar.google.com/scholar?cites=3182239711427877041&as_sdt=2005&sciodt=0,5&hl=en",
     placex="arXiv preprint arXiv:1311.6221",
 ))
@@ -888,7 +888,7 @@ novais2013a = DB(WorkUnrelated(
     number="11",
     publisher="Elsevier",
     ID="novais2013software",
-    clusterid="16463700369166489013",
+    cluster_id="16463700369166489013",
     scholar="http://scholar.google.com/scholar?cites=16463700369166489013&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
 ))
@@ -900,7 +900,7 @@ oberscheven2013a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="oberscheven2013software",
-    clusterid="8972821853596261518",
+    cluster_id="8972821853596261518",
     scholar="http://scholar.google.com/scholar?cites=8972821853596261518&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Faculty of Science of Radboud University in Nijmegen.",
 ))
@@ -1026,7 +1026,7 @@ rocha2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
-stallinger2013a = DB(WorkUnrelated(
+stallinger2013a = DB(WorkSnowball(
     2013, "Development and Evaluation of Systems Engineering Strategies: An Assessment-Based Approach",
     display="stallinger",
     authors="Stallinger, Fritz and Plösch, Reinhold and Neumann, Robert and Horn, Stefan and Vollmar, Jan",
@@ -1073,7 +1073,7 @@ trendowicz2013a = DB(WorkUnrelated(
     entrytype="book",
     publisher="Springer Science & Business Media",
     ID="trendowicz2013software",
-    clusterid="3161032578968285420",
+    cluster_id="3161032578968285420",
     scholar="http://scholar.google.com/scholar?cites=3161032578968285420&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
 ))

@@ -20,10 +20,8 @@ config.LINE_PARAMS = "{year_path}:{line}"
 config.CLASSES = [
     ("Work", "work", "display", "#FFD86E", "black"),
     ("WorkSnowball", "snowball", "display", "#6DCE9E", "white"),
-    ("WorkForward", "forward", "display", "red", "white"),
-    ("WorkBackward", "backward", "display", "blue", "white"),
-    ("WorkOk", "ok", "display", "#68BDF6", "white"),
-    ("WorkUnrelated", "unrelated", "hide", "#DE9BF9", "white"),
+    ("WorkOk", "ok", "hide", "#68BDF6", "white"),
+    ("WorkUnrelated", "unrelated", "display", "#DE9BF9", "white"),
     ("WorkNoFile", "nofile", "hide", "#A5ABB6", "white"),
     ("WorkLang", "lang", "hide", "#ff8040", "white"),
     ("Site", "site", "hide", "#000080", "white"),
@@ -48,7 +46,8 @@ config.WORK_FIELDS = [
     "ref", "local", "editors", "awards",
     "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations",
 
-    "scopus", "acm", "ieee", "gs",
+    "scopus", "acm", "ieee", "gs", "sciencedirect", "elcompendex", "webofscience", "springer",
+    "placex",
 ]
 
 ### Ignore fields when exporting to BibTeX
@@ -63,7 +62,10 @@ config.BIBTEX_IGNORE_FIELDS = [
     "may_be_related_to", "ignore", "generate_title", "note",
 
     # Extra
-    "summary", "star", "approach_name", "other1", "document_type", "source", "art_number"
+    "summary", "star", "approach_name", "other1", "document_type", "source", "art_number",
+    "keyword", "acmid", "artnumber", "location", "numpages", "series", "editor", "issue_date",
+    "journal", "day", "key", "page_count", "articleno", "copyright", "language", "bookgroupauthor",
+    "uniqueid",
 ]
 
 
