@@ -291,3 +291,14 @@ whitney1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Whitney1994",
 ))
+
+yin1994a = DB(WorkUnrelated(
+    1994, "Case Study Research: Design and Methods",
+    display="yin",
+    authors="Yin, R.K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 47941",
+    ID="Yin1994",
+    placex="Sage Publications, Beverly Hills, CA",
+))

@@ -121,6 +121,21 @@ bratthall2000a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+bratthall2000b = DB(WorkUnrelated(
+    2000, "Understanding some software quality aspects from architecture and design models",
+    display="bratthall b",
+    authors="Bratthall, L. and Wohlin, C.",
+    place=FAKE,
+    pp="27-34",
+    entrytype="conference",
+    volume="2000-January",
+    doi="10.1109/WPC.2000.852477",
+    art_number="852477",
+    note="cited By 6",
+    ID="Bratthall200027",
+    placex="Proceedings - IEEE Workshop on Program Comprehension",
+))
+
 brynjolfsson2000a = DB(WorkUnrelated(
     2000, "Beyond computation: Information technology, organizational transformation and business performance",
     display="brynjolfsson",
@@ -739,6 +754,17 @@ wohlin2000a = DB(WorkUnrelated(
     publisher="Kluwer Academic Publishers",
     ID="wohlin2000experimentation",
     placex="",
+))
+
+wohlin2000b = DB(WorkUnrelated(
+    2000, "Introduction to Experimentation in Software Engineering",
+    display="wohlin b",
+    authors="Wohlin, C. and Runeson, P. and Host, M. and Ohlsson, M. and Regnell, B. and Wesslen, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Wohlin2000",
+    placex="Kluwer Academic Publishers, USA",
 ))
 
 woodall2000a = DB(WorkUnrelated(

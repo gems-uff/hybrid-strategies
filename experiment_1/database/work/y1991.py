@@ -15,6 +15,17 @@ argyris1991a = DB(WorkUnrelated(
     placex="Participatory Action Research",
 ))
 
+montgomery1991a = DB(WorkUnrelated(
+    1991, "Design and Analysis of Experiments",
+    display="montgomery",
+    authors="Montgomery, D.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 19382",
+    ID="Montgomery1991",
+    placex="John Wiley & Sons, Singapore",
+))
+
 rombach1991a = DB(WorkUnrelated(
     1991, "MVP-L A Language for Process Modeling In-the-Large",
     display="rombach",

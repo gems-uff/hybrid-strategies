@@ -58,6 +58,21 @@ ferguson1998a = DB(WorkUnrelated(
     ID="Ferguson1998",
 ))
 
+forman1998a = DB(WorkUnrelated(
+    1998, "Aggregating individual judgments and priorities with the Analytic Hierarchy Process",
+    display="forman",
+    authors="Forman, E. and Peniwati, K.",
+    place=FAKE,
+    pp="165-169",
+    entrytype="article",
+    volume="108",
+    number="1",
+    doi="10.1016/S0377-2217(97)00244-0",
+    note="cited By 420",
+    ID="Forman1998165",
+    placex="European Journal of Operational Research",
+))
+
 hansen1998a = DB(WorkUnrelated(
     1998, "NP -Assessment Process Report",
     display="hansen",
@@ -209,6 +224,17 @@ latum1998a = DB(WorkUnrelated(
     note="cited By 55",
     ID="VanLatum199878",
     placex="IEEE Software",
+))
+
+mcconnell1998a = DB(WorkUnrelated(
+    1998, "Software Project Survival Guide",
+    display="mcconnell",
+    authors="McConnell, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 119",
+    ID="McConnell1998",
+    placex="Microsoft Press, USA",
 ))
 
 mccoy1998a = DB(WorkSnowball(

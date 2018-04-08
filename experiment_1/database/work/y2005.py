@@ -497,6 +497,17 @@ taxen2005a = DB(WorkUnrelated(
     placex="Software Process Improvement and Practice",
 ))
 
+thayer2005a = DB(WorkUnrelated(
+    2005, "Software Engineering Project Management",
+    display="thayer",
+    authors="Thayer, R.H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 50",
+    ID="Thayer2005",
+    placex="Thayer, R.H. (Ed.): IEEE Computer Society",
+))
+
 thomas2005a = DB(WorkUnrelated(
     2005, "A Semantic approach to monitor business process performance",
     display="thomas",

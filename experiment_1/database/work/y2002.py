@@ -584,6 +584,17 @@ peltola2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+point2002a = DB(WorkUnrelated(
+    2002, "Home page of Focal Point AB",
+    display="point",
+    authors="Focal Point",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="FocalPoint2002",
+    placex="Accessed 2nd March",
+))
+
 postema2002a = DB(WorkUnrelated(
     2002, "Platform Based Product Development",
     display="postema",

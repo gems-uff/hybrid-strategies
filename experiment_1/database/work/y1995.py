@@ -12,6 +12,10 @@ bandinelli1995a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Bandinelli1995",
     placex="IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454",
+    pp="440-454",
+    volume="21",
+    number="5",
+    doi="10.1109/32.387473",
 ))
 
 basili1995a = DB(WorkUnrelated(
@@ -120,6 +124,18 @@ conradi1995a = DB(WorkUnrelated(
     placex="Proc. Fourth European Workshop Software Process Technology, Springer-Verlag",
 ))
 
+herbsleb1995a = DB(WorkUnrelated(
+    1995, "Systematic survey of CMM experience and results",
+    display="herbsleb",
+    authors="Herbsleb, James D. and Goldenson, Dennis R.",
+    place=ICSE,
+    pp="323-330",
+    entrytype="article",
+    note="cited By 103",
+    ID="Herbsleb1995323",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 hinley1995a = DB(WorkSnowball(
     1995, "A goal-oriented approach for managing software process change",
     display="hinley",
@@ -130,6 +146,17 @@ hinley1995a = DB(WorkSnowball(
     volume="13",
     publisher="WIT Press",
     ID="hinley1995goal",
+))
+
+humphrey1995a = DB(WorkUnrelated(
+    1995, "A discipline for software engineering",
+    display="humphrey",
+    authors="Humphrey, W.S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 639",
+    ID="Humphrey1995",
+    placex="A Discipline for Software Engineering",
 ))
 
 kerzner1995a = DB(WorkUnrelated(

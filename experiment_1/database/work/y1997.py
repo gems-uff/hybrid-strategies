@@ -177,6 +177,21 @@ kaplan1997a = DB(WorkUnrelated(
     placex="Harvard Business School Press",
 ))
 
+karlsson1997a = DB(WorkUnrelated(
+    1997, "A cost-value approach for prioritizing requirements",
+    display="karlsson",
+    authors="Karlsson, J. and Ryan, K.",
+    place=IEEES,
+    pp="67-74",
+    entrytype="article",
+    volume="14",
+    number="5",
+    doi="10.1109/52.605933",
+    note="cited By 417",
+    ID="Karlsson199767",
+    placex="IEEE Software",
+))
+
 king1997a = DB(WorkUnrelated(
     1997, "Tool support for systems emergence: A multimedia \CASE\ tool",
     display="king",
