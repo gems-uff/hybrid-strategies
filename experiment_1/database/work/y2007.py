@@ -724,6 +724,17 @@ sidky2007b = DB(WorkUnrelated(
     placex="Proceedings - International Conference on Software Engineering",
 ))
 
+siemens2007a = DB(WorkUnrelated(
+    2007, "Fit for the Future Update Strategic Goals",
+    display="siemens",
+    authors="Siemens",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Siemens2007",
+    placex="Siemens: Siemens PG January",
+))
+
 sitnikova2007a = DB(WorkUnrelated(
     2007, "Software and systems engineering process capability in the South Australian defence industry",
     display="sitnikova",

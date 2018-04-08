@@ -726,6 +726,17 @@ simon2002a = DB(WorkUnrelated(
     placex="Campus, Frankfurt/Main",
 ))
 
+simon2002ab = DB(WorkUnrelated(
+    2002, "Das Große Handbuch der Strategieinstrumente",
+    display="simon",
+    authors="Simon, H. and Von Der Gathen, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 11",
+    ID="Simon2002",
+    placex="Campus, Frankfurt/Main (in German)",
+))
+
 stiller2002a = DB(WorkUnrelated(
     2002, "Project-based Software Engineering",
     display="stiller",

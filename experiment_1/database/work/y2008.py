@@ -482,6 +482,28 @@ isoiec2008a = DB(WorkUnrelated(
     placex="ISO/IEC 9001:2008",
 ))
 
+isoiec2008b = DB(WorkUnrelated(
+    2008, "Systems and Software Engineering - System Life Cycle Processes ISO/IEC 15288:2008",
+    display="isoiec b",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 193",
+    ID="ISOIEC2008",
+    placex="ISO/IEC 15288:2008 International Standards Organization",
+))
+
+isoiec2008c = DB(WorkUnrelated(
+    2008, "Systems and Software Engineering - System Life Cycle Processes ISO/IEC 12207:2008",
+    display="isoiec c",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 184",
+    ID="ISOIEC2008",
+    placex="ISO/IEC 12207:2008 International Standards Organization",
+))
+
 j2008a = DB(WorkUnrelated(
     2008, "Aligning business strategies with software measurement - exercise handouts",
     display="j",

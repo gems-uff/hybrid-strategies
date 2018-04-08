@@ -29,6 +29,17 @@ aagotnes2006a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
+abb2006a = DB(WorkUnrelated(
+    2006, "ABB Annual Report 2006 - Sustainability Review - Power and Productivity for a Better World",
+    display="abb",
+    authors="ABB",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ABB2006",
+    placex="ABB",
+))
+
 andersen2006a = DB(WorkUnrelated(
     2006, "E-government maturity models: Extension of the Layne and Lee model",
     display="andersen",
@@ -404,6 +415,17 @@ iso2006a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 251",
     ID="IT2003",
+))
+
+isoiec2006a = DB(WorkUnrelated(
+    2006, "Information technology - Process assessment - Parts 1-5",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 251",
+    ID="ISOIEC2006",
+    placex="ISO/IEC 15504:2003: International Standards Organization",
 ))
 
 issac2006a = DB(WorkUnrelated(
