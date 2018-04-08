@@ -305,6 +305,18 @@ emam2001a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+fenton2001a = DB(WorkUnrelated(
+    2001, "Metrics for Software Process Improvement",
+    display="fenton",
+    authors="Fenton, N.",
+    place=FAKE,
+    pp="34-55",
+    entrytype="article",
+    note="cited By 2",
+    ID="Fenton200134",
+    placex="Software Process Improvement: Metrics, Measurement and Process Modelling",
+))
+
 fröhlich2001a = DB(WorkUnrelated(
     2001, "Enabling Local SPI in a Multi-National Company",
     display="fröhlich",
@@ -686,6 +698,18 @@ pfahl2001a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+ramil2001a = DB(WorkUnrelated(
+    2001, "Defining and applying metrics in the context of continuing software evolution",
+    display="ramil",
+    authors="Ramil, J.F. and Lehman, M.M.",
+    place=ISMS,
+    pp="199-208",
+    entrytype="article",
+    note="cited By 7",
+    ID="Ramil2001199",
+    placex="International Software Metrics Symposium, Proceedings",
+))
+
 richardson2001a = DB(WorkUnrelated(
     2001, "Software Process Improvements in a Very Small Company",
     display="richardson",
@@ -721,6 +745,18 @@ satpathy2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44704-0_8",
     springer="1",
     placex="New Approaches in Software Measurement",
+))
+
+scacchi2001a = DB(WorkUnrelated(
+    2001, "Process models in software engineering",
+    display="scacchi",
+    authors="Scacchi, W.",
+    place=FAKE,
+    pp="993-1005",
+    entrytype="article",
+    note="cited By 59",
+    ID="Scacchi2001993",
+    placex="Encyclopedia of Software Engineering",
 ))
 
 schmietendorf2001a = DB(WorkUnrelated(

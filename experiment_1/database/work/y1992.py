@@ -28,6 +28,35 @@ cox1992a = DB(WorkUnrelated(
     ID="Cox199225",
 ))
 
+daskalantonakis1992a = DB(WorkUnrelated(
+    1992, "A Practical View of Software Measurement and Implementation Experiences within Motorola",
+    display="daskalantonakis",
+    authors="Daskalantonakis, M.K.",
+    place=ToSE,
+    pp="998-1010",
+    entrytype="article",
+    volume="18",
+    number="11",
+    doi="10.1109/32.177369",
+    note="cited By 118",
+    ID="Daskalantonakis1992998",
+    placex="IEEE Transactions on Software Engineering",
+))
+
+derose1992a = DB(WorkUnrelated(
+    1992, "Contextualism and knowledge attributions",
+    display="derose",
+    authors="DeRose, K.",
+    place=FAKE,
+    pp="913-929",
+    entrytype="article",
+    volume="52",
+    number="4",
+    note="cited By 313",
+    ID="DeRose1992913",
+    placex="Philosophy and Phenomenological Research",
+))
+
 finkelstein1992a = DB(WorkUnrelated(
     1992, "Viewpoints: A Framework for Integrating Multiple Perspectives in System Development",
     display="finkelstein",
@@ -37,6 +66,20 @@ finkelstein1992a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Finkelstei1992",
     placex="Int'l J. Software Eng. and Knowledge Eng., Vol. 2, No. 1, Pp. 31-58",
+))
+
+freeman1992a = DB(WorkUnrelated(
+    1992, "Measuring project success",
+    display="freeman",
+    authors="Freeman, M. and Beale, P.",
+    place=FAKE,
+    pp="8-17",
+    entrytype="article",
+    volume="23",
+    number="1",
+    note="cited By 142",
+    ID="Freeman19928",
+    placex="Project Management Journal",
 ))
 
 haikala1992a = DB(WorkUnrelated(

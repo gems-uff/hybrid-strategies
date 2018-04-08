@@ -273,6 +273,28 @@ cedergren2011b = DB(WorkUnrelated(
     placex="International Association for Management of Technology IAMOT 2011 Proceedings",
 ))
 
+chrissis2011a = DB(WorkUnrelated(
+    2011, "CMMI for Development: Guidelines for Process Integration and Product Improvement",
+    display="chrissis",
+    authors="Chrissis, M.B. and Konrad, M. and Shrum, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 130",
+    ID="Chrissis2011",
+    placex="CMMI for Development: Guidelines for Process Integration and Product Improvement",
+))
+
+cmusei2011a = DB(WorkUnrelated(
+    2011, "Standard CMMI Appraisal Method for Process Improvement (SCAMPI)",
+    display="cmusei",
+    authors="CMUSEI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="CMUSEI2011",
+    placex="Version 1.3: Method Definition Document",
+))
+
 colomo2011a = DB(WorkUnrelated(
     2011, "Software product evolution for intellectual capital management: The case of Meta4 PeopleNet",
     display="colomo",
@@ -1095,6 +1117,17 @@ ullah2011a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=3546726514618726462&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Computer Information Systems",
     gs="1",
+))
+
+unterkalmsteiner2011a = DB(WorkUnrelated(
+    2011, "Extended Material to 'A Conceptual Framework for SPI Evaluation",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, M. and Gorschek, T. and Islam, A. and Cheng, C.K. and Permadi, R.B. and Feldt, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Unterkalmsteiner2011",
+    placex="accessed site",
 ))
 
 uoti2011a = DB(WorkUnrelated(

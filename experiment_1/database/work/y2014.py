@@ -124,6 +124,17 @@ basili2014c = DB(WorkUnrelated(
     placex="Aligning Organizations Through Measurement",
 ))
 
+basili2014d = DB(WorkUnrelated(
+    2014, "Aligning organizations through measurement: The GQM+strategies approach, ser.",
+    display="basili d",
+    authors="Basili, V. and Trendowicz, A. and Kowalczyk, M. and Heidrich, J. and Seaman, C. and Münch, J. and Rombach, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 30",
+    ID="Basili2014",
+    placex="Aligning Organizations Through Measurement: The GQM+Strategies Approach",
+))
+
 baskerville2014a = DB(WorkUnrelated(
     2014, "Incident-centered information security: Managing a strategic balance between prevention and response",
     display="baskerville",

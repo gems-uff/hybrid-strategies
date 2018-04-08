@@ -193,6 +193,21 @@ chen2007a = DB(WorkUnrelated(
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
+coleman2007a = DB(WorkUnrelated(
+    2007, "Using grounded theory to understand software process improvement: A study of Irish software product companies",
+    display="coleman",
+    authors="Coleman, G. and O'Connor, R.",
+    place=IST,
+    pp="654-667",
+    entrytype="article",
+    volume="49",
+    number="6",
+    doi="10.1016/j.infsof.2007.02.011",
+    note="cited By 91",
+    ID="Coleman2007654",
+    placex="Information and Software Technology",
+))
+
 deng2007a = DB(WorkUnrelated(
     2007, "Pong: Diagnosing Spatio-temporal Internet Congestion Properties",
     display="deng",
@@ -208,6 +223,21 @@ deng2007a = DB(WorkUnrelated(
     ID="Deng:2007:PDS:1269899.1254940",
     acm="1",
     placex="SIGMETRICS Perform. Eval. Rev.",
+))
+
+dror2007a = DB(WorkUnrelated(
+    2007, "A process causality approach given a strategic frame",
+    display="dror",
+    authors="Dror, S.",
+    place=FAKE,
+    pp="40-55",
+    entrytype="article",
+    volume="2",
+    number="1",
+    doi="10.1108/17465660710733040",
+    note="cited By 3",
+    ID="Dror200740",
+    placex="Journal of Modelling in Management",
 ))
 
 ebert2007a = DB(WorkUnrelated(
@@ -708,6 +738,20 @@ sitnikova2007a = DB(WorkUnrelated(
     ID="Sitnikova2007",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+))
+
+sjøberg2007a = DB(WorkUnrelated(
+    2007, "The future of empirical methods in software engineering research",
+    display="sjøberg",
+    authors="Sjøberg, D.I.K. and Dybå, T. and Jørgensen, M.",
+    place=FAKE,
+    pp="358-378",
+    entrytype="article",
+    doi="10.1109/FOSE.2007.30",
+    art_number="4221632",
+    note="cited By 170",
+    ID="Sjøberg2007358",
+    placex="FoSE 2007: Future of Software Engineering",
 ))
 
 snowden2007a = DB(WorkUnrelated(

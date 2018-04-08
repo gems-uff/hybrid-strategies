@@ -36,6 +36,21 @@ checkland1990a = DB(WorkUnrelated(
     placex="John Wiley & Sons",
 ))
 
+daskalaivtonakis1990a = DB(WorkUnrelated(
+    1990, "A method for assessing software measurement technology",
+    display="daskalaivtonakis",
+    authors="Daskalaivtonakis, M.K. and Basili, V.R.",
+    place=FAKE,
+    pp="27-40",
+    entrytype="article",
+    volume="3",
+    number="1",
+    doi="10.1080/08982119008918835",
+    note="cited By 15",
+    ID="Daskalaivtonakis199027",
+    placex="Quality Engineering",
+))
+
 hammer1990a = DB(WorkUnrelated(
     1990, "Reengineering Work: Don't Automate",
     display="hammer",
@@ -45,6 +60,19 @@ hammer1990a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Hammer1990",
     placex="Obliterate, Harvard Business Review",
+))
+
+knapp1990a = DB(WorkUnrelated(
+    1990, "Treating ordinal scales as interval scales: an attempt to resolve the controversy",
+    display="knapp",
+    authors="Knapp, Thomas R",
+    place=FAKE,
+    pp="121--123",
+    entrytype="article",
+    volume="39",
+    number="2",
+    ID="knapp1990treating",
+    placex="Nursing research",
 ))
 
 mcnair1990a = DB(WorkUnrelated(

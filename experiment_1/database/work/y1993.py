@@ -76,6 +76,21 @@ cmm1993a = DB(WorkUnrelated(
     placex="Carnegie-Mellon University, Pittsburgh, USA, CMU/SEI-93-TR-24 and -25",
 ))
 
+comer1993a = DB(WorkUnrelated(
+    1993, "A measurement maturity model",
+    display="comer",
+    authors="Comer, P. and Chard, J.",
+    place=SQJ,
+    pp="277-289",
+    entrytype="article",
+    volume="2",
+    number="4",
+    doi="10.1007/BF00403770",
+    note="cited By 6",
+    ID="Comer1993277",
+    placex="Software Quality Journal",
+))
+
 curtis1993a = DB(WorkUnrelated(
     1993, "Creating a software process improvement program",
     display="curtis",

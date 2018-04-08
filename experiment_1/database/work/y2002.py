@@ -322,6 +322,20 @@ helokunnas2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+henricksen2002a = DB(WorkUnrelated(
+    2002, "Modeling context information in pervasive computing systems",
+    display="henricksen",
+    authors="Henricksen, K. and Indulska, J. and Rakotonirainy, A.",
+    place=FAKE,
+    pp="167-180",
+    entrytype="article",
+    volume="2414",
+    doi="10.1007/3-540-45866-2_14",
+    note="cited By 335",
+    ID="Henricksen2002167",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 isoiec2002a = DB(WorkUnrelated(
     2002, "Iso/iec 15939 international standard 1st edition 2002: software engineering - software measurement process",
     display="isoiec",
@@ -331,6 +345,17 @@ isoiec2002a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="ISOIEC2002",
+))
+
+isoiec2002b = DB(WorkUnrelated(
+    2002, "ISO/IEC 15939: Software Measurement Process",
+    display="isoiec b",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="isoiec2002",
+    placex="International Organization for Standardization",
 ))
 
 jones2002a = DB(WorkUnrelated(
@@ -747,6 +772,19 @@ visconti2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_44",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+weiss2002a = DB(WorkUnrelated(
+    2002, "Goal-oriented software assessment",
+    display="weiss",
+    authors="Weiss, D.M. and Bennett, D. and Payseur, J.Y. and Tendick, P. and Zhang, P.",
+    place=ICSE,
+    pp="221-231",
+    entrytype="article",
+    art_number="23",
+    note="cited By 14",
+    ID="Weiss2002221",
+    placex="Proceedings-International Conference on Software Engineering",
 ))
 
 wilson2002a = DB(WorkUnrelated(

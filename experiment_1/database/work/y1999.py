@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+atkinson1999a = DB(WorkUnrelated(
+    1999, "Project management: Cost, time and quality, two best guesses and a phenomenon, its time to accept other success criteria",
+    display="atkinson",
+    authors="Atkinson, R.",
+    place=FAKE,
+    pp="337-342",
+    entrytype="article",
+    volume="17",
+    number="6",
+    doi="10.1016/S0263-7863(98)00069-6",
+    note="cited By 701",
+    ID="Atkinson1999337",
+    placex="International Journal of Project Management",
+))
+
 becker1999a = DB(WorkUnrelated(
     1999, "Aligning strategic and project measurement systems",
     display="becker",
@@ -153,6 +168,17 @@ florac1999a = DB(WorkUnrelated(
     placex="Addison Wesley Publishing Company",
 ))
 
+florac1999b = DB(WorkUnrelated(
+    1999, "Measuring the software process",
+    display="florac b",
+    authors="Florac, W.A. and Carleton, A.D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 202",
+    ID="Florac1999",
+    placex="Measuring the Software Process: Statistical Process Control for Software Process Improvement",
+))
+
 garbett1999a = DB(WorkUnrelated(
     1999, "A case study in innovative process improvement: code synthesis from formal specifications",
     display="garbett",
@@ -208,6 +234,18 @@ humphrey1999a = DB(WorkUnrelated(
     ID="Humphrey1999",
 ))
 
+jarvinen1999a = DB(WorkUnrelated(
+    1999, "On integrating assessment and measurement: Towards continuous assessment of software engineering processes",
+    display="jarvinen",
+    authors="Jarvinen, Janne and Hamann, Dirk and van Solingen, Rini",
+    place=ISMS,
+    pp="22-30",
+    entrytype="article",
+    note="cited By 9",
+    ID="Jarvinen199922",
+    placex="International Software Metrics Symposium, Proceedings",
+))
+
 jesko1999a = DB(WorkUnrelated(
     1999, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",
     display="jesko",
@@ -216,6 +254,18 @@ jesko1999a = DB(WorkUnrelated(
     entrytype="article",
     ID="jeskodistributed",
     placex="",
+))
+
+järvinen1999a = DB(WorkUnrelated(
+    1999, "Establishing continuous assessment using measurements",
+    display="järvinen",
+    authors="Järvinen, J. and Solingen, R.V.",
+    place=ICPFSPI,
+    pp="49-67",
+    entrytype="article",
+    note="cited By 5",
+    ID="Järvinen199949",
+    placex="Proc. of the 1<sup>st</sup> International Conference on Product Focused Software Process Improvement 8PROFES'99",
 ))
 
 kautz1999a = DB(WorkUnrelated(
@@ -245,6 +295,21 @@ kautz1999b = DB(WorkUnrelated(
     placex="Journal of the Software Process-Improvement and Practice",
 ))
 
+linberg1999a = DB(WorkUnrelated(
+    1999, "Software developer perceptions about software project failure: A case study",
+    display="linberg",
+    authors="Linberg, K.R.",
+    place=JSS,
+    pp="177-192",
+    entrytype="article",
+    volume="49",
+    number="2",
+    doi="10.1016/S0164-1212(99)00094-1",
+    note="cited By 171",
+    ID="Linberg1999177",
+    placex="Journal of Systems and Software",
+))
+
 martinsons1999a = DB(WorkUnrelated(
     1999, "The balanced scorecard: A foundation for the strategic management of information systems",
     display="martinsons",
@@ -264,7 +329,7 @@ messnarz1999a = DB(WorkSnowball(
     1999, "Better Software Practice for Business Benefit: Principles and Experiences",
     display="messnarz",
     authors="Messnarz, Richard and Tully, Colin J",
-    place=Book,
+    place=FAKE,
     entrytype="book",
     publisher="IEEE Computer Society Press",
     ID="messnarz1999better",
@@ -347,6 +412,20 @@ rodger1999a = DB(WorkUnrelated(
     note="cited By 5",
     ID="Rodger1999",
     placex="Business Dynamics, PricewaterhouseCoopers",
+))
+
+seaman1999a = DB(WorkUnrelated(
+    1999, "Qualitative methods in empirical studies of software engineering",
+    display="seaman",
+    authors="Seaman, Carolyn B.",
+    place=ToSE,
+    pp="557--572",
+    entrytype="article",
+    volume="25",
+    number="4",
+    publisher="IEEE",
+    ID="seaman1999qualitative",
+    placex="IEEE Transactions on software engineering",
 ))
 
 solingen1999a = DB(WorkUnrelated(

@@ -134,6 +134,21 @@ boehm2006a = DB(WorkUnrelated(
     placex="Value-Based Software Engineering",
 ))
 
+canfora2006a = DB(WorkUnrelated(
+    2006, "Applying a framework for the improvement of software process maturity",
+    display="canfora",
+    authors="Canfora, G. and García, F. and Piattini, M. and Ruiz, F. and Visaggio, C.A.",
+    place=FAKE,
+    pp="283-304",
+    entrytype="article",
+    volume="36",
+    number="3",
+    doi="10.1002/spe.697",
+    note="cited By 14",
+    ID="Canfora2006283",
+    placex="Software - Practice and Experience",
+))
+
 cmmi2006a = DB(WorkUnrelated(
     2006, "CMMI for Development",
     display="cmmi",
@@ -228,6 +243,20 @@ debarr2006a = DB(WorkUnrelated(
     placex="SIGKDD Explor. Newsl.",
 ))
 
+ekdahl2006a = DB(WorkUnrelated(
+    2006, "Experience report: Using internal CMMI appraisals to institutionalize software development performance improvement",
+    display="ekdahl",
+    authors="Ekdahl, F. and Larsson, S.",
+    place=SEAA,
+    pp="216-222",
+    entrytype="conference",
+    doi="10.1109/EUROMICRO.2006.37",
+    art_number="1690143",
+    note="cited By 10",
+    ID="Ekdahl2006216",
+    placex="Proceedings - 32nd Euromicro Conference on Software Engineering and Advanced Applications, SEAA",
+))
+
 emam2006a = DB(WorkUnrelated(
     2006, "An Overview of Process Improvement in Small Settings",
     display="emam",
@@ -298,6 +327,21 @@ gorschek2006c = DB(WorkUnrelated(
     entrytype="misc",
     ID="gorschek2006success",
     placex="",
+))
+
+gorschek2006d = DB(WorkUnrelated(
+    2006, "A model for technology transfer in practice",
+    display="gorschek d",
+    authors="Gorschek, T. and Garre, P. and Larsson, S. and Wohlin, C.",
+    place=IEEES,
+    pp="88-95",
+    entrytype="article",
+    volume="23",
+    number="6",
+    doi="10.1109/MS.2006.147",
+    note="cited By 116",
+    ID="Gorschek200688",
+    placex="IEEE Software",
 ))
 
 grünbacher2006a = DB(WorkUnrelated(
@@ -375,6 +419,21 @@ issac2006a = DB(WorkUnrelated(
     note="cited By 20",
     ID="Issac2006291",
     placex="Software Quality Journal",
+))
+
+iversen2006a = DB(WorkUnrelated(
+    2006, "Problems in measuring effectiveness in software process improvement: A longitudinal study of organizational change at Danske Data",
+    display="iversen",
+    authors="Iversen, J. and Ngwenyama, O.",
+    place=FAKE,
+    pp="30-43",
+    entrytype="article",
+    volume="26",
+    number="1",
+    doi="10.1016/j.ijinfomgt.2005.10.006",
+    note="cited By 25",
+    ID="Iversen200630",
+    placex="International Journal of Information Management",
 ))
 
 jha2006a = DB(WorkUnrelated(
@@ -584,6 +643,20 @@ pérez2006a = DB(WorkUnrelated(
     ID="Pérez2006161",
     sciencedirect="1",
     placex="Electronic Notes in Theoretical Computer Science",
+))
+
+redzic2006a = DB(WorkUnrelated(
+    2006, "Six sigma approach in software quality improvement",
+    display="redzic",
+    authors="Redzic, C. and Baik, J.",
+    place=FAKE,
+    pp="396-405",
+    entrytype="conference",
+    doi="10.1109/SERA.2006.61",
+    art_number="1691407",
+    note="cited By 10",
+    ID="Redzic2006396",
+    placex="Proceedings - Fourth International Conference on Software Engineering Research, Management and Applications, SERA 2006",
 ))
 
 rocha2006a = DB(WorkUnrelated(

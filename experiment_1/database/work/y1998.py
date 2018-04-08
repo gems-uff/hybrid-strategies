@@ -95,6 +95,7 @@ herbsleb1998a = DB(WorkUnrelated(
     ID="671136",
     ieee="1",
     placex="Proceedings of the 20th International Conference on Software Engineering",
+    note="cited By 22",
 ))
 
 hierholzer1998a = DB(WorkUnrelated(
@@ -151,6 +152,17 @@ isoiec1998d = DB(WorkUnrelated(
     note="cited By 117",
     ID="isoiec1998",
     placex="ISO/IEC 15504-7:1998. International Standards Organization",
+))
+
+isoiec1998e = DB(WorkUnrelated(
+    1998, "ISO/IEC TR2 15504 - Software Process Assessment: Part 1-Part 9",
+    display="isoiec e",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="ISOIEC1998",
+    placex="Technical Report ISO/IEC TR2 15504, ISO, Geneva, Switzerland",
 ))
 
 iversen1998a = DB(WorkUnrelated(
@@ -226,6 +238,20 @@ mellis1998a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+niessink1998a = DB(WorkUnrelated(
+    1998, "Towards mature measurement programs",
+    display="niessink",
+    authors="Niessink, F. and Van Vliet, H.",
+    place=FAKE,
+    pp="82-88",
+    entrytype="article",
+    volume="1998-March",
+    doi="10.1109/CSMR.1998.665755",
+    note="cited By 13",
+    ID="Niessink199882",
+    placex="Proceedings of the 2nd Euromicro Conference on Software Maintenance and Reengineering, CSMR 1998",
+))
+
 oliveira1998a = DB(WorkUnrelated(
     1998, "Planejamento Estratégico - Conceitos Metodologia e Pratica",
     display="oliveira",
@@ -254,6 +280,17 @@ paulk1998a = DB(WorkUnrelated(
     ID="Paulk19981",
     sciencedirect="1",
     placex="",
+))
+
+pearl1998a = DB(WorkUnrelated(
+    1998, "Why there is no statistical test for confounding, why many think there is, and why they are almost right.",
+    display="pearl",
+    authors="Pearl, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 23",
+    ID="Pearl1998",
+    placex="Why There Is No Statistical Test for Confounding, Why Many Think There Is, and Why They Are Almost Right",
 ))
 
 rahikkala1998a = DB(WorkUnrelated(

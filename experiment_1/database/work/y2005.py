@@ -324,6 +324,17 @@ karlström2005a = DB(WorkUnrelated(
     placex="Software Testing, Verification and Reliability",
 ))
 
+kasunic2005a = DB(WorkUnrelated(
+    2005, "Designing an effective survey",
+    display="kasunic",
+    authors="Kasunic, Mark",
+    place=TechReport,
+    entrytype="techreport",
+    institution="CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST",
+    ID="kasunic2005designing",
+    placex="",
+))
+
 kauppinen2005a = DB(WorkUnrelated(
     2005, "Introducing requirements engineering into product development: towards systematic user requirements definition",
     display="kauppinen",
@@ -420,6 +431,9 @@ salo2005b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Salo2005",
     placex="Proceedings of the 4th International Symposium on Empirical Software Engineering (ISESE 2005)",
+    pp="193-202",
+    doi="10.1109/ISESE.2005.1541828",
+    art_number="1541828",
 ))
 
 sei2005a = DB(WorkUnrelated(
@@ -452,6 +466,21 @@ snedaker2005a = DB(WorkUnrelated(
     ID="tagkey20051",
     sciencedirect="1",
     placex="How to Cheat at \{IT\} Project Management",
+))
+
+sommerville2005a = DB(WorkUnrelated(
+    2005, "An empirical study of industrial requirements engineering process assessment and improvement",
+    display="sommerville",
+    authors="Sommerville, I. and Ransom, J.",
+    place=ToSE,
+    pp="85-117",
+    entrytype="article",
+    volume="14",
+    number="1",
+    doi="10.1145/1044834.1044837",
+    note="cited By 89",
+    ID="Sommerville200585",
+    placex="ACM Transactions on Software Engineering and Methodology",
 ))
 
 taxen2005a = DB(WorkUnrelated(

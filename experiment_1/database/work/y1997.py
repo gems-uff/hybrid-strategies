@@ -155,6 +155,17 @@ isoies1997a = DB(WorkUnrelated(
     placex="Study report ISO/IES JTC1/SC7",
 ))
 
+jenkins1997a = DB(WorkUnrelated(
+    1997, "Towards a theory of self-administered questionnaire design",
+    display="jenkins",
+    authors="Jenkins, Cleo R and Dillman, Don A",
+    place=FAKE,
+    entrytype="book",
+    publisher="Wiley Online Library",
+    ID="jenkins1997towards",
+    placex="",
+))
+
 kaplan1997a = DB(WorkUnrelated(
     1997, "Cost and Effect: Using Integrated Cost Systems to Drive Profitability and Performance, Activity-Based Costing: Introduction (79-110)",
     display="kaplan",
@@ -208,6 +219,17 @@ offen1997a = DB(WorkUnrelated(
     doi="10.1109/52.582974",
     note="cited By 58",
     ID="Offen199745",
+))
+
+pfleeger1997a = DB(WorkUnrelated(
+    1997, "Software Metrics: A Rigorous and Practical Approach Boston",
+    display="pfleeger",
+    authors="PFLEEGER, NEFASL",
+    place=FAKE,
+    entrytype="misc",
+    publisher="PWS Publishing Company",
+    ID="pfleeger1997software",
+    placex="",
 ))
 
 reiblein1997a = DB(WorkSnowball(

@@ -1,0 +1,130 @@
+﻿Scopus
+EXPORT DATE: 8 April 2018
+
+@ARTICLE{Woodall2000341,
+author={Woodall, W.H.},
+title={Controversies and contradictions in statistical process control},
+journal={Journal of Quality Technology},
+year={2000},
+volume={32},
+number={4},
+pages={341-350},
+note={cited By 261},
+}
+
+@ARTICLE{Kautz199914,
+author={Kautz, K.},
+title={Making Sense of Measurement for Small Organizations},
+journal={IEEE Software},
+year={1999},
+volume={16},
+number={2},
+pages={14-20},
+doi={10.1109/52.754047},
+note={cited By 32},
+}
+
+@CONFERENCE{Umarji2008129,
+author={Umarji, M. and Seaman, C.},
+title={Why do programmers avoid metrics?},
+journal={ESEM'08: Proceedings of the 2008 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement},
+year={2008},
+pages={129-138},
+doi={10.1145/1414004.1414027},
+note={cited By 8},
+}
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1411},
+}
+
+@ARTICLE{Basili199368,
+author={Basili, V.R.},
+title={The experience factory and its relationship to other improvement paradigms},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={1993},
+volume={717 LNCS},
+pages={68-83},
+note={cited By 43},
+}
+
+@CONFERENCE{Basili2007,
+author={Basili, V. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.},
+title={Bridging the gap between business strategy and software development},
+journal={ICIS 2007 Proceedings - Twenty Eighth International Conference on Information Systems},
+year={2007},
+note={cited By 16},
+}
+
+@ARTICLE{Basili20091,
+author={Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Seaman, C. and Regardie, M.},
+title={Determining the impact of business strategies using principles from goal-oriented measurement},
+journal={Internationale Tagung Wirtschaftsinformatik},
+year={2009},
+volume={9},
+pages={1-10},
+note={cited By 3},
+}
+
+@ARTICLE{Basili201057,
+author={Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.},
+title={Linking software development and business strategy through measurement},
+journal={Computer},
+year={2010},
+volume={43},
+number={4},
+pages={57-65},
+doi={10.1109/MC.2010.108},
+art_number={5445168},
+note={cited By 73},
+}
+
+@ARTICLE{vanLatum1996167,
+author={van Latum, F. and Oivo, M. and Hoisl, B. and Ruhe, G.},
+title={No improvement without feedback: Experiences from goal-oriented measurement at schlumberger},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={1996},
+volume={1149},
+pages={167-182},
+doi={10.1007/BFb0017742},
+note={cited By 7},
+}
+
+@ARTICLE{Briand1996253,
+author={Briand, L.C. and Differding, C.M. and Rombach, H.D.},
+title={Practical guidelines for measurement-based process improvement},
+journal={Software Process: Improvement and Practice},
+year={1996},
+volume={2},
+number={4},
+pages={253-280},
+note={cited By 94},
+}
+
+@ARTICLE{Henricksen2002167,
+author={Henricksen, K. and Indulska, J. and Rakotonirainy, A.},
+title={Modeling context information in pervasive computing systems},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2002},
+volume={2414},
+pages={167-180},
+doi={10.1007/3-540-45866-2_14},
+note={cited By 335},
+}
+
+@ARTICLE{DeRose1992913,
+author={DeRose, K.},
+title={Contextualism and knowledge attributions},
+journal={Philosophy and Phenomenological Research},
+year={1992},
+volume={52},
+number={4},
+pages={913-929},
+note={cited By 313},
+}

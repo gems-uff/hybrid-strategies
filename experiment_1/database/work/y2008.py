@@ -308,6 +308,20 @@ dybå2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+díaz2008a = DB(WorkUnrelated(
+    2008, "MIS-PyME software measurement maturity model-supporting the definition of software measurement programs",
+    display="díaz",
+    authors="Díaz-Ley, M. and García, F. and Piattini, M.",
+    place=FAKE,
+    pp="19-33",
+    entrytype="article",
+    volume="5089 LNCS",
+    doi="10.1007/978-3-540-69566-0_5",
+    note="cited By 7",
+    ID="Díaz-Ley200819",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 eilat2008a = DB(WorkUnrelated(
     2008, "R&D project evaluation: An integrated DEA and balanced scorecard approach",
     display="eilat",
@@ -336,6 +350,21 @@ fairweather2008a = DB(WorkUnrelated(
     ID="Fairweather:2008:OYA:1414471.1414485",
     acm="1",
     placex="Proceedings of the 10th International ACM SIGACCESS Conference on Computers and Accessibility",
+))
+
+ferreira2008a = DB(WorkUnrelated(
+    2008, "ROI of software process improvement at BL informática: SPIdex is really worth it",
+    display="ferreira",
+    authors="Ferreira, A.I.F. and Santos, G. and Cerqueira, R. and Montoni, M. and Barreto, A. and Rocha, A.R. and Barreto, A.O.S. and Silva Filho, R.C.",
+    place=SPIP,
+    pp="311-318",
+    entrytype="article",
+    volume="13",
+    number="4",
+    doi="10.1002/spip.392",
+    note="cited By 8",
+    ID="Ferreira2008311",
+    placex="Software Process Improvement and Practice",
 ))
 
 gorschek2008a = DB(WorkUnrelated(
@@ -502,6 +531,17 @@ kaplan2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Kaplan2008",
     placex="Harvard Business Press",
+))
+
+kasunic2008a = DB(WorkUnrelated(
+    2008, "Can You Trust Your Data? Establishing the Need for a Measurement and Analysis Infrastructure Diagnostic",
+    display="kasunic",
+    authors="Kasunic, M. and McCurley, J. and Zubrow, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Kasunic2008",
+    placex="Technical Report CMU/SEI-2008-TN-028",
 ))
 
 kleinberg2008a = DB(WorkUnrelated(
@@ -676,6 +716,21 @@ mishra2008a = DB(WorkUnrelated(
     ID="Mishra2008",
     placex="Product-focused software process improvement",
     scholar="http://scholar.google.com/scholar?cites=4586401233150442603&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+mohagheghi2008a = DB(WorkUnrelated(
+    2008, "An empirical investigation of software reuse benefits in a large telecom product",
+    display="mohagheghi",
+    authors="Mohagheghi, P. and Conradi, R.",
+    place=ToSE,
+    entrytype="article",
+    volume="17",
+    number="3",
+    doi="10.1145/1363102.1363104",
+    art_number="13",
+    note="cited By 37",
+    ID="Mohagheghi2008",
+    placex="ACM Transactions on Software Engineering and Methodology",
 ))
 
 monteiro2008a = DB(WorkUnrelated(
@@ -1035,6 +1090,19 @@ tjørnehøj2008a = DB(WorkUnrelated(
     placex="Software Processes & Knowledge",
 ))
 
+umarji2008a = DB(WorkUnrelated(
+    2008, "Why do programmers avoid metrics?",
+    display="umarji",
+    authors="Umarji, M. and Seaman, C.",
+    place=ESEM,
+    pp="129-138",
+    entrytype="conference",
+    doi="10.1145/1414004.1414027",
+    note="cited By 8",
+    ID="Umarji2008129",
+    placex="ESEM'08: Proceedings of the 2008 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+))
+
 vähäniitty2008a = DB(WorkUnrelated(
     2008, "Towards a Conceptual Framework and Tool Support for Linking Long-term Product and Business Planning with Agile Software Development",
     display="vähäniitty",
@@ -1064,6 +1132,21 @@ wang2008a = DB(WorkUnrelated(
     cluster_id="10037802072190717452",
     scholar="http://scholar.google.com/scholar?cites=10037802072190717452&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Process: Improvement and Practice",
+))
+
+wirth2008a = DB(WorkUnrelated(
+    2008, "A Brief History of Software Engineering",
+    display="wirth",
+    authors="Wirth, N.",
+    place=FAKE,
+    pp="32-39",
+    entrytype="article",
+    volume="30",
+    number="3",
+    doi="10.1109/MAHC.2008.33",
+    note="cited By 18",
+    ID="Wirth200832",
+    placex="IEEE Annals of the History of Computing",
 ))
 
 zhai2008a = DB(WorkUnrelated(

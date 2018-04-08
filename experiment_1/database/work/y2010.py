@@ -204,6 +204,17 @@ chiprout2010a = DB(WorkUnrelated(
     placex="Proceedings of the 47th Design Automation Conference",
 ))
 
+cmusei2010a = DB(WorkUnrelated(
+    2010, "Capability Maturity Model Integration (CMMI) for Development",
+    display="cmusei",
+    authors="cmusei",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="CMUSEI2010",
+    placex="Technical Report CMU/SEI-2010-TR-033, Software Engineering Institute",
+))
+
 code2010a = DB(WorkUnrelated(
     2010, "Sarbanes-Oxley",
     display="code",
@@ -970,6 +981,21 @@ oliveira2010a = DB(WorkUnrelated(
     cluster_id="6043457506987012415",
     scholar="http://scholar.google.com/scholar?cites=6043457506987012415&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Quality Journal",
+))
+
+parkinson2010a = DB(WorkUnrelated(
+    2010, "Practitioner-based measurement: A collaborative approach",
+    display="parkinson",
+    authors="Parkinson, S.T. and Hierons, R.M. and Lycett, M. and Norman, M.",
+    place=CACM,
+    pp="142-147",
+    entrytype="article",
+    volume="53",
+    number="3",
+    doi="10.1145/1666420.1666456",
+    note="cited By 1",
+    ID="Parkinson2010142",
+    placex="Communications of the ACM",
 ))
 
 petersen2010a = DB(WorkUnrelated(

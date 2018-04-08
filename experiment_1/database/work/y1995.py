@@ -14,6 +14,21 @@ bandinelli1995a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454",
 ))
 
+basili1995a = DB(WorkUnrelated(
+    1995, "Sel's software process-improvement program",
+    display="basili",
+    authors="Basili, V. and Zelkowitz, M. and Mcgarry, F. and Page, J. and Waligora, S. and Pajerski, R.",
+    place=IEEES,
+    pp="83-87",
+    entrytype="article",
+    volume="12",
+    number="6",
+    doi="10.1109/52.469763",
+    note="cited By 39",
+    ID="Basili199583",
+    placex="IEEE Software",
+))
+
 borum1995a = DB(WorkUnrelated(
     1995, "Strategies for Organizational Change",
     display="borum",
@@ -109,11 +124,23 @@ hinley1995a = DB(WorkSnowball(
     1995, "A goal-oriented approach for managing software process change",
     display="hinley",
     authors="Hinley, DS and Reiblein, S",
+    place=FAKE,
     place1="WIT Transactions on Information and Communication Technologies",
     entrytype="article",
     volume="13",
     publisher="WIT Press",
     ID="hinley1995goal",
+))
+
+kerzner1995a = DB(WorkUnrelated(
+    1995, "Project Management: A Systems Approach to Planning, Scheduling, and Controlling",
+    display="kerzner",
+    authors="Kerzner, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1410",
+    ID="Kerzner1995",
+    placex="ohn Wiley: Hoboken",
 ))
 
 kim1995a = DB(WorkUnrelated(
@@ -151,6 +178,9 @@ kuntzmann1995a = DB(WorkUnrelated(
     ID="10.1007/3-540-59449-3_21",
     springer="1",
     placex="Objective Software Quality",
+    volume="926",
+    doi="10.1007/3-540-59449-3_21",
+    note="cited By 2",
 ))
 
 kuvaja1995a = DB(WorkUnrelated(

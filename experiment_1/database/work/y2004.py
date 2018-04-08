@@ -95,6 +95,19 @@ capell2004a = DB(WorkUnrelated(
     placex="SEI SPECIAL REPORT CMU",
 ))
 
+card2004a = DB(WorkUnrelated(
+    2004, "Research directions in software process improvement",
+    display="card",
+    authors="Card, D.N.",
+    place=FAKE,
+    pp="238",
+    entrytype="article",
+    volume="1",
+    note="cited By 18",
+    ID="Card2004238",
+    placex="Proceedings - International Computer Software and Applications Conference",
+))
+
 casey2004a = DB(WorkUnrelated(
     2004, "A practical application of the IDEAL model",
     display="casey",
@@ -233,6 +246,8 @@ gorschek2004a = DB(WorkUnrelated(
     cluster_id="13434671154375543572",
     scholar="http://scholar.google.com/scholar?cites=13434671154375543572&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software: Practice and Experience",
+    doi="10.1002/spe.615",
+    note="cited By 32",
 ))
 
 grant2004a = DB(WorkUnrelated(
@@ -357,6 +372,21 @@ holz2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-25983-1_1",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+hyde2004a = DB(WorkUnrelated(
+    2004, "Intangible benefits of CMM-based software process improvement",
+    display="hyde",
+    authors="Hyde, K. and Wilson, D.",
+    place=SPIP,
+    pp="217-228",
+    entrytype="article",
+    volume="9",
+    number="4",
+    doi="10.1002/spip.205",
+    note="cited By 21",
+    ID="Hyde2004217",
+    placex="Software Process Improvement and Practice",
 ))
 
 isoiec2004a = DB(WorkUnrelated(
@@ -606,6 +636,17 @@ little2004a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
+lowy2004a = DB(WorkUnrelated(
+    2004, "The Power of the 2â×â2 Matrix",
+    display="lowy",
+    authors="Lowy, A. and Hood, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Lowy2004",
+    placex="Jossey-Bass: San Francisco",
+))
+
 makipaa2004a = DB(WorkUnrelated(
     2004, "Mass Customization and Beyond in Software Engineering--Developing a Framework for Mass Customized Adaptive Software",
     display="makipaa",
@@ -768,6 +809,7 @@ solingen2004a = DB(WorkUnrelated(
     note="cited By 57",
     ID="VanSolingen200432",
     placex="IEEE Software",
+    publisher="IEEE",
 ))
 
 sommerville2004a = DB(WorkUnrelated(
@@ -790,6 +832,19 @@ stalhane2004a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Stalhane2004",
     placex="Springer",
+))
+
+stålhane2004a = DB(WorkUnrelated(
+    2004, "Root cause analysis and gap analysis a tale of two methods",
+    display="stålhane",
+    authors="Stålhane, T.",
+    place=FAKE,
+    pp="150-160",
+    entrytype="article",
+    volume="3281",
+    note="cited By 5",
+    ID="Stålhane2004150",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 trienekens2004a = DB(WorkSnowball(

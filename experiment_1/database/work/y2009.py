@@ -74,6 +74,8 @@ basili2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Basili2009",
     placex="Proceedings of 9th BI Conference",
+    pp="1-10",
+    volume="9",
 ))
 
 basili2009b = DB(WorkUnrelated(
@@ -539,6 +541,20 @@ morisio2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+münch2009a = DB(WorkUnrelated(
+    2009, "Business alignment: Measurement-based alignment of software strategies and business goals",
+    display="münch",
+    authors="Münch, J. and Heidrich, J. and Mandi?, V.",
+    place=BIP,
+    pp="435-436",
+    entrytype="article",
+    volume="32 LNBIP",
+    doi="10.1007/978-3-642-02152-7_34",
+    note="cited By 1",
+    ID="Münch2009435",
+    placex="Lecture Notes in Business Information Processing",
+))
+
 nair2009a = DB(WorkUnrelated(
     2009, "Comprehensive Software Industry Analysis Model (CSIAM)",
     display="nair",
@@ -832,6 +848,20 @@ trienekens2009a = DB(WorkSnowball(
     publisher="Springer",
     scholar_ok=True,
     placex="Software Quality Journal",
+))
+
+umarji2009a = DB(WorkUnrelated(
+    2009, "Gauging acceptance of software metrics: Comparing perspectives of managers and developers",
+    display="umarji",
+    authors="Umarji, M. and Seaman, C.",
+    place=ESEM,
+    pp="236-247",
+    entrytype="article",
+    doi="10.1109/ESEM.2009.5315999",
+    art_number="5315999",
+    note="cited By 7",
+    ID="Umarji2009236",
+    placex="2009 3rd International Symposium on Empirical Software Engineering and Measurement, ESEM 2009",
 ))
 
 vieira2009a = DB(WorkUnrelated(

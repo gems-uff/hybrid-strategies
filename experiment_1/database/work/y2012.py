@@ -25,6 +25,7 @@ asghari2012a = DB(WorkUnrelated(
     cluster_id="11420221590920128501",
     scholar="http://scholar.google.com/scholar?cites=11420221590920128501&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+    note="cited By 1",
 ))
 
 aversano2012a = DB(WorkUnrelated(
@@ -485,6 +486,21 @@ hochstetter2012a = DB(WorkUnrelated(
     placex="Proceedings of the 7th International Conference on Software Engineering Advances (ICSEA",
 ))
 
+ivarsson2012a = DB(WorkUnrelated(
+    2012, "Tool support for disseminating and improving development practices",
+    display="ivarsson",
+    authors="Ivarsson, M. and Gorschek, T.",
+    place=SQJ,
+    pp="173-199",
+    entrytype="article",
+    volume="20",
+    number="1",
+    doi="10.1007/s11219-011-9139-6",
+    note="cited By 13",
+    ID="Ivarsson2012173",
+    placex="Software Quality Journal",
+))
+
 jaanus2012a = DB(WorkUnrelated(
     2012, "Dynamic and Stabilizing Forces in Knowledge Organization Systems for Business Ecosystems",
     display="jaanus",
@@ -545,6 +561,17 @@ jaxa2012a = DB(WorkUnrelated(
     note="cited By 1",
     ID="JAXA2012",
     placex="Japan Aerospace Exploration Agency (JAXA)",
+))
+
+jenkins2012a = DB(WorkUnrelated(
+    2012, "A quality assurance experience in a Systems Unit",
+    display="jenkins",
+    authors="Jenkins, M. and Martínez, A. and López, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Jenkins2012",
+    placex="de Latin American Congress on Requirements Engineering & Software Testing",
 ))
 
 kasurinen2012a = DB(WorkUnrelated(
@@ -1169,6 +1196,9 @@ unterkalmsteiner2012a = DB(WorkUnrelated(
     cluster_id="17653250403819569327",
     scholar="http://scholar.google.com/scholar?cites=17653250403819569327&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE Transactions on Software Engineering",
+    doi="10.1109/TSE.2011.26",
+    art_number="5728832",
+    note="cited By 84",
 ))
 
 wendler2012a = DB(WorkUnrelated(

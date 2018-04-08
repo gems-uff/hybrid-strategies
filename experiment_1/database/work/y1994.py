@@ -101,6 +101,17 @@ heineman1994a = DB(WorkUnrelated(
     placex="IBM Systems J., Vol. 33, No. 3, Pp. 501-529",
 ))
 
+herbsleb1994a = DB(WorkUnrelated(
+    1994, "Benefits of CMM-based software process improvement: Initial results",
+    display="herbsleb",
+    authors="Herbsleb, James and Carleton, Anita and Rozum, James and Siegel, Jane and Zubrow, David",
+    place=TechReport,
+    entrytype="techreport",
+    institution="CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST",
+    ID="herbsleb1994benefits",
+    placex="",
+))
+
 iso1994a = DB(WorkUnrelated(
     1994, "Guidelines for Auditing Quality Systems",
     display="iso",
@@ -198,6 +209,21 @@ nú1994a = DB(WorkUnrelated(
     placex="Ada in Europe",
 ))
 
+paulish1994a = DB(WorkUnrelated(
+    1994, "Case Studies of Software-Process-Improvement Measurement",
+    display="paulish",
+    authors="Paulish, D.J. and Carleton, A.D.",
+    place=C,
+    pp="50-57",
+    entrytype="article",
+    volume="27",
+    number="9",
+    doi="10.1109/2.312039",
+    note="cited By 49",
+    ID="Paulish199450",
+    placex="Computer",
+))
+
 pfleeger1994a = DB(WorkUnrelated(
     1994, "Measurement based process improvement",
     display="pfleeger",
@@ -230,6 +256,17 @@ roche1994a = DB(WorkUnrelated(
     ID="Roche1994173",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+salant1994a = DB(WorkUnrelated(
+    1994, "How to conduct your own survey",
+    display="salant",
+    authors="Salant, Priscilla and Dillman, I and Don, A",
+    place=Book,
+    entrytype="book",
+    number="300.723 S3.",
+    ID="salant1994conduct",
+    placex="",
 ))
 
 vertage1994a = DB(WorkUnrelated(

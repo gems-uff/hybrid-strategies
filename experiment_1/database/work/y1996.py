@@ -56,6 +56,7 @@ briand1996a = DB(WorkUnrelated(
     number="4",
     note="cited By 94",
     ID="Briand1996253",
+    placex="Software Process: Improvement and Practice",
 ))
 
 brinkkemper1996a = DB(WorkUnrelated(
@@ -147,6 +148,21 @@ hather1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+jones1996a = DB(WorkUnrelated(
+    1996, "Economics of software process improvement",
+    display="jones",
+    authors="Jones, Capers",
+    place=C,
+    pp="95-97",
+    entrytype="article",
+    volume="29",
+    number="1",
+    doi="10.1109/2.481498",
+    note="cited By 17",
+    ID="Jones199695",
+    placex="Computer",
+))
+
 kaplan1996a = DB(WorkUnrelated(
     1996, "The balanced scorecard: translating strategy into action",
     display="kaplan",
@@ -181,6 +197,45 @@ kaplan1996c = DB(WorkUnrelated(
     note="cited By 1856",
     ID="Kaplan199675",
     placex="Harvard Business Review",
+))
+
+kitchenham1996a = DB(WorkUnrelated(
+    1996, "Software quality: the elusive target",
+    display="kitchenham",
+    authors="Kitchenham, Barbara and Pfleeger, Shari Lawrence",
+    place=IEEES,
+    pp="12-21",
+    entrytype="article",
+    volume="13",
+    number="1",
+    doi="10.1109/52.476281",
+    note="cited By 267",
+    ID="Kitchenham199612",
+    placex="IEEE Software",
+))
+
+kvale1996a = DB(WorkUnrelated(
+    1996, "InterViews: an introduction to qualitative research interviewing",
+    display="kvale",
+    authors="Kvale, S",
+    place=FAKE,
+    entrytype="article",
+    ID="kvaleinterviews",
+    placex="Calif Sage",
+))
+
+latum1996a = DB(WorkUnrelated(
+    1996, "No improvement without feedback: Experiences from goal-oriented measurement at schlumberger",
+    display="latum",
+    authors="van Latum, F. and Oivo, M. and Hoisl, B. and Ruhe, G.",
+    place=FAKE,
+    pp="167-182",
+    entrytype="article",
+    volume="1149",
+    doi="10.1007/BFb0017742",
+    note="cited By 7",
+    ID="vanLatum1996167",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 mcfeeley1996a = DB(WorkUnrelated(

@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahamsson2000a = DB(WorkUnrelated(
+    2000, "Measuring the Success of Software Process Improvement: The Dimensions",
+    display="abrahamsson",
+    authors="Abrahamsson, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Abrahamsson2000",
+    placex="Proceedings of the European Software Process Improvement (EuroSPI2000) Conference",
+))
+
 alloui2000a = DB(WorkUnrelated(
     2000, "Advanced services for process evolution: Monitoring and decision support",
     display="alloui",
@@ -30,6 +41,35 @@ arent2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_12",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+ares2000a = DB(WorkUnrelated(
+    2000, "A more rigorous and comprehensive approach to software process assessment",
+    display="ares",
+    authors="Ares, J. and Garcia, R. and Juristo, N. and Lopez, M. and Moreno, A.",
+    place=SPIP,
+    pp="3-30",
+    entrytype="article",
+    volume="5",
+    number="1",
+    note="cited By 13",
+    ID="Ares20003",
+    placex="Software Process: Improvement and Practice",
+))
+
+berry2000a = DB(WorkUnrelated(
+    2000, "Instrument for assessing software measurement programs",
+    display="berry",
+    authors="Berry, M. and Jeffery, R.",
+    place=ESE,
+    pp="183-200",
+    entrytype="article",
+    volume="5",
+    number="3",
+    doi="10.1023/A:1026534430984",
+    note="cited By 19",
+    ID="Berry2000183",
+    placex="Empirical Software Engineering",
 ))
 
 boehm2000a = DB(WorkUnrelated(
@@ -159,6 +199,21 @@ debou2000a = DB(WorkSnowball(
     placex="Software Process: Improvement and Practice",
 ))
 
+dybå2000a = DB(WorkUnrelated(
+    2000, "Instrument for measuring the key factors of success in software process improvement",
+    display="dybå",
+    authors="Dybå, T.",
+    place=ESE,
+    pp="357-390",
+    entrytype="article",
+    volume="5",
+    number="4",
+    doi="10.1023/A:1009800404137",
+    note="cited By 103",
+    ID="Dybå2000357",
+    placex="Empirical Software Engineering",
+))
+
 elliott2000a = DB(WorkUnrelated(
     2000, "Design of a product-focused customer-oriented process",
     display="elliott",
@@ -272,6 +327,9 @@ järvinen2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_24",
     springer="1",
     placex="Product Focused Software Process Improvement",
+    pp="269-302",
+    volume="1840",
+    note="cited By 1",
 ))
 
 kandé2000a = DB(WorkUnrelated(
@@ -389,6 +447,20 @@ mintzberg2000a = DB(WorkUnrelated(
     placex="Bookman",
 ))
 
+murugappan2000a = DB(WorkUnrelated(
+    2000, "Quality improvement - The Six Sigma way",
+    display="murugappan",
+    authors="Murugappan, M. and Keeni, G.",
+    place=FAKE,
+    pp="248-257",
+    entrytype="article",
+    doi="10.1109/APAQ.2000.883798",
+    art_number="883798",
+    note="cited By 14",
+    ID="Murugappan2000248",
+    placex="Proceedings - 1st Asia-Pacific Conference on Quality Software, APAQS 2000",
+))
+
 nasa2000a = DB(WorkUnrelated(
     2000, "Nasa hq library",
     display="nasa",
@@ -398,6 +470,20 @@ nasa2000a = DB(WorkUnrelated(
     note="cited By 1",
     ID="nasa2000",
     placex="http://www.hq.nasa.gov/office/hqlibrary/ppm/ppm31.htm",
+))
+
+norreklit2000a = DB(WorkUnrelated(
+    2000, "The balance on the balanced scorecard a critical analysis of some of its assumptions",
+    display="norreklit",
+    authors="Norreklit, Hanne",
+    place=FAKE,
+    pp="65--88",
+    entrytype="article",
+    volume="11",
+    number="1",
+    publisher="Elsevier",
+    ID="norreklit2000balance",
+    placex="Management accounting research",
 ))
 
 paulk2000a = DB(WorkUnrelated(
@@ -458,6 +544,20 @@ pitterman2000a = DB(WorkUnrelated(
     note="cited By 60",
     ID="Pitterman200089",
     placex="IEEE Software",
+))
+
+preston2000a = DB(WorkUnrelated(
+    2000, "Optimal number of response categories in rating scales: reliability, validity, discriminating power, and respondent preferences",
+    display="preston",
+    authors="Preston, Carolyn C and Colman, Andrew M",
+    place=FAKE,
+    pp="1--15",
+    entrytype="article",
+    volume="104",
+    number="1",
+    publisher="Elsevier",
+    ID="preston2000optimal",
+    placex="Acta psychologica",
 ))
 
 rayson2000a = DB(WorkUnrelated(
@@ -628,6 +728,31 @@ warboys2000a = DB(WorkUnrelated(
     ID="Warboys2000",
     springer="1",
     placex="Systems Engineering for Business Process Change: Collected Papers from the EPSRC Research Programme",
+))
+
+wohlin2000a = DB(WorkUnrelated(
+    2000, "Experimentation in software engineering: an introduction. 2000",
+    display="wohlin",
+    authors="Wohlin, C and Runeson, P and Host, M and Ohlsson, MC and Regnell, B and Wesslen, A",
+    place=FAKE,
+    entrytype="misc",
+    publisher="Kluwer Academic Publishers",
+    ID="wohlin2000experimentation",
+    placex="",
+))
+
+woodall2000a = DB(WorkUnrelated(
+    2000, "Controversies and contradictions in statistical process control",
+    display="woodall",
+    authors="Woodall, W.H.",
+    place=FAKE,
+    pp="341-350",
+    entrytype="article",
+    volume="32",
+    number="4",
+    note="cited By 261",
+    ID="Woodall2000341",
+    placex="Journal of Quality Technology",
 ))
 
 wright2000a = DB(WorkUnrelated(

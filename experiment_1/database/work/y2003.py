@@ -22,6 +22,21 @@ abran2003a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+achatz2003a = DB(WorkUnrelated(
+    2003, "Industrial strength software and quality: Software and engineering at Siemens",
+    display="achatz",
+    authors="Achatz, R. and Paulisch, F.",
+    place=FAKE,
+    pp="321-326",
+    entrytype="article",
+    volume="2003-January",
+    doi="10.1109/QSIC.2003.1319117",
+    art_number="1319117",
+    note="cited By 4",
+    ID="Achatz2003321",
+    placex="Proceedings - International Conference on Quality Software",
+))
+
 aida2003a = DB(WorkUnrelated(
     2003, "Program generation for application domain users by selecting model candidates",
     display="aida",
@@ -32,6 +47,17 @@ aida2003a = DB(WorkUnrelated(
     organization="Springer",
     ID="aida2003program",
     placex="International Symposium on Methodologies for Intelligent Systems",
+))
+
+bailey2003a = DB(WorkUnrelated(
+    2003, "PSM Guide 4.0b Part 1",
+    display="bailey",
+    authors="Bailey, E. and Jones, C. and Card, D. and Layman, B. and Dean, J. and McGarry, J. and Hall, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Bailey2003",
+    placex="PSM",
 ))
 
 boehm2003a = DB(WorkUnrelated(
@@ -105,6 +131,21 @@ card2003b = DB(WorkUnrelated(
     note="cited By 4",
     ID="Card2003362",
     placex="Proceedings - IEEE Computer Society's International Computer Software and Applications Conference",
+))
+
+card2003c = DB(WorkUnrelated(
+    2003, "Status report: Practical software measurement",
+    display="card c",
+    authors="Card, D.N. and Jones, C.L.",
+    place=FAKE,
+    pp="315-320",
+    entrytype="article",
+    volume="2003-January",
+    doi="10.1109/QSIC.2003.1319116",
+    art_number="1319116",
+    note="cited By 3",
+    ID="Card2003315",
+    placex="Proceedings - International Conference on Quality Software",
 ))
 
 cechich2003a = DB(WorkUnrelated(
@@ -297,6 +338,17 @@ goethert2003a = DB(WorkUnrelated(
     placex="Deriving Enterprise-based Measures Using the Balanced Scorecard and Goal-driven Measurement Techniques",
 ))
 
+goldenson2003a = DB(WorkUnrelated(
+    2003, "Demonstrating the impact and benefits of CMMI: An update and preliminary results",
+    display="goldenson",
+    authors="Goldenson, D.R. and Gibson, D.L.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 69",
+    ID="Goldenson2003",
+    placex="Demonstrating the Impact and Benefits of CMMI: An Update and Preliminary Results",
+))
+
 halling2003a = DB(WorkUnrelated(
     2003, "An economic approach for improving requirements negotiation models with inspection",
     display="halling",
@@ -346,6 +398,21 @@ isoiec2003b = DB(WorkUnrelated(
     note="cited By 251",
     ID="isoiec2003",
     placex="ISO/IEC 15504:2003. International Standards Organization",
+))
+
+iversen2003a = DB(WorkUnrelated(
+    2003, "Cultivation and engineering of a software metrics program",
+    display="iversen",
+    authors="Iversen, J. and Mathiassen, L.",
+    place=FAKE,
+    pp="3-19",
+    entrytype="article",
+    volume="13",
+    number="1",
+    doi="10.1046/j.1365-2575.2003.00136.x",
+    note="cited By 22",
+    ID="Iversen20033",
+    placex="Information Systems Journal",
 ))
 
 jedlitschka2003a = DB(WorkUnrelated(
@@ -481,6 +548,21 @@ mcfall2003a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 10",
     ID="McFall2003",
+))
+
+moreau2003a = DB(WorkUnrelated(
+    2003, "Software quality improvement in France telecom research center",
+    display="moreau",
+    authors="Moreau, B. and Lassudrie, C. and Nicolas, B. and I'Homme, O. and D'Anterroches, C. and Le Gall, G.",
+    place=SPIP,
+    pp="135-144",
+    entrytype="article",
+    volume="8",
+    number="3",
+    doi="10.1002/spip.176",
+    note="cited By 3",
+    ID="Moreau2003135",
+    placex="Software Process Improvement and Practice",
 ))
 
 murugappan2003a = DB(WorkSnowball(

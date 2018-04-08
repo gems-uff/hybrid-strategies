@@ -1,0 +1,95 @@
+﻿Scopus
+EXPORT DATE: 8 April 2018
+
+@ARTICLE{Basili201057,
+author={Basili, V.R. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.},
+title={Linking software development and business strategy through measurement},
+journal={Computer},
+year={2010},
+volume={43},
+number={4},
+pages={57-65},
+doi={10.1109/MC.2010.108},
+art_number={5445168},
+note={cited By 73},
+}
+
+@ARTICLE{Münch2009435,
+author={Münch, J. and Heidrich, J. and Mandić, V.},
+title={Business alignment: Measurement-based alignment of software strategies and business goals},
+journal={Lecture Notes in Business Information Processing},
+year={2009},
+volume={32 LNBIP},
+pages={435-436},
+doi={10.1007/978-3-642-02152-7_34},
+note={cited By 1},
+}
+
+@CONFERENCE{Mandić2010,
+author={Mandić, V. and Basili, V. and Harjumaa, L. and Oivo, M. and Markkula, J.},
+title={Utilizing GQM+strategies for business value analysis: An approach for evaluating business goals},
+journal={ESEM 2010 - Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement},
+year={2010},
+doi={10.1145/1852786.1852813},
+art_number={1852813},
+note={cited By 13},
+}
+
+@CONFERENCE{Basili2007,
+author={Basili, V. and Lindvall, M. and Regardie, M. and Seaman, C. and Heidrich, J. and Münch, J. and Rombach, D. and Trendowicz, A.},
+title={Bridging the gap between business strategy and software development},
+journal={ICIS 2007 Proceedings - Twenty Eighth International Conference on Information Systems},
+year={2007},
+note={cited By 16},
+}
+
+@ARTICLE{Basili2014,
+author={Basili, V. and Trendowicz, A. and Kowalczyk, M. and Heidrich, J. and Seaman, C. and Münch, J. and Rombach, D.},
+title={Aligning organizations through measurement: The GQM+strategies approach, ser.},
+journal={Aligning Organizations Through Measurement: The GQM+Strategies Approach},
+year={2014},
+note={cited By 30},
+}
+
+@CONFERENCE{Sarcia'2010,
+author={Sarcia', S.A.},
+title={Is GQM+strategies really applicable as is to non-software development domains?},
+journal={ESEM 2010 - Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement},
+year={2010},
+doi={10.1145/1852786.1852844},
+art_number={1852844},
+note={cited By 10},
+}
+
+@ARTICLE{Asghari2012,
+author={Asghari, N.},
+journal={Thesis: Evaluating GQM+ Strategies Framework for Planning Measurement System},
+year={2012},
+note={cited By 1},
+}
+
+@ARTICLE{Jenkins2012,
+author={Jenkins, M. and Martínez, A. and López, G.},
+title={A quality assurance experience in a Systems Unit},
+journal={de Latin American Congress on Requirements Engineering & Software Testing},
+year={2012},
+note={cited By 1},
+}
+
+@ARTICLE{Chrissis2011,
+author={Chrissis, M.B. and Konrad, M. and Shrum, S.},
+title={CMMI for Development: Guidelines for Process Integration and Product Improvement},
+journal={CMMI for Development: Guidelines for Process Integration and Product Improvement},
+year={2011},
+note={cited By 130},
+}
+
+@ARTICLE{Basili20091,
+author={Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Seaman, C. and Regardie, M.},
+title={Determining the impact of business strategies using principles from goal-oriented measurement},
+journal={Internationale Tagung Wirtschaftsinformatik},
+year={2009},
+volume={9},
+pages={1-10},
+note={cited By 3},
+}
