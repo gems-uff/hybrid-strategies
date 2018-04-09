@@ -469,6 +469,17 @@ veryard1998a = DB(WorkUnrelated(
     scopus="1",
 ))
 
+weiss1998a = DB(WorkUnrelated(
+    1998, "Predictive Data Mining: A Practical Guide",
+    display="weiss",
+    authors="Weiss, S.M. and Indurkhya, N.",
+    place=MK,
+    entrytype="article",
+    note="cited By 313",
+    ID="Weiss1998",
+    placex="Morgan Kaufmann",
+))
+
 zahran1998a = DB(WorkUnrelated(
     1998, "Software Process Improvement: Practical Guidelines for Business Success",
     display="zahran",

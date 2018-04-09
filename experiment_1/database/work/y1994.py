@@ -16,6 +16,19 @@ basili1994a = DB(WorkUnrelated(
     ID="Basili1994528",
 ))
 
+basili1994b = DB(WorkUnrelated(
+    1994, "The Experience Factory",
+    display="basili b",
+    authors="Basili, V.R. and Caldiera, G. and Rombach, H.D.",
+    place=FAKE,
+    pp="469-476",
+    entrytype="article",
+    volume="1",
+    note="cited By 1411",
+    ID="Basili1994",
+    placex="Encyclopedia of Software Engineering",
+))
+
 brodman1994a = DB(WorkUnrelated(
     1994, "What small businesses and small organizations say about the CMM",
     display="brodman",

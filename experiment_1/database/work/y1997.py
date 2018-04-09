@@ -271,6 +271,7 @@ offen1997a = DB(WorkUnrelated(
     doi="10.1109/52.582974",
     note="cited By 58",
     ID="Offen199745",
+    placex="IEEE Software",
 ))
 
 pfleeger1997a = DB(WorkUnrelated(

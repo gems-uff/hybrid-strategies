@@ -1,0 +1,136 @@
+Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{Basili1984728,
+author={Basili, V.R. and Weiss, D.M.},
+title={A Methodology for Collecting Valid Software Engineering Data},
+journal={IEEE Transactions on Software Engineering},
+year={1984},
+volume={SE-10},
+number={6},
+pages={728-738},
+doi={10.1109/TSE.1984.5010301},
+note={cited By 497},
+}
+
+@CONFERENCE{Basili1989471,
+author={Basili, Victor R.},
+title={Software development: A paradigm for the future},
+journal={Proceedings - IEEE Computer Society's International Computer Software & Applications Conference},
+year={1989},
+pages={471-485},
+note={cited By 40},
+}
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1411},
+}
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1411},
+}
+
+@ARTICLE{Becker199946,
+author={Becker, S.A. and Bostelman, M.L.},
+title={Aligning strategic and project measurement systems},
+journal={IEEE Software},
+year={1999},
+volume={16},
+number={3},
+pages={46-51},
+doi={10.1109/52.765786},
+note={cited By 19},
+}
+
+@CONFERENCE{Bianchi2001217,
+author={Bianchi, A.J.},
+title={Management indicators model to evaluate performance of IT organizations},
+journal={PICMET},
+year={2001},
+pages={217-229},
+note={cited By 14},
+}
+
+@ARTICLE{Buglione2000,
+author={Buglione, L. and Abran, A.},
+title={Balanced Scorecards and GQM: What are the differences?},
+journal={Proceedings of the FESMA/AEMES Software Measurement Conference},
+year={2000},
+note={cited By 3},
+}
+
+@CONFERENCE{Card2003362,
+author={Card, D.},
+title={Integrating Practical Software Measurement and the Balanced Scorecard},
+journal={Proceedings - IEEE Computer Society's International Computer Software and Applications Conference},
+year={2003},
+pages={362-367},
+note={cited By 4},
+}
+
+@ARTICLE{Chrissis2003,
+author={Chrissis, M.B. and Konrad, M. and Shrum, S.},
+journal={CMMI: Guidelines for Process Integration and Product Improvement},
+year={2003},
+note={cited By 691},
+}
+
+@ARTICLE{NoAuthor2005,
+journal={Control Objectives for Information and Related Technology},
+year={2005},
+note={cited By 122},
+}
+
+@ARTICLE{Kaplan199271,
+author={Kaplan, R.S. and Norton, D.P.},
+title={The balanced scorecard--measures that drive performance.},
+journal={Harvard Business Review},
+year={1992},
+volume={70},
+number={1},
+pages={71-79},
+note={cited By 5464},
+}
+
+@ARTICLE{Offen199745,
+author={Offen, R.J. and Jeffery, R.},
+title={Establishing software measurement programs},
+journal={IEEE Software},
+year={1997},
+volume={14},
+number={2},
+pages={45-53},
+doi={10.1109/52.582974},
+note={cited By 58},
+}
+
+@ARTICLE{NoAuthor2002,
+journal={The IT Infrastructure Library (ITIL) Service Delivery},
+year={2002},
+note={cited By 4},
+}
+
+@ARTICLE{NoAuthor2003,
+journal={Practical Software and Systems Measurement: A Foundation for Objective Project Management},
+year={2003},
+note={cited By 8},
+}
+
+@ARTICLE{Weiss1998,
+author={Weiss, S.M. and Indurkhya, N.},
+journal={Predictive Data Mining: A Practical Guide},
+year={1998},
+note={cited By 313},
+}

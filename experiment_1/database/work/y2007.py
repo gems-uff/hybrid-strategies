@@ -193,6 +193,17 @@ chen2007a = DB(WorkUnrelated(
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
+cobit2007a = DB(WorkUnrelated(
+    2007, "Control Objectives for Information and Related Technology",
+    display="cobit",
+    authors="cobit",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 122",
+    ID="cobit2007",
+    placex="ISACA",
+))
+
 coleman2007a = DB(WorkUnrelated(
     2007, "Using grounded theory to understand software process improvement: A study of Irish software product companies",
     display="coleman",

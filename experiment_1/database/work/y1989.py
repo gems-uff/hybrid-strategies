@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+basili1989a = DB(WorkUnrelated(
+    1989, "Software development: A paradigm for the future",
+    display="basili",
+    authors="Basili, Victor R.",
+    place=FAKE,
+    pp="471-485",
+    entrytype="conference",
+    note="cited By 40",
+    ID="Basili1989471",
+    placex="Proceedings - IEEE Computer Society's International Computer Software & Applications Conference",
+))
+
 humphrey1989a = DB(WorkUnrelated(
     1989, "Managing the software process",
     display="humphrey",
