@@ -730,6 +730,17 @@ karg2011a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+kowalczyk2011a = DB(WorkUnrelated(
+    2011, "A deployment process for strategic measurement systems",
+    display="kowalczyk",
+    authors="Kowalczyk, M. and Barthel, H. and Münch, J. and Heidrich, J. and Trendowicz, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Kowalczyk2011",
+    placex="Proc. 8th Software Measurement European Forum (SMEF'2011)",
+))
+
 krasner2011a = DB(WorkUnrelated(
     2011, "Accumulating the body of evidence for the payoff of software process improvernent1997",
     display="krasner",

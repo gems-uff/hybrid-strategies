@@ -232,6 +232,19 @@ krasner1994a = DB(WorkUnrelated(
     placex="x",
 ))
 
+krasner1994b = DB(WorkUnrelated(
+    1994, "The payoff for SPI: What it is and how to get it",
+    display="krasner b",
+    authors="Krasner, H.",
+    place=FAKE,
+    pp="1-6",
+    entrytype="article",
+    volume="1",
+    note="cited By 3",
+    ID="Krasner19941",
+    placex="IEEE Computer Society",
+))
+
 kuvaja1994a = DB(WorkUnrelated(
     1994, "Software Process Assessment and Improvement: The BOOTSTRAP Approach",
     display="kuvaja",

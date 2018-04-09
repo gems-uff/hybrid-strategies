@@ -225,6 +225,20 @@ iversen1998a = DB(WorkUnrelated(
     placex="Proceedings of the 6th European Conference on Information Systems (ECIS)",
 ))
 
+klein1998a = DB(WorkUnrelated(
+    1998, "If you get straight A's, you must be intelligent - Respecting the intent of the capability maturity model",
+    display="klein",
+    authors="Klein, D.",
+    place=FAKE,
+    pp="22-23",
+    entrytype="article",
+    volume="11",
+    number="2",
+    note="cited By 3",
+    ID="Klein199822",
+    placex="Crosstalk: Journal of Defense Software Engineering",
+))
+
 kontio1998a = DB(WorkUnrelated(
     1998, "A Software Process Engineering Framework",
     display="kontio",

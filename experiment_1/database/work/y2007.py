@@ -354,6 +354,17 @@ garmus2007a = DB(WorkUnrelated(
     placex="SoftwareTech",
 ))
 
+gartner2007a = DB(WorkUnrelated(
+    2007, "Gartner Executive Programs (EXP)",
+    display="gartner",
+    authors="gartner",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="gartner2007",
+    placex="Survey",
+))
+
 ghose2007a = DB(WorkUnrelated(
     2007, "Process discovery from model and text artefacts",
     display="ghose",
@@ -670,6 +681,17 @@ ordóñez2007a = DB(WorkUnrelated(
     ID="RuizOrdonez:2007:SRA:1329125.1329331",
     acm="1",
     placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
+))
+
+orlov2007a = DB(WorkUnrelated(
+    2007, "Debunking Alignment Nirvana",
+    display="orlov",
+    authors="Orlov, L.M. and Cameron, B. and Cullen, A. and Symons, C. and Belange, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Orlov2007",
+    placex="Forrester",
 ))
 
 pan2007a = DB(WorkUnrelated(

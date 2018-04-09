@@ -1,0 +1,179 @@
+﻿Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{Rausch2008,
+author={Rausch, A. and Broy, M. and Höhn, R. and Bergner, K. and Höppner, S.},
+journal={Das V-Modell XT: Grundlagen, Methodik und Anwendungen},
+year={2008},
+note={cited By 7},
+}
+
+@ARTICLE{NoAuthor2010,
+title={CMMI for development, version 1.3},
+journal={CMMI for Development, Version 1.3},
+year={2010},
+note={cited By 189},
+}
+
+@ARTICLE{Takeuchi1986137,
+author={Takeuchi, H. and Nonaka, I.},
+title={The new product development game},
+journal={Harvard Business Review},
+year={1986},
+volume={64},
+number={1},
+pages={137-146},
+note={cited By 740},
+}
+
+@ARTICLE{Beck2000,
+author={Beck, K.},
+journal={Extreme Programming Explained: Embrace Change},
+year={2000},
+note={cited By 4126},
+}
+
+@ARTICLE{Armbrust201026,
+author={Armbrust, O.},
+title={Determining organization-specific process suitability},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6195 LNCS},
+pages={26-38},
+doi={10.1007/978-3-642-14347-2_4},
+note={cited By 3},
+}
+
+@ARTICLE{Boehm20101,
+author={Boehm, B.W.},
+title={A risk-driven decision table for software process selection},
+journal={Lecture Notes in Computer Science},
+year={2010},
+pages={1},
+note={cited By 3},
+}
+
+@ARTICLE{Fenton2002116,
+author={Fenton, N. and Krause, P. and Neil, M.},
+title={Software measurement: Uncertainty and causal modeling},
+journal={IEEE Software},
+year={2002},
+volume={19},
+number={4},
+pages={116-122},
+doi={10.1109/MS.2002.1020298},
+note={cited By 117},
+}
+
+@ARTICLE{Raffo1999163,
+author={Raffo, D.M. and Vandeville, J.V. and Martin, R.H.},
+title={Software process simulation to achieve higher CMM levels},
+journal={Journal of Systems and Software},
+year={1999},
+volume={46},
+number={2},
+pages={163-172},
+doi={10.1016/S0164-1212(99)00009-6},
+note={cited By 41},
+}
+
+@ARTICLE{Raffo200031,
+author={Raffo, D.M. and Kellner, M.I.},
+title={Empirical analysis in software process simulation modeling},
+journal={Journal of Systems and Software},
+year={2000},
+volume={53},
+number={1},
+pages={31-41},
+doi={10.1016/S0164-1212(00)00006-6},
+note={cited By 28},
+}
+
+@ARTICLE{Basili2009545,
+author={Basili, V.R. and Heidrich, J. and Lindvall, M. and Münch, J. and Seanian, C. and Regardie, M. and Trendowicz, A.},
+title={Determining the impact of business strategies using principles from goal-oriented measurement},
+journal={Wirtschaftsinformatik},
+year={2009},
+volume={246},
+number={1},
+pages={545-554},
+note={cited By 6},
+}
+
+@ARTICLE{Dickmann2007272,
+author={Dickmann, C. and Klein, H. and Birkhölzer, T. and Fietz, W. and Vaupel, J. and Meyer, L.},
+title={Deriving a valid process simulation from real world experiences},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2007},
+volume={4470 LNCS},
+pages={272-282},
+note={cited By 5},
+}
+
+@ARTICLE{Ast2010,
+author={Ast, S. and Russwurm, W. and Birkhölzer, T.},
+title={Driver tree - An experience simulation model for process improvement},
+journal={SEPG North America},
+year={2010},
+note={cited By 1},
+}
+
+@ARTICLE{Esfahani2010163,
+author={Esfahani, H.C. and Yu, E.},
+title={A repository of agile method fragments},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2010},
+volume={6195 LNCS},
+pages={163-174},
+doi={10.1007/978-3-642-14347-2_15},
+note={cited By 14},
+}
+
+@ARTICLE{Moore1966,
+author={Moore, R.E.},
+journal={Interval Analysis},
+year={1966},
+note={cited By 3260},
+}
+
+@ARTICLE{Birkhölzer2008304,
+author={Birkhölzer, T. and Dickmann, C. and Klein, H. and Vaupel, J. and Ast, S. and Meyer, L.},
+title={Customized predictive models for process improvement projects},
+journal={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+year={2008},
+volume={5089 LNCS},
+pages={304-316},
+doi={10.1007/978-3-540-69566-0_25},
+note={cited By 2},
+}
+
+@ARTICLE{NoAuthor2011,
+year={2011},
+note={cited By 1},
+}
+
+@ARTICLE{Luenberger1984,
+author={Luenberger, D.G.},
+journal={Linear and Nonlinear Programming},
+year={1984},
+note={cited By 3783},
+}
+
+@ARTICLE{Beck2003,
+author={Beck, K.},
+journal={Test Driven Development: By Example},
+year={2003},
+note={cited By 1070},
+}
+
+@ARTICLE{Erdogmus2005226,
+author={Erdogmus, H. and Morisio, M. and Torchiano, M.},
+title={On the effectiveness of the test-first approach to programming},
+journal={IEEE Transactions on Software Engineering},
+year={2005},
+volume={31},
+number={3},
+pages={226-237},
+doi={10.1109/TSE.2005.37},
+note={cited By 166},
+}

@@ -502,6 +502,17 @@ isaca2008a = DB(WorkUnrelated(
     placex="IT Governance Institute",
 ))
 
+isaca2008b = DB(WorkUnrelated(
+    2008, "Control Objectives for Information and related Technology (COBIT)",
+    display="isaca b",
+    authors="isaca",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="isaca2008",
+    placex="ISACA",
+))
+
 isoiec2008a = DB(WorkUnrelated(
     2008, "Quality management systemsrequirements, international standards organization",
     display="isoiec",

@@ -1,0 +1,58 @@
+﻿Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{Basili1984728,
+author={Basili, V.R. and Weiss, D.M.},
+title={A Methodology for Collecting Valid Software Engineering Data},
+journal={IEEE Transactions on Software Engineering},
+year={1984},
+volume={SE-10},
+number={6},
+pages={728-738},
+doi={10.1109/TSE.1984.5010301},
+note={cited By 497},
+}
+
+@ARTICLE{Basili1994528,
+author={Basili, V.R. and Caldiera, G. and Rombach, H.D.},
+title={Goal question metric paradigm},
+journal={Encyclopedia of Software Engineering},
+year={1994},
+volume={1},
+pages={528-532},
+note={cited By 1411},
+}
+
+@ARTICLE{Chrissis2003,
+author={Chrissis, M.B. and Konrad, M. and Shrum, S.},
+journal={CMMI: Guidelines for Process Integration and Product Improvement},
+year={2003},
+note={cited By 691},
+}
+
+@ARTICLE{NoAuthor2008,
+year={2008},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2008,
+title={Control Objectives for Information and related Technology (COBIT®), retrieved 04/12/2007, from},
+year={2008},
+note={cited By 1},
+}
+
+@ARTICLE{Kaplan199271,
+author={Kaplan, R.S. and Norton, D.P.},
+title={The balanced scorecard--measures that drive performance.},
+journal={Harvard Business Review},
+year={1992},
+volume={70},
+number={1},
+pages={71-79},
+note={cited By 5464},
+}
+
+@ARTICLE{NoAuthor2008,
+year={2008},
+note={cited By 1},
+}

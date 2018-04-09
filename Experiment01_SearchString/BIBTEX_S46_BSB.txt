@@ -1,0 +1,165 @@
+Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{Akao1990,
+author={Akao, Y.},
+journal={Quality Function Deployment: Integrating Customer Requirements into Product Design},
+year={1990},
+note={cited By 1476},
+}
+
+@ARTICLE{Akao1998,
+author={Akao, Y. and Hayazaki, T.},
+title={Environmental management system on ISO 14000 combined with QFD},
+journal={Transactions of the Tenth Symposium on QFD},
+year={1998},
+note={cited By 1},
+}
+
+@ARTICLE{Akao1998,
+author={Akao, Y. and Mazur, G.},
+title={Using QFD to assure QS9000 compliance},
+journal={4th International Symposium on Quality Function Deployment},
+year={1998},
+note={cited By 2},
+}
+
+@ARTICLE{Bamberger1997112,
+author={Bamberger, J.},
+title={Essence of the capability maturity model},
+journal={Computer},
+year={1997},
+volume={30},
+number={6},
+pages={112-114},
+doi={10.1109/2.587560},
+note={cited By 22},
+}
+
+@ARTICLE{Hierholzer199885,
+author={Hierholzer, A. and Herzwurm, G. and Schlang, H.},
+title={Applying QFD for software process improvement at SAP AG},
+journal={Proceedings of the World Innovation and Strategy Conference},
+year={1998},
+pages={85-95},
+note={cited By 5},
+}
+
+@ARTICLE{Hyde2004217,
+author={Hyde, K. and Wilson, D.},
+title={Intangible benefits of CMM-based software process improvement},
+journal={Software Process Improvement and Practice},
+year={2004},
+volume={9},
+number={4},
+pages={217-228},
+doi={10.1002/spip.205},
+note={cited By 21},
+}
+
+@ARTICLE{Klein199822,
+author={Klein, D.},
+title={If you get straight A's, you must be intelligent - Respecting the intent of the capability maturity model},
+journal={Crosstalk: Journal of Defense Software Engineering},
+year={1998},
+volume={11},
+number={2},
+pages={22-23},
+note={cited By 3},
+}
+
+@ARTICLE{Krasner19941,
+author={Krasner, H.},
+title={The payoff for SPI: What it is and how to get it},
+journal={IEEE Computer Society},
+year={1994},
+volume={1},
+pages={1-6},
+note={cited By 3},
+}
+
+@ARTICLE{Liu1998105,
+author={Liu, X.F.},
+title={A quantitative approach for assessing the priorities of software quality requirements},
+journal={Journal of Systems and Software},
+year={1998},
+volume={42},
+number={2},
+pages={105-113},
+note={cited By 23},
+}
+
+@ARTICLE{Liu2003,
+author={Liu, X. and Inuganti, P. and Veera, C.},
+title={An integration methodology for software quality function deployment},
+journal={Report to the Toshiba Corporation},
+year={2003},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2007,
+year={2007},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2007,
+year={2007},
+note={cited By 1},
+}
+
+@ARTICLE{NoAuthor2007,
+year={2007},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk1995,
+author={Paulk, M.C. and Weber, C.V. and Curtis, B. and Chrissis, M.B.},
+title={The capability maturity model: Guidelines for improving the software process},
+journal={The Capability Maturity Model: Guidelines for Improving the Software Process},
+year={1995},
+note={cited By 993},
+}
+
+@ARTICLE{Richardson1997,
+author={Richardson, I.},
+title={Quality function deployment - a software process tool?},
+journal={Third Annual International QFD Symposium},
+year={1997},
+note={cited By 5},
+}
+
+@ARTICLE{Richardson200225,
+author={Richardson, I. and Murphy, E. and Ryan, K.},
+title={Development of generic quality function deployment matrix},
+journal={Quality Management Journal},
+year={2002},
+volume={9},
+number={2},
+pages={25-43},
+note={cited By 6},
+}
+
+@ARTICLE{Saaty1990,
+author={Saaty, T.L.},
+journal={Multicriteria Decision Making: The Analytic Hierarchy Process. AHP Series},
+year={1990},
+volume={1},
+note={cited By 1},
+}
+
+@ARTICLE{Zultner1992297,
+author={Zultner, R.E.},
+title={Quality function deployment (QFD) for software: Structured requirements exploration},
+journal={Total Quality Management for Software},
+year={1992},
+pages={297-319},
+note={cited By 16},
+}
+
+@ARTICLE{Zultner1995,
+author={Zultner, R.},
+title={Business process reengineering with quality function deployment: Process innovation for software development},
+journal={7th Symposium on QFD},
+year={1995},
+note={cited By 2},
+}

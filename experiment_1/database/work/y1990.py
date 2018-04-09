@@ -127,6 +127,18 @@ rifkin1990a = DB(WorkUnrelated(
     ID="Rifkin1990",
 ))
 
+saaty1990a = DB(WorkUnrelated(
+    1990, "Multicriteria Decision Making: The Analytic Hierarchy Process. AHP Series",
+    display="saaty",
+    authors="Saaty, T.L.",
+    place=FAKE,
+    entrytype="article",
+    volume="1",
+    note="cited By 1",
+    ID="Saaty1990",
+    placex="RWS Publications: Pittsburgh, PA",
+))
+
 senge1990a = DB(WorkUnrelated(
     1990, "The Fifth Discipline: The Art and Practice of the Learning Organization",
     display="senge",

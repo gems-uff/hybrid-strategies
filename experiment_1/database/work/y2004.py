@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+accenture2004a = DB(WorkUnrelated(
+    2004, "Managing IT investments in the high-performance business",
+    display="accenture",
+    authors="accenture",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="accenture2004",
+    placex="Strategic Information Technology Effectiveness (SITE)",
+))
+
 anacleto2004a = DB(WorkUnrelated(
     2004, "A method for process assessment in small software companies",
     display="anacleto",

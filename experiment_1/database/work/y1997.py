@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bamberger1997a = DB(WorkUnrelated(
+    1997, "Essence of the capability maturity model",
+    display="bamberger",
+    authors="Bamberger, J.",
+    place=C,
+    pp="112-114",
+    entrytype="article",
+    volume="30",
+    number="6",
+    doi="10.1109/2.587560",
+    note="cited By 22",
+    ID="Bamberger1997112",
+    placex="Computer",
+))
+
 becker1997a = DB(WorkUnrelated(
     1997, "MVP-E: A Process Modeling Environment",
     display="becker",

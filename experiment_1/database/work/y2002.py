@@ -677,6 +677,17 @@ potter2002a = DB(WorkUnrelated(
     placex="",
 ))
 
+psmsc2002a = DB(WorkUnrelated(
+    2002, "Practical Software Measurement: A Foundation for Objective Project Management",
+    display="psmsc",
+    authors="psmsc",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="psmsc2002",
+    placex="PSMSC",
+))
+
 punter2002a = DB(WorkUnrelated(
     2002, "Evaluating Evolutionary Software Systems",
     display="punter",
@@ -804,6 +815,19 @@ simon2002ab = DB(WorkUnrelated(
     note="cited By 11",
     ID="Simon2002",
     placex="Campus, Frankfurt/Main (in German)",
+))
+
+solingen2002a = DB(WorkUnrelated(
+    2002, "Goal question metric (GQM) approach",
+    display="solingen",
+    authors="Van Solingen, R. and Basili, V. and Caldiera, G. and Rombach, H.D.",
+    place=FAKE,
+    pp="578-583",
+    entrytype="article",
+    number="1",
+    note="cited By 62",
+    ID="VanSolingen2002578",
+    placex="Encyclopedia of Software Engineering",
 ))
 
 solon2002a = DB(WorkUnrelated(
