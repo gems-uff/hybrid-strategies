@@ -332,6 +332,28 @@ fröhlich2001a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+garmus2001a = DB(WorkUnrelated(
+    2001, "Function Point Analysis: Measurement Practices for Successful Software Projects",
+    display="garmus",
+    authors="Garmus, D. and Herron, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 130",
+    ID="Garmus2001",
+    placex="Addison-Wesley, Reading",
+))
+
+goyal2001a = DB(WorkUnrelated(
+    2001, "ROI for SPI: Lessons from initiatives at IBM global services India",
+    display="goyal",
+    authors="Goyal, A. and Kanungo, S. and Muthu, V. and Jayadevan, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Goyal2001",
+    placex="SEPG 2001",
+))
+
 hall2001a = DB(WorkUnrelated(
     2001, "Measurement in Software Process Improvement Programmes: An Empirical Study",
     display="hall",
@@ -454,6 +476,17 @@ hunter2001b = DB(WorkUnrelated(
     ID="5989252",
     ieee="1",
     placex="Software Process Improvement",
+))
+
+iso2001a = DB(WorkUnrelated(
+    2001, "Software engineering-Product quality-Part 1: Quality model",
+    display="iso",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso2001",
+    placex="ISO/IEC 9126-1:2001",
 ))
 
 jing2001a = DB(WorkUnrelated(

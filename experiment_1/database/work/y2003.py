@@ -323,6 +323,17 @@ fitzgerald2003a = DB(WorkUnrelated(
     placex="Communications of the ACM",
 ))
 
+frank2003a = DB(WorkUnrelated(
+    2003, "An integration methodology for software quality function deployment",
+    display="frank",
+    authors="Frank, L.X. and Inuganti, P. and Sekhar, V.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Frank2003",
+    placex="Final Project Report to the Toshiba Corporation",
+))
+
 gack2003a = DB(WorkUnrelated(
     2003, "Integrating improvement initiatives: connecting Six Sigma for software, CMMI, personal software process and team software process",
     display="gack",

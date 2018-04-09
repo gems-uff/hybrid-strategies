@@ -171,6 +171,17 @@ iso1994c = DB(WorkUnrelated(
     placex="International Standards Organization: International Standards Organization",
 ))
 
+iso1994d = DB(WorkUnrelated(
+    1994, "ISO: ISO 9000-9003 International Standards Organization",
+    display="iso d",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso1994",
+    placex="ISO 9000-9003",
+))
+
 jm1994a = DB(WorkUnrelated(
     1994, "Designing funded qualitative research",
     display="jm",
@@ -280,6 +291,17 @@ paulk1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Paulk1994",
     placex="Technical Report, CMU/SEI-94-TR-12, ESC-TR-94-12",
+))
+
+paulk1994b = DB(WorkUnrelated(
+    1994, "A comparison of ISO 9001 and the capability maturity model for software",
+    display="paulk b",
+    authors="Paulk, M.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 38",
+    ID="Paulk1994",
+    placex="A Comparison of ISO 9001 and the Capability Maturity Model for Software",
 ))
 
 pfleeger1994a = DB(WorkUnrelated(

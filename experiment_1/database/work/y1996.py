@@ -159,6 +159,17 @@ hather1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+houston1996a = DB(WorkUnrelated(
+    1996, "Cost of software quality: A means of promoting software process improvement",
+    display="houston",
+    authors="Houston, D. and Keats, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Houston1996",
+    placex="Cost of Software Quality: A Means of Promoting Software Process Improvement",
+))
+
 jones1996a = DB(WorkUnrelated(
     1996, "Economics of software process improvement",
     display="jones",

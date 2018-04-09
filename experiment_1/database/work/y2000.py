@@ -353,6 +353,17 @@ iso2000a = DB(WorkUnrelated(
     placex="International Standards Organization: International Standards Organization",
 ))
 
+iso2000b = DB(WorkUnrelated(
+    2000, "ISO: ISO 9001:2000. International Standards Organization",
+    display="iso b",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso2000",
+    placex="ISO 9001:2000",
+))
+
 jaccheri2000a = DB(WorkUnrelated(
     2000, "Software process technology and software organisations",
     display="jaccheri",

@@ -723,6 +723,17 @@ nguyen2004a = DB(WorkUnrelated(
     placex="Software Engineering and Formal Methods, 2004. SEFM 2004. Proceedings of the Second International Conference on",
 ))
 
+oecd2004a = DB(WorkUnrelated(
+    2004, "Organization for Economic Cooperation and Development: OECD Information Technology Outlook",
+    display="oecd",
+    authors="OECD",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 442",
+    ID="OECD2004",
+    placex="Organization for Economic Cooperation and Development",
+))
+
 pedersen2004a = DB(WorkUnrelated(
     2004, "Software Thinking Improvement Learning Performance Improving Lessons",
     display="pedersen",

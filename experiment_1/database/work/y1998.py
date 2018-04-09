@@ -3,6 +3,28 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+akao1998a = DB(WorkUnrelated(
+    1998, "Using QFD to assure QS9000 compliance",
+    display="akao",
+    authors="Akao, Y. and Mazur, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Akao1998",
+    placex="4th International Symposium on Quality Function Deployment",
+))
+
+akao1998b = DB(WorkUnrelated(
+    1998, "Envirosnmental Management System On ISO 14000 Combined With QFD",
+    display="akao b",
+    authors="Akao, Y. and Hayazaki, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Akao1998",
+    placex="Transactions of the Tenth Symposium on QFD",
+))
+
 birk1998a = DB(WorkUnrelated(
     1998, "PROFES - A product driven process improvement methodology",
     display="birk",
@@ -235,6 +257,20 @@ latum1998a = DB(WorkUnrelated(
     note="cited By 55",
     ID="VanLatum199878",
     placex="IEEE Software",
+))
+
+liu1998a = DB(WorkUnrelated(
+    1998, "A quantitative approach for assessing the priorities of software quality requirements",
+    display="liu",
+    authors="Liu, X.F.",
+    place=JSS,
+    pp="105-113",
+    entrytype="article",
+    volume="42",
+    number="2",
+    note="cited By 23",
+    ID="Liu1998105",
+    placex="Journal of Systems and Software",
 ))
 
 mcconnell1998a = DB(WorkUnrelated(

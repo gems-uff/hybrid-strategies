@@ -212,6 +212,17 @@ paulk1993d = DB(WorkUnrelated(
     placex="Version 1.1. Technical Report. CMU/SEI-93-TR-025, ESC-TR-93-178, February, 1993",
 ))
 
+paulk1993e = DB(WorkUnrelated(
+    1993, "Key Practices of the Capability Maturity Model, Version 1.1.",
+    display="paulk e",
+    authors="Paulk, M.C. and Curtis, B. and Chrissis, M.B. and Weber, C.V.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1011",
+    ID="Paulk1993",
+    placex="Technical Report. CMU/SEI-93-TR-025, ESC-TR-93-178, February",
+))
+
 thompson1993a = DB(WorkUnrelated(
     1993, "Software process maturity (SPM) and the information systems developer",
     display="thompson",

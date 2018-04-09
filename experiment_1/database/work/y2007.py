@@ -697,6 +697,20 @@ salo2007a = DB(WorkUnrelated(
     placex="Software Process Improvement and Practice",
 ))
 
+sapp2007a = DB(WorkUnrelated(
+    2007, "Cost, schedule and quality improvements at Warner Robins Air Logistics Center",
+    display="sapp",
+    authors="Sapp, M. and Stoddard, R. and Christian, T.",
+    place=FAKE,
+    pp="10-13",
+    entrytype="article",
+    volume="10",
+    number="1",
+    note="cited By 4",
+    ID="Sapp200710",
+    placex="SoftwareTech",
+))
+
 savioja2007a = DB(WorkUnrelated(
     2007, "Measurement practices in financial software industry",
     display="savioja",

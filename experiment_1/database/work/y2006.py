@@ -184,6 +184,17 @@ cmmi2006a = DB(WorkUnrelated(
     placex="Version 1.2. Technical Report CMU/SEI-2006-TR-008. Software Engineering Institute, Carnegie Mellon University",
 ))
 
+cmmi2006b = DB(WorkUnrelated(
+    2006, "SEI: CMMI for Development Version 1.2 SEI",
+    display="cmmi b",
+    authors="CMMI",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="cmmi2006",
+    placex="SEI",
+))
+
 cmusei2006a = DB(WorkUnrelated(
     2006, "CMMI for Development version 1.2",
     display="cmusei",

@@ -184,6 +184,18 @@ cmmi2005a = DB(WorkUnrelated(
     placex="Software Engineering Institute",
 ))
 
+cmmi2005b = DB(WorkUnrelated(
+    2005, "Software Engineering Institute CMMI Performance Results - 2005",
+    display="cmmi b",
+    authors="cmmi",
+    place=FAKE,
+    entrytype="article",
+    volume="2008",
+    note="cited By 1",
+    ID="cmmi2005",
+    placex="SEI",
+))
+
 coallier2005a = DB(WorkUnrelated(
     2005, "A Product Line engineering practices model",
     display="coallier",

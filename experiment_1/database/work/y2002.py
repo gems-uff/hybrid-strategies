@@ -199,6 +199,28 @@ cmmi2002a = DB(WorkUnrelated(
     placex="Software Engineering Institute: Version 1.1, Staged Representation CMMI-SW, V1.1, Staged - CMU/SEI-2002-TR-029",
 ))
 
+cmmi2002b = DB(WorkUnrelated(
+    2002, "Software Engineering Institute ,CMMI for Software Engineering, Version 1.1",
+    display="cmmi b",
+    authors="cmmi",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="cmmi2002",
+    placex="Staged Representation (CMMI-SW, V1.1, Staged)- CMU/SEI-2002-TR-029",
+))
+
+cmmi2002c = DB(WorkUnrelated(
+    2002, "SEI: CMMI for Software Engineering, Version 1.1",
+    display="cmmi c",
+    authors="cmmi",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="cmmi2002",
+    placex="Staged Representation (CMMI-SW, V1.1, Staged)- CMU/SEI-2002-TR-029",
+))
+
 conradi2002a = DB(WorkUnrelated(
     2002, "Improving software process improvement",
     display="conradi",

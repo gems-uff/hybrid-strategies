@@ -1,0 +1,117 @@
+Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{NoAuthor0000,
+year={0000},
+note={cited By 1},
+}
+
+@ARTICLE{Paulk1993,
+author={Paulk, M.C. and Curtis, B. and Chrissis, M.B. and Weber, C.V.},
+title={Capability maturity model for software},
+journal={Capability Maturity Model for Software, Version 1.1},
+year={1993},
+note={cited By 1011},
+}
+
+@ARTICLE{Paulk1993,
+author={Paulk, M.C. and Curtis, B. and Chrissis, M.B. and Weber, C.V.},
+title={Capability maturity model for software},
+journal={Capability Maturity Model for Software, Version 1.1},
+year={1993},
+note={cited By 1011},
+}
+
+@ARTICLE{Paulk1994,
+author={Paulk, M.C.},
+title={A comparison of ISO 9001 and the capability maturity model for software},
+journal={A Comparison of ISO 9001 and the Capability Maturity Model for Software},
+year={1994},
+note={cited By 38},
+}
+
+@ARTICLE{Akao1990,
+author={Akao, Y.},
+journal={Quality Function Deployment: Integrating Customer Requirements into Product Design},
+year={1990},
+note={cited By 1476},
+}
+
+@ARTICLE{Akao1998,
+author={Akao, Y. and Mazur, G.},
+title={Using QFD to assure QS9000 compliance},
+journal={4th International Symposium on Quality Function Deployment},
+year={1998},
+note={cited By 2},
+}
+
+@ARTICLE{Zultner1995,
+author={Zultner, R.E.},
+title={Business process reengineering with quality function deployment: Process innovation for software development},
+journal={7th Symposium on QFD (ISBN1-889477-07-9)},
+year={1995},
+note={cited By 1},
+}
+
+@ARTICLE{Richardson200225,
+author={Richardson, I. and Murphy, E. and Ryan, K.},
+title={Development of generic quality function deployment matrix},
+journal={Quality Management Journal},
+year={2002},
+volume={9},
+number={2},
+pages={25-43},
+note={cited By 6},
+}
+
+@ARTICLE{Hierholzer199885,
+author={Hierholzer, A. and Herzwurm, G. and Schlang, H.},
+title={Applying QFD for software process improvement at SAP AG},
+journal={Proceedings of the World Innovation and Strategy Conference},
+year={1998},
+pages={85-95},
+note={cited By 5},
+}
+
+@ARTICLE{Akao0000,
+author={Akao, Y. and Hayazaki, T.},
+title={Envirosnmental Management System On ISO 14000 Combined With QFD},
+journal={Transactions of the Tenth Symposium on QFD},
+year={0000},
+note={cited By 2},
+}
+
+@ARTICLE{Richardson1997,
+author={Richardson, I.},
+title={Quality function deployment - a software process tool?},
+journal={Third Annual International QFD Symposium},
+year={1997},
+note={cited By 5},
+}
+
+@ARTICLE{Frank2003,
+author={Frank, L.X. and Inuganti, P. and Sekhar, V.C.},
+title={An integration methodology for software quality function deployment},
+journal={Final Project Report to the Toshiba Corporation},
+year={2003},
+note={cited By 1},
+}
+
+@ARTICLE{Liu1998105,
+author={Liu, X.F.},
+title={A quantitative approach for assessing the priorities of software quality requirements},
+journal={Journal of Systems and Software},
+year={1998},
+volume={42},
+number={2},
+pages={105-113},
+note={cited By 23},
+}
+
+@ARTICLE{Zultner1992,
+author={Zultner, R.E.},
+title={Quality Function Deployment (QFD) for Software},
+journal={American Programmer},
+year={1992},
+note={cited By 5},
+}

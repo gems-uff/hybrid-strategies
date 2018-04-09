@@ -17,3 +17,18 @@ fagan1976a = DB(WorkUnrelated(
     ID="Fagan1976182",
     placex="IBM Systems Journal",
 ))
+
+mccabe1976a = DB(WorkUnrelated(
+    1976, "A Complexity Measure",
+    display="mccabe",
+    authors="Mccabe, T.J.",
+    place=ToSE,
+    pp="308-320",
+    entrytype="article",
+    volume="SE-2",
+    number="4",
+    doi="10.1109/TSE.1976.233837",
+    note="cited By 2535",
+    ID="Mccabe1976308",
+    placex="IEEE Transactions on Software Engineering",
+))

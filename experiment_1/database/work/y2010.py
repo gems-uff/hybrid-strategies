@@ -893,6 +893,17 @@ mcloughlin2010b = DB(WorkSnowball(
     ID="McLoughlin2010201",
 ))
 
+mcloughlin2010c = DB(WorkUnrelated(
+    2010, "The Rosetta Stone Methodology - A Benefits Driven Approach To Software Process Improvement",
+    display="mcloughlin c",
+    authors="McLoughlin, F. and Richardson, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="McLoughlin2010",
+    placex="Profes 2010",
+))
+
 mellado2010a = DB(WorkUnrelated(
     2010, "A systematic review of security requirements engineering",
     display="mellado",
