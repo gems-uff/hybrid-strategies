@@ -569,6 +569,20 @@ lindvall2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
+lyne2003a = DB(WorkUnrelated(
+    2003, "Aligning R&D with business strategy",
+    display="lyne",
+    authors="Lyne, M.B.",
+    place=FAKE,
+    pp="44-46",
+    entrytype="article",
+    volume="46",
+    number="6",
+    note="cited By 5",
+    ID="Lyne200344",
+    placex="Research Technology Management",
+))
+
 maxwell2003a = DB(WorkUnrelated(
     2003, "Software Development Productivity",
     display="maxwell",

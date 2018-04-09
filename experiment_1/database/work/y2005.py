@@ -215,6 +215,17 @@ coallier2005a = DB(WorkUnrelated(
     placex="Science of Computer Programming",
 ))
 
+dove2005a = DB(WorkUnrelated(
+    2005, "Fundamental principles for agile systems engineering",
+    display="dove",
+    authors="Dove, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 13",
+    ID="Dove2005",
+    placex="Conference on Systems Engineering Research (CSER)",
+))
+
 dyba2005a = DB(WorkUnrelated(
     2005, "An empirical investigation of the key factors for success in software process improvement",
     display="dyba",
@@ -357,6 +368,21 @@ karlström2005a = DB(WorkUnrelated(
     cluster_id="4370750997621667094",
     scholar="http://scholar.google.com/scholar?cites=4370750997621667094&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Testing, Verification and Reliability",
+))
+
+karlström2005b = DB(WorkUnrelated(
+    2005, "Combining Agile methods with stage-gate project management",
+    display="karlström b",
+    authors="Karlström, D. and Runeson, P.",
+    place=IEEES,
+    pp="43-49",
+    entrytype="article",
+    volume="22",
+    number="3",
+    doi="10.1109/MS.2005.59",
+    note="cited By 72",
+    ID="Karlström200543",
+    placex="IEEE Software",
 ))
 
 kasunic2005a = DB(WorkUnrelated(

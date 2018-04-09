@@ -896,6 +896,7 @@ olsina2011b = DB(WorkUnrelated(
     cluster_id="11253861838833437973",
     scholar="http://scholar.google.com/scholar?cites=11253861838833437973&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering Conference in Russia (CEE-SECR), 2011 7th Central and Eastern European",
+    note="cited By 1",
 ))
 
 pelrine2011a = DB(WorkUnrelated(
@@ -1077,6 +1078,21 @@ stallinger2011a = DB(WorkUnrelated(
     webofscience="1",
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
+))
+
+staron2011a = DB(WorkUnrelated(
+    2011, "Developing measurement systems: An industrial case study",
+    display="staron",
+    authors="Staron, M. and Meding, W. and Karlsson, G. and Nilsson, C.",
+    place=FAKE,
+    pp="89-107",
+    entrytype="article",
+    volume="23",
+    number="2",
+    doi="10.1002/smr.470",
+    note="cited By 25",
+    ID="Staron201189",
+    placex="Journal of Software Maintenance and Evolution",
 ))
 
 suomalainen2011a = DB(WorkUnrelated(

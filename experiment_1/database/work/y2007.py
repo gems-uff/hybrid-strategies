@@ -262,6 +262,21 @@ ebert2007a = DB(WorkUnrelated(
     placex="Springer",
 ))
 
+edmondson2007a = DB(WorkUnrelated(
+    2007, "Methodological fit in management field research",
+    display="edmondson",
+    authors="Edmondson, A.C. and Mcmanus, S.E.",
+    place=FAKE,
+    pp="1155-1179",
+    entrytype="article",
+    volume="32",
+    number="4",
+    doi="10.5465/AMR.2007.26586086",
+    note="cited By 724",
+    ID="Edmondson20071155",
+    placex="Academy of Management Review",
+))
+
 el2007a = DB(WorkUnrelated(
     2007, "TrialStat corporation: On schedule with high quality and cost savings for the customer",
     display="el emam",
@@ -657,6 +672,20 @@ ordóñez2007a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems",
 ))
 
+pan2007a = DB(WorkUnrelated(
+    2007, "A Six Sigma framework for software process improvements and its implementation",
+    display="pan",
+    authors="Pan, Z. and Park, H. and Baik, J. and Choi, H.",
+    place=FAKE,
+    pp="446-453",
+    entrytype="conference",
+    doi="10.1109/APSEC.2007.13",
+    art_number="4425886",
+    note="cited By 12",
+    ID="Pan2007446",
+    placex="Proceedings - Asia-Pacific Software Engineering Conference, APSEC",
+))
+
 peng2007a = DB(WorkUnrelated(
     2007, "Using PEST analysis as a tool for refining and focusing contexts for information systems research.",
     display="peng",
@@ -914,6 +943,20 @@ team2007a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="NoAuthor2007",
+))
+
+turner2007a = DB(WorkUnrelated(
+    2007, "Toward Agile systems engineering processes",
+    display="turner",
+    authors="Turner, R.",
+    place=FAKE,
+    pp="11-15",
+    entrytype="article",
+    volume="20",
+    number="4",
+    note="cited By 18",
+    ID="Turner200711",
+    placex="CrossTalk",
 ))
 
 türetken2007a = DB(WorkUnrelated(

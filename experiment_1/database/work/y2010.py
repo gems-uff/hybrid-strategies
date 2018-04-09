@@ -1020,6 +1020,21 @@ parkinson2010a = DB(WorkUnrelated(
     placex="Communications of the ACM",
 ))
 
+patanakul2010a = DB(WorkUnrelated(
+    2010, "Exploring the concept of value creation in program planning and systems engineering processes",
+    display="patanakul",
+    authors="Patanakul, P. and Shenhar, A.",
+    place=FAKE,
+    pp="340-352",
+    entrytype="article",
+    volume="13",
+    number="4",
+    doi="10.1002/sys.20155",
+    note="cited By 10",
+    ID="Patanakul2010340",
+    placex="Systems Engineering",
+))
+
 petersen2010a = DB(WorkUnrelated(
     2010, "The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study",
     display="petersen",

@@ -366,6 +366,20 @@ pearl1998a = DB(WorkUnrelated(
     placex="Why There Is No Statistical Test for Confounding, Why Many Think There Is, and Why They Are Almost Right",
 ))
 
+pfeffer1998a = DB(WorkUnrelated(
+    1998, "Seven practices of successful organizations",
+    display="pfeffer",
+    authors="Pfeffer, J.",
+    place=FAKE,
+    pp="96-124",
+    entrytype="article",
+    volume="40",
+    number="2",
+    note="cited By 304",
+    ID="Pfeffer199896",
+    placex="California Management Review",
+))
+
 rahikkala1998a = DB(WorkUnrelated(
     1998, "Industrial experiences from SCM current state analysis",
     display="rahikkala",

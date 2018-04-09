@@ -886,6 +886,9 @@ papa2012a = DB(WorkUnrelated(
     cluster_id="6085209771639342692",
     scholar="http://scholar.google.com/scholar?cites=6085209771639342692&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Web Engineering",
+    volume="7703 LNCS",
+    doi="10.1007/978-3-642-35623-0_20",
+    note="cited By 4",
 ))
 
 papa2012b = DB(WorkUnrelated(

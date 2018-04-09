@@ -19,6 +19,21 @@ alagarsamy2008a = DB(WorkUnrelated(
     placex="IET software",
 ))
 
+allee2008a = DB(WorkUnrelated(
+    2008, "Value network analysis and value conversion of tangible and intangible assets",
+    display="allee",
+    authors="Allee, V.",
+    place=FAKE,
+    pp="5-24",
+    entrytype="article",
+    volume="9",
+    number="1",
+    doi="10.1108/14691930810845777",
+    note="cited By 174",
+    ID="Allee20085",
+    placex="Journal of Intellectual Capital",
+))
+
 asokan2008a = DB(WorkUnrelated(
     2008, "Healthy Technology",
     display="asokan",

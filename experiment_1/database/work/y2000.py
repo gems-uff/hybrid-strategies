@@ -475,6 +475,20 @@ kuilboer2000a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+lainhart2000a = DB(WorkUnrelated(
+    2000, "COBIT: A methodology for managing and controlling information and information technology risks and vulnerabilities",
+    display="lainhart",
+    authors="Lainhart, J.W.",
+    place=FAKE,
+    pp="21-25",
+    entrytype="article",
+    volume="14",
+    number="1",
+    note="cited By 44",
+    ID="Lainhart200021",
+    placex="Journal of Information Systems",
+))
+
 makinen2000a = DB(WorkUnrelated(
     2000, "A Detailed Process Assessment Method for SMEs",
     display="makinen",
@@ -706,6 +720,21 @@ seppänen2000a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-45051-1_32",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+sicotte2000a = DB(WorkUnrelated(
+    2000, "Integration mechanisms and R&D project performance",
+    display="sicotte",
+    authors="Sicotte, H. and Langley, A.",
+    place=FAKE,
+    pp="1-37",
+    entrytype="article",
+    volume="17",
+    number="1",
+    doi="10.1016/S0923-4748(99)00018-1",
+    note="cited By 87",
+    ID="Sicotte20001",
+    placex="Journal of Engineering and Technology Management - JET-M",
 ))
 
 sixsigma2000a = DB(WorkUnrelated(

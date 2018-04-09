@@ -365,6 +365,17 @@ raffo1999a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+rautiainen1999a = DB(WorkUnrelated(
+    1999, "Key issues in new product development controllability improvement-lessons learned from european high-tech industries",
+    display="rautiainen",
+    authors="Rautiainen, K. and Lassenius, C. and Nihtilä, J. and Sulonen, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Rautiainen1999",
+    placex="Proc. Portland Int'l Conf. Management of Engineering and Technology (PICMET)",
+))
+
 rayson1999a = DB(WorkUnrelated(
     1999, "Recovering legacy requirements",
     display="rayson",

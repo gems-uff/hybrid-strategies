@@ -30,6 +30,17 @@ avison1991a = DB(WorkUnrelated(
     placex="Computer Journal",
 ))
 
+gummesson1991a = DB(WorkUnrelated(
+    1991, "Qualitative Methods in Management Research",
+    display="gummesson",
+    authors="Gummesson, E.",
+    place=SAGE,
+    entrytype="article",
+    note="cited By 1216",
+    ID="Gummesson1991",
+    placex="Sage Publications",
+))
+
 humphrey1991a = DB(WorkUnrelated(
     1991, "Software Process Improvement at Hughes Aircraft",
     display="humphrey",

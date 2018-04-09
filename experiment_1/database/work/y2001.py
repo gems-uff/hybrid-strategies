@@ -212,6 +212,19 @@ counsell2001a = DB(WorkUnrelated(
     placex="Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural Heritage",
 ))
 
+dagnino2001a = DB(WorkUnrelated(
+    2001, "Coordination of hardware manufacturing and software development lifecycles for integrated systems development",
+    display="dagnino",
+    authors="Dagnino, A.",
+    place=FAKE,
+    pp="1850-1855",
+    entrytype="conference",
+    volume="3",
+    note="cited By 7",
+    ID="Dagnino20011850",
+    placex="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics",
+))
+
 daneva2001a = DB(WorkUnrelated(
     2001, "An Assessment of the Effects of Requirements Reuse Measurements on the ERP Requirements Engineering Process",
     display="daneva",
@@ -598,6 +611,21 @@ kilpl2001a = DB(WorkUnrelated(
     ID="Kilpl200172",
 ))
 
+krishnan2001a = DB(WorkUnrelated(
+    2001, "Product development decisions: A review of the literature",
+    display="krishnan",
+    authors="Krishnan, V. and Ulrich, K.T.",
+    place=MS,
+    pp="1-21",
+    entrytype="article",
+    volume="47",
+    number="1",
+    doi="10.1287/mnsc.47.1.1.10668",
+    note="cited By 796",
+    ID="Krishnan20011",
+    placex="Management Science",
+))
+
 kucza2001a = DB(WorkUnrelated(
     2001, "Improving Knowledge Management in Software Reuse Process",
     display="kucza",
@@ -702,6 +730,21 @@ niessink2001a = DB(WorkUnrelated(
     ID="Niessink2001617",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+peppard2001a = DB(WorkUnrelated(
+    2001, "Bridging the gap between the IS organization and the rest of the business: Plotting a route",
+    display="peppard",
+    authors="Peppard, J.",
+    place=FAKE,
+    pp="249-270",
+    entrytype="article",
+    volume="11",
+    number="3",
+    doi="10.1046/j.1365-2575.2001.00105.x",
+    note="cited By 78",
+    ID="Peppard2001249",
+    placex="Information Systems Journal",
 ))
 
 perkins2001a = DB(WorkUnrelated(

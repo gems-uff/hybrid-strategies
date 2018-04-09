@@ -436,6 +436,18 @@ iversen2004a = DB(WorkUnrelated(
     ID="Iversen2004395",
 ))
 
+jaufman2004a = DB(WorkUnrelated(
+    2004, "Suitability of state of the art methods for interdisciplinary system development in automotive industry",
+    display="jaufman",
+    authors="Jaufman, O. and Przewoznik, S.",
+    place=FAKE,
+    pp="78-82",
+    entrytype="article",
+    note="cited By 4",
+    ID="Jaufman200478",
+    placex="WISER 2004 - ACM Workshop on Interdisciplinary Software Engineering Research",
+))
+
 jedlitschka2004a = DB(WorkUnrelated(
     2004, "Towards Comprehensive Experience-Based Decision Support",
     display="jedlitschka",
@@ -692,6 +704,17 @@ malotaux2004a = DB(WorkUnrelated(
     ID="Malotaux200477",
     sciencedirect="1",
     placex="The Firmware Handbook",
+))
+
+mcgrath2004a = DB(WorkUnrelated(
+    2004, "Next Generation Product Development: How to Increase Productivity",
+    display="mcgrath",
+    authors="McGrath, M.E.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 39",
+    ID="McGrath2004",
+    placex="Cut Costs, and Reduce Cycle Times",
 ))
 
 mehra2004a = DB(WorkUnrelated(

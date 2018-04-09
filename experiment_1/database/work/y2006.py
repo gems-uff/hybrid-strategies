@@ -336,6 +336,20 @@ fernándezmedina2006a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+genus2006a = DB(WorkUnrelated(
+    2006, "Firm strategies for risk management in innovation",
+    display="genus",
+    authors="Genus, A. and Coles, A.-M.",
+    place=FAKE,
+    pp="113-126",
+    entrytype="article",
+    volume="10",
+    number="2",
+    note="cited By 10",
+    ID="Genus2006113",
+    placex="International Journal of Innovation Management",
+))
+
 gibson2006a = DB(WorkUnrelated(
     2006, "Performance Results of CMMI-Based Process Improvement",
     display="gibson",

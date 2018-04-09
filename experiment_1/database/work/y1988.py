@@ -18,6 +18,21 @@ basili1988a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+curtis1988a = DB(WorkUnrelated(
+    1988, "A field study of the software design process for large systems",
+    display="curtis",
+    authors="Curtis, B. and Krasner, H. and Iscoe, N.",
+    place=CACM,
+    pp="1268-1287",
+    entrytype="article",
+    volume="31",
+    number="11",
+    doi="10.1145/50087.50089",
+    note="cited By 1112",
+    ID="Curtis19881268",
+    placex="Communications of the ACM",
+))
+
 david1988a = DB(WorkUnrelated(
     1988, "The Method of Paired Comparisons",
     display="david",
