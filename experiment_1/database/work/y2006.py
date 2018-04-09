@@ -94,6 +94,19 @@ basili2006a = DB(WorkUnrelated(
     placex="IEEE Trans. Software Eng., Vol. 14, No. 6, Pp. 758-773",
 ))
 
+bayer2006a = DB(WorkUnrelated(
+    2006, "Improving the development of e-business systems by introducing process-based software product lines",
+    display="bayer",
+    authors="Bayer, J. and Kose, M. and Ocampo, A.",
+    place=FAKE,
+    pp="348-361",
+    entrytype="article",
+    volume="4034 LNCS",
+    note="cited By 8",
+    ID="Bayer2006348",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 bent2006a = DB(WorkUnrelated(
     2006, "A quality instrument for the enterprise architecture development process",
     display="bent",
@@ -254,6 +267,17 @@ debarr2006a = DB(WorkUnrelated(
     placex="SIGKDD Explor. Newsl.",
 ))
 
+denger2006a = DB(WorkUnrelated(
+    2006, "A Comprehensive Framework for Customizing Quality Assurance Techniques",
+    display="denger",
+    authors="Denger, C. and Elberzhager, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 6",
+    ID="Denger2006",
+    placex="IESE-Report",
+))
+
 ekdahl2006a = DB(WorkUnrelated(
     2006, "Experience report: Using internal CMMI appraisals to institutionalize software development performance improvement",
     display="ekdahl",
@@ -299,6 +323,17 @@ fernándezmedina2006a = DB(WorkUnrelated(
     ID="FernándezMedina20061270",
     sciencedirect="1",
     placex="Decision Support Systems",
+))
+
+gibson2006a = DB(WorkUnrelated(
+    2006, "Performance Results of CMMI-Based Process Improvement",
+    display="gibson",
+    authors="Gibson, D.L. and Goldenson, D.R. and Kost, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Gibson2006",
+    placex="Technical Report CMU/SEI-2006-TR-004",
 ))
 
 gorschek2006a = DB(WorkUnrelated(
@@ -561,6 +596,22 @@ liu2006a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Liu2006573",
+    placex="Software Process Improvement and Practice",
+))
+
+liu2006b = DB(WorkUnrelated(
+    2006, "Priority assessment of software process requirements from multiple perspectives",
+    display="liu b",
+    authors="Liu, X.(F.) and Sun, Y. and Veera, C.S. and Kyoya, Y. and Noguchi, K.",
+    place=JSS,
+    pp="1649-1660",
+    entrytype="article",
+    volume="79",
+    number="11",
+    doi="10.1016/j.jss.2006.03.012",
+    note="cited By 15",
+    ID="Liu20061649",
+    placex="Journal of Systems and Software",
 ))
 
 martins2006a = DB(WorkUnrelated(
@@ -613,6 +664,17 @@ niazi2006a = DB(WorkUnrelated(
     ID="niazi2006empirical",
     gs="1",
     placex="Advances in Information Systems Development",
+))
+
+oecd2006a = DB(WorkUnrelated(
+    2006, "OECD Information Technology Outlook",
+    display="oecd",
+    authors="OECD",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 317",
+    ID="OECD2006",
+    placex="Organization for Economic Co-Operation and Development: OECD",
 ))
 
 park2006a = DB(WorkUnrelated(
@@ -691,6 +753,17 @@ rocha2006a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Rocha200677",
     placex="Proc. of the 6th International Workshop on Learning Software Organizations (LSO'2006)",
+))
+
+schweikhard2006a = DB(WorkUnrelated(
+    2006, "Identification of inspection-variation-factors for a decision-support-tool",
+    display="schweikhard",
+    authors="Schweikhard, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Schweikhard2006",
+    placex="Diploma Thesis, Department of Computer Science, University of Kaiserslautern, Germany",
 ))
 
 sei2006a = DB(WorkUnrelated(

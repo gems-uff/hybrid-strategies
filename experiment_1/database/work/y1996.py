@@ -74,6 +74,17 @@ brinkkemper1996a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+brodman1996a = DB(WorkUnrelated(
+    1996, "Return on Investment from Software Process Improvement as Measured by U.S. Industry",
+    display="brodman",
+    authors="Brodman, J.G. and Johnson, D.L.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Brodman1996",
+    placex="CrossTalk - The Journal of Defense Software Engineering",
+))
+
 cugola1996a = DB(WorkUnrelated(
     1996, "A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems",
     display="cugola",
@@ -282,6 +293,20 @@ park1996b = DB(WorkUnrelated(
     ID="Park1996",
 ))
 
+pfleeger1996a = DB(WorkUnrelated(
+    1996, "Realities and rewards of software process improvement",
+    display="pfleeger",
+    authors="Pfleeger, S.L.",
+    place=IEEES,
+    pp="99-101",
+    entrytype="article",
+    volume="13",
+    number="6",
+    note="cited By 15",
+    ID="Pfleeger199699",
+    placex="IEEE Software",
+))
+
 pulford1996a = DB(WorkUnrelated(
     1996, "The book, A Quantitative Approach to Software Management The AMI Handbook",
     display="pulford",
@@ -313,6 +338,20 @@ sommerville1996a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Sommerville1996",
     placex="Trends in Software, A. Fuggetta and A. Wolf, Eds., Pp. 89-110, New York: John Wiley & Sons",
+))
+
+stelzer1996a = DB(WorkUnrelated(
+    1996, "Software process improvement via ISO 9000? Results of two surveys among European software houses",
+    display="stelzer",
+    authors="Stelzer, D. and Mellis, W. and Herzwurm, G.",
+    place=SPIP,
+    pp="197-210",
+    entrytype="article",
+    volume="2",
+    number="3",
+    note="cited By 14",
+    ID="Stelzer1996197",
+    placex="Software Process - Improvement and Practice",
 ))
 
 turgeon1996a = DB(WorkUnrelated(

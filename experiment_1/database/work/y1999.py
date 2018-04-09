@@ -414,6 +414,18 @@ rodger1999a = DB(WorkUnrelated(
     placex="Business Dynamics, PricewaterhouseCoopers",
 ))
 
+rus1999a = DB(WorkUnrelated(
+    1999, "Decision support system for software reliability engineering strategy selection",
+    display="rus",
+    authors="Rus, Ioana and Collofello, James S.",
+    place=FAKE,
+    pp="376-381",
+    entrytype="conference",
+    note="cited By 6",
+    ID="Rus1999376",
+    placex="Proceedings - IEEE Computer Society's International Computer Software and Applications Conference",
+))
+
 seaman1999a = DB(WorkUnrelated(
     1999, "Qualitative methods in empirical studies of software engineering",
     display="seaman",

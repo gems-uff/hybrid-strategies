@@ -163,6 +163,19 @@ buglione2000a = DB(WorkUnrelated(
     placex="Proc. 3rd European Software Measurement Conf.",
 ))
 
+butler2000a = DB(WorkUnrelated(
+    2000, "Software process achievement at tinker air force base oklahma",
+    display="butler",
+    authors="Butler, K.L. and Lipke, W.",
+    place=FAKE,
+    pp="58",
+    entrytype="article",
+    volume="58",
+    note="cited By 2",
+    ID="Butler200058",
+    placex="Software Engineering Institute",
+))
+
 chiavenato2000a = DB(WorkUnrelated(
     2000, "Administração: Teoria, Processo e Prática",
     display="chiavenato",
@@ -227,6 +240,20 @@ dybå2000a = DB(WorkUnrelated(
     note="cited By 103",
     ID="Dybå2000357",
     placex="Empirical Software Engineering",
+))
+
+eisenhardt2000a = DB(WorkUnrelated(
+    2000, "Dynamic capabilities: What are they?",
+    display="eisenhardt",
+    authors="Eisenhardt, K.M. and Martin, J.A.",
+    place=FAKE,
+    pp="1105-1121",
+    entrytype="article",
+    volume="21",
+    number="10-11",
+    note="cited By 4977",
+    ID="Eisenhardt20001105",
+    placex="Strategic Management Journal",
 ))
 
 elliott2000a = DB(WorkUnrelated(
@@ -313,6 +340,17 @@ feldmann2000a = DB(WorkUnrelated(
     ID="10.1007/BFb0101413",
     springer="1",
     placex="Learning Software Organizations",
+))
+
+iso2000a = DB(WorkUnrelated(
+    2000, "ISO 9001:2000",
+    display="iso",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="iso2000",
+    placex="International Standards Organization: International Standards Organization",
 ))
 
 jaccheri2000a = DB(WorkUnrelated(
@@ -598,6 +636,20 @@ reed2000a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Reed2000",
     placex="IEEE Software",
+))
+
+reifer2000a = DB(WorkUnrelated(
+    2000, "The CMMI: It's formidable",
+    display="reifer",
+    authors="Reifer, D.J.",
+    place=JSS,
+    pp="97-98",
+    entrytype="article",
+    volume="50",
+    number="2",
+    note="cited By 23",
+    ID="Reifer200097",
+    placex="Journal of Systems and Software",
 ))
 
 schmid2000a = DB(WorkUnrelated(

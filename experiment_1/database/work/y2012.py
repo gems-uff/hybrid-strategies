@@ -762,6 +762,17 @@ matalonga2012a = DB(WorkUnrelated(
     placex="IET Software",
 ))
 
+mcbride2012a = DB(WorkUnrelated(
+    2012, "The many forms of process improvement - Results of an international survey",
+    display="mcbride",
+    authors="McBride, T. and Lepmets, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="McBride2012",
+    placex="Presented at the Software Quality Days",
+))
+
 mesquida2012a = DB(WorkUnrelated(
     2012, "\IT\ Service Management Process Improvement based on ISO/IEC 15504: A systematic review",
     display="mesquida",

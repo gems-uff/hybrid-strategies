@@ -502,6 +502,19 @@ gruner2011a = DB(WorkUnrelated(
     placex="South African Computer Journal",
 ))
 
+hailey2011a = DB(WorkUnrelated(
+    2011, "ISO 90011: A tool for systematic software process improvement",
+    display="hailey",
+    authors="Hailey, V.A.",
+    place=Book,
+    pp="291-309",
+    entrytype="book",
+    doi="10.1109/9781118156667.ch7",
+    note="cited By 2",
+    ID="Hailey2011291",
+    placex="Software Process Improvement",
+))
+
 hassanzadeh2011a = DB(WorkUnrelated(
     2011, "Developing a framework for evaluating service oriented architecture governance (SOAG)",
     display="hassanzadeh",
@@ -717,6 +730,19 @@ karg2011a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+krasner2011a = DB(WorkUnrelated(
+    2011, "Accumulating the body of evidence for the payoff of software process improvernent1997",
+    display="krasner",
+    authors="Krasner, H.",
+    place=Book,
+    pp="519-539",
+    entrytype="book",
+    doi="10.1109/9781118156667.ch11",
+    note="cited By 12",
+    ID="Krasner2011519",
+    placex="Software Process Improvement",
+))
+
 lane2011a = DB(WorkUnrelated(
     2011, "Process models for service-based applications: A systematic literature review",
     display="lane",
@@ -758,6 +784,17 @@ lee2011a = DB(WorkUnrelated(
     entrytype="article",
     ID="lee2011determinants",
     placex="",
+))
+
+lepmets2011a = DB(WorkUnrelated(
+    2011, "Impact analysis of process improvement on it service quality",
+    display="lepmets",
+    authors="Lepmets, M. and Ras, E. and Renault, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Lepmets2011",
+    placex="Presented at the International Conference on Exploring Service Science (IESS)",
 ))
 
 lescher2011a = DB(WorkUnrelated(

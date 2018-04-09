@@ -39,6 +39,17 @@ clegg1994a = DB(WorkUnrelated(
     placex="Addison-Wesley Professional",
 ))
 
+coallier1994a = DB(WorkUnrelated(
+    1994, "Trillium Reference Manual",
+    display="coallier",
+    authors="Coallier, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Coallier1994",
+    placex="x",
+))
+
 debou1994a = DB(WorkUnrelated(
     1994, "Decision making for software process improvement: A quantitative approach",
     display="debou",
@@ -110,6 +121,20 @@ herbsleb1994a = DB(WorkUnrelated(
     institution="CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST",
     ID="herbsleb1994benefits",
     placex="",
+    note="cited By 117",
+))
+
+herbsleb1994b = DB(WorkUnrelated(
+    1994, "Benefits of CMM-Based Software Process Improvement: Executive Summary of Results",
+    display="herbsleb b",
+    authors="Herbsleb, J. and Carleton, A. and Rozum, J. and Siegel, J. and Zubrow, D.",
+    place=FAKE,
+    pp="16",
+    entrytype="article",
+    volume="16",
+    note="cited By 2",
+    ID="Herbsleb199416",
+    placex="Software Engineering Institute",
 ))
 
 iso1994a = DB(WorkUnrelated(
@@ -133,6 +158,17 @@ iso1994b = DB(WorkUnrelated(
     note="cited By 1",
     ID="iso1994",
     placex="Geneva, Switzerland, ISO 9001:1994(E)",
+))
+
+iso1994c = DB(WorkUnrelated(
+    1994, "ISO 9000 3",
+    display="iso c",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso1994",
+    placex="International Standards Organization: International Standards Organization",
 ))
 
 jm1994a = DB(WorkUnrelated(
@@ -159,6 +195,17 @@ knoll1994a = DB(WorkUnrelated(
     ID="Knoll:1994:ITA:186281.186286",
     acm="1",
     placex="Proceedings of the 1994 Computer Personnel Research Conference on Reinventing IS : Managing Information Technology in Changing Organizations: Managing Information Technology in Changing Organizations",
+))
+
+krasner1994a = DB(WorkUnrelated(
+    1994, "A Case History of the Space Shuttle Onboard Systems Project",
+    display="krasner",
+    authors="Krasner, H. and Pyles, J. and Wohlwend, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Krasner1994",
+    placex="x",
 ))
 
 kuvaja1994a = DB(WorkUnrelated(
@@ -222,6 +269,17 @@ paulish1994a = DB(WorkUnrelated(
     note="cited By 49",
     ID="Paulish199450",
     placex="Computer",
+))
+
+paulk1994a = DB(WorkUnrelated(
+    1994, "A Comparison of ISO 9001 and Capability Maturity Model for Software",
+    display="paulk",
+    authors="Paulk, M.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Paulk1994",
+    placex="Technical Report, CMU/SEI-94-TR-12, ESC-TR-94-12",
 ))
 
 pfleeger1994a = DB(WorkUnrelated(

@@ -15,6 +15,36 @@ argyris1991a = DB(WorkUnrelated(
     placex="Participatory Action Research",
 ))
 
+avison1991a = DB(WorkUnrelated(
+    1991, "Information systems development research. An exploration of ideas in practice",
+    display="avison",
+    authors="Avison, D.E. and Wood-Harper, A.T.",
+    place=FAKE,
+    pp="98-112",
+    entrytype="article",
+    volume="34",
+    number="2",
+    doi="10.1093/comjnl/34.2.98",
+    note="cited By 64",
+    ID="Avison199198",
+    placex="Computer Journal",
+))
+
+humphrey1991a = DB(WorkUnrelated(
+    1991, "Software Process Improvement at Hughes Aircraft",
+    display="humphrey",
+    authors="Humphrey, W.S. and Snyder, T.R. and Willis, R.R.",
+    place=IEEES,
+    pp="11-23",
+    entrytype="article",
+    volume="8",
+    number="4",
+    doi="10.1109/52.300031",
+    note="cited By 150",
+    ID="Humphrey199111",
+    placex="IEEE Software",
+))
+
 montgomery1991a = DB(WorkUnrelated(
     1991, "Design and Analysis of Experiments",
     display="montgomery",

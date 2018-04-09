@@ -60,6 +60,17 @@ bailey2003a = DB(WorkUnrelated(
     placex="PSM",
 ))
 
+biffl2003a = DB(WorkUnrelated(
+    2003, "Managing Software Inspection Knowledge for Decision Support of Inspection Planning",
+    display="biffl",
+    authors="Biffl, S. and Hailing, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="Biffl2003",
+    placex="Managing Software Engineering Knowledge",
+))
+
 boehm2003a = DB(WorkUnrelated(
     2003, "Value-based software engineering: A case study",
     display="boehm",
@@ -297,6 +308,21 @@ feldmann2003a = DB(WorkUnrelated(
     placex="Advances in Learning Software Organizations",
 ))
 
+fitzgerald2003a = DB(WorkUnrelated(
+    2003, "Software development method tailoring at Motorola",
+    display="fitzgerald",
+    authors="Fitzgerald, B. and Russo, N.L. and O'Kane, T.",
+    place=CACM,
+    pp="64-70",
+    entrytype="article",
+    volume="46",
+    number="4",
+    doi="10.1145/641205.641206",
+    note="cited By 118",
+    ID="Fitzgerald200364",
+    placex="Communications of the ACM",
+))
+
 gack2003a = DB(WorkUnrelated(
     2003, "Integrating improvement initiatives: connecting Six Sigma for software, CMMI, personal software process and team software process",
     display="gack",
@@ -347,6 +373,7 @@ goldenson2003a = DB(WorkUnrelated(
     note="cited By 69",
     ID="Goldenson2003",
     placex="Demonstrating the Impact and Benefits of CMMI: An Update and Preliminary Results",
+    pp="55",
 ))
 
 halling2003a = DB(WorkUnrelated(
@@ -398,6 +425,17 @@ isoiec2003b = DB(WorkUnrelated(
     note="cited By 251",
     ID="isoiec2003",
     placex="ISO/IEC 15504:2003. International Standards Organization",
+))
+
+isoiec2003c = DB(WorkUnrelated(
+    2003, "ISO/IEC 15504-2:2003 Information Technology - Process Assessment Part 2: Performing an Assessment",
+    display="isoiec c",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 11",
+    ID="isoiec2003",
+    placex="International Standards Organization",
 ))
 
 iversen2003a = DB(WorkUnrelated(
@@ -637,6 +675,17 @@ niazi2003a = DB(WorkUnrelated(
     ID="Niazi2003196",
 ))
 
+o2003a = DB(WorkUnrelated(
+    2003, "Determining Return on Investment Using Software Inspections",
+    display="o",
+    authors="O'Neill, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="O'Neill2003",
+    placex="CrossTalk - The Journal of Defense Software Engineering",
+))
+
 oliver2003a = DB(WorkUnrelated(
     2003, "Evaluating an Approach to Sharing Software Engineering Knowledge to Facilitate Learning",
     display="oliver",
@@ -672,6 +721,17 @@ poppendieck2003b = DB(WorkUnrelated(
     note="cited By 529",
     ID="Poppendieck2003",
     placex="Addison Wesley",
+))
+
+schmid2003a = DB(WorkUnrelated(
+    2003, "Planning Software Reuse - A Disciplined Scoping Approach for Software Product Lines",
+    display="schmid",
+    authors="Schmid, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 25",
+    ID="Schmid2003",
+    placex="Planning Software Reuse - A Disciplined Scoping Approach for Software Product Lines",
 ))
 
 scholtes2003a = DB(WorkUnrelated(
@@ -763,6 +823,20 @@ usddusa2003a = DB(WorkUnrelated(
     note="cited By 8",
     ID="USDDUSA2003",
     placex="US Dept. of Defense and US Army,",
+))
+
+venkatesh2003a = DB(WorkUnrelated(
+    2003, "User acceptance of information technology: Toward a unified view",
+    display="venkatesh",
+    authors="Venkatesh, V. and Morris, M.G. and Davis, G.B. and Davis, F.D.",
+    place=FAKE,
+    pp="425-478",
+    entrytype="article",
+    volume="27",
+    number="3",
+    note="cited By 9262",
+    ID="Venkatesh2003425",
+    placex="MIS Quarterly: Management Information Systems",
 ))
 
 venzin2003a = DB(WorkUnrelated(

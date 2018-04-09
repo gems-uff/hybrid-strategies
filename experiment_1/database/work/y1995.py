@@ -84,6 +84,20 @@ bukowski1995a = DB(WorkUnrelated(
     placex="Proceedings of the 1995 Symposium on Interactive 3D Graphics",
 ))
 
+butler1995a = DB(WorkUnrelated(
+    1995, "The economic benefits of software process improvement",
+    display="butler",
+    authors="Butler, K.L.",
+    place=FAKE,
+    pp="14-17",
+    entrytype="article",
+    volume="8",
+    number="7",
+    note="cited By 31",
+    ID="Butler199514",
+    placex="CrossTalk",
+))
+
 campanai1995a = DB(WorkUnrelated(
     1995, "Quality estimation of software applications for banking",
     display="campanai",
@@ -111,6 +125,17 @@ christie1995a = DB(WorkUnrelated(
     ID="Christie1995",
     springer="1",
     placex="Software Process Automation: The Technology and Its Adoption",
+))
+
+cohen1995a = DB(WorkUnrelated(
+    1995, "Quality Function Deployment: How to Make QFD Work for You",
+    display="cohen",
+    authors="Cohen, L.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 669",
+    ID="Cohen1995",
+    placex="Addison-Wesley Longman, Amsterdam",
 ))
 
 conradi1995a = DB(WorkUnrelated(
@@ -190,6 +215,17 @@ kotonya1995a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Kotonya1995",
     placex="BCS/IEE Software Eng. J., Vol. 11, No.1, Pp. 5-18",
+))
+
+krasner1995a = DB(WorkUnrelated(
+    1995, "A Case History of Process Improvements at the NASA Software Engineering Laboratory",
+    display="krasner",
+    authors="Krasner, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Krasner1995",
+    placex="x",
 ))
 
 kuntzmann1995a = DB(WorkUnrelated(
@@ -373,4 +409,15 @@ zucconi1995a = DB(WorkUnrelated(
     ID="10.1007/3-540-58951-1_88",
     springer="1",
     placex="Software Engineering Education",
+))
+
+zultner1995a = DB(WorkUnrelated(
+    1995, "Business process reengineering with quality function deployment: Process innovation for software development",
+    display="zultner",
+    authors="Zultner, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Zultner1995",
+    placex="7th Symposium on QFD",
 ))

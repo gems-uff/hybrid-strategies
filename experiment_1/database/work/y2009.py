@@ -42,6 +42,32 @@ albuquerque2009a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+armbrust2009a = DB(WorkUnrelated(
+    2009, "Scoping software process lines",
+    display="armbrust",
+    authors="Armbrust, O. and Katahira, M. and Miyamoto, Y. and Münch, J. and Nakao, H. and Ocampo, A.",
+    place=SPIP,
+    pp="181-197",
+    entrytype="article",
+    volume="14",
+    number="3",
+    doi="10.1002/spip.412",
+    note="cited By 32",
+    ID="Armbrust2009181",
+    placex="Software Process Improvement and Practice",
+))
+
+barafort2009a = DB(WorkUnrelated(
+    2009, "ITSM Process Assessment Supporting ITIL",
+    display="barafort",
+    authors="Barafort, B. and Betry, V. and Cortina, S. and Picard, M. and St Jean, M. and Renault, A. and Valdés, O. and Tudor, P.R.C.H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 36",
+    ID="Barafort2009",
+    placex="Amersfoort: Van Haren Publishing",
+))
+
 barcellos2009a = DB(WorkUnrelated(
     2009, "An Ontology-based Approach for Software Measurement and Suitability Measurement Repository Evaluation to Apply Statistical Software Process Control in High Maturity Organizations.",
     display="barcellos",
@@ -154,6 +180,17 @@ borgert2009a = DB(WorkUnrelated(
     placex="Proceedings of the International Symposium on Understanding Intelligent and Complex Systems, UICS 2009",
 ))
 
+bssc2009a = DB(WorkUnrelated(
+    2009, "BSSC Guides and Reports",
+    display="bssc",
+    authors="BSSC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="BSSC2009",
+    placex="Accessed site",
+))
+
 chastek2009a = DB(WorkUnrelated(
     2009, "Formulation of a production strategy for a software product line",
     display="chastek",
@@ -209,6 +246,17 @@ dubinsky2009a = DB(WorkUnrelated(
     placex="SIGSOFT Softw. Eng. Notes",
 ))
 
+ecss2009a = DB(WorkUnrelated(
+    2009, "Collaboration Website of the European Cooperation for Space Standardization",
+    display="ecss",
+    authors="ECSS",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ECSS2009",
+    placex="Accessed site",
+))
+
 egorova2009a = DB(WorkUnrelated(
     2009, "Stakeholders' perception of success: An empirical investigation",
     display="egorova",
@@ -221,6 +269,17 @@ egorova2009a = DB(WorkUnrelated(
     cluster_id="2222336401975279588",
     scholar="http://scholar.google.com/scholar?cites=2222336401975279588&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications, 2009. SEAA'09. 35th Euromicro Conference on",
+))
+
+emam2009a = DB(WorkUnrelated(
+    2009, "An Empirical Review of Software Process Assessments, NRC/ER.-1065",
+    display="emam",
+    authors="Emam, K.E. and Goldenson, D.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Emam2009",
+    placex="NRC/ER.-1065",
 ))
 
 escofet2009a = DB(WorkUnrelated(
@@ -296,6 +355,17 @@ graham2009a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 22",
     ID="Graham2009",
+))
+
+group2009a = DB(WorkUnrelated(
+    2009, "Chaos Report",
+    display="group",
+    authors="Standish Group",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 122",
+    ID="StandishGroup2009",
+    placex="Standish Group: The Standish Group",
 ))
 
 gunarathne2009a = DB(WorkUnrelated(

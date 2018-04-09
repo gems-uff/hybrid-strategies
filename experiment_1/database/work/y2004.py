@@ -57,6 +57,17 @@ aversano2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+boehm2004a = DB(WorkUnrelated(
+    2004, "Bala",
+    display="boehm",
+    authors="Boehm, B. and Turner, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Boehm2004",
+    placex="Bala",
+))
+
 böckle2004a = DB(WorkUnrelated(
     2004, "Calculating ROI for software product lines",
     display="böckle",
@@ -438,6 +449,8 @@ jedlitschka2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-30181-3_4",
     springer="1",
     placex="Software Process Improvement",
+    volume="3281",
+    note="cited By 2",
 ))
 
 jokela2004a = DB(WorkUnrelated(
@@ -794,6 +807,17 @@ sei2004a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 17",
     ID="SEI2004",
+))
+
+serrano2004a = DB(WorkUnrelated(
+    2004, "State of the art and future of research in software process improvement",
+    display="serrano",
+    authors="M. Serrano",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Serrano2004",
+    placex="Proceedings of the 28th Annual International Computer Software and Applications Conference COMPSAC'04, Hong Kong, September 28-30, 2004",
 ))
 
 solingen2004a = DB(WorkUnrelated(

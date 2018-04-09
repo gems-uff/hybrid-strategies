@@ -624,6 +624,20 @@ jedlitschka2013a = DB(WorkUnrelated(
     placex="Perspectives on the Future of Software Engineering",
 ))
 
+jeners2013a = DB(WorkUnrelated(
+    2013, "Harnessing software development contexts to inform software process selection decisions",
+    display="jeners",
+    authors="Jeners, S. and Oconnor, R.V. and Clarke, P. and Lichter, H. and Lepmets, M. and Buglione, L.",
+    place=FAKE,
+    pp="35-36",
+    entrytype="article",
+    volume="16",
+    number="1",
+    note="cited By 14",
+    ID="Jeners201335",
+    placex="Software Quality Professional",
+))
+
 kasoju2013a = DB(WorkUnrelated(
     2013, "Analyzing an automotive testing process with evidence-based software engineering",
     display="kasoju",
@@ -1024,6 +1038,17 @@ rocha2013a = DB(WorkUnrelated(
     ID="dos2013use",
     gs="1",
     placex="Information and Software Technology",
+))
+
+shrestha2013a = DB(WorkUnrelated(
+    2013, "A decision support tool to define scope in it service management process assessment and improvement",
+    display="shrestha",
+    authors="Shrestha, A. and Cater-Steel, A. and Toleman, M. and Tan, W.-G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Shrestha2013",
+    placex="Presented at the DESRIST 2013",
 ))
 
 stallinger2013a = DB(WorkSnowball(

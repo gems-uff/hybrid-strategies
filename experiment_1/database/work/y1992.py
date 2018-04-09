@@ -57,6 +57,20 @@ derose1992a = DB(WorkUnrelated(
     placex="Philosophy and Phenomenological Research",
 ))
 
+dion1992a = DB(WorkUnrelated(
+    1992, "Elements of a process-improvement program",
+    display="dion",
+    authors="Dion, R.",
+    place=IEEES,
+    pp="83-85",
+    entrytype="article",
+    volume="9",
+    number="4",
+    note="cited By 29",
+    ID="Dion199283",
+    placex="IEEE Software",
+))
+
 finkelstein1992a = DB(WorkUnrelated(
     1992, "Viewpoints: A Framework for Integrating Multiple Perspectives in System Development",
     display="finkelstein",
@@ -131,4 +145,27 @@ trade1992a = DB(WorkUnrelated(
     note="cited By 1",
     ID="DTI1992",
     placex="British Computer Society 28 February",
+))
+
+zultner1992a = DB(WorkUnrelated(
+    1992, "Quality Function Deployment (QFD) for Software",
+    display="zultner",
+    authors="Zultner, R.E.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Zultner1992",
+    placex="American Programmer",
+))
+
+zultner1992b = DB(WorkUnrelated(
+    1992, "Quality function deployment (QFD) for software: Structured requirements exploration",
+    display="zultner b",
+    authors="Zultner, R.E.",
+    place=FAKE,
+    pp="297-319",
+    entrytype="article",
+    note="cited By 16",
+    ID="Zultner1992297",
+    placex="Total Quality Management for Software",
 ))

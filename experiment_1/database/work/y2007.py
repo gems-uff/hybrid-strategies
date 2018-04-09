@@ -314,6 +314,20 @@ garcía2007a = DB(WorkUnrelated(
     gs="1",
 ))
 
+garmus2007a = DB(WorkUnrelated(
+    2007, "Improved performance should be expected from process improvement",
+    display="garmus",
+    authors="Garmus, D. and Iwanicki, S.",
+    place=FAKE,
+    pp="14-17",
+    entrytype="article",
+    volume="10",
+    number="1",
+    note="cited By 3",
+    ID="Garmus200714",
+    placex="SoftwareTech",
+))
+
 ghose2007a = DB(WorkUnrelated(
     2007, "Process discovery from model and text artefacts",
     display="ghose",
@@ -522,6 +536,20 @@ linden2007a = DB(WorkUnrelated(
     ID="vanderLinden2007",
 ))
 
+liu2007a = DB(WorkUnrelated(
+    2007, "Motorola Software Group's China Center: value added by CMMI",
+    display="liu",
+    authors="Liu, A.Q.",
+    place=FAKE,
+    pp="18-23",
+    entrytype="article",
+    volume="10",
+    number="1",
+    note="cited By 4",
+    ID="Liu200718",
+    placex="SoftwareTech",
+))
+
 martins2007a = DB(WorkUnrelated(
     2007, "A comparative study of SPI approaches with ProPAM",
     display="martins",
@@ -562,6 +590,8 @@ mcloone2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Mcloone2007",
     placex="Performance results from process improvement, DACS Journal",
+    pp="5-9",
+    volume="10",
 ))
 
 montoni2007a = DB(WorkUnrelated(

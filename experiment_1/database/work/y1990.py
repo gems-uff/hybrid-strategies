@@ -25,6 +25,17 @@ akao1990b = DB(WorkUnrelated(
     placex="Productivity Press",
 ))
 
+akao1990c = DB(WorkUnrelated(
+    1990, "Quality Function Deployment: Integrating Customer Requirements into Product Design",
+    display="akao c",
+    authors="Akao, Y.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1475",
+    ID="Akao1990",
+    placex="Productivity Press, Cambridge, MA",
+))
+
 checkland1990a = DB(WorkUnrelated(
     1990, "Soft Systems Methodology in Action",
     display="checkland",
@@ -114,4 +125,15 @@ rifkin1990a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="Rifkin1990",
+))
+
+senge1990a = DB(WorkUnrelated(
+    1990, "The Fifth Discipline: The Art and Practice of the Learning Organization",
+    display="senge",
+    authors="Senge, P.M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 12010",
+    ID="Senge1990",
+    placex="London: Random House",
 ))

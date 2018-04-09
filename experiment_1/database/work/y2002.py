@@ -103,6 +103,17 @@ bratthall2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+burzcuk2002a = DB(WorkUnrelated(
+    2002, "Software Configuration Management Patterns: Effective Teamwork, Practical Integration",
+    display="burzcuk",
+    authors="Burzcuk, S.P. and Appleton, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Burzcuk2002",
+    placex="Addison Wesley, Reading",
+))
+
 canfora2002a = DB(WorkUnrelated(
     2002, "From Knowledge Management Concepts toward Software Engineering Practices",
     display="canfora",
@@ -175,6 +186,17 @@ cmm2002a = DB(WorkUnrelated(
     note="cited By 1",
     ID="cmm2002",
     placex="Carnegie Mellon University",
+))
+
+cmmi2002a = DB(WorkUnrelated(
+    2002, "CMMI for Software Engineering",
+    display="cmmi",
+    authors="cmmi",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 8",
+    ID="cmmi2002",
+    placex="Software Engineering Institute: Version 1.1, Staged Representation CMMI-SW, V1.1, Staged - CMU/SEI-2002-TR-029",
 ))
 
 conradi2002a = DB(WorkUnrelated(
@@ -459,6 +481,17 @@ lee2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+mary2002a = DB(WorkUnrelated(
+    2002, "The Capability Maturity Model Integration: Guideline for Process Integration and Product Improving",
+    display="mary",
+    authors="Mary, B.C. and Mike, K. and Sandy, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Mary2002",
+    placex="Software Engineering Institute, Carnegie Mellon University, Pittsburgh",
+))
+
 mcgarry2002a = DB(WorkUnrelated(
     2002, "Practical software measurement: objective information for decision makers",
     display="mcgarry",
@@ -648,6 +681,20 @@ reifer2002a = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+richardson2002a = DB(WorkUnrelated(
+    2002, "Development of generic quality function deployment matrix",
+    display="richardson",
+    authors="Richardson, I. and Murphy, E. and Ryan, K.",
+    place=FAKE,
+    pp="25-43",
+    entrytype="article",
+    volume="9",
+    number="2",
+    note="cited By 6",
+    ID="Richardson200225",
+    placex="Quality Management Journal",
+))
+
 ruiz2002a = DB(WorkUnrelated(
     2002, "A Dynamic Integrated Framework for Software Process Improvement",
     display="ruiz",
@@ -735,6 +782,19 @@ simon2002ab = DB(WorkUnrelated(
     note="cited By 11",
     ID="Simon2002",
     placex="Campus, Frankfurt/Main (in German)",
+))
+
+solon2002a = DB(WorkUnrelated(
+    2002, "Benchmarking the ROI for Software Process Improvement (SPI)",
+    display="Solon",
+    authors="Solon Jr., R. and Statz, J.",
+    place=FAKE,
+    pp="6-11",
+    entrytype="article",
+    volume="5",
+    note="cited By 1",
+    ID="SolonJr.20026",
+    placex="Software Tech. News",
 ))
 
 stiller2002a = DB(WorkUnrelated(

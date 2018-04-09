@@ -14,6 +14,17 @@ becker1997a = DB(WorkUnrelated(
     placex="IEEE Trans. Computer Software Eng. Software Process Newsletter, Vol. 10, Pp, 10-15",
 ))
 
+becker1997b = DB(WorkUnrelated(
+    1997, "Descriptive modeling of software processes",
+    display="becker b",
+    authors="Becker, U. and Hamann, D. and Verlage, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 11",
+    ID="Becker1997",
+    placex="Proceedings of the Third Conference on Software Process Improvement (SPI '97)",
+))
+
 boldyreff1997a = DB(WorkUnrelated(
     1997, "A basis for process improvement in application management",
     display="boldyreff",
@@ -67,6 +78,32 @@ emam1997a = DB(WorkUnrelated(
     note="cited By 1",
     ID="KElElman1997",
     placex="IEEE CS Press",
+))
+
+emam1997b = DB(WorkUnrelated(
+    1997, "Cost and Benefits of Software Process Improvement",
+    display="emam b",
+    authors="El Emam, K. and Briand, L.",
+    place=FAKE,
+    pp="27",
+    entrytype="article",
+    note="cited By 1",
+    ID="ElEmam199727",
+    placex="Fraunhofer IESE",
+))
+
+fayad1997a = DB(WorkUnrelated(
+    1997, "Process Assessment Considered Wasteful",
+    display="fayad",
+    authors="Fayad, M.E. and Laitinen, M.",
+    place=CACM,
+    pp="125-128",
+    entrytype="article",
+    volume="40",
+    number="11",
+    note="cited By 53",
+    ID="Fayad1997125",
+    placex="Communications of the ACM",
 ))
 
 florac1997a = DB(WorkUnrelated(
@@ -247,6 +284,21 @@ pfleeger1997a = DB(WorkUnrelated(
     placex="",
 ))
 
+putnam1997a = DB(WorkUnrelated(
+    1997, "How Solved Is the Cost Estimation Problem?",
+    display="putnam",
+    authors="Putnam, L.H.",
+    place=IEEES,
+    pp="105-107",
+    entrytype="article",
+    volume="14",
+    number="6",
+    doi="10.1109/52.636696",
+    note="cited By 12",
+    ID="Putnam1997105",
+    placex="IEEE Software",
+))
+
 reiblein1997a = DB(WorkSnowball(
     1997, "SPI:I can't get no satisfaction-directing process improvement to meet business needs",
     display="reiblein",
@@ -266,6 +318,28 @@ reiblein1997a = DB(WorkSnowball(
     publisher="Springer",
     cluster_id="2106803465759819075",
     scholar_ok=True,
+))
+
+richardson1997a = DB(WorkUnrelated(
+    1997, "Quality function deployment - a software process tool?",
+    display="richardson",
+    authors="Richardson, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Richardson1997",
+    placex="Third Annual International QFD Symposium",
+))
+
+sheskin1997a = DB(WorkUnrelated(
+    1997, "Handbook of Parametric and Nonparametric Statistical Procedures",
+    display="sheskin",
+    authors="Sheskin, D.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3299",
+    ID="Sheskin1997",
+    placex="CRC Press, Boca Raton",
 ))
 
 sommerville1997a = DB(WorkUnrelated(
@@ -311,6 +385,20 @@ tierstein1997a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Tierstein19971",
     placex="New York Oracle Users Group Conference (NYOUG Fall ?97)",
+))
+
+yamamura1997a = DB(WorkUnrelated(
+    1997, "SEI CMM level 5: For the right reasons",
+    display="yamamura",
+    authors="Yamamura, G. and Wigle, G.B.",
+    place=FAKE,
+    pp="3-6",
+    entrytype="article",
+    volume="10",
+    number="8",
+    note="cited By 16",
+    ID="Yamamura19973",
+    placex="CrossTalk",
 ))
 
 yu1997a = DB(WorkUnrelated(

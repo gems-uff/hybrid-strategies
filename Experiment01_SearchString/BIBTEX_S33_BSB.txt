@@ -1,0 +1,181 @@
+﻿Scopus
+EXPORT DATE: 9 April 2018
+
+@ARTICLE{Lepmets201439,
+author={Lepmets, M. and Mesquida, A.L. and Cater-Steel, A. and Mas, A. and Ras, E.},
+title={The evaluation of the IT service quality measurement framework in industry},
+journal={Global Journal of Flexible Systems Management},
+year={2014},
+volume={15},
+number={1},
+pages={39-57},
+doi={10.1007/s40171-013-0052-7},
+note={cited By 13},
+}
+
+@ARTICLE{Barafort2009,
+author={Barafort, B. and Betry, V. and Cortina, S. and Picard, M. and St Jean, M. and Renault, A. and Valdés, O. and Tudor, P.R.C.H.},
+journal={ITSM Process Assessment Supporting ITIL},
+year={2009},
+note={cited By 36},
+}
+
+@ARTICLE{Lepmets20121440,
+author={Lepmets, M. and McBride, T. and Ras, E.},
+title={Goal alignment in process improvement},
+journal={Journal of Systems and Software},
+year={2012},
+volume={85},
+number={6},
+pages={1440-1452},
+doi={10.1016/j.jss.2012.01.038},
+note={cited By 26},
+}
+
+@ARTICLE{Lepmets2011,
+author={Lepmets, M. and Ras, E. and Renault, A.},
+title={Impact analysis of process improvement on it service quality},
+journal={Presented at the International Conference on Exploring Service Science (IESS)},
+year={2011},
+note={cited By 1},
+}
+
+@ARTICLE{Mesquida2012239,
+author={Mesquida, A.L. and Mas, A. and Amengual, E. and Calvo-Manzano, J.A.},
+title={IT service management process improvement based on ISO/IEC 15504: A systematic review},
+journal={Information and Software Technology},
+year={2012},
+volume={54},
+number={3},
+pages={239-247},
+doi={10.1016/j.infsof.2011.11.002},
+note={cited By 40},
+}
+
+@ARTICLE{Boehm2004,
+author={Boehm, B. and Turner, R.},
+journal={Bala},
+year={2004},
+note={cited By 1},
+}
+
+@ARTICLE{Coleman2008772,
+author={Coleman, G. and O'Connor, R.},
+title={Investigating software process in practice: A grounded theory perspective},
+journal={Journal of Systems and Software},
+year={2008},
+volume={81},
+number={5},
+pages={772-784},
+doi={10.1016/j.jss.2007.07.027},
+note={cited By 112},
+}
+
+@ARTICLE{Dettmer2011,
+author={Dettmer, H.W.},
+journal={Systems Thinking and the Cynefin Framework-A Strategic Approach to Managing Complex Systems},
+year={2011},
+note={cited By 6},
+}
+
+@ARTICLE{Kurtz2003462,
+author={Kurtz, C.F. and Snowden, D.J.},
+title={The new dynamics of strategy: Sense-making in a complex and complicated world},
+journal={IBM Systems Journal},
+year={2003},
+volume={42},
+number={3},
+pages={462-483},
+doi={10.1147/sj.423.0462},
+note={cited By 453},
+}
+
+@ARTICLE{Snowden2007,
+author={Snowden, D.J. and Boone, M.E.},
+title={A leader's framework for decision making},
+journal={Harvard Business Review},
+year={2007},
+volume={85},
+number={11},
+pages={69-76+149},
+note={cited By 439},
+}
+
+@ARTICLE{Eisenhardt20001105,
+author={Eisenhardt, K.M. and Martin, J.A.},
+title={Dynamic capabilities: What are they?},
+journal={Strategic Management Journal},
+year={2000},
+volume={21},
+number={10-11},
+pages={1105-1121},
+note={cited By 4977},
+}
+
+@ARTICLE{Senge1990,
+author={Senge, P.M.},
+journal={The Fifth Discipline: The Art and Practice of the Learning Organization},
+year={1990},
+note={cited By 12010},
+}
+
+@ARTICLE{Clarke2012433,
+author={Clarke, P. and O'Connor, R.V.},
+title={The situational factors that affect the software development process: Towards a comprehensive reference framework},
+journal={Information and Software Technology},
+year={2012},
+volume={54},
+number={5},
+pages={433-447},
+note={cited By 89},
+}
+
+@ARTICLE{McBride2012,
+author={McBride, T. and Lepmets, M.},
+title={The many forms of process improvement - Results of an international survey},
+journal={Presented at the Software Quality Days},
+year={2012},
+note={cited By 1},
+}
+
+@ARTICLE{Shrestha2013,
+author={Shrestha, A. and Cater-Steel, A. and Toleman, M. and Tan, W.-G.},
+title={A decision support tool to define scope in it service management process assessment and improvement},
+journal={Presented at the DESRIST 2013},
+year={2013},
+note={cited By 1},
+}
+
+@ARTICLE{Jeners201335,
+author={Jeners, S. and O’connor, R.V. and Clarke, P. and Lichter, H. and Lepmets, M. and Buglione, L.},
+title={Harnessing software development contexts to inform software process selection decisions},
+journal={Software Quality Professional},
+year={2013},
+volume={16},
+number={1},
+pages={35-36},
+note={cited By 14},
+}
+
+@ARTICLE{Stallinger2011157,
+author={Stallinger, F. and Neumann, R. and Schossleitner, R. and Zeilinger, R.},
+title={Linking software life cycle activities with product strategy and economics: Extending ISO/IEC 12207 with product management best practices},
+journal={Communications in Computer and Information Science},
+year={2011},
+volume={155 CCIS},
+pages={157-168},
+doi={10.1007/978-3-642-21233-8-14},
+note={cited By 9},
+}
+
+@ARTICLE{Salo200781,
+author={Salo, O. and Abrahamsson, P.},
+title={An iterative improvement process for agile software development},
+journal={Software Process Improvement and Practice},
+year={2007},
+volume={12},
+number={1},
+pages={81-100},
+doi={10.1002/spip.305},
+note={cited By 31},
+}

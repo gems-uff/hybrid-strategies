@@ -710,6 +710,21 @@ lepmets2014a = DB(WorkSnowball(
     placex="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014",
 ))
 
+lepmets2014b = DB(WorkUnrelated(
+    2014, "The evaluation of the IT service quality measurement framework in industry",
+    display="lepmets b",
+    authors="Lepmets, M. and Mesquida, A.L. and Cater-Steel, A. and Mas, A. and Ras, E.",
+    place=FAKE,
+    pp="39-57",
+    entrytype="article",
+    volume="15",
+    number="1",
+    doi="10.1007/s40171-013-0052-7",
+    note="cited By 13",
+    ID="Lepmets201439",
+    placex="Global Journal of Flexible Systems Management",
+))
+
 liggesmeyer2014a = DB(WorkUnrelated(
     2014, "Big Data in Smart Ecosystems",
     display="liggesmeyer",

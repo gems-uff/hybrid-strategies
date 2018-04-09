@@ -153,6 +153,22 @@ becker2008b = DB(WorkSnowball(
     artnumber="1370840",
     note="cited By 9",
     placex="Proceedings - International Conference on Software Engineering",
+    art_number="1370840",
+))
+
+beijun2008a = DB(WorkUnrelated(
+    2008, "A case study of software process improvement in a Chinese small company",
+    display="beijun",
+    authors="Beijun, S. and Tong, R.",
+    place=FAKE,
+    pp="609-612",
+    entrytype="conference",
+    volume="2",
+    doi="10.1109/CSSE.2008.701",
+    art_number="4722125",
+    note="cited By 11",
+    ID="Beijun2008609",
+    placex="Proceedings - International Conference on Computer Science and Software Engineering, CSSE 2008",
 ))
 
 bertrand2008a = DB(WorkUnrelated(
@@ -674,6 +690,20 @@ lui2008a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="lui2008start",
     placex="Software Development Rhythms: Harmonizing Agile Practices for Synergy",
+))
+
+madachy2008a = DB(WorkUnrelated(
+    2008, "Assessing quality processes with ODC COQUALMO",
+    display="madachy",
+    authors="Madachy, R. and Boehm, B.",
+    place=FAKE,
+    pp="198-209",
+    entrytype="article",
+    volume="5007 LNCS",
+    doi="10.1007/978-3-540-79588-9_18",
+    note="cited By 10",
+    ID="Madachy2008198",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 mao2008a = DB(WorkUnrelated(

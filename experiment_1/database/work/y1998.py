@@ -180,6 +180,17 @@ isoiec1998e = DB(WorkUnrelated(
     placex="Technical Report ISO/IEC TR2 15504, ISO, Geneva, Switzerland",
 ))
 
+isoiec1998f = DB(WorkUnrelated(
+    1998, "ISO/IEC TR 15504: Information Technology - Software Process Assessment parts 1-9",
+    display="isoiec f",
+    authors="isoiec",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="isoiec1998",
+    placex="ISO/IEC TR 15504",
+))
+
 iversen1998a = DB(WorkUnrelated(
     1998, "Combining quantitative and qualitative assessment methods in software process improvement",
     display="iversen",

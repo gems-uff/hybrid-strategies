@@ -414,6 +414,17 @@ ferrari2010a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+goyal2010a = DB(WorkUnrelated(
+    2010, "ROI for SPI: Lessons from Initiatives at IBM Global Services India",
+    display="goyal",
+    authors="Goyal, A. and Kanungo, S. and Muthu, V. and Jayadevan, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Goyal2010",
+    placex="SEPG 2001 (2001)",
+))
+
 guzmán2010a = DB(WorkSnowball(
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",
@@ -1330,6 +1341,17 @@ ye2010a = DB(WorkUnrelated(
     organization="IEEE",
     ID="ye2010fast",
     placex="Multimedia Technology (ICMT), 2010 International Conference on",
+))
+
+zahran2010a = DB(WorkUnrelated(
+    2010, "Business and Cost Justification of Software Process Improvement - ROI from SPI",
+    display="zahran",
+    authors="Zahran, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Zahran2010",
+    placex="International Software Process Association Conference, Brighton, England (1996)",
 ))
 
 zalzala2010a = DB(WorkUnrelated(

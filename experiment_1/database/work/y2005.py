@@ -161,6 +161,29 @@ chaudet2005a = DB(WorkUnrelated(
     placex="Proceedings of the 2005 ACM Conference on Emerging Network Experiment and Technology",
 ))
 
+choi2005a = DB(WorkUnrelated(
+    2005, "The management of software processes with software process improvement tools based on ISO 15504",
+    display="choi",
+    authors="Y. Choi, E. Lee, S. Ha",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Choi2005",
+    placex="The 7th International Conference on Advanced Communication Technology, 2, Issue, 0-0 0, 2005 (ICACT 2005), pp. 933-936.",
+))
+
+cmmi2005a = DB(WorkUnrelated(
+    2005, "CMMI Performance Results - 2005",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    entrytype="article",
+    volume="2008",
+    note="cited By 1",
+    ID="cmmi2005",
+    placex="Software Engineering Institute",
+))
+
 coallier2005a = DB(WorkUnrelated(
     2005, "A Product Line engineering practices model",
     display="coallier",
@@ -574,6 +597,21 @@ vanter2005a = DB(WorkUnrelated(
     ID="VanDeVanter:2005:HNT:1145319.1145335",
     acm="1",
     placex="Proceedings of the Second International Workshop on Software Engineering for High Performance Computing System Applications",
+))
+
+vegas2005a = DB(WorkUnrelated(
+    2005, "A characterisation schema for software testing techniques",
+    display="vegas",
+    authors="Vegas, S. and Basili, V.",
+    place=ESE,
+    pp="437-466",
+    entrytype="article",
+    volume="10",
+    number="4",
+    doi="10.1007/s10664-005-3862-1",
+    note="cited By 45",
+    ID="Vegas2005437",
+    placex="Empirical Software Engineering",
 ))
 
 wang2005a = DB(WorkSnowball(
