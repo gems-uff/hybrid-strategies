@@ -14,6 +14,17 @@ basili1992a = DB(WorkUnrelated(
     placex="Software Modeling and Measurement: The Goal/Question/Metric Paradigm",
 ))
 
+basili1992b = DB(WorkUnrelated(
+    1992, "A Reference Architecture for the Component Factory",
+    display="basili b",
+    authors="Basili, V., Caldiera, G. & Cantone, G.",
+    place=ToSE,
+    pp="53-80",
+    entrytype="article",
+    ID="Basili1992)",
+    placex="ACM Transactions on Software Engineering and Methodology",
+))
+
 cox1992a = DB(WorkUnrelated(
     1992, "Keys to success in quality function deployment",
     display="cox",
@@ -26,6 +37,16 @@ cox1992a = DB(WorkUnrelated(
     number="4",
     note="cited By 8",
     ID="Cox199225",
+))
+
+curtis1992a = DB(WorkUnrelated(
+    1992, "Process Modelling",
+    display="curtis",
+    authors="Curtis, B., Kellner, M.I., & Over, J.",
+    place=CACM,
+    entrytype="article",
+    ID="Curtis1992)",
+    placex="Communications on the ACM",
 ))
 
 daskalantonakis1992a = DB(WorkUnrelated(
@@ -125,6 +146,17 @@ kaplan1992a = DB(WorkUnrelated(
     ID="Kaplan199271",
 ))
 
+kaplan1992b = DB(WorkUnrelated(
+    1992, "The Balanced Scorecard - Measures That Drive Performance",
+    display="kaplan b",
+    authors="Kaplan, R. and Norton, D.",
+    place=FAKE,
+    entrytype="article",
+    ID="Kaplan1992",
+    placex="Harvard Business Review",
+    pp="71",
+))
+
 kotonya1992a = DB(WorkUnrelated(
     1992, "Viewpoints for Requirements Definition",
     display="kotonya",
@@ -134,6 +166,16 @@ kotonya1992a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Kotonya1992",
     placex="BCS/IEE Software Eng. J., Vol. 7, No. 6, Pp. 375-87",
+))
+
+krasner1992a = DB(WorkUnrelated(
+    1992, "Lessons learned from a software process modeling system",
+    display="krasner",
+    authors="Krasner, H., Tirrel, J., Linehan, A., Arnold, P. & Ett, W.H.",
+    place=CACM,
+    entrytype="article",
+    ID="Krasner1992)",
+    placex="Communications of ACM",
 ))
 
 trade1992a = DB(WorkUnrelated(

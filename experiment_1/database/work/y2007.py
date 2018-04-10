@@ -193,6 +193,16 @@ chen2007a = DB(WorkUnrelated(
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
+chrissis2007a = DB(WorkUnrelated(
+    2007, "CMMI Guidelines for Process Integration and Product Development",
+    display="chrissis",
+    authors="Chrissis, M., Konrad, M., and Shrum, S.",
+    place=FAKE,
+    entrytype="article",
+    ID="Chrissis2007",
+    placex="Addison-Wesley",
+))
+
 cobit2007a = DB(WorkUnrelated(
     2007, "Control Objectives for Information and Related Technology",
     display="cobit",
@@ -247,6 +257,16 @@ dickmann2007a = DB(WorkUnrelated(
     note="cited By 5",
     ID="Dickmann2007272",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+dod2007a = DB(WorkUnrelated(
+    2007, "Practical Software and Systems Measurement: A Foundation for Objective Project Management",
+    display="dod",
+    authors="DOD",
+    place=FAKE,
+    entrytype="article",
+    ID="DOD2007",
+    placex="v. 4.0c, March 2003, from www.psmsc.com, visited in August 2007",
 ))
 
 dror2007a = DB(WorkUnrelated(

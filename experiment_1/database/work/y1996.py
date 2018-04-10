@@ -45,6 +45,16 @@ austin1996a = DB(WorkUnrelated(
     ID="Austin1996",
 ))
 
+bolcer1996a = DB(WorkUnrelated(
+    1996, "Endeavors: A Process System Integration Infrastructure",
+    display="bolcer",
+    authors="Bolcer, G. & Taylor, R.",
+    place=FAKE,
+    entrytype="article",
+    ID="Bolcer1996)",
+    placex="International Conference on Software Process (ICSP4) Brighton,U.K.",
+))
+
 briand1996a = DB(WorkUnrelated(
     1996, "Practical guidelines for measurement-based process improvement",
     display="briand",

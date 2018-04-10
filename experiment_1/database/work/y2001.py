@@ -48,6 +48,16 @@ balla2001a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+beck2001a = DB(WorkUnrelated(
+    2001, "Manifesto for Agile Software Development.",
+    display="beck",
+    authors="Beck, K.",
+    place=FAKE,
+    entrytype="article",
+    ID="Beck2001)",
+    placex="http://www.agilemanifesto.org/principles.html",
+))
+
 bergman2001a = DB(WorkUnrelated(
     2001, "Lessons from the EUREX Workshops",
     display="bergman",
@@ -451,6 +461,17 @@ hefner2001a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Hefner2001",
     placex="Proceedings of the 26th Annual NASA Goddard Software Engineering Workshop",
+))
+
+henninger2001a = DB(WorkUnrelated(
+    2001, "A Reference Architecture for the Component Factory",
+    display="henninger",
+    authors="Henninger, S. & Schlabach, J.",
+    place=ICPFSPI,
+    pp="182-195",
+    entrytype="article",
+    ID="Henninger2001)",
+    placex="Third International Conference on Product Focused Software Process Improvement",
 ))
 
 hunter2001a = DB(WorkUnrelated(

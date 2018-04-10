@@ -412,6 +412,17 @@ halling2003a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+heller2003a = DB(WorkUnrelated(
+    2003, "A Management System for Evolving Development Processes",
+    display="heller",
+    authors="Heller, M., Schleicher, A., & Westfechtel, B.",
+    place=FAKE,
+    pp="182-195",
+    entrytype="article",
+    ID="Heller2003)",
+    placex="Proceedings 7th International Conference on Integrated Design and Process Technology (IDPT",
+))
+
 henninger2003a = DB(WorkUnrelated(
     2003, "Tool Support for Experience-Based Methodologies",
     display="henninger",

@@ -105,6 +105,16 @@ forman1998a = DB(WorkUnrelated(
     placex="European Journal of Operational Research",
 ))
 
+gruhn1998a = DB(WorkUnrelated(
+    1998, "Software Process Modeling and Enactment: An Experience Report related to Problem Tracking in an Industrial Project",
+    display="gruhn",
+    authors="Gruhn, V. & Urbainczyk J.",
+    place=ICSE,
+    entrytype="article",
+    ID="Gruhn1998)",
+    placex="Proceedings of the 20th international conference on Software Engineering",
+))
+
 hansen1998a = DB(WorkUnrelated(
     1998, "NP -Assessment Process Report",
     display="hansen",
@@ -463,6 +473,16 @@ sommerville1998a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Sommerville1998",
     placex="Proc. Int'l Conf. Requirements Eng.",
+))
+
+spice1998a = DB(WorkUnrelated(
+    1998, "ISO/IEC Software Process Assessment Part 2: A model for process management",
+    display="spice",
+    authors="SPICE",
+    place=FAKE,
+    entrytype="article",
+    ID="SPICE1998)",
+    placex="Version 1.0. SPICE Project",
 ))
 
 stelzer1998a = DB(WorkUnrelated(

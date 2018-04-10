@@ -29,6 +29,27 @@ basili1994b = DB(WorkUnrelated(
     placex="Encyclopedia of Software Engineering",
 ))
 
+basili1994c = DB(WorkUnrelated(
+    1994, "Goal, Question Metric Paradigm",
+    display="basili c",
+    authors="Basili, V., Caldiera, G., and Rombach D.",
+    place=FAKE,
+    entrytype="article",
+    ID="Basili1994",
+    placex="Encyclopedia of Software Engineering, vol. 1, John Wiley and Sons,",
+))
+
+basili1994d = DB(WorkUnrelated(
+    1994, "Experience Factory",
+    display="basili d",
+    authors="V. Basili, G. Caldiera, D. Rombach",
+    place=FAKE,
+    pp="469-476",
+    entrytype="article",
+    ID="Basili1994",
+    placex="Encyclopedia of Software Engineering 1, John-Wiley & Sons",
+))
+
 brodman1994a = DB(WorkUnrelated(
     1994, "What small businesses and small organizations say about the CMM",
     display="brodman",

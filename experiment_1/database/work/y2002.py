@@ -59,6 +59,17 @@ barafort2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+basili2002a = DB(WorkUnrelated(
+    2002, "Lessons Learned from 25 Years of Process Improvement: The Rise and Fall of the NASA Software Engineering Laboratory",
+    display="basili",
+    authors="V. Basili, F. McGarry, R. Pajerski, and M. Zelkowitz",
+    place=FAKE,
+    pp="71",
+    entrytype="article",
+    ID="Basili2002",
+    placex="Twenty-Fourth International Conference on Software Engineering (ICSE), Orlando, FL",
+))
+
 birk2002a = DB(WorkUnrelated(
     2002, "A Systems Perspective on Software Process Improvement",
     display="birk",
@@ -813,6 +824,16 @@ scott2002a = DB(WorkUnrelated(
     ID="Scott2002601",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+sei2002a = DB(WorkUnrelated(
+    2002, "Capability Maturity Model Integration (CMMI)",
+    display="sei",
+    authors="SEI",
+    place=FAKE,
+    entrytype="article",
+    ID="SEI2002)",
+    placex="Version 1.1. Carnegie Mellon Software Engineering Institute",
 ))
 
 sheard2002a = DB(WorkUnrelated(
