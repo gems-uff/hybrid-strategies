@@ -321,6 +321,21 @@ feigenbaum2002a = DB(WorkUnrelated(
     placex="Proceedings of the Twenty-first Annual Symposium on Principles of Distributed Computing",
 ))
 
+fenton2002a = DB(WorkUnrelated(
+    2002, "Software measurement: Uncertainty and causal modeling",
+    display="fenton",
+    authors="Fenton, N. and Krause, P. and Neil, M.",
+    place=IEEES,
+    pp="116-122",
+    entrytype="article",
+    volume="19",
+    number="4",
+    doi="10.1109/MS.2002.1020298",
+    note="cited By 117",
+    ID="Fenton2002116",
+    placex="IEEE Software",
+))
+
 gantner2002a = DB(WorkUnrelated(
     2002, "GARP --- The Evolution of a Software Acquisition Process Model",
     display="gantner",
@@ -456,6 +471,17 @@ kauppinen2002a = DB(WorkUnrelated(
     placex="",
 ))
 
+keeni2002a = DB(WorkUnrelated(
+    2002, "Lessons learned in achieving people CMM level 4 at Tata Consultancy Services",
+    display="keeni",
+    authors="Keeni, G. and Curtis, B. and Kubicki, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Keeni2002",
+    placex="Proc. US Software Eng. Process Group Conf.",
+))
+
 kock2002a = DB(WorkUnrelated(
     2002, "Managing with Web-based IT in Mind",
     display="kock",
@@ -540,6 +566,17 @@ munkvold2002a = DB(WorkUnrelated(
     ID="Munkvold:2002:SIE:590806.590809",
     acm="1",
     placex="SIGMIS Database",
+))
+
+murugappan2002a = DB(WorkUnrelated(
+    2002, "Incorporating voice of customer in the Six Sigma way",
+    display="murugappan",
+    authors="Murugappan, M. and Keeni, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Murugappan2002",
+    placex="SEPG Conf. Tour in Asia-Pacific",
 ))
 
 neu2002a = DB(WorkUnrelated(

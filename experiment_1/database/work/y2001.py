@@ -597,6 +597,18 @@ kautz2001c = DB(WorkUnrelated(
     placex="System Sciences, 2001. Proceedings of the 34th Annual Hawaii International Conference on",
 ))
 
+keeni2001a = DB(WorkUnrelated(
+    2001, "Evolution of an automated quality management system",
+    display="keeni",
+    authors="Keeni, G. and Biswas, D.",
+    place=FAKE,
+    pp="349-358",
+    entrytype="article",
+    note="cited By 1",
+    ID="Keeni2001349",
+    placex="Proc. Int'l Symp. Future Software Technology (ISFST 2001)",
+))
+
 kilpl2001a = DB(WorkUnrelated(
     2001, "Implementing a software metrics program at Nokia",
     display="kilpl",
@@ -772,6 +784,28 @@ pfahl2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44814-4_6",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+prasad2001a = DB(WorkUnrelated(
+    2001, "Integrated demanded quality deployment and QFD",
+    display="prasad",
+    authors="Prasad, R. and Keeni, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Prasad2001",
+    placex="Proc. 13th Quality Function Deployment Symp.",
+))
+
+radice2001a = DB(WorkUnrelated(
+    2001, "One on one inspection",
+    display="radice",
+    authors="Radice, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Radice2001",
+    placex="Proc. Software Technology Conf.",
 ))
 
 ramil2001a = DB(WorkUnrelated(

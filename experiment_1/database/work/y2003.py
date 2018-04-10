@@ -60,6 +60,17 @@ bailey2003a = DB(WorkUnrelated(
     placex="PSM",
 ))
 
+beck2003a = DB(WorkUnrelated(
+    2003, "Test Driven Development: By Example",
+    display="beck",
+    authors="Beck, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1070",
+    ID="Beck2003",
+    placex="Addison-Wesley",
+))
+
 biffl2003a = DB(WorkUnrelated(
     2003, "Managing Software Inspection Knowledge for Decision Support of Inspection Planning",
     display="biffl",

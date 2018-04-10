@@ -198,6 +198,20 @@ bertrand2008a = DB(WorkUnrelated(
     placex="Proceedings of the 7th WSEAS international conference on System science and simulation in engineering",
 ))
 
+birkhölzer2008a = DB(WorkUnrelated(
+    2008, "Customized predictive models for process improvement projects",
+    display="birkhölzer",
+    authors="Birkhölzer, T. and Dickmann, C. and Klein, H. and Vaupel, J. and Ast, S. and Meyer, L.",
+    place=FAKE,
+    pp="304-316",
+    entrytype="article",
+    volume="5089 LNCS",
+    doi="10.1007/978-3-540-69566-0_25",
+    note="cited By 2",
+    ID="Birkhölzer2008304",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 bjørnson2008a = DB(WorkUnrelated(
     2008, "Knowledge management in software engineering: A systematic review of studied concepts, findings and research methods used",
     display="bjørnson",

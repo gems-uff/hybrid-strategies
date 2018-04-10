@@ -50,6 +50,16 @@ brandon1998a = DB(WorkUnrelated(
     placex="Project Management Journal",
 ))
 
+dynsys1998a = DB(WorkUnrelated(
+    1998, "IPT Learning Campus",
+    display="dynsys",
+    authors="DYNSYS",
+    place=FAKE,
+    entrytype="article",
+    ID="DYNSYS1998",
+    placex="Bellwether Learning Center, A Division of Dynamic  Systems,  Inc",
+))
+
 ebert1998a = DB(WorkUnrelated(
     1998, "Putting requirement management into praxis: dealing with nonfunctional requirements",
     display="ebert",
@@ -225,6 +235,16 @@ iversen1998a = DB(WorkUnrelated(
     placex="Proceedings of the 6th European Conference on Information Systems (ECIS)",
 ))
 
+kapp1998a = DB(WorkUnrelated(
+    1998, "AliahTHINK! Multicriteria-based Decision Support Software",
+    display="kapp",
+    authors="K. M. Kapp",
+    place=FAKE,
+    entrytype="article",
+    ID="Kapp1998",
+    placex="APICS - The Performance Advantage, vol. 8, no. 4, April 1998",
+))
+
 klein1998a = DB(WorkUnrelated(
     1998, "If you get straight A's, you must be intelligent - Respecting the intent of the capability maturity model",
     display="klein",
@@ -285,6 +305,16 @@ liu1998a = DB(WorkUnrelated(
     note="cited By 23",
     ID="Liu1998105",
     placex="Journal of Systems and Software",
+))
+
+madni1998a = DB(WorkUnrelated(
+    1998, "Process Support for IPPD-Enabled Systems Engineering",
+    display="madni",
+    authors="A. M. Madni, W. L. McCoy, C. M. Madni",
+    place=FAKE,
+    entrytype="article",
+    ID="Madni1998",
+    placex="Proceedings 1998 IEEE Conference on Systems Man and Cybernetics, 1998-October",
 ))
 
 mcconnell1998a = DB(WorkUnrelated(

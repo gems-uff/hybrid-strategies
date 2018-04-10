@@ -236,6 +236,19 @@ deng2007a = DB(WorkUnrelated(
     placex="SIGMETRICS Perform. Eval. Rev.",
 ))
 
+dickmann2007a = DB(WorkUnrelated(
+    2007, "Deriving a valid process simulation from real world experiences",
+    display="dickmann",
+    authors="Dickmann, C. and Klein, H. and Birkhölzer, T. and Fietz, W. and Vaupel, J. and Meyer, L.",
+    place=FAKE,
+    pp="272-282",
+    entrytype="article",
+    volume="4470 LNCS",
+    note="cited By 5",
+    ID="Dickmann2007272",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 dror2007a = DB(WorkUnrelated(
     2007, "A process causality approach given a strategic frame",
     display="dror",
@@ -728,6 +741,17 @@ qi2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Qi2007",
     placex="Performance results from process improvement, DACS Journal",
+))
+
+rausch2007a = DB(WorkUnrelated(
+    2007, "Das V-Modell XT: Grundlagen, Methodik und Anwendungen",
+    display="rausch",
+    authors="Rausch, A. and Broy, M. and Höhn, R. and Bergner, K. and Höppner, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 7",
+    ID="Rausch2007",
+    placex="Heidelberg: Springer",
 ))
 
 ruan2007a = DB(WorkUnrelated(

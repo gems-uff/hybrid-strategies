@@ -102,6 +102,7 @@ basili2009a = DB(WorkUnrelated(
     placex="Proceedings of 9th BI Conference",
     pp="1-10",
     volume="9",
+    number="1",
 ))
 
 basili2009b = DB(WorkUnrelated(

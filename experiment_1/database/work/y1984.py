@@ -28,3 +28,14 @@ lamb1984a = DB(WorkUnrelated(
     ID="Lamb1984",
     placex="Englewood Cliffs: Prentice-Hall",
 ))
+
+luenberger1984a = DB(WorkUnrelated(
+    1984, "Linear and Nonlinear Programming",
+    display="luenberger",
+    authors="Luenberger, D.G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3783",
+    ID="Luenberger1984",
+    placex="2nd ed. Addison Wesley",
+))

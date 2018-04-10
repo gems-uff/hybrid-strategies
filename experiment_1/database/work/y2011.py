@@ -910,6 +910,17 @@ olsina2011b = DB(WorkUnrelated(
     note="cited By 1",
 ))
 
+pe2011a = DB(WorkUnrelated(
+    2011, "Process experience",
+    display="pe",
+    authors="PE",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="PE2011",
+    placex="http://www.processexperience.org/home",
+))
+
 pelrine2011a = DB(WorkUnrelated(
     2011, "On understanding software agility: A social complexity point of view",
     display="pelrine",

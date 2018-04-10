@@ -50,6 +50,16 @@ basili1993a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+blackerby1993a = DB(WorkUnrelated(
+    1993, "Strategic  Planning, An Overview for complying with GPRA (P.L.103-62)",
+    display="blackerby",
+    authors="P. Blackerby",
+    place=FAKE,
+    entrytype="article",
+    ID="Blackerby1993",
+    placex="http://www.perfstrat.com/articles/overview.htm",
+))
+
 cederling1993a = DB(WorkUnrelated(
     1993, "Industrial software development --- a case study",
     display="cederling",

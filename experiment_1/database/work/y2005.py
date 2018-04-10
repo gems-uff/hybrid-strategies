@@ -252,6 +252,21 @@ emam2005a = DB(WorkUnrelated(
     placex="Taylor and Francis Group",
 ))
 
+erdogmus2005a = DB(WorkUnrelated(
+    2005, "On the effectiveness of the test-first approach to programming",
+    display="erdogmus",
+    authors="Erdogmus, H. and Morisio, M. and Torchiano, M.",
+    place=ToSE,
+    pp="226-237",
+    entrytype="article",
+    volume="31",
+    number="3",
+    doi="10.1109/TSE.2005.37",
+    note="cited By 166",
+    ID="Erdogmus2005226",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 fernandes2005a = DB(WorkUnrelated(
     2005, "A reference framework for process-oriented software development organizations",
     display="fernandes",

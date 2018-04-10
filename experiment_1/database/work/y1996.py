@@ -96,6 +96,16 @@ cugola1996a = DB(WorkUnrelated(
     placex="ACM. Trans. Software Eng, and Methodology, Vol. 5, No. 3, Pp. 191-230",
 ))
 
+dod1996a = DB(WorkUnrelated(
+    1996, "DoD Guide to Integrated Product and Process Development",
+    display="dod",
+    authors="DOD",
+    place=FAKE,
+    entrytype="article",
+    ID="DOD1996",
+    placex="Office of the Under  Secretary of Defense (Acquisition and Technology",
+))
+
 dunaway1996a = DB(WorkUnrelated(
     1996, "CMM-Based appraisal for internal process improvement (CBA IPI): Method description",
     display="dunaway",

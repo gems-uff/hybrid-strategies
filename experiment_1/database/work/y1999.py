@@ -18,6 +18,17 @@ atkinson1999a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+beck1999a = DB(WorkUnrelated(
+    1999, "Extreme Programming Explained: Embrace Change",
+    display="beck",
+    authors="Beck, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4126",
+    ID="Beck1999",
+    placex="Addison Wesley",
+))
+
 becker1999a = DB(WorkUnrelated(
     1999, "Aligning strategic and project measurement systems",
     display="becker",
@@ -347,6 +358,17 @@ prahalad1999a = DB(WorkUnrelated(
     placex="Harvard Business",
 ))
 
+radice1999a = DB(WorkUnrelated(
+    1999, "The journey to level 4",
+    display="radice",
+    authors="Radice, R. and Sokhi, R. and Suresh, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Radice1999",
+    placex="Proc. European Software Eng. Process Group (ESEPG 99)",
+))
+
 raffo1999a = DB(WorkUnrelated(
     1999, "Software process simulation to achieve higher \CMM\ levels",
     display="raffo",
@@ -483,6 +505,17 @@ sommerville1999a = DB(WorkSnowball(
     scholar_ok=True,
     ieee="1",
     placex="IEEE Transactions on Software Engineering",
+))
+
+sytsma1999a = DB(WorkUnrelated(
+    1999, "Quality Tools Cookbook",
+    display="sytsma",
+    authors="Sytsma, S. and Manley, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Sytsma1999",
+    placex="www.sytsma.com/tqmtools/tqmtoolmenu.html",
 ))
 
 wastell1999a = DB(WorkUnrelated(

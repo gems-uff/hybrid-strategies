@@ -854,19 +854,11 @@ münch2013a = DB(WorkSnowball(
     ID="Münch2013",
 ))
 
-münch2013b = DB(WorkUnrelated(
-    2013, "Experiences and insights from applying gqm+strategies in a systems product development organisation. In: Proceedings of the 39th EUROMICRO conference on software engineering and advanced applications (SEAA 2013)",
-    display="münch b",
-    authors="Münch, J. and Fagerholm, F. and Kettunen, P. and Pagels, M. and Partanen, J.",
-    place=FAKE,
-    placex="Kaiserslautern",
-    entrytype="article",
-    note="cited By 1",
-    ID="Münch2013",
-))
-
 münch2013c = DB(WorkSnowball(
     2013, "Experiences and insights from applying gqm+ strategies in a systems product development organisation",
+    aliases=[
+        (2013, "Experiences and insights from applying gqm+strategies in a systems product development organisation. In: Proceedings of the 39th EUROMICRO conference on software engineering and advanced applications (SEAA 2013)"),
+    ],
     display="münch c",
     authors="Münch, Jürgen and Fagerholm, Fabian and Kettunen, Petri and Pagels, Max and Partanen, Jari",
     place=SEAA,

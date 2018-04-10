@@ -195,6 +195,17 @@ iso1994d = DB(WorkUnrelated(
     placex="ISO 9000-9003",
 ))
 
+iso1994e = DB(WorkUnrelated(
+    1994, "International Organization for Standardization",
+    display="iso e",
+    authors="iso",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iso1994",
+    placex="www.iso.ch/iso/en/iso9000-14000/iso9000/iso9000index.html",
+))
+
 jm1994a = DB(WorkUnrelated(
     1994, "Designing funded qualitative research",
     display="jm",

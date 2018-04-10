@@ -176,6 +176,20 @@ butler2000a = DB(WorkUnrelated(
     placex="Software Engineering Institute",
 ))
 
+card2000a = DB(WorkUnrelated(
+    2000, "Sorting out six sigma and the CMM",
+    display="card",
+    authors="Card, D.N.",
+    place=IEEES,
+    pp="11-13",
+    entrytype="article",
+    volume="17",
+    number="3",
+    note="cited By 20",
+    ID="Card200011",
+    placex="IEEE Software",
+))
+
 chiavenato2000a = DB(WorkUnrelated(
     2000, "Administração: Teoria, Processo e Prática",
     display="chiavenato",
@@ -460,6 +474,32 @@ kautz2000c = DB(WorkUnrelated(
     placex="",
 ))
 
+keeni2000a = DB(WorkUnrelated(
+    2000, "Evolution of quality processes at Tata Consultancy Services",
+    display="keeni",
+    authors="Keeni, G.",
+    place=IEEES,
+    pp="79-88",
+    entrytype="article",
+    volume="17",
+    number="4",
+    doi="10.1109/52.854073",
+    note="cited By 21",
+    ID="Keeni200079",
+    placex="IEEE Software",
+))
+
+keeni2000b = DB(WorkUnrelated(
+    2000, "Structure of the quality group for effective software process improvement",
+    display="keeni b",
+    authors="Keeni, G. and Chandra, A. and Dutta, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Keeni2000",
+    placex="Proc. Software Process Improvement Conf.",
+))
+
 kuilboer2000a = DB(WorkUnrelated(
     2000, "Software process and product improvement: An empirical assessment",
     display="kuilboer",
@@ -536,6 +576,20 @@ murugappan2000a = DB(WorkUnrelated(
     art_number="883798",
     note="cited By 14",
     ID="Murugappan2000248",
+    placex="Proceedings - 1st Asia-Pacific Conference on Quality Software, APAQS 2000",
+))
+
+nandivada2000a = DB(WorkUnrelated(
+    2000, "The 9 quadrant model for code reviews",
+    display="nandivada",
+    authors="Nandivada, R.P. and Chandra, A. and Dutta, S. and Keeni, G.",
+    place=FAKE,
+    pp="188-193",
+    entrytype="conference",
+    doi="10.1109/APAQ.2000.883792",
+    art_number="883792",
+    note="cited By 2",
+    ID="Nandivada2000188",
     placex="Proceedings - 1st Asia-Pacific Conference on Quality Software, APAQS 2000",
 ))
 
@@ -636,6 +690,21 @@ preston2000a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="preston2000optimal",
     placex="Acta psychologica",
+))
+
+raffo2000a = DB(WorkUnrelated(
+    2000, "Empirical analysis in software process simulation modeling",
+    display="raffo",
+    authors="Raffo, D.M. and Kellner, M.I.",
+    place=JSS,
+    pp="31-41",
+    entrytype="article",
+    volume="53",
+    number="1",
+    doi="10.1016/S0164-1212(00)00006-6",
+    note="cited By 28",
+    ID="Raffo200031",
+    placex="Journal of Systems and Software",
 ))
 
 rayson2000a = DB(WorkUnrelated(

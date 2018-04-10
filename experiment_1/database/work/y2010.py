@@ -15,6 +15,9 @@ armbrust2010a = DB(WorkSnowball(
     cluster_id="3542000251352756181",
     scholar="http://scholar.google.com/scholar?cites=3542000251352756181&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+    volume="6195 LNCS",
+    doi="10.1007/978-3-642-14347-2_4",
+    note="cited By 3",
 ))
 
 armbrust2010b = DB(WorkSnowball(
@@ -25,6 +28,17 @@ armbrust2010b = DB(WorkSnowball(
     entrytype="article",
     ID="armbrustprocesses",
     placex="Proceedings of the International SPICE Days",
+))
+
+ast2010a = DB(WorkUnrelated(
+    2010, "Driver tree - An experience simulation model for process improvement",
+    display="ast",
+    authors="Ast, S. and Russwurm, W. and Birkhölzer, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Ast2010",
+    placex="SEPG North America",
 ))
 
 barcellos2010a = DB(WorkUnrelated(
@@ -159,6 +173,18 @@ begum2010a = DB(WorkUnrelated(
     placex="arXiv preprint arXiv:1008.3321",
 ))
 
+boehm2010a = DB(WorkUnrelated(
+    2010, "A risk-driven decision table for software process selection",
+    display="boehm",
+    authors="Boehm, B.W.",
+    place=FAKE,
+    pp="1",
+    entrytype="article",
+    note="cited By 3",
+    ID="Boehm20101",
+    placex="Lecture Notes in Computer Science",
+))
+
 buehrer2010a = DB(WorkUnrelated(
     2010, "A Distributed Placement Service for Graph-structured and Tree-structured Data",
     display="buehrer",
@@ -202,6 +228,17 @@ chiprout2010a = DB(WorkUnrelated(
     ID="Chiprout:2010:OPG:1837274.1837511",
     acm="1",
     placex="Proceedings of the 47th Design Automation Conference",
+))
+
+cmmi2010a = DB(WorkUnrelated(
+    2010, "CMMI for development, version 1.3",
+    display="cmmi",
+    authors="cmmi",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 189",
+    ID="cmmi2010",
+    placex="CMMI Product Team, CMU/SEI-2010-TR-033, Tech. Rep.",
 ))
 
 cmusei2010a = DB(WorkUnrelated(

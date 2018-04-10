@@ -58,7 +58,7 @@ from ..work.y2012 import runeson2012a
 from ..work.y2013 import baca2013a
 from ..work.y2013 import gencel2013a
 from ..work.y2013 import münch2013a
-from ..work.y2013 import münch2013b
+from ..work.y2013 import münch2013c
 from ..work.y2013 import petersen2013a
 from ..work.y2014 import petersen2014a
 from ..work.y2014 import roditi2014a
@@ -242,7 +242,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    petersen2015a, münch2013b, ref="",
+    petersen2015a, münch2013c, ref="",
     contexts=[
 
     ],

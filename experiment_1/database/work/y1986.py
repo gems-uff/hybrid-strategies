@@ -13,3 +13,17 @@ deming1986a = DB(WorkUnrelated(
     ID="Deming1986",
     placex="Cambridge University Press",
 ))
+
+takeuchi1986a = DB(WorkUnrelated(
+    1986, "The new product development game",
+    display="takeuchi",
+    authors="Takeuchi, H. and Nonaka, I.",
+    place=FAKE,
+    pp="137-146",
+    entrytype="article",
+    volume="64",
+    number="1",
+    note="cited By 740",
+    ID="Takeuchi1986137",
+    placex="Harvard Business Review",
+))
