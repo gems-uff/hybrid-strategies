@@ -4,11 +4,11 @@ from snowballing.models import *
 from ..places import *
 
 fagan1976a = DB(WorkUnrelated(
-    1976, "DESIGN AND CODE INSPECTIONS TO REDUCE ERRORS IN PROGRAM DEVELOPMENT.",
+    1976, "DESIGN AND CODE INSPECTIONS TO REDUCE ERRORS IN PROGRAM DEVELOPMENT",
     display="fagan",
     authors="Fagan, Michael E.",
     place=FAKE,
-    pp="182-211",
+    pp="182--211",
     entrytype="article",
     volume="15",
     number="3",
@@ -19,7 +19,7 @@ fagan1976a = DB(WorkUnrelated(
 ))
 
 fagan1976b = DB(WorkUnrelated(
-    1976, "Design and code inspections to reduce errors in program development.",
+    1976, "Design and code inspections to reduce errors in program development",
     display="fagan b",
     authors="M Fagan",
     place=FAKE,
@@ -32,9 +32,9 @@ mccabe1976a = DB(WorkUnrelated(
     display="mccabe",
     authors="Mccabe, T.J.",
     place=ToSE,
-    pp="308-320",
+    pp="308--320",
     entrytype="article",
-    volume="SE-2",
+    volume="SE--2",
     number="4",
     doi="10.1109/TSE.1976.233837",
     note="cited By 2535",

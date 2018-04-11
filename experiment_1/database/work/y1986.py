@@ -15,7 +15,7 @@ deming1986a = DB(WorkUnrelated(
 ))
 
 deming1986b = DB(WorkUnrelated(
-    1986, "Out of the crisis.",
+    1986, "Out of the crisis",
     display="deming b",
     authors="WE Deming",
     place=FAKE,
@@ -28,7 +28,7 @@ takeuchi1986a = DB(WorkUnrelated(
     display="takeuchi",
     authors="Takeuchi, H. and Nonaka, I.",
     place=FAKE,
-    pp="137-146",
+    pp="137--146",
     entrytype="article",
     volume="64",
     number="1",

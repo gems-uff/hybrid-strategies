@@ -18,6 +18,7 @@ armbrust2010a = DB(WorkSnowball(
     volume="6195 LNCS",
     doi="10.1007/978-3-642-14347-2_4",
     note="cited By 3",
+    scholar_ok=True,
 ))
 
 armbrust2010b = DB(WorkSnowball(
@@ -28,6 +29,7 @@ armbrust2010b = DB(WorkSnowball(
     entrytype="article",
     ID="armbrustprocesses",
     placex="Proceedings of the International SPICE Days",
+    scholar_ok=True,
 ))
 
 ast2010a = DB(WorkUnrelated(
@@ -61,7 +63,7 @@ barcellos2010b = DB(WorkUnrelated(
     display="barcellos b",
     authors="M. P. Barcellos and R. d. A. Falbo and A. R. Rocha",
     place=FAKE,
-    pp="253-262",
+    pp="253--262",
     entrytype="inproceedings",
     volume="",
     number="",
@@ -142,7 +144,7 @@ basili2010b = DB(WorkUnrelated(
     display="basili b",
     authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Regardie, M. and Rombach, D.",
     place=FAKE,
-    pp="1-14",
+    pp="1--14",
     entrytype="article",
     note="cited By 1",
     ID="Basili20101",
@@ -154,7 +156,7 @@ basili2010c = DB(WorkUnrelated(
     display="basili c",
     authors="Basili, V. and Heidrich, J. and Lindvall, M. and Münch, J. and Seaman, C. and Regardie, M.",
     place=FAKE,
-    pp="1-10",
+    pp="1--10",
     entrytype="article",
     note="cited By 1",
     ID="Basili20101",
@@ -203,7 +205,7 @@ buehrer2010a = DB(WorkUnrelated(
 ))
 
 burlton2010a = DB(WorkUnrelated(
-    2010, "Delivering business strategy through process management.",
+    2010, "Delivering business strategy through process management",
     display="burlton",
     authors="R Burlton",
     place=FAKE,
@@ -353,7 +355,7 @@ díazley2010a = DB(WorkUnrelated(
     display="díazley",
     authors="María Díaz-Ley and Félix García and Mario Piattini",
     place=FAKE,
-    pp="1223 - 1237",
+    pp="1223 -- 1237",
     entrytype="article",
     volume="41",
     number="1011",
@@ -372,7 +374,7 @@ egorova2010a = DB(WorkUnrelated(
     display="egorova",
     authors="Evgenia Egorova and Marco Torchiano and Maurizio Morisio",
     place=JSS,
-    pp="1907 - 1916",
+    pp="1907 -- 1916",
     entrytype="article",
     volume="83",
     number="10",
@@ -405,7 +407,7 @@ esfahani2010a = DB(WorkUnrelated(
     display="esfahani",
     authors="Esfahani, H.C. and Yu, E.",
     place=FAKE,
-    pp="163-174",
+    pp="163--174",
     entrytype="article",
     volume="6195 LNCS",
     doi="10.1007/978-3-642-14347-2_15",
@@ -419,7 +421,7 @@ faegri2010a = DB(WorkUnrelated(
     display="faegri",
     authors="Tor Erlend Faegri and Tore Dybå and Torgeir Dingsøyr",
     place=IST,
-    pp="1118 - 1132",
+    pp="1118 -- 1132",
     entrytype="article",
     volume="52",
     number="10",
@@ -438,7 +440,7 @@ faulk2010a = DB(WorkUnrelated(
     display="faulk",
     authors="Faulk, S. and Harmon, R. and Raffo, D.",
     place=FAKE,
-    pp="1-13",
+    pp="1--13",
     entrytype="article",
     note="cited By 1",
     ID="Faulk20101",
@@ -462,7 +464,7 @@ ferrari2010a = DB(WorkUnrelated(
 ))
 
 gartner2010a = DB(WorkUnrelated(
-    2010, "Gartner executive programs CIO survey.",
+    2010, "Gartner executive programs CIO survey",
     display="gartner",
     authors="Gartner",
     place=FAKE,
@@ -534,7 +536,7 @@ hauge2010a = DB(WorkUnrelated(
     display="hauge",
     authors="Øyvind Hauge and Claudia Ayala and Reidar Conradi",
     place=IST,
-    pp="1133 - 1154",
+    pp="1133 -- 1154",
     entrytype="article",
     volume="52",
     number="11",
@@ -630,7 +632,7 @@ khoshkbarforoushha2010a = DB(WorkUnrelated(
     display="khoshkbarforoushha",
     authors="A. Khoshkbarforoushha and R. Tabein and P. Jamshidi and F. Shams",
     place=FAKE,
-    pp="245-252",
+    pp="245--252",
     entrytype="inproceedings",
     volume="",
     number="",
@@ -675,14 +677,17 @@ klöckner2010a = DB(WorkUnrelated(
 ))
 
 kowalczyk2010a = DB(WorkSnowball(
-    2010, "Aligning software-related strategies in multi- organizational settings",
+    2010, "Aligning software-related strategies in multi-organizational settings",
     display="kowalczyk",
-    authors="Kowalczyk, M. and Münch, J. and Katahira, M. and Kaneko, T. and Miyamoto, Y. and Koishi, Y.",
+    authors="Kowalczyk, Martin and Münch, Jürgen and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi",
     place=ICSPPM,
     entrytype="article",
     note="cited By 2",
     ID="Kowalczyk2010",
     placex="Proceedings of the International Conference on Software Process and Product Measurement (IWSM/MetriKon/Mensura 2010)",
+    scholar="http://scholar.google.com/scholar?cites=16277693229634567198&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="16277693229634567198",
+    scholar_ok=True,
 ))
 
 krasteva2010a = DB(WorkUnrelated(
@@ -690,7 +695,7 @@ krasteva2010a = DB(WorkUnrelated(
     display="krasteva",
     authors="Krasteva, I. and Ilieva, S. and Dimov, A.",
     place=FAKE,
-    pp="266-280",
+    pp="266--280",
     entrytype="article",
     volume="6051 LNCS",
     doi="10.1007/978-3-642-13094-6_22",
@@ -833,7 +838,7 @@ mandić2010c = DB(WorkUnrelated(
     2010, "Early empirical assessment of the practical value of GQM +strategies",
     display="mandić c",
     authors="Mandić, V. and Harjumaa, L. and Markkula, J. and Oivo, M.",
-    pp="14-25",
+    pp="14--25",
     place=FAKE,
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     entrytype="article",
@@ -845,18 +850,21 @@ mandić2010c = DB(WorkUnrelated(
 ))
 
 mandić2010d = DB(WorkSnowball(
-    2010, "SAS: A tool for the GQM+strategies grid derivation process",
+    2010, "SAS: A tool for the GQM+ strategies grid derivation process",
     display="mandić d",
-    authors="Mandić, V. and Oivo, M.",
-    pp="291-305",
+    authors="Mandić Vladimir and Oivo, Markku",
+    pp="291--305",
     place=FAKE,
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-    entrytype="article",
+    entrytype="inproceedings",
     volume="6156 LNCS",
     doi="10.1007/978-3-642-13792-1_23",
     note="cited By 5",
     ID="Mandić2010291",
     scholar="http://scholar.google.com/scholar?cites=8738894608367720961&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="8738894608367720961",
+    scholar_ok=True,
 ))
 
 mandić2010e = DB(WorkUnrelated(
@@ -927,13 +935,13 @@ mashapa2010a = DB(WorkUnrelated(
 ))
 
 mcloughlin2010a = DB(WorkSnowball(
-    2010, "The Rosetta stone methodology - A benefits driven approach to software process improvement",
+    2010, "The Rosetta Stone Methodology - A benefits-driven approach to software process improvement",
     display="mcloughlin",
-    authors="McLoughlin, F. and Richardson, I.",
-    pp="366-379",
+    authors="McLoughlin, Fionbarr and Richardson, Ita",
+    pp="366--379",
     place=FAKE,
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-    entrytype="article",
+    entrytype="inproceedings",
     volume="6156 LNCS",
     doi="10.1007/978-3-642-13792-1_28",
     note="cited By 0",
@@ -941,6 +949,10 @@ mcloughlin2010a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     ID="McLoughlin2010366",
+    scholar="http://scholar.google.com/scholar?cites=5420330165680143679&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="5420330165680143679",
+    scholar_ok=True,
 ))
 
 mcloughlin2010b = DB(WorkSnowball(
@@ -948,7 +960,7 @@ mcloughlin2010b = DB(WorkSnowball(
     display="mcloughlin b",
     authors="McLoughlin, F. and Richardson, I.",
     place=CCIS,
-    pp="201-212",
+    pp="201--212",
     entrytype="article",
     volume="99 CCIS",
     doi="10.1007/978-3-642-15666-3_18",
@@ -956,6 +968,7 @@ mcloughlin2010b = DB(WorkSnowball(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77957590654&doi=10.1007%2f978-3-642-15666-3_18&partnerID=40&md5=e06aaac5f23d90fcb4473a90273c06b2",
     document_type="Conference Paper",
     source="Scopus",
+    scholar="https://scholar.google.com.br/scholar?cites=6744102271720670138&as_sdt=2005&sciodt=0,5&hl=pt-BR",
     ID="McLoughlin2010201",
 ))
 
@@ -975,7 +988,7 @@ mellado2010a = DB(WorkUnrelated(
     display="mellado",
     authors="Daniel Mellado and Carlos Blanco and Luis E. Sánchez and Eduardo Fernández-Medina",
     place=CSI,
-    pp="153 - 165",
+    pp="153 -- 165",
     entrytype="article",
     volume="32",
     number="4",
@@ -1021,7 +1034,7 @@ müller2010a = DB(WorkUnrelated(
     display="müller",
     authors="Sune Dueholm Müller and Lars Mathiassen and Hans Henrik Balshøj",
     place=JSS,
-    pp="2128 - 2146",
+    pp="2128 -- 2146",
     entrytype="article",
     volume="83",
     number="11",
@@ -1041,7 +1054,7 @@ nikula2010a = DB(WorkUnrelated(
     display="nikula",
     authors="Uolevi Nikula and Christian Jurvanen and Orlena Gotel and Donald C Gause",
     place=IST,
-    pp="680 - 696",
+    pp="680 -- 696",
     entrytype="article",
     volume="52",
     number="6",
@@ -1084,7 +1097,7 @@ parkinson2010a = DB(WorkUnrelated(
     display="parkinson",
     authors="Parkinson, S.T. and Hierons, R.M. and Lycett, M. and Norman, M.",
     place=CACM,
-    pp="142-147",
+    pp="142--147",
     entrytype="article",
     volume="53",
     number="3",
@@ -1099,7 +1112,7 @@ patanakul2010a = DB(WorkUnrelated(
     display="patanakul",
     authors="Patanakul, P. and Shenhar, A.",
     place=FAKE,
-    pp="340-352",
+    pp="340--352",
     entrytype="article",
     volume="13",
     number="4",
@@ -1114,7 +1127,7 @@ petersen2010a = DB(WorkUnrelated(
     display="petersen",
     authors="Petersen, K. and Wohlin, C.",
     place=ESE,
-    pp="654-693",
+    pp="654--693",
     entrytype="article",
     volume="15",
     number="6",
@@ -1128,7 +1141,7 @@ petersen2010b = DB(WorkUnrelated(
     display="petersen b",
     authors="Petersen, K. and Wohlin, C.",
     place=JSS,
-    pp="1275-1287",
+    pp="1275--1287",
     entrytype="article",
     volume="83",
     number="7",
@@ -1142,7 +1155,7 @@ pino2010a = DB(WorkUnrelated(
     display="pino",
     authors="Francisco J. Pino and César Pardo and Félix García and Mario Piattini",
     place=IST,
-    pp="1044 - 1061",
+    pp="1044 -- 1061",
     entrytype="article",
     volume="52",
     number="10",
@@ -1177,7 +1190,7 @@ riel2010a = DB(WorkUnrelated(
     display="riel",
     authors="A. Riel and S. Tichkiewitch and R. Messnarz",
     place=FAKE,
-    pp="279 - 289",
+    pp="279 -- 289",
     entrytype="article",
     volume="2",
     number="4",
@@ -1206,7 +1219,7 @@ rolland2010a = DB(WorkUnrelated(
     display="rolland",
     authors="C. Rolland and S. Nurcan",
     place=FAKE,
-    pp="1-10",
+    pp="1--10",
     entrytype="inproceedings",
     volume="",
     number="",
@@ -1238,7 +1251,7 @@ romero2010a = DB(WorkUnrelated(
 ))
 
 rosemann2010a = DB(WorkUnrelated(
-    2010, "The six core elements of business process management.",
+    2010, "The six core elements of business process management",
     display="rosemann",
     authors="M Rosemann, vom Brocke J",
     place=FAKE,
@@ -1288,11 +1301,11 @@ softex2010a = DB(WorkUnrelated(
 ))
 
 sun2010a = DB(WorkSnowball(
-    2010, "Business-oriented software process improvement based on \CMMI\ using \QFD",
+    2010, "Business-oriented software process improvement based on CMMI using QFD",
     display="sun",
-    authors="Yan Sun and Xiaoqing (Frank) Liu",
+    authors="Sun, Yan and Liu, Xiaoqing Frank",
     place=IST,
-    pp="79 - 91",
+    pp="79--91",
     entrytype="article",
     volume="52",
     number="1",
@@ -1305,6 +1318,9 @@ sun2010a = DB(WorkSnowball(
     sciencedirect="1",
     placex="Information and Software Technology",
     scholar="http://scholar.google.com/scholar?cites=4881529965332269987&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Elsevier",
+    cluster_id="4881529965332269987",
+    scholar_ok=True,
 ))
 
 tisselli2010a = DB(WorkUnrelated(
@@ -1376,7 +1392,7 @@ vuk2010a = DB(WorkUnrelated(
     pp="5--19",
     entrytype="article",
     volume="1",
-    number="1-2",
+    number="1--2",
     publisher="Versita",
     ID="vukvsic2010adoption",
     cluster_id="10815219668476755713",
@@ -1389,7 +1405,7 @@ wangenheim2010a = DB(WorkUnrelated(
     display="wangenheim",
     authors="Christiane Gresse von Wangenheim and Djoni Antonio da Silva and Luigi Buglione and Rafael Scheidt and Rafael Prikladnicki",
     place=IST,
-    pp="749 - 757",
+    pp="749 -- 757",
     entrytype="article",
     volume="52",
     number="7",
@@ -1408,7 +1424,7 @@ weerd2010a = DB(WorkUnrelated(
     display="weerd",
     authors="Inge van de Weerd and Sjaak Brinkkemper and Johan Versendaal",
     place=IST,
-    pp="720 - 732",
+    pp="720 -- 732",
     entrytype="article",
     volume="52",
     number="7",
@@ -1427,7 +1443,7 @@ winter2010a = DB(WorkUnrelated(
     display="winter",
     authors="Jeff Winter and Kari Rönkkö",
     place=JSS,
-    pp="2059 - 2072",
+    pp="2059 -- 2072",
     entrytype="article",
     volume="83",
     number="11",
@@ -1469,7 +1485,7 @@ zalzala2010a = DB(WorkUnrelated(
     display="zalzala",
     authors="Zalzala, A. and Udaipurwala, A.",
     place=ECIME,
-    pp="397-408",
+    pp="397--408",
     entrytype="inproceedings",
     note="cited By 0",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84900804698&partnerID=40&md5=1ae1d1be9212fc154b5144d9e22088ae",
@@ -1484,7 +1500,7 @@ zalzala2010a = DB(WorkUnrelated(
 ))
 
 zhang2010a = DB(WorkUnrelated(
-    2010, "Capturing Antagonistic Stakeholder Value Propositions in Value-Based Software Development.",
+    2010, "Capturing Antagonistic Stakeholder Value Propositions in Value-Based Software Development",
     display="zhang",
     authors="Zhang, Du",
     place=FAKE,
@@ -1515,7 +1531,7 @@ zowghi2010a = DB(WorkUnrelated(
     display="zowghi",
     authors="D. Zowghi and Z. Jin",
     place=FAKE,
-    pp="269-272",
+    pp="269--272",
     entrytype="inproceedings",
     volume="",
     number="",

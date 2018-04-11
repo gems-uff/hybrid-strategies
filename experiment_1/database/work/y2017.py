@@ -144,7 +144,7 @@ minhas2017a = DB(WorkUnrelated(
 ))
 
 moreira2017a = DB(WorkUnrelated(
-    2017, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION.",
+    2017, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",
     display="moreira",
     authors="Moreira, Renata Teles",
     place=FAKE,
@@ -175,7 +175,7 @@ mughal2017a = DB(WorkUnrelated(
 ))
 
 nicho2017a = DB(WorkUnrelated(
-    2017, "IT governance measurement tools and its application in IT-business alignment.",
+    2017, "IT governance measurement tools and its application in IT-business alignment",
     display="nicho",
     authors="Nicho, Mathew and Khan, Shafaq",
     place=FAKE,
@@ -199,7 +199,7 @@ olsina2017a = DB(WorkUnrelated(
 ))
 
 pinheiro2017a = DB(WorkUnrelated(
-    2017, "Active Gamification: A gamification process for successful gamification.",
+    2017, "Active Gamification: A gamification process for successful gamification",
     display="pinheiro",
     aliases=[(0,"Developing Modern Industrial Control Applications")],
     authors="Pinheiro, Bruno Contessotto Bragan{ç}a",

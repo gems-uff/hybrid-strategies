@@ -12,7 +12,7 @@ bandinelli1995a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Bandinelli1995",
     placex="IEEE Trans. Software Eng., Vol. 21, No, 5, Pp. 440-454",
-    pp="440-454",
+    pp="440--454",
     volume="21",
     number="5",
     doi="10.1109/32.387473",
@@ -23,7 +23,7 @@ basili1995a = DB(WorkUnrelated(
     display="basili",
     authors="Basili, V. and Zelkowitz, M. and Mcgarry, F. and Page, J. and Waligora, S. and Pajerski, R.",
     place=IEEES,
-    pp="83-87",
+    pp="83--87",
     entrytype="article",
     volume="12",
     number="6",
@@ -34,7 +34,7 @@ basili1995a = DB(WorkUnrelated(
 ))
 
 basili1995b = DB(WorkUnrelated(
-    1995, "Improve software quality by reusing knowledge and experience.",
+    1995, "Improve software quality by reusing knowledge and experience",
     display="basili b",
     authors="VR Basili, G Caldiera",
     place=FAKE,
@@ -69,7 +69,7 @@ brodman1995a = DB(WorkUnrelated(
     display="brodman",
     authors="Brodman, J.G. and Johnson, D.L.",
     place=SPIP,
-    pp="35-47",
+    pp="35--47",
     entrytype="article",
     volume="1",
     number="1",
@@ -98,7 +98,7 @@ butler1995a = DB(WorkUnrelated(
     display="butler",
     authors="Butler, K.L.",
     place=FAKE,
-    pp="14-17",
+    pp="14--17",
     entrytype="article",
     volume="8",
     number="7",
@@ -159,7 +159,7 @@ conradi1995a = DB(WorkUnrelated(
 ))
 
 debou1995a = DB(WorkUnrelated(
-    1995, "ami: a tailorable framework for software process improvement.",
+    1995, "ami: a tailorable framework for software process improvement",
     display="debou",
     authors="C. Debou, N Fuchs, M Haux",
     place=FAKE,
@@ -167,7 +167,7 @@ debou1995a = DB(WorkUnrelated(
 ))
 
 gresse1995a = DB(WorkUnrelated(
-    1995, "A process model for planning GQM-based measurement.",
+    1995, "A process model for planning GQM-based measurement",
     display="gresse",
     authors="C Gresse, B Hoisl, J Wu¨st",
     place=FAKE,
@@ -179,7 +179,7 @@ herbsleb1995a = DB(WorkUnrelated(
     display="herbsleb",
     authors="Herbsleb, James D. and Goldenson, Dennis R.",
     place=ICSE,
-    pp="323-330",
+    pp="323--330",
     entrytype="article",
     note="cited By 103",
     ID="Herbsleb1995323",
@@ -191,11 +191,14 @@ hinley1995a = DB(WorkSnowball(
     display="hinley",
     authors="Hinley, DS and Reiblein, S",
     place=FAKE,
-    place1="WIT Transactions on Information and Communication Technologies",
+    placex="WIT Transactions on Information and Communication Technologies",
     entrytype="article",
     volume="13",
     publisher="WIT Press",
     ID="hinley1995goal",
+    scholar="http://scholar.google.com/scholar?cites=751050437562579240&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="751050437562579240",
+    scholar_ok=True,
 ))
 
 humphrey1995a = DB(WorkUnrelated(
@@ -291,7 +294,7 @@ miller1995a = DB(WorkUnrelated(
     display="miller",
     authors="Miller, C.",
     place=FAKE,
-    pp="475-487",
+    pp="475--487",
     entrytype="article",
     note="cited By 1",
     ID="Miller1995475",
@@ -299,7 +302,7 @@ miller1995a = DB(WorkUnrelated(
 ))
 
 neely1995a = DB(WorkUnrelated(
-    1995, "Performance measurement system design: a literature review and research agenda.",
+    1995, "Performance measurement system design: a literature review and research agenda",
     display="neely",
     authors="A Neely, M Gregory, K Platts",
     place=FAKE,
@@ -338,7 +341,7 @@ paulk1995b = DB(WorkUnrelated(
     display="paulk b",
     authors="Paulk, M.C.",
     place=IEEES,
-    pp="74-83",
+    pp="74--83",
     entrytype="article",
     volume="12",
     number="1",
@@ -372,7 +375,7 @@ rombach1995a = DB(WorkUnrelated(
     display="rombach",
     authors="H. Dieter Rombach and Martin Verlage",
     place=FAKE,
-    pp="1 - 63",
+    pp="1 -- 63",
     entrytype="incollection",
     editor="Marvin Zelkowitz",
     publisher="Elsevier",
@@ -430,7 +433,7 @@ vlasveld1995a = DB(WorkUnrelated(
     display="vlasveld",
     authors="Vlasveld, G.-J.",
     place=FAKE,
-    pp="53-57",
+    pp="53--57",
     entrytype="article",
     volume="2",
     note="cited By 1",

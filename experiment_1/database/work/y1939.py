@@ -4,7 +4,7 @@ from snowballing.models import *
 from ..places import *
 
 shewhart1939a = DB(WorkUnrelated(
-    1939, "Statistical method from the viewpoint of quality control.",
+    1939, "Statistical method from the viewpoint of quality control",
     display="shewhart",
     authors="WA Shewhart",
     place=FAKE,

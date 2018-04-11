@@ -4,7 +4,7 @@ from snowballing.models import *
 from ..places import *
 
 ai1994a = DB(WorkUnrelated(
-    1994, "Goal decomposition and scenario analysis in business process reengineering.",
+    1994, "Goal decomposition and scenario analysis in business process reengineering",
     display="ai",
     authors="Anto´n AI, McCracken WM, Potts C",
     place=FAKE,
@@ -16,7 +16,7 @@ basili1994a = DB(WorkUnrelated(
     1994, "Goal question metric paradigm",
     display="basili",
     authors="Basili, V.R. and Caldiera, G. and Rombach, H.D.",
-    pp="528-532",
+    pp="528--532",
     place=FAKE,
     placex="Encyclopedia of Software Engineering",
     entrytype="article",
@@ -30,7 +30,7 @@ basili1994b = DB(WorkUnrelated(
     display="basili b",
     authors="Basili, V.R. and Caldiera, G. and Rombach, H.D.",
     place=FAKE,
-    pp="469-476",
+    pp="469--476",
     entrytype="article",
     volume="1",
     note="cited By 1411",
@@ -54,14 +54,14 @@ basili1994d = DB(WorkUnrelated(
     display="basili d",
     authors="V. Basili, G. Caldiera, D. Rombach",
     place=FAKE,
-    pp="469-476",
+    pp="469--476",
     entrytype="article",
     ID="Basili1994",
     placex="Encyclopedia of Software Engineering 1, John-Wiley & Sons",
 ))
 
 basili1994e = DB(WorkUnrelated(
-    1994, "Software process evolution at the SEL.",
+    1994, "Software process evolution at the SEL",
     display="basili e",
     authors="V Basili, S Green",
     place=IEEES,
@@ -69,7 +69,7 @@ basili1994e = DB(WorkUnrelated(
 ))
 
 basili1994f = DB(WorkUnrelated(
-    1994, "The experience factory.",
+    1994, "The experience factory",
     display="basili f",
     authors="VR Basili,G Caldiera, HD Rombach",
     place=FAKE,
@@ -82,7 +82,7 @@ brodman1994a = DB(WorkUnrelated(
     display="brodman",
     authors="Brodman, Judith G. and Johnson, Donna L.",
     place=ICSE,
-    pp="331-340",
+    pp="331--340",
     entrytype="article",
     note="cited By 69",
     ID="Brodman1994331",
@@ -116,7 +116,7 @@ debou1994a = DB(WorkUnrelated(
     display="debou",
     authors="Christophe Debou and Jaroslav Lipták and Herbert Schippers",
     place=JSS,
-    pp="43 - 52",
+    pp="43 -- 52",
     entrytype="article",
     volume="26",
     number="1",
@@ -152,7 +152,7 @@ finkelstein1994a = DB(WorkUnrelated(
 ))
 
 gamma1994a = DB(WorkUnrelated(
-    1994, "Design patterns: Elements of Reusable Object Oriented Software.",
+    1994, "Design patterns: Elements of Reusable Object Oriented Software",
     display="gamma",
     authors="E Gamma, R Helm, R Johnson, J Vlissides",
     place=FAKE,
@@ -212,7 +212,7 @@ iso1994a = DB(WorkUnrelated(
     authors="iso",
     place=FAKE,
     entrytype="article",
-    number="1-3 PARTS",
+    number="1--3 PARTS",
     note="cited By 1",
     ID="iso1994",
     placex="Geneva, Switzerland, ISO 1011-1:1990(E), ISO 1011-2:1991(E), ISO 1011-3:1991(E)",
@@ -304,7 +304,7 @@ krasner1994b = DB(WorkUnrelated(
     display="krasner b",
     authors="Krasner, H.",
     place=FAKE,
-    pp="1-6",
+    pp="1--6",
     entrytype="article",
     volume="1",
     note="cited By 3",
@@ -335,7 +335,7 @@ madhavji1994a = DB(WorkUnrelated(
 ))
 
 mcgarry1994a = DB(WorkUnrelated(
-    1994, "Software process improvement in the NASA Software Engineering Laboratory.",
+    1994, "Software process improvement in the NASA Software Engineering Laboratory",
     display="mcgarry",
     authors="F McGarry, R Pajersky, G Page,  S Waligora, V Basili, M Zelkowitz",
     place=FAKE,
@@ -373,7 +373,7 @@ paulish1994a = DB(WorkUnrelated(
     display="paulish",
     authors="Paulish, D.J. and Carleton, A.D.",
     place=C,
-    pp="50-57",
+    pp="50--57",
     entrytype="article",
     volume="27",
     number="9",
@@ -410,7 +410,7 @@ pfleeger1994a = DB(WorkUnrelated(
     display="pfleeger",
     authors="Pfleeger, S.L. and Rombach, H.D.",
     place=IEEES,
-    pp="8-11",
+    pp="8--11",
     entrytype="article",
     volume="11",
     number="4",
@@ -425,7 +425,7 @@ roche1994a = DB(WorkUnrelated(
     display="roche",
     authors="John Roche and Mike Jackson",
     place=IST,
-    pp="173 - 189",
+    pp="173 -- 189",
     entrytype="article",
     volume="36",
     number="3",
@@ -459,7 +459,7 @@ vertage1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Vertage1994",
     placex="Proc. Third European Workshop Software Process Technology, SpringerVerlag, Pp. 123-127",
-    pp="123-127",
+    pp="123--127",
 ))
 
 whitney1994a = DB(WorkUnrelated(

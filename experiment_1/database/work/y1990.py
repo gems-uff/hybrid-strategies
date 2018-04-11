@@ -52,7 +52,7 @@ daskalaivtonakis1990a = DB(WorkUnrelated(
     display="daskalaivtonakis",
     authors="Daskalaivtonakis, M.K. and Basili, V.R.",
     place=FAKE,
-    pp="27-40",
+    pp="27--40",
     entrytype="article",
     volume="3",
     number="1",
@@ -74,7 +74,7 @@ hammer1990a = DB(WorkUnrelated(
 ))
 
 hammer1990b = DB(WorkUnrelated(
-    1990, "Reengineering work: dont automate, obliterate.",
+    1990, "Reengineering work: dont automate, obliterate",
     display="hammer b",
     authors="M Hammer",
     place=FAKE,
@@ -100,7 +100,7 @@ mcnair1990a = DB(WorkUnrelated(
     display="mcnair",
     authors="McNair, C.J. and Lynch, R.L. and Cross, K.F.",
     place=FAKE,
-    pp="28-36",
+    pp="28--36",
     entrytype="article",
     number="5",
     note="cited By 104",

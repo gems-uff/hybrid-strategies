@@ -37,7 +37,7 @@ ali2014a = DB(WorkUnrelated(
     display="ali",
     authors="Nauman Bin Ali and Kai Petersen and Claes Wohlin",
     place=JSS,
-    pp="65 - 85",
+    pp="65 -- 85",
     entrytype="article",
     volume="97",
     number="",
@@ -70,7 +70,7 @@ barzilay2014a = DB(WorkUnrelated(
     display="barzilay",
     authors="Ohad Barzilay and Cathy Urquhart",
     place=IST,
-    pp="1613 - 1628",
+    pp="1613 -- 1628",
     entrytype="article",
     volume="56",
     number="12",
@@ -125,7 +125,7 @@ basili2014c = DB(WorkUnrelated(
 ))
 
 basili2014d = DB(WorkUnrelated(
-    2014, "Aligning organizations through measurement: The GQM+strategies approach, ser.",
+    2014, "Aligning organizations through measurement: The GQM+strategies approach",
     display="basili d",
     authors="Basili, V. and Trendowicz, A. and Kowalczyk, M. and Heidrich, J. and Seaman, C. and Münch, J. and Rombach, D.",
     place=FAKE,
@@ -140,7 +140,7 @@ baskerville2014a = DB(WorkUnrelated(
     display="baskerville",
     authors="Richard Baskerville and Paolo Spagnoletti and Jongwoo Kim",
     place=FAKE,
-    pp="138 - 151",
+    pp="138 -- 151",
     entrytype="article",
     volume="51",
     number="1",
@@ -267,6 +267,7 @@ cocozza2014a = DB(WorkSnowball(
     cluster_id="11421519945726743811",
     scholar="http://scholar.google.com/scholar?cites=11421519945726743811&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product-Focused Software Process Improvement",
+    scholar_ok=True,
 ))
 
 costa2014a = DB(WorkUnrelated(
@@ -317,7 +318,7 @@ delgado2014a = DB(WorkUnrelated(
     display="delgado",
     authors="Andrea Delgado and Barbara Weber and Francisco Ruiz and Ignacio Garcia-Rodríguez de Guzmán and Mario Piattini",
     place=IST,
-    pp="134 - 162",
+    pp="134 -- 162",
     entrytype="article",
     volume="56",
     number="2",
@@ -423,7 +424,7 @@ fontana2014a = DB(WorkUnrelated(
     display="fontana",
     authors="Rafaela Mantovani Fontana and Isabela Mantovani Fontana and Paula Andrea da Rosa Garbuio and Sheila Reinehr and Andreia Malucelli",
     place=JSS,
-    pp="140 - 155",
+    pp="140 -- 155",
     entrytype="article",
     volume="97",
     number="",
@@ -554,7 +555,7 @@ hustad2014a = DB(WorkUnrelated(
     display="hustad",
     authors="Eli Hustad and Christer de Lange",
     place=FAKE,
-    pp="684 - 693",
+    pp="684 -- 693",
     entrytype="article",
     volume="16",
     number="",
@@ -610,7 +611,7 @@ janes2014a = DB(WorkUnrelated(
 ))
 
 jørgensen2014a = DB(WorkUnrelated(
-    2014, "17.6 Last But Not Least...",
+    2014, "17.6 Last But Not Least",
     aliases=[(0,"17.6 Last But Not Least...")],
     display="jørgensen",
     authors="Jørgensen, Magne",
@@ -697,17 +698,21 @@ kudryashova2014a = DB(WorkUnrelated(
 ))
 
 lepmets2014a = DB(WorkSnowball(
-    2014, "A cynefin based approach to process model tailoring and goal alignment",
+    2014, "A Cynefin based approach to process model tailoring and goal alignment",
     display="lepmets",
-    authors="Lepmets, M. and O'Connor, R.V. and Cater-Steel, A. and Mesquida, A.L. and McBride, T.",
+    authors="Lepmets, Marion and O Connor, Rory V and Cater-Steel, Aileen and Mesquida, Antoni Lluis and McBride, Tom",
     place=ICQICT,
-    pp="166-169",
-    entrytype="article",
+    pp="166--169",
+    entrytype="inproceedings",
     doi="10.1109/QUATIC.2014.30",
     art_number="6984111",
     note="cited By 4",
     ID="Lepmets2014166",
     placex="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014",
+    scholar="http://scholar.google.com/scholar?cites=13841680928583455244&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="IEEE",
+    cluster_id="13841680928583455244",
+    scholar_ok=True,
 ))
 
 lepmets2014b = DB(WorkUnrelated(
@@ -715,7 +720,7 @@ lepmets2014b = DB(WorkUnrelated(
     display="lepmets b",
     authors="Lepmets, M. and Mesquida, A.L. and Cater-Steel, A. and Mas, A. and Ras, E.",
     place=FAKE,
-    pp="39-57",
+    pp="39--57",
     entrytype="article",
     volume="15",
     number="1",
@@ -775,7 +780,7 @@ mitrehernández2014a = DB(WorkUnrelated(
     display="mitrehernández",
     authors="Hugo A. Mitre-Hernández and García-Guzmán Javier and De Amescua-Seco Antonio and Velasco-Elizondo Perla",
     place=FAKE,
-    pp="253 - 269",
+    pp="253 -- 269",
     entrytype="article",
     volume="15",
     number="2",
@@ -794,7 +799,7 @@ nielsen2014a = DB(WorkUnrelated(
     display="nielsen",
     authors="Jeppe Agger Nielsen and Keld Pedersen",
     place=FAKE,
-    pp="411 - 420",
+    pp="411 -- 420",
     entrytype="article",
     volume="31",
     number="3",
@@ -868,7 +873,7 @@ orta2014a = DB(WorkUnrelated(
     display="orta",
     authors="Elena Orta and Mercedes Ruiz and Nuria Hurtado and David Gawn",
     place=FAKE,
-    pp="36 - 51",
+    pp="36 -- 51",
     entrytype="article",
     volume="66",
     number="",
@@ -887,7 +892,7 @@ paternoster2014a = DB(WorkUnrelated(
     display="paternoster",
     authors="Nicolò Paternoster and Carmine Giardino and Michael Unterkalmsteiner and Tony Gorschek and Pekka Abrahamsson",
     place=IST,
-    pp="1200 - 1218",
+    pp="1200 -- 1218",
     entrytype="article",
     volume="56",
     number="10",
@@ -1076,7 +1081,7 @@ sulayman2014a = DB(WorkUnrelated(
     display="sulayman",
     authors="Muhammad Sulayman and Emilia Mendes and Cathy Urquhart and Mehwish Riaz and Ewan Tempero",
     place=IST,
-    pp="807 - 820",
+    pp="807 -- 820",
     entrytype="article",
     volume="56",
     number="7",
@@ -1111,7 +1116,7 @@ tessem2014a = DB(WorkUnrelated(
     display="tessem",
     authors="Bjørnar Tessem",
     place=IST,
-    pp="873 - 889",
+    pp="873 -- 889",
     entrytype="article",
     volume="56",
     number="8",
@@ -1136,6 +1141,7 @@ trendowicz2014a = DB(WorkSnowball(
     cluster_id="1570309116013095076",
     scholar="http://scholar.google.com/scholar?cites=1570309116013095076&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+    scholar_ok=True,
 ))
 
 trendowicz2014b = DB(WorkUnrelated(
@@ -1177,6 +1183,7 @@ unterkalmsteiner2014a = DB(WorkSnowball(
     cluster_id="3992581102195270532",
     scholar="http://scholar.google.com/scholar?cites=3992581102195270532&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
+    scholar_ok=True,
 ))
 
 verner2014a = DB(WorkUnrelated(
@@ -1184,7 +1191,7 @@ verner2014a = DB(WorkUnrelated(
     display="verner",
     authors="J.M. Verner and M.A. Babar and N. Cerpa and T. Hall and S. Beecham",
     place=JSS,
-    pp="115 - 127",
+    pp="115 -- 127",
     entrytype="article",
     volume="92",
     number="",
@@ -1203,7 +1210,7 @@ verner2014b = DB(WorkUnrelated(
     display="verner b",
     authors="J.M. Verner and O.P. Brereton and B.A. Kitchenham and M. Turner and M. Niazi",
     place=IST,
-    pp="54 - 78",
+    pp="54 -- 78",
     entrytype="article",
     volume="56",
     number="1",
@@ -1222,7 +1229,7 @@ vieira2014a = DB(WorkUnrelated(
     display="vieira",
     authors="R. Vieira and E. Cardoso and C. Becker",
     place=FAKE,
-    pp="245-253",
+    pp="245--253",
     entrytype="inproceedings",
     volume="",
     number="",

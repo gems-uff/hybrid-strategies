@@ -159,7 +159,7 @@ chan2002a = DB(WorkUnrelated(
     display="chan",
     authors="Lai-Kow Chan and Ming-Lu Wu",
     place=FAKE,
-    pp="463 - 497",
+    pp="463 -- 497",
     entrytype="article",
     volume="143",
     number="3",
@@ -189,7 +189,7 @@ chauveau2002a = DB(WorkUnrelated(
 ))
 
 ciolkowski2002a = DB(WorkUnrelated(
-    2002, "Software inspections,reviews and walkthroughs.",
+    2002, "Software inspections,reviews and walkthroughs",
     display="ciolkowski",
     authors="M Ciolkowski, O Laitenberger, D Rombach, F Shull, D Perry",
     place=FAKE,
@@ -247,7 +247,7 @@ conradi2002a = DB(WorkUnrelated(
     display="conradi",
     authors="Conradi, R. and Fuggetta, A.",
     place=IEEES,
-    pp="92-99",
+    pp="92--99",
     entrytype="article",
     volume="19",
     number="4",
@@ -348,7 +348,7 @@ fenton2002a = DB(WorkUnrelated(
     display="fenton",
     authors="Fenton, N. and Krause, P. and Neil, M.",
     place=IEEES,
-    pp="116-122",
+    pp="116--122",
     entrytype="article",
     volume="19",
     number="4",
@@ -379,7 +379,7 @@ grembergen2002a = DB(WorkUnrelated(
     authors="Van Grembergen, W. and Amelinckx, I.",
     place=FAKE,
     entrytype="article",
-    volume="2002-January",
+    volume="2002--January",
     page_count="9",
     doi="10.1109/HICSS.2002.994395",
     art_number="994395",
@@ -408,7 +408,7 @@ henricksen2002a = DB(WorkUnrelated(
     display="henricksen",
     authors="Henricksen, K. and Indulska, J. and Rakotonirainy, A.",
     place=FAKE,
-    pp="167-180",
+    pp="167--180",
     entrytype="article",
     volume="2414",
     doi="10.1007/3-540-45866-2_14",
@@ -468,6 +468,7 @@ karlström2002a = DB(WorkSnowball(
     cluster_id="4179476263282382400",
     scholar="http://scholar.google.com/scholar?cites=4179476263282382400&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEE Proceedings-Software",
+    scholar_ok=True,
 ))
 
 karlström2002b = DB(WorkUnrelated(
@@ -537,7 +538,7 @@ lago2002a = DB(WorkUnrelated(
 ))
 
 laitenberger2002a = DB(WorkUnrelated(
-    2002, "A survey of software inspection technologies.",
+    2002, "A survey of software inspection technologies",
     display="laitenberger",
     authors="O Laitenberger",
     place=FAKE,
@@ -788,7 +789,7 @@ richardson2002a = DB(WorkUnrelated(
     display="richardson",
     authors="Richardson, I. and Murphy, E. and Ryan, K.",
     place=FAKE,
-    pp="25-43",
+    pp="25--43",
     entrytype="article",
     volume="9",
     number="2",
@@ -802,7 +803,7 @@ ruiz2002a = DB(WorkUnrelated(
     display="ruiz",
     authors="Ruiz, M. and Ramos, I. and Toro, M.",
     place=SQJ,
-    pp="181-194",
+    pp="181--194",
     entrytype="article",
     volume="10",
     number="2",
@@ -833,7 +834,7 @@ scott2002a = DB(WorkUnrelated(
     display="scott",
     authors="Louise Scott and Lucila Carvalho and Ross Jeffery and John D'Ambra and Ulrike Becker-Kornstaedt",
     place=IST,
-    pp="601 - 616",
+    pp="601 -- 616",
     entrytype="article",
     volume="44",
     number="10",
@@ -901,7 +902,7 @@ solingen2002a = DB(WorkUnrelated(
     display="solingen",
     authors="Van Solingen, R. and Basili, V. and Caldiera, G. and Rombach, H.D.",
     place=FAKE,
-    pp="578-583",
+    pp="578--583",
     entrytype="article",
     number="1",
     note="cited By 62",
@@ -914,7 +915,7 @@ solon2002a = DB(WorkUnrelated(
     display="Solon",
     authors="Solon Jr., R. and Statz, J.",
     place=FAKE,
-    pp="6-11",
+    pp="6--11",
     entrytype="article",
     volume="5",
     note="cited By 1",
@@ -986,7 +987,7 @@ weiss2002a = DB(WorkUnrelated(
     display="weiss",
     authors="Weiss, D.M. and Bennett, D. and Payseur, J.Y. and Tendick, P. and Zhang, P.",
     place=ICSE,
-    pp="221-231",
+    pp="221--231",
     entrytype="article",
     art_number="23",
     note="cited By 14",
@@ -998,12 +999,12 @@ wilson2002a = DB(WorkUnrelated(
     2002, "Factors for success in customer relationship management (CRM) systems",
     display="wilson",
     authors="Wilson, H. and Daniel, E. and McDonald, M.",
-    pp="193-219",
+    pp="193--219",
     place=FAKE,
     placex="Journal of Marketing Management",
     entrytype="article",
     volume="18",
-    number="1-2",
+    number="1--2",
     note="cited By 134",
     ID="Wilson2002193",
 ))
@@ -1024,7 +1025,7 @@ wong2002a = DB(WorkUnrelated(
 ))
 
 äder2002a = DB(WorkUnrelated(
-    2002, "Delphi-Befragungen.",
+    2002, "Delphi-Befragungen",
     display="äder",
     authors="Äder, M.",
     place=FAKE,
