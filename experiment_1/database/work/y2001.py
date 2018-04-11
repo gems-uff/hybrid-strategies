@@ -130,6 +130,15 @@ bianchi2001a = DB(WorkUnrelated(
     placex="PICMET",
 ))
 
+biffl2001a = DB(WorkUnrelated(
+    2001, "Influence of Team Size and Defect Detection Technique on Inspection Effectiveness.",
+    display="biffl",
+    authors="Biffl, S., Gutjahr, W.",
+    place=FAKE,
+    other1="pp. 63-77,",
+    placex="Proceedings of the 7th International Software Metric Symposium, London, England,",
+))
+
 bowers2001a = DB(WorkUnrelated(
     2001, "Nurturing the acorn: helping a small software company onto the CMM ladder",
     display="bowers",

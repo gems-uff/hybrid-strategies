@@ -280,6 +280,17 @@ latum1996a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+mccarthy1996a = DB(WorkUnrelated(
+    1996, "An Experiment to Assess Cost-benefits of Inspection Meetings and their Alternatives: A Pilot Study.",
+    display="mccarthy",
+    authors="McCarthy, P., Porter, A. A., Siy, H. P., Votta, L. G.",
+    place=ISMS,
+    other1="Symposium (METRICS),",
+    other2="Berlin, Germany,",
+    other3="pp. 100-111,",
+    placex="Proceedings of the 3rd International Software Metrics",
+))
+
 mcfeeley1996a = DB(WorkUnrelated(
     1996, "IDEAL: A User's Guide for Software Process Improvement",
     display="mcfeeley",
@@ -300,6 +311,15 @@ mcfeeley1996b = DB(WorkUnrelated(
     note="cited By 5",
     ID="McFeeley1996",
     placex="Handbook CMU/SEI-96-HB-001",
+))
+
+mcfeeley1996c = DB(WorkUnrelated(
+    1996, "1996",
+    display="mcfeeley c",
+    authors="B. McFeeley",
+    place=FAKE,
+    other1="CM/SEI-96-HB-001, Software Engineering Institute.",
+    placex="IDEAL: A Users Guide for Software Process Improvement.",
 ))
 
 park1996a = DB(WorkUnrelated(

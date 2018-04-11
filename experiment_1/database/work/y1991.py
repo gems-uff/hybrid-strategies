@@ -30,6 +30,16 @@ avison1991a = DB(WorkUnrelated(
     placex="Computer Journal",
 ))
 
+avison1991b = DB(WorkUnrelated(
+    1991, "Information Systems Development Research: An Exploration of",
+    display="avison b",
+    authors="Avison, D. E., Wood-Harper, A. T.",
+    place=FAKE,
+    other1="The Computer Journal 34 (2),",
+    other2="98-112",
+    placex="Ideas in Practice.",
+))
+
 gummesson1991a = DB(WorkUnrelated(
     1991, "Qualitative Methods in Management Research",
     display="gummesson",
@@ -54,6 +64,26 @@ humphrey1991a = DB(WorkUnrelated(
     note="cited By 150",
     ID="Humphrey199111",
     placex="IEEE Software",
+))
+
+humphrey1991b = DB(WorkUnrelated(
+    1991, "Software and the factory paradigm",
+    display="humphrey b",
+    authors="Humphrey, W.S.",
+    place=SEC,
+    other1="6(5), 370-376",
+    placex="Software Engineering Journal,",
+))
+
+kellner1991a = DB(WorkUnrelated(
+    1991, "Software process modeling support for management planning",
+    display="kellner",
+    authors="Kellner, M.I.",
+    place=FAKE,
+    other1="pp.8-28",
+    other2="Proc. 1st Int. Conf. on the Software Process",
+    other3="Redondo Beach, Calif. IEEE Comp. Soc.",
+    placex="and control",
 ))
 
 montgomery1991a = DB(WorkUnrelated(

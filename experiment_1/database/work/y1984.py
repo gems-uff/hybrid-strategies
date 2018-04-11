@@ -18,6 +18,15 @@ basili1984a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+basili1984b = DB(WorkUnrelated(
+    1984, "A methodology for collecting valid software engineering data,",
+    display="basili b",
+    authors="Basili, V.R., Weiss, D.M.",
+    place=FAKE,
+    other1="SE -10(6), 728-738",
+    placex="IEEE Trans. Software Engineering.",
+))
+
 lamb1984a = DB(WorkUnrelated(
     1984, "Competitive Strategic Management",
     display="lamb",

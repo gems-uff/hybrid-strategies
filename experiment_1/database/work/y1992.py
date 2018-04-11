@@ -132,6 +132,16 @@ haikala1992a = DB(WorkUnrelated(
     placex="Software Engineering Education",
 ))
 
+hinley1992a = DB(WorkUnrelated(
+    1992, "Developing a model to manage the software maintenance process",
+    display="hinley",
+    authors="Hinley, D.S., Bennett, K.H.",
+    place=FAKE,
+    other1="Proc. of Conf on Software Maintenance, Orlando, Florida.",
+    other2="IEEE Comp. Soc.",
+    placex="pp.174-182,",
+))
+
 kaplan1992a = DB(WorkUnrelated(
     1992, "The balanced scorecard--measures that drive performance",
     display="kaplan",
@@ -155,6 +165,19 @@ kaplan1992b = DB(WorkUnrelated(
     ID="Kaplan1992",
     placex="Harvard Business Review",
     pp="71",
+    volume="70",
+    number="1",
+))
+
+koch1992a = DB(WorkUnrelated(
+    1992, "The Bootstrap initiative - reported benefits for the industry",
+    display="koch",
+    authors="Koch, G.R.",
+    place=FAKE,
+    other1="pp.2-1 to 2-35",
+    other2="Proceedings of IPSS-Europe Int. Conf. on Lean Software Development Stuttgart",
+    other3="Germany",
+    placex="in Esprit Bootstrap (ed H. Woda, W. Schynoll)",
 ))
 
 kotonya1992a = DB(WorkUnrelated(
@@ -176,6 +199,15 @@ krasner1992a = DB(WorkUnrelated(
     entrytype="article",
     ID="Krasner1992)",
     placex="Communications of ACM",
+))
+
+rands1992a = DB(WorkUnrelated(
+    1992, "Information technology as a service operation,",
+    display="rands",
+    authors="Rands, T.",
+    place=FAKE,
+    other1="7, 189-201",
+    placex="Journal of Information Technology,",
 ))
 
 trade1992a = DB(WorkUnrelated(

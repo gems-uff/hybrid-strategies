@@ -380,6 +380,14 @@ sommerville1997b = DB(WorkUnrelated(
     placex="Annual Software Eng., Vol. 3",
 ))
 
+spice1997a = DB(WorkUnrelated(
+    1997, "Guide for Use in Process Improvement.",
+    display="spice",
+    authors="SPICE",
+    place=FAKE,
+    placex="ISO/IEC JTC1/SC7.",
+))
+
 sutton1997a = DB(WorkUnrelated(
     1997, "The Design of A Next-Generation Process Language",
     display="sutton",

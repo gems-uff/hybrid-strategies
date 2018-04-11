@@ -474,6 +474,8 @@ jedlitschka2004a = DB(WorkUnrelated(
     placex="Software Process Improvement",
     volume="3281",
     note="cited By 2",
+    other1="November 10-12, 2004 Trondheim, Norway, Lecture Notes in Computer Science 3281,",
+    other2="pp. 34-45",
 ))
 
 jokela2004a = DB(WorkUnrelated(
@@ -726,6 +728,15 @@ mcgrath2004a = DB(WorkUnrelated(
     note="cited By 39",
     ID="McGrath2004",
     placex="Cut Costs, and Reduce Cycle Times",
+))
+
+mcgrath2004b = DB(WorkUnrelated(
+    2004, "Next Generation Product Development: How to IncreaseProductivity, Cut Costs, and Reduce Cycle Times.",
+    display="mcgrath b",
+    authors="Michael E McGrath",
+    place=Book,
+    other1="McGraw-Hill",
+    placex="Book",
 ))
 
 mehra2004a = DB(WorkUnrelated(

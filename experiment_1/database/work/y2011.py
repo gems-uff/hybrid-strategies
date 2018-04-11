@@ -1115,6 +1115,7 @@ staron2011a = DB(WorkUnrelated(
     note="cited By 25",
     ID="Staron201189",
     placex="Journal of Software Maintenance and Evolution",
+    other1="23(2):89107,",
 ))
 
 suomalainen2011a = DB(WorkUnrelated(

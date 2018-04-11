@@ -107,6 +107,17 @@ bayer2006a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+bayer2006b = DB(WorkUnrelated(
+    2006, "Improving the Development of e-Business Systems by Introducing",
+    display="bayer b",
+    authors="Bayer, J., Kose, M., Ocampo, A.",
+    place=FAKE,
+    other1="In: Münch, J., Vierimaa, M. (eds.).",
+    other2="Proceedings of the 7th International Conference on Product-Focused Software Process Improvement (PROFES'2006),",
+    other3="Amsterdam, The Netherlands, Lecture Notes in Computer Science 4034, pp. 348-361",
+    placex="Process-Based Software Product Lines.",
+))
+
 bent2006a = DB(WorkUnrelated(
     2006, "A quality instrument for the enterprise architecture development process",
     display="bent",
@@ -789,6 +800,7 @@ schweikhard2006a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Schweikhard2006",
     placex="Diploma Thesis, Department of Computer Science, University of Kaiserslautern, Germany",
+    other1="Department of Computer Science, University of Kaiserslautern, Germany",
 ))
 
 sei2006a = DB(WorkUnrelated(
@@ -846,6 +858,15 @@ solingen2006a = DB(WorkUnrelated(
     ID="VanSolingen20061",
     sciencedirect="1",
     placex="Quality Software Development",
+))
+
+standardization2006a = DB(WorkUnrelated(
+    2006, "ISO/IEC 15504:2004,",
+    display="standardization",
+    authors="International Organization for Standardization",
+    place=FAKE,
+    other1="ISO/IEC, Geneva, Switzerland",
+    placex="'Information technology - Process assessment'.",
 ))
 
 tuan2006a = DB(WorkUnrelated(

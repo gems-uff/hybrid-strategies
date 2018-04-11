@@ -1196,6 +1196,15 @@ sulayman2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+unch2012a = DB(WorkUnrelated(
+    2012, "Software Process Definition and Management.",
+    display="unch",
+    authors="J. M¨unch, O. Armbrust, M. Kowalczyk, and M. Soto",
+    place=FAKE,
+    other1="Springer Berlin Heidelberg,",
+    placex="Fraunhofer IESE series on software and systems engineering.",
+))
+
 unterkalmsteiner2012a = DB(WorkUnrelated(
     2012, "Evaluation and measurement of software process improvementa systematic literature review",
     display="unterkalmsteiner",

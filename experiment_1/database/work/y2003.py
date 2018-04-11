@@ -80,6 +80,7 @@ biffl2003a = DB(WorkUnrelated(
     note="cited By 4",
     ID="Biffl2003",
     placex="Managing Software Engineering Knowledge",
+    other1="Springer Verlag, Berlin",
 ))
 
 boehm2003a = DB(WorkUnrelated(
@@ -332,6 +333,7 @@ fitzgerald2003a = DB(WorkUnrelated(
     note="cited By 118",
     ID="Fitzgerald200364",
     placex="Communications of the ACM",
+    other1="46 (4), 65-70",
 ))
 
 frank2003a = DB(WorkUnrelated(
@@ -605,6 +607,16 @@ lyne2003a = DB(WorkUnrelated(
     placex="Research Technology Management",
 ))
 
+maltz2003a = DB(WorkUnrelated(
+    2003, "Beyond the BalancedScorecard: Refining the Search for Organizational Success Measures.",
+    display="maltz",
+    authors="Alan C Maltz, Aaron J Shenhar, and Richard R Reilly",
+    place=FAKE,
+    other1="36(2)",
+    other2="187--204",
+    placex="Long Range Planning",
+))
+
 maxwell2003a = DB(WorkUnrelated(
     2003, "Software Development Productivity",
     display="maxwell",
@@ -748,6 +760,16 @@ oliver2003a = DB(WorkUnrelated(
     placex="Managing Software Engineering Knowledge",
 ))
 
+ourghanlian2003a = DB(WorkUnrelated(
+    2003, "Dependability Assessment of Safety-Critical System Software by Static",
+    display="ourghanlian",
+    authors="Ourghanlian, A., Nguyen, T.",
+    place=FAKE,
+    other1="Proceedings of the 2003 International Conference on Dependable Systems and Networks (DSN'03), 22-25 June 2003, San Francisco, CA, USA,",
+    other2="pp. 75-79,",
+    placex="Analysis Methods.",
+))
+
 poppendieck2003a = DB(WorkUnrelated(
     2003, "Lean software development: an agile toolkit",
     display="poppendieck",
@@ -779,6 +801,7 @@ schmid2003a = DB(WorkUnrelated(
     note="cited By 25",
     ID="Schmid2003",
     placex="Planning Software Reuse - A Disciplined Scoping Approach for Software Product Lines",
+    other1="Department of Computer Science, University of Kaiserslautern, Germany",
 ))
 
 scholtes2003a = DB(WorkUnrelated(

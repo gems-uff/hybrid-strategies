@@ -37,6 +37,7 @@ basili1994c = DB(WorkUnrelated(
     entrytype="article",
     ID="Basili1994",
     placex="Encyclopedia of Software Engineering, vol. 1, John Wiley and Sons,",
+    other1="John Wiley & Sons",
 ))
 
 basili1994d = DB(WorkUnrelated(
@@ -297,6 +298,14 @@ madhavji1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Madhavji1994",
     placex="Third Int'l Conf. the Software Process, IEEE CS Press",
+))
+
+mcgarry1994a = DB(WorkUnrelated(
+    1994, "Software process improvement in the NASA Software Engineering Laboratory.",
+    display="mcgarry",
+    authors="F McGarry, R Pajersky, G Page,  S Waligora, V Basili, M Zelkowitz",
+    place=FAKE,
+    placex="CMU/SEI94-TR22.",
 ))
 
 nuseibeh1994a = DB(WorkUnrelated(

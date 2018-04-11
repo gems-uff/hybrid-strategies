@@ -139,6 +139,7 @@ basili2007c = DB(WorkSnowball(
     placex="Proceedings of the DASMA Software Metric Congress (MetriKon 2007), 2007, pp. 253266.",
     entrytype="article",
     ID="basili2007gqm+",
+    pp="253266",
 ))
 
 brouwer2007a = DB(WorkUnrelated(
@@ -739,6 +740,9 @@ pan2007a = DB(WorkUnrelated(
     note="cited By 12",
     ID="Pan2007446",
     placex="Proceedings - Asia-Pacific Software Engineering Conference, APSEC",
+    other1="Asia-Pacific,",
+    other2="pages 446453.",
+    other3="IEEE,",
 ))
 
 peng2007a = DB(WorkUnrelated(

@@ -135,6 +135,16 @@ dion1993a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
+drew1993a = DB(WorkUnrelated(
+    1993, "Developing formal software process definitions",
+    display="drew",
+    authors="Drew, D.W.",
+    place=FAKE,
+    other1="Proc. of Conf. on Software Maintenance, Montreal, Canada.",
+    other2="IEEE Comp.Soc.",
+    placex="pp. 12-30",
+))
+
 fernstro1993a = DB(WorkUnrelated(
     1993, "Process Weaver: Adding Process Support to Unix",
     display="fernstro",
@@ -144,6 +154,29 @@ fernstro1993a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Fernstro1993",
     placex="?Proc. Second Int'l Conf. Software Process",
+))
+
+hinley1993a = DB(WorkUnrelated(
+    1993, "A process modelling approach to managing software process improvement",
+    display="hinley",
+    authors="Hinley, D.S., Bennett, K.H.",
+    place=FAKE,
+    other1="pp. 189-204,",
+    other2="Proc. of First Int. Conf. on Software Quality Management.",
+    other3="Southampton.",
+    other4="Computational Mechanics Publications.",
+    other5="Elsevier,",
+    placex="Software Quality Management '93 (ed. M. Ross, C.A. Brebbia, G. Staples, J. Stapleton),",
+))
+
+hinley1993b = DB(WorkUnrelated(
+    1993, "Reducing the risks in software improvement through process-orientated management,",
+    display="hinley b",
+    authors="Hinley, D.S., Bennett, K.H.",
+    place=FAKE,
+    other1="Proc. of Conf. on Software Maintenance, Montreal, Canada.",
+    other2="IEEE Comp. Soc.",
+    placex="pp.319-328,",
 ))
 
 kaplan1993a = DB(WorkUnrelated(

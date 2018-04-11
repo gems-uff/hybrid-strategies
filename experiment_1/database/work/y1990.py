@@ -149,3 +149,12 @@ senge1990a = DB(WorkUnrelated(
     ID="Senge1990",
     placex="London: Random House",
 ))
+
+shepperd1990a = DB(WorkUnrelated(
+    1990, "Early life-cycle metrics and software quality models,",
+    display="shepperd",
+    authors="Shepperd, M.",
+    place=IST,
+    other1="32(4), 311-316",
+    placex="Information and Software Technology",
+))

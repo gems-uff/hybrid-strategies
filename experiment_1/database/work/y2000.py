@@ -72,6 +72,16 @@ berry2000a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
 ))
 
+biffl2000a = DB(WorkUnrelated(
+    2000, "Analysis of the Impact of Reading Technique and Inspector Capability on",
+    display="biffl",
+    authors="Biffl, S.",
+    place=FAKE,
+    other1="Performance. Proceedings of the 7th Asia Pacific Software Engineering Conference (APSEC), Singapore,",
+    other2="pp. 136-145,",
+    placex="Individual Inspection",
+))
+
 boehm2000a = DB(WorkUnrelated(
     2000, "Cost Estimation with COCOMO II",
     display="boehm",
@@ -92,6 +102,14 @@ boehm2000b = DB(WorkUnrelated(
     note="cited By 1196",
     ID="Boehm2000",
     placex="Prentice-Hall",
+))
+
+boehm2000c = DB(WorkUnrelated(
+    2000, "Software Cost Estimation with Cocomo II",
+    display="boehm c",
+    authors="Boehm, B. W., Harrowitz, E.",
+    place=FAKE,
+    placex="Prentice Hall International",
 ))
 
 boltzmann2000a = DB(WorkUnrelated(
@@ -527,6 +545,8 @@ lainhart2000a = DB(WorkUnrelated(
     note="cited By 44",
     ID="Lainhart200021",
     placex="Journal of Information Systems",
+    other1="14(s-1)",
+    other2="21--25",
 ))
 
 makinen2000a = DB(WorkUnrelated(

@@ -18,6 +18,14 @@ basili1988a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+basili1988b = DB(WorkUnrelated(
+    1988, "The TAME project: towards improvement-oriented software environments. IEEE Transactions on Software Engineering",
+    display="basili b",
+    authors="V. Basili,  H., Rombach",
+    place=FAKE,
+    placex="14: 758773",
+))
+
 curtis1988a = DB(WorkUnrelated(
     1988, "A field study of the software design process for large systems",
     display="curtis",
@@ -42,6 +50,14 @@ david1988a = DB(WorkUnrelated(
     note="cited By 791",
     ID="David1988",
     placex="Lubrecht & Cramer, Limited",
+))
+
+gilb1988a = DB(WorkUnrelated(
+    1988, "Principles of Software Engineering Project Management,",
+    display="gilb",
+    authors="Gilb, T.",
+    place=FAKE,
+    placex="Addison-Wesley,",
 ))
 
 humphrey1988a = DB(WorkUnrelated(

@@ -149,6 +149,14 @@ conradi1995a = DB(WorkUnrelated(
     placex="Proc. Fourth European Workshop Software Process Technology, Springer-Verlag",
 ))
 
+debou1995a = DB(WorkUnrelated(
+    1995, "ami: a tailorable framework for software process improvement.",
+    display="debou",
+    authors="C. Debou, N Fuchs, M Haux",
+    place=FAKE,
+    placex="Proceedings of the second ISCN Seminar, Vienna, September.",
+))
+
 herbsleb1995a = DB(WorkUnrelated(
     1995, "Systematic survey of CMM experience and results",
     display="herbsleb",
@@ -323,6 +331,14 @@ peterson1995a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 2",
     ID="Peterson1995",
+))
+
+pulford1995a = DB(WorkUnrelated(
+    1995, "A Quantitative Approach to Software management  the ami",
+    display="pulford",
+    authors="K Pulford, A Kuntzmann-Combelles ,  S Shirlaw",
+    place=FAKE,
+    placex="Handbook. Addison Wesley.",
 ))
 
 rombach1995a = DB(WorkUnrelated(

@@ -869,6 +869,7 @@ münch2013c = DB(WorkSnowball(
     cluster_id="12219098581311741649",
     scholar="http://scholar.google.com/scholar?cites=12219098581311741649&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications (SEAA), 2013 39th EUROMICRO Conference on",
+    other1="Santander, Spain, September",
 ))
 
 münch2013d = DB(WorkUnrelated(
@@ -1041,6 +1042,14 @@ shrestha2013a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Shrestha2013",
     placex="Presented at the DESRIST 2013",
+))
+
+software2013a = DB(WorkUnrelated(
+    2013, "March 2013.",
+    display="software",
+    authors="Practical Software and Systems Measurement: About PSM,",
+    place=FAKE,
+    placex="Online: http://www.psmsc.com/AboutPSM.asp, retrieved 20 September",
 ))
 
 stallinger2013a = DB(WorkSnowball(

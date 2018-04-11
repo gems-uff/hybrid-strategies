@@ -1001,3 +1001,12 @@ wong2002a = DB(WorkUnrelated(
     springer="1",
     placex="Product Focused Software Process Improvement",
 ))
+
+äder2002a = DB(WorkUnrelated(
+    2002, "Delphi-Befragungen.",
+    display="äder",
+    authors="Äder, M.",
+    place=FAKE,
+    other1="Wiesbaden, Germany",
+    placex="VS Verlag für Sozialwissenschaften,",
+))

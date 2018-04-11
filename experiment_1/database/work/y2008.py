@@ -169,6 +169,7 @@ becker2008b = DB(WorkSnowball(
     note="cited By 9",
     placex="Proceedings - International Conference on Software Engineering",
     art_number="1370840",
+    other1="Germany",
 ))
 
 beijun2008a = DB(WorkUnrelated(
@@ -744,6 +745,7 @@ madachy2008a = DB(WorkUnrelated(
     note="cited By 10",
     ID="Madachy2008198",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    other1="11, 2008, Leipzig, Germany, Lecture Notes in Computer Science, pp. 198-209,",
 ))
 
 mao2008a = DB(WorkUnrelated(
@@ -1239,6 +1241,14 @@ wirth2008a = DB(WorkUnrelated(
     note="cited By 18",
     ID="Wirth200832",
     placex="IEEE Annals of the History of Computing",
+))
+
+wojcicki2008a = DB(WorkUnrelated(
+    2008, "Evaluating and combining verification and validation technologies,",
+    display="wojcicki",
+    authors="Wojcicki, M. A.",
+    place=FAKE,
+    placex="Brisbane, Queensland, Australia. School of Information Technol and Elec Engineering, University of Queensland",
 ))
 
 zhai2008a = DB(WorkUnrelated(

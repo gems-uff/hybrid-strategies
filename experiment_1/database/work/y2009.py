@@ -215,6 +215,14 @@ cheng2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+cmmi2009a = DB(WorkUnrelated(
+    2009, "Capability Maturity Model Integration,",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    placex="http://www.sei.cmu.edu/cmmi/, last visited",
+))
+
 cox2009a = DB(WorkUnrelated(
     2009, "Empirical study of Sommerville and Sawyer's requirements engineering practices",
     display="cox",
@@ -258,6 +266,14 @@ ecss2009a = DB(WorkUnrelated(
     placex="Accessed site",
 ))
 
+ecss2009b = DB(WorkUnrelated(
+    2009, "Collaboration website of the European Cooperation for Space Standardization, http://www.ecss.nl/, last",
+    display="ecss b",
+    authors="ECSS",
+    place=FAKE,
+    placex="visited 2009-4-25.",
+))
+
 egorova2009a = DB(WorkUnrelated(
     2009, "Stakeholders' perception of success: An empirical investigation",
     display="egorova",
@@ -281,6 +297,14 @@ emam2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Emam2009",
     placex="NRC/ER.-1065",
+))
+
+esa2009a = DB(WorkUnrelated(
+    2009, "BSSC Guides and Reports, http://www.esa.int/TEC/Software_engineering_and_standardisation/, last",
+    display="esa",
+    authors="ESA",
+    place=FAKE,
+    placex="visited 2009-04-25",
 ))
 
 escofet2009a = DB(WorkUnrelated(
@@ -998,6 +1022,14 @@ yang2009a = DB(WorkUnrelated(
     cluster_id="8821356941599800402",
     scholar="http://scholar.google.com/scholar?cites=8821356941599800402&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+))
+
+yin2009a = DB(WorkUnrelated(
+    2009, "Case Study Research: Design and Methods.",
+    display="yin",
+    authors="Robert Yin.",
+    place=SAGE,
+    placex="SAGE Publications, Inc., 4 edition,",
 ))
 
 zarour2009a = DB(WorkUnrelated(

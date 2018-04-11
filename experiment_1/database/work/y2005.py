@@ -665,6 +665,7 @@ vegas2005a = DB(WorkUnrelated(
     note="cited By 45",
     ID="Vegas2005437",
     placex="Empirical Software Engineering",
+    other1="10 (4), 437-466",
 ))
 
 wang2005a = DB(WorkSnowball(
