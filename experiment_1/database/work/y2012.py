@@ -745,6 +745,14 @@ mandić2012ab = DB(WorkUnrelated(
     placex="",
 ))
 
+mandić2012c = DB(WorkUnrelated(
+    2012, "Measurement-based value alignment and reasoning about organizational goals",
+    display="mandić c",
+    authors="V Mandić",
+    place=FAKE,
+    placex="and strategies: studied with ICT industry. Doctoral dissertation, University of Oulu, Finland",
+))
+
 matalonga2012a = DB(WorkUnrelated(
     2012, "Calculating return on investment of training using process variation",
     display="matalonga",

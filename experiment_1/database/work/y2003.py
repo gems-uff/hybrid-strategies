@@ -110,6 +110,7 @@ boehm2003b = DB(WorkUnrelated(
     note="cited By 204",
     ID="Boehm20031",
     placex="ACM Software Engineering Notes",
+    other1="2(28):315",
 ))
 
 boehm2003c = DB(WorkUnrelated(

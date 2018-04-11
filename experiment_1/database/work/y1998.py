@@ -79,6 +79,14 @@ ebert1998a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+epstein1998a = DB(WorkUnrelated(
+    1998, "Implementing corporate strategy: from Tableaux de Bord to balanced scorecards.",
+    display="epstein",
+    authors="M Epstein, J-F Manzoni",
+    place=FAKE,
+    placex="Eur Manag J 16(2):190203",
+))
+
 ferguson1998a = DB(WorkUnrelated(
     1998, "The guerrilla warfare approach to process improvement",
     display="ferguson",
@@ -529,6 +537,14 @@ stålhane1998a = DB(WorkUnrelated(
     ID="Stålhane1998611",
     sciencedirect="1",
     placex="Microprocessors and Microsystems",
+))
+
+sw1998a = DB(WorkUnrelated(
+    1998, "Process patterns: building large-scale systems using object technology.",
+    display="sw",
+    authors="Ambler SW",
+    place=FAKE,
+    placex="Cambridge University Press, Cambridge, UK",
 ))
 
 veryard1998a = DB(WorkUnrelated(

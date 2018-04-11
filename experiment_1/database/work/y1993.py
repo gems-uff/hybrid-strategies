@@ -48,6 +48,7 @@ basili1993a = DB(WorkUnrelated(
     note="cited By 43",
     ID="Basili199368",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    other1="Germany. The Proceedings appeared as Lecture Notes in Computer Science 717",
 ))
 
 blackerby1993a = DB(WorkUnrelated(
@@ -154,6 +155,14 @@ fernstro1993a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Fernstro1993",
     placex="?Proc. Second Int'l Conf. Software Process",
+))
+
+hammer1993a = DB(WorkUnrelated(
+    1993, "Reengineering the corporation: a manifesto for business revolution.",
+    display="hammer",
+    authors="M Hammer, JA Champy",
+    place=FAKE,
+    placex="Harper, New York",
 ))
 
 hinley1993a = DB(WorkUnrelated(

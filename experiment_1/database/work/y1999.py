@@ -42,6 +42,7 @@ becker1999a = DB(WorkUnrelated(
     note="cited By 19",
     ID="Becker199946",
     placex="IEEE Software",
+    other1="16(3):4651",
 ))
 
 biró1999a = DB(WorkUnrelated(
@@ -491,6 +492,14 @@ solingen1999a = DB(WorkUnrelated(
     note="cited By 315",
     ID="VanSolingen1999",
     placex="McGraw-Hill, Cambridge",
+))
+
+solingen1999b = DB(WorkUnrelated(
+    1999, "Goal/question/metric method.",
+    display="solingen b",
+    authors="R van Solingen, E Berghout",
+    place=FAKE,
+    placex="McGraw-Hill, New York",
 ))
 
 sommerville1999a = DB(WorkSnowball(

@@ -18,6 +18,15 @@ fagan1976a = DB(WorkUnrelated(
     placex="IBM Systems Journal",
 ))
 
+fagan1976b = DB(WorkUnrelated(
+    1976, "Design and code inspections to reduce errors in program development.",
+    display="fagan b",
+    authors="M Fagan",
+    place=FAKE,
+    other1="15(3):182211",
+    placex="IBM Syst J",
+))
+
 mccabe1976a = DB(WorkUnrelated(
     1976, "A Complexity Measure",
     display="mccabe",

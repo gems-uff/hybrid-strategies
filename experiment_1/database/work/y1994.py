@@ -3,6 +3,15 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ai1994a = DB(WorkUnrelated(
+    1994, "Goal decomposition and scenario analysis in business process reengineering.",
+    display="ai",
+    authors="Anto´n AI, McCracken WM, Potts C",
+    place=FAKE,
+    other1="systems engineering. Springer, Berlin, pp 94104",
+    placex="Wijers G, Brinkkemper S, Wasserman T (eds) Advanced information",
+))
+
 basili1994a = DB(WorkUnrelated(
     1994, "Goal question metric paradigm",
     display="basili",
@@ -49,6 +58,23 @@ basili1994d = DB(WorkUnrelated(
     entrytype="article",
     ID="Basili1994",
     placex="Encyclopedia of Software Engineering 1, John-Wiley & Sons",
+))
+
+basili1994e = DB(WorkUnrelated(
+    1994, "Software process evolution at the SEL.",
+    display="basili e",
+    authors="V Basili, S Green",
+    place=IEEES,
+    placex="IEEE Software 11(4):5866",
+))
+
+basili1994f = DB(WorkUnrelated(
+    1994, "The experience factory.",
+    display="basili f",
+    authors="VR Basili,G Caldiera, HD Rombach",
+    place=FAKE,
+    other1="(ed) Encyclopedia of software engineering, vol 1, 2nd edn. Wiley, New York, pp 469476",
+    placex="Marciniak JJ",
 ))
 
 brodman1994a = DB(WorkUnrelated(
@@ -123,6 +149,14 @@ finkelstein1994a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Finkelstein1994",
     placex="Research Studies Press",
+))
+
+gamma1994a = DB(WorkUnrelated(
+    1994, "Design patterns: Elements of Reusable Object Oriented Software.",
+    display="gamma",
+    authors="E Gamma, R Helm, R Johnson, J Vlissides",
+    place=FAKE,
+    placex="Addison-Wesley, Boston, MA",
 ))
 
 haase1994a = DB(WorkUnrelated(

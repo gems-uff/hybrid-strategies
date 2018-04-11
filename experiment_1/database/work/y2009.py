@@ -192,6 +192,14 @@ bssc2009a = DB(WorkUnrelated(
     placex="Accessed site",
 ))
 
+budd2009a = DB(WorkUnrelated(
+    2009, "A practical guide to earned value project management, 2nd edn.",
+    display="budd",
+    authors="CI Budd, CS Budd",
+    place=FAKE,
+    placex="Management Concepts, Vienna, VA",
+))
+
 chastek2009a = DB(WorkUnrelated(
     2009, "Formulation of a production strategy for a software product line",
     display="chastek",
@@ -443,6 +451,15 @@ huang2009a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+isoiec2009a = DB(WorkUnrelated(
+    2009, "ISO/IEC 20926  IFPUG functional size measurement method 2009,",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    other1="International Standardization Organization, Geneva",
+    placex="2nd edn.",
+))
+
 kamel2009a = DB(WorkUnrelated(
     2009, "The impact of ICT investments on economic development in Egypt",
     display="kamel",
@@ -676,6 +693,14 @@ napier2009a = DB(WorkUnrelated(
     cluster_id="10809630425482335560",
     scholar="http://scholar.google.com/scholar?cites=10809630425482335560&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE Transactions on Software Engineering",
+))
+
+ogc2009a = DB(WorkUnrelated(
+    2009, "Managing successful projects with PRINCE2",
+    display="ogc",
+    authors="OGC",
+    place=FAKE,
+    placex="(Office of Government Commerce) edition manual. The Stationery Office, UK",
 ))
 
 oliveira2009a = DB(WorkUnrelated(

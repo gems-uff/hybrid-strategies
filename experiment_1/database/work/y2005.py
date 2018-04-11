@@ -241,6 +241,15 @@ dyba2005a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+eckerson2005a = DB(WorkUnrelated(
+    2005, "Performance dashboards: measuring, monitoring, and managing your",
+    display="eckerson",
+    authors="WW Eckerson",
+    place=FAKE,
+    other1="Wiley, Hoboken, NJ",
+    placex="business.",
+))
+
 emam2005a = DB(WorkUnrelated(
     2005, "The ROI from Software Quality",
     display="emam",
@@ -323,6 +332,15 @@ gopal2005a = DB(WorkUnrelated(
     note="cited By 29",
     ID="Gopal2005679",
     placex="IEEE Transactions on Software Engineering",
+))
+
+humphrey2005a = DB(WorkUnrelated(
+    2005, "SWOT analysis for management consulting.",
+    display="humphrey",
+    authors="A Humphrey",
+    place=FAKE,
+    other1="pp 78",
+    placex="SRI Newsletter: History Corner,SRI International,",
 ))
 
 institute2005a = DB(WorkUnrelated(
@@ -521,6 +539,16 @@ sei2005a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="NoAuthor2005",
+))
+
+selby2005a = DB(WorkUnrelated(
+    2005, "Measurement-driven dashboards enable leading indicators for requirements and design of large-scale systems.",
+    display="selby",
+    authors="RW Selby",
+    place=FAKE,
+    other1="symposium, Como, Italy, 1922 September,",
+    other2="pp 15301435",
+    placex="In: Proceedings of the 11th international software metrics",
 ))
 
 snedaker2005a = DB(WorkUnrelated(

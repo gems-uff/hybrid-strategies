@@ -1,0 +1,290 @@
+[1]
+Accenture
+Managing IT investments in the high-performance business. 
+Strategic information technology effectiveness (SITE). Report, Accenture LLP
+2004
+
+[2]
+Ambler SW
+Process patterns: building large-scale systems using object technology.
+Cambridge University Press, Cambridge, UK
+1998
+
+[3]
+Anto´n AI, McCracken WM, Potts C
+Goal decomposition and scenario analysis in business process reengineering.
+Wijers G, Brinkkemper S, Wasserman T (eds) Advanced information
+systems engineering. Springer, Berlin, pp 94–104
+1994
+
+[4]
+VR Basili 
+Data collection, validation, and analysis. In: Tutorial on models and metrics for software management and engineering, 
+IEEE Catalog no. EHO-167-7, 
+pp 310–313
+1981
+
+[5]
+ V Basili
+Quantitative evaluation of software methodology, keynote address. In:
+Proceedings of the first Pan Pacific computer conference, vol 1, 
+pp 379–398
+1985
+
+[6]
+VR Basili 
+Software development: a paradigm for the future
+In: Presentation at the thirteenth international computer software and applications conference, Los Alamitos, CA
+1989
+
+[7]
+VR Basili 
+The experience factory and its relationship to other improvement paradigms.
+In:Proceedings of the fourth European software engineering conference (ESEC), GarmischPartenkirchen,
+Germany. The Proceedings appeared as Lecture Notes in Computer Science 717
+1993
+
+[8]
+VR Basili, G Caldiera 
+Improve software quality by reusing knowledge and experience.
+Sloan Manag Rev 
+37(1):55–64
+1995
+
+[9]
+ V Basili, S Green 
+Software process evolution at the SEL. 
+IEEE Software 11(4):58–66
+1994
+
+[10]
+VR Basili, HD Rombach 
+The TAME project: towards improvement-oriented software
+environments. IEEE Trans Software Eng 
+14(6):758–773
+1988
+
+[11]
+VR Basili, DM  Weiss 
+A methodology for collecting valid software engineering data. IEEE
+Trans Software Eng SE-
+10(6):728–738
+1984
+
+[12]
+VR Basili,G Caldiera, HD Rombach 
+The experience factory. 
+Marciniak JJ
+(ed) Encyclopedia of software engineering, vol 1, 2nd edn. Wiley, New York, pp 469–476
+1994
+
+[13]
+VR Basili,G Caldiera ,HD Rombach 
+Goal question metric paradigm. 
+In: Marciniak JJ (ed) Encyclopedia of software engineering, vol 1, 2nd edn. Wiley, New York, pp 528–532
+1994
+
+[14]
+V Basili, M Zelkowitz, F McGarry ,J Page , S Waligora , R Pajerski 
+Special report: SEL’s software process-improvement program. 
+IEEE Software 12(6):83–87
+1995
+
+[15]
+VR Basili, S Green, O Laitenberger, F Shull, S Sørumga°rd, MV Zelkowitz 
+The empirical investigation of perspective-based reading. 
+Empir Software Eng 13(12):1278–1296
+1996
+
+[16]
+VR Basili, M Lindvall , M Regardie, C Seaman, J Heidrich, J Mu¨nch , HD Rombach, A Trendowicz 
+Linking software development and business strategy through measurement. IEEE Comput 
+43(4):57–65
+2010
+
+[17]
+K Beck, C Andres 
+Extreme programming explained: embrace change. 
+Addison-Wesley,
+Boston, MA
+2004
+
+[18]
+SA Becker, ML Bostelman 
+Aligning strategic and project measurement systems. 
+IEEE Software 
+16(3):46–51
+1999
+
+[19]
+B Boehm 
+Value-based software engineering. 
+ACM SIGSOFT Software Eng Notes
+2(28):3–15
+2003
+
+[20]
+LC Briand, CM Differding, HD Rombach 
+Practical guidelines for measurement-based process improvement. 
+Software Process Improv Pract 
+2(4):253–280
+1996
+
+[21]
+DM Brindgeland, R Zahavi 
+Business modeling: a practical guide to realizing business value. 
+Morgan Kaufmann, Boston, MA
+2008
+
+[22]
+CI Budd, CS Budd 
+A practical guide to earned value project management, 2nd edn.
+Management Concepts, Vienna, VA
+2009
+
+[23]
+L Buglione, A Abran 
+Balanced scorecards and GQM: what are the differences? 
+Proceedings to the third European software measurement conference, 
+pp 18–20
+2000
+
+[24]
+R Burlton 
+Delivering business strategy through process management. 
+vom Brocke J, Rosemann M (eds) Handbook on business process management 2. Springer, Berlin, 
+pp 5–37
+2010
+
+[25]
+R Chillarege, IS Bhandari, JK Chaar, MJ Halliday, DS Moebus, BK Ray , M-Y Wong 
+Orthogonal defect classification – a concept for in-process measurements. 
+IEEE Trans Software
+Eng 18(11):943–956
+1992
+
+[26]
+M Ciolkowski, O Laitenberger, D Rombach, F Shull, D Perry 
+Software inspections,reviews and walkthroughs. 
+Proceedings of the 24rd international conference on software
+engineering, May 2002, 
+pp 641–642
+2002
+
+[27]
+CMMI
+CMMI for development, version 1.3. 
+Technical report CMU/SEI-2010-TR-033, Software Engineering Institute, 
+Carnegie Mellon University, Pittsburgh, PA
+2010
+
+[28]
+R Conradi, A Fuggetta 
+Improving software process improvement. 
+IEEE Software
+19(4):92–99
+2002
+
+[29]
+E Damiani, F Mulazzani, B Russo, G Succi 
+SAF: strategic alignment framework for monitoring organizations. 
+Proceedings to the eleventh international conference on business information systems, 
+Innsbruck, Austria. Springer
+2008
+
+[30]
+WE Deming 
+Out of the crisis.
+Massachusetts Institute of Technology, Center for Advance
+Education Services, Cambridge, MA
+1986
+
+[31]
+WW Eckerson 
+Performance dashboards: measuring, monitoring, and managing your
+business. 
+Wiley, Hoboken, NJ
+2005
+
+[32]
+M Epstein, J-F Manzoni 
+Implementing corporate strategy: from Tableaux de Bord to balanced scorecards. 
+Eur Manag J 16(2):190–203
+1998
+
+[33]
+M Fagan 
+Design and code inspections to reduce errors in program development. 
+IBM Syst J
+15(3):182–211
+1976
+
+[34]
+E Gamma, R Helm, R Johnson, J Vlissides 
+Design patterns: Elements of Reusable Object Oriented Software. 
+Addison-Wesley, Boston, MA
+1994
+
+[35]
+Gartner
+Gartner executive programs CIO survey. 
+Press release, Gartner, Inc.
+2010
+
+[36]
+Gartner
+Forecast alert: IT spending, worldwide, 2008–2014, 4Q10 update. 
+Press release, Gartner, Inc.
+2011
+
+[37]
+C Gresse, B Hoisl, J Wu¨st 
+A process model for planning GQM-based measurement.
+Technical report STTI-95-04-E, Software Technology Transfer Initiative, University of Kaiserslautern
+1995
+
+[38]
+M Hammer 
+Reengineering work: don’t automate, obliterate. 
+Harv Bus Rev 
+68(4):104–112
+1990
+
+[39]
+M Hammer 
+What is business process management? 
+vom Brocke J, Rosemann M (eds) Handbook on business process management, vol 1. Springer, Heidelberg
+2010
+
+[40]
+M Hammer, JA Champy 
+Reengineering the corporation: a manifesto for business revolution.
+Harper, New York
+1993
+
+[41]
+A Humphrey 
+SWOT analysis for management consulting. 
+SRI Newsletter: History Corner,SRI International, 
+pp 7–8
+2005
+
+[42]
+ISOIEC
+ISO/IEC 20926 – IFPUG functional size measurement method 2009, 
+2nd edn.
+International Standardization Organization, Geneva
+2009
+
+[43]
+RS Kaplan, DP Norton 
+The balanced scorecard: measures that drive performance. 
+Harv Bus Rev 
+70(1):71–79
+1992
+
+[44]
+RS Kaplan, DP Norton 
+Balanced scorecard: translating strategy into action. 
+Harvard Business School Press, Boston, MA
+1996

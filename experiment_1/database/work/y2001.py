@@ -639,6 +639,14 @@ keeni2001a = DB(WorkUnrelated(
     placex="Proc. Int'l Symp. Future Software Technology (ISFST 2001)",
 ))
 
+kerth2001a = DB(WorkUnrelated(
+    2001, "Project retrospectives: a handbook for team reviews.",
+    display="kerth",
+    authors="NL Kerth",
+    place=FAKE,
+    placex="Dorset House, New York",
+))
+
 kilpl2001a = DB(WorkUnrelated(
     2001, "Implementing a software metrics program at Nokia",
     display="kilpl",

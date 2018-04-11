@@ -179,6 +179,7 @@ buglione2000a = DB(WorkUnrelated(
     note="cited By 3",
     ID="Buglione200018",
     placex="Proc. 3rd European Software Measurement Conf.",
+    other1="pp 1820",
 ))
 
 butler2000a = DB(WorkUnrelated(

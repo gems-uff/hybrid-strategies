@@ -68,6 +68,15 @@ aversano2004a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+beck2004a = DB(WorkUnrelated(
+    2004, "Extreme programming explained: embrace change.",
+    display="beck",
+    authors="K Beck, C Andres",
+    place=FAKE,
+    other1="Boston, MA",
+    placex="Addison-Wesley,",
+))
+
 boehm2004a = DB(WorkUnrelated(
     2004, "Bala",
     display="boehm",
@@ -508,6 +517,14 @@ kaplan2004a = DB(WorkUnrelated(
     placex="Boston, Harvard Business School",
 ))
 
+kaplan2004b = DB(WorkUnrelated(
+    2004, "Strategy maps: converting intangible assets into tangible outcomes.",
+    display="kaplan b",
+    authors="RS Kaplan, DP Norton",
+    place=FAKE,
+    placex="Harvard Business School Press, Boston, MA",
+))
+
 karinsalo2004a = DB(WorkUnrelated(
     2004, "Software Reuse and the Test Development Process: A Combined Approach",
     display="karinsalo",
@@ -754,6 +771,14 @@ mehra2004a = DB(WorkUnrelated(
     placex="Production Planning and Control",
 ))
 
+nch2004a = DB(WorkUnrelated(
+    2004, "Software project control centers: concepts and approaches. J Syst",
+    display="nch",
+    authors="J Mu¨nch, J Heidrich",
+    place=FAKE,
+    placex="Software 70(1):319",
+))
+
 nguyen2004a = DB(WorkUnrelated(
     2004, "A formalism for conformance analysis and its applications",
     display="nguyen",
@@ -852,6 +877,14 @@ ruhe2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-24659-6_18",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+schwaber2004a = DB(WorkUnrelated(
+    2004, "Agile project management with scrum.",
+    display="schwaber",
+    authors="K Schwaber",
+    place=FAKE,
+    placex="Microsoft Press, Redmond, WA",
 ))
 
 sei2004a = DB(WorkUnrelated(

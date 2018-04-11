@@ -26,6 +26,15 @@ basili1988b = DB(WorkUnrelated(
     placex="14: 758773",
 ))
 
+basili1988c = DB(WorkUnrelated(
+    1988, "The TAME project: towards improvement-oriented software",
+    display="basili c",
+    authors="VR Basili, HD Rombach",
+    place=FAKE,
+    other1="14(6):758773",
+    placex="environments. IEEE Trans Software Eng",
+))
+
 curtis1988a = DB(WorkUnrelated(
     1988, "A field study of the software design process for large systems",
     display="curtis",

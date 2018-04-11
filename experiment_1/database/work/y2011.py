@@ -439,6 +439,14 @@ gamalielsson2011a = DB(WorkUnrelated(
     placex="Open Source Systems: Grounding Research",
 ))
 
+gartner2011a = DB(WorkUnrelated(
+    2011, "Forecast alert: IT spending, worldwide, 20082014, 4Q10 update.",
+    display="gartner",
+    authors="Gartner",
+    place=FAKE,
+    placex="Press release, Gartner, Inc.",
+))
+
 ghaly2011a = DB(WorkUnrelated(
     2011, "GPS-tagged Images Define the Trail of an Interdisciplinary Miniterm in Egypt",
     display="ghaly",
@@ -863,6 +871,15 @@ nieters2011a = DB(WorkUnrelated(
     placex="CHI '11 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
+nudurupati2011a = DB(WorkUnrelated(
+    2011, "State of the art literature review on performance measurement.",
+    display="nudurupati",
+    authors="SS Nudurupati, US Bititci, V Kumar, FTS Chan",
+    place=FAKE,
+    other1="60(2):279290",
+    placex="Comput Ind Eng",
+))
+
 ollus2011a = DB(WorkUnrelated(
     2011, "Supporting collaborative project management",
     display="ollus",
@@ -1176,6 +1193,7 @@ trendowicz2011a = DB(WorkSnowball(
     note="cited By 11",
     ID="Trendowicz2011142",
     scholar="http://scholar.google.com/scholar?cites=2354941768345762676&as_sdt=2005&sciodt=0,5&hl=en",
+    other1="pp 142150",
 ))
 
 ullah2011a = DB(WorkUnrelated(

@@ -202,6 +202,15 @@ buehrer2010a = DB(WorkUnrelated(
     placex="SIGPLAN Not.",
 ))
 
+burlton2010a = DB(WorkUnrelated(
+    2010, "Delivering business strategy through process management.",
+    display="burlton",
+    authors="R Burlton",
+    place=FAKE,
+    other1="pp 537",
+    placex="vom Brocke J, Rosemann M (eds) Handbook on business process management 2. Springer, Berlin,",
+))
+
 carvalho2010a = DB(WorkUnrelated(
     2010, "Management Function Deployment: um Método para o Alinhamento Estratégico da Melhoria dos Processos de Gerenciamento de Projetos de Software",
     display="carvalho",
@@ -239,6 +248,7 @@ cmmi2010a = DB(WorkUnrelated(
     note="cited By 189",
     ID="cmmi2010",
     placex="CMMI Product Team, CMU/SEI-2010-TR-033, Tech. Rep.",
+    other1="Carnegie Mellon University, Pittsburgh, PA",
 ))
 
 cmusei2010a = DB(WorkUnrelated(
@@ -451,6 +461,14 @@ ferrari2010a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+gartner2010a = DB(WorkUnrelated(
+    2010, "Gartner executive programs CIO survey.",
+    display="gartner",
+    authors="Gartner",
+    place=FAKE,
+    placex="Press release, Gartner, Inc.",
+))
+
 goyal2010a = DB(WorkUnrelated(
     2010, "ROI for SPI: Lessons from Initiatives at IBM Global Services India",
     display="goyal",
@@ -501,6 +519,14 @@ haigh2010a = DB(WorkUnrelated(
     cluster_id="12894759810750422661",
     scholar="http://scholar.google.com/scholar?cites=12894759810750422661&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Quality Journal",
+))
+
+hammer2010a = DB(WorkUnrelated(
+    2010, "What is business process management?",
+    display="hammer",
+    authors="M Hammer",
+    place=FAKE,
+    placex="vom Brocke J, Rosemann M (eds) Handbook on business process management, vol 1. Springer, Heidelberg",
 ))
 
 hauge2010a = DB(WorkUnrelated(
@@ -775,6 +801,8 @@ mandić2010a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="3108184027401056441",
     scholar_ok=True,
+    other1="pp 255258",
+    placex="In: Proceedings of the 36th EUROMICRO conference on software engineering and advanced applications, 13 Sept 2010,",
 ))
 
 mandić2010b = DB(WorkSnowball(
@@ -798,6 +826,7 @@ mandić2010b = DB(WorkSnowball(
     cluster_id="341082888541335242",
     scholar_ok=True,
     gs="1",
+    other1="Italy, pp 110",
 ))
 
 mandić2010c = DB(WorkUnrelated(
@@ -1042,6 +1071,14 @@ oliveira2010a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+omg2010a = DB(WorkUnrelated(
+    2010, "The business motivation model (BMM) V. 1.1. Object",
+    display="omg",
+    authors="OMG",
+    place=FAKE,
+    placex="Management Group (Object Management Group)",
+))
+
 parkinson2010a = DB(WorkUnrelated(
     2010, "Practitioner-based measurement: A collaborative approach",
     display="parkinson",
@@ -1200,6 +1237,14 @@ romero2010a = DB(WorkUnrelated(
     placex="Commun. ACM",
 ))
 
+rosemann2010a = DB(WorkUnrelated(
+    2010, "The six core elements of business process management.",
+    display="rosemann",
+    authors="M Rosemann, vom Brocke J",
+    place=FAKE,
+    placex="vom Brocke J, Rosemann M (eds) Handbook on business process management, vol 1. Springer, Heidelberg",
+))
+
 sarcia2010a = DB(WorkUnrelated(
     2010, "Is GQM+strategies really applicable as is to non-software development domains?",
     display="sarcia",
@@ -1212,6 +1257,8 @@ sarcia2010a = DB(WorkUnrelated(
     ID="Sarcia'2010",
     scholar="http://scholar.google.com/scholar?cites=18340962611795161582&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+    other1="software engineering and measurement, Bolzano-Bozen, Italy,",
+    other2="pp 14",
 ))
 
 shu2010a = DB(WorkUnrelated(

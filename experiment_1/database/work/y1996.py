@@ -45,6 +45,14 @@ austin1996a = DB(WorkUnrelated(
     ID="Austin1996",
 ))
 
+basili1996a = DB(WorkUnrelated(
+    1996, "The empirical investigation of perspective-based reading.",
+    display="basili",
+    authors="VR Basili, S Green, O Laitenberger, F Shull, S Sørumga?rd, MV Zelkowitz",
+    place=FAKE,
+    placex="Empir Software Eng 13(12):12781296",
+))
+
 bolcer1996a = DB(WorkUnrelated(
     1996, "Endeavors: A Process System Integration Infrastructure",
     display="bolcer",
@@ -67,6 +75,7 @@ briand1996a = DB(WorkUnrelated(
     note="cited By 94",
     ID="Briand1996253",
     placex="Software Process: Improvement and Practice",
+    other1="2(4):253280",
 ))
 
 brinkkemper1996a = DB(WorkUnrelated(
@@ -356,6 +365,15 @@ pfleeger1996a = DB(WorkUnrelated(
     note="cited By 15",
     ID="Pfleeger199699",
     placex="IEEE Software",
+))
+
+porter1996a = DB(WorkUnrelated(
+    1996, "What is strategy?",
+    display="porter",
+    authors="ME Porter",
+    place=FAKE,
+    other1="74(6):6178",
+    placex="Harv Bus Rev",
 ))
 
 pulford1996a = DB(WorkUnrelated(

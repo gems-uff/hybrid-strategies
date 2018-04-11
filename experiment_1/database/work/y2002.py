@@ -188,6 +188,16 @@ chauveau2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+ciolkowski2002a = DB(WorkUnrelated(
+    2002, "Software inspections,reviews and walkthroughs.",
+    display="ciolkowski",
+    authors="M Ciolkowski, O Laitenberger, D Rombach, F Shull, D Perry",
+    place=FAKE,
+    other1="engineering, May 2002,",
+    other2="pp 641642",
+    placex="Proceedings of the 24rd international conference on software",
+))
+
 cmm2002a = DB(WorkUnrelated(
     2002, "Capability Maturity Model Integration (CMMI), Version 1.2",
     display="cmm",
@@ -245,6 +255,7 @@ conradi2002a = DB(WorkUnrelated(
     note="cited By 100",
     ID="Conradi200292",
     placex="IEEE Software",
+    other1="19(4):9299",
 ))
 
 dag2002a = DB(WorkUnrelated(
@@ -523,6 +534,16 @@ lago2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_31",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+laitenberger2002a = DB(WorkUnrelated(
+    2002, "A survey of software inspection technologies.",
+    display="laitenberger",
+    authors="O Laitenberger",
+    place=FAKE,
+    other1="World Scientific, Singapore,",
+    other2="pp 517556",
+    placex="Chang SK (ed) Handbook on software engineering and knowledge engineering.",
 ))
 
 lee2002a = DB(WorkUnrelated(

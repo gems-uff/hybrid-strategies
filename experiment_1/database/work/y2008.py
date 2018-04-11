@@ -232,6 +232,14 @@ bjørnson2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+brindgeland2008a = DB(WorkUnrelated(
+    2008, "Business modeling: a practical guide to realizing business value.",
+    display="brindgeland",
+    authors="DM Brindgeland, R Zahavi",
+    place=MK,
+    placex="Morgan Kaufmann, Boston, MA",
+))
+
 chen2008a = DB(WorkUnrelated(
     2008, "An objective-oriented and product-line-based manufacturing performance measurement",
     display="chen",
@@ -314,6 +322,15 @@ cyra2008a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-85279-7_3",
     springer="1",
     placex="Balancing Agility and Formalism in Software Engineering",
+))
+
+damiani2008a = DB(WorkUnrelated(
+    2008, "SAF: strategic alignment framework for monitoring organizations.",
+    display="damiani",
+    authors="E Damiani, F Mulazzani, B Russo, G Succi",
+    place=FAKE,
+    other1="Innsbruck, Austria. Springer",
+    placex="Proceedings to the eleventh international conference on business information systems,",
 ))
 
 darwish2008a = DB(WorkUnrelated(
@@ -610,6 +627,14 @@ kaplan2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Kaplan2008",
     placex="Harvard Business Press",
+))
+
+kaplan2008b = DB(WorkUnrelated(
+    2008, "Execution premium: linking strategy to operations for competitive advantage.",
+    display="kaplan b",
+    authors="RS Kaplan, DP Norton",
+    place=FAKE,
+    placex="Harvard Business School Press, Boston, MA",
 ))
 
 kasunic2008a = DB(WorkUnrelated(
@@ -935,6 +960,15 @@ pijpers2008a = DB(WorkUnrelated(
     ID="Pijpers:2008:BSA:1409540.1409551",
     acm="1",
     placex="Proceedings of the 10th International Conference on Electronic Commerce",
+))
+
+porter2008a = DB(WorkUnrelated(
+    2008, "The five competitive forces that shape strategy.",
+    display="porter",
+    authors="ME Porter",
+    place=FAKE,
+    other1="86(1):7893",
+    placex="Harv Bus Rev",
 ))
 
 punyabukkana2008a = DB(WorkUnrelated(

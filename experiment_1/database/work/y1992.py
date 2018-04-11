@@ -25,6 +25,15 @@ basili1992b = DB(WorkUnrelated(
     placex="ACM Transactions on Software Engineering and Methodology",
 ))
 
+chillarege1992a = DB(WorkUnrelated(
+    1992, "Orthogonal defect classification  a concept for in-process measurements.",
+    display="chillarege",
+    authors="R Chillarege, IS Bhandari, JK Chaar, MJ Halliday, DS Moebus, BK Ray , M-Y Wong",
+    place=IEEES,
+    other1="Eng 18(11):943956",
+    placex="IEEE Trans Software",
+))
+
 cox1992a = DB(WorkUnrelated(
     1992, "Keys to success in quality function deployment",
     display="cox",
@@ -154,6 +163,7 @@ kaplan1992a = DB(WorkUnrelated(
     number="1",
     note="cited By 5432",
     ID="Kaplan199271",
+    other1="70(1):7179",
 ))
 
 kaplan1992b = DB(WorkUnrelated(

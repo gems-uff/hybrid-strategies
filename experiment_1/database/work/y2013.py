@@ -999,6 +999,14 @@ petersen2013a = DB(WorkUnrelated(
     ID="Petersen201381",
 ))
 
+pmi2013a = DB(WorkUnrelated(
+    2013, "A guide to the project management body of knowledge (PMBOK guide),",
+    display="pmi",
+    authors="PMI",
+    place=FAKE,
+    placex="5th edn. Project Management Institute, Newtown Square, PA",
+))
+
 rinkevics2013a = DB(WorkUnrelated(
     2013, "Equality in cumulative voting: A systematic review with an improvement proposal",
     display="rinkevics",

@@ -73,6 +73,15 @@ hammer1990a = DB(WorkUnrelated(
     placex="Obliterate, Harvard Business Review",
 ))
 
+hammer1990b = DB(WorkUnrelated(
+    1990, "Reengineering work: dont automate, obliterate.",
+    display="hammer b",
+    authors="M Hammer",
+    place=FAKE,
+    other1="68(4):104112",
+    placex="Harv Bus Rev",
+))
+
 knapp1990a = DB(WorkUnrelated(
     1990, "Treating ordinal scales as interval scales: an attempt to resolve the controversy",
     display="knapp",

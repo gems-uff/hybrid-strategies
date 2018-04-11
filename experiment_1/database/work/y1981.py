@@ -3,6 +3,15 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+basili1981a = DB(WorkUnrelated(
+    1981, "Data collection, validation, and analysis. In: Tutorial on models and metrics for software management and engineering,",
+    display="basili",
+    authors="VR Basili",
+    place=FAKE,
+    other1="pp 310313",
+    placex="IEEE Catalog no. EHO-167-7,",
+))
+
 checkland1981a = DB(WorkUnrelated(
     1981, "Systems Thinking, Systems Practice",
     display="checkland",

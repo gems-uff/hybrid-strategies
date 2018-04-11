@@ -33,6 +33,15 @@ basili1995a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
+basili1995b = DB(WorkUnrelated(
+    1995, "Improve software quality by reusing knowledge and experience.",
+    display="basili b",
+    authors="VR Basili, G Caldiera",
+    place=FAKE,
+    other1="37(1):5564",
+    placex="Sloan Manag Rev",
+))
+
 borum1995a = DB(WorkUnrelated(
     1995, "Strategies for Organizational Change",
     display="borum",
@@ -157,6 +166,14 @@ debou1995a = DB(WorkUnrelated(
     placex="Proceedings of the second ISCN Seminar, Vienna, September.",
 ))
 
+gresse1995a = DB(WorkUnrelated(
+    1995, "A process model for planning GQM-based measurement.",
+    display="gresse",
+    authors="C Gresse, B Hoisl, J Wu¨st",
+    place=FAKE,
+    placex="Technical report STTI-95-04-E, Software Technology Transfer Initiative, University of Kaiserslautern",
+))
+
 herbsleb1995a = DB(WorkUnrelated(
     1995, "Systematic survey of CMM experience and results",
     display="herbsleb",
@@ -279,6 +296,15 @@ miller1995a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Miller1995475",
     placex="Software Quality Management II",
+))
+
+neely1995a = DB(WorkUnrelated(
+    1995, "Performance measurement system design: a literature review and research agenda.",
+    display="neely",
+    authors="A Neely, M Gregory, K Platts",
+    place=FAKE,
+    other1="15(4):80116",
+    placex="Int J Oper Prod Manag",
 ))
 
 obbink1995a = DB(WorkUnrelated(

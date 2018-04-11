@@ -14,6 +14,15 @@ deming1986a = DB(WorkUnrelated(
     placex="Cambridge University Press",
 ))
 
+deming1986b = DB(WorkUnrelated(
+    1986, "Out of the crisis.",
+    display="deming b",
+    authors="WE Deming",
+    place=FAKE,
+    other1="Education Services, Cambridge, MA",
+    placex="Massachusetts Institute of Technology, Center for Advance",
+))
+
 takeuchi1986a = DB(WorkUnrelated(
     1986, "The new product development game",
     display="takeuchi",
