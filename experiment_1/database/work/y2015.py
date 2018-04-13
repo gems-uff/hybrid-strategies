@@ -33,6 +33,16 @@ ali2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+ammala2015a = DB(WorkUnrelated(
+    2015, "TOWARDS PREDICTABLE B2B CUSTOMER SATISFACTION AND EXPERIENCE MANAGEMENT WITH CONTINUOUS IMPROVEMENT ASSETS AND RICH FEEDBACK",
+    display="ammala",
+    authors="ammala, MIKKO",
+    place=FAKE,
+    entrytype="article",
+    ID="ammalapetri",
+    placex="",
+))
+
 babar2015a = DB(WorkUnrelated(
     2015, "Modeling DevOps deployment choices using process architecture design dimensions",
     display="babar",
@@ -108,6 +118,18 @@ cakula2015a = DB(WorkUnrelated(
     ID="Cakula2015191",
     sciencedirect="1",
     placex="Procedia Computer Science",
+))
+
+connor2015a = DB(WorkUnrelated(
+    2015, "Systems, Software and Services Process Improvement: 22nd European Conference, EuroSPI 2015, Ankara, Turkey, September 30--October 2, 2015. Proceedings",
+    display="connor",
+    authors="OConnor, Rory V and Akkaya, Mariye Umay and Kemaneci, Kerem and Yilmaz, Murat and Poth, Alexander and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="543",
+    publisher="Springer",
+    ID="o2015systems",
+    placex="",
 ))
 
 dymek2015a = DB(WorkUnrelated(
@@ -215,6 +237,20 @@ goldin2015a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+gorschek2015a = DB(WorkUnrelated(
+    2015, "How to Increase the Likelihood of Successful Transfer to Industry--Going Beyond the Empirical",
+    display="gorschek",
+    authors="Gorschek, Tony",
+    place=FAKE,
+    pp="10--11",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="gorschek2015increase",
+    cluster_id="2520316277981145055",
+    scholar="http://scholar.google.com/scholar?cites=2520316277981145055&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Conducting Empirical Studies in Industry (CESI), 2015 IEEE/ACM 3rd International Workshop on",
+))
+
 gossen2015a = DB(WorkUnrelated(
     2015, "Anti-counterfeiting Effectivity Analysis Using Attack and Defense Tree Scenario Methods",
     display="gossen",
@@ -290,6 +326,18 @@ heikkilä2015a = DB(WorkUnrelated(
     ID="Heikkilä2015116",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+herzwurm2015a = DB(WorkUnrelated(
+    2015, "Quality Function Deployment in Software Development-State-of-the-art",
+    display="herzwurm",
+    authors="Herzwurm, Georg and Schockert, Sixten and Tauterat, Tobias",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="herzwurm2015quality",
+    cluster_id="17211683457932294",
+    scholar="http://scholar.google.com/scholar?cites=17211683457932294&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 21th International Symposium on Quality Function Deployment",
 ))
 
 hithnawi2015a = DB(WorkUnrelated(
@@ -418,6 +466,20 @@ kerzazi2015a = DB(WorkUnrelated(
         bookgroupauthor="IEEE",
         note="10th International Conference on Intelligent Systems - Theories and Applications (SITA), ENSIAS, Rabat, MOROCCO, OCT 20-21, 2015",
         placex="INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS: THEORIES AND APPLICATIONS",
+))
+
+kettunen2015a = DB(WorkUnrelated(
+    2015, "Towards predictable B2B customer satisfaction and experience management with continuous improvement assets and rich feedback",
+    display="kettunen",
+    authors="Kettunen, Petri and Ämmälä, Mikko and Partanen, Jari",
+    place=FAKE,
+    pp="205--211",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kettunen2015towards",
+    cluster_id="12489590526787160581",
+    scholar="http://scholar.google.com/scholar?cites=12489590526787160581&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
 ))
 
 kim2015a = DB(WorkUnrelated(
@@ -587,6 +649,17 @@ mesquida2015a = DB(WorkUnrelated(
     placex="Computers & Security",
 ))
 
+mohamed2015a = DB(WorkUnrelated(
+    2015, "A process based approach software certification model for agile and secure environment",
+    display="mohamed",
+    authors="Mohamed, Shafinah Farvin Packeer",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mohamed2015process",
+    local="Universiti Utara Malaysia",
+    placex="",
+))
+
 murphy2015a = DB(WorkUnrelated(
     2015, "Towards holistic goal centered performance management in software development: lessons from a best practice analysis",
     display="murphy",
@@ -598,6 +671,22 @@ murphy2015a = DB(WorkUnrelated(
     cluster_id="10785371662697807519",
     scholar="http://scholar.google.com/scholar?cites=10785371662697807519&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Information Systems and Project Management",
+))
+
+niazi2015a = DB(WorkUnrelated(
+    2015, "A comparative study of software process improvement implementation success factors",
+    display="niazi",
+    authors="Niazi, Mahmood",
+    place=JSEP,
+    pp="700--722",
+    entrytype="article",
+    volume="27",
+    number="9",
+    publisher="Wiley Online Library",
+    ID="niazi2015comparative",
+    cluster_id="4434690559851630693",
+    scholar="http://scholar.google.com/scholar?cites=4434690559851630693&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
 ))
 
 nilsson2015a = DB(WorkUnrelated(
@@ -761,6 +850,20 @@ rosa2015a = DB(WorkUnrelated(
     placex="Proceedings of the 2015 International Conference on Software and System Process",
 ))
 
+rose2015a = DB(WorkUnrelated(
+    2015, "Improving software management: the industry model, the knowledge model, the network model",
+    display="rose",
+    authors="Rose, Jeremy",
+    place=FAKE,
+    pp="9--23",
+    entrytype="article",
+    volume="11",
+    number="1",
+    publisher="Springer",
+    ID="rose2015improving",
+    placex="Innovations in Systems and Software Engineering",
+))
+
 rúa2015a = DB(WorkUnrelated(
     2015, "Marco de trabajo para adaptar las metodologías ágiles e implantarlas a nivel organizacional",
     display="rúa",
@@ -860,6 +963,47 @@ siris2015a = DB(WorkUnrelated(
     ID="Siris:2015:MMD:2795381.2795391",
     acm="1",
     placex="Proceedings of the 10th International Workshop on Mobility in the Evolving Internet Architecture",
+))
+
+stasytyte2015a = DB(WorkUnrelated(
+    2015, "{?}MON?S VEIKLOS RIZIKOS VERTINIMAS IR VALDYMAS MA{}OSE IR VIDUTIN?SE {?}MON?SE.",
+    display="stasytyte",
+    authors="STASYTYTĖ, Viktorija and ALEKSIENĖ, Loreta",
+    place=FAKE,
+    entrytype="article",
+    volume="16",
+    number="2",
+    ID="stasytyte2015kimones",
+    cluster_id="10326758214510799479",
+    scholar="http://scholar.google.com/scholar?cites=10326758214510799479&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Business: Theory & Practice",
+))
+
+stasytyte2015b = DB(WorkUnrelated(
+    2015, "Operational Risk Assessment and Management in Small and Medium-sized Enterprises",
+    display="stasytyte b",
+    authors="Stasytyte, Viktorija and Aleksien?, Loreta",
+    place=FAKE,
+    pp="140",
+    entrytype="article",
+    volume="16",
+    publisher="VGTU Press Technika",
+    ID="stasytyte2015operational",
+    placex="Business: Theory and Practice",
+))
+
+thakurta2015a = DB(WorkUnrelated(
+    2015, "Understanding Requirement Prioritization Artifacts",
+    display="thakurta",
+    authors="Thakurta, Rahul",
+    place=FAKE,
+    pp="60",
+    entrytype="article",
+    volume="10",
+    number="5",
+    publisher="Advanced Institutes of Convergence Information Technology",
+    ID="thakurta2015understanding",
+    placex="Journal of Convergence Information Technology",
 ))
 
 thompson2015a = DB(WorkUnrelated(

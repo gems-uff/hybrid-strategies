@@ -100,6 +100,17 @@ cervantes2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+chagas2016a = DB(WorkUnrelated(
+    2016, "Um plano de medi{ç}ão para as disciplinas de resolu{ç}ão de problemas do curso de engenharia de software",
+    display="chagas",
+    authors="Chagas, Jonas Maria",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal do Pampa",
+    ID="chagas2016plano",
+    placex="",
+))
+
 diep2016a = DB(WorkUnrelated(
     2016, "Applying Software Data Analysis in Industry Contexts: When Research Meets Reality",
     display="diep",
@@ -168,6 +179,17 @@ górski2016a = DB(WorkUnrelated(
     placex="Biuletyn Wojskowej Akademii Technicznej",
 ))
 
+hooge2016a = DB(WorkUnrelated(
+    2016, "How decision makers learn to choose organizational performance measures",
+    display="hooge",
+    authors="Hooge, AnneMarie N",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hooge2016decision",
+    local="University of the Incarnate Word",
+    placex="",
+))
+
 jaramillo2016a = DB(WorkUnrelated(
     2016, "A Method Based on Patterns for Deriving Key Performance Indicators from Organizational Objectives",
     display="jaramillo",
@@ -191,6 +213,20 @@ kalidoss2016a = DB(WorkUnrelated(
     entrytype="mastersthesis",
     ID="kalidoss2016intention",
     placex="",
+))
+
+kettunen2016a = DB(WorkUnrelated(
+    2016, "Towards Continuous Customer Satisfaction and Experience Management: A Measurement Framework Design Case in Wireless B2B Industry",
+    display="kettunen",
+    authors="Kettunen, Petri and Ämmälä, Mikko and Sauvola, Tanja and Teppola, Susanna and Partanen, Jari and Rontti, Simo",
+    place=ICPFSPI,
+    pp="598--608",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kettunen2016towards",
+    cluster_id="2383843033072141391",
+    scholar="http://scholar.google.com/scholar?cites=2383843033072141391&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product-Focused Software Process Improvement",
 ))
 
 key2016a = DB(WorkUnrelated(
@@ -259,6 +295,17 @@ koumaditis2016a = DB(WorkUnrelated(
     placex="Reshaping medical practice and care with health information systems",
 ))
 
+kreiner2016a = DB(WorkUnrelated(
+    2016, "Systems, Software and Services Process Improvement",
+    display="kreiner",
+    authors="Kreiner, Christian and O'Connor, Rory V and Poth, Alexander and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    publisher="Springer",
+    ID="kreiner2016systems",
+    placex="",
+))
+
 kruger2016a = DB(WorkUnrelated(
     2016, "The Influence of enforced changes on systems performance",
     display="kruger",
@@ -281,6 +328,36 @@ lepmets2016a = DB(WorkUnrelated(
     organization="IEEE",
     ID="lepmets2016towards",
     placex="Quality of Information and Communications Technology (QUATIC), 2016 10th International Conference on the",
+))
+
+lepmets2016b = DB(WorkUnrelated(
+    2016, "Development and benefits of MDevSPICE{	extregistered}, the medical device software process assessment framework",
+    display="lepmets b",
+    authors="Lepmets, Marion and McCaffery, Fergal and Clarke, Paul",
+    place=JSEP,
+    pp="800--816",
+    entrytype="article",
+    volume="28",
+    number="9",
+    publisher="Wiley Online Library",
+    ID="lepmets2016development",
+    cluster_id="14256708490894175163",
+    scholar="http://scholar.google.com/scholar?cites=14256708490894175163&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
+))
+
+liang2016a = DB(WorkUnrelated(
+    2016, "A Study on Design-oriented Demands of VR via ZMET-QFD Model for Industrial Design Education and Students' Learning.",
+    display="liang",
+    authors="Liang, Yo-Wen and Lee, An-Sheng and Liu, Shuo-Fang",
+    place=FAKE,
+    entrytype="article",
+    volume="12",
+    number="5",
+    ID="liang2016study",
+    cluster_id="9323845935726908158",
+    scholar="http://scholar.google.com/scholar?cites=9323845935726908158&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Eurasia Journal of Mathematics, Science & Technology Education",
 ))
 
 liberato2016a = DB(WorkUnrelated(
@@ -473,6 +550,21 @@ spósito2016a = DB(WorkUnrelated(
     placex="Proceedings of the 18th International Conference on Enterprise Information Systems",
 ))
 
+staron2016a = DB(WorkUnrelated(
+    2016, "Mesram--a method for assessing robustness of measurement programs in large software development organizations and its industrial evaluation",
+    display="staron",
+    authors="Staron, Miroslaw and Meding, Wilhelm",
+    place=JSS,
+    pp="76--100",
+    entrytype="article",
+    volume="113",
+    publisher="Elsevier",
+    ID="staron2016mesram",
+    cluster_id="6086143533887429580",
+    scholar="http://scholar.google.com/scholar?cites=6086143533887429580&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
+))
+
 suganya2016a = DB(WorkUnrelated(
     2016, "A Review on Software Process Improvement Methodologies for Small and Medium Enterprises",
     display="suganya",
@@ -514,6 +606,33 @@ tahir2016a = DB(WorkUnrelated(
     cluster_id="11585244638554325848",
     scholar="http://scholar.google.com/scholar?cites=11585244638554325848&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+))
+
+thakurta2016a = DB(WorkUnrelated(
+    2016, "A PROPOSITION OF A SET OF DESIGN PRINCIPLES FOR REQUIREMENT PRIORITIZATION ARTIFACTS",
+    display="thakurta",
+    authors="THAKURTA, RAHUL",
+    place=FAKE,
+    pp="28",
+    entrytype="article",
+    volume="27",
+    number="1",
+    ID="thakurta2016proposition",
+    placex="Journal of Information Technology Management",
+))
+
+unterkalmsteiner2016a = DB(WorkUnrelated(
+    2016, "Software startups--a research agenda",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, Michael and Abrahamsson, Pekka and Wang, XiaoFeng and Nguyen-Duc, Anh and Shah, Syed and Bajwa, Sohaib Shahid and Baltes, Guido H and Conboy, Kieran and Cullina, Eoin and Dennehy, Denis and others",
+    place=FAKE,
+    entrytype="article",
+    volume="10",
+    number="1",
+    ID="unterkalmsteiner2016software",
+    cluster_id="9326101714576990233",
+    scholar="http://scholar.google.com/scholar?cites=9326101714576990233&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="e-Informatica Software Engineering Journal",
 ))
 
 yamamoto2016a = DB(WorkUnrelated(

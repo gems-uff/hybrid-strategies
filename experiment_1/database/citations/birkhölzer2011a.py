@@ -23,6 +23,10 @@ from ..work.y2010 import ast2010a
 from ..work.y2010 import esfahani2010a
 from ..work.y2011 import birkhölzer2011a
 from ..work.y2011 import pe2011a
+from ..work.y2013 import bjarnason2013a
+from ..work.y2013 import valenciennes2013a
+from ..work.y2015 import ramos2015a
+from ..work.y2017 import jürisoo2017a
 
 DB(Citation(
     birkhölzer2011a, rausch2007a, ref="",
@@ -152,6 +156,34 @@ DB(Citation(
 
 DB(Citation(
     birkhölzer2011a, erdogmus2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bjarnason2013a, birkhölzer2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ramos2015a, birkhölzer2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valenciennes2013a, birkhölzer2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jürisoo2017a, birkhölzer2011a, ref="",
     contexts=[
 
     ],

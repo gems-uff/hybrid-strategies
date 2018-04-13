@@ -17,6 +17,7 @@ from ..work.y2001 import trienekens2001a
 from ..work.y2003 import dawson2003a
 from ..work.y2003 import neiger2003a
 from ..work.y2004 import trienekens2004a
+from ..work.y2010 import el2010a
 
 DB(Citation(
     trienekens2004a, debou2000a, ref="",
@@ -104,6 +105,13 @@ DB(Citation(
 
 DB(Citation(
     trienekens2004a, trienekens2001a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    el2010a, trienekens2004a, ref="",
     contexts=[
 
     ],

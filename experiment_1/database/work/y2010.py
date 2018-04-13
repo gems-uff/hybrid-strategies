@@ -3,6 +3,32 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aboelmaged2010a = DB(WorkUnrelated(
+    2010, "Six Sigma quality: a structured review and implications for future research",
+    display="aboelmaged",
+    authors="Gamal Aboelmaged, Mohamed",
+    place=FAKE,
+    pp="268--317",
+    entrytype="article",
+    volume="27",
+    number="3",
+    publisher="Emerald Group Publishing Limited",
+    ID="gamal2010six",
+    cluster_id="14983881218536578523",
+    scholar="http://scholar.google.com/scholar?cites=14983881218536578523&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Quality & Reliability Management",
+))
+
+ali2010a = DB(WorkUnrelated(
+    2010, "Change Requirement Management Issues for a Large Software Development Projects",
+    display="ali",
+    authors="Ali, Hassan Osman and Rozan, Mohd Zaidi Abd and Sharif, Abdullahi Mohamud",
+    place=FAKE,
+    entrytype="article",
+    ID="alichange",
+    placex="",
+))
+
 armbrust2010a = DB(WorkSnowball(
     2010, "Determining organization-specific process suitability",
     display="armbrust",
@@ -163,6 +189,21 @@ basili2010c = DB(WorkUnrelated(
     placex="Wien, Austria, 2009. 9. Internationale Tagung Wirtschaftsinformatik 2009",
 ))
 
+basri2010a = DB(WorkUnrelated(
+    2010, "Organizational commitment towards software process improvement an irish software VSEs case study",
+    display="basri",
+    authors="Basri, Shuib Bin and O'Connor, Rory V",
+    place=FAKE,
+    pp="1456--1461",
+    entrytype="inproceedings",
+    volume="3",
+    organization="IEEE",
+    ID="basri2010organizational",
+    cluster_id="16881189038884396829",
+    scholar="http://scholar.google.com/scholar?cites=16881189038884396829&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Technology (ITSim), 2010 International Symposium in",
+))
+
 begum2010a = DB(WorkUnrelated(
     2010, "Software development standard and software engineering practice: A case study of Bangladesh",
     display="begum",
@@ -211,6 +252,20 @@ burlton2010a = DB(WorkUnrelated(
     place=FAKE,
     other1="pp 537",
     placex="vom Brocke J, Rosemann M (eds) Handbook on business process management 2. Springer, Berlin,",
+))
+
+cancian2010a = DB(WorkUnrelated(
+    2010, "Supporting Software Services Trustworthiness in Collaborative Networks",
+    display="cancian",
+    authors="Cancian, Maiara Heil and Rabelo, Ricardo J and Von Wangenheim, Christiane Gresse",
+    place=FAKE,
+    pp="672--684",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cancian2010supporting",
+    cluster_id="2218310951165228018",
+    scholar="http://scholar.google.com/scholar?cites=2218310951165228018&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Working Conference on Virtual Enterprises",
 ))
 
 carvalho2010a = DB(WorkUnrelated(
@@ -388,6 +443,18 @@ egorova2010a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+el2010a = DB(WorkUnrelated(
+    2010, "Modeling and Managing Business Processes",
+    display="el",
+    authors="El-Mekawy, Mohammad and Shahzad, Khurram and Ahmed, Nabeel",
+    place=FAKE,
+    pp="93--116",
+    entrytype="incollection",
+    publisher="World Scientific",
+    ID="el2010modeling",
+    placex="Handbook On Business Information Systems",
+))
+
 escofet2010a = DB(WorkUnrelated(
     2010, "Strategic E-Business/IT Alignment for SME Competitiveness",
     display="escofet",
@@ -461,6 +528,20 @@ ferrari2010a = DB(WorkUnrelated(
     ID="Ferrari2010",
     springer="1",
     placex="Requirements Engineering",
+))
+
+fruehwirth2010a = DB(WorkUnrelated(
+    2010, "Addressing misalignment between information security metrics and business-driven security objectives",
+    display="fruehwirth",
+    authors="Fruehwirth, Christian and Biffl, Stefan and Tabatabai, Mohamed and Weippl, Edgar",
+    place=FAKE,
+    pp="6",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="fruehwirth2010addressing",
+    cluster_id="9107686990138046615",
+    scholar="http://scholar.google.com/scholar?cites=9107686990138046615&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 6th International Workshop on Security Measurements and Metrics",
 ))
 
 gartner2010a = DB(WorkUnrelated(
@@ -625,6 +706,20 @@ itgi2010a = DB(WorkUnrelated(
     note="cited By 1",
     ID="ITGI2010",
     placex="IT Governance Institute",
+))
+
+kettunen2010a = DB(WorkUnrelated(
+    2010, "A tentative framework for lean software enterprise research and development",
+    display="kettunen",
+    authors="Kettunen, Petri",
+    place=FAKE,
+    pp="60--71",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="kettunen2010tentative",
+    cluster_id="14610461039949670985",
+    scholar="http://scholar.google.com/scholar?cites=14610461039949670985&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Lean Enterprise Software and Systems",
 ))
 
 khoshkbarforoushha2010a = DB(WorkUnrelated(
@@ -968,8 +1063,10 @@ mcloughlin2010b = DB(WorkSnowball(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77957590654&doi=10.1007%2f978-3-642-15666-3_18&partnerID=40&md5=e06aaac5f23d90fcb4473a90273c06b2",
     document_type="Conference Paper",
     source="Scopus",
-    scholar="https://scholar.google.com.br/scholar?cites=6744102271720670138&as_sdt=2005&sciodt=0,5&hl=pt-BR",
+    scholar="https://scholar.google.com.br/scholar?cites=6744102271720670138&as_sdt=2005&sciodt=0,5&hl=en",
     ID="McLoughlin2010201",
+    organization="Springer",
+    placex="European Conference on Software Process Improvement",
 ))
 
 mcloughlin2010c = DB(WorkUnrelated(
@@ -1000,6 +1097,31 @@ mellado2010a = DB(WorkUnrelated(
     ID="Mellado2010153",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+))
+
+messnarz2010a = DB(WorkUnrelated(
+    2010, "SPICE Level 3-Experience with Using E-Learning to Coach the Use of Standard System Design Best Practices in Projects",
+    display="messnarz",
+    authors="Messnarz, Richard and Bachmann, Ovi and Ekert, Damjan and Riel, Andreas",
+    place=FAKE,
+    pp="213--221",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="messnarz2010spice",
+    cluster_id="16681083568697980161",
+    scholar="http://scholar.google.com/scholar?cites=16681083568697980161&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
+messnarz2010ab = DB(WorkUnrelated(
+    2010, "Integrated COSO SPICE Assessments",
+    display="messnarz",
+    authors="MESSNARZ, Richard and IVANYOS, Janos and EKERT, Damjan",
+    place=FAKE,
+    pp="77",
+    entrytype="article",
+    ID="messnarzintegrated",
+    placex="Internal Financial Control Assessment Applying Multilingual Ontology Framework",
 ))
 
 monteiro2010a = DB(WorkUnrelated(
@@ -1204,6 +1326,21 @@ riel2010a = DB(WorkUnrelated(
     placex="\{CIRP\} Journal of Manufacturing Science and Technology",
 ))
 
+riel2010b = DB(WorkUnrelated(
+    2010, "Systems, Software and Services Process Improvement",
+    display="riel b",
+    authors="Riel, Andreas and OConnor, Rory and Tichkiewitch, Serge and Messnarz, Richard and Musat, D and Castaño, V and Calvo-Manzano, JA",
+    place=CCIS,
+    pp="280--289",
+    entrytype="article",
+    volume="99",
+    publisher="Springer",
+    ID="riel2010systems",
+    cluster_id="914291655138479342",
+    scholar="http://scholar.google.com/scholar?cites=914291655138479342&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="CCIS",
+))
+
 rodríguez2010a = DB(WorkUnrelated(
     2010, "Software Process Improvement for SMEs using OMM",
     display="rodríguez",
@@ -1274,6 +1411,18 @@ sarcia2010a = DB(WorkUnrelated(
     other2="pp 14",
 ))
 
+shah2010a = DB(WorkUnrelated(
+    2010, "Optimum Software Process Improvement Paradigm for Quality Practices in Software Industry",
+    display="shah",
+    authors="Shah, Faisal Tehseen",
+    place=FAKE,
+    entrytype="article",
+    ID="shah2010optimum",
+    cluster_id="13606715392399681025",
+    scholar="http://scholar.google.com/scholar?cites=13606715392399681025&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Lahore: Institute of Quality and Technology Management, University of the Punjab",
+))
+
 shu2010a = DB(WorkUnrelated(
     2010, "Measurement and analysis of process audit: A case study",
     display="shu",
@@ -1323,6 +1472,20 @@ sun2010a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+suscheck2010a = DB(WorkUnrelated(
+    2010, "Using elastic features to control software development projects",
+    display="suscheck",
+    authors="Suscheck, Charles A and Huff, Richard A",
+    place=FAKE,
+    pp="99--109",
+    entrytype="article",
+    volume="19",
+    number="2",
+    publisher="International Information Management Association",
+    ID="suscheck2010using",
+    placex="Journal of International Technology and Information Management",
+))
+
 tisselli2010a = DB(WorkUnrelated(
     2010, "Thinkflickrthink: A Case Study on Strategic Tagging",
     display="tisselli",
@@ -1338,6 +1501,22 @@ tisselli2010a = DB(WorkUnrelated(
     ID="Tisselli:2010:TCS:1787234.1787270",
     acm="1",
     placex="Commun. ACM",
+))
+
+tjahjono2010a = DB(WorkUnrelated(
+    2010, "Six Sigma: a literature review",
+    display="tjahjono",
+    authors="Tjahjono, Benny and Ball, Patrick and Vitanov, Valentin I and Scorzafave, Claudia and Nogueira, Juan and Calleja, J and Minguet, M and Narasimha, L and Rivas, Antonio and Srivastava, Ankur and others",
+    place=FAKE,
+    pp="216--233",
+    entrytype="article",
+    volume="1",
+    number="3",
+    publisher="Emerald Group Publishing Limited",
+    ID="tjahjono2010six",
+    cluster_id="11282093047291645235",
+    scholar="http://scholar.google.com/scholar?cites=11282093047291645235&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Lean Six Sigma",
 ))
 
 tjørnehøj2010a = DB(WorkUnrelated(
@@ -1400,6 +1579,20 @@ vuk2010a = DB(WorkUnrelated(
     placex="Business Systems Research",
 ))
 
+wang2010a = DB(WorkUnrelated(
+    2010, "Apply fuzzy ontology to CMMI-based ASAP assessment system",
+    display="wang",
+    authors="Wang, Mei-Hui and Yan, Zhi-Rong and Lee, Chang-Shing and Hung, Pi-Hsia and Kuo, Yi-Ling and Wang, Hui-Min and Lin, Bort-Hung",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2010apply",
+    cluster_id="10567022934791816133",
+    scholar="http://scholar.google.com/scholar?cites=10567022934791816133&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems (FUZZ), 2010 IEEE International Conference on",
+))
+
 wangenheim2010a = DB(WorkUnrelated(
     2010, "Best practice fusion of CMMI-DEV v1.2 (PP, PMC, SAM) and \PMBOK\ 2008",
     display="wangenheim",
@@ -1436,6 +1629,21 @@ weerd2010a = DB(WorkUnrelated(
     ID="vandeWeerd2010720",
     sciencedirect="1",
     placex="Information and Software Technology",
+    publisher="Elsevier",
+    scholar="http://scholar.google.com/scholar?cites=9546306668847758117&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+west2010a = DB(WorkUnrelated(
+    2010, "Effective software engineering leadership for development programs",
+    display="west",
+    authors="West, Marsha Cagle",
+    place=Book,
+    entrytype="book",
+    publisher="University of Phoenix",
+    ID="west2010effective",
+    cluster_id="1604768728676171148",
+    scholar="http://scholar.google.com/scholar?cites=1604768728676171148&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 winter2010a = DB(WorkUnrelated(

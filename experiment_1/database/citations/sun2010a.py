@@ -30,6 +30,47 @@ from ..work.y2008 import beijun2008a
 from ..work.y2008 import becker2008b
 from ..work.y2009 import emam2009a
 from ..work.y2010 import sun2010a
+from ..work.y2010 import wang2010a
+from ..work.y2010 import shah2010a
+from ..work.y2010 import west2010a
+from ..work.y2010 import rodríguez2010a
+from ..work.y2010 import suscheck2010a
+from ..work.y2012 import bekkers2012a
+from ..work.y2012 import han2012a
+from ..work.y2012 import vezzetti2012a
+from ..work.y2012 import wang2012a
+from ..work.y2012 import calik2012a
+from ..work.y2012 import rensburg2012a
+from ..work.y2013 import serrano2013a
+from ..work.y2013 import liang2013a
+from ..work.y2013 import lee2013b
+from ..work.y2013 import alshammari2013a
+from ..work.y2013 import jeong2013a
+from ..work.y2013 import wang2013a
+from ..work.y2014 import vezzetti2014a
+from ..work.y2014 import cheng2014a
+from ..work.y2014 import yuen2014a
+from ..work.y2014 import choi2014a
+from ..work.y2014 import alshehri2014a
+from ..work.y2014 import choi2014b
+from ..work.y2014 import thakurta2014a
+from ..work.y2014 import aburub2014a
+from ..work.y2014 import wang2014a
+from ..work.y2015 import niazi2015a
+from ..work.y2015 import stasytyte2015a
+from ..work.y2015 import herzwurm2015a
+from ..work.y2015 import thakurta2015a
+from ..work.y2015 import mohamed2015a
+from ..work.y2015 import stasytyte2015b
+from ..work.y2016 import liang2016a
+from ..work.y2016 import thakurta2016a
+from ..work.y2016 import robles2016a
+from ..work.y2017 import schillo2017a
+from ..work.y2017 import safaie2017a
+from ..work.y2017 import sanchez2017a
+from ..work.y2017 import marrone2017a
+from ..work.y2017 import schockert2017a
+from ..work.y2018 import sanchez2018a
 
 DB(Citation(
     sun2010a, paulk1994a, ref="",
@@ -208,6 +249,293 @@ DB(Citation(
 
 DB(Citation(
     sun2010a, akao1990c, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vezzetti2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cheng2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    yuen2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bekkers2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    niazi2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    schillo2017a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    liang2016a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    serrano2013a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    shah2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    liang2013a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stasytyte2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    han2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    west2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    safaie2017a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    choi2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    herzwurm2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alshehri2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2017a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    choi2014b, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vezzetti2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lee2013b, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    thakurta2016a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    thakurta2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sanchez2018a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    thakurta2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alshammari2013a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jeong2013a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aburub2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    calik2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mohamed2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rensburg2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rodríguez2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2014a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    wang2013a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    marrone2017a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    suscheck2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    schockert2017a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stasytyte2015b, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    robles2016a, sun2010a, ref="",
     contexts=[
 
     ],

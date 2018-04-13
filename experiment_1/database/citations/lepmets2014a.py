@@ -23,6 +23,9 @@ from ..work.y2013 import jeners2013a
 from ..work.y2014 import lepmets2014a
 
 from ..work.y2014 import lepmets2014b
+from ..work.y2016 import lepmets2016b
+from ..work.y2016 import arnold2016a
+from ..work.y2016 import kruger2016a
 
 DB(Citation(
     lepmets2014a, lepmets2014b, ref="",
@@ -145,6 +148,27 @@ DB(Citation(
 
 DB(Citation(
     lepmets2014a, salo2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lepmets2016b, lepmets2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    arnold2016a, lepmets2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kruger2016a, lepmets2014a, ref="",
     contexts=[
 
     ],

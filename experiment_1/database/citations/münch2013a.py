@@ -19,6 +19,11 @@ from ..work.y2012 import unch2012a
 from ..work.y2013 import münch2013a
 from ..work.y2013 import münch2013c
 from ..work.y2013 import software2013a
+from ..work.y2016 import lópez2016a
+from ..work.y2016 import hooge2016a
+from ..work.y2016 import chagas2016a
+from ..work.y2017 import mandić2017a
+from ..work.y2017 import trinkenreich2017b
 
 DB(Citation(
     münch2013a, basili2007c, ref="",
@@ -120,6 +125,41 @@ DB(Citation(
 
 DB(Citation(
     münch2013a, yin2009a, ref="[15]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2016a, münch2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2017a, münch2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hooge2016a, münch2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trinkenreich2017b, münch2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chagas2016a, münch2013a, ref="",
     contexts=[
 
     ],

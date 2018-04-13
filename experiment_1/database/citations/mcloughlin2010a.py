@@ -47,8 +47,13 @@ from ..work.y2009 import group2009a
 from ..work.y2010 import mcloughlin2010a
 from ..work.y2010 import zahran2010a
 from ..work.y2010 import goyal2010a
+from ..work.y2010 import mcloughlin2010b
 from ..work.y2011 import hailey2011a
 from ..work.y2011 import krasner2011a
+from ..work.y2012 import deshpande2012a
+from ..work.y2012 import cervantes2012a
+from ..work.y2014 import kroll2014a
+from ..work.y2016 import cervantes2016a
 
 DB(Citation(
     mcloughlin2010a, oecd2006a, ref="",
@@ -360,6 +365,41 @@ DB(Citation(
 
 DB(Citation(
     mcloughlin2010a, cmmi2002a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mcloughlin2010b, mcloughlin2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    deshpande2012a, mcloughlin2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cervantes2016a, mcloughlin2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cervantes2012a, mcloughlin2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kroll2014a, mcloughlin2010a, ref="",
     contexts=[
 
     ],

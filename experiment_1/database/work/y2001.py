@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahamsson2001a = DB(WorkUnrelated(
+    2001, "Rethinking the concept of commitment in software process improvement",
+    display="abrahamsson",
+    authors="Abrahamsson, Pekka",
+    place=FAKE,
+    pp="1",
+    entrytype="article",
+    volume="13",
+    number="1",
+    ID="abrahamsson2001rethinking",
+    cluster_id="1883264806118565974",
+    scholar="http://scholar.google.com/scholar?cites=1883264806118565974&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Scandinavian Journal of Information Systems",
+))
+
 bacon2001a = DB(WorkUnrelated(
     2001, "A Systemic Framework for the Field of Information Systems",
     display="bacon",
@@ -191,6 +206,20 @@ carter2001b = DB(WorkUnrelated(
     placex="",
 ))
 
+cater2001a = DB(WorkUnrelated(
+    2001, "Process improvement in four small software companies",
+    display="cater",
+    authors="Cater-Steel, Aileen P",
+    place=SEC,
+    pp="262--272",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="cater2001process",
+    cluster_id="6925271973571601546",
+    scholar="http://scholar.google.com/scholar?cites=6925271973571601546&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference, 2001. Proceedings. 2001 Australian",
+))
+
 cattaneo2001a = DB(WorkUnrelated(
     2001, "Pursuing coherence in software process assessment and improvement",
     display="cattaneo",
@@ -335,6 +364,32 @@ emam2001a = DB(WorkUnrelated(
     ID="Emam200123",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+emam2001b = DB(WorkUnrelated(
+    2001, "Software Engineering Process",
+    display="emam b",
+    authors="El Emam, Khaled",
+    place=FAKE,
+    pp="137",
+    entrytype="article",
+    ID="el2001software",
+    cluster_id="2465778077562720922",
+    scholar="http://scholar.google.com/scholar?cites=2465778077562720922&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="SWEBOK",
+))
+
+emam2001c = DB(WorkUnrelated(
+    2001, "Description of the SWEBOK Knowledge Area Software Engineering Process (Version 0.9)",
+    display="emam c",
+    authors="El Emam, Khaled",
+    place=Book,
+    entrytype="book",
+    publisher="Institute for Information Technology, National Research Council of Canada",
+    ID="el2001description",
+    cluster_id="4886722774867425402",
+    scholar="http://scholar.google.com/scholar?cites=4886722774867425402&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 fenton2001a = DB(WorkUnrelated(
@@ -867,6 +922,11 @@ richardson2001a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Richardson2001",
     placex="Quality Management",
+    pp="23--35",
+    volume="3",
+    number="2",
+    publisher="Citeseer",
+    scholar="http://scholar.google.com/scholar?cites=1940486490650864597&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 rout2001a = DB(WorkUnrelated(

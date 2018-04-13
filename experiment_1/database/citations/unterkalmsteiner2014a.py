@@ -98,6 +98,10 @@ from ..work.y2011 import cmusei2011a
 from ..work.y2012 import unterkalmsteiner2012a
 from ..work.y2012 import ivarsson2012a
 from ..work.y2014 import unterkalmsteiner2014a
+from ..work.y2015 import gorschek2015a
+from ..work.y2016 import unterkalmsteiner2016a
+from ..work.y2016 import staron2016a
+from ..work.y2017 import erukulapati2017a
 
 DB(Citation(
     unterkalmsteiner2014a, kitchenham1996a, ref="",
@@ -759,6 +763,34 @@ DB(Citation(
 
 DB(Citation(
     unterkalmsteiner2014a, wohlin2000a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    unterkalmsteiner2016a, unterkalmsteiner2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    staron2016a, unterkalmsteiner2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gorschek2015a, unterkalmsteiner2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    erukulapati2017a, unterkalmsteiner2014a, ref="",
     contexts=[
 
     ],

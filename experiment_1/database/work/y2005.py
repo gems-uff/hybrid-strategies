@@ -95,6 +95,19 @@ boyd2005a = DB(WorkUnrelated(
     ID="Boyd2005",
 ))
 
+brady2005a = DB(WorkUnrelated(
+    2005, "Six Sigma and the university: Teaching, research, and meso-analysis",
+    display="brady",
+    authors="Brady, James E",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="brady2005six",
+    cluster_id="3946392849728693298",
+    scholar="http://scholar.google.com/scholar?cites=3946392849728693298&as_sdt=2005&sciodt=0,5&hl=en",
+    local="The Ohio State University",
+    placex="",
+))
+
 bühne2005a = DB(WorkUnrelated(
     2005, "Modelling requirements variability across product lines",
     display="bühne",
@@ -239,6 +252,8 @@ dyba2005a = DB(WorkUnrelated(
     note="cited By 150",
     ID="Dyba2005410",
     placex="IEEE Transactions on Software Engineering",
+    publisher="IEEE",
+    scholar="http://scholar.google.com/scholar?cites=5825358352026707953&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 eckerson2005a = DB(WorkUnrelated(
@@ -376,6 +391,47 @@ iso2005a = DB(WorkUnrelated(
     placex="iso 9000",
 ))
 
+jönsson2005a = DB(WorkUnrelated(
+    2005, "Understanding Impact Analysis: An Empirical Study to Capture Knowledge on Different Organisational Level.",
+    display="jönsson",
+    authors="Jönsson, Per and Wohlin, Claes",
+    place=FAKE,
+    pp="707--712",
+    entrytype="inproceedings",
+    ID="jonsson2005understanding",
+    cluster_id="761497518590485382",
+    scholar="http://scholar.google.com/scholar?cites=761497518590485382&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="SEKE",
+))
+
+jönsson2005b = DB(WorkUnrelated(
+    2005, "A study on prioritisation of impact analysis issues: A comparison between perspectives",
+    display="jönsson b",
+    authors="Jönsson, Per and Wohlin, Claes",
+    place=FAKE,
+    pp="11--19",
+    entrytype="inproceedings",
+    organization="Citeseer",
+    ID="jonsson2005study",
+    cluster_id="544420765598791845",
+    scholar="http://scholar.google.com/scholar?cites=544420765598791845&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="5th Conference on Software Engineering Research and Practices in Sewden-(SERPS'05)",
+))
+
+jönsson2005c = DB(WorkUnrelated(
+    2005, "Understanding the Importance of Roles in Architecture-Related Process Improvement--A Case Study",
+    display="jönsson c",
+    authors="Jönsson, Per and Wohlin, Claes",
+    place=ICPFSPI,
+    pp="343--357",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="jonsson2005understanding",
+    cluster_id="9083701491851771122",
+    scholar="http://scholar.google.com/scholar?cites=9083701491851771122&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
 kaplan2005a = DB(WorkUnrelated(
     2005, "The office of strategy management",
     display="kaplan",
@@ -460,6 +516,22 @@ liu2005a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+mahanti2005a = DB(WorkUnrelated(
+    2005, "Confluence of six sigma, simulation and software development",
+    display="mahanti",
+    authors="Mahanti, Rupa and Antony, Jiju",
+    place=FAKE,
+    pp="739--762",
+    entrytype="article",
+    volume="20",
+    number="7",
+    publisher="Emerald Group Publishing Limited",
+    ID="mahanti2005confluence",
+    cluster_id="7625436084203127243",
+    scholar="http://scholar.google.com/scholar?cites=7625436084203127243&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Managerial Auditing Journal",
+))
+
 marcus2005a = DB(WorkUnrelated(
     2005, "Recovery of traceability links between software documentation and source code",
     display="marcus",
@@ -489,6 +561,38 @@ mas2005a = DB(WorkUnrelated(
     cluster_id="6633335005355642323",
     scholar="http://scholar.google.com/scholar?cites=6633335005355642323&as_sdt=2005&sciodt=0,5&hl=en",
     placex="REICIS. Revista Española de Innovación, Calidad e Ingeniería del Software",
+))
+
+niazi2005a = DB(WorkUnrelated(
+    2005, "A maturity model for the implementation of software process improvement: an empirical study",
+    display="niazi",
+    authors="Niazi, Mahmood and Wilson, David and Zowghi, Didar",
+    place=JSS,
+    pp="155--172",
+    entrytype="article",
+    volume="74",
+    number="2",
+    publisher="Elsevier",
+    ID="niazi2005maturity",
+    cluster_id="3184355394607082589",
+    scholar="http://scholar.google.com/scholar?cites=3184355394607082589&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of systems and software",
+))
+
+niazi2005b = DB(WorkUnrelated(
+    2005, "A framework for assisting the design of effective software process improvement implementation strategies",
+    display="niazi b",
+    authors="Niazi, Mahmood and Wilson, David and Zowghi, Didar",
+    place=JSS,
+    pp="204--222",
+    entrytype="article",
+    volume="78",
+    number="2",
+    publisher="Elsevier",
+    ID="niazi2005framework",
+    cluster_id="2061213712552187512",
+    scholar="http://scholar.google.com/scholar?cites=2061213712552187512&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
 ))
 
 procaccino2005a = DB(WorkUnrelated(
@@ -721,6 +825,21 @@ wang2005a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="9841459670916835417",
     scholar_ok=True,
+))
+
+wang2005b = DB(WorkUnrelated(
+    2005, "Active measurement model for software process control and improvement.",
+    display="wang b",
+    authors="Wang, Qing and Li, Ming-Shu and Liu, Xia",
+    place=FAKE,
+    pp="407--418",
+    entrytype="article",
+    volume="16",
+    number="3",
+    ID="wang2005active",
+    cluster_id="9573806308325190431",
+    scholar="http://scholar.google.com/scholar?cites=9573806308325190431&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Ruan Jian Xue Bao(J. Softw.)",
 ))
 
 weber2005a = DB(WorkUnrelated(

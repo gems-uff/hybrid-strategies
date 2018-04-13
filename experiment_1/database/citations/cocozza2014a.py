@@ -14,6 +14,7 @@ from ..work.y2012 import asghari2012a
 from ..work.y2012 import jenkins2012a
 from ..work.y2014 import cocozza2014a
 from ..work.y2014 import basili2014d
+from ..work.y2016 import aoki2016a
 
 DB(Citation(
     cocozza2014a, basili2010a, ref="",
@@ -80,6 +81,13 @@ DB(Citation(
 
 DB(Citation(
     cocozza2014a, basili2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aoki2016a, cocozza2014a, ref="",
     contexts=[
 
     ],

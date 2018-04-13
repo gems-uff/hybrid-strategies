@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+Hekkala2011a = DB(WorkUnrelated(
+    2011, "THE MANY FACETS OF AN INTER-ORGANISATIONAL INFORMATION SYSTEM PROJECT AS PERCEIVED BY THE ACTORS",
+    display="Hekkala",
+    authors="Riitta Hekkala",
+    place=FAKE,
+    entrytype="Thesis",
+    ID="interascientiae",
+    placex="",
+))
+
 ahmed2011a = DB(WorkUnrelated(
     2011, "An architecture process maturity model of software product line engineering",
     display="ahmed",
@@ -158,6 +168,20 @@ balbino2011a = DB(WorkUnrelated(
     placex="SEKE",
 ))
 
+barafort2011a = DB(WorkUnrelated(
+    2011, "Systems, Software and Services Process Improvement",
+    display="barafort",
+    authors="Barafort, Beatrix and OConnor, Rory V and Messnarz, R",
+    place=CCIS,
+    entrytype="article",
+    volume="425",
+    publisher="Springer",
+    ID="barafort2011systems",
+    cluster_id="3079035676169636219",
+    scholar="http://scholar.google.com/scholar?cites=3079035676169636219&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Communications in Computer and Information Science",
+))
+
 barreto2011a = DB(WorkUnrelated(
     2011, "Defini{ç}ão e Gerência de Objetivos de Software Alinhados ao Planejamento Estratégico",
     display="barreto",
@@ -217,6 +241,20 @@ birkhölzer2011a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="3017099736566045289",
     scholar_ok=True,
+))
+
+birkhölzer2011b = DB(WorkUnrelated(
+    2011, "Goal-driven evaluation of process fragments using weighted dependency graphs",
+    display="birkhölzer b",
+    authors="Birkhölzer, Thomas and Chiniforooshan Esfahani, Hesam and Dickmann, Christoph and Vaupel, Jürgen and Ast, Stefan",
+    place=FAKE,
+    pp="184--188",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="birkholzer2011goal",
+    cluster_id="11610469526475764754",
+    scholar="http://scholar.google.com/scholar?cites=11610469526475764754&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2011 International Conference on Software and Systems Process",
 ))
 
 cai2011a = DB(WorkUnrelated(
@@ -313,6 +351,18 @@ colomo2011a = DB(WorkUnrelated(
     cluster_id="8700706401000932323",
     scholar="http://scholar.google.com/scholar?cites=8700706401000932323&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Information Management",
+))
+
+connor2011a = DB(WorkUnrelated(
+    2011, "Systems, Software and Services Process Improvement: 18th European Conference, EuroSPI 2011, Roskilde, Denmark, June 27-29, 2011, Proceedings",
+    display="connor",
+    authors="Connor, Rory V and Pries-Heje, Jan and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="172",
+    publisher="Springer Science & Business Media",
+    ID="connor2011systems",
+    placex="",
 ))
 
 cyrus2011a = DB(WorkUnrelated(
@@ -415,6 +465,20 @@ fernández2011a = DB(WorkUnrelated(
     cluster_id="17693145959023060061",
     scholar="http://scholar.google.com/scholar?cites=17693145959023060061&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 12th International Conference on Product Focused Software Development and Process Improvement",
+))
+
+ferreira2011a = DB(WorkUnrelated(
+    2011, "Software Process Improvement: A organizational change that need to be managed and motivated",
+    display="ferreira",
+    authors="Ferreira, Marília Guterres and Wazlawick, Raul Sidnei",
+    place=FAKE,
+    pp="19",
+    entrytype="article",
+    volume="6",
+    ID="ferreira2011software",
+    cluster_id="14330595585191288375",
+    scholar="http://scholar.google.com/scholar?cites=14330595585191288375&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="management",
 ))
 
 finke2011a = DB(WorkUnrelated(
@@ -663,6 +727,22 @@ jia2011a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+jiang2011a = DB(WorkUnrelated(
+    2011, "Six cognitive gaps by using TRIZ and tools for service system design",
+    display="jiang",
+    authors="Jiang, Jui-Chin and Sun, Paul and Shie, An-Jin",
+    place=FAKE,
+    pp="14751--14759",
+    entrytype="article",
+    volume="38",
+    number="12",
+    publisher="Elsevier",
+    ID="jiang2011six",
+    cluster_id="1309422426040220708",
+    scholar="http://scholar.google.com/scholar?cites=1309422426040220708&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Expert Systems with Applications",
+))
+
 kaneko2011a = DB(WorkSnowball(
     2011, "Application of GQM+ Strategies{	extregistered} in the Japanese space industry",
     display="kaneko",
@@ -740,6 +820,19 @@ karg2011a = DB(WorkUnrelated(
     ID="Karg2011415",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+knowles2011a = DB(WorkUnrelated(
+    2011, "Six Sigma",
+    display="knowles",
+    authors="Knowles, Graeme",
+    place=Book,
+    entrytype="book",
+    publisher="Bookboon",
+    ID="knowles2011six",
+    cluster_id="3923532565066113663",
+    scholar="http://scholar.google.com/scholar?cites=3923532565066113663&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 kowalczyk2011a = DB(WorkUnrelated(
@@ -845,6 +938,34 @@ lew2011a = DB(WorkUnrelated(
     cluster_id="16362575320374151430",
     scholar="http://scholar.google.com/scholar?cites=16362575320374151430&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Web Engineering",
+))
+
+messnarz2011a = DB(WorkUnrelated(
+    2011, "Extending automotive SPICE to cover functional safety requirements and a safety architecture",
+    display="messnarz",
+    authors="Messnarz, Richard and Sokic, Ivan and Habel, Stephan and König, Frank and Bachmann, Ovi",
+    place=FAKE,
+    pp="298--307",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="messnarz2011extending",
+    cluster_id="9162370861016311427",
+    scholar="http://scholar.google.com/scholar?cites=9162370861016311427&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
+messnarz2011b = DB(WorkUnrelated(
+    2011, "The Future of SPI Knowledge and Networking in Europe--A Vision",
+    display="messnarz b",
+    authors="Messnarz, Richard and Biró, Miklós and Koinig, Sonja and Reiner, Michael and Vajde-Horvat, Romana and Ekert, Damjan",
+    place=FAKE,
+    pp="268--277",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="messnarz2011future",
+    cluster_id="12589993733396076017",
+    scholar="http://scholar.google.com/scholar?cites=12589993733396076017&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
 ))
 
 mujtaba2011a = DB(WorkUnrelated(
@@ -1100,6 +1221,20 @@ santos2011a = DB(WorkUnrelated(
     cluster_id="11238524381165944031",
     scholar="http://scholar.google.com/scholar?cites=11238524381165944031&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Advances in computers",
+))
+
+sharma2011a = DB(WorkUnrelated(
+    2011, "QFD and Data Mining: Analysis and Incorporation",
+    display="sharma",
+    authors="Sharma, Ashish K and Sharma, Jitendra R and Sharma, Sangita A and Agrawal, Pankaj S",
+    place=FAKE,
+    pp="162",
+    entrytype="article",
+    volume="4",
+    number="2",
+    publisher="Publishing India Group",
+    ID="sharma2011qfd",
+    placex="National Journal of System and Information Technology",
 ))
 
 stallinger2011a = DB(WorkUnrelated(

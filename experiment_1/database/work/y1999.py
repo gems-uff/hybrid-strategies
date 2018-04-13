@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+area1999a = DB(WorkUnrelated(
+    1999, "Description of The SWEBOK Knowledge Area Software Engineering Process (Version 0.5)",
+    display="area",
+    authors="Area, SWEBOK Knowledge",
+    place=FAKE,
+    entrytype="article",
+    ID="areadescription",
+    placex="",
+))
+
 atkinson1999a = DB(WorkUnrelated(
     1999, "Project management: Cost, time and quality, two best guesses and a phenomenon, its time to accept other success criteria",
     display="atkinson",
@@ -43,6 +53,16 @@ becker1999a = DB(WorkUnrelated(
     ID="Becker199946",
     placex="IEEE Software",
     other1="16(3):4651",
+))
+
+biro1999a = DB(WorkUnrelated(
+    1999, "SPI and Strategies",
+    display="biro",
+    authors="Biro, Miklos and Messnarz, Richard",
+    place=FAKE,
+    entrytype="article",
+    ID="birospi",
+    placex="",
 ))
 
 biró1999a = DB(WorkUnrelated(

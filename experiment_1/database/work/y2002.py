@@ -471,6 +471,16 @@ karlström2002a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+karlström2002ab = DB(WorkUnrelated(
+    2002, "Increasing Involvement in Software Process Improvement Process Improvement",
+    display="karlström",
+    authors="Karlström, Daniel Karlström Daniel",
+    place=FAKE,
+    entrytype="article",
+    ID="karlstromincreasing",
+    placex="",
+))
+
 karlström2002b = DB(WorkUnrelated(
     2002, "Increasing Involvement in Software Process Improvement Process Improvement",
     display="karlström",
@@ -796,6 +806,8 @@ richardson2002a = DB(WorkUnrelated(
     note="cited By 6",
     ID="Richardson200225",
     placex="Quality Management Journal",
+    publisher="Taylor & Francis",
+    scholar="http://scholar.google.com/scholar?cites=16104977481802345538&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 ruiz2002a = DB(WorkUnrelated(
@@ -980,6 +992,8 @@ visconti2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_44",
     springer="1",
     placex="Product Focused Software Process Improvement",
+    organization="Springer",
+    scholar="http://scholar.google.com/scholar?cites=14442140354686430141&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 weiss2002a = DB(WorkUnrelated(

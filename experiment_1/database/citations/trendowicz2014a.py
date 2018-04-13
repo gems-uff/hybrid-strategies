@@ -74,6 +74,7 @@ from ..work.y2012 import mandić2012c
 from ..work.y2012 import unch2012a
 from ..work.y2013 import pmi2013a
 from ..work.y2014 import trendowicz2014a
+from ..work.y2018 import oliveira2018a
 
 DB(Citation(
     trendowicz2014a, accenture2004a, ref="[1]",
@@ -560,6 +561,13 @@ DB(Citation(
 
 DB(Citation(
     trendowicz2014a, solingen1999b, ref="[70]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oliveira2018a, trendowicz2014a, ref="",
     contexts=[
 
     ],

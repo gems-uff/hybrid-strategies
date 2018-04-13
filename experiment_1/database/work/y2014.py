@@ -18,6 +18,16 @@ YAMAMOTO2014a = DB(WorkUnrelated(
     placex="??????????????. KBSE, ??????????",
 ))
 
+aburub2014a = DB(WorkUnrelated(
+    2014, "Business Process Improvement Methodology Based on Business Process Modelling",
+    display="aburub",
+    authors="Aburub, Faisal",
+    place=FAKE,
+    entrytype="article",
+    ID="aburubbusiness",
+    placex="",
+))
+
 aguirre2014a = DB(WorkUnrelated(
     2014, "Analyses of Strategic Institutionalization: The Emerging Integration of Strategic Conceptualization and Strategic Operationalization",
     display="aguirre",
@@ -51,6 +61,33 @@ ali2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+alshehri2014a = DB(WorkUnrelated(
+    2014, "Ahp-based methodology for a complex decision support in extreme programming",
+    display="alshehri",
+    authors="Alshehri, Sultan Abdullah J",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="alshehri2014ahp",
+    cluster_id="2323179930171105773",
+    scholar="http://scholar.google.com/scholar?cites=2323179930171105773&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Faculty of Graduate Studies and Research, University of Regina",
+    placex="",
+))
+
+alves2014a = DB(WorkUnrelated(
+    2014, "Project-Based Learning: An Environment to Prepare IT",
+    display="alves",
+    authors="Alves, Luís M and Ribeiro, Pedro and Machado, Ricardo J",
+    place=FAKE,
+    pp="230",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="alves2014project",
+    cluster_id="9517796460236355409",
+    scholar="http://scholar.google.com/scholar?cites=9517796460236355409&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Overcoming Challenges in Software Engineering Education: Delivering Non-Technical Knowledge and Skills: Delivering Non-Technical Knowledge and Skills",
+))
+
 astromskis2014a = DB(WorkUnrelated(
     2014, "An approach to non-invasive cost accounting",
     display="astromskis",
@@ -63,6 +100,18 @@ astromskis2014a = DB(WorkUnrelated(
     cluster_id="2338607806176101156",
     scholar="http://scholar.google.com/scholar?cites=2338607806176101156&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on",
+))
+
+barafort2014a = DB(WorkUnrelated(
+    2014, "Systems, Software and Services Process Improvement: 21st European Conference, EuroSPI 2014, Luxembourg, June 25-27, 2014. Proceedings",
+    display="barafort",
+    authors="Barafort, Béatrix and O'Connor, Rory V and Poth, Alexander and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="425",
+    publisher="Springer",
+    ID="barafort2014systems",
+    placex="",
 ))
 
 barzilay2014a = DB(WorkUnrelated(
@@ -255,6 +304,49 @@ cedergren2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+cheng2014a = DB(WorkUnrelated(
+    2014, "The antecedents of collective creative efficacy for information system development teams",
+    display="cheng",
+    authors="Cheng, Hsiu-Hua and Yang, Heng-Li",
+    place=FAKE,
+    pp="1--17",
+    entrytype="article",
+    volume="33",
+    publisher="Elsevier",
+    ID="cheng2014antecedents",
+    cluster_id="14434975893968999727",
+    scholar="http://scholar.google.com/scholar?cites=14434975893968999727&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Engineering and Technology Management",
+))
+
+choi2014a = DB(WorkUnrelated(
+    2014, "Process correlation analysis model for process improvement identification",
+    display="choi",
+    authors="Choi, Su-jin and Kim, Dae-Kyoo and Park, Sooyong",
+    place=FAKE,
+    entrytype="article",
+    volume="2014",
+    publisher="Hindawi",
+    ID="choi2014process",
+    cluster_id="6337099090850028271",
+    scholar="http://scholar.google.com/scholar?cites=6337099090850028271&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="The Scientific World Journal",
+))
+
+choi2014b = DB(WorkUnrelated(
+    2014, "Recommending process improvement package using direct and indirect relationships of activities",
+    display="choi b",
+    authors="Choi, Su-jin and Kim, Dae-Kyoo and Park, Sooyong and Lee, Junha and Park, Soojin",
+    place=FAKE,
+    pp="19--23",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="choi2014recommending",
+    cluster_id="9931010955796829823",
+    scholar="http://scholar.google.com/scholar?cites=9931010955796829823&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 4th International Workshop on Recommendation Systems for Software Engineering",
+))
+
 cocozza2014a = DB(WorkSnowball(
     2014, "Application of GQM+ Strategies in a small software development unit",
     display="cocozza",
@@ -376,6 +468,20 @@ eito2014a = DB(WorkUnrelated(
     ID="Eito-Brun2014",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+))
+
+fagerholm2014a = DB(WorkUnrelated(
+    2014, "Building blocks for continuous experimentation",
+    display="fagerholm",
+    authors="Fagerholm, Fabian and Guinea, Alejandro Sanchez and Mäenpää, Hanna and Münch, Jürgen",
+    place=PMSE,
+    pp="26--35",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="fagerholm2014building",
+    cluster_id="8146506880822359648",
+    scholar="http://scholar.google.com/scholar?cites=8146506880822359648&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 1st international workshop on rapid continuous software engineering",
 ))
 
 falessi2014a = DB(WorkUnrelated(
@@ -681,6 +787,17 @@ kobori2014b = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+kroll2014a = DB(WorkUnrelated(
+    2014, "A software process model for follow the sun development",
+    display="kroll",
+    authors="Kroll, Josiane",
+    place=FAKE,
+    entrytype="article",
+    publisher="Pontifícia Universidade Católica do Rio Grande do Sul",
+    ID="kroll2014software",
+    placex="",
+))
+
 kudryashova2014a = DB(WorkUnrelated(
     2014, "The Market of Internet Sponsored Links in the Context of Competition Law: Can Modeling Help?",
     display="kudryashova",
@@ -761,6 +878,20 @@ mercer2014a = DB(WorkUnrelated(
     placex="Proceedings of the International Conference on Human-Computer Interaction in Aerospace",
 ))
 
+mirna2014a = DB(WorkUnrelated(
+    2014, "Software Process Improvement from a Human Perspective",
+    display="mirna",
+    authors="Mirna, Muñoz and Jezreel, Mejia and Brenda, Duron and Claudia, Valtierra",
+    place=FAKE,
+    pp="287--298",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="mirna2014software",
+    cluster_id="3181782605645276822",
+    scholar="http://scholar.google.com/scholar?cites=3181782605645276822&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="New Perspectives in Information Systems and Technologies, Volume 1",
+))
+
 mitre2014a = DB(WorkUnrelated(
     2014, "Diseño de un programa de medición estratégico para organizaciones de ingeniería de Software: descubriendo dificultades y problemas",
     display="mitre",
@@ -792,6 +923,20 @@ mitrehernández2014a = DB(WorkUnrelated(
     ID="MitreHernández2014253",
     sciencedirect="1",
     placex="Ingeniería, Investigación y Tecnología",
+))
+
+muñoz2014a = DB(WorkUnrelated(
+    2014, "Covering the human perspective in software process improvement",
+    display="muñoz",
+    authors="Muñoz, Mirna and Mejia, Jezreel and Gasca-Hurtado, Gloria Piedad and Valtierra, Claudia and Duron, Brenda",
+    place=FAKE,
+    pp="123--134",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="munoz2014covering",
+    cluster_id="5738628655308858718",
+    scholar="http://scholar.google.com/scholar?cites=5738628655308858718&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
 ))
 
 nielsen2014a = DB(WorkUnrelated(
@@ -954,6 +1099,16 @@ rahrovani2014a = DB(WorkUnrelated(
     placex="SIGMIS Database",
 ))
 
+raju2014a = DB(WorkUnrelated(
+    2014, "A Quantitative Measurement of Software Requirement Factors using Goal Question Metric (GQM) Approach",
+    display="raju",
+    authors="Raju, S and Uma, GV",
+    place=FAKE,
+    entrytype="article",
+    ID="rajuquantitative",
+    placex="",
+))
+
 ramnani2014a = DB(WorkUnrelated(
     2014, "A Model to Incorporate Emotional Sensitivity into Human Computer Interactions",
     display="ramnani",
@@ -1111,6 +1266,17 @@ suominen2014a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+teixeira2014a = DB(WorkUnrelated(
+    2014, "ODYSSEYPROCESS ODYSSEYPROCESSREUSE: UMA PROPOSTA DE SISTEMÁTICA DE ENGENHARIA DE LINHA DE PROCESSO DE SOFTWARE BASEADA EM UM PROJETO ARQUITETURAL DE COMPONENTES DE PROCESSOS DE SOFTWARE",
+    display="teixeira",
+    authors="Teixeira, Eldanae Nogueira",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="teixeira2014odysseyprocess",
+    local="Universidade Federal do Rio de Janeiro",
+    placex="",
+))
+
 tessem2014a = DB(WorkUnrelated(
     2014, "Individual empowerment of agile and non-agile software developers in small teams",
     display="tessem",
@@ -1128,6 +1294,17 @@ tessem2014a = DB(WorkUnrelated(
     ID="Tessem2014873",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+thakurta2014a = DB(WorkUnrelated(
+    2014, "Xavier Institute of Management Bhubaneswar rahul@ ximb. ac. in",
+    display="thakurta",
+    authors="Thakurta, Rahul",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="thakurta2014xavier",
+    placex="",
 ))
 
 trendowicz2014a = DB(WorkSnowball(
@@ -1224,6 +1401,22 @@ verner2014b = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+vezzetti2014a = DB(WorkUnrelated(
+    2014, "A benchmarking framework for product lifecycle management (PLM) maturity models",
+    display="vezzetti",
+    authors="Vezzetti, Enrico and Violante, Maria Grazia and Marcolin, Federica",
+    place=FAKE,
+    pp="899--918",
+    entrytype="article",
+    volume="71",
+    number="5-8",
+    publisher="Springer",
+    ID="vezzetti2014benchmarking",
+    cluster_id="4468378512599945980",
+    scholar="http://scholar.google.com/scholar?cites=4468378512599945980&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="The International Journal of Advanced Manufacturing Technology",
+))
+
 vieira2014a = DB(WorkUnrelated(
     2014, "A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling",
     display="vieira",
@@ -1274,6 +1467,18 @@ wallace2014a = DB(WorkUnrelated(
     placex="Information & Management",
 ))
 
+wang2014a = DB(WorkUnrelated(
+    2014, "Research of the Investment Departure Early Warning Model of Infrastructure Projects Based on BP Neural Network",
+    display="wang",
+    authors="Wang, Li",
+    place=FAKE,
+    pp="477--485",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="wang2014research",
+    placex="Proceedings of the 18th International Symposium on Advancement of Construction Management and Real Estate",
+))
+
 youn2014a = DB(WorkUnrelated(
     2014, "Probabilistic Bug Localization via Statistical Inference Based on Partially Observed Data",
     display="youn",
@@ -1287,6 +1492,21 @@ youn2014a = DB(WorkUnrelated(
     ID="Youn:2014:PBL:2593069.2593190",
     acm="1",
     placex="Proceedings of the 51st Annual Design Automation Conference",
+))
+
+yuen2014a = DB(WorkUnrelated(
+    2014, "A hybrid fuzzy quality function deployment framework using cognitive network process and aggregative grading clustering: An application to cloud software product development",
+    display="yuen",
+    authors="Yuen, Kevin Kam Fung",
+    place=FAKE,
+    pp="95--106",
+    entrytype="article",
+    volume="142",
+    publisher="Elsevier",
+    ID="yuen2014hybrid",
+    cluster_id="8931553438472967999",
+    scholar="http://scholar.google.com/scholar?cites=8931553438472967999&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Neurocomputing",
 ))
 
 zawedde2014a = DB(WorkUnrelated(

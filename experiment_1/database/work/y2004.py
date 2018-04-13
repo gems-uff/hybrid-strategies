@@ -38,6 +38,18 @@ anacleto2004b = DB(WorkUnrelated(
     ID="Anacleto200433",
 ))
 
+anbari2004a = DB(WorkUnrelated(
+    2004, "Success factors in managing Six Sigma projects",
+    display="anbari",
+    authors="Anbari, Frank T and Kwak, Young Hoon",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="anbari2004success",
+    cluster_id="222233212080162137",
+    scholar="http://scholar.google.com/scholar?cites=222233212080162137&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of PMI Research Conference, London, UK. Newtown Square, PA: Project Management Institute",
+))
+
 ardimento2004a = DB(WorkUnrelated(
     2004, "Multiview Framework for Goal Oriented Measurement Plan Design",
     display="ardimento",
@@ -205,6 +217,16 @@ chrissis2004a = DB(WorkUnrelated(
     note="cited By 687",
     ID="Chrissis2004",
     placex="Addison-Wesley Publishing Company",
+))
+
+content2004a = DB(WorkUnrelated(
+    2004, "Innovation Manager",
+    display="content",
+    authors="Content, Regarding Job Role Specific",
+    place=FAKE,
+    entrytype="article",
+    ID="content2004innovation",
+    placex="",
 ))
 
 davis2004a = DB(WorkUnrelated(
@@ -403,6 +425,20 @@ holz2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-25983-1_1",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+hrastnik2004a = DB(WorkUnrelated(
+    2004, "Heterogenes Wissen über Prozesse als Grundlage für die Geschäftsprozessverbesserung",
+    display="hrastnik",
+    authors="Hrastnik, Janez and Rollett, Herwig and Strohmaier, Markus",
+    place=FAKE,
+    pp="37--60",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="hrastnik2004heterogenes",
+    cluster_id="15543559512239647755",
+    scholar="http://scholar.google.com/scholar?cites=15543559512239647755&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Prozesswissen als Erfolgsfaktor",
 ))
 
 hyde2004a = DB(WorkUnrelated(
@@ -612,6 +648,8 @@ komi2004a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Komi2004",
     placex="Espoo 2004, p. 535. VTT Publications",
+    publisher="VTT",
+    scholar="http://scholar.google.com/scholar?cites=8551981001708584514&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 larsson2004a = DB(WorkUnrelated(

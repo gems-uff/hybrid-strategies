@@ -59,6 +59,32 @@ dashkov2017a = DB(WorkUnrelated(
     placex="???????????? ????????? ????????",
 ))
 
+erukulapati2017a = DB(WorkUnrelated(
+    2017, "Development of a Quality Management Assessment Tool to Evaluate Software Using Software Quality Management Best Practices",
+    display="erukulapati",
+    authors="Erukulapati, Kishore",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="erukulapati2017development",
+    local="Indiana State University",
+    placex="",
+))
+
+fagerholm2017a = DB(WorkUnrelated(
+    2017, "The RIGHT model for continuous experimentation",
+    display="fagerholm",
+    authors="Fagerholm, Fabian and Guinea, Alejandro Sanchez and Mäenpää, Hanna and Münch, Jürgen",
+    place=JSS,
+    pp="292--305",
+    entrytype="article",
+    volume="123",
+    publisher="Elsevier",
+    ID="fagerholm2017right",
+    cluster_id="4411741423767535015",
+    scholar="http://scholar.google.com/scholar?cites=4411741423767535015&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
+))
+
 freire2017a = DB(WorkUnrelated(
     2017, "Catálogo de Práticas para Tratamento de Fatores Críticos de Influência Negativa em Iniciativas de Melhoria de Processos de Software Baseadas em Modelos de Maturidade",
     display="freire",
@@ -81,6 +107,18 @@ ghose2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+hollauer2017a = DB(WorkUnrelated(
+    2017, "Design Process Tailoring: A Review and Perspective on the Literature",
+    display="hollauer",
+    authors="Hollauer, Christoph and Lindemann, Udo",
+    place=FAKE,
+    pp="609--618",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="hollauer2017design",
+    placex="International Conference on Research into Design",
+))
+
 jurczuk2017a = DB(WorkUnrelated(
     2017, "BUSINESS PROCESS INCONSISTENCIES IN POLISH SMALL AND MEDIUM ENTERPRISES",
     display="jurczuk",
@@ -90,6 +128,16 @@ jurczuk2017a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="jurczuk2017business",
     placex="Economic and Social Development (Book of Proceedings), 23rd International Scientific Conference on Economic and Social",
+))
+
+jürisoo2017a = DB(WorkUnrelated(
+    2017, "On the Role of Agile Software Development Practices in Software Process Improvement",
+    display="jürisoo",
+    authors="Jürisoo, Kristjan",
+    place=FAKE,
+    entrytype="article",
+    ID="jurisoorole",
+    placex="",
 ))
 
 kasurinen2017a = DB(WorkUnrelated(
@@ -129,6 +177,21 @@ mandić2017a = DB(WorkUnrelated(
     cluster_id="10059951970390866765",
     scholar="http://scholar.google.com/scholar?cites=10059951970390866765&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+))
+
+marrone2017a = DB(WorkUnrelated(
+    2017, "Relevant Research Areas in IT Service Management: An Examination of Academic and Practitioner Literatures",
+    display="marrone",
+    authors="Marrone, Mauricio and Hammerle, Mara",
+    place=FAKE,
+    pp="517--543",
+    entrytype="article",
+    volume="41",
+    publisher="ASSOC INFORMATION SYSTEMS GEORGIA STATE UNIV, 35 BROAD STREET, STE 916-917, ATLANTA, GA 30303 USA",
+    ID="marrone2017relevant",
+    cluster_id="12009468681191556759",
+    scholar="http://scholar.google.com/scholar?cites=12009468681191556759&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Communications of the Association for Information Systems",
 ))
 
 minhas2017a = DB(WorkUnrelated(
@@ -225,6 +288,22 @@ pérez2017a = DB(WorkUnrelated(
     placex="Sustainability",
 ))
 
+safaie2017a = DB(WorkUnrelated(
+    2017, "Capability maturity model integration with approach of agile Six Sigma",
+    display="safaie",
+    authors="Safaie, Monireh",
+    place=FAKE,
+    pp="1--33",
+    entrytype="article",
+    volume="10",
+    number="1",
+    publisher="Inderscience Publishers (IEL)",
+    ID="safaie2017capability",
+    cluster_id="8185272918631843364",
+    scholar="http://scholar.google.com/scholar?cites=8185272918631843364&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Agile Systems and Management",
+))
+
 sanchez2017a = DB(WorkUnrelated(
     2017, "Strategic characterization of process assets based on asset quality and business impact",
     display="sanchez",
@@ -253,6 +332,46 @@ santos2017a = DB(WorkUnrelated(
     placex="Requirements Engineering for Service and Cloud Computing",
 ))
 
+schillo2017a = DB(WorkUnrelated(
+    2017, "Linking advanced biofuels policies with stakeholder interests: A method building on Quality Function Deployment",
+    display="schillo",
+    authors="Schillo, R Sandra and Isabelle, Diane A and Shakiba, Abtin",
+    place=FAKE,
+    pp="126--137",
+    entrytype="article",
+    volume="100",
+    publisher="Elsevier",
+    ID="schillo2017linking",
+    cluster_id="17595975578304972673",
+    scholar="http://scholar.google.com/scholar?cites=17595975578304972673&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Energy Policy",
+))
+
+schockert2017a = DB(WorkUnrelated(
+    2017, "Agiles Software Quality Function Deployment",
+    display="schockert",
+    authors="Schockert, Sixten",
+    place=Book,
+    entrytype="book",
+    publisher="BoD--Books on Demand",
+    ID="schockert2017agiles",
+    cluster_id="13137867156292696606",
+    scholar="http://scholar.google.com/scholar?cites=13137867156292696606&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+shimura2017a = DB(WorkUnrelated(
+    2017, "Identifying potential problems and risks in GQM+ Strategies models using metamodel and design principles",
+    display="shimura",
+    authors="Shimura, Chimaki and Washizaki, Hironori and Aoki, Yohei and Kobori, Takanobu and Honda, Kiyoshi and Fukazawa, Yoshiaki and Shintani, Katsutoshi and Nonomura, Takuto",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="shimura2017identifying",
+    cluster_id="18400540977668197545",
+    scholar="http://scholar.google.com/scholar?cites=18400540977668197545&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 50th Hawaii International Conference on System Sciences",
+))
+
 solaimani2017a = DB(WorkUnrelated(
     2017, "Business Model Implementation within Networked Enterprises: A Case Study on a Finnish Pharmaceutical Project",
     display="solaimani",
@@ -264,6 +383,18 @@ solaimani2017a = DB(WorkUnrelated(
     cluster_id="1650566889326586480",
     scholar="http://scholar.google.com/scholar?cites=1650566889326586480&as_sdt=2005&sciodt=0,5&hl=en",
     placex="European Management Review",
+))
+
+stolfa2017a = DB(WorkUnrelated(
+    2017, "Systems, Software and Services Process Improvement: 24th European Conference, EuroSPI 2017, Ostrava, Czech Republic, September 6--8, 2017, Proceedings",
+    display="stolfa",
+    authors="Stolfa, Jakub and Stolfa, Svatopluk and O'Connor, Rory V and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="748",
+    publisher="Springer",
+    ID="stolfa2017systems",
+    placex="",
 ))
 
 tatibana2017a = DB(WorkUnrelated(

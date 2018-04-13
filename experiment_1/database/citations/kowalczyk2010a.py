@@ -12,6 +12,9 @@ from ..work.y2007 import basili2007b
 from ..work.y2007 import basili2007c
 from ..work.y2009 import basili2009a
 from ..work.y2010 import kowalczyk2010a
+from ..work.y2012 import heidrich2012b
+from ..work.y2013 import kowalczyk2013a
+from ..work.y2016 import chagas2016a
 
 DB(Citation(
     kowalczyk2010a, basili1984a, ref="",
@@ -64,6 +67,27 @@ DB(Citation(
 
 DB(Citation(
     kowalczyk2010a, basili2002a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kowalczyk2013a, kowalczyk2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    heidrich2012b, kowalczyk2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chagas2016a, kowalczyk2010a, ref="",
     contexts=[
 
     ],

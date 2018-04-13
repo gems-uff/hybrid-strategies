@@ -16,6 +16,13 @@ from ..work.y2008 import umarji2008a
 from ..work.y2009 import basili2009a
 from ..work.y2010 import mandić2010d
 from ..work.y2010 import basili2010a
+from ..work.y2012 import asghari2012a
+from ..work.y2013 import ardila2013a
+from ..work.y2013 import ardila2013b
+from ..work.y2014 import kobori2014a
+from ..work.y2016 import tahir2016a
+from ..work.y2016 import kobori2016a
+from ..work.y2017 import mandić2017a
 
 DB(Citation(
     mandić2010d, woodall2000a, ref="",
@@ -96,6 +103,55 @@ DB(Citation(
 
 DB(Citation(
     mandić2010d, derose1992a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kobori2014a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ardila2013a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tahir2016a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kobori2016a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2017a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    asghari2012a, mandić2010d, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ardila2013b, mandić2010d, ref="",
     contexts=[
 
     ],

@@ -25,6 +25,10 @@ from ..work.y2009 import ecss2009a
 from ..work.y2009 import bssc2009a
 from ..work.y2009 import armbrust2009a
 from ..work.y2010 import armbrust2010a
+from ..work.y2011 import birkhölzer2011b
+from ..work.y2013 import aleixo2013a
+from ..work.y2014 import teixeira2014a
+from ..work.y2017 import hollauer2017a
 
 DB(Citation(
     armbrust2010a, schmid2003a, ref="",
@@ -168,6 +172,34 @@ DB(Citation(
 
 DB(Citation(
     armbrust2010a, venkatesh2003a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    birkhölzer2011b, armbrust2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aleixo2013a, armbrust2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hollauer2017a, armbrust2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    teixeira2014a, armbrust2010a, ref="",
     contexts=[
 
     ],

@@ -34,6 +34,16 @@ allee2008a = DB(WorkUnrelated(
     placex="Journal of Intellectual Capital",
 ))
 
+angelis2008a = DB(WorkUnrelated(
+    2008, "An Empirical Study on Change Impact",
+    display="angelis",
+    authors="Angelis, Claes Wohlin",
+    place=FAKE,
+    entrytype="article",
+    ID="angelisempirical",
+    placex="",
+))
+
 asokan2008a = DB(WorkUnrelated(
     2008, "Healthy Technology",
     display="asokan",
@@ -604,6 +614,16 @@ janssen2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2Nd International Conference on Theory and Practice of Electronic Governance",
 ))
 
+jönsson2008a = DB(WorkUnrelated(
+    2008, "An Empirical Study on Views of Importance of Change Impact Analysis Issues",
+    display="jönsson",
+    authors="Jönsson, Per and Angelis, Lefteris and Wohlin, Claes",
+    place=FAKE,
+    entrytype="article",
+    ID="jonssonempirical",
+    placex="",
+))
+
 kabbaj2008a = DB(WorkUnrelated(
     2008, "A deviation management system for handling software process enactment evolution",
     display="kabbaj",
@@ -865,6 +885,22 @@ monteiro2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+napier2008a = DB(WorkUnrelated(
+    2008, "Software process re-engineering: a model and its application to an industrial case study",
+    display="napier",
+    authors="Napier, Nannette P and Kim, Jonathan and Mathiassen, Lars",
+    place=SPIP,
+    pp="451--471",
+    entrytype="article",
+    volume="13",
+    number="5",
+    publisher="Wiley Online Library",
+    ID="napier2008software",
+    cluster_id="2736453439848134766",
+    scholar="http://scholar.google.com/scholar?cites=2736453439848134766&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
 niebuhr2008a = DB(WorkUnrelated(
     2008, "Engaging Patterns: Challenges and Means Shown by an Example",
     display="niebuhr",
@@ -1065,6 +1101,35 @@ rifaut2008b = DB(WorkUnrelated(
     placex="International Requirements Engineering, 2008. RE'08. 16th IEEE",
 ))
 
+rose2008a = DB(WorkUnrelated(
+    2008, "Managerial and Organizational Assumptions in the CMMs",
+    display="rose",
+    authors="Rose, Jeremy and Aaen, Ivan and Nielsen, Peter Axel",
+    place=FAKE,
+    pp="9",
+    entrytype="article",
+    ID="rose2008managerial",
+    cluster_id="15390234121326747672",
+    scholar="http://scholar.google.com/scholar?cites=15390234121326747672&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Processes & Knowledge",
+))
+
+rovegård2008a = DB(WorkUnrelated(
+    2008, "An empirical study on views of importance of change impact analysis issues",
+    display="rovegård",
+    authors="Rovegård, Per and Angelis, Lefteris and Wohlin, Claes",
+    place=ToSE,
+    pp="516--530",
+    entrytype="article",
+    volume="34",
+    number="4",
+    publisher="IEEE",
+    ID="rovegaard2008empirical",
+    cluster_id="4198046884117281611",
+    scholar="http://scholar.google.com/scholar?cites=4198046884117281611&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 sanders2008a = DB(WorkUnrelated(
     2008, "Finding out what really happened after SPI assistance in Ireland",
     display="sanders",
@@ -1137,6 +1202,22 @@ songnisai2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+spork2008a = DB(WorkUnrelated(
+    2008, "Establishment of a performance driven improvement programme",
+    display="spork",
+    authors="Spork, Gunther and Pichler, Uwe",
+    place=SPIP,
+    pp="371--382",
+    entrytype="article",
+    volume="13",
+    number="4",
+    publisher="Wiley Online Library",
+    ID="spork2008establishment",
+    cluster_id="5365433577894133177",
+    scholar="http://scholar.google.com/scholar?cites=5365433577894133177&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
 stafford2008a = DB(WorkUnrelated(
     2008, "Letter from the Editors",
     display="stafford",
@@ -1172,6 +1253,7 @@ staples2008a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Information and Software Technology",
     scholar="http://scholar.google.com/scholar?cites=14831048305439200443&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Elsevier",
 ))
 
 sureshchandra2008a = DB(WorkUnrelated(

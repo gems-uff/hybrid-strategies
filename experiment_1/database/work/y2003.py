@@ -534,6 +534,18 @@ kan2003a = DB(WorkUnrelated(
     placex="Addison Wesley Publishing Company",
 ))
 
+kandt2003a = DB(WorkUnrelated(
+    2003, "Ten steps to successful software process improvement",
+    display="kandt",
+    authors="Kandt, Ronald Kirk",
+    place=FAKE,
+    entrytype="article",
+    ID="kandt2003ten",
+    cluster_id="13912357605965026026",
+    scholar="http://scholar.google.com/scholar?cites=13912357605965026026&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 kim2003a = DB(WorkUnrelated(
     2003, "A model for evaluating the effectiveness of crm using the balanced scorecard",
     display="kim",
@@ -795,6 +807,18 @@ poppendieck2003b = DB(WorkUnrelated(
     note="cited By 529",
     ID="Poppendieck2003",
     placex="Addison Wesley",
+))
+
+pries2003a = DB(WorkUnrelated(
+    2003, "Improving software organizations: an analysis of diverse normative models",
+    display="pries",
+    authors="Pries-Heje, Jan and Baskerville, Richard",
+    place=FAKE,
+    entrytype="article",
+    ID="pries2003improving",
+    cluster_id="12988960151170615062",
+    scholar="http://scholar.google.com/scholar?cites=12988960151170615062&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="EuroSPI, Graz, Austria",
 ))
 
 schmid2003a = DB(WorkUnrelated(

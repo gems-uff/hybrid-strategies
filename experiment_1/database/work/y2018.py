@@ -31,6 +31,20 @@ novais2018a = DB(WorkUnrelated(
     placex="Computer Systems and Software Engineering: Concepts, Methodologies, Tools, and Applications",
 ))
 
+oliveira2018a = DB(WorkUnrelated(
+    2018, "Experimental Analysis of Stemming on Jurisprudential Documents Retrieval",
+    display="oliveira",
+    authors="N de Oliveira, Robert A and C Junior, Methanias",
+    place=FAKE,
+    pp="28",
+    entrytype="article",
+    volume="9",
+    number="2",
+    publisher="Multidisciplinary Digital Publishing Institute",
+    ID="n2018experimental",
+    placex="Information",
+))
+
 sanchez2018a = DB(WorkUnrelated(
     2018, "System dynamics and agent-based modelling to represent intangible process assets characterization",
     display="sanchez",

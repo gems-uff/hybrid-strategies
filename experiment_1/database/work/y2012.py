@@ -15,6 +15,18 @@ ali2012a = DB(WorkUnrelated(
     ID="Ali2012211",
 ))
 
+ali2012b = DB(WorkUnrelated(
+    2012, "Approaches of Impact Analysis Assessment and Classification towards Projects Changes",
+    display="ali b",
+    authors="Ali, Hassan Osman and Rozan, Mohd Zaidi Abd",
+    place=FAKE,
+    entrytype="article",
+    volume="2",
+    number="7",
+    ID="ali2012approaches",
+    placex="World",
+))
+
 asghari2012a = DB(WorkUnrelated(
     2012, "Evaluating GQM+ Strategies Framework for Planning Measurement System",
     display="asghari",
@@ -183,6 +195,26 @@ buse2012a = DB(WorkUnrelated(
     placex="Proceedings of the 34th international conference on software engineering",
 ))
 
+calik2012a = DB(WorkUnrelated(
+    2012, "THE STUDY ON THE EFFECTS OF THE QUALITY MANAGEMENT SYSTEMS USED IN THE INFORMATION TECHNOLOGY UNITS/FIRMS IN TURKEY",
+    display="calik",
+    authors="calik, Eyüp and Güngör, Cengiz",
+    place=FAKE,
+    entrytype="article",
+    ID="ccalik2012study",
+    placex="",
+))
+
+cervantes2012a = DB(WorkUnrelated(
+    2012, "Conformación de la Propuesta de Mejora al Proceso de Software (Establishment of the Process Improvement Proposal Software)",
+    display="cervantes",
+    authors="Yanguez Cervantes, Nilda and Estay-Niculcar, Christian A",
+    place=FAKE,
+    entrytype="article",
+    ID="yanguez2012conformacion",
+    placex="",
+))
+
 chouseinoglou2012a = DB(WorkUnrelated(
     2012, "A Model for Assessing Organizational Learning in Software Development Organizations",
     display="chouseinoglou",
@@ -275,6 +307,19 @@ delgado2012a = DB(WorkUnrelated(
     ID="Delgado:2012:MTB:2245276.2232053",
     acm="1",
     placex="Proceedings of the 27th Annual ACM Symposium on Applied Computing",
+))
+
+deshpande2012a = DB(WorkUnrelated(
+    2012, "A coordination model for global software development teams",
+    display="deshpande",
+    authors="Deshpande, Sadhana",
+    place=FAKE,
+    entrytype="article",
+    publisher="University of Limerick",
+    ID="deshpande2012coordination",
+    cluster_id="15229649008325970018",
+    scholar="http://scholar.google.com/scholar?cites=15229649008325970018&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 dingsøyr2012a = DB(WorkUnrelated(
@@ -442,6 +487,22 @@ haigh2012b = DB(WorkUnrelated(
     number="1",
     ID="haigh2012",
     placex="?",
+))
+
+han2012a = DB(WorkUnrelated(
+    2012, "Application of CMMI in software product development process",
+    display="han",
+    authors="Han, Bing and Fang, Yinglan",
+    place=FAKE,
+    pp="44--47",
+    entrytype="article",
+    volume="88",
+    number="1b",
+    publisher="Citeseer",
+    ID="han2012application",
+    cluster_id="13902011312673036791",
+    scholar="http://scholar.google.com/scholar?cites=13902011312673036791&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Przegl{?}d Elektrotechniczny",
 ))
 
 heidrich2012a = DB(WorkUnrelated(
@@ -628,6 +689,33 @@ klendauer2012a = DB(WorkUnrelated(
     placex="Proceedings of the 5th International Workshop on Co-operative and Human Aspects of Software Engineering",
 ))
 
+kundu2012a = DB(WorkUnrelated(
+    2012, "CRITICAL SUCCESS FACTORS FOR IMPLEMENTING LEAN PRACTICES IN IT SUPPORT SERVICES.",
+    display="kundu",
+    authors="Kundu, Goutam and Manohar, B Murali",
+    place=FAKE,
+    entrytype="article",
+    volume="6",
+    number="4",
+    ID="kundu2012critical",
+    cluster_id="1771834984164281968",
+    scholar="http://scholar.google.com/scholar?cites=1771834984164281968&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal for Quality Research",
+))
+
+leba2012a = DB(WorkUnrelated(
+    2012, "Software Engineering Instrument Based on Quality Management Tools",
+    display="leba",
+    authors="LEBA, MONICA and IONICA, ANDREEA",
+    place=FAKE,
+    pp="7--9",
+    entrytype="article",
+    ID="leba2012software",
+    cluster_id="3745394836045689080",
+    scholar="http://scholar.google.com/scholar?cites=3745394836045689080&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceeding of the 11th Data Networks Communications, Computer (DNCOCO12), Sliema, Malta",
+))
+
 lepmets2012a = DB(WorkUnrelated(
     2012, "Goal alignment in process improvement",
     display="lepmets",
@@ -798,6 +886,20 @@ mesquida2012a = DB(WorkUnrelated(
     ID="Mesquida2012239",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+messnarz2012a = DB(WorkUnrelated(
+    2012, "Experiences with trial assessments combining automotive spice and functional safety standards",
+    display="messnarz",
+    authors="Messnarz, Richard and König, Frank and Bachmann, Volker Ovi",
+    place=FAKE,
+    pp="266--275",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="messnarz2012experiences",
+    cluster_id="4305666067551908571",
+    scholar="http://scholar.google.com/scholar?cites=4305666067551908571&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
 ))
 
 monden2012a = DB(WorkUnrelated(
@@ -1232,6 +1334,30 @@ unterkalmsteiner2012a = DB(WorkUnrelated(
     note="cited By 84",
 ))
 
+vezzetti2012a = DB(WorkUnrelated(
+    2012, "Porto Institutional Repository",
+    display="vezzetti",
+    authors="Vezzetti, Enrico and Moos, Sandro and Marcolin, Federica and Stola, Vincenzo and others",
+    place=FAKE,
+    entrytype="article",
+    ID="vezzetti2012porto",
+    placex="",
+))
+
+wang2012a = DB(WorkUnrelated(
+    2012, "Research on and Application of Project Monitoring and Control Process",
+    display="wang",
+    authors="Wang, Rui-Min and Li, Na",
+    place=FAKE,
+    pp="73--76",
+    entrytype="article",
+    volume="33",
+    number="4",
+    publisher="Zhengzhou University of Technology",
+    ID="wang2012research",
+    placex="Journal of Zhengzhou University(Engineering Science)",
+))
+
 wendler2012a = DB(WorkUnrelated(
     2012, "The maturity of maturity model research: A systematic mapping study",
     display="wendler",
@@ -1249,4 +1375,168 @@ wendler2012a = DB(WorkUnrelated(
     ID="Wendler20121317",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+winkler2012a = DB(WorkUnrelated(
+    2012, "Systems, Software and Services Process Improvement: 19th European Conference, EuroSPI 2012, Vienna, Austria, June 25-27, 2012. Proceedings",
+    display="winkler",
+    authors="Winkler, Dietmar and OConnor, Rory V and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="301",
+    publisher="Springer",
+    ID="winkler2012systems",
+    placex="",
+))
+
+wohlin2012a = DB(WorkUnrelated(
+    2012, "Planning",
+    display="wohlin",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="89--116",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012planning",
+    cluster_id="10377135482176187777",
+    scholar="http://scholar.google.com/scholar?cites=10377135482176187777&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012b = DB(WorkUnrelated(
+    2012, "Systematic Literature Reviews",
+    display="wohlin b",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="45--54",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012systematic",
+    cluster_id="3512339593382502431",
+    scholar="http://scholar.google.com/scholar?cites=3512339593382502431&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012c = DB(WorkUnrelated(
+    2012, "Are the perspectives really different?: Further experimentation on scenario-based reading of requirements",
+    display="wohlin c",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="175--200",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012perspectives",
+    cluster_id="15708828811667748575",
+    scholar="http://scholar.google.com/scholar?cites=15708828811667748575&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012d = DB(WorkUnrelated(
+    2012, "Empirical Strategies",
+    display="wohlin d",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="9--36",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012empirical",
+    cluster_id="7339405444705271553",
+    scholar="http://scholar.google.com/scholar?cites=7339405444705271553&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012e = DB(WorkUnrelated(
+    2012, "Experiment process",
+    display="wohlin e",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="73--81",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012experiment",
+    cluster_id="824828651286408110",
+    scholar="http://scholar.google.com/scholar?cites=824828651286408110&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012f = DB(WorkUnrelated(
+    2012, "Analysis and Interpretation",
+    display="wohlin f",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="123--151",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012analysis",
+    cluster_id="13885208203703804149",
+    scholar="http://scholar.google.com/scholar?cites=13885208203703804149&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012g = DB(WorkUnrelated(
+    2012, "Operation",
+    display="wohlin g",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=FAKE,
+    pp="117--122",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012operation",
+    cluster_id="2767378488083074453",
+    scholar="http://scholar.google.com/scholar?cites=2767378488083074453&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in software engineering",
+))
+
+wohlin2012h = DB(WorkUnrelated(
+    2012, "Scoping",
+    display="wohlin h",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="85--88",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012scoping",
+    cluster_id="153955043967819539",
+    scholar="http://scholar.google.com/scholar?cites=153955043967819539&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012i = DB(WorkUnrelated(
+    2012, "Experiment Process Illustration",
+    display="wohlin i",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="161--174",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012experiment",
+    placex="Experimentation in Software Engineering",
+))
+
+wohlin2012j = DB(WorkUnrelated(
+    2012, "Presentation and Package",
+    display="wohlin j",
+    authors="Wohlin, Claes and Runeson, Per and Höst, Martin and Ohlsson, Magnus C and Regnell, Björn and Wesslén, Anders",
+    place=ToSE,
+    pp="153--157",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wohlin2012presentation",
+    placex="Experimentation in Software Engineering",
+))
+
+yihong2012a = DB(WorkUnrelated(
+    2012, "Study of new wall materials design based on TRIZ integrated innovation method",
+    display="yihong",
+    authors="Yihong, LUO and Yunfei, SHAO and Ting, CHEN",
+    place=MS,
+    pp="15",
+    entrytype="article",
+    volume="6",
+    number="4",
+    publisher="Canadian Research & Development Center of Sciences and Cultures; Canadian Academy of Oriental and Occidental Culture",
+    ID="yihong2012study",
+    cluster_id="3755663813375327626",
+    scholar="http://scholar.google.com/scholar?cites=3755663813375327626&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Management Science and Engineering",
 ))

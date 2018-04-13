@@ -57,6 +57,20 @@ armbrust2009a = DB(WorkUnrelated(
     placex="Software Process Improvement and Practice",
 ))
 
+ba2009a = DB(WorkUnrelated(
+    2009, "Analysis of data",
+    display="ba",
+    authors="Baskarada, Sa{}a",
+    place=FAKE,
+    pp="139--221",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="bavskarada2009analysis",
+    cluster_id="10707118690170179011",
+    scholar="http://scholar.google.com/scholar?cites=10707118690170179011&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Quality Management Capability Maturity Model",
+))
+
 barafort2009a = DB(WorkUnrelated(
     2009, "ITSM Process Assessment Supporting ITIL",
     display="barafort",
@@ -363,6 +377,19 @@ galinac2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+garcia2009a = DB(WorkUnrelated(
+    2009, "A capability maturity model to assess supply chain performance",
+    display="garcia",
+    authors="Garcia, Heriberto",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="garcia2009capability",
+    cluster_id="8855509552789568687",
+    scholar="http://scholar.google.com/scholar?cites=8855509552789568687&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Florida International University",
+    placex="",
+))
+
 gou2009a = DB(WorkUnrelated(
     2009, "Quantitative defects management in iterative development with BiDefect",
     display="gou",
@@ -595,6 +622,33 @@ loikkanen2009a = DB(WorkUnrelated(
     placex="Technological Forecasting and Social Change",
 ))
 
+lorentz2009a = DB(WorkUnrelated(
+    2009, "The effect of requirements prioritization on avionics system conceptual design",
+    display="lorentz",
+    authors="Lorentz, John",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="lorentz2009effect",
+    local="The George Washington University",
+    placex="",
+))
+
+mahanti2009a = DB(WorkUnrelated(
+    2009, "Six Sigma in the Indian software industry: some observations and results from a pilot survey",
+    display="mahanti",
+    authors="Mahanti, Rupa and Antony, Jiju",
+    place=FAKE,
+    pp="549--564",
+    entrytype="article",
+    volume="21",
+    number="6",
+    publisher="Emerald Group Publishing Limited",
+    ID="mahanti2009six",
+    cluster_id="9161292595516703555",
+    scholar="http://scholar.google.com/scholar?cites=9161292595516703555&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="The TQM Journal",
+))
+
 marew2009a = DB(WorkUnrelated(
     2009, "Tactics based approach for integrating non-functional requirements in object-oriented analysis and design",
     display="marew",
@@ -612,6 +666,22 @@ marew2009a = DB(WorkUnrelated(
     ID="Marew20091642",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+messnarz2009a = DB(WorkUnrelated(
+    2009, "Integrated Automotive SPICE and safety assessments",
+    display="messnarz",
+    authors="Messnarz, Richard and Ross, Hans-Leo and Habel, Stephan and König, Frank and Koundoussi, Abdelhadi and Unterrreitmayer, Jürgen and Ekert, Damjan",
+    place=SPIP,
+    pp="279--288",
+    entrytype="article",
+    volume="14",
+    number="5",
+    publisher="Wiley Online Library",
+    ID="messnarz2009integrated",
+    cluster_id="17135113885148004266",
+    scholar="http://scholar.google.com/scholar?cites=17135113885148004266&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
 ))
 
 michel2009a = DB(WorkUnrelated(
@@ -839,6 +909,20 @@ saidani2009a = DB(WorkUnrelated(
     gs="1",
 ))
 
+santos2009a = DB(WorkUnrelated(
+    2009, "What is wrong with the software development?: research trends and a new software engineering paradigm",
+    display="santos",
+    authors="Santos, Francielle S and Moura, Hermano P",
+    place=FAKE,
+    pp="895--900",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="santos2009wrong",
+    cluster_id="6702895592396559990",
+    scholar="http://scholar.google.com/scholar?cites=6702895592396559990&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented programming systems languages and applications",
+))
+
 sheetz2009a = DB(WorkUnrelated(
     2009, "Understanding developer and manager perceptions of function points and source lines of code",
     display="sheetz",
@@ -1018,6 +1102,21 @@ walia2009a = DB(WorkUnrelated(
     ID="Walia20091087",
     sciencedirect="1",
     placex="Information and Software Technology",
+    publisher="Elsevier",
+    scholar="http://scholar.google.com/scholar?cites=17247532139566526685&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+weerd2009a = DB(WorkUnrelated(
+    2009, "Advancing in software product management: An incremental method engineering approach",
+    display="weerd",
+    authors="van de Weerd, Inge",
+    place=Book,
+    entrytype="book",
+    publisher="Utrecht University",
+    ID="van2009advancing",
+    cluster_id="15266436589012091439",
+    scholar="http://scholar.google.com/scholar?cites=15266436589012091439&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 widya2009a = DB(WorkUnrelated(

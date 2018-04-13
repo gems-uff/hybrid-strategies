@@ -16,6 +16,45 @@ al2013a = DB(WorkUnrelated(
     placex="",
 ))
 
+aleixo2013a = DB(WorkUnrelated(
+    2013, "Uma abordagem anotativa para gerência de variabilidade em linhas de processos de software: concep{ç}ão, implementa{ç}ão e avalia{ç}ão",
+    display="aleixo",
+    authors="Aleixo, Fellipe Araújo",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal do Rio Grande do Norte",
+    ID="aleixo2013abordagem",
+    cluster_id="10398994358663389263",
+    scholar="http://scholar.google.com/scholar?cites=10398994358663389263&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+ali2013a = DB(WorkUnrelated(
+    2013, "Assessing Issues of Change Impact Analysis Process for a Software Projects",
+    display="ali",
+    authors="Ali, Hassan Osman and Rozan, Mohd Zaidi Abd and Abubakar, Adamu and Zeki, Akram M and Sharif, Abdullahi Mohamud and Uddin, Mueen and Memon, Jamshed",
+    place=FAKE,
+    pp="1366--1374",
+    entrytype="article",
+    volume="28",
+    number="10",
+    ID="ali2013assessing",
+    cluster_id="2880744235747911601",
+    scholar="http://scholar.google.com/scholar?cites=2880744235747911601&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="World Applied Sciences Journal",
+))
+
+alshammari2013a = DB(WorkUnrelated(
+    2013, "The effect of geographical region on the transition time of CMMI-based software process improvement",
+    display="alshammari",
+    authors="Alshammari, Fahad Hamed",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="alshammari2013effect",
+    local="University of Malaya",
+    placex="",
+))
+
 angles2013a = DB(WorkUnrelated(
     2013, "V-BPMI: A variability-oriented framework for web-based business processes modeling and implementation",
     display="angles",
@@ -166,6 +205,20 @@ basili2013a = DB(WorkUnrelated(
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     scholar="http://scholar.google.com/scholar?cites=9467926839729077347&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+bjarnason2013a = DB(WorkUnrelated(
+    2013, "Variations on the evidence-based timeline retrospective method: a comparison of two cases",
+    display="bjarnason",
+    authors="Bjarnason, Elizabeth and Hess, Anne and Doerr, Joerg and Regnell, Björn",
+    place=SEAA,
+    pp="37--44",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="bjarnason2013variations",
+    cluster_id="14607289135288254966",
+    scholar="http://scholar.google.com/scholar?cites=14607289135288254966&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2013 39th EUROMICRO Conference on",
 ))
 
 brenda2013a = DB(WorkUnrelated(
@@ -638,6 +691,19 @@ jeners2013a = DB(WorkUnrelated(
     placex="Software Quality Professional",
 ))
 
+jeong2013a = DB(WorkUnrelated(
+    2013, "CMMI Based System Software Process for Industrial Manufacturing System",
+    display="jeong",
+    authors="Jeong, Hwa Young and Kim, Yoon Ho and Kim, Young Gi",
+    place=FAKE,
+    pp="77--80",
+    entrytype="inproceedings",
+    volume="300",
+    organization="Trans Tech Publ",
+    ID="jeong2013cmmi",
+    placex="Applied Mechanics and Materials",
+))
+
 kasoju2013a = DB(WorkUnrelated(
     2013, "Analyzing an automotive testing process with evidence-based software engineering",
     display="kasoju",
@@ -714,6 +780,18 @@ kläs2013a = DB(WorkUnrelated(
     placex="International Conference on Product Focused Software Process Improvement",
 ))
 
+kowalczyk2013a = DB(WorkUnrelated(
+    2013, "A deployment process for strategic measurement systems",
+    display="kowalczyk",
+    authors="Kowalczyk, Martin and Barthel, Henning and Münch, Jürgen and Heidrich, Jens and Trendowicz, Adam",
+    place=FAKE,
+    entrytype="article",
+    ID="kowalczyk2013deployment",
+    cluster_id="233503763189788099",
+    scholar="http://scholar.google.com/scholar?cites=233503763189788099&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1312.1040",
+))
+
 lavazza2013a = DB(WorkUnrelated(
     2013, "Business goals, user needs, and requirements: A problem frame-based view",
     display="lavazza",
@@ -744,6 +822,30 @@ lee2013a = DB(WorkUnrelated(
     cluster_id="17672865162220908822",
     scholar="http://scholar.google.com/scholar?cites=17672865162220908822&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Knowledge Management",
+))
+
+lee2013b = DB(WorkUnrelated(
+    2013, "Apply Fuzzy Markup Language to ASAP Assessment System",
+    display="lee b",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Hung, Pi-Hsia and Kuo, Yi-Ling and Wang, Hui-Min and Lin, Bort-Hung",
+    place=FAKE,
+    pp="73--93",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="lee2013apply",
+    placex="On the Power of Fuzzy Markup Language",
+))
+
+liang2013a = DB(WorkUnrelated(
+    2013, "Analysis of a typical chinese high school biology textbook using the AAAS textbook standards",
+    display="liang",
+    authors="Liang, Ye and Cobern, William W",
+    place=FAKE,
+    entrytype="article",
+    ID="liang2013analysis",
+    cluster_id="12616702452661447856",
+    scholar="http://scholar.google.com/scholar?cites=12616702452661447856&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 lohrmann2013a = DB(WorkUnrelated(
@@ -822,6 +924,20 @@ martini2013a = DB(WorkUnrelated(
     ID="martini2013communication",
     gs="1",
     placex="Proceedings of the 17th international software product line conference",
+))
+
+mccaffery2013a = DB(WorkUnrelated(
+    2013, "Systems, Software and Services Process Improvement: 20th European Conference, EuroSPI 2013, Dundalk, Ireland, June 25-27, 2013. Proceedings",
+    display="mccaffery",
+    authors="McCaffery, Fergal and OConnor, Rory V and Messnarz, Richard",
+    place=Book,
+    entrytype="book",
+    volume="364",
+    publisher="Springer",
+    ID="mccaffery2013systems",
+    cluster_id="18204175877604126446",
+    scholar="http://scholar.google.com/scholar?cites=18204175877604126446&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 mite2013a = DB(WorkUnrelated(
@@ -1045,6 +1161,31 @@ rocha2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+schrama2013a = DB(WorkUnrelated(
+    2013, "Increasing the benefits of stadiums for a municipality through sustainable development: a case study of Stadion Feijenoord",
+    display="schrama",
+    authors="Schrama, RGA and Glumac, Brano and Han, Qi and Hellinga, Hylke and Schaefer, WF",
+    place=FAKE,
+    pp="328",
+    entrytype="inproceedings",
+    ID="schrama2013increasing",
+    placex="International Conference on Economic and Social Sustainability",
+))
+
+serrano2013a = DB(WorkUnrelated(
+    2013, "Standardization of Processes Applying CMMI Best Practices",
+    display="serrano",
+    authors="Serrano, Vítor and Tereso, Anabela and Ribeiro, Pedro and Brito, Miguel",
+    place=FAKE,
+    pp="455--467",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="serrano2013standardization",
+    cluster_id="6815554766428128408",
+    scholar="http://scholar.google.com/scholar?cites=6815554766428128408&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Advances in Information Systems and Technologies",
+))
+
 shrestha2013a = DB(WorkUnrelated(
     2013, "A decision support tool to define scope in it service management process assessment and improvement",
     display="shrestha",
@@ -1168,6 +1309,18 @@ valenciennes2013a = DB(WorkUnrelated(
     entrytype="article",
     ID="valenciennestowards",
     placex="",
+))
+
+wang2013a = DB(WorkUnrelated(
+    2013, "Establishing a Project Management Model Based on CMMI: Experiences from Victory Soft Case Study",
+    display="wang",
+    authors="Wang, Xinmin and Liu, Ling and Wei, Yingjie",
+    place=FAKE,
+    pp="1261--1268",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wang2013establishing",
+    placex="Emerging Technologies for Information Systems, Computing, and Management",
 ))
 
 weckenmann2013a = DB(WorkUnrelated(

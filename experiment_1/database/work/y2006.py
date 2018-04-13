@@ -156,6 +156,22 @@ biffl2006a = DB(WorkUnrelated(
     placex="Value-Based Software Engineering",
 ))
 
+biró2006a = DB(WorkUnrelated(
+    2006, "Special issue with selected industrial experience papers of EuroSPI22005",
+    display="biró",
+    authors="Biró, Miklós and Messnarz, Richard",
+    place=SPIP,
+    pp="215--218",
+    entrytype="article",
+    volume="11",
+    number="3",
+    publisher="Wiley Online Library",
+    ID="biro2006special",
+    cluster_id="16409948185301573692",
+    scholar="http://scholar.google.com/scholar?cites=16409948185301573692&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
 boehm2006a = DB(WorkUnrelated(
     2006, "Value-based software engineering: Overview and agenda",
     display="boehm",
@@ -182,6 +198,22 @@ canfora2006a = DB(WorkUnrelated(
     note="cited By 14",
     ID="Canfora2006283",
     placex="Software - Practice and Experience",
+))
+
+cater2006a = DB(WorkUnrelated(
+    2006, "Process improvement for small firms: An evaluation of the RAPID assessment-based method",
+    display="cater",
+    authors="Cater-Steel, Aileen and Toleman, Mark and Rout, Terry",
+    place=IST,
+    pp="323--334",
+    entrytype="article",
+    volume="48",
+    number="5",
+    publisher="Elsevier",
+    ID="cater2006process",
+    cluster_id="16182669652479205732",
+    scholar="http://scholar.google.com/scholar?cites=16182669652479205732&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
 ))
 
 cmmi2006a = DB(WorkUnrelated(
@@ -587,6 +619,22 @@ komuro2006a = DB(WorkUnrelated(
     placex="Proceedings of the 28th international conference on Software engineering",
 ))
 
+kwak2006a = DB(WorkUnrelated(
+    2006, "Benefits, obstacles, and future of six sigma approach",
+    display="kwak",
+    authors="Kwak, Young Hoon and Anbari, Frank T",
+    place=FAKE,
+    pp="708--715",
+    entrytype="article",
+    volume="26",
+    number="5-6",
+    publisher="Elsevier",
+    ID="kwak2006benefits",
+    cluster_id="16961248342193391968",
+    scholar="http://scholar.google.com/scholar?cites=16961248342193391968&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Technovation",
+))
+
 leih2006a = DB(WorkUnrelated(
     2006, "The impact of the Sarbanes-Oxley Act on IT project management",
     display="leih",
@@ -632,7 +680,7 @@ liu2006a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Liu2006573",
-    scholar="https://scholar.google.com.br/scholar?cites=18358451812604453084&as_sdt=2005&sciodt=0,5&hl=pt-BR",
+    scholar="https://scholar.google.com.br/scholar?cites=18358451812604453084&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Process Improvement and Practice",
 ))
 
@@ -649,6 +697,22 @@ liu2006b = DB(WorkUnrelated(
     note="cited By 15",
     ID="Liu20061649",
     placex="Journal of Systems and Software",
+))
+
+mahanti2006a = DB(WorkUnrelated(
+    2006, "Six Sigma in software industries: some case studies and observations",
+    display="mahanti",
+    authors="Mahanti, Rupa and Antony, Jiju",
+    place=FAKE,
+    pp="263--290",
+    entrytype="article",
+    volume="2",
+    number="3",
+    publisher="Inderscience Publishers",
+    ID="mahanti2006six",
+    cluster_id="14100205714070344840",
+    scholar="http://scholar.google.com/scholar?cites=14100205714070344840&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Six Sigma and Competitive Advantage",
 ))
 
 martins2006a = DB(WorkUnrelated(
@@ -669,6 +733,20 @@ martins2006a = DB(WorkUnrelated(
     scopus="1",
     elcompendex="1",
     placex="Journal of the Brazilian Computer Society",
+))
+
+messnarz2006a = DB(WorkUnrelated(
+    2006, "Software process improvement--EuroSPI 2006 conference",
+    display="messnarz",
+    authors="Messnarz, Richard and Richardson, Ita and Runeson, Per",
+    place=FAKE,
+    pp="1--4",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="messnarz2006software",
+    cluster_id="4817880809914343050",
+    scholar="http://scholar.google.com/scholar?cites=4817880809914343050&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
 ))
 
 nejmeh2006a = DB(WorkUnrelated(
@@ -701,6 +779,22 @@ niazi2006a = DB(WorkUnrelated(
     ID="niazi2006empirical",
     gs="1",
     placex="Advances in Information Systems Development",
+))
+
+nonthaleerak2006a = DB(WorkUnrelated(
+    2006, "Six Sigma: literature review and key future research areas",
+    display="nonthaleerak",
+    authors="Nonthaleerak, P and Hendry, LC",
+    place=FAKE,
+    pp="105--161",
+    entrytype="article",
+    volume="2",
+    number="2",
+    publisher="Inderscience Publishers",
+    ID="nonthaleerak2006six",
+    cluster_id="2865787316791780938",
+    scholar="http://scholar.google.com/scholar?cites=2865787316791780938&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Six Sigma and Competitive Advantage",
 ))
 
 oecd2006a = DB(WorkUnrelated(
@@ -870,6 +964,18 @@ standardization2006a = DB(WorkUnrelated(
     placex="'Information technology - Process assessment'.",
 ))
 
+tihinen2006a = DB(WorkUnrelated(
+    2006, "How to build and sustain a measurement data management environment in a SME",
+    display="tihinen",
+    authors="Tihinen, Maarit and Järvinen, Janne",
+    place=FAKE,
+    entrytype="article",
+    ID="tihinen2006build",
+    cluster_id="5654856157852152882",
+    scholar="http://scholar.google.com/scholar?cites=5654856157852152882&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 tuan2006a = DB(WorkUnrelated(
     2006, "Using ABC model for software process improvement: A balanced perspective",
     display="tuan",
@@ -940,6 +1046,22 @@ wong2006a = DB(WorkUnrelated(
     cluster_id="128097436475771037",
     scholar="http://scholar.google.com/scholar?cites=128097436475771037&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Engineering Research and Practice",
+))
+
+wu2006a = DB(WorkUnrelated(
+    2006, "An integrated structural model toward successful continuous improvement activity",
+    display="wu",
+    authors="Wu, Chih Wei and Chen, Chyong Ling",
+    place=FAKE,
+    pp="697--707",
+    entrytype="article",
+    volume="26",
+    number="5-6",
+    publisher="Elsevier",
+    ID="wu2006integrated",
+    cluster_id="5897908042983255809",
+    scholar="http://scholar.google.com/scholar?cites=5897908042983255809&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Technovation",
 ))
 
 xu2006a = DB(WorkUnrelated(

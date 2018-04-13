@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahamsson2007a = DB(WorkUnrelated(
+    2007, "Software process improvement--EuroSPI 2007 conference",
+    display="abrahamsson",
+    authors="Abrahamsson, Pekka and Baddoo, Nathan and Tiziana, Margaria and Messnarz, Richard",
+    place=FAKE,
+    pp="1--6",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="abrahamsson2007software",
+    cluster_id="8235564805579079186",
+    scholar="http://scholar.google.com/scholar?cites=8235564805579079186&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
 alagarsamy2007a = DB(WorkUnrelated(
     2007, "On the implementation of a knowledge management tool for SPI",
     display="alagarsamy",
@@ -486,6 +500,19 @@ jun2007a = DB(WorkUnrelated(
     placex="Management Science and Engineering, 2007. ICMSE 2007. International Conference on",
 ))
 
+jönsson2007a = DB(WorkUnrelated(
+    2007, "Exploring Process Aspects of Change Impact Analysis",
+    display="jönsson",
+    authors="Jönsson, Per",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="jonsson2007exploring",
+    cluster_id="10978650589533658318",
+    scholar="http://scholar.google.com/scholar?cites=10978650589533658318&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Blekinge Institute of Technology",
+    placex="",
+))
+
 kahraman2007a = DB(WorkUnrelated(
     2007, "Prioritization of e-Government strategies using a SWOT-AHP analysis: The case of Turkey",
     display="kahraman",
@@ -918,6 +945,19 @@ sitnikova2007a = DB(WorkUnrelated(
     placex="Innovations in Systems and Software Engineering",
 ))
 
+siviy2007a = DB(WorkUnrelated(
+    2007, "CMMI and Six Sigma: partners in process improvement",
+    display="siviy",
+    authors="Siviy, Jeannine M and Penn, M Lynn and Stoddard, Robert W",
+    place=Book,
+    entrytype="book",
+    publisher="Pearson Education",
+    ID="siviy2007cmmi",
+    cluster_id="5278643375744832782",
+    scholar="http://scholar.google.com/scholar?cites=5278643375744832782&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 sjøberg2007a = DB(WorkUnrelated(
     2007, "The future of empirical methods in software engineering research",
     display="sjøberg",
@@ -990,6 +1030,22 @@ steenbergen2007b = DB(WorkUnrelated(
     placex="ICEIS (3)",
 ))
 
+subramanian2007a = DB(WorkUnrelated(
+    2007, "Software quality and IS project performance improvements from software development process maturity and IS implementation strategies",
+    display="subramanian",
+    authors="Subramanian, Girish H and Jiang, James J and Klein, Gary",
+    place=JSS,
+    pp="616--627",
+    entrytype="article",
+    volume="80",
+    number="4",
+    publisher="Elsevier",
+    ID="subramanian2007software",
+    cluster_id="13026701191325789290",
+    scholar="http://scholar.google.com/scholar?cites=13026701191325789290&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
+))
+
 sujaritha2007a = DB(WorkUnrelated(
     2007, "Face recognition using wavelet transform and locally discriminating projection",
     display="sujaritha",
@@ -1015,6 +1071,22 @@ taipale2007a = DB(WorkUnrelated(
     cluster_id="7938454154983017954",
     scholar="http://scholar.google.com/scholar?cites=7938454154983017954&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Acta Universitatis Lappeenrantaensis",
+))
+
+tang2007a = DB(WorkUnrelated(
+    2007, "Fortification of Six Sigma: expanding the DMAIC toolset",
+    display="tang",
+    authors="Tang, Loon Ching and Goh, Thong Ngee and Lam, Shao Wei and Zhang, Cai Wen",
+    place=FAKE,
+    pp="3--18",
+    entrytype="article",
+    volume="23",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="tang2007fortification",
+    cluster_id="6901820642820913398",
+    scholar="http://scholar.google.com/scholar?cites=6901820642820913398&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Quality and Reliability Engineering International",
 ))
 
 team2007a = DB(WorkUnrelated(
