@@ -42,6 +42,21 @@ albuquerque2009a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+albuquerque2009b = DB(WorkUnrelated(
+    2009, "Evaluation and Improvement of Processes Assets: A Real Collaborative Experience",
+    display="albuquerque b",
+    authors="Albuquerque, Adriano Bessa and Rocha, Ana Regina",
+    place=FAKE,
+    pp="114--120",
+    entrytype="inproceedings",
+    volume="4",
+    organization="IEEE",
+    ID="albuquerque2009evaluation",
+    cluster_id="12735430259965482151",
+    scholar="http://scholar.google.com/scholar?cites=12735430259965482151&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering, 2009. WCSE'09. WRI World Congress on",
+))
+
 armbrust2009a = DB(WorkUnrelated(
     2009, "Scoping software process lines",
     display="armbrust",
@@ -117,6 +132,7 @@ basili2009a = DB(WorkUnrelated(
     pp="1--10",
     volume="9",
     number="1",
+    scholar="http://scholar.google.com/scholar?cites=15492257262886777746&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 basili2009b = DB(WorkUnrelated(
@@ -214,6 +230,16 @@ budd2009a = DB(WorkUnrelated(
     placex="Management Concepts, Vienna, VA",
 ))
 
+bóka2009a = DB(WorkUnrelated(
+    2009, "Szoftvermérési módszerek",
+    display="bóka",
+    authors="Bóka, Gábor",
+    place=FAKE,
+    entrytype="article",
+    ID="boka2009szoftvermeresi",
+    placex="",
+))
+
 chastek2009a = DB(WorkUnrelated(
     2009, "Formulation of a production strategy for a software product line",
     display="chastek",
@@ -275,6 +301,20 @@ dubinsky2009a = DB(WorkUnrelated(
     ID="Dubinsky:2009:SDG:1598732.1598760",
     acm="1",
     placex="SIGSOFT Softw. Eng. Notes",
+))
+
+dumke2009a = DB(WorkUnrelated(
+    2009, "A General Model for Measurement Improvement",
+    display="dumke",
+    authors="Dumke, Reiner and Yazbek, Hashem and Asfoura, Evan and Georgieva, Konstantina",
+    place=IWSM,
+    pp="48--61",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="dumke2009general",
+    cluster_id="6041381385036838976",
+    scholar="http://scholar.google.com/scholar?cites=6041381385036838976&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Workshop on Software Measurement",
 ))
 
 ecss2009a = DB(WorkUnrelated(
@@ -442,6 +482,20 @@ gunarathne2009a = DB(WorkUnrelated(
     ID="Gunarathne:2009:EAW:1658260.1658270",
     acm="1",
     placex="Proceedings of the 5th Grid Computing Environments Workshop",
+))
+
+heidrich2009a = DB(WorkUnrelated(
+    2009, "Messbasierte Ausrichtung von Softwarestrategien an Geschäftszielen",
+    display="heidrich",
+    authors="Heidrich, Jens and Münch, Jürgen and Trendowicz, Adam",
+    place=FAKE,
+    pp="82--89",
+    entrytype="article",
+    volume="1",
+    ID="heidrich2009messbasierte",
+    cluster_id="18411556291350373740",
+    scholar="http://scholar.google.com/scholar?cites=18411556291350373740&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fachz Inform Manage Consult",
 ))
 
 hsiao2009a = DB(WorkUnrelated(
@@ -668,6 +722,21 @@ marew2009a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+martins2009a = DB(WorkUnrelated(
+    2009, "ProPAM: discussion for a new SPI approach",
+    display="martins",
+    authors="Martins, PAULA VENTURA and Silva, AR",
+    place=FAKE,
+    pp="4--17",
+    entrytype="inproceedings",
+    volume="11",
+    number="2",
+    ID="martins2009propam",
+    cluster_id="14379961037805033190",
+    scholar="http://scholar.google.com/scholar?cites=14379961037805033190&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Quality Management",
+))
+
 messnarz2009a = DB(WorkUnrelated(
     2009, "Integrated Automotive SPICE and safety assessments",
     display="messnarz",
@@ -723,6 +792,46 @@ morisio2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+mulazzani2009a = DB(WorkUnrelated(
+    2009, "ERP systems development: enhancing organization's strategic control through monitoring agents",
+    display="mulazzani",
+    authors="Mulazzani, Fabio and Russo, Barbara and Succi, Giancarlo",
+    place=FAKE,
+    pp="535--542",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="mulazzani2009erp",
+    cluster_id="10810823065338963433",
+    scholar="http://scholar.google.com/scholar?cites=10810823065338963433&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer and Information Science, 2009. ICIS 2009. Eighth IEEE/ACIS International Conference on",
+))
+
+mulazzani2009b = DB(WorkUnrelated(
+    2009, "Developing Business Process Monitoring Probes to Enhance Organization Control",
+    display="mulazzani b",
+    authors="Mulazzani, Fabio and Russo, Barbara and Succi, Giancarlo",
+    place=ICEIS,
+    pp="456--466",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="mulazzani2009developing",
+    cluster_id="14526256859163842814",
+    scholar="http://scholar.google.com/scholar?cites=14526256859163842814&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Enterprise Information Systems",
+))
+
+mulazzani2009c = DB(WorkUnrelated(
+    2009, "Designing and Developing Monitoring Agents for ERP Systems",
+    display="mulazzani c",
+    authors="Mulazzani, Fabio and Russo, Barbara and Succi, Giancarlo and Damiani, Ernesto",
+    place=ICEIS,
+    pp="240--251",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="mulazzani2009designing",
+    placex="International Conference on Business Information Systems",
+))
+
 münch2009a = DB(WorkUnrelated(
     2009, "Business alignment: Measurement-based alignment of software strategies and business goals",
     display="münch",
@@ -735,6 +844,8 @@ münch2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Münch2009435",
     placex="Lecture Notes in Business Information Processing",
+    organization="Springer",
+    scholar="http://scholar.google.com/scholar?cites=3828721482745511220&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 nair2009a = DB(WorkUnrelated(
@@ -859,6 +970,16 @@ qiu2009a = DB(WorkUnrelated(
     ID="Qiu:2009:SEU:1496930.1496938",
     acm="1",
     placex="SIGMIS Database",
+))
+
+rocha2009a = DB(WorkUnrelated(
+    2009, "Uma Infra-Estrutura de Apoio a um Processo de Medi{ç}ão de Projetos em Micro e Pequenas Empresas de Software",
+    display="rocha",
+    authors="ROCHA, GUSTAVO MONTI and Ciscon, Leonardo A",
+    place=FAKE,
+    entrytype="article",
+    ID="rochainfra",
+    placex="",
 ))
 
 rosselet2009a = DB(WorkUnrelated(
@@ -1066,6 +1187,21 @@ umarji2009a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Umarji2009236",
     placex="2009 3rd International Symposium on Empirical Software Engineering and Measurement, ESEM 2009",
+))
+
+umarji2009b = DB(WorkUnrelated(
+    2009, "Measuring developers: Aligning perspectives and other best practices",
+    display="umarji b",
+    authors="Umarji, Medha and Shull, Forrest",
+    place=IEEES,
+    entrytype="article",
+    volume="26",
+    number="6",
+    publisher="IEEE",
+    ID="umarji2009measuring",
+    cluster_id="13714712985798808555",
+    scholar="http://scholar.google.com/scholar?cites=13714712985798808555&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE software",
 ))
 
 vieira2009a = DB(WorkUnrelated(

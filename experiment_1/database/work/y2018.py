@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ferreira2018a = DB(WorkUnrelated(
+    2018, "A Technique for Representing Requirements Using Personas: A Controlled Experiment",
+    display="ferreira",
+    authors="Ferreira, Bruna and Silva, Williamson and Barbosa, Simone and Conte, Tayana",
+    place=IEEES,
+    entrytype="article",
+    publisher="IET",
+    ID="ferreira2018technique",
+    placex="IET Software",
+))
+
 mei2018a = DB(WorkUnrelated(
     2018, "A Review of Software Engineering Research in China",
     display="mei",

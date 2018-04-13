@@ -19,6 +19,20 @@ aboelmaged2010a = DB(WorkUnrelated(
     placex="International Journal of Quality & Reliability Management",
 ))
 
+albuquerque2010a = DB(WorkUnrelated(
+    2010, "An approach to evaluate and improve the organizational processes assets: the first experience of use",
+    display="albuquerque",
+    authors="Albuquerque, Adriano Bessa and Rocha, Ana Regina",
+    place=FAKE,
+    pp="279--284",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="albuquerque2010approach",
+    cluster_id="12003553374749503385",
+    scholar="http://scholar.google.com/scholar?cites=12003553374749503385&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Innovations and Advances in Computer Sciences and Engineering",
+))
+
 ali2010a = DB(WorkUnrelated(
     2010, "Change Requirement Management Issues for a Large Software Development Projects",
     display="ali",
@@ -268,6 +282,20 @@ cancian2010a = DB(WorkUnrelated(
     placex="Working Conference on Virtual Enterprises",
 ))
 
+caputo2010a = DB(WorkUnrelated(
+    2010, "KPI modeling in MDA perspective",
+    display="caputo",
+    authors="Caputo, Emanuele and Corallo, Angelo and Damiani, Ernesto and Passiante, Giuseppina",
+    place=FAKE,
+    pp="384--393",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="caputo2010kpi",
+    cluster_id="16860100452182359593",
+    scholar="http://scholar.google.com/scholar?cites=16860100452182359593&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="OTM Confederated International Conferences On the Move to Meaningful Internet Systems",
+))
+
 carvalho2010a = DB(WorkUnrelated(
     2010, "Management Function Deployment: um Método para o Alinhamento Estratégico da Melhoria dos Processos de Gerenciamento de Projetos de Software",
     display="carvalho",
@@ -343,6 +371,16 @@ conaldi2010a = DB(WorkUnrelated(
     ID="10.1007/978-3-642-13244-5_4",
     springer="1",
     placex="Open Source Software: New Horizons",
+))
+
+cuadrado2010a = DB(WorkUnrelated(
+    2010, "Framework of Quality Measurement in CASE Tool Based Software Development",
+    display="cuadrado",
+    authors="Cuadrado-Gallego, Juan José",
+    place=FAKE,
+    entrytype="article",
+    ID="cuadradoframework",
+    placex="",
 ))
 
 daramola2010a = DB(WorkUnrelated(
@@ -646,6 +684,22 @@ hauge2010b = DB(WorkUnrelated(
     placex="Open Source Software: New Horizons",
 ))
 
+heidrich2010a = DB(WorkUnrelated(
+    2010, "Goal-oriented customization of software cockpits",
+    display="heidrich",
+    authors="Heidrich, Jens and Münch, Jürgen",
+    place=JSEP,
+    pp="381--405",
+    entrytype="article",
+    volume="22",
+    number="5",
+    publisher="Wiley Online Library",
+    ID="heidrich2010goal",
+    cluster_id="15585391675481124970",
+    scholar="http://scholar.google.com/scholar?cites=15585391675481124970&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
+))
+
 hernández2010a = DB(WorkUnrelated(
     2010, "Alineación de la gestión estratégica con la medición de productos y procesos para organizaciones de ingeniería del software",
     display="hernández",
@@ -706,6 +760,17 @@ itgi2010a = DB(WorkUnrelated(
     note="cited By 1",
     ID="ITGI2010",
     placex="IT Governance Institute",
+))
+
+júnior2010a = DB(WorkUnrelated(
+    2010, "Value-based productivity measurement in software development projects",
+    display="júnior",
+    authors="AQUINO JÚNIOR, Gibeon Soares de",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Pernambuco",
+    ID="aquino2010value",
+    placex="",
 ))
 
 kettunen2010a = DB(WorkUnrelated(
@@ -883,6 +948,19 @@ malik2010b = DB(WorkUnrelated(
     placex="Software Technology and Engineering (ICSTE), 2010 2nd International Conference on",
 ))
 
+mandic2010a = DB(WorkUnrelated(
+    2010, "Organizational Earned Value Analysis",
+    display="mandic",
+    authors="Mandic, Vladimir and Basili, Victor",
+    place=TechReport,
+    entrytype="techreport",
+    institution="TECH REPORT: TR-TOL-2010-0303 (March 3, 2010)",
+    ID="mandic2010organizational",
+    cluster_id="340973524862994594",
+    scholar="http://scholar.google.com/scholar?cites=340973524862994594&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -942,6 +1020,7 @@ mandić2010c = DB(WorkUnrelated(
     note="cited By 7",
     ID="Mandi?201014",
     scholar="http://scholar.google.com/scholar?cites=7638361024929094617&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
 ))
 
 mandić2010d = DB(WorkSnowball(
@@ -1012,6 +1091,19 @@ marca2010a = DB(WorkUnrelated(
     cluster_id="3029816640265494237",
     scholar="http://scholar.google.com/scholar?cites=3029816640265494237&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software and Data Technologies",
+))
+
+martins2010a = DB(WorkUnrelated(
+    2010, "ProjectIT-Enterprise: a software process improvement framework",
+    display="martins",
+    authors="Martins, Paula Ventura and Silva, AR",
+    place=FAKE,
+    pp="257--266",
+    entrytype="inproceedings",
+    ID="martins2010projectit",
+    cluster_id="17779511069875480046",
+    scholar="http://scholar.google.com/scholar?cites=17779511069875480046&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Industrial Proceedings of the 17th EuroSPI Conference",
 ))
 
 mashapa2010a = DB(WorkUnrelated(
@@ -1272,6 +1364,17 @@ petersen2010b = DB(WorkUnrelated(
     ID="Petersen20101275",
 ))
 
+pinho2010a = DB(WorkUnrelated(
+    2010, "Uma contribui{ç}ão para a melhoria colaborativa e distribuída de processos de software",
+    display="pinho",
+    authors="Pinho, Viviane Dias Malheiros de",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="pinhocontribuiccao",
+    local="Universidade de São Paulo",
+    placex="",
+))
+
 pino2010a = DB(WorkUnrelated(
     2010, "Assessment methodology for software process improvement in small organizations",
     display="pino",
@@ -1305,6 +1408,20 @@ pino2010b = DB(WorkUnrelated(
     cluster_id="1428035976173142851",
     scholar="http://scholar.google.com/scholar?cites=1428035976173142851&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of systems and software",
+))
+
+ramler2010a = DB(WorkUnrelated(
+    2010, "Concept, implementation and evaluation of a web-based software cockpit",
+    display="ramler",
+    authors="Ramler, Rudolf and Beer, Wolfgang and Klammer, Claus and Wolfmaier, Klaus and Larndorfer, Stefan",
+    place=SEAA,
+    pp="385--392",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ramler2010concept",
+    cluster_id="7938440180633847173",
+    scholar="http://scholar.google.com/scholar?cites=7938440180633847173&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2010 36th EUROMICRO Conference on",
 ))
 
 riel2010a = DB(WorkUnrelated(
@@ -1409,6 +1526,8 @@ sarcia2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
     other1="software engineering and measurement, Bolzano-Bozen, Italy,",
     other2="pp 14",
+    pp="45",
+    organization="ACM",
 ))
 
 shah2010a = DB(WorkUnrelated(
@@ -1663,6 +1782,21 @@ winter2010a = DB(WorkUnrelated(
     ID="Winter20102059",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+yang2010a = DB(WorkUnrelated(
+    2010, "A Metrics Method for Software Architecture Adaptability.",
+    display="yang",
+    authors="Yang, Hong and Chen, Rong and Liu, Yaqing",
+    place=FAKE,
+    pp="1091--1098",
+    entrytype="article",
+    volume="5",
+    number="10",
+    ID="yang2010metrics",
+    cluster_id="16184080234785550259",
+    scholar="http://scholar.google.com/scholar?cites=16184080234785550259&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="JSW",
 ))
 
 ye2010a = DB(WorkUnrelated(

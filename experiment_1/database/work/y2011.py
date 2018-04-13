@@ -257,6 +257,20 @@ birkhölzer2011b = DB(WorkUnrelated(
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
 ))
 
+buglione2011a = DB(WorkUnrelated(
+    2011, "Improving quality and cost-effectiveness in enterprise software application development: An open, holistic approach for project monitoring and control",
+    display="buglione",
+    authors="Buglione, Luigi and Damiani, Ernesto and Frati, Fulvio and Oltolina, Sergio and Ruffatti, Gabriele",
+    place=ICSE,
+    pp="125--139",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="buglione2011improving",
+    cluster_id="1175687742246388333",
+    scholar="http://scholar.google.com/scholar?cites=1175687742246388333&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference of Software Business",
+))
+
 cai2011a = DB(WorkUnrelated(
     2011, "A Survey of Service Identification Strategies",
     display="cai",
@@ -940,6 +954,22 @@ lew2011a = DB(WorkUnrelated(
     placex="International Conference on Web Engineering",
 ))
 
+martinez2011a = DB(WorkUnrelated(
+    2011, "Modelling software process variability: an empirical study",
+    display="martinez",
+    authors="Martinez-Ruiz, Tomás and Garc?a, Félix and Piattini, Mario and Münch, Jürgen",
+    place=IEEES,
+    pp="172--187",
+    entrytype="article",
+    volume="5",
+    number="2",
+    publisher="IET",
+    ID="martinez2011modelling",
+    cluster_id="12842077323832322710",
+    scholar="http://scholar.google.com/scholar?cites=12842077323832322710&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IET software",
+))
+
 messnarz2011a = DB(WorkUnrelated(
     2011, "Extending automotive SPICE to cover functional safety requirements and a safety architecture",
     display="messnarz",
@@ -1133,6 +1163,18 @@ pryor2011a = DB(WorkUnrelated(
     placex="International Journal of Business Excellence",
 ))
 
+przybylek2011a = DB(WorkUnrelated(
+    2011, "Analysis of the impact of aspect-oriented programming on source code quality",
+    display="przybylek",
+    authors="Przybylek, Adam",
+    place=FAKE,
+    entrytype="article",
+    ID="przybylek2011analysis",
+    cluster_id="17373964773756882564",
+    scholar="http://scholar.google.com/scholar?cites=17373964773756882564&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 rantapuska2011a = DB(WorkUnrelated(
     2011, "Progress of Commitment in Co-operative Software Acquisition",
     display="rantapuska",
@@ -1304,6 +1346,20 @@ tahir2011a = DB(WorkUnrelated(
     ID="Tahir2011",
 ))
 
+thammarak2011a = DB(WorkUnrelated(
+    2011, "OPI model: A methodology for development metric based on outcome oriented",
+    display="thammarak",
+    authors="Thammarak, Kaenchan and Intakosum, Sarun",
+    place=FAKE,
+    pp="337--342",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="thammarak2011opi",
+    cluster_id="12229370997641649064",
+    scholar="http://scholar.google.com/scholar?cites=12229370997641649064&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Science and Software Engineering (JCSSE), 2011 Eighth International Joint Conference on",
+))
+
 tietz2011a = DB(WorkUnrelated(
     2011, "Towards Task-based Development of Enterprise Mashups",
     display="tietz",
@@ -1336,6 +1392,18 @@ trendowicz2011a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="2354941768345762676",
     scholar_ok=True,
+))
+
+tsunoda2011a = DB(WorkUnrelated(
+    2011, "A Model of Project Supervision for Process Correction and Improvement",
+    display="tsunoda",
+    authors="Tsunoda, Masateru and Monden, Akito and Matsumura, Tomoko and Matsumoto, Ken-ichi",
+    place=FAKE,
+    pp="151--159",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="tsunoda2011model",
+    placex="Software Measurement, 2011 Joint Conference of the 21st Int'l Workshop on and 6th Int'l Conference on Software Process and Product Measurement (IWSM-MENSURA)",
 ))
 
 ullah2011a = DB(WorkUnrelated(

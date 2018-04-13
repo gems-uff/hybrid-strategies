@@ -88,6 +88,19 @@ apfelbacher2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+armbrust2007a = DB(WorkUnrelated(
+    2007, "Stufenweise Optimierung von Software-Entwicklungsprozessen auf der Basis des V-Modell XT.",
+    display="armbrust",
+    authors="Armbrust, Ove and Ebell, Jan and Münch, Jürgen and Thoma, Daniela",
+    place=FAKE,
+    pp="302--308",
+    entrytype="inproceedings",
+    ID="armbrust2007stufenweise",
+    cluster_id="570764801639526490",
+    scholar="http://scholar.google.com/scholar?cites=570764801639526490&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="GI Jahrestagung (2)",
+))
+
 babar2007a = DB(WorkUnrelated(
     2007, "Towards Evolution of Strategic IT Requirements",
     display="babar",
@@ -676,6 +689,8 @@ martins2007a = DB(WorkUnrelated(
     webofscience="1",
     placex="QUATIC 2007: 6TH INTERNATIONAL CONFERENCE ON THE QUALITY OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, PROCEEDINGS",
     elcompendex="1",
+    organization="IEEE",
+    scholar="http://scholar.google.com/scholar?cites=14606508088028730559&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 martins2007b = DB(WorkSnowball(

@@ -452,6 +452,17 @@ karjoth2015a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM Conference on Data and Application Security and Privacy",
 ))
 
+katopodis2015a = DB(WorkUnrelated(
+    2015, "Hybrid cloud security certification",
+    display="katopodis",
+    authors="Katopodis, Spyros",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="katopodis2015hybrid",
+    local="City University London",
+    placex="",
+))
+
 kerzazi2015a = DB(WorkUnrelated(
         2015, "Conceptual Alignment Between SPEM-Based Processes and CMMI",
         display="kerzazi",
@@ -583,6 +594,30 @@ liberato2015a = DB(WorkUnrelated(
     placex="Modern Techniques for Successful IT Project Management",
 ))
 
+lindgren2015a = DB(WorkUnrelated(
+    2015, "Software development as an experiment system: a qualitative survey on the state of the practice",
+    display="lindgren",
+    authors="Lindgren, Eveliina and Münch, Jürgen",
+    place=FAKE,
+    pp="117--128",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lindgren2015software",
+    cluster_id="15736176691885886922",
+    scholar="http://scholar.google.com/scholar?cites=15736176691885886922&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
+lindgren2015b = DB(WorkUnrelated(
+    2015, "Exploring Software Development as an Experiment System: An Interview-Based Qualitative Survey",
+    display="lindgren b",
+    authors="Lindgren, Eveliina and others",
+    place=FAKE,
+    entrytype="article",
+    ID="lindgren2015exploring",
+    placex="",
+))
+
 liu2015a = DB(WorkUnrelated(
     2015, "Achieving High Throughput and Low Delay in Mobile Data Networks by Accurately Predicting Queue Lengths",
     display="liu",
@@ -596,6 +631,20 @@ liu2015a = DB(WorkUnrelated(
     ID="Liu:2015:AHT:2742854.2742875",
     acm="1",
     placex="Proceedings of the 12th ACM International Conference on Computing Frontiers",
+))
+
+luo2015a = DB(WorkUnrelated(
+    2015, "Functional safety measurement in the automotive domain: adaptation of PSM",
+    display="luo",
+    authors="Luo, Yaping and Stelma, Jaap and van den Brand, Mark",
+    place=FAKE,
+    pp="11--17",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="luo2015functional",
+    cluster_id="1677662319206904468",
+    scholar="http://scholar.google.com/scholar?cites=1677662319206904468&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the First International Workshop on Automotive Software Architecture",
 ))
 
 mara2015a = DB(WorkUnrelated(
@@ -671,6 +720,17 @@ murphy2015a = DB(WorkUnrelated(
     cluster_id="10785371662697807519",
     scholar="http://scholar.google.com/scholar?cites=10785371662697807519&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Information Systems and Project Management",
+))
+
+nagel2015a = DB(WorkUnrelated(
+    2015, "Goal-oriented Business Process Engineering",
+    display="nagel",
+    authors="Nagel, Benjamin",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="nagel2015goal",
+    local="Universitätsbibliothek",
+    placex="",
 ))
 
 niazi2015a = DB(WorkUnrelated(
@@ -897,6 +957,16 @@ samios2015a = DB(WorkUnrelated(
     placex="Scrum and Cynefin",
 ))
 
+santo2015a = DB(WorkUnrelated(
+    2015, "O poder da coletividade na web",
+    display="santo",
+    authors="Santo, Lázaro Farias do Espírito and Rodrigues, Luís Gustavo de Castro",
+    place=FAKE,
+    entrytype="article",
+    ID="santo2015poder",
+    placex="",
+))
+
 sharma2015a = DB(WorkUnrelated(
     2015, "SIRFrt method: Assessing and improving maintenance reliability",
     display="sharma",
@@ -992,6 +1062,32 @@ stasytyte2015b = DB(WorkUnrelated(
     placex="Business: Theory and Practice",
 ))
 
+ta2015a = DB(WorkUnrelated(
+    2015, "A specification framework for big data initiatives",
+    display="ta",
+    authors="Ta, Anh D and Tanque, Marcus and Washington, Montressa",
+    place=FAKE,
+    pp="257--274",
+    entrytype="article",
+    ID="ta2015specification",
+    cluster_id="13477440399614527747",
+    scholar="http://scholar.google.com/scholar?cites=13477440399614527747&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Strategic data-based wisdom in the big data era",
+))
+
+texel2015a = DB(WorkUnrelated(
+    2015, "Exploring government contractor experiences assessing and reporting software development status",
+    display="texel",
+    authors="Texel, Putnam P",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="texel2015exploring",
+    cluster_id="4396393316286090896",
+    scholar="http://scholar.google.com/scholar?cites=4396393316286090896&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Walden University",
+    placex="",
+))
+
 thakurta2015a = DB(WorkUnrelated(
     2015, "Understanding Requirement Prioritization Artifacts",
     display="thakurta",
@@ -1033,6 +1129,16 @@ trinkenreich2015a = DB(WorkUnrelated(
     cluster_id="13799250266303939753",
     scholar="http://scholar.google.com/scholar?cites=13799250266303939753&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product-Focused Software Process Improvement",
+))
+
+trinkenreich2015ab = DB(WorkUnrelated(
+    2015, "Avalia{ç}ão da Gerência de Incidentes sob a Luz do MR-MPS-SV e Medi{ç}ão para Apoiar a Melhoria da Qualidade do Servi{ç}o de TI",
+    display="trinkenreich",
+    authors="Trinkenreich, Bianca and Santos, Gleison",
+    place=FAKE,
+    entrytype="article",
+    ID="trinkenreichavaliaccao",
+    placex="",
 ))
 
 tyrväinen2015a = DB(WorkUnrelated(

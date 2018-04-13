@@ -88,6 +88,20 @@ alves2014a = DB(WorkUnrelated(
     placex="Overcoming Challenges in Software Engineering Education: Delivering Non-Technical Knowledge and Skills: Delivering Non-Technical Knowledge and Skills",
 ))
 
+amannejad2014a = DB(WorkUnrelated(
+    2014, "A search-based approach for cost-effective software test automation decision support and an industrial case study",
+    display="amannejad",
+    authors="Amannejad, Yasaman and Garousi, Vahid and Irving, Rob and Sahaf, Zahra",
+    place=ICSTW,
+    pp="302--311",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="amannejad2014search",
+    cluster_id="3799145046508415938",
+    scholar="http://scholar.google.com/scholar?cites=3799145046508415938&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Testing, Verification and Validation Workshops (ICSTW), 2014 IEEE Seventh International Conference on",
+))
+
 astromskis2014a = DB(WorkUnrelated(
     2014, "An approach to non-invasive cost accounting",
     display="astromskis",
@@ -272,6 +286,19 @@ bruyn2014a = DB(WorkUnrelated(
     placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
 ))
 
+cahyaningsih2014a = DB(WorkUnrelated(
+    2014, "Adopted Method of Information System Strategy for Knowledge Management System: A Literature Review",
+    display="cahyaningsih",
+    authors="Cahyaningsih, Elin and Sensuse, Dana Indra and Wibowo, Wahyu Catur and Indriasari, Sofiyanti",
+    place=FAKE,
+    pp="1783--1790",
+    entrytype="article",
+    volume="8",
+    number="10",
+    ID="cahyaningsih2014adopted",
+    placex="World Academy of Science, Engineering and Technology, International Journal of Computer, Electrical, Automation, Control and Information Engineering",
+))
+
 carlson2014a = DB(WorkUnrelated(
     2014, "The NASA automated requirements measurement tool: a reconstruction",
     display="carlson",
@@ -405,6 +432,16 @@ dagnino2014b = DB(WorkUnrelated(
     placex="Software Engineering and Applications (ICSOFT-EA), 2014 9th International Conference on",
 ))
 
+debruyn2014a = DB(WorkUnrelated(
+    2014, "Tried and True-but Late! Using Lean Six-Sigma Problem Solving to Analyze ERP Software Change Management Performance",
+    display="debruyn",
+    authors="DeBruyn, Kathleen",
+    place=FAKE,
+    entrytype="article",
+    ID="debruyn2014tried",
+    placex="",
+))
+
 delgado2014a = DB(WorkUnrelated(
     2014, "An integrated approach based on execution measures for the continuous improvement of business processes realized by services",
     display="delgado",
@@ -440,6 +477,19 @@ diirr2014a = DB(WorkUnrelated(
     ID="Diirr2014",
     springer="1",
     placex="Journal of Software Engineering Research and Development",
+))
+
+dumke2014a = DB(WorkUnrelated(
+    2014, "Handbuch der Softwareumfangsmessung und Aufwandschätzung",
+    display="dumke",
+    authors="Dumke, Reiner and Schmietendorf, Andreas and Seufert, Manfred and Wille, Cornelius",
+    place=Book,
+    entrytype="book",
+    publisher="Logos Verlag Berlin GmbH",
+    ID="dumke2014handbuch",
+    cluster_id="17883454913791497149",
+    scholar="http://scholar.google.com/scholar?cites=17883454913791497149&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 ebner2014a = DB(WorkUnrelated(
@@ -689,6 +739,20 @@ huysmans2014a = DB(WorkUnrelated(
     placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
 ))
 
+hyysalo2014a = DB(WorkUnrelated(
+    2014, "Software development as a decision-oriented process",
+    display="hyysalo",
+    authors="Hyysalo, Jarkko and Kelanti, Markus and Lehto, Jari and Kuvaja, Pasi and Oivo, Markku",
+    place=ICSE,
+    pp="132--147",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="hyysalo2014software",
+    cluster_id="15087502417599216951",
+    scholar="http://scholar.google.com/scholar?cites=15087502417599216951&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference of Software Business",
+))
+
 jahn2014a = DB(WorkUnrelated(
     2014, "Ein semantisches Netz des Informationsmanagements im Krankenhaus",
     display="jahn",
@@ -716,6 +780,18 @@ janes2014a = DB(WorkUnrelated(
     placex="Lean Software Development in Action",
 ))
 
+janes2014b = DB(WorkUnrelated(
+    2014, "Towards Lean Thinking in Software Engineering",
+    display="janes b",
+    authors="Janes, Andrea and Succi, Giancarlo",
+    place=FAKE,
+    pp="49--68",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="janes2014towards",
+    placex="Lean Software Development in Action",
+))
+
 jørgensen2014a = DB(WorkUnrelated(
     2014, "17.6 Last But Not Least",
     aliases=[(0,"17.6 Last But Not Least...")],
@@ -727,6 +803,18 @@ jørgensen2014a = DB(WorkUnrelated(
     publisher="Springer",
     ID="jorgensen17",
     placex="Software Project Effort Estimation",
+))
+
+kelemen2014a = DB(WorkUnrelated(
+    2014, "A measurement based software quality framework",
+    display="kelemen",
+    authors="Kelemen, Zádor Dániel and Bényász, Gábor and Badinka, Zoltán",
+    place=FAKE,
+    entrytype="article",
+    ID="kelemen2014measurement",
+    cluster_id="13577331644638080303",
+    scholar="http://scholar.google.com/scholar?cites=13577331644638080303&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1408.3253",
 ))
 
 kettunen2014a = DB(WorkUnrelated(
@@ -785,6 +873,30 @@ kobori2014b = DB(WorkUnrelated(
     cluster_id="13802030667887635799",
     scholar="http://scholar.google.com/scholar?cites=13802030667887635799&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Requirements Engineering",
+))
+
+kowalczyk2014a = DB(WorkUnrelated(
+    2014, "Aligning software-related strategies in multi-organizational settings",
+    display="kowalczyk",
+    authors="Kowalczyk, Martin and Münch, Jürgen and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi",
+    place=FAKE,
+    entrytype="article",
+    ID="kowalczyk2014aligning",
+    cluster_id="16277693229634567198",
+    scholar="http://scholar.google.com/scholar?cites=16277693229634567198&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1401.1910",
+))
+
+kramer2014a = DB(WorkUnrelated(
+    2014, "Defining Value When Managing IT Investments",
+    display="kramer",
+    authors="Kramer, Joseph",
+    place=FAKE,
+    pp="50--54",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kramer2014defining",
+    placex="Global Conference (SRII), 2014 Annual SRII",
 ))
 
 kroll2014a = DB(WorkUnrelated(
@@ -1275,6 +1387,22 @@ teixeira2014a = DB(WorkUnrelated(
     ID="teixeira2014odysseyprocess",
     local="Universidade Federal do Rio de Janeiro",
     placex="",
+))
+
+teles2014a = DB(WorkUnrelated(
+    2014, "Towards a model-driven approach for treating quality attributes of service-based business processes",
+    display="teles",
+    authors="Teles, Fabrício and Lins, Fernando and Rosa, Nelson",
+    place=FAKE,
+    pp="330--364",
+    entrytype="article",
+    volume="9",
+    number="4",
+    publisher="Inderscience Publishers",
+    ID="teles2014towards",
+    cluster_id="6720868096509030247",
+    scholar="http://scholar.google.com/scholar?cites=6720868096509030247&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Web Engineering and Technology",
 ))
 
 tessem2014a = DB(WorkUnrelated(

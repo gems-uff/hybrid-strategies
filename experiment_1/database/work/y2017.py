@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aoki2017a = DB(WorkUnrelated(
+    2017, "Experimental Evaluation of HoRIM to Improve Business Strategy Models",
+    display="aoki",
+    authors="Aoki, Yohei and Washizaki, Hironori and Shimura, Chimaki and Senzaki, Yuichiro and Fukazawa, Yoshiaoki",
+    place=FAKE,
+    pp="43--56",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="aoki2017experimental",
+    cluster_id="12043417320549613063",
+    scholar="http://scholar.google.com/scholar?cites=12043417320549613063&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Computer and Information Science",
+))
+
 ayaz2017a = DB(WorkUnrelated(
     2017, "A Novel Model of Software Process Improvements for Small and Medium Scale Enterprises by using the Big Data Analytics Approach",
     display="ayaz",
@@ -119,6 +133,19 @@ hollauer2017a = DB(WorkUnrelated(
     placex="International Conference on Research into Design",
 ))
 
+jayatilleke2017a = DB(WorkUnrelated(
+    2017, "A systematic review of requirements change management",
+    display="jayatilleke",
+    authors="Jayatilleke, Shalinka and Lai, Richard",
+    place=IST,
+    entrytype="article",
+    publisher="Elsevier",
+    ID="jayatilleke2017systematic",
+    cluster_id="14059418346761979069",
+    scholar="http://scholar.google.com/scholar?cites=14059418346761979069&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
 jurczuk2017a = DB(WorkUnrelated(
     2017, "BUSINESS PROCESS INCONSISTENCIES IN POLISH SMALL AND MEDIUM ENTERPRISES",
     display="jurczuk",
@@ -179,6 +206,18 @@ mandić2017a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+marcos2017a = DB(WorkUnrelated(
+    2017, "HiSPI: Tool to initiate software process improvement through a formal method",
+    display="marcos",
+    authors="Marcos, González and Jezreel, Mejia and Mirna, Munoz and Jose, Calvo-Manzano and others",
+    place=ICPFSPI,
+    pp="1--7",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="marcos2017hispi",
+    placex="Software Process Improvement (CIMPS), 2017 6th International Conference on",
+))
+
 marrone2017a = DB(WorkUnrelated(
     2017, "Relevant Research Areas in IT Service Management: An Examination of Academic and Practitioner Literatures",
     display="marrone",
@@ -204,6 +243,30 @@ minhas2017a = DB(WorkUnrelated(
     organization="IEEE",
     ID="minhas2017regression",
     placex="Software Engineering Conference Workshops (APSECW), 2017 24th Asia-Pacific",
+))
+
+monden2017a = DB(WorkUnrelated(
+    2017, "Examining Software Engineering Beliefs about System Testing Defects",
+    display="monden",
+    authors="Monden, Akito and Tsunoda, Masateru and Barker, Mike and Matsumoto, Kenichi",
+    place=FAKE,
+    pp="58--64",
+    entrytype="article",
+    volume="19",
+    number="2",
+    publisher="IEEE",
+    ID="monden2017examining",
+    placex="IT Professional",
+))
+
+moraes2017a = DB(WorkUnrelated(
+    2017, "IT indicators and organizational performance: a study of the retail sector in Brazil",
+    display="moraes",
+    authors="de Moraes, Heverton Roberto Oliveira Cesar and Cunha, Maria and Terlizzi, Marco Alexandre",
+    place=FAKE,
+    entrytype="article",
+    ID="de2017indicators",
+    placex="",
 ))
 
 moreira2017a = DB(WorkUnrelated(
@@ -302,6 +365,18 @@ safaie2017a = DB(WorkUnrelated(
     cluster_id="8185272918631843364",
     scholar="http://scholar.google.com/scholar?cites=8185272918631843364&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Agile Systems and Management",
+))
+
+sakul2017a = DB(WorkUnrelated(
+    2017, "A predictive model for successful software development projects with information technology strategic alignment",
+    display="sakul",
+    authors="Sakul-Ung, Puttakul and Chutimaskul, Wichian",
+    place=FAKE,
+    pp="39--45",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="sakul2017predictive",
+    placex="Proceedings of the 6th International Conference on Software and Computer Applications",
 ))
 
 sanchez2017a = DB(WorkUnrelated(
@@ -453,6 +528,18 @@ trinkenreich2017b = DB(WorkUnrelated(
     organization="IEEE",
     ID="trinkenreich2017eliciting",
     placex="2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+))
+
+valle2017a = DB(WorkUnrelated(
+    2017, "Educational Games: A Contribution to Software Testing Education",
+    display="valle",
+    authors="Valle, Pedro Henrique Dias and Toda, Armando Maciel and Barbosa, Ellen Francine and Maldonado, José Carlos",
+    place=FAKE,
+    entrytype="article",
+    ID="valle2017educational",
+    cluster_id="354957036490662070",
+    scholar="http://scholar.google.com/scholar?cites=354957036490662070&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="XLVII Annual Frontiers in Education (FIE). IEEE",
 ))
 
 vasconcellos2017a = DB(WorkUnrelated(

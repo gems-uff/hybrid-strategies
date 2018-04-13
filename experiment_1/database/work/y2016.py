@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aarts2016a = DB(WorkUnrelated(
+    2016, "The Bridge of Dreams",
+    display="aarts",
+    authors="Aarts, EHL and Wang, Yan",
+    place=FAKE,
+    entrytype="article",
+    ID="aartsbridge",
+    placex="",
+))
+
 ahmad2016a = DB(WorkUnrelated(
     2016, "Goal Oriented Measurement for Software Sustainable Evaluation Metric Focused on Environmental Dimension",
     display="ahmad",
@@ -153,6 +163,20 @@ djouab2016a = DB(WorkUnrelated(
     cluster_id="1839836269902647679",
     scholar="http://scholar.google.com/scholar?cites=1839836269902647679&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Requirements Engineering",
+))
+
+fabijan2016a = DB(WorkUnrelated(
+    2016, "Time to Say'Good Bye': Feature Lifecycle",
+    display="fabijan",
+    authors="Fabijan, Aleksander and Olsson, Helena Holmström and Bosch, Jan",
+    place=SEAA,
+    pp="9--16",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="fabijan2016time",
+    cluster_id="17812747963327934287",
+    scholar="http://scholar.google.com/scholar?cites=17812747963327934287&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering and Advanced Applications (SEAA), 2016 42th Euromicro Conference on",
 ))
 
 francalanci2016a = DB(WorkUnrelated(
@@ -374,6 +398,46 @@ liberato2016a = DB(WorkUnrelated(
     placex="International Journal of Social and Organizational Dynamics in IT (IJSODIT)",
 ))
 
+lindgren2016a = DB(WorkUnrelated(
+    2016, "Raising the odds of success: the current state of experimentation in product development",
+    display="lindgren",
+    authors="Lindgren, Eveliina and Münch, Jürgen",
+    place=IST,
+    pp="80--91",
+    entrytype="article",
+    volume="77",
+    publisher="Elsevier",
+    ID="lindgren2016raising",
+    cluster_id="6625379038589699454",
+    scholar="http://scholar.google.com/scholar?cites=6625379038589699454&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
+lindqvist2016a = DB(WorkUnrelated(
+    2016, "Use of a quality monitoring methodology and platform in industrial software development--A feasibility study",
+    display="lindqvist",
+    authors="Lindqvist, PIa and others",
+    place=FAKE,
+    entrytype="article",
+    ID="lindqvist2016use",
+    placex="",
+))
+
+luo2016a = DB(WorkUnrelated(
+    2016, "Metrics design for safety assessment",
+    display="luo",
+    authors="Luo, Yaping and van den Brand, Mark",
+    place=IST,
+    pp="151--163",
+    entrytype="article",
+    volume="73",
+    publisher="Elsevier",
+    ID="luo2016metrics",
+    cluster_id="2365350291359750660",
+    scholar="http://scholar.google.com/scholar?cites=2365350291359750660&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
 lópez2016a = DB(WorkUnrelated(
     2016, "Application of GQM+ Strategies in a Multi-industry State-Owned Company",
     display="lópez",
@@ -421,6 +485,18 @@ machado2016b = DB(WorkUnrelated(
     publisher="Universidade Nove de Julho",
     ID="machado2016analise",
     placex="",
+))
+
+martins2016a = DB(WorkUnrelated(
+    2016, "Process and project alignment methodology: A case-study based analysis",
+    display="martins",
+    authors="Martins, Paula Ventura and others",
+    place=FAKE,
+    pp="35--35",
+    entrytype="article",
+    number="00",
+    ID="martins2016process",
+    placex="Computer Science and Information Systems",
 ))
 
 muñoz2016a = DB(WorkUnrelated(
@@ -472,6 +548,17 @@ petersen2016a = DB(WorkUnrelated(
     publisher="Springer",
     ID="petersen2016researcher",
     placex="Managing Software Process Evolution",
+))
+
+pimentel2016a = DB(WorkUnrelated(
+    2016, "ANÁLISE DE FATORES DE SUCESSO DA ADO{Ç}ÃO DE MÉTODOS ÁGEIS EM MICRO E PEQUENAS EMPRESAS DE SOFTWARE E IDENTIFICA{Ç}ÃO DE MÉTRICAS QUE POSSIBILITEM AUXILIAR NO SEU MONITORAMENTO",
+    display="pimentel",
+    authors="PIMENTEL, Luan Félix and PEGORARO, Raquel Aparecida",
+    place=FAKE,
+    entrytype="misc",
+    volume="1",
+    ID="pimentel1analise",
+    placex="ANAIS DA JIC-JORNADA DE INICIA{Ç}ÃO CIENTÍFICA E TECNOLÓGICA",
 ))
 
 port2016a = DB(WorkUnrelated(
@@ -533,6 +620,16 @@ robles2016a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="ruiz2016valoracion",
+    placex="",
+))
+
+sadabadi2016a = DB(WorkUnrelated(
+    2016, "AN INTEGRAL EXPERIENCE ACQUISITION FRAMEWORK EXPLOITING MODEL-BASED LEARNING FOR SOFTWARE PROJECT MANAGEMENT",
+    display="sadabadi",
+    authors="SADABADI, ALI TIZKAR",
+    place=FAKE,
+    entrytype="article",
+    ID="sadabadiintegral",
     placex="",
 ))
 
@@ -619,6 +716,20 @@ thakurta2016a = DB(WorkUnrelated(
     number="1",
     ID="thakurta2016proposition",
     placex="Journal of Information Technology Management",
+))
+
+uchida2016a = DB(WorkUnrelated(
+    2016, "GO-MUC: a strategy design method considering requirements of user and business by goal-oriented measurement",
+    display="uchida",
+    authors="Uchida, Chihiro and Honda, Kiyoshi and Washizaki, Hironori and Fukazawa, Yoshiaki and Ogawa, Kentaro and Yagi, Tomoaki and Ishigaki, Mikako and Nakagawa, Masashi",
+    place=FAKE,
+    pp="93--96",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="uchida2016go",
+    cluster_id="17170830155472802149",
+    scholar="http://scholar.google.com/scholar?cites=17170830155472802149&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Cooperative and Human Aspects of Software Engineering (CHASE), 2016 IEEE/ACM",
 ))
 
 unterkalmsteiner2016a = DB(WorkUnrelated(

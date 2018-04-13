@@ -197,6 +197,22 @@ beijun2008a = DB(WorkUnrelated(
     placex="Proceedings - International Conference on Computer Science and Software Engineering, CSSE 2008",
 ))
 
+bennicke2008a = DB(WorkUnrelated(
+    2008, "Software Controlling",
+    display="bennicke",
+    authors="Bennicke, Marcel and Hofmann, Alexander and Lewerentz, Claus and Wichert, Karl-Heinz",
+    place=FAKE,
+    pp="556",
+    entrytype="article",
+    volume="31",
+    number="6",
+    publisher="Springer",
+    ID="bennicke2008software",
+    cluster_id="6401885050051856412",
+    scholar="http://scholar.google.com/scholar?cites=6401885050051856412&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatik-Spektrum",
+))
+
 bertrand2008a = DB(WorkUnrelated(
     2008, "Modeling and management of process in numerical engineering. Application in foundry",
     display="bertrand",
@@ -281,6 +297,18 @@ cheng2008a = DB(WorkUnrelated(
     placex="Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
 ))
 
+ciolkowski2008a = DB(WorkUnrelated(
+    2008, "Practical guidelines for introducing software cockpits in industry",
+    display="ciolkowski",
+    authors="Ciolkowski, Marcus and Heidrich, Jens and Münch, Jürgen",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="ciolkowski2008practical",
+    cluster_id="14116596596256369202",
+    scholar="http://scholar.google.com/scholar?cites=14116596596256369202&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="4th Software Measurement European Forum (SMEF 2008)",
+))
+
 coleman2008a = DB(WorkUnrelated(
     2008, "Investigating software process in practice: A grounded theory perspective",
     display="coleman",
@@ -341,6 +369,25 @@ damiani2008a = DB(WorkUnrelated(
     place=FAKE,
     other1="Innsbruck, Austria. Springer",
     placex="Proceedings to the eleventh international conference on business information systems,",
+    pp="213--226",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="damiani2008saf",
+    scholar="http://scholar.google.com/scholar?cites=16015635733652860478&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+danovaro2008a = DB(WorkUnrelated(
+    2008, "PEM: experience management tool for software companies",
+    display="danovaro",
+    authors="Danovaro, Emanuele and Remencius, Tadas and Sillitti, Alberto and Succi, Giancarlo",
+    place=FAKE,
+    pp="733--734",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="danovaro2008pem",
+    cluster_id="17490022466926352948",
+    scholar="http://scholar.google.com/scholar?cites=17490022466926352948&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming systems languages and applications",
 ))
 
 darwish2008a = DB(WorkUnrelated(
@@ -516,6 +563,23 @@ harjumaa2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Harjumaa2008",
     placex="PROFES",
+    pp="230--243",
+    organization="Springer",
+    scholar="http://scholar.google.com/scholar?cites=2258055919187012201&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+heidrich2008a = DB(WorkUnrelated(
+    2008, "Goal-oriented setup and usage of custom-tailored software cockpits",
+    display="heidrich",
+    authors="Heidrich, Jens and Münch, Jürgen",
+    place=ICPFSPI,
+    pp="4--18",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="heidrich2008goal",
+    cluster_id="4477990520413087096",
+    scholar="http://scholar.google.com/scholar?cites=4477990520413087096&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
 ))
 
 hornbæk2008a = DB(WorkUnrelated(
@@ -870,6 +934,17 @@ mohagheghi2008a = DB(WorkUnrelated(
     note="cited By 37",
     ID="Mohagheghi2008",
     placex="ACM Transactions on Software Engineering and Methodology",
+))
+
+montebelo2008a = DB(WorkUnrelated(
+    2008, "Identificando dificuldades e benefícios do uso do PSP apoiado por ferramentas de 3{	extordfeminine}. gera{ç}ão",
+    display="montebelo",
+    authors="Montebelo, Renan Polo and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de São Carlos",
+    ID="montebelo2008identificando",
+    placex="",
 ))
 
 monteiro2008a = DB(WorkUnrelated(

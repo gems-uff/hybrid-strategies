@@ -18,6 +18,15 @@ from ..work.y2002 import sei2002a
 from ..work.y2003 import heller2003a
 from ..work.y2005 import salo2005a
 from ..work.y2007 import martins2007b
+from ..work.y2007 import martins2007a
+from ..work.y2009 import martins2009a
+from ..work.y2009 import albuquerque2009b
+from ..work.y2010 import martins2010a
+from ..work.y2010 import albuquerque2010a
+from ..work.y2011 import martinez2011a
+from ..work.y2013 import martínez2013a
+from ..work.y2013 import martínez2013b
+from ..work.y2016 import martins2016a
 
 DB(Citation(
     martins2007b, salo2005a, ref="",
@@ -112,6 +121,69 @@ DB(Citation(
 
 DB(Citation(
     martins2007b, heller2003a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martinez2011a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martínez2013a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martins2009a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martínez2013b, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martins2007a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martins2010a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    albuquerque2010a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    albuquerque2009b, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martins2016a, martins2007b, ref="",
     contexts=[
 
     ],

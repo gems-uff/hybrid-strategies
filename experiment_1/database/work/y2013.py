@@ -350,6 +350,22 @@ doerr2013a = DB(WorkUnrelated(
     placex="Perspectives on the Future of Software Engineering",
 ))
 
+dumke2013a = DB(WorkUnrelated(
+    2013, "Messung und Bewertung von Software",
+    display="dumke",
+    authors="Dumke, Reiner and Ebert, Christof and Heidrich, Jens and Wille, Cornelius",
+    place=FAKE,
+    pp="508--519",
+    entrytype="article",
+    volume="36",
+    number="6",
+    publisher="Springer",
+    ID="dumke2013messung",
+    cluster_id="8687985454532755389",
+    scholar="http://scholar.google.com/scholar?cites=8687985454532755389&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatik-Spektrum",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -375,6 +391,18 @@ ellis2013a = DB(WorkUnrelated(
     cluster_id="10576527708277758623",
     scholar="http://scholar.google.com/scholar?cites=10576527708277758623&as_sdt=2005&sciodt=0,5&hl=en",
     placex="arXiv preprint arXiv:1307.2580",
+))
+
+ellis2013b = DB(WorkUnrelated(
+    2013, "Analysing the assumed benefits of software requirements",
+    display="ellis b",
+    authors="Ellis-Braithwaite, Richard",
+    place=FAKE,
+    entrytype="article",
+    ID="ellis2013analysing",
+    cluster_id="18201951748695967948",
+    scholar="http://scholar.google.com/scholar?cites=18201951748695967948&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1305.3853",
 ))
 
 eremenko2013a = DB(WorkUnrelated(
@@ -752,6 +780,19 @@ kazato2013a = DB(WorkUnrelated(
     placex="Proceedings of the 9th Asian Internet Engineering Conference",
 ))
 
+kelanti2013a = DB(WorkUnrelated(
+    2013, "A Case Study of Requirements Management: Toward Transparency in Requirements Management Tools",
+    display="kelanti",
+    authors="Kelanti, Markus and Hyysalo, Jarkko and Kuvaja, Pasi and Oivo, Markku and Välimäki, Antti",
+    place=FAKE,
+    pp="597--604",
+    entrytype="inproceedings",
+    ID="kelanti2013case",
+    cluster_id="123968005496731764",
+    scholar="http://scholar.google.com/scholar?cites=123968005496731764&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the Eighth International Conference on Software Engineering Advances (ICSEA 2013)",
+))
+
 khraiwesh2013a = DB(WorkUnrelated(
     2013, "PROJECT MONITORING AND CONTROL MEASURES IN CMMI",
     display="khraiwesh",
@@ -926,6 +967,34 @@ martini2013a = DB(WorkUnrelated(
     placex="Proceedings of the 17th international software product line conference",
 ))
 
+martínez2013a = DB(WorkUnrelated(
+    2013, "Process variability management in global software development: a case study",
+    display="martínez",
+    authors="Martínez-Ruiz, Tomás and García, Félix and Piattini, Mario and De Lucas-Consuegra, Francisco",
+    place=FAKE,
+    pp="46--55",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="martinez2013process",
+    cluster_id="8233971381745931401",
+    scholar="http://scholar.google.com/scholar?cites=8233971381745931401&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2013 International Conference on Software and System Process",
+))
+
+martínez2013b = DB(WorkUnrelated(
+    2013, "Towards Understanding Software Process Variability from Contextual Evidence of Change",
+    display="martínez b",
+    authors="Martínez-Ruiz, Tomás and Ruiz, Francisco and Piattini, Mario",
+    place=FAKE,
+    pp="417--431",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="martinez2013towards",
+    cluster_id="12324417937880225220",
+    scholar="http://scholar.google.com/scholar?cites=12324417937880225220&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Advanced Information Systems Engineering",
+))
+
 mccaffery2013a = DB(WorkUnrelated(
     2013, "Systems, Software and Services Process Improvement: 20th European Conference, EuroSPI 2013, Dundalk, Ireland, June 25-27, 2013. Proceedings",
     display="mccaffery",
@@ -1002,6 +1071,20 @@ münch2013d = DB(WorkUnrelated(
     cluster_id="3182239711427877041",
     scholar="http://scholar.google.com/scholar?cites=3182239711427877041&as_sdt=2005&sciodt=0,5&hl=en",
     placex="arXiv preprint arXiv:1311.6221",
+))
+
+münch2013e = DB(WorkUnrelated(
+    2013, "Creating minimum viable products in industry-academia collaborations",
+    display="münch e",
+    authors="Münch, Jürgen and Fagerholm, Fabian and Johnson, Patrik and Pirttilahti, Janne and Torkkel, Juha and Jäarvinen, Janne",
+    place=FAKE,
+    pp="137--151",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="munch2013creating",
+    cluster_id="17169198460464709093",
+    scholar="http://scholar.google.com/scholar?cites=17169198460464709093&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Lean Enterprise Software and Systems",
 ))
 
 novais2013a = DB(WorkUnrelated(
@@ -1243,6 +1326,33 @@ teixeira2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="teixeira2013towards",
     placex="VI Seminar on Ontology Research in Brazil",
+))
+
+texel2013a = DB(WorkUnrelated(
+    2013, "Measure, metric, and indicator: An Object-Oriented approach for consistent terminology",
+    display="texel",
+    authors="Texel, Putnam P",
+    place=FAKE,
+    pp="1--5",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="texel2013measure",
+    cluster_id="6672371290943322104",
+    scholar="http://scholar.google.com/scholar?cites=6672371290943322104&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Southeastcon, 2013 Proceedings of IEEE",
+))
+
+thammarak2013a = DB(WorkUnrelated(
+    2013, "Transforming an Organisational Outcomes to Software Measurement Programs",
+    display="thammarak",
+    authors="Thammarak, Kaenchan and Intakosum, Sarun",
+    place=JCA,
+    entrytype="article",
+    volume="71",
+    number="24",
+    publisher="Foundation of Computer Science",
+    ID="thammarak2013transforming",
+    placex="International Journal of Computer Applications",
 ))
 
 trendowicz2013a = DB(WorkUnrelated(

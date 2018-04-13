@@ -205,6 +205,27 @@ calik2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+cansado2012a = DB(WorkUnrelated(
+    2012, "Avaliac ao de Cenarios de Optimizac ao de uma Arquitectura Empresarial",
+    display="cansado",
+    authors="da Silva Cansado, Francisco Miguel",
+    place=FAKE,
+    entrytype="article",
+    ID="da2012avaliac",
+    placex="",
+))
+
+casare2012a = DB(WorkUnrelated(
+    2012, "Medee: um ateliê de métodos para sistemas multiagentes.",
+    display="casare",
+    authors="Casare, Sara Jane",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="casare2012medee",
+    local="Universidade de São Paulo",
+    placex="",
+))
+
 cervantes2012a = DB(WorkUnrelated(
     2012, "Conformación de la Propuesta de Mejora al Proceso de Software (Establishment of the Process Improvement Proposal Software)",
     display="cervantes",
@@ -436,6 +457,19 @@ eremenko2012a = DB(WorkUnrelated(
     cluster_id="9241644097677689345",
     scholar="http://scholar.google.com/scholar?cites=9241644097677689345&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering",
+))
+
+garousi2012a = DB(WorkUnrelated(
+    2012, "A Hybrid Methodology for Analyzing Software Documentation Quality and Usage",
+    display="garousi",
+    authors="Garousi, Golara",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="garousi2012hybrid",
+    cluster_id="6599795330960191789",
+    scholar="http://scholar.google.com/scholar?cites=6599795330960191789&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Calgary",
+    placex="",
 ))
 
 gon2012a = DB(WorkUnrelated(
@@ -902,6 +936,18 @@ messnarz2012a = DB(WorkUnrelated(
     placex="European Conference on Software Process Improvement",
 ))
 
+molina2012a = DB(WorkUnrelated(
+    2012, "Soporte organizacional de medición y evaluación orientada a objetivos y sensible al contexto",
+    display="molina",
+    authors="Molina, Hernán Darío",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="molina2012soporte",
+    cluster_id="15452904619932084688",
+    scholar="http://scholar.google.com/scholar?cites=15452904619932084688&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Facultad de Informática",
+))
+
 monden2012a = DB(WorkUnrelated(
     2012, "Customizing GQM models for software project monitoring",
     display="monden",
@@ -961,6 +1007,32 @@ münch2012a = DB(WorkUnrelated(
     cluster_id="7076285677612781205",
     scholar="http://scholar.google.com/scholar?cites=7076285677612781205&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software and System Process (ICSSP), 2012 International Conference on",
+))
+
+münch2012b = DB(WorkUnrelated(
+    2012, "Process improvement",
+    display="münch b",
+    authors="Münch, Jürgen and Armbrust, Ove and Kowalczyk, Martin and Soto, Martín",
+    place=FAKE,
+    pp="139--176",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="munch2012process",
+    cluster_id="10401492360072686697",
+    scholar="http://scholar.google.com/scholar?cites=10401492360072686697&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process Definition and Management",
+))
+
+münch2012c = DB(WorkUnrelated(
+    2012, "Software Process Definition and Improvement",
+    display="münch c",
+    authors="Münch, Jürgen and Armbrust, Ove and Soto, Martín and Kowalczyk, M",
+    place=FAKE,
+    entrytype="article",
+    ID="munch2012software",
+    cluster_id="16424932961360964883",
+    scholar="http://scholar.google.com/scholar?cites=16424932961360964883&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Distance and International Studies Center. Springer",
 ))
 
 olsina2012a = DB(WorkUnrelated(
@@ -1080,6 +1152,20 @@ preis2012a = DB(WorkUnrelated(
     placex="Organizational Science",
 ))
 
+quintero2012a = DB(WorkUnrelated(
+    2012, "How face the top mde adoption problems",
+    display="quintero",
+    authors="Quintero, Juan and Rucinque, Pamela and Anaya, Raquel and Piedrahita, Gustavo",
+    place=FAKE,
+    pp="1--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="quintero2012face",
+    cluster_id="14402344170333260755",
+    scholar="http://scholar.google.com/scholar?cites=14402344170333260755&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
+))
+
 rensburg2012a = DB(WorkUnrelated(
     2012, "The relationship between process maturity models and the use and effectiveness of systems development methodologies",
     display="rensburg",
@@ -1127,6 +1213,31 @@ runeson2012a = DB(WorkUnrelated(
     doi="10.1002/9781118181034",
     note="cited By 305",
     ID="Runeson2012",
+))
+
+samtani2012a = DB(WorkUnrelated(
+    2012, "Achieving the next level of growth through competitive intelligence practices: an exploratory study of romanian offshore technology service providers",
+    display="samtani",
+    authors="Samtani, Mukta and C{?}p{?}tîn{?}, Alexandru",
+    place=FAKE,
+    entrytype="article",
+    publisher="Dunarea de Jos University of Galati",
+    ID="samtani2012achieving",
+    cluster_id="878633848129081240",
+    scholar="http://scholar.google.com/scholar?cites=878633848129081240&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+samtani2012b = DB(WorkUnrelated(
+    2012, "Designing growth strategies for Romanian offshore outsourcing vendors: deploying competitive intelligence from Indian software industry",
+    display="samtani b",
+    authors="Samtani, Mukta and Capatina, Alexandru and others",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="samtani2012designing",
+    cluster_id="3917989890112803484",
+    scholar="http://scholar.google.com/scholar?cites=3917989890112803484&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference Risk in Contemporary Economy XIIIth Edition, Galati, Romania",
 ))
 
 sarosa2012a = DB(WorkUnrelated(
