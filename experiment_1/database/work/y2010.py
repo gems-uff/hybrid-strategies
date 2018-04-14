@@ -35,6 +35,7 @@ albuquerque2010a = DB(WorkUnrelated(
 
 ali2010a = DB(WorkUnrelated(
     2010, "Change Requirement Management Issues for a Large Software Development Projects",
+    alias=(0, "Change Requirement Management Issues for a Large Software Development Projects",),
     display="ali",
     authors="Ali, Hassan Osman and Rozan, Mohd Zaidi Abd and Sharif, Abdullahi Mohamud",
     place=FAKE,
@@ -69,7 +70,6 @@ armbrust2010b = DB(WorkSnowball(
     entrytype="article",
     ID="armbrustprocesses",
     placex="Proceedings of the International SPICE Days",
-    scholar_ok=True,
 ))
 
 ast2010a = DB(WorkUnrelated(
@@ -205,6 +205,7 @@ basili2010c = DB(WorkUnrelated(
 
 basri2010a = DB(WorkUnrelated(
     2010, "Organizational commitment towards software process improvement an irish software VSEs case study",
+    aliases=[(0, "Organizational Commitment Towards Software Process Improvement", "Basri, Shuib Bin and O’Connor, Rory V")],
     display="basri",
     authors="Basri, Shuib Bin and O'Connor, Rory V",
     place=FAKE,
@@ -218,6 +219,21 @@ basri2010a = DB(WorkUnrelated(
     placex="Information Technology (ITSim), 2010 International Symposium in",
 ))
 
+basri2010b = DB(WorkUnrelated(
+    2010, "Software Process Improvement in Very Small Entities: An investigation of Software Development Knowledge Management and Team issues in maintaining and evolving software process and process improvement.",
+    display="basri b",
+    authors="Basri, Shuib",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="basri2010software",
+    cluster_id="16032300502693125980",
+    scholar="http://scholar.google.com/scholar?cites=16032300502693125980&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Dublin City University",
+    placex="",
+))
+
+
+
 begum2010a = DB(WorkUnrelated(
     2010, "Software development standard and software engineering practice: A case study of Bangladesh",
     display="begum",
@@ -228,6 +244,22 @@ begum2010a = DB(WorkUnrelated(
     cluster_id="7106924149308145684",
     scholar="http://scholar.google.com/scholar?cites=7106924149308145684&as_sdt=2005&sciodt=0,5&hl=en",
     placex="arXiv preprint arXiv:1008.3321",
+))
+
+besseris2010a = DB(WorkUnrelated(
+    2010, "Taguchi methods in software quality testing",
+    display="besseris",
+    authors="Besseris, George J",
+    place=FAKE,
+    pp="339--372",
+    entrytype="article",
+    volume="1",
+    number="3",
+    publisher="Inderscience Publishers",
+    ID="besseris2010taguchi",
+    cluster_id="17131935828996400021",
+    scholar="http://scholar.google.com/scholar?cites=17131935828996400021&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Quality Engineering and Technology",
 ))
 
 boehm2010a = DB(WorkUnrelated(
@@ -375,6 +407,7 @@ conaldi2010a = DB(WorkUnrelated(
 
 cuadrado2010a = DB(WorkUnrelated(
     2010, "Framework of Quality Measurement in CASE Tool Based Software Development",
+    alias=(0, "Framework of Quality Measurement in CASE Tool Based Software Development",),
     display="cuadrado",
     authors="Cuadrado-Gallego, Juan José",
     place=FAKE,
@@ -566,6 +599,18 @@ ferrari2010a = DB(WorkUnrelated(
     ID="Ferrari2010",
     springer="1",
     placex="Requirements Engineering",
+))
+
+ferreira2010a = DB(WorkUnrelated(
+    2010, "Complementing the SEI-IDEAL Model with Deployers Real Experiences: The need to address human factors in SPI initiatives",
+    display="ferreira",
+    authors="Ferreira, Marília Guterres and Wazlawick, Raul Sidnei",
+    place=FAKE,
+    entrytype="article",
+    ID="ferreira2010complementing",
+    cluster_id="12528254117446269524",
+    scholar="http://scholar.google.com/scholar?cites=12528254117446269524&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 fruehwirth2010a = DB(WorkUnrelated(
@@ -879,6 +924,29 @@ kremmel2010a = DB(WorkUnrelated(
     placex="Proceedings of the 12th Annual Conference on Genetic and Evolutionary Computation",
 ))
 
+lang2010a = DB(WorkUnrelated(
+    2010, " -- ",
+    display="lang",
+    authors=" and others",
+    place=FAKE,
+    entrytype="article",
+    ID="2010",
+    placex="japones",
+))
+
+lang2010ab = DB(WorkUnrelated(
+    2010, "lang",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="15--15",
+    entrytype="article",
+    number="2",
+    publisher="lang",
+    ID="2010",
+    placex="outra lingua",
+))
+
 lee2010a = DB(WorkUnrelated(
     2010, "A Requirements Elicitation Framework and Tool for Sourcing business-IT Aligned e-Services",
     display="lee",
@@ -1155,22 +1223,15 @@ mcloughlin2010b = DB(WorkSnowball(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77957590654&doi=10.1007%2f978-3-642-15666-3_18&partnerID=40&md5=e06aaac5f23d90fcb4473a90273c06b2",
     document_type="Conference Paper",
     source="Scopus",
-    scholar="https://scholar.google.com.br/scholar?cites=6744102271720670138&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar="https://scholar.google.com/scholar?cites=6744102271720670138&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="6744102271720670138",
+    scholar_ok=True,
     ID="McLoughlin2010201",
     organization="Springer",
     placex="European Conference on Software Process Improvement",
 ))
 
-mcloughlin2010c = DB(WorkUnrelated(
-    2010, "The Rosetta Stone Methodology - A Benefits Driven Approach To Software Process Improvement",
-    display="mcloughlin c",
-    authors="McLoughlin, F. and Richardson, I.",
-    place=FAKE,
-    entrytype="article",
-    note="cited By 1",
-    ID="McLoughlin2010",
-    placex="Profes 2010",
-))
+
 
 mellado2010a = DB(WorkUnrelated(
     2010, "A systematic review of security requirements engineering",
@@ -1207,7 +1268,8 @@ messnarz2010a = DB(WorkUnrelated(
 
 messnarz2010ab = DB(WorkUnrelated(
     2010, "Integrated COSO SPICE Assessments",
-    display="messnarz",
+    alias=(0, "Integrated COSO SPICE Assessments", ),
+    display="messnarz ab",
     authors="MESSNARZ, Richard and IVANYOS, Janos and EKERT, Damjan",
     place=FAKE,
     pp="77",
@@ -1424,6 +1486,18 @@ ramler2010a = DB(WorkUnrelated(
     placex="Software Engineering and Advanced Applications (SEAA), 2010 36th EUROMICRO Conference on",
 ))
 
+rico2010a = DB(WorkUnrelated(
+    2010, "Short History of Software Methods",
+    display="rico",
+    authors="Rico, David F",
+    place=FAKE,
+    entrytype="article",
+    ID="rico2010short",
+    cluster_id="18320710898633201222",
+    scholar="http://scholar.google.com/scholar?cites=18320710898633201222&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="downloaded from web, August",
+))
+
 riel2010a = DB(WorkUnrelated(
     2010, "Qualification and certification for the competitive edge in Integrated Design",
     display="riel",
@@ -1510,6 +1584,17 @@ rosemann2010a = DB(WorkUnrelated(
     authors="M Rosemann, vom Brocke J",
     place=FAKE,
     placex="vom Brocke J, Rosemann M (eds) Handbook on business process management, vol 1. Springer, Heidelberg",
+))
+
+sampaio2010a = DB(WorkUnrelated(
+    2010, "Uma meta estratégia para melhoria de produtividade no desenvolvimento de software, baseado em melhores práticas identificadas na literatura.",
+    display="sampaio",
+    authors="Sampaio, Suzana Cândido de Barros",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Pernambuco",
+    ID="sampaio2010meta",
+    placex="",
 ))
 
 sarcia2010a = DB(WorkUnrelated(
@@ -1811,6 +1896,17 @@ ye2010a = DB(WorkUnrelated(
     placex="Multimedia Technology (ICMT), 2010 International Conference on",
 ))
 
+yilmaz2010a = DB(WorkUnrelated(
+    2010, "Yeni Kazan Cihaz? Geli{?}tirme Projesinde Bir Kalite Fonksiyon Gö{ç}erimi Uygulamas?",
+    display="y?lmaz",
+    authors="Yilmaz, Orkun",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="yilmaz2010yeni",
+    local="Fen Bilimleri Enstitüsü",
+    placex="",
+))
+
 zahran2010a = DB(WorkUnrelated(
     2010, "Business and Cost Justification of Software Process Improvement - ROI from SPI",
     display="zahran",
@@ -1866,6 +1962,22 @@ zhang2010b = DB(WorkUnrelated(
     cluster_id="9419717857347968417",
     scholar="http://scholar.google.com/scholar?cites=9419717857347968417&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+))
+
+zhu2010a = DB(WorkUnrelated(
+    2010, "Technical target setting in QFD for web service systems using an artificial neural network",
+    display="zhu",
+    authors="Zhu, Lianzhang and Liu, Xiaowing",
+    place=FAKE,
+    pp="338--352",
+    entrytype="article",
+    volume="3",
+    number="4",
+    publisher="IEEE",
+    ID="zhu2010technical",
+    cluster_id="11591839963993950113",
+    scholar="http://scholar.google.com/scholar?cites=11591839963993950113&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Services Computing",
 ))
 
 zowghi2010a = DB(WorkUnrelated(

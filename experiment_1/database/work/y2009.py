@@ -593,6 +593,19 @@ kettunen2009a = DB(WorkUnrelated(
     placex="Technovation",
 ))
 
+kettunen2009b = DB(WorkUnrelated(
+    2009, "Agile software development in large-scale new product development organization: team level perspective",
+    display="kettunen b",
+    authors="Kettunen, Petri and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Teknillinen korkeakoulu",
+    ID="kettunen2009agile",
+    cluster_id="13817484937217534454",
+    scholar="http://scholar.google.com/scholar?cites=13817484937217534454&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 khdair2009a = DB(WorkUnrelated(
     2009, "Applying a Practical Software Process Improvement Model for Web-Based Application Development in Small Sized Firms",
     display="khdair",
@@ -655,6 +668,20 @@ lin2009a = DB(WorkUnrelated(
     cluster_id="11632414351493290878",
     scholar="http://scholar.google.com/scholar?cites=11632414351493290878&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2009 3rd International Symposium on Empirical Software Engineering and Measurement",
+))
+
+liu2009a = DB(WorkUnrelated(
+    2009, "Design of SOA based web service systems using QFD for satisfaction of quality of service requirements",
+    display="liu",
+    authors="Liu, Xiaoqing and Zhu, Lianzhang",
+    place=FAKE,
+    pp="567--574",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="liu2009design",
+    cluster_id="4144192771342776286",
+    scholar="http://scholar.google.com/scholar?cites=4144192771342776286&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Web Services, 2009. ICWS 2009. IEEE International Conference on",
 ))
 
 loikkanen2009a = DB(WorkUnrelated(
@@ -895,6 +922,22 @@ oliveira2009a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+patel2009a = DB(WorkUnrelated(
+    2009, "E-government application development using the Six Sigma approach",
+    display="patel",
+    authors="Patel, Sandip C and Zu, Xingxing",
+    place=FAKE,
+    pp="295--306",
+    entrytype="article",
+    volume="6",
+    number="3",
+    publisher="Inderscience Publishers",
+    ID="patel2009government",
+    cluster_id="16240675620859230891",
+    scholar="http://scholar.google.com/scholar?cites=16240675620859230891&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Electronic Government, an International Journal",
+))
+
 petersen2009a = DB(WorkUnrelated(
     2009, "A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case",
     display="petersen",
@@ -974,6 +1017,7 @@ qiu2009a = DB(WorkUnrelated(
 
 rocha2009a = DB(WorkUnrelated(
     2009, "Uma Infra-Estrutura de Apoio a um Processo de Medi{ç}ão de Projetos em Micro e Pequenas Empresas de Software",
+    alias=(0, "Uma Infra-Estrutura de Apoio a um Processo de Medi{ç}ão de Projetos em Micro e Pequenas Empresas de Software",),
     display="rocha",
     authors="ROCHA, GUSTAVO MONTI and Ciscon, Leonardo A",
     place=FAKE,
@@ -1112,6 +1156,18 @@ staron2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+tagra2009a = DB(WorkUnrelated(
+    2009, "SPIMS: Software Process Improvement Model for Small Scale Industries",
+    display="tagra",
+    authors="Tagra, Dinesh",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="tagra2009spims",
+    cluster_id="3235637438298151848",
+    scholar="http://scholar.google.com/scholar?cites=3235637438298151848&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 taylor2009a = DB(WorkUnrelated(
     2009, "Using Visual Risk Assessment to Uncover Subtle Team Performance Issues",
     display="taylor",
@@ -1240,6 +1296,19 @@ walia2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=17247532139566526685&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+walia2009b = DB(WorkUnrelated(
+    2009, "Using error modeling to improve and control software quality: An empirical investigation",
+    display="walia b",
+    authors="Walia, Gursimran Singh",
+    place=Book,
+    entrytype="book",
+    publisher="Mississippi State University",
+    ID="walia2009using",
+    cluster_id="4686408599886141391",
+    scholar="http://scholar.google.com/scholar?cites=4686408599886141391&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 weerd2009a = DB(WorkUnrelated(

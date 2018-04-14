@@ -771,6 +771,19 @@ reifer2000a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+roggio2000a = DB(WorkUnrelated(
+    2000, "Self-Assessment using the CMM-An Empirical Study",
+    display="roggio",
+    authors="Roggio, Robert F and Kashyap, Pratibha and Honan, Ava S and Montgomery, AL",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="roggio2000self",
+    cluster_id="11742444324059353993",
+    scholar="http://scholar.google.com/scholar?cites=11742444324059353993&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Keynote Address--October 17",
+))
+
 schmid2000a = DB(WorkUnrelated(
     2000, "PuLSE-BEAT --- A Decision Support Tool for Scoping Product Lines",
     display="schmid",

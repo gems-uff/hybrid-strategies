@@ -616,6 +616,21 @@ khurum2007a = DB(WorkUnrelated(
     gs="1",
 ))
 
+lang2007a = DB(WorkUnrelated(
+    2007, "CMMI",
+    display="lang",
+    authors=" and ",
+    place=FAKE,
+    pp="42--44",
+    entrytype="article",
+    volume="33",
+    number="19",
+    ID="??2007??",
+    cluster_id="8501142166461639099",
+    scholar="http://scholar.google.com/scholar?cites=8501142166461639099&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="?????",
+))
+
 lester2007a = DB(WorkUnrelated(
     2007, "Evaluating the internal consistency of the base questions in the express process appraisal",
     display="lester",
@@ -860,6 +875,18 @@ salo2007a = DB(WorkUnrelated(
     note="cited By 31",
     ID="Salo200781",
     placex="Software Process Improvement and Practice",
+))
+
+santana2007a = DB(WorkUnrelated(
+    2007, "Padrões Sistêmicos Disfuncionais em Iniciativas de MPS",
+    display="santana",
+    authors="Santana, André Felipe Lemos and Moura, HP de",
+    place=FAKE,
+    entrytype="article",
+    ID="santana2007padroes",
+    cluster_id="3184809811835871162",
+    scholar="http://scholar.google.com/scholar?cites=3184809811835871162&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="VI Simpósio Brasileiro de Qualidade de Software. Porto de Galinhas",
 ))
 
 sapp2007a = DB(WorkUnrelated(
@@ -1174,6 +1201,18 @@ verhoef2007a = DB(WorkUnrelated(
     ID="Verhoef2007247",
     sciencedirect="1",
     placex="Science of Computer Programming",
+))
+
+walia2007a = DB(WorkUnrelated(
+    2007, "Development of Requirement Error Taxonomy as a Quality Improvement Approach: A Systematic Literature Review",
+    display="walia",
+    authors="Walia, Gursimran Singh and Carver, Jeffrey C",
+    place=FAKE,
+    entrytype="article",
+    ID="walia2007development",
+    cluster_id="2032253932893201775",
+    scholar="http://scholar.google.com/scholar?cites=2032253932893201775&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Department of Computer Science and Engineering MSU-070404",
 ))
 
 walker2007a = DB(WorkUnrelated(

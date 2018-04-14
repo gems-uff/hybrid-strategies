@@ -3,6 +3,30 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aguiar2008a = DB(WorkUnrelated(
+    2008, "Uma metodologia para implanta{ç}ão de melhoria de processo de software em grupos de empresas",
+    display="aguiar",
+    authors="AGUIAR, Heron Vieira",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Pernambuco",
+    ID="aguiar2008metodologia",
+    cluster_id="9536356892945913280",
+    scholar="http://scholar.google.com/scholar?cites=9536356892945913280&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+aguiar2008ab = DB(WorkUnrelated(
+    2008, "Uma metodologia para implantação de melhoria de processo de software em grupos de empresas",
+    alias=(0, "Heron Vieira Aguiar", "DE, UMA METODOLOGIA PARA IMPLANTA{Ç}ÃO"),
+    display="aguiar",
+    authors="Heron Vieira Aguiar", 
+    place=FAKE,
+    entrytype="article",
+    ID="deheron",
+    placex="",
+))
+
 alagarsamy2008a = DB(WorkUnrelated(
     2008, "Implementation specification for software process improvement supportive knowledge management tool",
     display="alagarsamy",
@@ -36,6 +60,7 @@ allee2008a = DB(WorkUnrelated(
 
 angelis2008a = DB(WorkUnrelated(
     2008, "An Empirical Study on Change Impact",
+    alias=(0, "An Empirical Study on Change Impact",),
     display="angelis",
     authors="Angelis, Claes Wohlin",
     place=FAKE,
@@ -76,6 +101,19 @@ aurum2008a = DB(WorkUnrelated(
     ID="Aurum2008511",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+ba2008a = DB(WorkUnrelated(
+    2008, "Information Quality Management Capability Maturity Model",
+    display="ba",
+    authors="Ba{}karada, Sa{}a",
+    place=FAKE,
+    entrytype="article",
+    publisher="Springer",
+    ID="bavskarada2008information",
+    cluster_id="2620735428069460015",
+    scholar="http://scholar.google.com/scholar?cites=2620735428069460015&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 babar2008a = DB(WorkUnrelated(
@@ -266,6 +304,18 @@ brindgeland2008a = DB(WorkUnrelated(
     placex="Morgan Kaufmann, Boston, MA",
 ))
 
+butt2008a = DB(WorkUnrelated(
+    2008, "Identifying Factors Affecting Software Process Improvement during Change",
+    display="butt",
+    authors="Butt, Asim",
+    place=FAKE,
+    entrytype="misc",
+    ID="butt2008identifying",
+    cluster_id="14144555277093950953",
+    scholar="http://scholar.google.com/scholar?cites=14144555277093950953&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 chen2008a = DB(WorkUnrelated(
     2008, "An objective-oriented and product-line-based manufacturing performance measurement",
     display="chen",
@@ -307,6 +357,19 @@ ciolkowski2008a = DB(WorkUnrelated(
     cluster_id="14116596596256369202",
     scholar="http://scholar.google.com/scholar?cites=14116596596256369202&as_sdt=2005&sciodt=0,5&hl=en",
     placex="4th Software Measurement European Forum (SMEF 2008)",
+))
+
+cohen2008a = DB(WorkUnrelated(
+    2008, "Assessing the business value of software process improvement using CMMI{	extregistered} in South Africa",
+    display="cohen",
+    authors="Cohen, Douglas James and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="cohen2008assessing",
+    cluster_id="5248559068027256155",
+    scholar="http://scholar.google.com/scholar?cites=5248559068027256155&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Pretoria",
+    placex="",
 ))
 
 coleman2008a = DB(WorkUnrelated(
@@ -680,6 +743,7 @@ janssen2008a = DB(WorkUnrelated(
 
 jönsson2008a = DB(WorkUnrelated(
     2008, "An Empirical Study on Views of Importance of Change Impact Analysis Issues",
+    alias=(0, "An Empirical Study on Views of Importance of Change Impact Analysis Issues",),
     display="jönsson",
     authors="Jönsson, Per and Angelis, Lefteris and Wohlin, Claes",
     place=FAKE,
@@ -801,6 +865,30 @@ landaeta2008a = DB(WorkUnrelated(
     cluster_id="8912082203644082263",
     scholar="http://scholar.google.com/scholar?cites=8912082203644082263&as_sdt=2005&sciodt=0,5&hl=en",
     placex="European Conference on Software Process Improvement",
+))
+
+lang2008a = DB(WorkUnrelated(
+    2008, "CMMI ",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="1--85",
+    entrytype="article",
+    publisher="lang",
+    ID="2008",
+    placex="japones",
+))
+
+li2008a = DB(WorkUnrelated(
+    2008, "On Software Requirement Metrics Based on Six-Sigma",
+    display="li",
+    authors="Li, Li and He, Shuguang and Qi, E-S",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="li2008software",
+    cluster_id="14981432110732704966",
+    scholar="http://scholar.google.com/scholar?cites=14981432110732704966&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="2008 IEEE Symposium on Advanced Management of Information for Globalized Enterprises (AMIGE)",
 ))
 
 liu2008a = DB(WorkUnrelated(
@@ -1216,6 +1304,19 @@ sanders2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+santana2008a = DB(WorkUnrelated(
+    2008, "Incongruência para com as Atividades Primárias de Interven{ç}ão: uma Barreira a Iniciativas de MPS",
+    display="santana",
+    authors="Santana, André Felipe Lemos and de Moura, Hermano Perrelli",
+    place=FAKE,
+    entrytype="inproceedings",
+    volume="6",
+    ID="santana2008incongruencia",
+    cluster_id="8580024173035980954",
+    scholar="http://scholar.google.com/scholar?cites=8580024173035980954&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IV Workshop Um Olhar Sociotécnico sobre a Engenharia de Software, Florianópolis-SC",
+))
+
 santos2008a = DB(WorkUnrelated(
     2008, "Ambientes de Engenharia de Software Orientados a Corpora{ç}ão",
     display="santos",
@@ -1480,4 +1581,16 @@ zhang2008b = DB(WorkUnrelated(
     publisher="Springer",
     ID="zhang2008basic",
     placex="Frontiers of Computer Science in China",
+))
+
+zhang2008c = DB(WorkUnrelated(
+    2008, "Applying Six Sigma in Software Companies for Process Improvement",
+    display="zhang c",
+    authors="Zhang, Long and Khan, Adnan Rafiq",
+    place=FAKE,
+    entrytype="misc",
+    ID="zhang2008applying",
+    cluster_id="2658004860669062059",
+    scholar="http://scholar.google.com/scholar?cites=2658004860669062059&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))

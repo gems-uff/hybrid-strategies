@@ -159,6 +159,20 @@ caivano2005a = DB(WorkUnrelated(
     placex="Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR",
 ))
 
+cater2005a = DB(WorkUnrelated(
+    2005, "An evaluation of the RAPID assessment-based process improvement method for small firms",
+    display="cater",
+    authors="Cater-Steel, Aileen and Toleman, Mark and Rout, Terry",
+    place=EASE,
+    pp="35--47",
+    entrytype="inproceedings",
+    organization="Keele University",
+    ID="cater2005evaluation",
+    cluster_id="2958049274631387745",
+    scholar="http://scholar.google.com/scholar?cites=2958049274631387745&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of EASE 2005: 9th International Conference on Evaluation and Assessment in Software Engineering",
+))
+
 chaudet2005a = DB(WorkUnrelated(
     2005, "Optimal Positioning of Active and Passive Monitoring Devices",
     display="chaudet",
@@ -498,6 +512,18 @@ kauppinen2005a = DB(WorkUnrelated(
     placex="",
 ))
 
+lang2005a = DB(WorkUnrelated(
+    2005, "lang",
+    display="lang",
+    authors="and  and and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="2005",
+    cluster_id="11657671055223402455",
+    scholar="http://scholar.google.com/scholar?cites=11657671055223402455&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="japones",
+))
+
 liu2005a = DB(WorkSnowball(
     2005, "QFD application in software process management and improvement based on CMM",
     display="liu",
@@ -696,6 +722,20 @@ sommerville2005a = DB(WorkUnrelated(
     note="cited By 89",
     ID="Sommerville200585",
     placex="ACM Transactions on Software Engineering and Methodology",
+))
+
+taipale2005a = DB(WorkUnrelated(
+    2005, "Process improvement solution for co-design in radio base station DSP SW",
+    display="taipale",
+    authors="Taipale, Virpi and Taramaa, Jorma",
+    place=ICPFSPI,
+    pp="16--28",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="taipale2005process",
+    cluster_id="4361002278349056495",
+    scholar="http://scholar.google.com/scholar?cites=4361002278349056495&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product Focused Software Process Improvement",
 ))
 
 taxen2005a = DB(WorkUnrelated(

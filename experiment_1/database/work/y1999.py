@@ -5,6 +5,7 @@ from ..places import *
 
 area1999a = DB(WorkUnrelated(
     1999, "Description of The SWEBOK Knowledge Area Software Engineering Process (Version 0.5)",
+    alias=(0, "Description of The SWEBOK Knowledge Area Software Engineering Process (Version 0.5)", ),
     display="area",
     authors="Area, SWEBOK Knowledge",
     place=FAKE,
@@ -57,6 +58,7 @@ becker1999a = DB(WorkUnrelated(
 
 biro1999a = DB(WorkUnrelated(
     1999, "SPI and Strategies",
+    alias=(0,"SPI and Strategies",),
     display="biro",
     authors="Biro, Miklos and Messnarz, Richard",
     place=FAKE,

@@ -23,9 +23,13 @@ from ..work.y2009 import martins2009a
 from ..work.y2009 import albuquerque2009b
 from ..work.y2010 import martins2010a
 from ..work.y2010 import albuquerque2010a
+from ..work.y2010 import lang2010ab
 from ..work.y2011 import martinez2011a
+from ..work.y2011 import lang2011a
+from ..work.y2011 import lang2011ab
 from ..work.y2013 import martínez2013a
 from ..work.y2013 import martínez2013b
+from ..work.y2015 import lang2015a
 from ..work.y2016 import martins2016a
 
 DB(Citation(
@@ -184,6 +188,34 @@ DB(Citation(
 
 DB(Citation(
     martins2016a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2015a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2011a, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2011ab, martins2007b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2010ab, martins2007b, ref="",
     contexts=[
 
     ],

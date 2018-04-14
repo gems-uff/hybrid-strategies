@@ -50,6 +50,22 @@ anbari2004a = DB(WorkUnrelated(
     placex="Proceedings of PMI Research Conference, London, UK. Newtown Square, PA: Project Management Institute",
 ))
 
+antoniol2004a = DB(WorkUnrelated(
+    2004, "Methodological issues in a CMM Level 4 implementation",
+    display="antoniol",
+    authors="Antoniol, Giuliano and Gradara, Sara and Venturi, Gabriele",
+    place=SPIP,
+    pp="33--50",
+    entrytype="article",
+    volume="9",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="antoniol2004methodological",
+    cluster_id="9653488765628784292",
+    scholar="http://scholar.google.com/scholar?cites=9653488765628784292&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Process: Improvement and Practice",
+))
+
 ardimento2004a = DB(WorkUnrelated(
     2004, "Multiview Framework for Goal Oriented Measurement Plan Design",
     display="ardimento",
@@ -78,6 +94,19 @@ aversano2004a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-24659-6_10",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+bahli2004a = DB(WorkUnrelated(
+    2004, "Toward a capability maturity model for the management of outsourcing information services",
+    display="bahli",
+    authors="Bahli, Bouchaib",
+    place=FAKE,
+    pp="440",
+    entrytype="article",
+    ID="bahli2004toward",
+    cluster_id="13088615758077358561",
+    scholar="http://scholar.google.com/scholar?cites=13088615758077358561&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="AMCIS 2004 Proceedings",
 ))
 
 beck2004a = DB(WorkUnrelated(
@@ -352,6 +381,19 @@ haaker2004a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Conference on Electronic Commerce",
 ))
 
+halloran2004a = DB(WorkUnrelated(
+    2004, "Software Process Improvement, Organisational Learning and Knowledge Management as a multilateral approach to understanding and improving organisational capability",
+    display="halloran",
+    authors="Halloran, Pat",
+    place=FAKE,
+    pp="86",
+    entrytype="article",
+    ID="halloran2004software",
+    cluster_id="13570220957611968050",
+    scholar="http://scholar.google.com/scholar?cites=13570220957611968050&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ACIS 2004 Proceedings",
+))
+
 hansen2004a = DB(WorkUnrelated(
     2004, "Prescription, description, reflection: the shape of the software process improvement field",
     display="hansen",
@@ -521,6 +563,9 @@ jedlitschka2004a = DB(WorkUnrelated(
     note="cited By 2",
     other1="November 10-12, 2004 Trondheim, Norway, Lecture Notes in Computer Science 3281,",
     other2="pp. 34-45",
+    organization="Springer",
+    cluster_id="15943054608160082257",
+    scholar="http://scholar.google.com/scholar?cites=15943054608160082257&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 jokela2004a = DB(WorkUnrelated(

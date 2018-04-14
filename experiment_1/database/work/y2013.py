@@ -1297,6 +1297,7 @@ stallinger2013a = DB(WorkSnowball(
     entrytype="inproceedings",
     organization="Springer",
     ID="stallinger2013development",
+    scholar="  ",
     placex="International Conference on Software Quality",
     scholar_ok=True,
 ))
@@ -1411,8 +1412,23 @@ ullah2013b = DB(WorkUnrelated(
     placex="JSW",
 ))
 
+utulu2013a = DB(WorkUnrelated(
+    2013, "Systematic and Grounded Theory Literature Reviews of Software Process Improvement Phenomena: Implications for IS Research",
+    display="utulu",
+    authors="Utulu, Samuel and Sewchurran, Kosheek and Dwolatzky, Barry",
+    place=FAKE,
+    pp="249--279",
+    entrytype="inproceedings",
+    organization="Informing Science Institute",
+    ID="utulu2013systematic",
+    cluster_id="5520179180325931516",
+    scholar="http://scholar.google.com/scholar?cites=5520179180325931516&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the Informing Science and Information Technology Education Conference",
+))
+
 valenciennes2013a = DB(WorkUnrelated(
     2013, "Towards a strategy for analysing benefits of Software Process Improvement programs",
+    alias=(0, "Towards a strategy for analysing benefits of Software Process Improvement programs",),
     display="valenciennes",
     authors="Valenciennes, France",
     place=FAKE,
@@ -1431,6 +1447,22 @@ wang2013a = DB(WorkUnrelated(
     publisher="Springer",
     ID="wang2013establishing",
     placex="Emerging Technologies for Information Systems, Computing, and Management",
+))
+
+wang2013b = DB(WorkUnrelated(
+    2013, "Design of Competitive Web Services Using QFD for Satisfaction of QoS Requirements",
+    display="wang b",
+    authors="Wang, Gang and Zhang, Li and Huang, Yonggang and Sun, Yan",
+    place=FAKE,
+    pp="634--642",
+    entrytype="article",
+    volume="96",
+    number="3",
+    publisher="The Institute of Electronics, Information and Communication Engineers",
+    ID="wang2013design",
+    cluster_id="3136312119621670910",
+    scholar="http://scholar.google.com/scholar?cites=3136312119621670910&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEICE TRANSACTIONS on Information and Systems",
 ))
 
 weckenmann2013a = DB(WorkUnrelated(

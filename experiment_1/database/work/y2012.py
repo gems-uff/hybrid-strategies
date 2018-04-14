@@ -737,6 +737,48 @@ kundu2012a = DB(WorkUnrelated(
     placex="International Journal for Quality Research",
 ))
 
+kundu2012b = DB(WorkUnrelated(
+    2012, "A unified model for implementing lean and CMMI for Services (CMMI-SVC v1. 3) best practices",
+    display="kundu b",
+    authors="Kundu, Goutam Kumar and Murali Manohar, B",
+    place=FAKE,
+    pp="138--162",
+    entrytype="article",
+    volume="13",
+    number="2",
+    publisher="Emerald Group Publishing Limited",
+    ID="kundu2012unified",
+    cluster_id="9880121079982844173",
+    scholar="http://scholar.google.com/scholar?cites=9880121079982844173&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Asian Journal on Quality",
+))
+
+lang2012a = DB(WorkUnrelated(
+    2012, "CMMI",
+    alias=(2012, "???? CMMI ??????????????",),
+    display="lang2012",
+    authors="lang",
+    place=FAKE,
+    pp="1--75",
+    entrytype="article",
+    publisher="",
+    ID="2012",
+    placex="japones",
+))
+
+lang2012b = DB(WorkUnrelated(
+    2012, "lang",
+    display="lang b",
+    authors="lang",
+    place=FAKE,
+    pp="73--76",
+    entrytype="article",
+    volume="33",
+    number="4",
+    ID="2012",
+    placex="japones",
+))
+
 leba2012a = DB(WorkUnrelated(
     2012, "Software Engineering Instrument Based on Quality Management Tools",
     display="leba",
@@ -1140,6 +1182,22 @@ pareto2012b = DB(WorkUnrelated(
     placex="Software {&} Systems Modeling",
 ))
 
+ponisio2012a = DB(WorkUnrelated(
+    2012, "Metrics-based control in outsourced software development projects",
+    display="ponisio",
+    authors="Ponisio, Laura and van Eck, Pascal",
+    place=IEEES,
+    pp="438--450",
+    entrytype="article",
+    volume="6",
+    number="5",
+    publisher="IET",
+    ID="ponisio2012metrics",
+    cluster_id="6485870706248170843",
+    scholar="http://scholar.google.com/scholar?cites=6485870706248170843&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IET software",
+))
+
 preis2012a = DB(WorkUnrelated(
     2012, "Integration Evaluation of Scrum and CMMI",
     display="preis",
@@ -1453,6 +1511,20 @@ vezzetti2012a = DB(WorkUnrelated(
     entrytype="article",
     ID="vezzetti2012porto",
     placex="",
+))
+
+wandersman2012a = DB(WorkUnrelated(
+    2012, "Toward an evidence-based system for innovation support (tools, training, technical assistance, quality improvement/quality assurance) for implementing innovations with quality to achieve desired outcomes",
+    display="wandersman",
+    authors="Wandersman, Abraham and Chien, Victoria H and Katz, Jason",
+    place=FAKE,
+    pp="445--459",
+    entrytype="article",
+    volume="50",
+    ID="wandersman2012toward",
+    cluster_id="3835823234482365502",
+    scholar="http://scholar.google.com/scholar?cites=3835823234482365502&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="American Journal of Community Psychology",
 ))
 
 wang2012a = DB(WorkUnrelated(

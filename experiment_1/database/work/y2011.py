@@ -5,6 +5,7 @@ from ..places import *
 
 Hekkala2011a = DB(WorkUnrelated(
     2011, "THE MANY FACETS OF AN INTER-ORGANISATIONAL INFORMATION SYSTEM PROJECT AS PERCEIVED BY THE ACTORS",
+    alias=(0, "ASCIENTIAE RERUM",),
     display="Hekkala",
     authors="Riitta Hekkala",
     place=FAKE,
@@ -65,6 +66,38 @@ asato2011a = DB(WorkUnrelated(
     source="Scopus",
     ID="Asato2011314",
     scopus="1",
+))
+
+asato2011b = DB(WorkUnrelated(
+    2011, "Alignment between the business strategy and the software processes improvement: A roadmap for the implementation",
+    display="asato b",
+    authors="Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias",
+    place=FAKE,
+    pp="314--328",
+    entrytype="article",
+    volume="21",
+    number="2",
+    publisher="SciELO Brasil",
+    ID="asato2011alignment",
+    cluster_id="11807693210422033910",
+    scholar="http://scholar.google.com/scholar?cites=11807693210422033910&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Production",
+))
+
+asato2011c = DB(WorkUnrelated(
+    2011, "Alinhamento entre estratégia de negócios e melhoria de processos de software: um roteiro de implementa{ç}ão",
+    display="asato c",
+    authors="Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias",
+    place=FAKE,
+    pp="314--328",
+    entrytype="article",
+    volume="21",
+    number="2",
+    publisher="SciELO Brasil",
+    ID="asato2011alinhamento",
+    cluster_id="16451644934605523987",
+    scholar="http://scholar.google.com/scholar?cites=16451644934605523987&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Production",
 ))
 
 ayala2011a = DB(WorkUnrelated(
@@ -495,6 +528,16 @@ ferreira2011a = DB(WorkUnrelated(
     placex="management",
 ))
 
+ferreira2011b = DB(WorkUnrelated(
+    2011, "Melhoria de processo de software sob a ótica da gestão de mudan{ç}a organizacional: a necessidade de gerenciar e de motivar as pessoas durante a implementa{ç}ão",
+    display="ferreira b",
+    authors="Ferreira, Marília Guterres and others",
+    place=FAKE,
+    entrytype="article",
+    ID="ferreira2011melhoria",
+    placex="",
+))
+
 finke2011a = DB(WorkUnrelated(
     2011, "Implementing cisco unified communications manager, part 1 (CIPT1) foundation learning guide:(CCNP Voice CIPT1 642-447)",
     display="finke",
@@ -779,23 +822,7 @@ kaneko2011a = DB(WorkSnowball(
     cluster_id="94453978794571135",
     scholar_ok=True,
     gs="1",
-))
-
-kaneko2011b = DB(WorkUnrelated(
-    2011, "Application of GQM+Strategies #x0AE; in the Japanese Space Industry",
-    display="kaneko b",
-    authors="T. Kaneko and M. Katahira and Y. Miyamoto and M. Kowalczyk",
-    place=FAKE,
-    pp="221--226",
-    entrytype="inproceedings",
-    volume="",
-    number="",
-    keyword="aerospace industry;business data processing;organisational aspects;GQM+Strategies®;Japan Aerospace Exploration Agency;Japanese space industry;measurement based approach;organizational goals;organizational subunits;top-level business goals;Context;Organizations;Software;Software measurement;Space exploration;Visualization;Aerospace;GQM+Strategies;Goal-oriented measurement;Measurement-based business IT alignment;Software process improvement",
-    doi="10.1109/IWSM-MENSURA.2011.22",
-    issn="",
-    ID="6113063",
     ieee="1",
-    placex="2011 Joint Conference of the 21st International Workshop on Software Measurement and the 6th International Conference on Software Process and Product Measurement",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -890,6 +917,35 @@ lane2011a = DB(WorkUnrelated(
     ID="Lane2011424",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+lang2011a = DB(WorkUnrelated(
+    2011, "lang",
+    display="",
+    authors="lang",
+    place=FAKE,
+    pp="22--27",
+    entrytype="article",
+    volume="5",
+    number="2",
+    publisher="lang",
+    ID="2011",
+    cluster_id="13644760344006569462",
+    scholar="http://scholar.google.com/scholar?cites=13644760344006569462&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="outra lingua",
+))
+
+lang2011ab = DB(WorkUnrelated(
+    2011, "Maturity model-based software process quality assessment and management",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="22--27",
+    entrytype="article",
+    volume="5",
+    number="2 (53)",
+    ID="2011maturity",
+    placex="Eastern-European Journal of Enterprise Technologies",
 ))
 
 lavazza2011a = DB(WorkUnrelated(
@@ -1145,6 +1201,19 @@ plösch2011a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="17290858405010918108",
     scholar_ok=True,
+))
+
+ponisio2011a = DB(WorkUnrelated(
+    2011, "Metrics to improve control in outsourcing software development projects",
+    display="ponisio",
+    authors="Ponisio, Laura and van Eck, Pascal",
+    place=FAKE,
+    entrytype="inproceedings",
+    organization="Delta",
+    ID="ponisio2011metrics",
+    cluster_id="944562914255284158",
+    scholar="http://scholar.google.com/scholar?cites=944562914255284158&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="18th European Systems and Software Process Improvement and Innovation Conference, EuroSPI2 2011",
 ))
 
 pryor2011a = DB(WorkUnrelated(

@@ -35,6 +35,7 @@ ali2015a = DB(WorkUnrelated(
 
 ammala2015a = DB(WorkUnrelated(
     2015, "TOWARDS PREDICTABLE B2B CUSTOMER SATISFACTION AND EXPERIENCE MANAGEMENT WITH CONTINUOUS IMPROVEMENT ASSETS AND RICH FEEDBACK",
+    alias=(0, "PETRI KETTUNEN (UNIVERSITY OF HELSINKI) MIKKO ÄMMÄLÄ, JARI PARTANEN (ELEKTROBIT) XP2015",),
     display="ammala",
     authors="ammala, MIKKO",
     place=FAKE,
@@ -118,6 +119,20 @@ cakula2015a = DB(WorkUnrelated(
     ID="Cakula2015191",
     sciencedirect="1",
     placex="Procedia Computer Science",
+))
+
+chaurasia2015a = DB(WorkUnrelated(
+    2015, "Classification of Software Requirement Errors: A Critical",
+    aliases=[
+        (0, "Classification of Software Requirement Errors: A Critical",),
+        (0, "Year of Publication: 2015",),
+    ],
+    display="chaur,asia",
+    authors="Chaurasia, Pawan Kumar and Khan, RA",
+    place=FAKE,
+    entrytype="article",
+    ID="chaurasiaclassification",
+    placex="",
 ))
 
 connor2015a = DB(WorkUnrelated(
@@ -395,6 +410,20 @@ hyvönen2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+imonese2015a = DB(WorkUnrelated(
+    2015, "{?}MON?S VEIKLOS RIZIKOS VERTINIMAS IR VALDYMAS MA{}OSE",
+    alias=(2015, "{?}MON?S VEIKLOS RIZIKOS VERTINIMAS IR VALDYMAS MA{}OSE",),
+    display="imonese",
+    authors="IMONESE, IR VIDUTIN?SE and ENTERPRISES, MEDIUM-SIZED",
+    place=FAKE,
+    pp="140--148",
+    entrytype="article",
+    volume="16",
+    number="2",
+    ID="kimonese2015kimones",
+    placex="Verslas: teorija ir praktika",
+))
+
 jansson2015a = DB(WorkUnrelated(
     2015, "Services supporting collaborative alignment of engineering networks",
     display="jansson",
@@ -551,6 +580,21 @@ kowalczyk2015a = DB(WorkUnrelated(
     ID="Kowalczyk20151",
     sciencedirect="1",
     placex="Decision Support Systems",
+))
+
+lang2015a = DB(WorkUnrelated(
+    2015, "lang",
+    display="lang",
+    authors=" and",
+    place=FAKE,
+    pp="23--29",
+    entrytype="article",
+    number="3 (2)",
+    publisher="lang",
+    ID="2015",
+    cluster_id="12283607580291450475",
+    scholar="http://scholar.google.com/scholar?cites=12283607580291450475&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="outra lingua",
 ))
 
 lavazza2015a = DB(WorkUnrelated(
@@ -796,6 +840,22 @@ papa2015a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=4430853393341192674&as_sdt=2005&sciodt=0,5&hl=en",
     local="Facultad de Informática",
     placex="",
+))
+
+patyal2015a = DB(WorkUnrelated(
+    2015, "Interrelationship between total quality management and six sigma: A review",
+    display="patyal",
+    authors="Patyal, Vishal Singh and Maddulety, K",
+    place=FAKE,
+    pp="1025--1060",
+    entrytype="article",
+    volume="16",
+    number="6",
+    publisher="SAGE Publications Sage India: New Delhi, India",
+    ID="patyal2015interrelationship",
+    cluster_id="8416894843418041980",
+    scholar="http://scholar.google.com/scholar?cites=8416894843418041980&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Global Business Review",
 ))
 
 pernstål2015a = DB(WorkUnrelated(
@@ -1133,6 +1193,8 @@ trinkenreich2015a = DB(WorkUnrelated(
 
 trinkenreich2015ab = DB(WorkUnrelated(
     2015, "Avalia{ç}ão da Gerência de Incidentes sob a Luz do MR-MPS-SV e Medi{ç}ão para Apoiar a Melhoria da Qualidade do Servi{ç}o de TI",
+    alias=( 0, "Avalia{ç}ão da Gerência de Incidentes sob a Luz do MR-MPS-SV e Medi{ç}ão para Apoiar a Melhoria da Qualidade do Servi{ç}o de TI",
+    ),
     display="trinkenreich",
     authors="Trinkenreich, Bianca and Santos, Gleison",
     place=FAKE,

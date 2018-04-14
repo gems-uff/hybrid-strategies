@@ -35,12 +35,15 @@ from ..work.y2010 import shah2010a
 from ..work.y2010 import west2010a
 from ..work.y2010 import rodríguez2010a
 from ..work.y2010 import suscheck2010a
+from ..work.y2010 import yilmaz2010a
 from ..work.y2012 import bekkers2012a
 from ..work.y2012 import han2012a
 from ..work.y2012 import vezzetti2012a
 from ..work.y2012 import wang2012a
 from ..work.y2012 import calik2012a
 from ..work.y2012 import rensburg2012a
+from ..work.y2012 import lang2012a
+from ..work.y2012 import lang2012b
 from ..work.y2013 import serrano2013a
 from ..work.y2013 import liang2013a
 from ..work.y2013 import lee2013b
@@ -62,15 +65,21 @@ from ..work.y2015 import herzwurm2015a
 from ..work.y2015 import thakurta2015a
 from ..work.y2015 import mohamed2015a
 from ..work.y2015 import stasytyte2015b
+from ..work.y2015 import imonese2015a
 from ..work.y2016 import liang2016a
 from ..work.y2016 import thakurta2016a
 from ..work.y2016 import robles2016a
+from ..work.y2016 import Lang2016a
 from ..work.y2017 import schillo2017a
 from ..work.y2017 import safaie2017a
 from ..work.y2017 import sanchez2017a
 from ..work.y2017 import marrone2017a
 from ..work.y2017 import schockert2017a
+from ..work.y2017 import lang2017a
 from ..work.y2018 import sanchez2018a
+from ..work.y9999 import choi9999a
+from ..work.y9999 import calik9999a
+from ..work.y9999 import gomes9999a
 
 DB(Citation(
     sun2010a, paulk1994a, ref="",
@@ -536,6 +545,69 @@ DB(Citation(
 
 DB(Citation(
     robles2016a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    choi9999a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    Lang2016a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    calik9999a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2012a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    imonese2015a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gomes9999a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    yilmaz2010a, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2012b, sun2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017a, sun2010a, ref="",
     contexts=[
 
     ],

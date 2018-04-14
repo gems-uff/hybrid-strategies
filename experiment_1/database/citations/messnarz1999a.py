@@ -39,6 +39,8 @@ from ..work.y2015 import connor2015a
 from ..work.y2015 import rose2015a
 from ..work.y2016 import kreiner2016a
 from ..work.y2017 import stolfa2017a
+from ..work.y9999 import guzmán9999a
+from ..work.y9999 import messnarz9999a
 
 DB(Citation(
     niazi2005a, messnarz1999a, ref="",
@@ -287,6 +289,27 @@ DB(Citation(
 
 DB(Citation(
     rose2015a, messnarz1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    guzmán9999a, messnarz1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    area1999a, messnarz1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    messnarz9999a, messnarz1999a, ref="",
     contexts=[
 
     ],

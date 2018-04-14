@@ -3,8 +3,23 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+Lang2016a = DB(WorkUnrelated(
+    2016, "QFD APP",
+    alias=("2016", "?? QFD ???????? APP ????????", "??? and ???"),
+    display="Lang",
+    authors="Lang",
+    place=FAKE,
+    pp="95--99",
+    entrytype="article",
+    volume="37",
+    number="14",
+    ID="2016",
+    placex="japones",
+))
+
 aarts2016a = DB(WorkUnrelated(
     2016, "The Bridge of Dreams",
+    alias=(0, "The Bridge of Dreams",),
     display="aarts",
     authors="Aarts, EHL and Wang, Yan",
     place=FAKE,
@@ -342,6 +357,22 @@ kruger2016a = DB(WorkUnrelated(
     placex="Management of Engineering and Technology (PICMET), 2016 Portland International Conference on",
 ))
 
+kundu2016a = DB(WorkUnrelated(
+    2016, "Prioritizing lean practices for implementation in IT support services",
+    display="kundu",
+    authors="Kundu, Goutam Kumar and Manohar, Murali",
+    place=FAKE,
+    pp="104--122",
+    entrytype="article",
+    volume="46",
+    number="1",
+    publisher="Emerald Group Publishing Limited",
+    ID="kundu2016prioritizing",
+    cluster_id="11301709018645290364",
+    scholar="http://scholar.google.com/scholar?cites=11301709018645290364&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="VINE Journal of Information and Knowledge Management Systems",
+))
+
 lepmets2016a = DB(WorkUnrelated(
     2016, "Towards Safer Medical Device Software Systems: Industry-Wide Learning from Failures and the Use of Safety-Cases to Support Process Compliance",
     display="lepmets",
@@ -552,6 +583,8 @@ petersen2016a = DB(WorkUnrelated(
 
 pimentel2016a = DB(WorkUnrelated(
     2016, "ANÁLISE DE FATORES DE SUCESSO DA ADO{Ç}ÃO DE MÉTODOS ÁGEIS EM MICRO E PEQUENAS EMPRESAS DE SOFTWARE E IDENTIFICA{Ç}ÃO DE MÉTRICAS QUE POSSIBILITEM AUXILIAR NO SEU MONITORAMENTO",
+    alias=(0, "ANÁLISE DE FATORES DE SUCESSO DA ADO{Ç}ÃO DE MÉTODOS ÁGEIS EM MICRO E PEQUENAS EMPRESAS DE SOFTWARE E IDENTIFICA{Ç}ÃO DE MÉTRICAS QUE POSSIBILITEM AUXILIAR NO SEU MONITORAMENTO",
+    ),
     display="pimentel",
     authors="PIMENTEL, Luan Félix and PEGORARO, Raquel Aparecida",
     place=FAKE,
@@ -625,6 +658,7 @@ robles2016a = DB(WorkUnrelated(
 
 sadabadi2016a = DB(WorkUnrelated(
     2016, "AN INTEGRAL EXPERIENCE ACQUISITION FRAMEWORK EXPLOITING MODEL-BASED LEARNING FOR SOFTWARE PROJECT MANAGEMENT",
+    alias=(0, "AN INTEGRAL EXPERIENCE ACQUISITION FRAMEWORK EXPLOITING MODEL-BASED LEARNING FOR SOFTWARE PROJECT MANAGEMENT",),
     display="sadabadi",
     authors="SADABADI, ALI TIZKAR",
     place=FAKE,

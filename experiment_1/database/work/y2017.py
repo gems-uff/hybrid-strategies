@@ -159,6 +159,7 @@ jurczuk2017a = DB(WorkUnrelated(
 
 jürisoo2017a = DB(WorkUnrelated(
     2017, "On the Role of Agile Software Development Practices in Software Process Improvement",
+    alias=(0, "On the Role of Agile Software Development Practices in Software Process Improvement",),
     display="jürisoo",
     authors="Jürisoo, Kristjan",
     place=FAKE,
@@ -179,6 +180,45 @@ kasurinen2017a = DB(WorkUnrelated(
     publisher="IGI Global",
     ID="kasurinen2017defining",
     placex="International Journal of Information Technologies and Systems Approach (IJITSA)",
+))
+
+lang2017a = DB(WorkUnrelated(
+    2017, "QFD",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="20--31",
+    entrytype="article",
+    volume="47",
+    number="16",
+    ID="2017",
+    placex="japones",
+))
+
+lang2017ab = DB(WorkUnrelated(
+    2017, "lang",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="12--19",
+    entrytype="article",
+    number="9",
+    publisher="",
+    ID="2017",
+    placex="outra lingua",
+))
+
+lang2017c = DB(WorkUnrelated(
+    2017, "lang",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    entrytype="article",
+    volume="8",
+    number="2 (30)",
+    publisher="",
+    ID="2017",
+    placex="outra lingua",
 ))
 
 li2017a = DB(WorkUnrelated(
@@ -216,6 +256,18 @@ marcos2017a = DB(WorkUnrelated(
     organization="IEEE",
     ID="marcos2017hispi",
     placex="Software Process Improvement (CIMPS), 2017 6th International Conference on",
+))
+
+marcos2017ab = DB(WorkUnrelated(
+    2017, "HiSPI: Herramienta para iniciar la implementación de mejora de procesos de software a través de un método formal HiSPI: Tool to initiate software process improvement through a formal method",
+    alias=( 0, "HiSPI: Herramienta para iniciar la implementación de mejora de procesos de software a través de un método formal HiSPI: Tool to initiate software process improvement through a formal method",
+    ),
+    display="marcos",
+    authors="Marcos, González and Jezreel, Mejia and Mirna, Munoz",
+    place=FAKE,
+    entrytype="article",
+    ID="marcoshispi",
+    placex="",
 ))
 
 marrone2017a = DB(WorkUnrelated(

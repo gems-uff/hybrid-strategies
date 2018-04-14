@@ -20,6 +20,7 @@ YAMAMOTO2014a = DB(WorkUnrelated(
 
 aburub2014a = DB(WorkUnrelated(
     2014, "Business Process Improvement Methodology Based on Business Process Modelling",
+    alias=(0, "Business Process Improvement Methodology Based on Business Process Modelling",),
     display="aburub",
     authors="Aburub, Faisal",
     place=FAKE,
@@ -272,6 +273,17 @@ brannen2014a = DB(WorkUnrelated(
     placex="Proceedings of the 5th ACM International Conference on Collaboration Across Boundaries: Culture, Distance &#38; Technology",
 ))
 
+brehm2014a = DB(WorkUnrelated(
+    2014, "Unterstützung der Transformation von Unternehmensstrategie in Projekt-Portfolios durch Projektmanagement-Informationssysteme",
+    alias=(0, "Unterstützung der Transformation von Unternehmensstrategie in Projekt-Portfolios durch Projektmanagement-Informationssysteme",),
+    display="brehm",
+    authors="Brehm, Lars",
+    place=FAKE,
+    entrytype="article",
+    ID="brehmunterstutzung",
+    placex="",
+))
+
 bruyn2014a = DB(WorkUnrelated(
     2014, "Using Entropy's Justificatory Knowledge for a Business Process Design Theory",
     display="bruyn",
@@ -284,6 +296,22 @@ bruyn2014a = DB(WorkUnrelated(
     cluster_id="11841178597252930564",
     scholar="http://scholar.google.com/scholar?cites=11841178597252930564&as_sdt=2005&sciodt=0,5&hl=en",
     placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
+))
+
+bubevski2014a = DB(WorkUnrelated(
+    2014, "A novel approach to software quality risk management",
+    display="bubevski",
+    authors="Bubevski, Vojo",
+    place=FAKE,
+    pp="124--154",
+    entrytype="article",
+    volume="24",
+    number="2",
+    publisher="Wiley Online Library",
+    ID="bubevski2014novel",
+    cluster_id="6161651270677539000",
+    scholar="http://scholar.google.com/scholar?cites=6161651270677539000&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Testing, Verification and Reliability",
 ))
 
 cahyaningsih2014a = DB(WorkUnrelated(
@@ -1213,6 +1241,7 @@ rahrovani2014a = DB(WorkUnrelated(
 
 raju2014a = DB(WorkUnrelated(
     2014, "A Quantitative Measurement of Software Requirement Factors using Goal Question Metric (GQM) Approach",
+    alias=(0, "A Quantitative Measurement of Software Requirement Factors using Goal Question Metric (GQM) Approach",),
     display="raju",
     authors="Raju, S and Uma, GV",
     place=FAKE,

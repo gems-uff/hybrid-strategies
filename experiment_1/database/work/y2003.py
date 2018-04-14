@@ -49,6 +49,19 @@ aida2003a = DB(WorkUnrelated(
     placex="International Symposium on Methodologies for Intelligent Systems",
 ))
 
+alexandre2003a = DB(WorkUnrelated(
+    2003, "Une démarche d'amélioration des processus logiciels orientée contexte",
+    display="alexandre",
+    authors="Alexandre, Simon and Renault, Alain and Habra, Naji",
+    place=FAKE,
+    pp="17--25",
+    entrytype="article",
+    ID="alexandre2003demarche",
+    cluster_id="18157917278700664006",
+    scholar="http://scholar.google.com/scholar?cites=18157917278700664006&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="GENIE LOGICIEL-TOULOUSE THEN PARIS-",
+))
+
 bailey2003a = DB(WorkUnrelated(
     2003, "PSM Guide 4.0b Part 1",
     display="bailey",

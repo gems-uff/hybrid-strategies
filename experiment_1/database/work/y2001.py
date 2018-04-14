@@ -417,6 +417,9 @@ fröhlich2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44813-6_21",
     springer="1",
     placex="Product Focused Software Process Improvement",
+    organization="Springer",
+    cluster_id="5007676971321054226",
+    scholar="http://scholar.google.com/scholar?cites=5007676971321054226&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 garmus2001a = DB(WorkUnrelated(

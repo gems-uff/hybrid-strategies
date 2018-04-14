@@ -29,9 +29,12 @@ from ..work.y2004 import oecd2004a
 from ..work.y2005 import cmmi2005b
 from ..work.y2006 import cmmi2006b
 from ..work.y2007 import sapp2007a
+from ..work.y2010 import mcloughlin2010a
 from ..work.y2010 import mcloughlin2010b
-from ..work.y2010 import mcloughlin2010c
 from ..work.y2011 import hailey2011a
+from ..work.y2011 import ponisio2011a
+from ..work.y2012 import ponisio2012a
+from ..work.y2016 import cervantes2016a
 
 DB(Citation(
     mcloughlin2010b, oecd2004a, ref="",
@@ -153,7 +156,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    mcloughlin2010b, mcloughlin2010c, ref="",
+    mcloughlin2010b, mcloughlin2010a, ref="",
     contexts=[
 
     ],
@@ -224,6 +227,27 @@ DB(Citation(
 
 DB(Citation(
     mcloughlin2010b, mccabe1976a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ponisio2012a, mcloughlin2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ponisio2011a, mcloughlin2010b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cervantes2016a, mcloughlin2010b, ref="",
     contexts=[
 
     ],

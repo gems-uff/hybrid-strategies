@@ -28,6 +28,18 @@ mei2018a = DB(WorkUnrelated(
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
+niazi2018a = DB(WorkUnrelated(
+    2018, "What Do Software Practitioners Really Think About Software Process Improvement Project Success? An Exploratory Study",
+    display="niazi",
+    authors="Niazi, Mahmood and Mishra, Alok and Gill, Asif Qumer",
+    place=FAKE,
+    pp="1--17",
+    entrytype="article",
+    publisher="Springer",
+    ID="niazi2018software",
+    placex="Arabian Journal for Science and Engineering",
+))
+
 novais2018a = DB(WorkUnrelated(
     2018, "Software evolution visualization: status, challenges, and research directions",
     display="novais",

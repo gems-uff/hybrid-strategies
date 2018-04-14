@@ -67,6 +67,11 @@ from ..work.y2017 import pérez2017a
 from ..work.y2017 import jayatilleke2017a
 from ..work.y2017 import mughal2017a
 from ..work.y2017 import monden2017a
+from ..work.y2017 import lang2017a
+from ..work.y2017 import lang2017ab
+from ..work.y9999 import chaos9999a
+from ..work.y9999 import trendowicz9999a
+from ..work.y9999 import pinto9999a
 
 DB(Citation(
     basili2007a, basili1984a, ref="",
@@ -497,6 +502,48 @@ DB(Citation(
 
 DB(Citation(
     santo2015a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aarts2016a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chaos9999a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz9999a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pinto9999a, basili2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017ab, basili2007a, ref="",
     contexts=[
 
     ],

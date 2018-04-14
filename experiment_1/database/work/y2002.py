@@ -473,6 +473,7 @@ karlström2002a = DB(WorkSnowball(
 
 karlström2002ab = DB(WorkUnrelated(
     2002, "Increasing Involvement in Software Process Improvement Process Improvement",
+    alias=(0, "Increasing Involvement in Software Process Improvement Process Improvement",),
     display="karlström",
     authors="Karlström, Daniel Karlström Daniel",
     place=FAKE,
@@ -483,6 +484,7 @@ karlström2002ab = DB(WorkUnrelated(
 
 karlström2002b = DB(WorkUnrelated(
     2002, "Increasing Involvement in Software Process Improvement Process Improvement",
+    alias=(0, "Increasing Involvement in Software Process Improvement Process Improvement",),
     display="karlström",
     authors="Karlström, Daniel Karlström Daniel",
     place=FAKE,
@@ -808,6 +810,17 @@ richardson2002a = DB(WorkUnrelated(
     placex="Quality Management Journal",
     publisher="Taylor & Francis",
     scholar="http://scholar.google.com/scholar?cites=16104977481802345538&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+richardson2002b = DB(WorkUnrelated(
+    2002, "SPI and Process Models",
+    alias=(0, "SPI and Process Models"),
+    display="richardson",
+    authors="Richardson, Ita and Ryan, Kevin",
+    place=FAKE,
+    entrytype="article",
+    ID="richardsonspi",
+    placex="",
 ))
 
 ruiz2002a = DB(WorkUnrelated(

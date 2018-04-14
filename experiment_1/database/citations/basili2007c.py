@@ -47,6 +47,9 @@ from ..work.y2016 import sadabadi2016a
 from ..work.y2017 import fagerholm2017a
 from ..work.y2017 import valle2017a
 from ..work.y2017 import sakul2017a
+from ..work.y2017 import lang2017ab
+from ..work.y2017 import lang2017c
+from ..work.y9999 import trendowicz9999b
 
 DB(Citation(
     basili2007c, basili1994c, ref="",
@@ -344,6 +347,27 @@ DB(Citation(
 
 DB(Citation(
     lindgren2015b, basili2007c, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz9999b, basili2007c, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017ab, basili2007c, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017c, basili2007c, ref="",
     contexts=[
 
     ],

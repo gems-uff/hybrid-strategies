@@ -216,6 +216,31 @@ cater2006a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+cater2006b = DB(WorkUnrelated(
+    2006, "SPI Program Retrospective: evaluating long-term benefits for small firms",
+    display="cater b",
+    authors="Cater-Steel, Aileen and Rout, Terry",
+    place=FAKE,
+    pp="3--5",
+    entrytype="inproceedings",
+    ID="cater2006spi",
+    cluster_id="4512288659363388396",
+    scholar="http://scholar.google.com/scholar?cites=4512288659363388396&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="6th International SPICE Conference, Luxembourg",
+))
+
+cater2006c = DB(WorkUnrelated(
+    2006, "SPI assessment retrospective: evaluating long-term benefits for small firms",
+    display="cater c",
+    authors="Cater-Steel, Aileen and Rout, Terry",
+    place=ICSPICD,
+    pp="41--48",
+    entrytype="inproceedings",
+    organization="Centre de Recherche Public Henri Tudor",
+    ID="cater2006spi",
+    placex="6th International SPICE Conference: Software Process Improvement and Capability Determination",
+))
+
 cmmi2006a = DB(WorkUnrelated(
     2006, "CMMI for Development",
     display="cmmi",
@@ -680,7 +705,9 @@ liu2006a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     ID="Liu2006573",
-    scholar="https://scholar.google.com.br/scholar?cites=18358451812604453084&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar="https://scholar.google.com/scholar?cites=18358451812604453084&as_sdt=2005&sciodt=0,5&hl=en",
+    cluster_id="18358451812604453084",
+    scholar_ok=True,
     placex="Software Process Improvement and Practice",
 ))
 
