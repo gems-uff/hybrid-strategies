@@ -540,6 +540,7 @@ liu2005a = DB(WorkSnowball(
     publisher="ACM",
     scholar="http://scholar.google.com/scholar?cites=1326690177078702660&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 mahanti2005a = DB(WorkUnrelated(
@@ -814,6 +815,19 @@ trienekens2005a = DB(WorkSnowball(
     cluster_id="1278893589414635329",
     publisher="Elsevier",
     scholar_ok=True,
+    final_selected="1",
+))
+
+tse2005a = DB(WorkUnrelated(
+    2005, "APPLYING SIX SIGMA TO SOFTWARE QUALITY",
+    display="tse",
+    authors="TSE, WANBIN WANG PETER W",
+    place=FAKE,
+    pp="161",
+    entrytype="article",
+    publisher="World Scientific",
+    ID="tse2005applying",
+    placex="Quality Management: A New Era",
 ))
 
 vanter2005a = DB(WorkUnrelated(
@@ -880,6 +894,20 @@ wang2005b = DB(WorkUnrelated(
     cluster_id="9573806308325190431",
     scholar="http://scholar.google.com/scholar?cites=9573806308325190431&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Ruan Jian Xue Bao(J. Softw.)",
+))
+
+wang2005c = DB(WorkUnrelated(
+    2005, "Applying Six Sigma to Software Quality Management",
+    display="wang c",
+    authors="Wang, Wanbin and Tse, Peter W",
+    place=FAKE,
+    pp="161--165",
+    entrytype="incollection",
+    publisher="World Scientific",
+    ID="wang2005applying",
+    cluster_id="7023705420993759255",
+    scholar="http://scholar.google.com/scholar?cites=7023705420993759255&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Quality Management: A New Era",
 ))
 
 weber2005a = DB(WorkUnrelated(

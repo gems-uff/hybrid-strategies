@@ -114,6 +114,20 @@ brito2016a = DB(WorkUnrelated(
     placex="Proceedings of the XV Brazilian Symposium on Software Quality, Maceió--AL, Brazil",
 ))
 
+bubevski2016a = DB(WorkUnrelated(
+    2016, "A Six Sigma Security Software Quality Management",
+    display="bubevski",
+    authors="Bubevski, Vojo",
+    place=FAKE,
+    pp="40",
+    entrytype="article",
+    volume="4",
+    number="13",
+    publisher="Scientific Research Publishing",
+    ID="bubevski2016six",
+    placex="Journal of Computer and Communications",
+))
+
 cervantes2016a = DB(WorkUnrelated(
     2016, "Proceso de cambio: formalización y valorización con análisis costo-eficiencia en fase inicial para la mejora del proceso de software",
     display="cervantes",
@@ -288,6 +302,20 @@ khalifa2016a = DB(WorkUnrelated(
     ID="al2016impact",
     local="Brunel University London",
     placex="",
+))
+
+khan2016a = DB(WorkUnrelated(
+    2016, "THE INFLUENCE OF FORMAL AND INFORMAL CONTROL ON THE PERFORMANCE OF IT PROJECTS IN PAKISTAN",
+    display="khan",
+    authors="Khan, Rao Amir and Nazir, Saqib",
+    place=FAKE,
+    pp="299",
+    entrytype="article",
+    volume="23",
+    number="1",
+    publisher="American Society of Business and Behavioral Sciences",
+    ID="khan2016influence",
+    placex="ASBBS Proceedings",
 ))
 
 kim2016a = DB(WorkUnrelated(

@@ -189,6 +189,7 @@ becker2008a = DB(WorkSnowball(
     placex="ICEIS 2008 - Proceedings of the 10th International Conference on Enterprise Information Systems",
     scholar="https://scholar.google.com/scholar?cites=12615708466078293814&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -218,6 +219,7 @@ becker2008b = DB(WorkSnowball(
     placex="Proceedings - International Conference on Software Engineering",
     art_number="1370840",
     other1="Germany",
+    final_selected="1",
 ))
 
 beijun2008a = DB(WorkUnrelated(
@@ -470,6 +472,18 @@ darwish2008a = DB(WorkUnrelated(
     ID="Darwish2008919",
     sciencedirect="1",
     placex="Journal of Systems Architecture",
+))
+
+daubner2008a = DB(WorkUnrelated(
+    2008, "Konzeption und prototypische Implementierung eines Frameworks zur automatisierten Softwaremessung",
+    display="daubner",
+    authors="Daubner, Bernhard",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="daubner2008konzeption",
+    cluster_id="15219583948292450725",
+    scholar="http://scholar.google.com/scholar?cites=15219583948292450725&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 dybå2008a = DB(WorkUnrelated(
@@ -876,6 +890,18 @@ lang2008a = DB(WorkUnrelated(
     entrytype="article",
     publisher="lang",
     ID="2008",
+    placex="japones",
+))
+
+lang2008ab = DB(WorkUnrelated(
+    2008, "lang",
+    display="lang",
+    authors="lang and lang",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="2008",
+    cluster_id="17143179528404677757",
+    scholar="http://scholar.google.com/scholar?cites=17143179528404677757&as_sdt=2005&sciodt=0,5&hl=en",
     placex="japones",
 ))
 
@@ -1567,6 +1593,17 @@ zhang2008a = DB(WorkUnrelated(
     cluster_id="8413074065970719792",
     scholar="http://scholar.google.com/scholar?cites=8413074065970719792&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Software Process",
+))
+
+zhang2008ab = DB(WorkUnrelated(
+    2008, "A Laboratory for Basic Research in Computer Science and Software Engineering",
+    alias=(0, "A Laboratory for Basic Research in Computer Science and Software Engineering",),
+    display="zhang",
+    authors="Zhang, Jian and Zhang, Wenhui and Zhan, Naijun and Shen, Yidong and Chen, Haiming and Zhang, Yunquan and Wang, Yongji and Wu, Enhua and Wang, Hongan and Zhu, Xueyang",
+    place=FAKE,
+    entrytype="article",
+    ID="zhanglaboratory",
+    placex="",
 ))
 
 zhang2008b = DB(WorkUnrelated(

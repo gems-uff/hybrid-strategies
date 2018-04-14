@@ -29,6 +29,7 @@ from ..work.y2017 import trinkenreich2017a
 from ..work.y2017 import mandić2017a
 from ..work.y2017 import watanabe2017a
 from ..work.y2017 import tomaz2017
+from ..work.y2017 import tomaz2017a
 
 DB(Citation(
     kaneko2011a, kathuria2007a, ref="",
@@ -200,6 +201,13 @@ DB(Citation(
 
 DB(Citation(
     tomaz2017, kaneko2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tomaz2017a, kaneko2011a, ref="",
     contexts=[
 
     ],

@@ -29,6 +29,7 @@ from ..work.y2012 import colomo2012a
 from ..work.y2012 import bruyn2012a
 from ..work.y2012 import haigh2012a
 from ..work.y2012 import haigh2012b
+from ..work.y2012 import haigh2012c
 from ..work.y2013 import lee2013a
 from ..work.y2014 import bruyn2014a
 from ..work.y2014 import suominen2014a
@@ -272,6 +273,13 @@ DB(Citation(
 
 DB(Citation(
     haigh2012b, trienekens2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haigh2012c, trienekens2009a, ref="",
     contexts=[
 
     ],

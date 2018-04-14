@@ -1105,6 +1105,7 @@ waina2001a = DB(WorkSnowball(
     cluster_id="10571519764150818146",
     organization="IEEE",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 waina2001b = DB(WorkUnrelated(

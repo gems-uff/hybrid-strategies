@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+al2018a = DB(WorkUnrelated(
+    2018, "Simulation-based Six Sigma value function for system-level performance assessment and improvement",
+    display="al",
+    authors="Al-Aomar, Raid and Chaudhry, Sohail",
+    place=FAKE,
+    pp="66--84",
+    entrytype="article",
+    volume="67",
+    number="1",
+    publisher="Emerald Publishing Limited",
+    ID="al2018simulation",
+    placex="International Journal of Productivity and Performance Management",
+))
+
 ferreira2018a = DB(WorkUnrelated(
     2018, "A Technique for Representing Requirements Using Personas: A Controlled Experiment",
     display="ferreira",
@@ -77,6 +91,17 @@ sanchez2018a = DB(WorkUnrelated(
     publisher="Emerald Publishing Limited",
     ID="sanchez2018system",
     placex="Kybernetes",
+))
+
+u2018a = DB(WorkUnrelated(
+    2018, "A Review of Six Sigma and the Shared Relationship with Knowledge Management (KM) Discipline",
+    alias=(0,"A Review of Six Sigma and the Shared Relationship with Knowledge Management (KM) Discipline",),
+    display="u",
+    authors="U-Dominic, Chukwuebuka Martinjoe and Godwin, Harold Chukwuemeka",
+    place=FAKE,
+    entrytype="article",
+    ID="ureview",
+    placex="",
 ))
 
 valente2018a = DB(WorkUnrelated(

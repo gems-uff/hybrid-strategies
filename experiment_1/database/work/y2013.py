@@ -366,6 +366,20 @@ dumke2013a = DB(WorkUnrelated(
     placex="Informatik-Spektrum",
 ))
 
+el2013a = DB(WorkUnrelated(
+    2013, "Dss-cmm: A capability maturity model for dss development processes",
+    display="el",
+    authors="El-Gayar, Omar F and Deokar, Amit V and Tao, Jie",
+    place=FAKE,
+    pp="1",
+    entrytype="article",
+    publisher="IGI Global",
+    ID="el2013dss",
+    cluster_id="9965495575179684531",
+    scholar="http://scholar.google.com/scholar?cites=9965495575179684531&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Engineering Effective Decision Support Technologies: New Models and Applications: New Models and Applications",
+))
+
 elliott2013a = DB(WorkUnrelated(
     2013, "A Network Approach to Public Goods",
     display="elliott",
@@ -833,6 +847,43 @@ kowalczyk2013a = DB(WorkUnrelated(
     placex="arXiv preprint arXiv:1312.1040",
 ))
 
+lang2013a = DB(WorkUnrelated(
+    2013, "lang",
+    alias=(2013, "lang",),
+    display="lang2013",
+    authors="lang",
+    place=FAKE,
+    pp="1--75",
+    entrytype="article",
+    publisher="",
+    ID="2013",
+    placex="japones",
+))
+
+lang2013b = DB(WorkUnrelated(
+    2013, "Kano",
+    display="lang",
+    authors="lang and lang",
+    place=FAKE,
+    pp="511--513",
+    entrytype="article",
+    ID="2013",
+    placex="japones",
+))
+
+lang2013c = DB(WorkUnrelated(
+    2013, " Kano ",
+    display="lang",
+    authors="lang and lang",
+    place=FAKE,
+    pp="675--683",
+    entrytype="article",
+    volume="40",
+    number="11",
+    ID="2013",
+    placex="japones",
+))
+
 lavazza2013a = DB(WorkUnrelated(
     2013, "Business goals, user needs, and requirements: A problem frame-based view",
     display="lavazza",
@@ -1009,6 +1060,16 @@ mccaffery2013a = DB(WorkUnrelated(
     placex="",
 ))
 
+mendoza2013a = DB(WorkUnrelated(
+    2013, "Artículos de Investigación",
+    display="mendoza",
+    authors="Mendoza, Manuel Maldonado and Gordón, Mary Luz Sánchez",
+    place=FAKE,
+    entrytype="article",
+    ID="mendoza2013articulos",
+    placex="",
+))
+
 mite2013a = DB(WorkUnrelated(
     2013, "Offshore insourcing in software development: Structuring the decision-making process",
     display="mite",
@@ -1059,6 +1120,7 @@ münch2013c = DB(WorkSnowball(
     placex="Software Engineering and Advanced Applications (SEAA), 2013 39th EUROMICRO Conference on",
     other1="Santander, Spain, September",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 münch2013d = DB(WorkUnrelated(
@@ -1300,6 +1362,18 @@ stallinger2013a = DB(WorkSnowball(
     scholar="  ",
     placex="International Conference on Software Quality",
     scholar_ok=True,
+))
+
+strate2013a = DB(WorkUnrelated(
+    2013, "Using Lean Six Sigma to Reduce Effort and Cost in a Software Defect Tracking System.",
+    display="strate",
+    authors="Strate, Jonathan D and Laplante, Phillip A",
+    place=FAKE,
+    entrytype="article",
+    volume="16",
+    number="1",
+    ID="strate2013using",
+    placex="Software Quality Professional",
 ))
 
 svahnberg2013a = DB(WorkUnrelated(

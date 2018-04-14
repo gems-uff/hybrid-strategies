@@ -315,6 +315,18 @@ dadhich2012a = DB(WorkUnrelated(
     placex="International Journal of Software Engineering & Applications",
 ))
 
+dalipi2012a = DB(WorkUnrelated(
+    2012, "Towards an Integrated Model of Optimizing the Efficiency of IT in Organizations",
+    display="dalipi",
+    authors="Dalipi, Fisnik and Shej, Ajri",
+    place=FAKE,
+    pp="311--323",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="dalipi2012towards",
+    placex="ICT Innovations 2011",
+))
+
 delgado2012a = DB(WorkUnrelated(
     2012, "Model Transformations for Business-IT Alignment: From Collaborative Business Process to SoaML Service Model",
     display="delgado",
@@ -521,6 +533,18 @@ haigh2012b = DB(WorkUnrelated(
     number="1",
     ID="haigh2012",
     placex="?",
+))
+
+haigh2012c = DB(WorkUnrelated(
+    2012, "lang",
+    display="haigh c",
+    authors="Haigh, Maria",
+    place=FAKE,
+    pp="31--38",
+    entrytype="article",
+    number="1",
+    ID="haigh2012",
+    placex="outra lingua",
 ))
 
 han2012a = DB(WorkUnrelated(
@@ -932,6 +956,17 @@ matalonga2012a = DB(WorkUnrelated(
     ID="6200024",
     ieee="1",
     placex="IET Software",
+))
+
+mayoral2012a = DB(WorkUnrelated(
+    2012, "Marco para la asignación de paquetes de trabajo en entornos de desarrollo global de software",
+    display="mayoral",
+    authors="Mayoral, D Marcos Ruano and Crespo, D Ángel García and Palacios, D Ricardo Colomo",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mayoral2012marco",
+    local="Universidad Carlos III de Madrid",
+    placex="",
 ))
 
 mcbride2012a = DB(WorkUnrelated(
@@ -1401,6 +1436,17 @@ shahzad2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+sharma2012a = DB(WorkUnrelated(
+    2012, "The Status of Green Purchasing in the Five Most Populous US States",
+    display="sharma",
+    authors="Sharma, Lucky",
+    place=Book,
+    entrytype="book",
+    publisher="Arizona State University",
+    ID="sharma2012status",
+    placex="",
+))
+
 singh2012a = DB(WorkUnrelated(
     2012, "An overview of sustainability assessment methodologies",
     display="singh",
@@ -1473,6 +1519,18 @@ sulayman2012a = DB(WorkUnrelated(
     ID="Sulayman2012479",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+sun2012a = DB(WorkUnrelated(
+    2012, " TRIZ ",
+    display="sun",
+    authors="Sun, Paul",
+    place=FAKE,
+    pp="1--177",
+    entrytype="article",
+    publisher="?",
+    ID="sun2012?",
+    placex="japones",
 ))
 
 unch2012a = DB(WorkUnrelated(

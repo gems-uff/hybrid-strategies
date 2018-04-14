@@ -145,6 +145,7 @@ basili2007a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=7637490068372488266&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="7637490068372488266",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 basili2007b = DB(WorkSnowball(
@@ -163,6 +164,7 @@ basili2007b = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="4602992281034403342",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 basili2007c = DB(WorkSnowball(
@@ -177,6 +179,7 @@ basili2007c = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=11182405751794159179&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="11182405751794159179",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 brouwer2007a = DB(WorkUnrelated(
@@ -229,6 +232,32 @@ chen2007a = DB(WorkUnrelated(
     cluster_id="7935999299543068575",
     scholar="http://scholar.google.com/scholar?cites=7935999299543068575&as_sdt=2005&sciodt=0,5&hl=en",
     placex="The International Journal of Advanced Manufacturing Technology",
+))
+
+chen2007b = DB(WorkUnrelated(
+    2007, "An integrated structural model and its diagnostic and analytical approach for continuous improvement activity",
+    display="chen b",
+    authors="Chen, Chyong Ling Judy and Wu, Chih Wei",
+    place=FAKE,
+    pp="123",
+    entrytype="article",
+    publisher="Nova Publishers",
+    ID="chen2007integrated",
+    cluster_id="15667123167863475289",
+    scholar="http://scholar.google.com/scholar?cites=15667123167863475289&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Taiwan's Economic Transformation in Evolutionary Perspective: Entrepreneurship, Innovation Systems and Government",
+))
+
+chen2007c = DB(WorkUnrelated(
+    2007, "In: Taiwan's Economic Transformation. ISBN: 1-60021-498-3 Editor: Fu-Lai Tony Yu, pp. 89-120{o?pyright} 2007 Nova Science Publishers, Inc.",
+    display="chen c",
+    authors="Chen, Chieh-Hsuan and Wu, Chih Wei",
+    place=FAKE,
+    pp="123",
+    entrytype="article",
+    publisher="Nova Science Publishers",
+    ID="chen2007taiwan",
+    placex="Taiwan's Economic Transformation in Evolutionary Perspective: Entrepreneurship, Innovation Systems and Government",
 ))
 
 chrissis2007a = DB(WorkUnrelated(
@@ -631,6 +660,42 @@ lang2007a = DB(WorkUnrelated(
     placex="?????",
 ))
 
+lang2007ab = DB(WorkUnrelated(
+    2007, " CMM  6Sigma ",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    pp="26--29",
+    entrytype="article",
+    volume="17",
+    number="3",
+    ID="2007",
+    placex="japones",
+))
+
+lang2007c = DB(WorkUnrelated(
+    2007, "lang",
+    display="lang c",
+    authors="lang and lang and lang and lang",
+    place=FAKE,
+    pp="6--9",
+    entrytype="article",
+    volume="43",
+    number="22",
+    ID="2007",
+    placex="japones",
+))
+
+laru2007a = DB(WorkUnrelated(
+    2007, "Sisäisten prosessien ja projektien laadunhallinnan kehittäminen matriisiorganisaatiossa: case Nordea",
+    display="laru",
+    authors="Laru, Jukka",
+    place=FAKE,
+    entrytype="misc",
+    ID="laru2007sisaisten",
+    placex="outra lingua",
+))
+
 lester2007a = DB(WorkUnrelated(
     2007, "Evaluating the internal consistency of the base questions in the express process appraisal",
     display="lester",
@@ -747,6 +812,17 @@ montoni2007a = DB(WorkUnrelated(
     note="cited By 10",
     ID="Montoni2007",
     artnumber="4273471",
+))
+
+montoni2007ab = DB(WorkUnrelated(
+    2007, "SETEMBRO DE 2007",
+    alias=(0,"SETEMBRO DE 2007",),
+    display="montoni",
+    authors="Montoni, Mariano Angel",
+    place=FAKE,
+    entrytype="article",
+    ID="montonisetembro",
+    placex="",
 ))
 
 murakami2007a = DB(WorkUnrelated(

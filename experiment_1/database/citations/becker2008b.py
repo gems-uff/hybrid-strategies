@@ -39,6 +39,8 @@ from ..work.y2011 import barreto2011a
 from ..work.y2012 import lópez2012a
 from ..work.y2013 import chebrolu2013a
 from ..work.y2013 import aversano2013a
+from ..work.y2013 import lang2013b
+from ..work.y2013 import lang2013c
 from ..work.y2014 import ullah2014a
 from ..work.y2017 import vasconcellos2017a
 from ..work.y2017 import moreira2017a
@@ -299,6 +301,41 @@ DB(Citation(
 
 DB(Citation(
     ullah2014a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    moreira2017a, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    moreira2017b, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    armbrust2010b, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2013b, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2013c, becker2008b, ref="",
     contexts=[
 
     ],

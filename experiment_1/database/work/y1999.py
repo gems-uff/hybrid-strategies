@@ -548,6 +548,7 @@ sommerville1999a = DB(WorkSnowball(
     scholar_ok=True,
     ieee="1",
     placex="IEEE Transactions on Software Engineering",
+    final_selected="1",
 ))
 
 sytsma1999a = DB(WorkUnrelated(

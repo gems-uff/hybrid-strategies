@@ -40,6 +40,7 @@ albuquerque2009a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="265744665272195211",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 albuquerque2009b = DB(WorkUnrelated(
@@ -532,6 +533,16 @@ huang2009a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+islam2009a = DB(WorkUnrelated(
+    2009, "Software Process Improvement Measurement and Evaluation Framework (SPI-MEF)",
+    display="islam",
+    authors="Islam, AKM and Unterkalmsteiner, Michael",
+    place=FAKE,
+    entrytype="misc",
+    ID="islam2009software",
+    placex="",
+))
+
 isoiec2009a = DB(WorkUnrelated(
     2009, "ISO/IEC 20926  IFPUG functional size measurement method 2009,",
     display="isoiec",
@@ -608,6 +619,8 @@ kettunen2009b = DB(WorkUnrelated(
 
 khdair2009a = DB(WorkUnrelated(
     2009, "Applying a Practical Software Process Improvement Model for Web-Based Application Development in Small Sized Firms",
+    alias=( 0, "Applying a Practical Software Process Improvement Model for Web-Based Application Development in Small Sized Firms",
+    ),
     display="khdair",
     authors="Khdair, Hisham",
     place=FAKE,
@@ -627,6 +640,18 @@ lami2009a = DB(WorkUnrelated(
     ID="lami2009iso",
     gs="1",
     placex="International Conference on Agile Processes and Extreme Programming in Software Engineering",
+))
+
+lang2009a = DB(WorkUnrelated(
+    2009, "lang",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    entrytype="article",
+    number="3 (79)",
+    publisher="lang",
+    ID="2009",
+    placex="outra lingua",
 ))
 
 laporte2009a = DB(WorkUnrelated(
@@ -780,6 +805,17 @@ messnarz2009a = DB(WorkUnrelated(
     placex="Software Process: Improvement and Practice",
 ))
 
+metodologia2009a = DB(WorkUnrelated(
+    2009, "COPPE/UFRJ",
+    display="metodologia",
+    authors="DA METODOLOGIA, UMA ANÁLISE DA UTILIZA{Ç}ÃO",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="da2009coppe",
+    local="Universidade Federal do Rio de Janeiro",
+    placex="",
+))
+
 michel2009a = DB(WorkUnrelated(
     2009, "Detecting inconsistencies between software architecture views",
     display="michel",
@@ -811,6 +847,7 @@ mishra2009a = DB(WorkUnrelated(
 
 morisio2009a = DB(WorkUnrelated(
     2009, "Software project success: quantitative and qualitative evidences from the industrial projects",
+    alias=(0, "Software project success: quantitative and qualitative evidences from the industrial projects",),
     display="morisio",
     authors="MORISIO, Maurizio and EGOROVA, Evgenia",
     place=FAKE,
@@ -920,6 +957,16 @@ oliveira2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Oliveira2009",
     placex="Software Quality Journal",
+))
+
+paruchuri2009a = DB(WorkUnrelated(
+    2009, "ROI BASED ENTERPRISE QA FRAMEWORKS",
+    display="paruchuri",
+    authors="Paruchuri, Deepika",
+    place=FAKE,
+    entrytype="article",
+    ID="paruchuri2009roi",
+    placex="",
 ))
 
 patel2009a = DB(WorkUnrelated(
@@ -1190,6 +1237,18 @@ tomaz2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+tong2009a = DB(WorkUnrelated(
+    2009, "Human Factors and Culture",
+    display="tong",
+    authors="Tong, Carrison KS and Wong, Eric TT",
+    place=FAKE,
+    pp="225--243",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="tong2009human",
+    placex="Governance of Picture Archiving and Communications Systems: Data Security and Quality Management of Filmless Radiology",
+))
+
 trendowicz2009a = DB(WorkUnrelated(
     2009, "Chapter 6 Factors Influencing Software Development ProductivityState?of?the?Art and Industrial Experiences",
     display="trendowicz",
@@ -1229,6 +1288,7 @@ trienekens2009a = DB(WorkSnowball(
     publisher="Springer",
     scholar_ok=True,
     placex="Software Quality Journal",
+    final_selected="1",
 ))
 
 umarji2009a = DB(WorkUnrelated(

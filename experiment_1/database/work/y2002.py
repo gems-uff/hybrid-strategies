@@ -469,6 +469,7 @@ karlström2002a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=4179476263282382400&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEE Proceedings-Software",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 karlström2002ab = DB(WorkUnrelated(

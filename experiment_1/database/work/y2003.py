@@ -589,6 +589,19 @@ kurtz2003a = DB(WorkUnrelated(
     placex="IBM Systems Journal",
 ))
 
+lang2003a = DB(WorkUnrelated(
+    2003, "lang IDEAL lang?",
+    display="lang",
+    authors="lang and lang and lang",
+    place=FAKE,
+    pp="18--22",
+    entrytype="article",
+    volume="26",
+    number="8",
+    ID="2003",
+    placex="japones",
+))
+
 lawler2003a = DB(WorkUnrelated(
     2003, "Measurement modeling technology",
     display="lawler",

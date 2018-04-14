@@ -35,6 +35,8 @@ from ..work.y2008 import barcellos2008b
 from ..work.y2008 import monteiro2008a
 from ..work.y2008 import zhai2008a
 from ..work.y2008 import zhang2008b
+from ..work.y2008 import lang2008ab
+from ..work.y2008 import zhang2008ab
 from ..work.y2009 import yang2009a
 from ..work.y2009 import lin2009a
 from ..work.y2009 import gou2009a
@@ -52,11 +54,17 @@ from ..work.y2010 import shu2010a
 from ..work.y2010 import unterkalmsteiner2010a
 from ..work.y2010 import malik2010b
 from ..work.y2011 import wang2011a
+from ..work.y2011 import monteiro2011a
+from ..work.y2011 import lang2011a
 from ..work.y2012 import unterkalmsteiner2012a
 from ..work.y2014 import oliveira2014a
+from ..work.y2014 import barcellos2014a
 from ..work.y2016 import brito2016a
 from ..work.y2017 import tatibana2017a
+from ..work.y2017 import cerdeiral2017a
+from ..work.y2017 import tomaz2017a
 from ..work.y2018 import mei2018a
+from ..work.y9999 import monteiro9999a
 
 DB(Citation(
     wang2005a, sommerville2004a, ref="",
@@ -431,6 +439,62 @@ DB(Citation(
 
 DB(Citation(
     tatibana2017a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    monteiro2011a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2008ab, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2011a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2008ab, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cerdeiral2017a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tomaz2017a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    monteiro9999a, wang2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barcellos2014a, wang2005a, ref="",
     contexts=[
 
     ],

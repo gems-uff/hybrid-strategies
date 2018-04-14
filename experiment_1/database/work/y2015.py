@@ -147,6 +147,18 @@ connor2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+deng2015a = DB(WorkUnrelated(
+    2015, "Diversity in Software Development Routines are Attractive: A Preliminary Analysis of GitHub Repositories",
+    display="deng",
+    authors="Deng, Tianjie and Robinson, William",
+    place=FAKE,
+    entrytype="article",
+    ID="deng2015diversity",
+    cluster_id="4502232502518181894",
+    scholar="http://scholar.google.com/scholar?cites=4502232502518181894&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 dymek2015a = DB(WorkUnrelated(
     2015, "Model parametryczny w zarz{?}dzaniu ryzykiem przedsi{?}wzi{?}{c?} informatycznych",
     display="dymek",
@@ -1246,6 +1258,17 @@ valente2015a = DB(WorkUnrelated(
     cluster_id="9103715818272978924",
     scholar="http://scholar.google.com/scholar?cites=9103715818272978924&as_sdt=2005&sciodt=0,5&hl=en",
     placex="ICEIS (2)",
+))
+
+valente2015ab = DB(WorkUnrelated(
+    2015, "Bridging EE and SE: The Goals Approach",
+    alias=(0, "Bridging EE and SE: The Goals Approach",),
+    display="valente",
+    authors="Valente, Pedro and Aveiro, David and Nunes, Nuno",
+    place=FAKE,
+    entrytype="article",
+    ID="valentebridging",
+    placex="",
 ))
 
 wohlin2015a = DB(WorkUnrelated(

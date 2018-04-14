@@ -36,6 +36,7 @@ from ..work.y2013 import khraiwesh2013a
 from ..work.y2015 import trinkenreich2015a
 from ..work.y2016 import cervantes2016a
 from ..work.y2017 import vasconcellos2017a
+from ..work.y2017 import cerdeiral2017a
 
 DB(Citation(
     barreto2010a, conradi2002a, ref="",
@@ -256,6 +257,13 @@ DB(Citation(
 
 DB(Citation(
     cervantes2016a, barreto2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cerdeiral2017a, barreto2010a, ref="",
     contexts=[
 
     ],

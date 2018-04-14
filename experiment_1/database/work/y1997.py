@@ -336,6 +336,7 @@ reiblein1997a = DB(WorkSnowball(
     cluster_id="2106803465759819075",
     scholar_ok=True,
     placex="Software Quality Journal",
+    final_selected="1",
 ))
 
 richardson1997a = DB(WorkUnrelated(

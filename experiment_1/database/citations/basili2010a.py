@@ -70,6 +70,7 @@ from ..work.y2013 import olsina2013a
 from ..work.y2013 import hästbacka2013b
 from ..work.y2013 import eremenko2013a
 from ..work.y2013 import trendowicz2013b
+from ..work.y2013 import mendoza2013a
 from ..work.y2014 import wallace2014a
 from ..work.y2014 import paternoster2014a
 from ..work.y2014 import giardino2014a
@@ -100,6 +101,7 @@ from ..work.y2014 import trendowicz2014b
 from ..work.y2014 import boehm2014a
 from ..work.y2014 import ferreira2014a
 from ..work.y2014 import YAMAMOTO2014a
+from ..work.y2014 import lang2014a
 from ..work.y2015 import bird2015a
 from ..work.y2015 import becker2015a
 from ..work.y2015 import kläs2015a
@@ -136,6 +138,7 @@ from ..work.y2016 import port2016a
 from ..work.y2016 import armstrong2016a
 from ..work.y2016 import machado2016a
 from ..work.y2016 import machado2016b
+from ..work.y2016 import robles2016a
 from ..work.y2017 import mandić2017a
 from ..work.y2017 import sanchez2017a
 from ..work.y2017 import olsina2017a
@@ -149,10 +152,15 @@ from ..work.y2017 import nicho2017a
 from ..work.y2017 import pinheiro2017a
 from ..work.y2017 import tebes2017a
 from ..work.y2017 import ОВ2017a
+from ..work.y2017 import erukulapati2017a
+from ..work.y2017 import lang2017ab
 from ..work.y2018 import novais2018a
 from ..work.y2018 import sanchez2018a
 from ..work.y9999 import anders9999a
 from ..work.y9999 import heidrich9999a
+from ..work.y9999 import trendowicz9999a
+from ..work.y9999 import papa9999a
+from ..work.y9999 import huberts9999a
 
 DB(Citation(
     basili2010a, basili1994a, ref="",
@@ -1199,6 +1207,84 @@ DB(Citation(
 
 DB(Citation(
     machado2016b, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    erukulapati2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pinheiro2017a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mandić2012ab, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    trendowicz9999a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2014a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017ab, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    papa9999a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lang2017ab, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    huberts9999a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mendoza2013a, basili2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    robles2016a, basili2010a, ref="",
     contexts=[
 
     ],

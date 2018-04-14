@@ -60,6 +60,7 @@ armbrust2010a = DB(WorkSnowball(
     doi="10.1007/978-3-642-14347-2_4",
     note="cited By 3",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 armbrust2010b = DB(WorkSnowball(
@@ -136,6 +137,7 @@ barreto2010a = DB(WorkSnowball(
     cluster_id="17460321150978889682",
     scholar_ok=True,
     gs="1",
+    final_selected="1",
 ))
 
 barreto2010b = DB(WorkUnrelated(
@@ -177,6 +179,7 @@ basili2010a = DB(WorkSnowball(
     placex="Computer",
     ieee="1",
     gs="1",
+    final_selected="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -526,6 +529,19 @@ el2010a = DB(WorkUnrelated(
     placex="Handbook On Business Information Systems",
 ))
 
+el2010ab = DB(WorkUnrelated(
+    2010, "Six Sigma Fundamentals",
+    alias=(0,"Six Sigma Fundamentals",),
+    display="el",
+    authors="El-Haik, Basem and Shaout, Adnan",
+    place=FAKE,
+    pp="146--170",
+    entrytype="article",
+    publisher="Wiley Online Library",
+    ID="elsix",
+    placex="Software Design for Six Sigma: A Roadmap for Excellence",
+))
+
 escofet2010a = DB(WorkUnrelated(
     2010, "Strategic E-Business/IT Alignment for SME Competitiveness",
     display="escofet",
@@ -669,6 +685,7 @@ guzmán2010a = DB(WorkSnowball(
     cluster_id="17385845424469103121",
     publisher="Springer",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 haigh2010a = DB(WorkUnrelated(
@@ -893,6 +910,7 @@ kowalczyk2010a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=16277693229634567198&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="16277693229634567198",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 krasteva2010a = DB(WorkUnrelated(
@@ -1208,6 +1226,7 @@ mcloughlin2010a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="5420330165680143679",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 mcloughlin2010b = DB(WorkSnowball(
@@ -1229,6 +1248,7 @@ mcloughlin2010b = DB(WorkSnowball(
     ID="McLoughlin2010201",
     organization="Springer",
     placex="European Conference on Software Process Improvement",
+    final_selected="1",
 ))
 
 
@@ -1641,6 +1661,17 @@ shu2010a = DB(WorkUnrelated(
     placex="International Conference on Software Process",
 ))
 
+simmons2010a = DB(WorkUnrelated(
+    2010, "CMMI MISUNDERSTOOD: WHY SOFTWARE PRODUCING COMPANIES CHOOSE SIX SIGMA VERSUS CMMI",
+    display="simmons",
+    authors="Simmons, Chris B and Shiva, Sajjan G",
+    place=FAKE,
+    pp="627",
+    entrytype="article",
+    ID="simmons2010cmmi",
+    placex="RESEARCH YEARBOOK",
+))
+
 softex2010a = DB(WorkUnrelated(
     2010, "MPS.BR",
     journal= "softex",
@@ -1674,6 +1705,7 @@ sun2010a = DB(WorkSnowball(
     publisher="Elsevier",
     cluster_id="4881529965332269987",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 suscheck2010a = DB(WorkUnrelated(

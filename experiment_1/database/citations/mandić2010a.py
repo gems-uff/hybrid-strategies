@@ -18,6 +18,7 @@ from ..work.y2014 import basili2014a
 from ..work.y2014 import trendowicz2014a
 from ..work.y2014 import basili2014c
 from ..work.y2015 import valente2015a
+from ..work.y2015 import valente2015ab
 from ..work.y2016 import lópez2016a
 from ..work.y2018 import valente2018a
 
@@ -128,6 +129,13 @@ DB(Citation(
 
 DB(Citation(
     valente2018a, mandić2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    valente2015ab, mandić2010a, ref="",
     contexts=[
 
     ],

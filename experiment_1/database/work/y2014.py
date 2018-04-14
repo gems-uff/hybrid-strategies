@@ -129,6 +129,18 @@ barafort2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+barcellos2014a = DB(WorkUnrelated(
+    2014, "Conjunto de Recomenda{ç}ões para Medi{ç}ão de Software Visando ao Controle Estatístico de Processos",
+    alias=(0, "Conjunto de Recomenda{ç}ões para Medi{ç}ão de Software Visando ao Controle Estatístico de Processos",
+    ),
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and de Almeida Falbo, Ricardo and Rocha, Ana Regina and Leão, Ana Flávia Campos and Salamon, Jordana Sarmenghi",
+    place=FAKE,
+    entrytype="article",
+    ID="barcellosconjunto",
+    placex="",
+))
+
 barzilay2014a = DB(WorkUnrelated(
     2014, "Understanding reuse of software examples: A case study of prejudice in a community of practice",
     display="barzilay",
@@ -954,6 +966,18 @@ kudryashova2014a = DB(WorkUnrelated(
     placex="Proceedings of the 23rd International Conference on World Wide Web",
 ))
 
+lang2014a = DB(WorkUnrelated(
+    2014, "lang",
+    display="lang",
+    authors="lang and lang and lang",
+    place=FAKE,
+    pp="189--199",
+    entrytype="article",
+    number="5",
+    ID="2014",
+    placex="japones",
+))
+
 lepmets2014a = DB(WorkSnowball(
     2014, "A Cynefin based approach to process model tailoring and goal alignment",
     display="lepmets",
@@ -1001,6 +1025,18 @@ liggesmeyer2014a = DB(WorkUnrelated(
     cluster_id="3633901488445906827",
     scholar="http://scholar.google.com/scholar?cites=3633901488445906827&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatik-Spektrum",
+))
+
+mahanti2014a = DB(WorkUnrelated(
+    2014, "Application of Quality Tools to Data Warehousing Projects.",
+    display="mahanti",
+    authors="Mahanti, Rupa",
+    place=FAKE,
+    entrytype="article",
+    volume="16",
+    number="4",
+    ID="mahanti2014application",
+    placex="Software Quality Professional",
 ))
 
 mercer2014a = DB(WorkUnrelated(
@@ -1111,6 +1147,17 @@ nieters2014a = DB(WorkUnrelated(
     ID="Nieters:2014:RDL:2559206.2567831",
     acm="1",
     placex="CHI '14 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+nyambegera2014a = DB(WorkUnrelated(
+    2014, "Six Sigma Approach for Quality Improvement and its Future in Kenyan Organizations: a Research Agenda",
+    display="nyambegera",
+    authors="Nyambegera, Stephen Morangi and Mutia, Peter Mutua",
+    place=FAKE,
+    entrytype="article",
+    publisher="International journal of Science Commerce and Humanities Volume No 2 No 1 January 201",
+    ID="nyambegera2014six",
+    placex="",
 ))
 
 odiit2014a = DB(WorkUnrelated(
@@ -1372,6 +1419,17 @@ simões2014a = DB(WorkUnrelated(
     placex="Journal of Software Engineering Research and Development",
 ))
 
+solaimani2014a = DB(WorkUnrelated(
+    2014, "Business Model",
+    alias=(0, "Business Model",),
+    display="solaimani",
+    authors="Solaimani, Sam",
+    place=FAKE,
+    entrytype="article",
+    ID="solaimanibusiness",
+    placex="",
+))
+
 sulayman2014a = DB(WorkUnrelated(
     2014, "Towards a theoretical framework of \SPI\ success factors for small and medium web companies",
     display="sulayman",
@@ -1476,6 +1534,7 @@ trendowicz2014a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=1570309116013095076&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 trendowicz2014b = DB(WorkUnrelated(

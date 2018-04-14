@@ -241,6 +241,20 @@ cater2006c = DB(WorkUnrelated(
     placex="6th International SPICE Conference: Software Process Improvement and Capability Determination",
 ))
 
+choi2006a = DB(WorkUnrelated(
+    2006, "Applying tools of Six Sigma and PSP for definition and schedule management of process",
+    display="choi",
+    authors="Choi, Seung-Yong and Kim, Jeong-Ah",
+    place=FAKE,
+    pp="923--935",
+    entrytype="article",
+    volume="33",
+    number="11",
+    publisher="Korean Institute of Information Scientists and Engineers",
+    ID="choi2006applying",
+    placex="Journal of KIISE: Software and Applications",
+))
+
 cmmi2006a = DB(WorkUnrelated(
     2006, "CMMI for Development",
     display="cmmi",
@@ -660,6 +674,29 @@ kwak2006a = DB(WorkUnrelated(
     placex="Technovation",
 ))
 
+lang2006a = DB(WorkUnrelated(
+    2006, "lang",
+    display="lang",
+    authors="lang and and ",
+    place=FAKE,
+    pp="21--40",
+    entrytype="article",
+    volume="7",
+    number="6",
+    ID="2006",
+    placex="japones",
+))
+
+lang2006ab = DB(WorkUnrelated(
+    2006, "lang 6  PSP",
+    display="lang",
+    authors="lang and lang y and lang and lang h",
+    place=FAKE,
+    entrytype="article",
+    ID="2006",
+    placex="japones",
+))
+
 leih2006a = DB(WorkUnrelated(
     2006, "The impact of the Sarbanes-Oxley Act on IT project management",
     display="leih",
@@ -1000,6 +1037,19 @@ tihinen2006a = DB(WorkUnrelated(
     ID="tihinen2006build",
     cluster_id="5654856157852152882",
     scholar="http://scholar.google.com/scholar?cites=5654856157852152882&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+tonini2006a = DB(WorkUnrelated(
+    2006, "A contribui{ç}ão do Seis Sigma para a melhoria dos processos de software.",
+    display="tonini",
+    authors="Tonini, Antonio Carlos",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="tonini2006contribuiccao",
+    cluster_id="1183052021563397904",
+    scholar="http://scholar.google.com/scholar?cites=1183052021563397904&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Universidade de São Paulo",
     placex="",
 ))
 

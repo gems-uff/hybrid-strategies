@@ -361,6 +361,7 @@ mccoy1998a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="18350165022086385221",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 mellis1998a = DB(WorkUnrelated(

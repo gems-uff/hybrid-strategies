@@ -262,6 +262,7 @@ debou2000a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=17798324913740129214&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="17798324913740129214",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 dybå2000a = DB(WorkUnrelated(
@@ -474,6 +475,17 @@ kautz2000a = DB(WorkSnowball(
     cluster_id="16864283779573478547",
     organization="ACM",
     scholar_ok=True,
+    final_selected="1",
+))
+
+kautz2000ab = DB(WorkUnrelated(
+    2000, "EuroSPI 2000",
+    display="kautz",
+    authors="Kautz, Karlheinz and Ramzan, Faisal",
+    place=FAKE,
+    entrytype="article",
+    ID="kautzeurospi",
+    placex="",
 ))
 
 kautz2000b = DB(WorkUnrelated(

@@ -15,6 +15,39 @@ anders9999a = DB(WorkUnrelated(
     placex="",
 ))
 
+andrade9999a = DB(WorkUnrelated(
+    9999, "Six Sigma",
+    alias=(0, "Six Sigma",),
+    display="andrade",
+    authors="Andrade, Nilton",
+    place=FAKE,
+    entrytype="article",
+    ID="andradesix",
+    placex="",
+))
+
+barcellos9999a = DB(WorkUnrelated(
+    9999, "Uma abordagem para Análise de Desempenho de Processos de Software",
+    alias=(0, "Uma abordagem para Análise de Desempenho de Processos de Software",),
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini and de Pós-gradua{ç}ão, Programa and de Engenharia, Programa",
+    place=FAKE,
+    entrytype="article",
+    ID="barcellosabordagem",
+    placex="",
+))
+
+caivano9999a = DB(WorkUnrelated(
+    9999, "MIGLIORAMENTO CONTINUO DEI PROCESSI SOFTWARE ATTRAVERSO IL CONTROLLO STATISTICO DEI PROCESSI",
+    alias=(0, "MIGLIORAMENTO CONTINUO DEI PROCESSI SOFTWARE ATTRAVERSO IL CONTROLLO STATISTICO DEI PROCESSI",),
+    display="caivano",
+    authors="CAIVANO, DANILO",
+    place=FAKE,
+    entrytype="article",
+    ID="caivanomiglioramento",
+    placex="",
+))
+
 calik9999a = DB(WorkUnrelated(
     9999, "Türkiye De Bili{?}im Teknolojileri Birimlerinde/Firmalar?nda Kullan?lan Kalite Yönetim Sistemlerinin Firmalra Etkilerinin {?I}ncelenmesi",
     alias=(0, "Türkiye De Bili{?}im Teknolojileri Birimlerinde/Firmalar?nda Kullan?lan Kalite Yönetim Sistemlerinin Firmalra Etkilerinin {?I}ncelenmesi",),
@@ -35,6 +68,16 @@ cansado9999a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="cansadoenterprise",
+    placex="",
+))
+
+carmo9999a = DB(WorkUnrelated(
+    9999, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management",
+    display="carmo",
+    authors="Carmo, Adson and Fantinato, Marcelo and Thom, Lucinéia and Prado, Edmir and Spinola, Mauro and Hung, Patrick",
+    place=FAKE,
+    entrytype="article",
+    ID="carmoanalysis",
     placex="",
 ))
 
@@ -71,6 +114,17 @@ cuervo9999a = DB(WorkUnrelated(
     placex="",
 ))
 
+ghose9999a = DB(WorkUnrelated(
+    9999, "Process Discovery from Model and Text Artefacts (Preprint)",
+    alias=(0, "Process Discovery from Model and Text Artefacts (Preprint)",),
+    display="ghose",
+    authors="Ghose, Aditya and Koliadis, George and Chueng, Arthur",
+    place=FAKE,
+    entrytype="article",
+    ID="ghoseprocess",
+    placex="",
+))
+
 gomes9999a = DB(WorkUnrelated(
     9999, "MESTRADO EM ENGENHARIA DE PRODU{Ç}ÃO",
     alias=(0, "MESTRADO EM ENGENHARIA DE PRODU{Ç}ÃO",),
@@ -104,6 +158,50 @@ heidrich9999a = DB(WorkUnrelated(
     placex="",
 ))
 
+huberts9999a = DB(WorkUnrelated(
+    9999, "Het gebruik van architectuurconcepten bij de ontwikkeling van web/mobiele applicaties",
+    alias=(0, "Het gebruik van architectuurconcepten bij de ontwikkeling van web/mobiele applicaties", ),
+    display="huberts",
+    authors="Huberts, Paul and Hoppenbrouwers, Stijn and Claassen, Tom",
+    place=FAKE,
+    entrytype="article",
+    ID="hubertshet",
+    placex="",
+))
+
+jesko9999a = DB(WorkUnrelated(
+    9999, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",
+    alias=(0, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",),
+    display="jesko",
+    authors="Jesko, Dirk and Paul, Georg",
+    place=FAKE,
+    entrytype="article",
+    ID="jeskodistributed",
+    placex="",
+))
+
+machado9999a = DB(WorkUnrelated(
+    9999, "Requisitos de Modelos de Melhoria de Processos",
+    alias=(0, "Requisitos de Modelos de Melhoria de Processos",),
+    display="machado",
+    authors="Machado, Ivre Marjorie Ribeiro",
+    place=FAKE,
+    entrytype="article",
+    ID="machadorequisitos",
+    placex="",
+))
+
+manohar9999a = DB(WorkUnrelated(
+    9999, "CRITICAL SUCCESS FACTORS FOR IMPLEMENTING LEAN PRACTICES IN IT SUPPORT SERVICES",
+    alias=(0,"CRITICAL SUCCESS FACTORS FOR IMPLEMENTING LEAN PRACTICES IN IT SUPPORT SERVICES",),
+    display="manohar",
+    authors="Manohar, B Murali",
+    place=FAKE,
+    entrytype="article",
+    ID="manoharcritical",
+    placex="",
+))
+
 messnarz9999a = DB(WorkUnrelated(
     9999, "MIKLOS BIRO",
     alias=(0, "MIKLOS BIRO",),
@@ -112,6 +210,28 @@ messnarz9999a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="messnarzmiklos",
+    placex="",
+))
+
+monteiro9999a = DB(WorkUnrelated(
+    9999, "Mestrado",
+    alias=(0, "Mestrado",),
+    display="monteiro",
+    authors="Monteiro, Erika Horta Grandi",
+    place=FAKE,
+    entrytype="article",
+    ID="monteiromestrado",
+    placex="",
+))
+
+papa9999a = DB(WorkUnrelated(
+    9999, "Patrón de Estrategia de Evaluación y Mejora de una Vista de Calidad aplicado a un Recurso Organizacional",
+    alias=(0, "Patrón de Estrategia de Evaluación y Mejora de una Vista de Calidad aplicado a un Recurso Organizacional",),
+    display="papa",
+    authors="Papa, María Fernanda and Rivera, Belén and Becker, Pablo and Olsina, Luis",
+    place=FAKE,
+    entrytype="article",
+    ID="papapatron",
     placex="",
 ))
 
@@ -137,6 +257,28 @@ pinto9999a = DB(WorkUnrelated(
     placex="",
 ))
 
+quintella9999a = DB(WorkUnrelated(
+    9999, "MATURIDADE CMM, QUALIDADE DE PROCESSOS LEAN SIX SIGMA E SUA RELA{Ç}ÃO COM A QUALIDADE PERCEBIDA PELO CLIENTE",
+    alias=(0,"MATURIDADE CMM, QUALIDADE DE PROCESSOS LEAN SIX SIGMA E SUA RELA{Ç}ÃO COM A QUALIDADE PERCEBIDA PELO CLIENTE",),
+    display="quintella",
+    authors="QUINTELLA, HEITOR LUIZ MURAT DE MEIRELLES and DE TOLEDO, ROBERTO FARIAS",
+    place=FAKE,
+    entrytype="article",
+    ID="quintellamaturidade",
+    placex="",
+))
+
+rico9999a = DB(WorkUnrelated(
+    9999, "Under what Market Conditions are Agile Methods the Optimal Approach to Software Development",
+    alias=(0,"Under what Market Conditions are Agile Methods the Optimal Approach to Software Development",),
+    display="rico",
+    authors="Rico, David F",
+    place=FAKE,
+    entrytype="article",
+    ID="ricounder",
+    placex="",
+))
+
 rivera9999a = DB(WorkUnrelated(
     9999, "Estrategia de Medición, Evaluación y Mejora Continua de Calidad",
     alias=(0, "Estrategia de Medición, Evaluación y Mejora Continua de Calidad",),
@@ -145,6 +287,29 @@ rivera9999a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="riveraestrategia",
+    placex="",
+))
+
+saikkonen9999a = DB(WorkUnrelated(
+    9999, "Application for postdoctoral position in Software Engineering",
+    alias=(0, "Application for postdoctoral position in Software Engineering",
+    ),
+    display="saikkonen",
+    authors="Saikkonen, Heikki",
+    place=FAKE,
+    entrytype="article",
+    ID="saikkonenapplication",
+    placex="",
+))
+
+schramm9999a = DB(WorkUnrelated(
+    9999, "Process Model Engineering Lifecycle: Holistic Concept Proposal and Systematic Literature",
+    alias=( 0, "Process Model Engineering Lifecycle: Holistic Concept Proposal and Systematic Literature",),
+    display="schramm",
+    authors="Schramm, Joachim and Dohrmann, Patrick and Rausch, Andreas and Ternité, Thomas",
+    place=FAKE,
+    entrytype="article",
+    ID="schrammprocess",
     placex="",
 ))
 
@@ -177,4 +342,15 @@ voigt9999a = DB(WorkUnrelated(
     entrytype="article",
     ID="voigtaooo",
     placex="outra lingua",
+))
+
+zhang9999a = DB(WorkUnrelated(
+    9999, "Six Sigma in Synergy with Risk Management",
+    alias=(0,"Six Sigma in Synergy with Risk Management",),
+    display="zhang",
+    authors="Zhang, Qun and Irfan, Muhammad and Zhu, Xiaoning and Khattak, Muhammad Aamir Obaid",
+    place=FAKE,
+    entrytype="article",
+    ID="zhangsix",
+    placex="",
 ))

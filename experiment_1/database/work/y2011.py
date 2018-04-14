@@ -468,6 +468,22 @@ dieste2011a = DB(WorkUnrelated(
     ID="Dieste2011283",
 ))
 
+el2011a = DB(WorkUnrelated(
+    2011, "DSS-CMM: A capability maturity model for DSS development processes",
+    display="el",
+    authors="El-Gayar, Omar F and Deokar, Amit V and Tao, Jie",
+    place=FAKE,
+    pp="14--34",
+    entrytype="article",
+    volume="3",
+    number="4",
+    publisher="IGI Global",
+    ID="el2011dss",
+    cluster_id="996332958338808394",
+    scholar="http://scholar.google.com/scholar?cites=996332958338808394&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Decision Support System Technology (IJDSST)",
+))
+
 esfahani2011a = DB(WorkSnowball(
     2011, "Strategically balanced process adoption",
     display="esfahani",
@@ -485,6 +501,7 @@ esfahani2011a = DB(WorkSnowball(
     organization="ACM",
     cluster_id="13891228873136254123",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 esfahani2011b = DB(WorkUnrelated(
@@ -823,6 +840,7 @@ kaneko2011a = DB(WorkSnowball(
     scholar_ok=True,
     gs="1",
     ieee="1",
+    final_selected="1",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -1054,6 +1072,22 @@ messnarz2011b = DB(WorkUnrelated(
     placex="European Conference on Software Process Improvement",
 ))
 
+monteiro2011a = DB(WorkUnrelated(
+    2011, "Defining a catalog of indicators to support process performance analysis",
+    display="monteiro",
+    authors="Monteiro, Luis Felipe Salin and de Oliveira, Kathia Mar{ç}al",
+    place=JSEP,
+    pp="395--422",
+    entrytype="article",
+    volume="23",
+    number="6",
+    publisher="Wiley Online Library",
+    ID="monteiro2011defining",
+    cluster_id="13701762143396136253",
+    scholar="http://scholar.google.com/scholar?cites=13701762143396136253&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software: Evolution and Process",
+))
+
 mujtaba2011a = DB(WorkUnrelated(
     2011, "Analyzing strategy and processes for product customization in large-scale industrial settings",
     display="mujtaba",
@@ -1201,6 +1235,7 @@ plösch2011a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="17290858405010918108",
     scholar_ok=True,
+    final_selected="1",
 ))
 
 ponisio2011a = DB(WorkUnrelated(

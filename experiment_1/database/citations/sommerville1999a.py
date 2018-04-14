@@ -91,11 +91,15 @@ from ..work.y2012 import eljabiri2012a
 from ..work.y2012 import berkovich2012a
 from ..work.y2012 import solaimani2012a
 from ..work.y2014 import kim2014a
+from ..work.y2014 import solaimani2014a
 from ..work.y2016 import nunn2016a
 from ..work.y2016 import francalanci2016a
 from ..work.y2017 import solaimani2017a
 from ..work.y2017 import jurczuk2017a
 from ..work.y2017 import ghose2017a
+from ..work.y2017 import jurczuk2017b
+from ..work.y9999 import jesko9999a
+from ..work.y9999 import ghose9999a
 
 DB(Citation(
     sommerville1999a, finkelstein1994a, ref="",
@@ -737,6 +741,41 @@ DB(Citation(
 
 DB(Citation(
     apfelbacher2007a, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    morisio2009a, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jurczuk2017b, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jesko9999a, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ghose9999a, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    solaimani2014a, sommerville1999a, ref="",
     contexts=[
 
     ],

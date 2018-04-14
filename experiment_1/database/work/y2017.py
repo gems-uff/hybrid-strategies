@@ -29,6 +29,7 @@ ayaz2017a = DB(WorkUnrelated(
 
 becker2017a = DB(WorkUnrelated(
     2017, "Tuning the analysis activity of quality evaluation strategies for different purposes",
+    alias=(0,"Tuning the analysis activity of quality evaluation strategies for different purposes",),
     display="becker",
     authors="Becker, Pablo and Olsina, Luis",
     place=FAKE,
@@ -58,6 +59,18 @@ carmo2017b = DB(WorkUnrelated(
     ID="carmokpi",
     local="Universidade de São Paulo",
     placex="",
+))
+
+cerdeiral2017a = DB(WorkUnrelated(
+    2017, "Methods, Techniques and Tools to Support Software Project Management in High Maturity",
+    display="cerdeiral",
+    authors="Cerdeiral, Cristina Teles and Santos, Gleison",
+    place=FAKE,
+    entrytype="article",
+    volume="10",
+    number="1",
+    ID="cerdeiral2017methods",
+    placex="RelaTe-DIA",
 ))
 
 dashkov2017a = DB(WorkUnrelated(
@@ -133,6 +146,18 @@ hollauer2017a = DB(WorkUnrelated(
     placex="International Conference on Research into Design",
 ))
 
+horizonte2017a = DB(WorkUnrelated(
+    2017, "Avalia{ç}ão do impacto de implanta{ç}ão de políticas e processos de desenvolvimento de software com foco na melhoria de qualidade: Uma abordagem utilizando modelagem dinâmica de sistemas, simula{ç}ão por eventos discretos e Seis Sigma",
+    alias=(0, "Avalia{ç}ão do impacto de implanta{ç}ão de políticas e processos de desenvolvimento de software com foco na melhoria de qualidade: Uma abordagem utilizando modelagem dinâmica de sistemas, simula{ç}ão por eventos discretos e Seis Sigma",
+    ),
+    display="horizonte",
+    authors="Horizonte, Belo",
+    place=FAKE,
+    entrytype="article",
+    ID="horizonteavaliaccao",
+    placex="",
+))
+
 jayatilleke2017a = DB(WorkUnrelated(
     2017, "A systematic review of requirements change management",
     display="jayatilleke",
@@ -155,6 +180,18 @@ jurczuk2017a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="jurczuk2017business",
     placex="Economic and Social Development (Book of Proceedings), 23rd International Scientific Conference on Economic and Social",
+))
+
+jurczuk2017b = DB(WorkUnrelated(
+    2017, "Identification and Tracking of Process Inconsistencies in Manufacturing Enterprises",
+    display="jurczuk b",
+    authors="Jurczuk, Arkadiusz",
+    place=FAKE,
+    pp="129--138",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="jurczuk2017identification",
+    placex="International Conference on Engineering, Project, and Product Management",
 ))
 
 jürisoo2017a = DB(WorkUnrelated(
@@ -206,6 +243,19 @@ lang2017ab = DB(WorkUnrelated(
     publisher="",
     ID="2017",
     placex="outra lingua",
+))
+
+lang2017b = DB(WorkUnrelated(
+    2017, "lang",
+    display="lang",
+    authors="lang, lang",
+    place=FAKE,
+    entrytype="article",
+    volume="8",
+    number="2 (30)",
+    publisher="lang {\guillemotleft}?????{\guillemotright}",
+    ID="lang2017",
+    placex="japones",
 ))
 
 lang2017c = DB(WorkUnrelated(
@@ -323,6 +373,8 @@ moraes2017a = DB(WorkUnrelated(
 
 moreira2017a = DB(WorkUnrelated(
     2017, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",
+    alias=(0,"INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",
+    ),
     display="moreira",
     authors="Moreira, Renata Teles",
     place=FAKE,
@@ -333,6 +385,8 @@ moreira2017a = DB(WorkUnrelated(
 
 moreira2017b = DB(WorkUnrelated(
     2017, "THE ADHESION OF THE PROCESS OF CONTRACTING OF INFORMATION TECHNOLOGY SOLUTIONS BY THE BODIES ASSOCIATED TO THE FEDERAL PUBLIC ADMINISTRATION ADOPTING DOCUMENTARY ANALYSIS",
+    alias=(0,"THE ADHESION OF THE PROCESS OF CONTRACTING OF INFORMATION TECHNOLOGY SOLUTIONS BY THE BODIES ASSOCIATED TO THE FEDERAL PUBLIC ADMINISTRATION ADOPTING DOCUMENTARY ANALYSIS",
+     ),
     display="moreira",
     authors="Moreira, Renata Teles",
     place=FAKE,
@@ -378,6 +432,7 @@ olsina2017a = DB(WorkUnrelated(
 
 pinheiro2017a = DB(WorkUnrelated(
     2017, "Active Gamification: A gamification process for successful gamification",
+    alias=(0,"Active Gamification: A gamification process for successful gamification",),
     display="pinheiro",
     aliases=[(0,"Developing Modern Industrial Control Applications")],
     authors="Pinheiro, Bruno Contessotto Bragan{ç}a",
@@ -401,6 +456,17 @@ pérez2017a = DB(WorkUnrelated(
     cluster_id="2606180610331257630",
     scholar="http://scholar.google.com/scholar?cites=2606180610331257630&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Sustainability",
+))
+
+quintella2017a = DB(WorkUnrelated(
+    2017, "How Quality Perceived by the Client Connect with Cmm Maturity and Quality of Six Sigma Processes",
+    alias=(0, "How Quality Perceived by the Client Connect with Cmm Maturity and Quality of Six Sigma Processes",),
+    display="quintella",
+    authors="de Meirelles Quintella, Heitor Luiz Murat and de Toledo, Roberto Farias",
+    place=FAKE,
+    entrytype="article",
+    ID="dequality",
+    placex="",
 ))
 
 safaie2017a = DB(WorkUnrelated(
@@ -487,6 +553,16 @@ schockert2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+sharma2017a = DB(WorkUnrelated(
+    2017, "SIX SIGMA IS A QUALITY DEVELOPMEN",
+    display="sharma",
+    authors="Sharma, Neeraj Kumar",
+    place=FAKE,
+    entrytype="article",
+    ID="sharma2017six",
+    placex="",
+))
+
 shimura2017a = DB(WorkUnrelated(
     2017, "Identifying potential problems and risks in GQM+ Strategies models using metamodel and design principles",
     display="shimura",
@@ -555,6 +631,17 @@ tomaz2017 = DB(WorkUnrelated(
     placex="",
 ))
 
+tomaz2017a = DB(WorkUnrelated(
+    2017, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
+    alias=(0, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",),
+    display="tomaz",
+    authors="Tomaz, Daisy Ferreira Brito",
+    place=FAKE,
+    entrytype="article",
+    ID="tomazlinguagem",
+    placex="",
+))
+
 trinkenreich2017a = DB(WorkUnrelated(
     2017, "A Method To Select Goals, Indicators and Strategies for IT Services",
     display="trinkenreich",
@@ -596,6 +683,7 @@ valle2017a = DB(WorkUnrelated(
 
 vasconcellos2017a = DB(WorkUnrelated(
     2017, "Approaches to strategic alignment of software process improvement: A systematic literature review",
+    alias=(0, "Approaches to strategic alignment of software process improvement: A systematic literature review",),
     display="vasconcellos",
     authors="Vasconcellos, Francisco JS and Landre, Geraldo B and Cunha, José Adson OG and Oliveira, Juliano L and Ferreira, Ronaldo A and Vincenzi, Auri MR",
     place=JSS,
