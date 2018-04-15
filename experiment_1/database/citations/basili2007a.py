@@ -37,9 +37,9 @@ from ..work.y2012 import münch2012b
 from ..work.y2012 import münch2012c
 from ..work.y2012 import molina2012a
 from ..work.y2012 import asghari2012a
-from ..work.y2012 import mandić2012a
 from ..work.y2012 import casare2012a
 from ..work.y2012 import cervantes2012a
+from ..work.y2012 import mandic2012a
 from ..work.y2013 import kelanti2013a
 from ..work.y2013 import ellis2013a
 from ..work.y2013 import ellis2013b
@@ -67,10 +67,7 @@ from ..work.y2017 import pérez2017a
 from ..work.y2017 import jayatilleke2017a
 from ..work.y2017 import mughal2017a
 from ..work.y2017 import monden2017a
-from ..work.y2017 import lang2017a
-from ..work.y2017 import lang2017ab
 from ..work.y9999 import chaos9999a
-from ..work.y9999 import trendowicz9999a
 from ..work.y9999 import pinto9999a
 
 DB(Citation(
@@ -431,7 +428,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    mandić2012a, basili2007a, ref="",
+    mandic2012a, basili2007a, ref="",
     contexts=[
 
     ],
@@ -522,28 +519,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    trendowicz9999a, basili2007a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017a, basili2007a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     pinto9999a, basili2007a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017ab, basili2007a, ref="",
     contexts=[
 
     ],

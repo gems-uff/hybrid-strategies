@@ -70,6 +70,7 @@ angles2013a = DB(WorkUnrelated(
     ID="6577699",
     ieee="1",
     placex="IEEE 7th International Conference on Research Challenges in Information Science (RCIS)",
+    ieee2015="1",
 ))
 
 arcilla2013a = DB(WorkUnrelated(
@@ -89,6 +90,7 @@ arcilla2013a = DB(WorkUnrelated(
     ID="Arcilla201342",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2015="1",
 ))
 
 ardila2013a = DB(WorkUnrelated(
@@ -140,6 +142,8 @@ aversano2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=12944648314111661539&as_sdt=2005&sciodt=0,5&hl=en",
     publisher="Elsevier",
     gs="1",
+    cluster_id="12944648314111661539",
+    sciencedirect2015="1",
 ))
 
 baca2013a = DB(WorkUnrelated(
@@ -159,6 +163,7 @@ baca2013a = DB(WorkUnrelated(
     ID="Baca20132411",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 barcellos2013a = DB(WorkUnrelated(
@@ -174,6 +179,7 @@ barcellos2013a = DB(WorkUnrelated(
     ID="barcellos2013strategy",
     gs="1",
     placex="Journal of the Brazilian Computer Society",
+    springer2015="1",
 ))
 
 barn2013a = DB(WorkUnrelated(
@@ -205,6 +211,9 @@ basili2013a = DB(WorkUnrelated(
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     scholar="http://scholar.google.com/scholar?cites=9467926839729077347&as_sdt=2005&sciodt=0,5&hl=en",
+    organization="Springer",
+    cluster_id="9467926839729077347",
+    elcompendex2015="1",
 ))
 
 bjarnason2013a = DB(WorkUnrelated(
@@ -286,6 +295,7 @@ chouseinoglou2013a = DB(WorkUnrelated(
     ID="Chouseinoglou20131904",
     sciencedirect="1",
     placex="Information and Software Technology",
+    acm2015="1",
 ))
 
 cuenca2013a = DB(WorkUnrelated(
@@ -305,6 +315,7 @@ cuenca2013a = DB(WorkUnrelated(
     ID="Cuenca2013898",
     sciencedirect="1",
     placex="Computers in Industry",
+    sciencedirect2015="1",
 ))
 
 curiel2013a = DB(WorkUnrelated(
@@ -334,6 +345,7 @@ daneva2013a = DB(WorkUnrelated(
     ID="Daneva20131333",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 doerr2013a = DB(WorkUnrelated(
@@ -491,6 +503,7 @@ garcíaguzmán2013a = DB(WorkUnrelated(
     ID="GarcíaGuzmán201333",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2015="1",
 ))
 
 garzás2013a = DB(WorkUnrelated(
@@ -510,6 +523,7 @@ garzás2013a = DB(WorkUnrelated(
     ID="Garzás2013616",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2015="1",
 ))
 
 gencel2013a = DB(WorkUnrelated(
@@ -530,6 +544,9 @@ gencel2013a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     scholar="http://scholar.google.com/scholar?cites=18058320781439869662&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Elsevier",
+    cluster_id="18058320781439869662",
+    sciencedirect2015="1",
 ))
 
 giannoulis2013a = DB(WorkUnrelated(
@@ -650,6 +667,7 @@ herranz2013a = DB(WorkUnrelated(
     ID="Herranz2013129",
     sciencedirect="1",
     placex="Procedia Technology",
+    sciencedirect2015="1",
 ))
 
 huang2013a = DB(WorkUnrelated(
@@ -763,6 +781,7 @@ kasoju2013a = DB(WorkUnrelated(
     ID="Kasoju20131237",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 kasurinen2013a = DB(WorkUnrelated(
@@ -848,40 +867,27 @@ kowalczyk2013a = DB(WorkUnrelated(
 ))
 
 lang2013a = DB(WorkUnrelated(
-    2013, "lang",
-    alias=(2013, "lang",),
-    display="lang2013",
-    authors="lang",
-    place=FAKE,
-    pp="1--75",
-    entrytype="article",
-    publisher="",
-    ID="2013",
-    placex="japones",
-))
-
-lang2013b = DB(WorkUnrelated(
-    2013, "Kano",
+    2013, "소프트웨어 개선을 위한 사용자 경험 수준 기반의 Kano 모델 적용",
     display="lang",
-    authors="lang and lang",
+    authors="한혁수 and 김문학",
     place=FAKE,
     pp="511--513",
     entrytype="article",
-    ID="2013",
-    placex="japones",
+    ID="한혁수2013소프트웨어",
+    placex="한국정보과학회 학술발표논문집",
 ))
 
-lang2013c = DB(WorkUnrelated(
-    2013, " Kano ",
+lang2013b = DB(WorkUnrelated(
+    2013, "소프트웨어 개선을 위한 사용자 그룹 기반의 Kano 모델 적용 방안",
     display="lang",
-    authors="lang and lang",
+    authors="한혁수 and 김문학",
     place=FAKE,
     pp="675--683",
     entrytype="article",
     volume="40",
     number="11",
-    ID="2013",
-    placex="japones",
+    ID="한혁수2013소프트웨어",
+    placex="정보과학회논문지: 소프트웨어 및 응용",
 ))
 
 lavazza2013a = DB(WorkUnrelated(
@@ -969,6 +975,7 @@ maglyas2013a = DB(WorkUnrelated(
     ID="Maglyas20133071",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 makris2013a = DB(WorkUnrelated(
@@ -1016,6 +1023,7 @@ martini2013a = DB(WorkUnrelated(
     ID="martini2013communication",
     gs="1",
     placex="Proceedings of the 17th international software product line conference",
+    acm2015="1",
 ))
 
 martínez2013a = DB(WorkUnrelated(
@@ -1087,6 +1095,7 @@ mite2013a = DB(WorkUnrelated(
     ID="mite20131054",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 münch2013a = DB(WorkSnowball(
@@ -1101,6 +1110,7 @@ münch2013a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=3182239711427877041&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="3182239711427877041",
     scholar_ok=True,
+    selected_order="41",
 ))
 
 münch2013c = DB(WorkSnowball(
@@ -1121,6 +1131,7 @@ münch2013c = DB(WorkSnowball(
     other1="Santander, Spain, September",
     scholar_ok=True,
     final_selected="1",
+    selected_order="40",
 ))
 
 münch2013d = DB(WorkUnrelated(
@@ -1289,6 +1300,7 @@ rinkevics2013a = DB(WorkUnrelated(
     ID="Rinkevics2013267",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 rocha2013a = DB(WorkUnrelated(
@@ -1362,6 +1374,7 @@ stallinger2013a = DB(WorkSnowball(
     scholar="  ",
     placex="International Conference on Software Quality",
     scholar_ok=True,
+    selected_order="28",
 ))
 
 strate2013a = DB(WorkUnrelated(

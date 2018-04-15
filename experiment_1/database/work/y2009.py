@@ -41,6 +41,10 @@ albuquerque2009a = DB(WorkSnowball(
     cluster_id="265744665272195211",
     scholar_ok=True,
     final_selected="1",
+    selected_order="14",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 albuquerque2009b = DB(WorkUnrelated(
@@ -416,6 +420,7 @@ galinac2009a = DB(WorkUnrelated(
     scopus="1",
     sciencedirect="1",
     placex="Information and Software Technology",
+    scopus2015="1",
 ))
 
 garcia2009a = DB(WorkUnrelated(
@@ -516,6 +521,7 @@ hsiao2009a = DB(WorkUnrelated(
     ID="Hsiao20092576",
     sciencedirect="1",
     placex="Information Sciences",
+    sciencedirect2015="1",
 ))
 
 huang2009a = DB(WorkUnrelated(
@@ -583,6 +589,7 @@ karhu2009a = DB(WorkUnrelated(
     ID="Karhu2009663",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 kettunen2009a = DB(WorkUnrelated(
@@ -602,6 +609,7 @@ kettunen2009a = DB(WorkUnrelated(
     ID="Kettunen2009408",
     sciencedirect="1",
     placex="Technovation",
+    sciencedirect2015="1",
 ))
 
 kettunen2009b = DB(WorkUnrelated(
@@ -640,18 +648,6 @@ lami2009a = DB(WorkUnrelated(
     ID="lami2009iso",
     gs="1",
     placex="International Conference on Agile Processes and Extreme Programming in Software Engineering",
-))
-
-lang2009a = DB(WorkUnrelated(
-    2009, "lang",
-    display="lang",
-    authors="lang",
-    place=FAKE,
-    entrytype="article",
-    number="3 (79)",
-    publisher="lang",
-    ID="2009",
-    placex="outra lingua",
 ))
 
 laporte2009a = DB(WorkUnrelated(
@@ -726,6 +722,7 @@ loikkanen2009a = DB(WorkUnrelated(
     ID="Loikkanen20091177",
     sciencedirect="1",
     placex="Technological Forecasting and Social Change",
+    sciencedirect2015="1",
 ))
 
 lorentz2009a = DB(WorkUnrelated(
@@ -772,6 +769,7 @@ marew2009a = DB(WorkUnrelated(
     ID="Marew20091642",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 martins2009a = DB(WorkUnrelated(
@@ -1002,6 +1000,7 @@ petersen2009a = DB(WorkUnrelated(
     ID="Petersen20091479",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 petersen2009b = DB(WorkUnrelated(
@@ -1100,6 +1099,7 @@ runeson2009a = DB(WorkUnrelated(
     doi="10.1007/s10664-008-9102-8",
     note="cited By 1062",
     ID="Runeson2009131",
+    springer2015="1",
 ))
 
 saidani2009a = DB(WorkUnrelated(
@@ -1119,6 +1119,7 @@ saidani2009a = DB(WorkUnrelated(
     placex="2009 Third International Conference on Research Challenges in Information Science",
     organization="IEEE",
     gs="1",
+    ieee2015="1",
 ))
 
 santos2009a = DB(WorkUnrelated(
@@ -1152,6 +1153,7 @@ sheetz2009a = DB(WorkUnrelated(
     ID="Sheetz20091540",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 singh2009a = DB(WorkUnrelated(
@@ -1268,7 +1270,7 @@ trendowicz2009a = DB(WorkUnrelated(
     placex="",
 ))
 
-trienekens2009a = DB(WorkSnowball(
+trienekens2009a = DB(WorkSnowball( # 22
     2009, "Entropy based software processes improvement",
     display="trienekens",
     authors="Trienekens, Jos JM and Kusters, Rob and Kriek, Dirk and Siemons, Paul",
@@ -1289,6 +1291,8 @@ trienekens2009a = DB(WorkSnowball(
     scholar_ok=True,
     placex="Software Quality Journal",
     final_selected="1",
+    selected_order="7",
+    springer2015="1",
 ))
 
 umarji2009a = DB(WorkUnrelated(
@@ -1303,6 +1307,7 @@ umarji2009a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Umarji2009236",
     placex="2009 3rd International Symposium on Empirical Software Engineering and Measurement, ESEM 2009",
+    acm2015="1",
 ))
 
 umarji2009b = DB(WorkUnrelated(
@@ -1318,6 +1323,7 @@ umarji2009b = DB(WorkUnrelated(
     cluster_id="13714712985798808555",
     scholar="http://scholar.google.com/scholar?cites=13714712985798808555&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE software",
+    ieee2015="1",
 ))
 
 vieira2009a = DB(WorkUnrelated(
@@ -1335,6 +1341,8 @@ vieira2009a = DB(WorkUnrelated(
     scopus="1",
     elcompendex="1",
     placex="9th International Conference on Software Process Improvement and Capability Determination, SPICE 2009 - Proceedings",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 walia2009a = DB(WorkUnrelated(
@@ -1356,6 +1364,7 @@ walia2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=17247532139566526685&as_sdt=2005&sciodt=0,5&hl=en",
+    sciencedirect2015="1",
 ))
 
 walia2009b = DB(WorkUnrelated(

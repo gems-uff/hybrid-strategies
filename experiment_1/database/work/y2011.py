@@ -28,6 +28,7 @@ ahmed2011a = DB(WorkUnrelated(
     ID="Ahmed2011",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+    springer2015="1",
 ))
 
 andersen2011a = DB(WorkUnrelated(
@@ -47,6 +48,7 @@ andersen2011a = DB(WorkUnrelated(
     ID="Andersen2011439",
     sciencedirect="1",
     placex="Government Information Quarterly",
+    sciencedirect2015="1",
 ))
 
 asato2011a = DB(WorkUnrelated(
@@ -66,6 +68,7 @@ asato2011a = DB(WorkUnrelated(
     source="Scopus",
     ID="Asato2011314",
     scopus="1",
+    scopus2015="1",
 ))
 
 asato2011b = DB(WorkUnrelated(
@@ -117,6 +120,7 @@ ayala2011a = DB(WorkUnrelated(
     ID="Ayala2011620",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 ayala2011b = DB(WorkUnrelated(
@@ -274,6 +278,7 @@ birkhölzer2011a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="3017099736566045289",
     scholar_ok=True,
+    selected_order="47",
 ))
 
 birkhölzer2011b = DB(WorkUnrelated(
@@ -319,6 +324,7 @@ cai2011a = DB(WorkUnrelated(
     ID="6128019",
     ieee="1",
     placex="2011 IEEE Asia-Pacific Services Computing Conference",
+    ieee2015="1",
 ))
 
 cantor2011a = DB(WorkUnrelated(
@@ -502,6 +508,8 @@ esfahani2011a = DB(WorkSnowball(
     cluster_id="13891228873136254123",
     scholar_ok=True,
     final_selected="1",
+    selected_order="18",
+    acm2015="1",
 ))
 
 esfahani2011b = DB(WorkUnrelated(
@@ -634,6 +642,7 @@ goknil2011a = DB(WorkUnrelated(
     ID="Goknil2011",
     springer="1",
     placex="Software {&} Systems Modeling",
+    springer2015="1",
 ))
 
 gruner2011a = DB(WorkUnrelated(
@@ -714,6 +723,7 @@ iden2011a = DB(WorkUnrelated(
     ID="Iden2011394",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 ivarsson2011a = DB(WorkUnrelated(
@@ -817,7 +827,7 @@ jiang2011a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
-kaneko2011a = DB(WorkSnowball(
+kaneko2011a = DB(WorkSnowball( # 15
     2011, "Application of GQM+ Strategies{	extregistered} in the Japanese space industry",
     display="kaneko",
     authors="Kaneko, Tatsuya and Katahira, Masafumi and Miyamoto, Yuko and Kowalczyk, Martin",
@@ -841,6 +851,7 @@ kaneko2011a = DB(WorkSnowball(
     gs="1",
     ieee="1",
     final_selected="1",
+    selected_order="5",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -860,6 +871,7 @@ kannabiran2011a = DB(WorkUnrelated(
     ID="Kannabiran20111199",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 karg2011a = DB(WorkUnrelated(
@@ -935,12 +947,13 @@ lane2011a = DB(WorkUnrelated(
     ID="Lane2011424",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 lang2011a = DB(WorkUnrelated(
-    2011, "lang",
+    2011, "Оценка и управление качеством процесса разработки программного обеспечения на основе моделей зрелости",
     display="",
-    authors="lang",
+    authors="Шеховцов, ВА and Годлевский, МД and Брагинский, ИЛ",
     place=FAKE,
     pp="22--27",
     entrytype="article",
@@ -953,10 +966,10 @@ lang2011a = DB(WorkUnrelated(
     placex="outra lingua",
 ))
 
-lang2011ab = DB(WorkUnrelated(
+lang2011b = DB(WorkUnrelated(
     2011, "Maturity model-based software process quality assessment and management",
     display="lang",
-    authors="lang",
+    authors="Шеховцов, Владимир Анатольевич and Годлевский, Михаил Дмитриевич and Брагинский, Игорь Львович",
     place=FAKE,
     pp="22--27",
     entrytype="article",
@@ -964,6 +977,21 @@ lang2011ab = DB(WorkUnrelated(
     number="2 (53)",
     ID="2011maturity",
     placex="Eastern-European Journal of Enterprise Technologies",
+))
+
+lang2011c = DB(WorkUnrelated(
+    2011, "基于证据的可信软件过程评估方法",
+    display="lang",
+    authors="杜晶 and 杨叶 and 王青 and 李明树 and others",
+    place=FAKE,
+    pp="501--512",
+    entrytype="article",
+    volume="5",
+    number="6",
+    ID="杜晶2011基于证据的可信软件过程评估方法",
+    cluster_id="2869822795417920585",
+    scholar="http://scholar.google.com/scholar?cites=2869822795417920585&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Frontiers of Computer Science and Technology",
 ))
 
 lavazza2011a = DB(WorkUnrelated(
@@ -1236,6 +1264,10 @@ plösch2011a = DB(WorkSnowball(
     cluster_id="17290858405010918108",
     scholar_ok=True,
     final_selected="1",
+    selected_order="13",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 ponisio2011a = DB(WorkUnrelated(
@@ -1321,6 +1353,7 @@ rychkova2011a = DB(WorkUnrelated(
     placex="2011 44th Hawaii International Conference on System Sciences",
     organization="IEEE",
     gs="1",
+    ieee2015="1",
 ))
 
 saetang2011a = DB(WorkUnrelated(
@@ -1402,6 +1435,9 @@ stallinger2011a = DB(WorkUnrelated(
     webofscience="1",
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 staron2011a = DB(WorkUnrelated(
@@ -1437,6 +1473,7 @@ suomalainen2011a = DB(WorkUnrelated(
     ID="Suomalainen2011958",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 tahir2011a = DB(WorkUnrelated(
@@ -1496,6 +1533,7 @@ trendowicz2011a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="2354941768345762676",
     scholar_ok=True,
+    selected_order="43",
 ))
 
 tsunoda2011a = DB(WorkUnrelated(

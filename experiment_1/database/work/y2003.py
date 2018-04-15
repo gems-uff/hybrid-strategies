@@ -261,6 +261,7 @@ dawson2003a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Dawson2003243",
     placex="Software Quality Journal",
+    springer2015="1",
 ))
 
 dybå2003a = DB(WorkUnrelated(
@@ -589,19 +590,6 @@ kurtz2003a = DB(WorkUnrelated(
     placex="IBM Systems Journal",
 ))
 
-lang2003a = DB(WorkUnrelated(
-    2003, "lang IDEAL lang?",
-    display="lang",
-    authors="lang and lang and lang",
-    place=FAKE,
-    pp="18--22",
-    entrytype="article",
-    volume="26",
-    number="8",
-    ID="2003",
-    placex="japones",
-))
-
 lawler2003a = DB(WorkUnrelated(
     2003, "Measurement modeling technology",
     display="lawler",
@@ -718,6 +706,7 @@ murugappan2003a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=2260168261813974705&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="2260168261813974705",
     scholar_ok=True,
+    selected_order="50",
 ))
 
 neiger2003a = DB(WorkUnrelated(

@@ -158,6 +158,7 @@ ebert1999a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
     publisher="Elsevier",
     gs="1",
+    sciencedirect2015="1",
 ))
 
 ebert1999b = DB(WorkUnrelated(
@@ -177,6 +178,7 @@ ebert1999b = DB(WorkUnrelated(
     ID="Ebert199917",
     sciencedirect="1",
     placex="International Journal of Project Management",
+    sciencedirect2015="1",
 ))
 
 emam1999a = DB(WorkUnrelated(
@@ -230,6 +232,7 @@ garbett1999a = DB(WorkUnrelated(
     ID="Garbett1999417",
     sciencedirect="1",
     placex="Microprocessors and Microsystems",
+    sciencedirect2015="1",
 ))
 
 halloran1999a = DB(WorkUnrelated(
@@ -370,6 +373,7 @@ messnarz1999a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=7398280582288886688&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="7398280582288886688",
     scholar_ok=True,
+    selected_order="23",
 ))
 
 prahalad1999a = DB(WorkUnrelated(
@@ -411,6 +415,7 @@ raffo1999a = DB(WorkUnrelated(
     ID="Raffo1999163",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 rautiainen1999a = DB(WorkUnrelated(
@@ -527,7 +532,7 @@ solingen1999b = DB(WorkUnrelated(
     placex="McGraw-Hill, New York",
 ))
 
-sommerville1999a = DB(WorkSnowball(
+sommerville1999a = DB(WorkSnowball( # 56
     1999, "Managing process inconsistency using viewpoints",
     display="sommerville",
     authors="Sommerville, Ian and Sawyer, Peter and Viller, Stephen",
@@ -549,6 +554,8 @@ sommerville1999a = DB(WorkSnowball(
     ieee="1",
     placex="IEEE Transactions on Software Engineering",
     final_selected="1",
+    selected_order="10",
+    ieee2015="1",
 ))
 
 sytsma1999a = DB(WorkUnrelated(

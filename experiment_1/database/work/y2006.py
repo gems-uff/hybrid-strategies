@@ -56,6 +56,7 @@ andersen2006a = DB(WorkUnrelated(
     ID="Andersen2006236",
     sciencedirect="1",
     placex="Government Information Quarterly",
+    sciencedirect2015="1",
 ))
 
 ardimento2006a = DB(WorkUnrelated(
@@ -214,6 +215,7 @@ cater2006a = DB(WorkUnrelated(
     cluster_id="16182669652479205732",
     scholar="http://scholar.google.com/scholar?cites=16182669652479205732&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 cater2006b = DB(WorkUnrelated(
@@ -457,6 +459,7 @@ gorschek2006a = DB(WorkUnrelated(
     ID="Gorschek2006",
     springer="1",
     placex="Requirements Engineering",
+    springer2015="1",
 ))
 
 gorschek2006b = DB(WorkUnrelated(
@@ -643,6 +646,7 @@ kishore2006a = DB(WorkUnrelated(
     ID="Kishore200648",
     sciencedirect="1",
     placex="Decision Support Systems",
+    sciencedirect2015="1",
 ))
 
 komuro2006a = DB(WorkUnrelated(
@@ -656,6 +660,7 @@ komuro2006a = DB(WorkUnrelated(
     ID="komuro2006experiences",
     gs="1",
     placex="Proceedings of the 28th international conference on Software engineering",
+    acm2015="1",
 ))
 
 kwak2006a = DB(WorkUnrelated(
@@ -672,29 +677,6 @@ kwak2006a = DB(WorkUnrelated(
     cluster_id="16961248342193391968",
     scholar="http://scholar.google.com/scholar?cites=16961248342193391968&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Technovation",
-))
-
-lang2006a = DB(WorkUnrelated(
-    2006, "lang",
-    display="lang",
-    authors="lang and and ",
-    place=FAKE,
-    pp="21--40",
-    entrytype="article",
-    volume="7",
-    number="6",
-    ID="2006",
-    placex="japones",
-))
-
-lang2006ab = DB(WorkUnrelated(
-    2006, "lang 6  PSP",
-    display="lang",
-    authors="lang and lang y and lang and lang h",
-    place=FAKE,
-    entrytype="article",
-    ID="2006",
-    placex="japones",
 ))
 
 leih2006a = DB(WorkUnrelated(
@@ -746,6 +728,7 @@ liu2006a = DB(WorkSnowball(
     cluster_id="18358451812604453084",
     scholar_ok=True,
     placex="Software Process Improvement and Practice",
+    selected_order="46",
 ))
 
 liu2006b = DB(WorkUnrelated(
@@ -889,6 +872,7 @@ park2006a = DB(WorkUnrelated(
     placex="2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)",
     organization="IEEE",
     gs="1",
+    ieee2015="1",
 ))
 
 pu2006a = DB(WorkUnrelated(
@@ -922,6 +906,7 @@ pérez2006a = DB(WorkUnrelated(
     ID="Pérez2006161",
     sciencedirect="1",
     placex="Electronic Notes in Theoretical Computer Science",
+    sciencedirect2015="1",
 ))
 
 redzic2006a = DB(WorkUnrelated(
@@ -1158,4 +1143,5 @@ xu2006a = DB(WorkUnrelated(
     ID="Xu20061504",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))

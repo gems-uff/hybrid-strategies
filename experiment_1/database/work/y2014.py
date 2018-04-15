@@ -60,6 +60,7 @@ ali2014a = DB(WorkUnrelated(
     ID="Ali201465",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 alshehri2014a = DB(WorkUnrelated(
@@ -158,6 +159,7 @@ barzilay2014a = DB(WorkUnrelated(
     ID="Barzilay20141613",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 basili2014a = DB(WorkUnrelated(
@@ -228,6 +230,7 @@ baskerville2014a = DB(WorkUnrelated(
     ID="Baskerville2014138",
     sciencedirect="1",
     placex="Information & Management",
+    sciencedirect2015="1",
 ))
 
 becker2014a = DB(WorkUnrelated(
@@ -427,6 +430,7 @@ cocozza2014a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=11421519945726743811&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product-Focused Software Process Improvement",
     scholar_ok=True,
+    selected_order="25",
 ))
 
 costa2014a = DB(WorkUnrelated(
@@ -501,6 +505,7 @@ delgado2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     publisher="Elsevier",
     gs="1",
+    sciencedirect2015="1",
 ))
 
 diirr2014a = DB(WorkUnrelated(
@@ -517,6 +522,7 @@ diirr2014a = DB(WorkUnrelated(
     ID="Diirr2014",
     springer="1",
     placex="Journal of Software Engineering Research and Development",
+    springer2015="1",
 ))
 
 dumke2014a = DB(WorkUnrelated(
@@ -558,6 +564,7 @@ eito2014a = DB(WorkUnrelated(
     ID="Eito-Brun2014",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+    springer2015="1",
 ))
 
 fagerholm2014a = DB(WorkUnrelated(
@@ -586,6 +593,7 @@ falessi2014a = DB(WorkUnrelated(
     publisher="ACM",
     ID="falessi2014trends",
     placex="ACM SIGSOFT Software Engineering Notes",
+    acm2015="1",
 ))
 
 felderer2014a = DB(WorkUnrelated(
@@ -602,6 +610,7 @@ felderer2014a = DB(WorkUnrelated(
     ID="Felderer2014",
     springer="1",
     placex="International Journal on Software Tools for Technology Transfer",
+    springer2015="1",
 ))
 
 ferreira2014a = DB(WorkUnrelated(
@@ -632,6 +641,7 @@ fontana2014a = DB(WorkUnrelated(
     ID="Fontana2014140",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 ghanavati2014a = DB(WorkUnrelated(
@@ -705,6 +715,7 @@ gleirscher2014a = DB(WorkUnrelated(
     cluster_id="4140243515403100207",
     scholar="http://scholar.google.com/scholar?cites=4140243515403100207&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Quality Journal",
+    springer2015="1",
 ))
 
 glykas2014a = DB(WorkUnrelated(
@@ -763,6 +774,7 @@ hustad2014a = DB(WorkUnrelated(
     ID="Hustad2014684",
     sciencedirect="1",
     placex="Procedia Technology",
+    sciencedirect2015="1",
 ))
 
 huysmans2014a = DB(WorkUnrelated(
@@ -967,15 +979,29 @@ kudryashova2014a = DB(WorkUnrelated(
 ))
 
 lang2014a = DB(WorkUnrelated(
-    2014, "lang",
+    2014, "操作性要求の定義手法の比較",
     display="lang",
-    authors="lang and lang and lang",
+    authors="山本修一郎",
+    place=FAKE,
+    pp="47--52",
+    entrytype="article",
+    volume="114",
+    number="292",
+    publisher="一般社団法人電子情報通信学会",
+    ID="山本修一郎2014操作性要求の定義手法の比較",
+    placex="電子情報通信学会技術研究報告. KBSE, 知能ソフトウェア工学",
+))
+
+lang2014b = DB(WorkUnrelated(
+    2014, "基于组织结构的机械型组织绩效管理",
+    display="lang",
+    authors="薛桐 and 孟溦 and 刘文斌",
     place=FAKE,
     pp="189--199",
     entrytype="article",
     number="5",
-    ID="2014",
-    placex="japones",
+    ID="薛桐2014基于组织结构的机械型组织绩效管理",
+    placex="经济管理",
 ))
 
 lepmets2014a = DB(WorkSnowball(
@@ -994,6 +1020,7 @@ lepmets2014a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="13841680928583455244",
     scholar_ok=True,
+    selected_order="33",
 ))
 
 lepmets2014b = DB(WorkUnrelated(
@@ -1099,6 +1126,8 @@ mitrehernández2014a = DB(WorkUnrelated(
     ID="MitreHernández2014253",
     sciencedirect="1",
     placex="Ingeniería, Investigación y Tecnología",
+    publisher="Elsevier",
+    webofscience2015="1",
 ))
 
 muñoz2014a = DB(WorkUnrelated(
@@ -1132,6 +1161,7 @@ nielsen2014a = DB(WorkUnrelated(
     ID="Nielsen2014411",
     sciencedirect="1",
     placex="Government Information Quarterly",
+    sciencedirect2015="1",
 ))
 
 nieters2014a = DB(WorkUnrelated(
@@ -1217,6 +1247,7 @@ orta2014a = DB(WorkUnrelated(
     ID="Orta201436",
     sciencedirect="1",
     placex="Decision Support Systems",
+    sciencedirect2015="1",
 ))
 
 paternoster2014a = DB(WorkUnrelated(
@@ -1237,6 +1268,9 @@ paternoster2014a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Information and Software Technology",
     scholar="http://scholar.google.com/scholar?cites=18287134524021887105&as_sdt=2005&sciodt=0,5&hl=en",
+    publisher="Elsevier",
+    cluster_id="18287134524021887105",
+    sciencedirect2015="1",
 ))
 
 petersen2014a = DB(WorkUnrelated(
@@ -1447,6 +1481,7 @@ sulayman2014a = DB(WorkUnrelated(
     ID="Sulayman2014807",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 suominen2014a = DB(WorkUnrelated(
@@ -1463,6 +1498,7 @@ suominen2014a = DB(WorkUnrelated(
     cluster_id="8687673026515709180",
     scholar="http://scholar.google.com/scholar?cites=8687673026515709180&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Quality Journal",
+    springer2015="1",
 ))
 
 teixeira2014a = DB(WorkUnrelated(
@@ -1535,6 +1571,7 @@ trendowicz2014a = DB(WorkSnowball(
     placex="",
     scholar_ok=True,
     final_selected="1",
+    selected_order="39",
 ))
 
 trendowicz2014b = DB(WorkUnrelated(
@@ -1577,6 +1614,7 @@ unterkalmsteiner2014a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=3992581102195270532&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
     scholar_ok=True,
+    selected_order="26",
 ))
 
 verner2014a = DB(WorkUnrelated(
@@ -1615,6 +1653,7 @@ verner2014b = DB(WorkUnrelated(
     ID="Verner201454",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 vezzetti2014a = DB(WorkUnrelated(

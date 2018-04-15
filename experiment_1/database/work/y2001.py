@@ -819,6 +819,7 @@ mohapatra2001a = DB(WorkUnrelated(
     placex="Proceedings IEEE International Conference on Software Maintenance. ICSM 2001",
     organization="IEEE Computer Society",
     gs="1",
+    ieee2015="1",
 ))
 
 niessink2001a = DB(WorkUnrelated(
@@ -838,6 +839,7 @@ niessink2001a = DB(WorkUnrelated(
     ID="Niessink2001617",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 peppard2001a = DB(WorkUnrelated(
@@ -1060,6 +1062,7 @@ varkoi2001a = DB(WorkUnrelated(
     ID="990040",
     ieee="1",
     placex="Proceedings Second Asia-Pacific Conference on Quality Software",
+    ieee2015="1",
 ))
 
 vohwinkel2001a = DB(WorkUnrelated(
@@ -1088,7 +1091,7 @@ vázquez2001a = DB(WorkUnrelated(
     placex="",
 ))
 
-waina2001a = DB(WorkSnowball(
+waina2001a = DB(WorkSnowball( # 2
     2001, "A business goal-based approach to achieving systems engineering capability maturity",
     display="waina",
     authors="Waina, RB",
@@ -1106,6 +1109,8 @@ waina2001a = DB(WorkSnowball(
     organization="IEEE",
     scholar_ok=True,
     final_selected="1",
+    selected_order="1",
+    ieee2015="1",
 ))
 
 waina2001b = DB(WorkUnrelated(

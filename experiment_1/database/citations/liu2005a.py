@@ -19,17 +19,13 @@ from ..work.y2002 import richardson2002a
 from ..work.y2003 import frank2003a
 from ..work.y2005 import liu2005a
 from ..work.y2006 import wong2006a
-from ..work.y2007 import lang2007a
-from ..work.y2008 import lang2008a
 from ..work.y2009 import lorentz2009a
 from ..work.y2010 import fruehwirth2010a
 from ..work.y2010 import cancian2010a
 from ..work.y2010 import shah2010a
-from ..work.y2010 import lang2010a
 from ..work.y2011 import sharma2011a
 from ..work.y2012 import yihong2012a
 from ..work.y2012 import leba2012a
-from ..work.y2013 import lang2013a
 
 DB(Citation(
     liu2005a, iso2001a, ref="",
@@ -181,34 +177,6 @@ DB(Citation(
 
 DB(Citation(
     lorentz2009a, liu2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2013a, liu2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2007a, liu2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2010a, liu2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2008a, liu2005a, ref="",
     contexts=[
 
     ],

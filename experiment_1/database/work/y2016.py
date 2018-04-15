@@ -3,20 +3,6 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
-Lang2016a = DB(WorkUnrelated(
-    2016, "QFD APP",
-    alias=("2016", "?? QFD ???????? APP ????????", "??? and ???"),
-    display="Lang",
-    authors="Lang",
-    place=FAKE,
-    pp="95--99",
-    entrytype="article",
-    volume="37",
-    number="14",
-    ID="2016",
-    placex="japones",
-))
-
 aarts2016a = DB(WorkUnrelated(
     2016, "The Bridge of Dreams",
     alias=(0, "The Bridge of Dreams",),
@@ -302,6 +288,8 @@ khalifa2016a = DB(WorkUnrelated(
     ID="al2016impact",
     local="Brunel University London",
     placex="",
+    cluster_id="5949097719516688840",
+    scholar="http://scholar.google.com/scholar?cites=5949097719516688840&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 khan2016a = DB(WorkUnrelated(

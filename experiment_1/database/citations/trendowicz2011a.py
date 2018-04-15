@@ -25,7 +25,6 @@ from ..work.y2016 import jaramillo2016a
 from ..work.y2017 import shimura2017a
 from ..work.y2017 import mandić2017a
 from ..work.y2017 import zapata2017a
-from ..work.y9999 import trendowicz9999a
 
 DB(Citation(
     trendowicz2011a, accenture2004a, ref="",
@@ -162,13 +161,6 @@ DB(Citation(
 
 DB(Citation(
     zapata2017a, trendowicz2011a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    trendowicz9999a, trendowicz2011a, ref="",
     contexts=[
 
     ],

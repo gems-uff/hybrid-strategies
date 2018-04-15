@@ -697,18 +697,6 @@ komi2004a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8551981001708584514&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
-lang2004a = DB(WorkUnrelated(
-    2004, "lang CMMI lang?",
-    display="lang",
-    authors="lang and lang and lang and others",
-    place=Thesis,
-    entrytype="phdthesis",
-    ID="2004",
-    cluster_id="444924159131770945",
-    scholar="http://scholar.google.com/scholar?cites=444924159131770945&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="japones",
-))
-
 larsson2004a = DB(WorkUnrelated(
     2004, "Selecting CMMI Appraisal Classes Based on Maturity and Openness",
     display="larsson",
@@ -1074,6 +1062,7 @@ trienekens2004a = DB(WorkSnowball(
     cluster_id="8937266215208447980",
     scholar_ok=True,
     final_selected="1",
+    selected_order="48",
 ))
 
 wilkie2004a = DB(WorkUnrelated(

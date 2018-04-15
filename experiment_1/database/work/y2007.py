@@ -49,6 +49,7 @@ allison2007a = DB(WorkUnrelated(
     ID="Allison2007668",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 alshawi2007a = DB(WorkUnrelated(
@@ -146,6 +147,7 @@ basili2007a = DB(WorkSnowball(
     cluster_id="7637490068372488266",
     scholar_ok=True,
     final_selected="1",
+    selected_order="38",
 ))
 
 basili2007b = DB(WorkSnowball(
@@ -165,6 +167,7 @@ basili2007b = DB(WorkSnowball(
     cluster_id="4602992281034403342",
     scholar_ok=True,
     final_selected="1",
+    selected_order="42",
 ))
 
 basili2007c = DB(WorkSnowball(
@@ -180,6 +183,7 @@ basili2007c = DB(WorkSnowball(
     cluster_id="11182405751794159179",
     scholar_ok=True,
     final_selected="1",
+    selected_order="51",
 ))
 
 brouwer2007a = DB(WorkUnrelated(
@@ -294,6 +298,7 @@ coleman2007a = DB(WorkUnrelated(
     note="cited By 91",
     ID="Coleman2007654",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 deng2007a = DB(WorkUnrelated(
@@ -502,6 +507,7 @@ habra2007a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Habra2007",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 huang2007a = DB(WorkUnrelated(
@@ -643,47 +649,7 @@ khurum2007a = DB(WorkUnrelated(
     placex="14th Asia-Pacific Software Engineering Conference (APSEC'07)",
     organization="IEEE",
     gs="1",
-))
-
-lang2007a = DB(WorkUnrelated(
-    2007, "CMMI",
-    display="lang",
-    authors=" and ",
-    place=FAKE,
-    pp="42--44",
-    entrytype="article",
-    volume="33",
-    number="19",
-    ID="??2007??",
-    cluster_id="8501142166461639099",
-    scholar="http://scholar.google.com/scholar?cites=8501142166461639099&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="?????",
-))
-
-lang2007ab = DB(WorkUnrelated(
-    2007, " CMM  6Sigma ",
-    display="lang",
-    authors="lang",
-    place=FAKE,
-    pp="26--29",
-    entrytype="article",
-    volume="17",
-    number="3",
-    ID="2007",
-    placex="japones",
-))
-
-lang2007c = DB(WorkUnrelated(
-    2007, "lang",
-    display="lang c",
-    authors="lang and lang and lang and lang",
-    place=FAKE,
-    pp="6--9",
-    entrytype="article",
-    volume="43",
-    number="22",
-    ID="2007",
-    placex="japones",
+    ieee2015="1",
 ))
 
 laru2007a = DB(WorkUnrelated(
@@ -771,6 +737,9 @@ martins2007a = DB(WorkUnrelated(
     elcompendex="1",
     organization="IEEE",
     scholar="http://scholar.google.com/scholar?cites=14606508088028730559&as_sdt=2005&sciodt=0,5&hl=en",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 martins2007b = DB(WorkSnowball(
@@ -785,6 +754,7 @@ martins2007b = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=7946057597675755240&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="7946057597675755240",
     scholar_ok=True,
+    selected_order="44",
 ))
 
 mcloone2007a = DB(WorkUnrelated(
@@ -814,7 +784,7 @@ montoni2007a = DB(WorkUnrelated(
     artnumber="4273471",
 ))
 
-montoni2007ab = DB(WorkUnrelated(
+montoni2007b = DB(WorkUnrelated(
     2007, "SETEMBRO DE 2007",
     alias=(0,"SETEMBRO DE 2007",),
     display="montoni",
@@ -1061,6 +1031,7 @@ sitnikova2007a = DB(WorkUnrelated(
     ID="Sitnikova2007",
     springer="1",
     placex="Innovations in Systems and Software Engineering",
+    springer2015="1",
 ))
 
 siviy2007a = DB(WorkUnrelated(
@@ -1162,6 +1133,7 @@ subramanian2007a = DB(WorkUnrelated(
     cluster_id="13026701191325789290",
     scholar="http://scholar.google.com/scholar?cites=13026701191325789290&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 sujaritha2007a = DB(WorkUnrelated(
@@ -1277,6 +1249,7 @@ verhoef2007a = DB(WorkUnrelated(
     ID="Verhoef2007247",
     sciencedirect="1",
     placex="Science of Computer Programming",
+    sciencedirect2015="1",
 ))
 
 walia2007a = DB(WorkUnrelated(
@@ -1333,7 +1306,7 @@ watson2007a = DB(WorkUnrelated(
     placex="Computer",
 ))
 
-wilkie2007a = DB(WorkSnowball(
+wilkie2007a = DB(WorkSnowball( # 10
     2007, "A Low-overhead method for software process appraisal",
     display="wilkie",
     authors="Wilkie, F George and Mc Caffery, Fergal and McFall, Donald and Lester, Neil and Wilkinson, Emmanuel",
@@ -1352,7 +1325,9 @@ wilkie2007a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=9041746887280427568&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="9041746887280427568",
     publisher="Wiley Online Library",
+    selected_order="2",
     scholar_ok=True,
+    scopus2015="1",
 ))
 
 yang2007a = DB(WorkUnrelated(

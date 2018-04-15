@@ -29,7 +29,7 @@ ayaz2017a = DB(WorkUnrelated(
 
 becker2017a = DB(WorkUnrelated(
     2017, "Tuning the analysis activity of quality evaluation strategies for different purposes",
-    alias=(0,"Tuning the analysis activity of quality evaluation strategies for different purposes",),
+    alias=(0, "Tuning the Analysis Activity of Quality Evaluation Strategies for different Purposes",),
     display="becker",
     authors="Becker, Pablo and Olsina, Luis",
     place=FAKE,
@@ -42,6 +42,7 @@ becker2017a = DB(WorkUnrelated(
 
 carmo2017a = DB(WorkUnrelated(
     2017, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management",
+    alias=(0, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management"),
     display="carmo",
     authors="Carmo, Adson and Fantinato, Marcelo and Thom, Lucinéia and Prado, Edmir and Spinola, Mauro and Hung, Patrick",
     place=FAKE,
@@ -220,55 +221,29 @@ kasurinen2017a = DB(WorkUnrelated(
 ))
 
 lang2017a = DB(WorkUnrelated(
-    2017, "QFD",
+    2017, "Система стратегического мониторинга и контроля нефтегазовых проектов: Цели-Фазы-Метрика+ Стратегии",
     display="lang",
-    authors="lang",
-    place=FAKE,
-    pp="20--31",
-    entrytype="article",
-    volume="47",
-    number="16",
-    ID="2017",
-    placex="japones",
-))
-
-lang2017ab = DB(WorkUnrelated(
-    2017, "lang",
-    display="lang",
-    authors="lang",
+    authors="Дашков, Роман Юрьевич",
     place=FAKE,
     pp="12--19",
     entrytype="article",
     number="9",
-    publisher="",
-    ID="2017",
-    placex="outra lingua",
+    publisher="Открытое акционерное общество Всероссийский научно-исследовательский институт организации, управления и экономики нефтегазовой промышленности",
+    ID="дашков2017система",
+    placex="Проблемы экономики и управления нефтегазовым комплексом",
 ))
 
 lang2017b = DB(WorkUnrelated(
-    2017, "lang",
+    2017, "Координация проектной и текущей деятельности на основе Метамодели Согласования Стратегий в нефтегазовой компании",
     display="lang",
-    authors="lang, lang",
+    authors="Дашков, Роман Юрьевич",
     place=FAKE,
     entrytype="article",
     volume="8",
     number="2 (30)",
-    publisher="lang {\guillemotleft}?????{\guillemotright}",
-    ID="lang2017",
-    placex="japones",
-))
-
-lang2017c = DB(WorkUnrelated(
-    2017, "lang",
-    display="lang",
-    authors="lang",
-    place=FAKE,
-    entrytype="article",
-    volume="8",
-    number="2 (30)",
-    publisher="",
-    ID="2017",
-    placex="outra lingua",
+    publisher="Общество с ограниченной ответственностью Издательский Дом {\guillemotleft}Наука{\guillemotright}",
+    ID="дашков2017координация",
+    placex="МИР (Модернизация. Инновации. Развитие)",
 ))
 
 li2017a = DB(WorkUnrelated(
@@ -308,7 +283,7 @@ marcos2017a = DB(WorkUnrelated(
     placex="Software Process Improvement (CIMPS), 2017 6th International Conference on",
 ))
 
-marcos2017ab = DB(WorkUnrelated(
+marcos2017b = DB(WorkUnrelated(
     2017, "HiSPI: Herramienta para iniciar la implementación de mejora de procesos de software a través de un método formal HiSPI: Tool to initiate software process improvement through a formal method",
     alias=( 0, "HiSPI: Herramienta para iniciar la implementación de mejora de procesos de software a través de un método formal HiSPI: Tool to initiate software process improvement through a formal method",
     ),
@@ -373,8 +348,10 @@ moraes2017a = DB(WorkUnrelated(
 
 moreira2017a = DB(WorkUnrelated(
     2017, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",
-    alias=(0,"INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",
-    ),
+    aliases=[
+        (0,"INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION",),
+        (0, "INSIGHTS: INSIGHTS: ANALYSIS OF THE PARADIGM OF THE PROVISION OF INFORMATION TECHNOLOGY SERVICES TO THE BRAZILIAN FEDERAL PUBLIC ADMINISTRATION.",),
+    ],
     display="moreira",
     authors="Moreira, Renata Teles",
     place=FAKE,
@@ -432,9 +409,11 @@ olsina2017a = DB(WorkUnrelated(
 
 pinheiro2017a = DB(WorkUnrelated(
     2017, "Active Gamification: A gamification process for successful gamification",
-    alias=(0,"Active Gamification: A gamification process for successful gamification",),
     display="pinheiro",
-    aliases=[(0,"Developing Modern Industrial Control Applications")],
+    aliases=[
+        (0,"Developing Modern Industrial Control Applications"),
+        (0,"Active Gamification: A gamification process for successful gamification.",),
+    ],
     authors="Pinheiro, Bruno Contessotto Bragan{ç}a",
     place=FAKE,
     entrytype="article",
@@ -621,16 +600,6 @@ tebes2017a = DB(WorkUnrelated(
     placex="XXIII Congreso Argentino de Ciencias de la Computación (La Plata, 2017).",
 ))
 
-tomaz2017 = DB(WorkUnrelated(
-    2017, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
-    display="tomaz",
-    authors="Tomaz, Daisy Ferreira Brito",
-    place=FAKE,
-    entrytype="article",
-    ID="tomazlinguagem",
-    placex="",
-))
-
 tomaz2017a = DB(WorkUnrelated(
     2017, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",
     alias=(0, "Linguagem de Padrões para apoiar o Planejamento de Medi{ç}ão para o Controle Estatístico de Processos de Software",),
@@ -699,6 +668,7 @@ vasconcellos2017a = DB(WorkUnrelated(
 
 vasconcellos2017b = DB(WorkUnrelated(
     2017, "Alinhamento estratégico de melhoria de processos de software: percep{ç}ões de um processo de apoio à decisão",
+    alias=(0, "Alinhamento estratégico de melhoria de processos de software: percep{ç}ões de um processo de apoio à decisão",),
     display="vasconcellos",
     authors="Vasconcellos, Francisco JS and Minhare, Caíque and Fuchs, Leonardo and Vasconcellos, Jucele FA and da Cunha, José Adson OG and Vincenzi, Auri MR",
     place=FAKE,

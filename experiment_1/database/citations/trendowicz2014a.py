@@ -70,8 +70,8 @@ from ..work.y2010 import sarcia2010a
 from ..work.y2011 import gartner2011a
 from ..work.y2011 import nudurupati2011a
 from ..work.y2011 import trendowicz2011a
-from ..work.y2012 import mandić2012c
 from ..work.y2012 import unch2012a
+from ..work.y2012 import mandic2012a
 from ..work.y2013 import pmi2013a
 from ..work.y2014 import trendowicz2014a
 from ..work.y2018 import oliveira2018a
@@ -413,7 +413,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    trendowicz2014a, mandić2012c, ref="[49]",
+    trendowicz2014a, mandic2012a, ref="[49]",
     contexts=[
 
     ],

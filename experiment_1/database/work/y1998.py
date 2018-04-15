@@ -77,6 +77,7 @@ ebert1998a = DB(WorkUnrelated(
     ID="Ebert1998175",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 epstein1998a = DB(WorkUnrelated(
@@ -161,6 +162,7 @@ herbsleb1998a = DB(WorkUnrelated(
     ieee="1",
     placex="Proceedings of the 20th International Conference on Software Engineering",
     note="cited By 22",
+    ieee2015="1",
 ))
 
 hierholzer1998a = DB(WorkUnrelated(
@@ -362,6 +364,7 @@ mccoy1998a = DB(WorkSnowball(
     cluster_id="18350165022086385221",
     scholar_ok=True,
     final_selected="1",
+    selected_order="37",
 ))
 
 mellis1998a = DB(WorkUnrelated(
@@ -376,6 +379,7 @@ mellis1998a = DB(WorkUnrelated(
     note="cited By 14",
     ID="Mellis1998277",
     placex="Software Quality Journal",
+    springer2015="1",
 ))
 
 niessink1998a = DB(WorkUnrelated(
@@ -566,6 +570,7 @@ veryard1998a = DB(WorkUnrelated(
     source="Scopus",
     ID="Veryard19981/1",
     scopus="1",
+    scopus2015="1",
 ))
 
 weiss1998a = DB(WorkUnrelated(

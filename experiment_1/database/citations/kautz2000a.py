@@ -16,8 +16,6 @@ from ..work.y1999 import kautz1999b
 from ..work.y2000 import kautz2000a
 from ..work.y2000 import kautz2000b
 from ..work.y2000 import kautz2000c
-from ..work.y2000 import kautz2000ab
-from ..work.y2000 import kautz2000ab
 from ..work.y2001 import carter2001a
 from ..work.y2001 import kauppinen2001a
 from ..work.y2001 import kautz2001a
@@ -28,7 +26,6 @@ from ..work.y2002 import casey2002a
 from ..work.y2002 import kauppinen2002a
 from ..work.y2003 import vähäniitty2003a
 from ..work.y2003 import vähäniitty2003b
-from ..work.y2003 import lang2003a
 from ..work.y2004 import hansen2004a
 from ..work.y2004 import kautz2004a
 from ..work.y2004 import guerrero2004a
@@ -39,7 +36,6 @@ from ..work.y2004 import cater2004b
 from ..work.y2004 import cater2004c
 from ..work.y2004 import hjalmarsson2004a
 from ..work.y2004 import hjalmarsson2004b
-from ..work.y2004 import lang2004a
 from ..work.y2005 import mas2005a
 from ..work.y2005 import adamonis2005a
 from ..work.y2005 import kauppinen2005a
@@ -55,7 +51,7 @@ from ..work.y2007 import farooq2007a
 from ..work.y2007 import alagarsamy2007a
 from ..work.y2007 import walker2007a
 from ..work.y2007 import sujaritha2007a
-from ..work.y2007 import montoni2007ab
+from ..work.y2007 import montoni2007b
 from ..work.y2007 import laru2007a
 from ..work.y2008 import gorschek2008a
 from ..work.y2008 import alagarsamy2008a
@@ -75,7 +71,6 @@ from ..work.y2009 import zyl2009a
 from ..work.y2009 import khdair2009a
 from ..work.y2009 import batista2009a
 from ..work.y2009 import metodologia2009a
-from ..work.y2009 import lang2009a
 from ..work.y2010 import müller2010a
 from ..work.y2010 import pino2010b
 from ..work.y2010 import tjørnehøj2010a
@@ -784,13 +779,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    lang2004a, kautz2000a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     khdair2009a, kautz2000a, ref="",
     contexts=[
 
@@ -805,13 +793,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    kautz2000ab, kautz2000ab, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     metodologia2009a, kautz2000a, ref="",
     contexts=[
 
@@ -819,7 +800,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    montoni2007ab, kautz2000a, ref="",
+    montoni2007b, kautz2000a, ref="",
     contexts=[
 
     ],
@@ -827,20 +808,6 @@ DB(Citation(
 
 DB(Citation(
     laru2007a, kautz2000a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2003a, kautz2000a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2009a, kautz2000a, ref="",
     contexts=[
 
     ],

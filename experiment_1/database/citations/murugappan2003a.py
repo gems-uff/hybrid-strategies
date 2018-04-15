@@ -23,7 +23,6 @@ from ..work.y2004 import bahli2004a
 from ..work.y2005 import mahanti2005a
 from ..work.y2005 import wang2005b
 from ..work.y2005 import brady2005a
-from ..work.y2005 import lang2005a
 from ..work.y2005 import wang2005c
 from ..work.y2005 import tse2005a
 from ..work.y2006 import kwak2006a
@@ -32,15 +31,11 @@ from ..work.y2006 import wu2006a
 from ..work.y2006 import mahanti2006a
 from ..work.y2006 import choi2006a
 from ..work.y2006 import tonini2006a
-from ..work.y2006 import lang2006a
-from ..work.y2006 import lang2006ab
 from ..work.y2007 import subramanian2007a
 from ..work.y2007 import tang2007a
 from ..work.y2007 import siviy2007a
 from ..work.y2007 import chen2007b
 from ..work.y2007 import chen2007c
-from ..work.y2007 import lang2007ab
-from ..work.y2007 import lang2007c
 from ..work.y2008 import li2008a
 from ..work.y2008 import zhang2008c
 from ..work.y2008 import landaeta2008a
@@ -58,8 +53,8 @@ from ..work.y2010 import tjahjono2010a
 from ..work.y2010 import besseris2010a
 from ..work.y2010 import rico2010a
 from ..work.y2010 import unterkalmsteiner2010a
-from ..work.y2010 import el2010ab
 from ..work.y2010 import simmons2010a
+from ..work.y2010 import el2010b
 from ..work.y2011 import jiang2011a
 from ..work.y2011 import knowles2011a
 from ..work.y2011 import asato2011b
@@ -330,13 +325,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    lang2005a, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     kundu2012b, murugappan2003a, ref="",
     contexts=[
 
@@ -554,7 +542,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    el2010ab, murugappan2003a, ref="",
+    el2010b, murugappan2003a, ref="",
     contexts=[
 
     ],
@@ -694,13 +682,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    lang2007ab, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     sun2012a, murugappan2003a, ref="",
     contexts=[
 
@@ -709,20 +690,6 @@ DB(Citation(
 
 DB(Citation(
     tonini2006a, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2006a, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2006ab, murugappan2003a, ref="",
     contexts=[
 
     ],
@@ -744,13 +711,6 @@ DB(Citation(
 
 DB(Citation(
     horizonte2017a, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2007c, murugappan2003a, ref="",
     contexts=[
 
     ],

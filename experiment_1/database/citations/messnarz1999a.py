@@ -26,7 +26,7 @@ from ..work.y2009 import messnarz2009a
 from ..work.y2010 import kettunen2010a
 from ..work.y2010 import messnarz2010a
 from ..work.y2010 import riel2010b
-from ..work.y2010 import messnarz2010ab
+from ..work.y2010 import messnarz2010b
 from ..work.y2011 import messnarz2011a
 from ..work.y2011 import barafort2011a
 from ..work.y2011 import messnarz2011b
@@ -246,7 +246,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    messnarz2010ab, messnarz1999a, ref="",
+    messnarz2010b, messnarz1999a, ref="",
     contexts=[
 
     ],

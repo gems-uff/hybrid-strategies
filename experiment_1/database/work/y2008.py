@@ -16,17 +16,6 @@ aguiar2008a = DB(WorkUnrelated(
     placex="",
 ))
 
-aguiar2008ab = DB(WorkUnrelated(
-    2008, "Uma metodologia para implantação de melhoria de processo de software em grupos de empresas",
-    alias=(0, "Heron Vieira Aguiar", "DE, UMA METODOLOGIA PARA IMPLANTA{Ç}ÃO"),
-    display="aguiar",
-    authors="Heron Vieira Aguiar", 
-    place=FAKE,
-    entrytype="article",
-    ID="deheron",
-    placex="",
-))
-
 alagarsamy2008a = DB(WorkUnrelated(
     2008, "Implementation specification for software process improvement supportive knowledge management tool",
     display="alagarsamy",
@@ -101,6 +90,7 @@ aurum2008a = DB(WorkUnrelated(
     ID="Aurum2008511",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 ba2008a = DB(WorkUnrelated(
@@ -170,7 +160,7 @@ barcellos2008b = DB(WorkUnrelated(
     placex="Exame de Qualifica{ç}ão para Tese de D. Sc., COPPE/UFRJ, Rio de Janeiro, Brasil",
 ))
 
-becker2008a = DB(WorkSnowball(
+becker2008a = DB(WorkSnowball( # 1
     2008, "An approach to support the strategic alignment of software process improvement programs",
     display="becker b",
     authors="Becker, A.L. and Audy, J.L.N. and Prikladnicki, R.",
@@ -190,6 +180,10 @@ becker2008a = DB(WorkSnowball(
     scholar="https://scholar.google.com/scholar?cites=12615708466078293814&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
     final_selected="1",
+    selected_order="3",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -220,6 +214,8 @@ becker2008b = DB(WorkSnowball(
     art_number="1370840",
     other1="Germany",
     final_selected="1",
+    selected_order="19",
+    acm2015="1",
 ))
 
 beijun2008a = DB(WorkUnrelated(
@@ -391,6 +387,7 @@ coleman2008a = DB(WorkUnrelated(
     ID="Coleman2008772",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 couch2008a = DB(WorkUnrelated(
@@ -472,6 +469,7 @@ darwish2008a = DB(WorkUnrelated(
     ID="Darwish2008919",
     sciencedirect="1",
     placex="Journal of Systems Architecture",
+    sciencedirect2015="1",
 ))
 
 daubner2008a = DB(WorkUnrelated(
@@ -503,6 +501,7 @@ dybå2008a = DB(WorkUnrelated(
     ID="Dybå2008833",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 díaz2008a = DB(WorkUnrelated(
@@ -582,6 +581,7 @@ gorschek2008a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Information and Software Technology",
     scholar="http://scholar.google.com/scholar?cites=11359460249030422468&as_sdt=2005&sciodt=0,5&hl=en",
+    sciencedirect2015="1",
 ))
 
 gou2008a = DB(WorkUnrelated(
@@ -629,6 +629,7 @@ hanssen2008a = DB(WorkUnrelated(
     ID="Hanssen2008843",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 harjumaa2008a = DB(WorkUnrelated(
@@ -839,6 +840,7 @@ kojima2008a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Kojima2008361",
     placex="Software Quality Journal",
+    springer2015="1",
 ))
 
 kulpa2008a = DB(WorkUnrelated(
@@ -882,27 +884,15 @@ landaeta2008a = DB(WorkUnrelated(
 ))
 
 lang2008a = DB(WorkUnrelated(
-    2008, "CMMI ",
+    2008, "软件缺陷预测技术",
     display="lang",
-    authors="lang",
-    place=FAKE,
-    pp="1--85",
-    entrytype="article",
-    publisher="lang",
-    ID="2008",
-    placex="japones",
-))
-
-lang2008ab = DB(WorkUnrelated(
-    2008, "lang",
-    display="lang",
-    authors="lang and lang",
+    authors="王青 and 伍书剑 [1 and 李明树 [1",
     place=Thesis,
     entrytype="phdthesis",
-    ID="2008",
+    ID="王青2008软件缺陷预测技术",
     cluster_id="17143179528404677757",
     scholar="http://scholar.google.com/scholar?cites=17143179528404677757&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="japones",
+    placex="",
 ))
 
 li2008a = DB(WorkUnrelated(
@@ -1021,6 +1011,8 @@ martins2008a = DB(WorkSnowball(
     organization="Springer",
     cluster_id="201686578103891917",
     scholar_ok=True,
+    selected_order="12",
+    webofscience2015="1",
 ))
 
 mishra2008a = DB(WorkUnrelated(
@@ -1121,6 +1113,7 @@ nobre2008a = DB(WorkUnrelated(
     ID="Nobre2008145",
     sciencedirect="1",
     placex="Journal of Manufacturing Systems",
+    sciencedirect2015="1",
 ))
 
 nollen2008a = DB(WorkUnrelated(
@@ -1151,6 +1144,7 @@ pereira2008a = DB(WorkUnrelated(
     ID="Pereira2008897",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 peters2008a = DB(WorkUnrelated(
@@ -1170,6 +1164,7 @@ peters2008a = DB(WorkUnrelated(
     ID="Peters200817",
     sciencedirect="1",
     placex="Science of Computer Programming",
+    sciencedirect2015="1",
 ))
 
 pijpers2008a = DB(WorkUnrelated(
@@ -1275,6 +1270,7 @@ rifaut2008a = DB(WorkUnrelated(
     ID="4685650",
     ieee="1",
     placex="2008 16th IEEE International Requirements Engineering Conference",
+    ieee2015="1",
 ))
 
 rifaut2008b = DB(WorkUnrelated(
@@ -1456,6 +1452,7 @@ staples2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     scholar="http://scholar.google.com/scholar?cites=14831048305439200443&as_sdt=2005&sciodt=0,5&hl=en",
     publisher="Elsevier",
+    cluster_id="14831048305439200443",
 ))
 
 sureshchandra2008a = DB(WorkUnrelated(
@@ -1595,17 +1592,6 @@ zhang2008a = DB(WorkUnrelated(
     placex="International Conference on Software Process",
 ))
 
-zhang2008ab = DB(WorkUnrelated(
-    2008, "A Laboratory for Basic Research in Computer Science and Software Engineering",
-    alias=(0, "A Laboratory for Basic Research in Computer Science and Software Engineering",),
-    display="zhang",
-    authors="Zhang, Jian and Zhang, Wenhui and Zhan, Naijun and Shen, Yidong and Chen, Haiming and Zhang, Yunquan and Wang, Yongji and Wu, Enhua and Wang, Hongan and Zhu, Xueyang",
-    place=FAKE,
-    entrytype="article",
-    ID="zhanglaboratory",
-    placex="",
-))
-
 zhang2008b = DB(WorkUnrelated(
     2008, "Basic research in computer science and software engineering at SKLCS",
     display="zhang b",
@@ -1629,5 +1615,16 @@ zhang2008c = DB(WorkUnrelated(
     ID="zhang2008applying",
     cluster_id="2658004860669062059",
     scholar="http://scholar.google.com/scholar?cites=2658004860669062059&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+zhang2008d = DB(WorkUnrelated(
+    2008, "A Laboratory for Basic Research in Computer Science and Software Engineering",
+    alias=(0, "A Laboratory for Basic Research in Computer Science and Software Engineering",),
+    display="zhang",
+    authors="Zhang, Jian and Zhang, Wenhui and Zhan, Naijun and Shen, Yidong and Chen, Haiming and Zhang, Yunquan and Wang, Yongji and Wu, Enhua and Wang, Hongan and Zhu, Xueyang",
+    place=FAKE,
+    entrytype="article",
+    ID="zhanglaboratory",
     placex="",
 ))

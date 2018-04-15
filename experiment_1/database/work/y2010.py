@@ -61,16 +61,19 @@ armbrust2010a = DB(WorkSnowball(
     note="cited By 3",
     scholar_ok=True,
     final_selected="1",
+    selected_order="31",
 ))
 
 armbrust2010b = DB(WorkSnowball(
     2010, "Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)",
+    alias=(0, "Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)"),
     display="armbrust",
     authors="Armbrust, Ove and Katahira, Masafumi and Kaneko, Tatsuya and Miyamoto, Yuko and Koishi, Yumi",
     place=FAKE,
     entrytype="article",
     ID="armbrustprocesses",
     placex="Proceedings of the International SPICE Days",
+    selected_order="45",
 ))
 
 ast2010a = DB(WorkUnrelated(
@@ -114,9 +117,10 @@ barcellos2010b = DB(WorkUnrelated(
     ID="5629052",
     ieee="1",
     placex="2010 14th IEEE International Enterprise Distributed Object Computing Conference Workshops",
+    ieee2015="1",
 ))
 
-barreto2010a = DB(WorkSnowball(
+barreto2010a = DB(WorkSnowball(  # 9
     2010, "Defining and monitoring strategically aligned software improvement goals",
     display="barreto",
     authors="Barreto, Andrea Oliveira Soares and Rocha, Ana Regina",
@@ -138,6 +142,8 @@ barreto2010a = DB(WorkSnowball(
     scholar_ok=True,
     gs="1",
     final_selected="1",
+    selected_order="6",
+    elcompendex2015="1",
 ))
 
 barreto2010b = DB(WorkUnrelated(
@@ -154,9 +160,10 @@ barreto2010b = DB(WorkUnrelated(
     placex="Quality of Information and Communications Technology (QUATIC), 2010 Seventh International Conference on the",
     ieee="1",
     gs="1",
+    ieee2015="1",
 ))
 
-basili2010a = DB(WorkSnowball(
+basili2010a = DB(WorkSnowball( # 147
     2010, "Linking software development and business strategy through measurement",
     display="basili",
     authors="Basili, Victor R and Lindvall, Mikael and Regardie, Myrna and Seaman, Carolyn and Heidrich, Jens and Münch, Jürgen and Rombach, Dieter and Trendowicz, Adam",
@@ -180,6 +187,8 @@ basili2010a = DB(WorkSnowball(
     ieee="1",
     gs="1",
     final_selected="1",
+    selected_order="9",
+    ieee2015="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -220,6 +229,7 @@ basri2010a = DB(WorkUnrelated(
     cluster_id="16881189038884396829",
     scholar="http://scholar.google.com/scholar?cites=16881189038884396829&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information Technology (ITSim), 2010 International Symposium in",
+    ieee2015="1",
 ))
 
 basri2010b = DB(WorkUnrelated(
@@ -448,6 +458,7 @@ dounos2010a = DB(WorkUnrelated(
     placex="Informatics (PCI), 2010 14th Panhellenic Conference on",
     ieee="1",
     gs="1",
+    ieee2015="1",
 ))
 
 du2010a = DB(WorkUnrelated(
@@ -496,6 +507,7 @@ díazley2010a = DB(WorkUnrelated(
     ID="DíazLey20101223",
     sciencedirect="1",
     placex="Advances in Engineering Software",
+    sciencedirect2015="1",
 ))
 
 egorova2010a = DB(WorkUnrelated(
@@ -515,6 +527,7 @@ egorova2010a = DB(WorkUnrelated(
     ID="Egorova20101907",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 el2010a = DB(WorkUnrelated(
@@ -529,7 +542,7 @@ el2010a = DB(WorkUnrelated(
     placex="Handbook On Business Information Systems",
 ))
 
-el2010ab = DB(WorkUnrelated(
+el2010b = DB(WorkUnrelated(
     2010, "Six Sigma Fundamentals",
     alias=(0,"Six Sigma Fundamentals",),
     display="el",
@@ -587,6 +600,7 @@ faegri2010a = DB(WorkUnrelated(
     ID="Fægri20101118",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 faulk2010a = DB(WorkUnrelated(
@@ -615,6 +629,7 @@ ferrari2010a = DB(WorkUnrelated(
     ID="Ferrari2010",
     springer="1",
     placex="Requirements Engineering",
+    springer2015="1",
 ))
 
 ferreira2010a = DB(WorkUnrelated(
@@ -662,7 +677,7 @@ goyal2010a = DB(WorkUnrelated(
     placex="SEPG 2001 (2001)",
 ))
 
-guzmán2010a = DB(WorkSnowball(
+guzmán2010a = DB(WorkSnowball( # 19
     2010, "Integration of strategic management, process improvement and quantitative measurement for managing the competitiveness of software engineering organizations",
     display="guzmán",
     authors="Guzmán, Javier García and Mitre, Hugo A and Amescua, Antonio and Velasco, Manuel",
@@ -686,6 +701,9 @@ guzmán2010a = DB(WorkSnowball(
     publisher="Springer",
     scholar_ok=True,
     final_selected="1",
+    selected_order="8",
+    webofscience2015="1",
+    scopus2015="1",
 ))
 
 haigh2010a = DB(WorkUnrelated(
@@ -729,6 +747,7 @@ hauge2010a = DB(WorkUnrelated(
     ID="Hauge20101133",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 hauge2010b = DB(WorkUnrelated(
@@ -864,6 +883,7 @@ khoshkbarforoushha2010a = DB(WorkUnrelated(
     ID="5575839",
     ieee="1",
     placex="2010 6th World Congress on Services",
+    ieee2015="1",
 ))
 
 kim2010a = DB(WorkUnrelated(
@@ -911,6 +931,7 @@ kowalczyk2010a = DB(WorkSnowball(
     cluster_id="16277693229634567198",
     scholar_ok=True,
     final_selected="1",
+    selected_order="49",
 ))
 
 krasteva2010a = DB(WorkUnrelated(
@@ -943,26 +964,18 @@ kremmel2010a = DB(WorkUnrelated(
 ))
 
 lang2010a = DB(WorkUnrelated(
-    2010, " -- ",
+    2010, "项目管理成熟度模型发展动态探析",
     display="lang",
-    authors=" and others",
+    authors="杨国平 and 邱菀华",
     place=FAKE,
+    pp="49--52",
     entrytype="article",
-    ID="2010",
-    placex="japones",
-))
-
-lang2010ab = DB(WorkUnrelated(
-    2010, "lang",
-    display="lang",
-    authors="lang",
-    place=FAKE,
-    pp="15--15",
-    entrytype="article",
-    number="2",
-    publisher="lang",
-    ID="2010",
-    placex="outra lingua",
+    volume="23",
+    number="5",
+    ID="杨国平2010项目管理成熟度模型发展动态探析",
+    cluster_id="2173387709114491060",
+    scholar="http://scholar.google.com/scholar?cites=2173387709114491060&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="北京航空航天大学学报: 社会科学版",
 ))
 
 lee2010a = DB(WorkUnrelated(
@@ -1067,6 +1080,8 @@ mandić2010a = DB(WorkSnowball(
     scholar_ok=True,
     other1="pp 255258",
     placex="In: Proceedings of the 36th EUROMICRO conference on software engineering and advanced applications, 13 Sept 2010,",
+    selected_order="16",
+    ieee2015="1",
 ))
 
 mandić2010b = DB(WorkSnowball(
@@ -1091,6 +1106,8 @@ mandić2010b = DB(WorkSnowball(
     scholar_ok=True,
     gs="1",
     other1="Italy, pp 110",
+    selected_order="22",
+    acm2015="1",
 ))
 
 mandić2010c = DB(WorkUnrelated(
@@ -1107,6 +1124,7 @@ mandić2010c = DB(WorkUnrelated(
     ID="Mandi?201014",
     scholar="http://scholar.google.com/scholar?cites=7638361024929094617&as_sdt=2005&sciodt=0,5&hl=en",
     organization="Springer",
+    cluster_id="7638361024929094617",
 ))
 
 mandić2010d = DB(WorkSnowball(
@@ -1125,6 +1143,7 @@ mandić2010d = DB(WorkSnowball(
     organization="Springer",
     cluster_id="8738894608367720961",
     scholar_ok=True,
+    selected_order="24",
 ))
 
 mandić2010e = DB(WorkUnrelated(
@@ -1227,6 +1246,7 @@ mcloughlin2010a = DB(WorkSnowball(
     cluster_id="5420330165680143679",
     scholar_ok=True,
     final_selected="1",
+    selected_order="34",
 ))
 
 mcloughlin2010b = DB(WorkSnowball(
@@ -1249,6 +1269,7 @@ mcloughlin2010b = DB(WorkSnowball(
     organization="Springer",
     placex="European Conference on Software Process Improvement",
     final_selected="1",
+    selected_order="35",
 ))
 
 
@@ -1270,6 +1291,7 @@ mellado2010a = DB(WorkUnrelated(
     ID="Mellado2010153",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2015="1",
 ))
 
 messnarz2010a = DB(WorkUnrelated(
@@ -1286,7 +1308,7 @@ messnarz2010a = DB(WorkUnrelated(
     placex="European Conference on Software Process Improvement",
 ))
 
-messnarz2010ab = DB(WorkUnrelated(
+messnarz2010b = DB(WorkUnrelated(
     2010, "Integrated COSO SPICE Assessments",
     alias=(0, "Integrated COSO SPICE Assessments", ),
     display="messnarz ab",
@@ -1343,6 +1365,7 @@ müller2010a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     scholar="http://scholar.google.com/scholar?cites=17503453247437113979&as_sdt=2005&sciodt=0,5&hl=en",
+    sciencedirect2015="1",
 ))
 
 nikula2010a = DB(WorkUnrelated(
@@ -1362,6 +1385,7 @@ nikula2010a = DB(WorkUnrelated(
     ID="Nikula2010680",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 oliveira2010a = DB(WorkUnrelated(
@@ -1474,6 +1498,7 @@ pino2010a = DB(WorkUnrelated(
     ID="Pino20101044",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 pino2010b = DB(WorkUnrelated(
@@ -1490,6 +1515,7 @@ pino2010b = DB(WorkUnrelated(
     cluster_id="1428035976173142851",
     scholar="http://scholar.google.com/scholar?cites=1428035976173142851&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of systems and software",
+    sciencedirect2015="1",
 ))
 
 ramler2010a = DB(WorkUnrelated(
@@ -1535,6 +1561,7 @@ riel2010a = DB(WorkUnrelated(
     ID="Riel2010279",
     sciencedirect="1",
     placex="\{CIRP\} Journal of Manufacturing Science and Technology",
+    sciencedirect2015="1",
 ))
 
 riel2010b = DB(WorkUnrelated(
@@ -1579,6 +1606,7 @@ rolland2010a = DB(WorkUnrelated(
     placex="2010 43rd Hawaii International Conference on System Sciences",
     organization="IEEE",
     gs="1",
+    ieee2015="1",
 ))
 
 romero2010a = DB(WorkUnrelated(
@@ -1633,6 +1661,7 @@ sarcia2010a = DB(WorkUnrelated(
     other2="pp 14",
     pp="45",
     organization="ACM",
+    cluster_id="18340962611795161582",
 ))
 
 shah2010a = DB(WorkUnrelated(
@@ -1706,6 +1735,7 @@ sun2010a = DB(WorkSnowball(
     cluster_id="4881529965332269987",
     scholar_ok=True,
     final_selected="1",
+    selected_order="30",
 ))
 
 suscheck2010a = DB(WorkUnrelated(
@@ -1797,6 +1827,7 @@ vanut2010a = DB(WorkUnrelated(
     cluster_id="9532085647863335493",
     scholar="http://scholar.google.com/scholar?cites=9532085647863335493&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 vuk2010a = DB(WorkUnrelated(
@@ -1867,6 +1898,7 @@ weerd2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=9546306668847758117&as_sdt=2005&sciodt=0,5&hl=en",
+    sciencedirect2015="1",
 ))
 
 west2010a = DB(WorkUnrelated(
@@ -1899,6 +1931,7 @@ winter2010a = DB(WorkUnrelated(
     ID="Winter20102059",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 yang2010a = DB(WorkUnrelated(
@@ -1967,6 +2000,9 @@ zalzala2010a = DB(WorkUnrelated(
     webofscience="1",
     placex="PROCEEDINGS OF THE 4TH EUROPEAN CONFERENCE ON INFORMATION MANAGEMENT AND EVALUATION",
     elcompendex="1",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 zhang2010a = DB(WorkUnrelated(
@@ -2029,4 +2065,5 @@ zowghi2010a = DB(WorkUnrelated(
     placex="2010 IEEE 34th Annual Computer Software and Applications Conference Workshops",
     organization="IEEE",
     gs="1",
+    ieee2015="1",
 ))

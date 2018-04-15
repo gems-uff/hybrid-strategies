@@ -43,7 +43,6 @@ from ..work.y1999 import sommerville1999a
 from ..work.y1999 import rayson1999a
 from ..work.y1999 import rayson1999b
 from ..work.y1999 import rayson1999c
-from ..work.y1999 import jesko1999a
 from ..work.y2000 import kandé2000a
 from ..work.y2000 import rayson2000a
 from ..work.y2000 import vazquez2000a
@@ -52,7 +51,6 @@ from ..work.y2001 import easterbrook2001a
 from ..work.y2001 import eljabiri2001a
 from ..work.y2001 import vázquez2001a
 from ..work.y2002 import sawyer2002a
-from ..work.y2002 import karlström2002a
 from ..work.y2002 import karlström2002b
 from ..work.y2002 import alves2002a
 from ..work.y2003 import gans2003a
@@ -70,7 +68,6 @@ from ..work.y2007 import ghose2007a
 from ..work.y2007 import ghose2007b
 from ..work.y2007 import yang2007a
 from ..work.y2007 import taipale2007a
-from ..work.y2007 import türetken2007a
 from ..work.y2007 import charrel2007a
 from ..work.y2007 import jun2007a
 from ..work.y2007 import apfelbacher2007a
@@ -89,15 +86,13 @@ from ..work.y2012 import soares2012a
 from ..work.y2012 import müller2012a
 from ..work.y2012 import eljabiri2012a
 from ..work.y2012 import berkovich2012a
-from ..work.y2012 import solaimani2012a
 from ..work.y2014 import kim2014a
 from ..work.y2014 import solaimani2014a
 from ..work.y2016 import nunn2016a
 from ..work.y2016 import francalanci2016a
+from ..work.y2017 import jurczuk2017b
 from ..work.y2017 import solaimani2017a
 from ..work.y2017 import jurczuk2017a
-from ..work.y2017 import ghose2017a
-from ..work.y2017 import jurczuk2017b
 from ..work.y9999 import jesko9999a
 from ..work.y9999 import ghose9999a
 
@@ -417,13 +412,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    karlström2002a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     ghose2007b, sommerville1999a, ref="",
     contexts=[
 
@@ -564,19 +552,11 @@ DB(Citation(
 ))
 
 DB(Citation(
-    türetken2007a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     müller2012a, sommerville1999a, ref="",
     contexts=[
 
     ],
 ))
-
 
 DB(Citation(
     eljabiri2012a, sommerville1999a, ref="",
@@ -649,7 +629,14 @@ DB(Citation(
 ))
 
 DB(Citation(
-    jesko1999a, sommerville1999a, ref="",
+    jurczuk2017b, sommerville1999a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jesko9999a, sommerville1999a, ref="",
     contexts=[
 
     ],
@@ -698,14 +685,14 @@ DB(Citation(
 ))
 
 DB(Citation(
-    ghose2017a, sommerville1999a, ref="",
+    ghose9999a, sommerville1999a, ref="",
     contexts=[
 
     ],
 ))
 
 DB(Citation(
-    solaimani2012a, sommerville1999a, ref="",
+    solaimani2014a, sommerville1999a, ref="",
     contexts=[
 
     ],
@@ -741,41 +728,6 @@ DB(Citation(
 
 DB(Citation(
     apfelbacher2007a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    morisio2009a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    jurczuk2017b, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    jesko9999a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    ghose9999a, sommerville1999a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    solaimani2014a, sommerville1999a, ref="",
     contexts=[
 
     ],

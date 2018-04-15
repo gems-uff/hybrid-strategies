@@ -57,6 +57,7 @@ aversano2012a = DB(WorkUnrelated(
     ID="Aversano2012462",
     sciencedirect="1",
     placex="Procedia Technology",
+    sciencedirect2015="1",
 ))
 
 ayala2012a = DB(WorkUnrelated(
@@ -89,6 +90,7 @@ barcellos2012a = DB(WorkUnrelated(
     ID="6406216",
     ieee="1",
     placex="2012 IEEE 16th International Enterprise Distributed Object Computing Conference Workshops",
+    ieee2015="1",
 ))
 
 bayona2012a = DB(WorkUnrelated(
@@ -109,6 +111,9 @@ bayona2012a = DB(WorkUnrelated(
     webofscience="1",
     elcompendex="1",
     placex="Communications in Computer and Information Science",
+    webofscience2015="1",
+    scopus2015="1",
+    elcompendex2015="1",
 ))
 
 
@@ -193,6 +198,7 @@ buse2012a = DB(WorkUnrelated(
     cluster_id="12643050587801762773",
     scholar="http://scholar.google.com/scholar?cites=12643050587801762773&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 34th international conference on software engineering",
+    acm2015="1",
 ))
 
 calik2012a = DB(WorkUnrelated(
@@ -282,6 +288,7 @@ clarke2012b = DB(WorkUnrelated(
     note="cited By 89",
     ID="Clarke2012433",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 colomo2012a = DB(WorkUnrelated(
@@ -391,6 +398,7 @@ domínguezmayo2012a = DB(WorkUnrelated(
     ID="DomínguezMayo20121265",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 domínguezmayo2012b = DB(WorkUnrelated(
@@ -410,6 +418,7 @@ domínguezmayo2012b = DB(WorkUnrelated(
     ID="DomínguezMayo2012396",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2015="1",
 ))
 
 draghici2012a = DB(WorkUnrelated(
@@ -429,6 +438,7 @@ draghici2012a = DB(WorkUnrelated(
     ID="Draghici2012527",
     sciencedirect="1",
     placex="Procedia Technology",
+    sciencedirect2015="1",
 ))
 
 eljabiri2012a = DB(WorkUnrelated(
@@ -524,27 +534,15 @@ haigh2012a = DB(WorkUnrelated(
 ))
 
 haigh2012b = DB(WorkUnrelated(
-    2012, "Nao foi possivel identificar o texto",
-    display="haigh b",
+    2012, "Технічні вимоги для бізнес-користувачів: застосування системи забезпечення якості для програмного забезпечення",
+    display="haigh d",
     authors="Haigh, Maria",
-    place=FAKE,
+    place=Lang,
     pp="31--38",
     entrytype="article",
     number="1",
-    ID="haigh2012",
-    placex="?",
-))
-
-haigh2012c = DB(WorkUnrelated(
-    2012, "lang",
-    display="haigh c",
-    authors="Haigh, Maria",
-    place=FAKE,
-    pp="31--38",
-    entrytype="article",
-    number="1",
-    ID="haigh2012",
-    placex="outra lingua",
+    ID="haigh2012технічні",
+    placex="Системні дослідження та інформаційні технології",
 ))
 
 han2012a = DB(WorkUnrelated(
@@ -731,6 +729,7 @@ kirk2012a = DB(WorkUnrelated(
     ID="Kirk2012582",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 klendauer2012a = DB(WorkUnrelated(
@@ -745,6 +744,7 @@ klendauer2012a = DB(WorkUnrelated(
     cluster_id="14625782705255894337",
     scholar="http://scholar.google.com/scholar?cites=14625782705255894337&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 5th International Workshop on Co-operative and Human Aspects of Software Engineering",
+    acm2015="1",
 ))
 
 kundu2012a = DB(WorkUnrelated(
@@ -775,32 +775,6 @@ kundu2012b = DB(WorkUnrelated(
     cluster_id="9880121079982844173",
     scholar="http://scholar.google.com/scholar?cites=9880121079982844173&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Asian Journal on Quality",
-))
-
-lang2012a = DB(WorkUnrelated(
-    2012, "CMMI",
-    alias=(2012, "???? CMMI ??????????????",),
-    display="lang2012",
-    authors="lang",
-    place=FAKE,
-    pp="1--75",
-    entrytype="article",
-    publisher="",
-    ID="2012",
-    placex="japones",
-))
-
-lang2012b = DB(WorkUnrelated(
-    2012, "lang",
-    display="lang b",
-    authors="lang",
-    place=FAKE,
-    pp="73--76",
-    entrytype="article",
-    volume="33",
-    number="4",
-    ID="2012",
-    placex="japones",
 ))
 
 leba2012a = DB(WorkUnrelated(
@@ -835,6 +809,7 @@ lepmets2012a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=72631659526478855&as_sdt=2005&sciodt=0,5&hl=en",
+    sciencedirect2015="1",
 ))
 
 leschera2012a = DB(WorkUnrelated(
@@ -882,6 +857,7 @@ lim2012a = DB(WorkUnrelated(
     ID="Lim201210544",
     sciencedirect="1",
     placex="Expert Systems with Applications",
+    sciencedirect2015="1",
 ))
 
 lópez2012a = DB(WorkUnrelated(
@@ -909,10 +885,11 @@ machado2012a = DB(WorkUnrelated(
     placex="",
 ))
 
-mandić2012a = DB(WorkUnrelated(
+mandic2012a = DB(WorkUnrelated(
     2012, "Measurement-based value alignment and reasoning about organizational goals and strategies : studies with the ICT industry",
     aliases=[
         (0, "ASCIENTIAE RERUM", "ALIGNMENT, VALUE"),
+        (2012, "Measurement-based value alignment and reasoning about organizational goals", "V Mandić"),
     ],
     display="mandić",
     authors="Mandić, Vladimir",
@@ -922,23 +899,15 @@ mandić2012a = DB(WorkUnrelated(
     placex="",
 ))
 
-mandić2012ab = DB(WorkUnrelated(
+mandić2012b = DB(WorkUnrelated(
     2012, "Empirical Evaluation of the GQM+Strategies Approach",
-    aliases=[(0,"Empirical Evaluation of the GQM+Strategies Approach")],
+    aliases=[(0,"Empirical Evaluation of the GQM+Strategies Approach", "Mandi{ć}, Vladimir and Oivo, Markku")],
     display="mandić",
     authors="Mandi{c?}, Vladimir and Oivo, Markku",
     place=FAKE,
     entrytype="article",
     ID="mandicempirical",
     placex="",
-))
-
-mandić2012c = DB(WorkUnrelated(
-    2012, "Measurement-based value alignment and reasoning about organizational goals",
-    display="mandić c",
-    authors="V Mandić",
-    place=FAKE,
-    placex="and strategies: studied with ICT industry. Doctoral dissertation, University of Oulu, Finland",
 ))
 
 matalonga2012a = DB(WorkUnrelated(
@@ -956,6 +925,7 @@ matalonga2012a = DB(WorkUnrelated(
     ID="6200024",
     ieee="1",
     placex="IET Software",
+    ieee2015="1",
 ))
 
 mayoral2012a = DB(WorkUnrelated(
@@ -1199,6 +1169,7 @@ pareto2012a = DB(WorkUnrelated(
     ID="Pareto20121971",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 pareto2012b = DB(WorkUnrelated(
@@ -1215,6 +1186,7 @@ pareto2012b = DB(WorkUnrelated(
     ID="Pareto2012",
     springer="1",
     placex="Software {&} Systems Modeling",
+    springer2015="1",
 ))
 
 ponisio2012a = DB(WorkUnrelated(
@@ -1350,6 +1322,7 @@ sarosa2012a = DB(WorkUnrelated(
     ID="Sarosa2012244",
     sciencedirect="1",
     placex="Procedia Economics and Finance",
+    sciencedirect2015="1",
 ))
 
 savino2012a = DB(WorkUnrelated(
@@ -1383,6 +1356,7 @@ savolainen2012a = DB(WorkUnrelated(
     ID="Savolainen2012458",
     sciencedirect="1",
     placex="International Journal of Project Management",
+    sciencedirect2015="1",
 ))
 
 seo2012a = DB(WorkUnrelated(
@@ -1464,6 +1438,7 @@ singh2012a = DB(WorkUnrelated(
     ID="Singh2012281",
     sciencedirect="1",
     placex="Ecological Indicators",
+    sciencedirect2015="1",
 ))
 
 soares2012a = DB(WorkUnrelated(
@@ -1519,6 +1494,7 @@ sulayman2012a = DB(WorkUnrelated(
     ID="Sulayman2012479",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 sun2012a = DB(WorkUnrelated(
@@ -1616,6 +1592,7 @@ wendler2012a = DB(WorkUnrelated(
     ID="Wendler20121317",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 winkler2012a = DB(WorkUnrelated(

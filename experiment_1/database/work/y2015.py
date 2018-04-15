@@ -189,6 +189,7 @@ fagerholm2015a = DB(WorkUnrelated(
     ID="Fagerholm2015132",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 fontana2015a = DB(WorkUnrelated(
@@ -208,6 +209,7 @@ fontana2015a = DB(WorkUnrelated(
     ID="Fontana201588",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 garcíamireles2015a = DB(WorkUnrelated(
@@ -246,6 +248,7 @@ garousi2015a = DB(WorkUnrelated(
     ID="Garousi2015148",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 goldin2015a = DB(WorkUnrelated(
@@ -262,6 +265,7 @@ goldin2015a = DB(WorkUnrelated(
     ID="Goldin2015",
     springer="1",
     placex="Requirements Engineering",
+    springer2015="1",
 ))
 
 gorschek2015a = DB(WorkUnrelated(
@@ -353,6 +357,7 @@ heikkilä2015a = DB(WorkUnrelated(
     ID="Heikkilä2015116",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 herzwurm2015a = DB(WorkUnrelated(
@@ -594,21 +599,6 @@ kowalczyk2015a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
-lang2015a = DB(WorkUnrelated(
-    2015, "lang",
-    display="lang",
-    authors=" and",
-    place=FAKE,
-    pp="23--29",
-    entrytype="article",
-    number="3 (2)",
-    publisher="lang",
-    ID="2015",
-    cluster_id="12283607580291450475",
-    scholar="http://scholar.google.com/scholar?cites=12283607580291450475&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="outra lingua",
-))
-
 lavazza2015a = DB(WorkUnrelated(
     2015, "Defining and evaluating software project success indicators: A GQM-based case study",
     display="lavazza",
@@ -819,6 +809,7 @@ nilsson2015a = DB(WorkUnrelated(
     ID="Nilsson2015",
     springer="1",
     placex="International Journal on Software Tools for Technology Transfer",
+    springer2015="1",
 ))
 
 oConnor2015a = DB(WorkSnowball(
@@ -839,6 +830,8 @@ oConnor2015a = DB(WorkSnowball(
     organization="ACM",
     cluster_id="8321741387367091387",
     scholar_ok=True,
+    selected_order="20",
+    acm2015="1",
 ))
 
 papa2015a = DB(WorkUnrelated(
@@ -887,9 +880,10 @@ pernstål2015a = DB(WorkUnrelated(
     ID="Pernstål201544",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
-petersen2015a = DB(WorkSnowball(
+petersen2015a = DB(WorkSnowball( # 11
     2015, "An elicitation instrument for operationalising GQM+ Strategies (GQM+ S-EI)",
     display="petersen",
     authors="Petersen, Kai and Gencel, Cigdem and Asghari, Negin and Betz, Stefanie",
@@ -908,6 +902,8 @@ petersen2015a = DB(WorkSnowball(
     cluster_id="14577763734978233491",
     publisher="Springer",
     scholar_ok=True,
+    selected_order="4",
+    springer2015="1",
 ))
 
 ralph2015a = DB(WorkUnrelated(
@@ -927,6 +923,7 @@ ralph2015a = DB(WorkUnrelated(
     ID="Ralph201521",
     sciencedirect="1",
     placex="Science of Computer Programming",
+    sciencedirect2015="1",
 ))
 
 ramos2015a = DB(WorkUnrelated(
@@ -954,7 +951,7 @@ rivera2015a = DB(WorkUnrelated(
     placex="Simposio Argentino de Ingeniería de Software (ASSE 2015)-JAIIO 44 (Rosario, 2015)",
 ))
 
-rivera2015ab = DB(WorkUnrelated(
+rivera2015b = DB(WorkUnrelated(
     2015, "Patrones de Estrategia para Proyectos de Medición, Evaluación y Mejora",
     display="rivera",
     authors="Rivera, Belén and Becker, Pablo and Olsina, Luis",
@@ -994,6 +991,7 @@ rose2015a = DB(WorkUnrelated(
     publisher="Springer",
     ID="rose2015improving",
     placex="Innovations in Systems and Software Engineering",
+    springer2015="1",
 ))
 
 rúa2015a = DB(WorkUnrelated(
@@ -1071,6 +1069,7 @@ silva2015a = DB(WorkUnrelated(
     ID="SelleriSilva201520",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 silva2015b = DB(WorkUnrelated(
@@ -1090,6 +1089,7 @@ silva2015b = DB(WorkUnrelated(
     ID="daSilva2015527",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 siris2015a = DB(WorkUnrelated(
@@ -1203,7 +1203,7 @@ trinkenreich2015a = DB(WorkUnrelated(
     placex="International Conference on Product-Focused Software Process Improvement",
 ))
 
-trinkenreich2015ab = DB(WorkUnrelated(
+trinkenreich2015b = DB(WorkUnrelated(
     2015, "Avalia{ç}ão da Gerência de Incidentes sob a Luz do MR-MPS-SV e Medi{ç}ão para Apoiar a Melhoria da Qualidade do Servi{ç}o de TI",
     alias=( 0, "Avalia{ç}ão da Gerência de Incidentes sob a Luz do MR-MPS-SV e Medi{ç}ão para Apoiar a Melhoria da Qualidade do Servi{ç}o de TI",
     ),
@@ -1245,6 +1245,7 @@ tüzün2015a = DB(WorkUnrelated(
     ID="Tüzün201577",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 valente2015a = DB(WorkUnrelated(
@@ -1260,7 +1261,7 @@ valente2015a = DB(WorkUnrelated(
     placex="ICEIS (2)",
 ))
 
-valente2015ab = DB(WorkUnrelated(
+valente2015b = DB(WorkUnrelated(
     2015, "Bridging EE and SE: The Goals Approach",
     alias=(0, "Bridging EE and SE: The Goals Approach",),
     display="valente",
@@ -1288,6 +1289,7 @@ wohlin2015a = DB(WorkUnrelated(
     ID="Wohlin2015229",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 wolfenstetter2015a = DB(WorkUnrelated(

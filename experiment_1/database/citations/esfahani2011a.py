@@ -27,7 +27,6 @@ from ..work.y2012 import hochstetter2012a
 from ..work.y2012 import stavru2012a
 from ..work.y2013 import gandomani2013a
 from ..work.y2014 import schramm2014a
-from ..work.y2014 import schramm2014b
 from ..work.y2015 import babar2015a
 from ..work.y2015 import rúa2015a
 from ..work.y9999 import schramm9999a
@@ -201,7 +200,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    schramm2014b, esfahani2011a, ref="",
+    schramm9999a, esfahani2011a, ref="",
     contexts=[
 
     ],
@@ -209,13 +208,6 @@ DB(Citation(
 
 DB(Citation(
     rúa2015a, esfahani2011a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    schramm9999a, esfahani2011a, ref="",
     contexts=[
 
     ],

@@ -28,19 +28,16 @@ from ..work.y2005 import zaijun2005a
 from ..work.y2008 import becker2008b
 from ..work.y2009 import escofet2009a
 from ..work.y2009 import barreto2009a
-from ..work.y2010 import sun2010a
 from ..work.y2010 import mandić2010c
-from ..work.y2010 import armbrust2010a
 from ..work.y2010 import escofet2010a
 from ..work.y2010 import carvalho2010a
-from ..work.y2010 import armbrust2010b
 from ..work.y2011 import ullah2011a
 from ..work.y2011 import barreto2011a
 from ..work.y2012 import lópez2012a
 from ..work.y2013 import chebrolu2013a
 from ..work.y2013 import aversano2013a
+from ..work.y2013 import lang2013a
 from ..work.y2013 import lang2013b
-from ..work.y2013 import lang2013c
 from ..work.y2014 import ullah2014a
 from ..work.y2017 import vasconcellos2017a
 from ..work.y2017 import moreira2017a
@@ -208,19 +205,11 @@ DB(Citation(
 ))
 
 DB(Citation(
-    sun2010a, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     chebrolu2013a, becker2008b, ref="",
     contexts=[
 
     ],
 ))
-
 
 DB(Citation(
     mandić2010c, becker2008b, ref="",
@@ -231,13 +220,6 @@ DB(Citation(
 
 DB(Citation(
     vasconcellos2017a, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    armbrust2010a, becker2008b, ref="",
     contexts=[
 
     ],
@@ -293,13 +275,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    armbrust2010b, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     ullah2014a, becker2008b, ref="",
     contexts=[
 
@@ -307,21 +282,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    moreira2017a, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    moreira2017b, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    armbrust2010b, becker2008b, ref="",
+    lang2013a, becker2008b, ref="",
     contexts=[
 
     ],
@@ -335,13 +296,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    lang2013c, becker2008b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     moreira2017a, becker2008b, ref="",
     contexts=[
 
@@ -350,6 +304,13 @@ DB(Citation(
 
 DB(Citation(
     moreira2017b, becker2008b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    armbrust2010b, becker2008b, ref="",
     contexts=[
 
     ],

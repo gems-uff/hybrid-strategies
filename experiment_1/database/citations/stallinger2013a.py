@@ -7,7 +7,7 @@ from ..work.y1931 import shewhart1931a
 from ..work.y1993 import dion1993a
 from ..work.y1996 import mcfeeley1996a
 from ..work.y1998 import isoiec1998d
-from ..work.y2002 import simon2002ab
+from ..work.y2002 import simon2002a
 from ..work.y2003 import venzin2003a
 from ..work.y2006 import isoiec2006a
 from ..work.y2006 import cmmi2006a
@@ -75,7 +75,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    stallinger2013a, simon2002ab, ref="",
+    stallinger2013a, simon2002a, ref="",
     contexts=[
 
     ],

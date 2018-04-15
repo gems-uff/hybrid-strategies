@@ -71,16 +71,6 @@ cansado9999a = DB(WorkUnrelated(
     placex="",
 ))
 
-carmo9999a = DB(WorkUnrelated(
-    9999, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management",
-    display="carmo",
-    authors="Carmo, Adson and Fantinato, Marcelo and Thom, Lucinéia and Prado, Edmir and Spinola, Mauro and Hung, Patrick",
-    place=FAKE,
-    entrytype="article",
-    ID="carmoanalysis",
-    placex="",
-))
-
 chaos9999a = DB(WorkUnrelated(
     9999, "ANALYZING AN ANCIENT SCRIPT, P. 76 QUESTIONING INVISIBILITY, P. 84 http://ww",
     alias=(0, "ANALYZING AN ANCIENT SCRIPT, P. 76 QUESTIONING INVISIBILITY, P. 84 http://ww",),
@@ -171,7 +161,10 @@ huberts9999a = DB(WorkUnrelated(
 
 jesko9999a = DB(WorkUnrelated(
     9999, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",
-    alias=(0, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",),
+    aliases=[
+        (0, "DISTRIBUTED MODELING IN ENGINEERING  TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES",),
+        (0, "DISTRIBUTED MODELING IN ENGINEERING œ TOWARDS A TOOL-SUPPORTED INTEGRATION OF NOTATIONS USING META OBJECT FACILITIES", "Jesko, Dirk and Paul, Georg",),
+    ],
     display="jesko",
     authors="Jesko, Dirk and Paul, Georg",
     place=FAKE,
@@ -314,23 +307,14 @@ schramm9999a = DB(WorkUnrelated(
 ))
 
 trendowicz9999a = DB(WorkUnrelated(
-    9999, "lang",
+    9999, "マネジメントのズレの解消",
+    alias=(0, "マネジメントのズレの解消",),
     display="trendowicz",
     authors="Trendowicz, Adam",
     place=FAKE,
     entrytype="article",
-    ID="trendowicz",
+    ID="trendowiczマネジメントのズレの解消",
     placex="",
-))
-
-trendowicz9999b = DB(WorkUnrelated(
-    9999, "lang",
-    display="trendowicz b",
-    authors="Trendowicz, Adam",
-    place=FAKE,
-    entrytype="article",
-    ID="trendowicz",
-    placex="japones",
 ))
 
 voigt9999a = DB(WorkUnrelated(

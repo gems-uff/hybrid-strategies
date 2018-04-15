@@ -22,8 +22,6 @@ from ..work.y2000 import wohlin2000b
 from ..work.y2001 import cattaneo2001a
 from ..work.y2002 import karlström2002a
 from ..work.y2002 import point2002a
-from ..work.y2002 import karlström2002ab
-from ..work.y2002 import karlström2002ab
 from ..work.y2004 import hjalmarsson2004a
 from ..work.y2004 import hjalmarsson2004b
 from ..work.y2005 import thayer2005a
@@ -379,13 +377,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    karlström2002ab, karlström2002ab, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     wohlin2012j, karlström2002a, ref="",
     contexts=[
 
@@ -401,13 +392,6 @@ DB(Citation(
 
 DB(Citation(
     schrama2013a, karlström2002a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    karlström2002ab, karlström2002a, ref="",
     contexts=[
 
     ],

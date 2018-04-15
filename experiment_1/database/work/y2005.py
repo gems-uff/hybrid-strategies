@@ -57,6 +57,7 @@ beecham2005a = DB(WorkUnrelated(
     ID="Beecham2005251",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 bleistein2005a = DB(WorkUnrelated(
@@ -240,6 +241,7 @@ coallier2005a = DB(WorkUnrelated(
     ID="Coallier200573",
     sciencedirect="1",
     placex="Science of Computer Programming",
+    sciencedirect2015="1",
 ))
 
 dove2005a = DB(WorkUnrelated(
@@ -319,6 +321,7 @@ fernandes2005a = DB(WorkUnrelated(
     ID="Fernandes2005",
     springer="1",
     placex="Software {&} Systems Modeling",
+    springer2015="1",
 ))
 
 gairing2005a = DB(WorkUnrelated(
@@ -512,18 +515,6 @@ kauppinen2005a = DB(WorkUnrelated(
     placex="",
 ))
 
-lang2005a = DB(WorkUnrelated(
-    2005, "lang",
-    display="lang",
-    authors="and  and and others",
-    place=Thesis,
-    entrytype="phdthesis",
-    ID="2005",
-    cluster_id="11657671055223402455",
-    scholar="http://scholar.google.com/scholar?cites=11657671055223402455&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="japones",
-))
-
 liu2005a = DB(WorkSnowball(
     2005, "QFD application in software process management and improvement based on CMM",
     display="liu",
@@ -541,6 +532,7 @@ liu2005a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=1326690177078702660&as_sdt=2005&sciodt=0,5&hl=en",
     scholar_ok=True,
     final_selected="1",
+    selected_order="36",
 ))
 
 mahanti2005a = DB(WorkUnrelated(
@@ -723,6 +715,7 @@ sommerville2005a = DB(WorkUnrelated(
     note="cited By 89",
     ID="Sommerville200585",
     placex="ACM Transactions on Software Engineering and Methodology",
+    acm2015="1",
 ))
 
 taipale2005a = DB(WorkUnrelated(
@@ -751,6 +744,7 @@ taxen2005a = DB(WorkUnrelated(
     ID="2005529614780",
     elcompendex="1",
     placex="Software Process Improvement and Practice",
+    elcompendex2015="1",
 ))
 
 thayer2005a = DB(WorkUnrelated(
@@ -816,6 +810,8 @@ trienekens2005a = DB(WorkSnowball(
     publisher="Elsevier",
     scholar_ok=True,
     final_selected="1",
+    selected_order="17",
+    sciencedirect2015="1",
 ))
 
 tse2005a = DB(WorkUnrelated(
@@ -879,6 +875,8 @@ wang2005a = DB(WorkSnowball(
     organization="IEEE",
     cluster_id="9841459670916835417",
     scholar_ok=True,
+    selected_order="11",
+    ieee2015="1",
 ))
 
 wang2005b = DB(WorkUnrelated(

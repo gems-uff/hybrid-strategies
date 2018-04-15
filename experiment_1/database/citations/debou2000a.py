@@ -39,7 +39,7 @@ from ..work.y2008 import ba2008a
 from ..work.y2008 import butt2008a
 from ..work.y2008 import aguiar2008a
 from ..work.y2008 import santana2008a
-from ..work.y2008 import aguiar2008ab
+from ..work.y2008 import aguiar2008a
 from ..work.y2009 import walia2009a
 from ..work.y2009 import mishra2009a
 from ..work.y2009 import ba2009a
@@ -441,7 +441,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    aguiar2008ab, debou2000a, ref="",
+    aguiar2008a, debou2000a, ref="",
     contexts=[
 
     ],

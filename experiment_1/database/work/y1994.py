@@ -127,6 +127,7 @@ debou1994a = DB(WorkUnrelated(
     ID="Debou199443",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    sciencedirect2015="1",
 ))
 
 dedolph1994a = DB(WorkUnrelated(
@@ -437,6 +438,7 @@ roche1994a = DB(WorkUnrelated(
     ID="Roche1994173",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 salant1994a = DB(WorkUnrelated(

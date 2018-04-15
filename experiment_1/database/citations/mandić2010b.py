@@ -62,8 +62,6 @@ from ..work.y2016 import kobori2016a
 from ..work.y2016 import kalidoss2016a
 from ..work.y2017 import mandić2017a
 from ..work.y2017 import dashkov2017a
-from ..work.y2017 import lang2017ab
-from ..work.y2017 import lang2017b
 
 DB(Citation(
     mandić2010b, ieee1981a, ref="",
@@ -466,20 +464,6 @@ DB(Citation(
 
 DB(Citation(
     dashkov2017a, mandić2010b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017ab, mandić2010b, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017b, mandić2010b, ref="",
     contexts=[
 
     ],

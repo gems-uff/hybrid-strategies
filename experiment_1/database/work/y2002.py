@@ -171,6 +171,7 @@ chan2002a = DB(WorkUnrelated(
     ID="Chan2002463",
     sciencedirect="1",
     placex="European Journal of Operational Research",
+    sciencedirect2015="1",
 ))
 
 chauveau2002a = DB(WorkUnrelated(
@@ -470,17 +471,7 @@ karlström2002a = DB(WorkSnowball(
     placex="IEE Proceedings-Software",
     scholar_ok=True,
     final_selected="1",
-))
-
-karlström2002ab = DB(WorkUnrelated(
-    2002, "Increasing Involvement in Software Process Improvement Process Improvement",
-    alias=(0, "Increasing Involvement in Software Process Improvement Process Improvement",),
-    display="karlström",
-    authors="Karlström, Daniel Karlström Daniel",
-    place=FAKE,
-    entrytype="article",
-    ID="karlstromincreasing",
-    placex="",
+    selected_order="27",
 ))
 
 karlström2002b = DB(WorkUnrelated(
@@ -872,6 +863,7 @@ scott2002a = DB(WorkUnrelated(
     ID="Scott2002601",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 sei2002a = DB(WorkUnrelated(
@@ -905,22 +897,11 @@ simon2002a = DB(WorkUnrelated(
     2002, "Das Große Handbuch der Strategieinstrumente - Alle Werkzeuge für Eine Erfolgreiche Unternehmensführung",
     display="simon",
     authors="Simon, H. and Von Der Gathen, A.",
-    place=FAKE,
+    place=Lang,
     entrytype="article",
     note="cited By 11",
     ID="Simon2002",
     placex="Campus, Frankfurt/Main",
-))
-
-simon2002ab = DB(WorkUnrelated(
-    2002, "Das Große Handbuch der Strategieinstrumente",
-    display="simon",
-    authors="Simon, H. and Von Der Gathen, A.",
-    place=FAKE,
-    entrytype="article",
-    note="cited By 11",
-    ID="Simon2002",
-    placex="Campus, Frankfurt/Main (in German)",
 ))
 
 solingen2002a = DB(WorkUnrelated(

@@ -481,13 +481,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    valenciennes2013a, guzmán2010a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     aguirre2014a, guzmán2010a, ref="",
     contexts=[
 
@@ -503,13 +496,6 @@ DB(Citation(
 
 DB(Citation(
     salgado2015a, guzmán2010a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    robles2016a, guzmán2010a, ref="",
     contexts=[
 
     ],

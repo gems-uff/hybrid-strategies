@@ -26,13 +26,13 @@ from ..work.y2008 import chen2008a
 from ..work.y2008 import songnisai2008a
 from ..work.y2008 import siritanachot2008a
 from ..work.y2010 import vuk2010a
-from ..work.y2010 import lang2010ab
+from ..work.y2010 import lang2010a
 from ..work.y2011 import glykas2011a
 from ..work.y2012 import shahzad2012a
 from ..work.y2013 import brenda2013a
 from ..work.y2013 import lohrmann2013a
 from ..work.y2014 import glykas2014a
-from ..work.y2014 import lang2014a
+from ..work.y2014 import lang2014b
 from ..work.y2016 import zawedde2016a
 from ..work.y2017 import vasconcellos2017a
 from ..work.y2017 import vasconcellos2017b
@@ -206,6 +206,13 @@ DB(Citation(
 ))
 
 DB(Citation(
+    lang2010a, trienekens2005a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
     savioja2007a, trienekens2005a, ref="",
     contexts=[
 
@@ -248,21 +255,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    lang2010ab, trienekens2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    vasconcellos2017a, trienekens2005a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2014a, trienekens2005a, ref="",
+    lang2014b, trienekens2005a, ref="",
     contexts=[
 
     ],

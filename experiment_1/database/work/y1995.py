@@ -199,6 +199,7 @@ hinley1995a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=751050437562579240&as_sdt=2005&sciodt=0,5&hl=en",
     cluster_id="751050437562579240",
     scholar_ok=True,
+    selected_order="29",
 ))
 
 humphrey1995a = DB(WorkUnrelated(

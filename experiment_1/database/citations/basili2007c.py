@@ -27,7 +27,7 @@ from ..work.y2011 import olsina2011b
 from ..work.y2012 import papa2012a
 from ..work.y2012 import münch2012b
 from ..work.y2012 import papa2012b
-from ..work.y2012 import mandić2012a
+from ..work.y2012 import mandic2012a
 from ..work.y2013 import dumke2013a
 from ..work.y2014 import fagerholm2014a
 from ..work.y2014 import kowalczyk2014a
@@ -47,9 +47,6 @@ from ..work.y2016 import sadabadi2016a
 from ..work.y2017 import fagerholm2017a
 from ..work.y2017 import valle2017a
 from ..work.y2017 import sakul2017a
-from ..work.y2017 import lang2017ab
-from ..work.y2017 import lang2017c
-from ..work.y9999 import trendowicz9999b
 
 DB(Citation(
     basili2007c, basili1994c, ref="",
@@ -318,7 +315,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    mandić2012a, basili2007c, ref="",
+    mandic2012a, basili2007c, ref="",
     contexts=[
 
     ],
@@ -347,27 +344,6 @@ DB(Citation(
 
 DB(Citation(
     lindgren2015b, basili2007c, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    trendowicz9999b, basili2007c, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017ab, basili2007c, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
-    lang2017c, basili2007c, ref="",
     contexts=[
 
     ],

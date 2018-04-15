@@ -261,6 +261,7 @@ king1997a = DB(WorkUnrelated(
     ID="King1997323",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 krasner1997a = DB(WorkUnrelated(
@@ -337,6 +338,8 @@ reiblein1997a = DB(WorkSnowball(
     scholar_ok=True,
     placex="Software Quality Journal",
     final_selected="1",
+    selected_order="15",
+    scopus2015="1",
 ))
 
 richardson1997a = DB(WorkUnrelated(
