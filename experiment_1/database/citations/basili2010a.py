@@ -37,7 +37,7 @@ from ..work.y2012 import münch2012a
 from ..work.y2012 import monden2012a
 from ..work.y2012 import eremenko2012a
 from ..work.y2012 import leschera2012a
-from ..work.y2012 import heidrich2012b
+from ..work.y2012 import heidrich2012a
 from ..work.y2012 import asghari2012a
 from ..work.y2012 import papa2012b
 from ..work.y2012 import machado2012a
@@ -747,7 +747,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    heidrich2012b, basili2010a, ref="",
+    heidrich2012a, basili2010a, ref="",
     contexts=[
 
     ],

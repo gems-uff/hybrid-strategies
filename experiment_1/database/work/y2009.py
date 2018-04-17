@@ -43,8 +43,8 @@ albuquerque2009a = DB(WorkSnowball(
     final_selected="1",
     selected_order="14",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 albuquerque2009b = DB(WorkUnrelated(
@@ -149,7 +149,6 @@ basili2009b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Basili2009",
     placex="IEEE",
-    ieee2015="1",
 ))
 
 batista2009a = DB(WorkUnrelated(
@@ -421,8 +420,8 @@ galinac2009a = DB(WorkUnrelated(
     scopus="1",
     sciencedirect="1",
     placex="Information and Software Technology",
-    scopus2015="1",
     sciencedirect2015="1",
+    scopus2015="1",
 ))
 
 garcia2009a = DB(WorkUnrelated(
@@ -519,8 +518,8 @@ hong2009a = DB(WorkUnrelated(
     doi="10.1109/WCSE.2009.188",
     issn="",
     ID="5319510",
-    ieee2015="1",
     placex="2009 WRI World Congress on Software Engineering",
+    ieee2015="1",
 ))
 
 hsiao2009a = DB(WorkUnrelated(
@@ -1360,8 +1359,8 @@ vieira2009a = DB(WorkUnrelated(
     scopus="1",
     elcompendex="1",
     placex="9th International Conference on Software Process Improvement and Capability Determination, SPICE 2009 - Proceedings",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 walia2009a = DB(WorkUnrelated(

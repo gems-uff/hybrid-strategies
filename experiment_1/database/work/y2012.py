@@ -112,8 +112,8 @@ bayona2012a = DB(WorkUnrelated(
     elcompendex="1",
     placex="Communications in Computer and Information Science",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 
@@ -564,9 +564,10 @@ han2012a = DB(WorkUnrelated(
 
 heidrich2012a = DB(WorkUnrelated(
     2012, "Tutorial: Business IT alignment using the GQM+strategies&reg approach",
+    alias=(2012, "Tutorial: business IT alignment using the GQM+ Strategies{   extregistered} approach", "Heidrich, Jens and Kowalczyk, Martin",),
     display="heidrich",
     authors="Heidrich, Jens and Kowalczyk, Martin",
-    place=FAKE,
+    place=ICPFSPI,
     pp="370 -- 373",
     entrytype="inproceedings",
     language="English",
@@ -575,20 +576,10 @@ heidrich2012a = DB(WorkUnrelated(
     ID="20122515123766",
     elcompendex="1",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-))
-
-heidrich2012b = DB(WorkUnrelated(
-    2012, "Tutorial: business IT alignment using the GQM+ Strategies{	extregistered} approach",
-    display="heidrich b",
-    authors="Heidrich, Jens and Kowalczyk, Martin",
-    place=ICPFSPI,
-    pp="370--373",
-    entrytype="inproceedings",
-    organization="Springer",
-    ID="heidrich2012tutorial",
     cluster_id="17367274084717427031",
     scholar="http://scholar.google.com/scholar?cites=17367274084717427031&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="International Conference on Product Focused Software Process Improvement",
+    elcompendex2015="1",
+    organization="Springer",
 ))
 
 hochstetter2012a = DB(WorkUnrelated(
@@ -953,8 +944,8 @@ mazinanian2012a = DB(WorkUnrelated(
     doi="10.1145/2261605.2261625",
     issn="",
     ID="6218060",
-    ieee2015="1",
     placex="2012 6th Euro American Conference on Telematics and Information Systems (EATIS)",
+    ieee2015="1",
 ))
 
 mcbride2012a = DB(WorkUnrelated(

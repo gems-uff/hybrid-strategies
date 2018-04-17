@@ -363,8 +363,8 @@ grechenig2004a = DB(WorkUnrelated(
     doi="10.1109/QSIC.2004.1357954",
     issn="",
     ID="1357954",
-    ieee2015="1",
     placex="Fourth International Conference onQuality Software, 2004. QSIC 2004. Proceedings.",
+    ieee2015="1",
 ))
 
 guerrero2004a = DB(WorkUnrelated(

@@ -143,8 +143,8 @@ debou1994b = DB(WorkUnrelated(
     doi="10.1109/METRIC.1994.344231",
     issn="",
     ID="344231",
-    ieee2015="1",
     placex="Proceedings of 1994 IEEE 2nd International Software Metrics Symposium",
+    ieee2015="1",
 ))
 
 dedolph1994a = DB(WorkUnrelated(

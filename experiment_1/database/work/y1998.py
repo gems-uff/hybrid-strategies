@@ -63,8 +63,8 @@ brebner1998a = DB(WorkUnrelated(
     doi="10.1109/SEEP.1998.707637",
     issn="",
     ID="707637",
-    ieee2015="1",
     placex="Proceedings. 1998 International Conference Software Engineering: Education and Practice (Cat. No.98EX220)",
+    ieee2015="1",
 ))
 
 dynsys1998a = DB(WorkUnrelated(

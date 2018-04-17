@@ -182,8 +182,8 @@ becker2008a = DB(WorkSnowball( # 1
     final_selected="1",
     selected_order="3",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -577,8 +577,8 @@ gimenes2008a = DB(WorkUnrelated(
     doi="10.1109/SPLC.2008.10",
     issn="",
     ID="4626860",
-    ieee2015="1",
     placex="2008 12th International Software Product Line Conference",
+    ieee2015="1",
 ))
 
 gorschek2008a = DB(WorkUnrelated(
@@ -1213,8 +1213,8 @@ ponisio2008a = DB(WorkUnrelated(
     doi="10.1109/CIMCA.2008.131",
     issn="",
     ID="5172679",
-    ieee2015="1",
     placex="2008 International Conference on Computational Intelligence for Modelling Control Automation",
+    ieee2015="1",
 ))
 
 porter2008a = DB(WorkUnrelated(
@@ -1306,19 +1306,8 @@ rifaut2008a = DB(WorkUnrelated(
     ieee="1",
     placex="2008 16th IEEE International Requirements Engineering Conference",
     ieee2015="1",
-))
-
-rifaut2008b = DB(WorkUnrelated(
-    2008, "Using goal-oriented requirements engineering for improving the quality of iso/iec 15504 based compliance assessment frameworks",
-    display="rifaut b",
-    authors="Rifaut, Andre and Dubois, Eric",
-    place=FAKE,
-    pp="33--42",
-    entrytype="inproceedings",
-    organization="IEEE",
-    ID="rifaut2008using",
     gs="1",
-    placex="International Requirements Engineering, 2008. RE'08. 16th IEEE",
+    organization="IEEE",
 ))
 
 rose2008a = DB(WorkUnrelated(

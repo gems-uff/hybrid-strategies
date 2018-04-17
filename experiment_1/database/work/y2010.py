@@ -99,7 +99,7 @@ barcellos2010a = DB(WorkUnrelated(
     cluster_id="8525192396157377506",
     scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2010 14th IEEE International",
-     
+    ieee2015="1",
 ))
 
 barcellos2010b = DB(WorkUnrelated(
@@ -118,7 +118,6 @@ barcellos2010b = DB(WorkUnrelated(
     ieee="1",
     placex="2010 14th IEEE International Enterprise Distributed Object Computing Conference Workshops",
     scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
-    ieee2015="1",
     gs="1",
 ))
 
@@ -490,8 +489,8 @@ duka2010a = DB(WorkUnrelated(
     doi="",
     issn="1334-2630",
     ID="5606110",
-    ieee2015="1",
     placex="Proceedings ELMAR-2010",
+    ieee2015="1",
 ))
 
 détienne2010a = DB(WorkUnrelated(
@@ -1066,19 +1065,6 @@ malik2010b = DB(WorkUnrelated(
     placex="Software Technology and Engineering (ICSTE), 2010 2nd International Conference on",
 ))
 
-mandic2010a = DB(WorkUnrelated(
-    2010, "Organizational Earned Value Analysis",
-    display="mandic",
-    authors="Mandic, Vladimir and Basili, Victor",
-    place=TechReport,
-    entrytype="techreport",
-    institution="TECH REPORT: TR-TOL-2010-0303 (March 3, 2010)",
-    ID="mandic2010organizational",
-    cluster_id="340973524862994594",
-    scholar="http://scholar.google.com/scholar?cites=340973524862994594&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="",
-))
-
 mandić2010a = DB(WorkSnowball(
     2010, "Utilizing GQM+ Strategies for an organization-wide earned value analysis",
     display="mandić",
@@ -1166,14 +1152,16 @@ mandić2010d = DB(WorkSnowball(
 ))
 
 mandić2010e = DB(WorkUnrelated(
-    2010, "An approach for evaluating business goals. Technical Report TR TR-TOL-2010-2802, University of Oulu",
-    display="mandic e",
-    authors="Mandic, V. and Basili, V.",
-    place=FAKE,
-    placex="Department of Information Processing Science",
-    entrytype="article",
-    note="cited By 1",
-    ID="Mandic2010",
+    2010, "Organizational Earned Value Analysis",
+    display="mandic",
+    authors="Mandic, Vladimir and Basili, Victor",
+    place=TechReport,
+    entrytype="techreport",
+    institution="TECH REPORT: TR-TOL-2010-0303 (March 3, 2010)",
+    ID="mandic2010organizational",
+    cluster_id="340973524862994594",
+    scholar="http://scholar.google.com/scholar?cites=340973524862994594&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 mandić2010f = DB(WorkUnrelated(
@@ -1551,8 +1539,8 @@ racheva2010a = DB(WorkUnrelated(
     doi="10.1109/RE.2010.27",
     issn="1090-705X",
     ID="5636890",
-    ieee2015="1",
     placex="2010 18th IEEE International Requirements Engineering Conference",
+    ieee2015="1",
 ))
 
 ramler2010a = DB(WorkUnrelated(
@@ -2038,8 +2026,8 @@ zalzala2010a = DB(WorkUnrelated(
     placex="PROCEEDINGS OF THE 4TH EUROPEAN CONFERENCE ON INFORMATION MANAGEMENT AND EVALUATION",
     elcompendex="1",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 zhang2010a = DB(WorkUnrelated(

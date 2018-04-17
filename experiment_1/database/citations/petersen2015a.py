@@ -43,7 +43,7 @@ from ..work.y2010 import mandić2010d
 from ..work.y2010 import petersen2010a
 from ..work.y2010 import petersen2010b
 from ..work.y2010 import sarcia2010a
-from ..work.y2010 import mandić2010e
+from ..work.y2010 import mandić2010f
 from ..work.y2011 import dieste2011a
 from ..work.y2011 import finke2011a
 from ..work.y2011 import ivarsson2011a
@@ -277,7 +277,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    petersen2015a, mandić2010e, ref="",
+    petersen2015a, mandić2010f, ref="",
     contexts=[
 
     ],

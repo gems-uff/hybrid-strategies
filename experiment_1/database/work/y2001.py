@@ -1078,8 +1078,8 @@ veer2001a = DB(WorkUnrelated(
     doi="10.1109/CSEE.2001.913854",
     issn="1093-0175",
     ID="913854",
-    ieee2015="1",
     placex="Software Engineering Education and Training, 2001. Proceedings. 14th Conference on",
+    ieee2015="1",
 ))
 
 vohwinkel2001a = DB(WorkUnrelated(

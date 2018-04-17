@@ -29,7 +29,7 @@ from ..work.y2010 import caputo2010a
 from ..work.y2010 import yang2010a
 from ..work.y2010 import mandić2010f
 from ..work.y2010 import hernández2010a
-from ..work.y2010 import mandic2010a
+from ..work.y2010 import mandić2010e
 from ..work.y2010 import júnior2010a
 from ..work.y2010 import pinho2010a
 from ..work.y2011 import przybylek2011a
@@ -37,7 +37,7 @@ from ..work.y2011 import buglione2011a
 from ..work.y2011 import thammarak2011a
 from ..work.y2011 import tsunoda2011a
 from ..work.y2012 import garousi2012a
-from ..work.y2012 import heidrich2012b
+from ..work.y2012 import heidrich2012a
 from ..work.y2012 import cansado2012a
 from ..work.y2012 import mandic2012a
 from ..work.y2013 import münch2013e
@@ -312,7 +312,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    mandic2010a, basili2007b, ref="",
+    mandić2010e, basili2007b, ref="",
     contexts=[
 
     ],
@@ -326,7 +326,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    heidrich2012b, basili2007b, ref="",
+    heidrich2012a, basili2007b, ref="",
     contexts=[
 
     ],

@@ -57,8 +57,7 @@ from ..work.y2010 import simmons2010a
 from ..work.y2010 import el2010b
 from ..work.y2011 import jiang2011a
 from ..work.y2011 import knowles2011a
-from ..work.y2011 import asato2011b
-from ..work.y2011 import asato2011c
+from ..work.y2011 import asato2011a
 from ..work.y2011 import el2011a
 from ..work.y2012 import unterkalmsteiner2012a
 from ..work.y2012 import kundu2012a
@@ -332,13 +331,6 @@ DB(Citation(
 ))
 
 DB(Citation(
-    asato2011b, murugappan2003a, ref="",
-    contexts=[
-
-    ],
-))
-
-DB(Citation(
     patel2009a, murugappan2003a, ref="",
     contexts=[
 
@@ -381,7 +373,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    asato2011c, murugappan2003a, ref="",
+    asato2011a, murugappan2003a, ref="",
     contexts=[
 
     ],

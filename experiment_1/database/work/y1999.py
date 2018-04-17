@@ -248,8 +248,8 @@ griss1999a = DB(WorkUnrelated(
     doi="10.1145/302405.302715",
     issn="0270-5257",
     ID="841056",
-    ieee2015="1",
     placex="Proceedings of the 1999 International Conference on Software Engineering (IEEE Cat. No.99CB37002)",
+    ieee2015="1",
 ))
 
 halloran1999a = DB(WorkUnrelated(

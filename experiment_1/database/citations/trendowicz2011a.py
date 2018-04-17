@@ -12,7 +12,7 @@ from ..work.y2010 import basili2010a
 from ..work.y2011 import trendowicz2011a
 from ..work.y2011 import kowalczyk2011a
 from ..work.y2012 import monden2012a
-from ..work.y2012 import heidrich2012b
+from ..work.y2012 import heidrich2012a
 from ..work.y2012 import asghari2012a
 from ..work.y2013 import ellis2013a
 from ..work.y2014 import basili2014b
@@ -146,7 +146,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    heidrich2012b, trendowicz2011a, ref="",
+    heidrich2012a, trendowicz2011a, ref="",
     contexts=[
 
     ],

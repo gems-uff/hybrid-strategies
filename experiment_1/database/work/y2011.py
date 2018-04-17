@@ -53,6 +53,10 @@ andersen2011a = DB(WorkUnrelated(
 
 asato2011a = DB(WorkUnrelated(
     2011, "Alignment between the business strategy and the software processes improvement: A roadmap for the implementation [Alinhamento entre estrategia de negocios e melhoria de processos de software: Um roteiro de implementacao]",
+    aliases=[
+        (2011, "Alignment between the business strategy and the software processes improvement: A roadmap for the implementation", "Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias"),
+        (2011, "Alinhamento entre estratégia de negócios e melhoria de processos de software: um roteiro de implementa{ç}ão", "Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias",),
+    ],
     display="asato",
     authors="Asato, R. and Spinola, M.M. and Costa, I. and De Farias Silva, W.H.",
     pp="314--328",
@@ -66,41 +70,13 @@ asato2011a = DB(WorkUnrelated(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79961003310&doi=10.1590%2fS0103-65132011005000028&partnerID=40&md5=4f74d483617ef9a0b575a21b34a7a88c",
     document_type="Article",
     source="Scopus",
+    cluster_id="11807693210422033910",
+    cluster_id2="16451644934605523987",
+    scholar="http://scholar.google.com/scholar?cites=11807693210422033910&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar2="http://scholar.google.com/scholar?cites=16451644934605523987&as_sdt=2005&sciodt=0,5&hl=en",
     ID="Asato2011314",
     scopus="1",
     scopus2015="1",
-))
-
-asato2011b = DB(WorkUnrelated(
-    2011, "Alignment between the business strategy and the software processes improvement: A roadmap for the implementation",
-    display="asato b",
-    authors="Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias",
-    place=FAKE,
-    pp="314--328",
-    entrytype="article",
-    volume="21",
-    number="2",
-    publisher="SciELO Brasil",
-    ID="asato2011alignment",
-    cluster_id="11807693210422033910",
-    scholar="http://scholar.google.com/scholar?cites=11807693210422033910&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="Production",
-))
-
-asato2011c = DB(WorkUnrelated(
-    2011, "Alinhamento entre estratégia de negócios e melhoria de processos de software: um roteiro de implementa{ç}ão",
-    display="asato c",
-    authors="Asato, Regina and Spinola, Mauro Mesquita and Costa, Ivanir and Silva, Walter Henrique De Farias",
-    place=FAKE,
-    pp="314--328",
-    entrytype="article",
-    volume="21",
-    number="2",
-    publisher="SciELO Brasil",
-    ID="asato2011alinhamento",
-    cluster_id="16451644934605523987",
-    scholar="http://scholar.google.com/scholar?cites=16451644934605523987&as_sdt=2005&sciodt=0,5&hl=en",
-    placex="Production",
 ))
 
 ayala2011a = DB(WorkUnrelated(
@@ -273,8 +249,8 @@ betz2011a = DB(WorkUnrelated(
     doi="10.1109/CEC.2011.58",
     issn="2378-1963",
     ID="6046998",
-    ieee2015="1",
     placex="2011 IEEE 13th Conference on Commerce and Enterprise Computing",
+    ieee2015="1",
 ))
 
 birkhölzer2011a = DB(WorkSnowball(
@@ -398,8 +374,8 @@ chastek2011a = DB(WorkUnrelated(
     doi="10.1109/SPLC.2011.46",
     issn="",
     ID="6030070",
-    ieee2015="1",
     placex="2011 15th International Software Product Line Conference",
+    ieee2015="1",
 ))
 
 chrissis2011a = DB(WorkUnrelated(
@@ -740,8 +716,8 @@ hongying2011a = DB(WorkUnrelated(
     doi="",
     issn="",
     ID="6093459",
-    ieee2015="1",
     placex="The 5th International Conference on New Trends in Information Science and Service Science",
+    ieee2015="1",
 ))
 
 humphrey2011a = DB(WorkUnrelated(
@@ -903,8 +879,9 @@ kaneko2011a = DB(WorkSnowball( # 15
     ieee="1",
     final_selected="1",
     selected_order="5",
-    scopus2015="1",
+    elcompendex2015="1", 
     ieee2015="1",
+    scopus2015="1",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -983,8 +960,8 @@ koznov2011a = DB(WorkUnrelated(
     doi="10.1109/EDOCW.2011.58",
     issn="2325-6583",
     ID="6037606",
-    ieee2015="1",
     placex="2011 IEEE 15th International Enterprise Distributed Object Computing Conference Workshops",
+    ieee2015="1",
 ))
 
 krasner2011a = DB(WorkUnrelated(
@@ -1236,8 +1213,8 @@ nunes2011a = DB(WorkUnrelated(
     doi="10.1109/CSCWD.2011.5960061",
     issn="",
     ID="5960061",
-    ieee2015="1",
     placex="Proceedings of the 2011 15th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+    ieee2015="1",
 ))
 
 ollus2011a = DB(WorkUnrelated(
@@ -1353,8 +1330,8 @@ plösch2011a = DB(WorkSnowball(
     final_selected="1",
     selected_order="13",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 ponisio2011a = DB(WorkUnrelated(
@@ -1523,8 +1500,8 @@ stallinger2011a = DB(WorkUnrelated(
     placex="SOFTWARE PROCESS IMPROVEMENT AND CAPABILITY DETERMINATION",
     elcompendex="1",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 staron2011a = DB(WorkUnrelated(

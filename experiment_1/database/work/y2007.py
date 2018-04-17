@@ -738,8 +738,8 @@ martins2007a = DB(WorkUnrelated(
     organization="IEEE",
     scholar="http://scholar.google.com/scholar?cites=14606508088028730559&as_sdt=2005&sciodt=0,5&hl=en",
     webofscience2015="1",
-    scopus2015="1",
     elcompendex2015="1",
+    scopus2015="1",
 ))
 
 martins2007b = DB(WorkSnowball(

@@ -917,8 +917,8 @@ software2002a = DB(WorkUnrelated(
     doi="10.1109/MS.2002.1049397",
     issn="0740-7459",
     ID="1049397",
-    ieee2015="1",
     placex="IEEE Software",
+    ieee2015="1",
 ))
 
 solingen2002a = DB(WorkUnrelated(
