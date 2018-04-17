@@ -149,6 +149,7 @@ basili2009b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Basili2009",
     placex="IEEE",
+    ieee2015="1",
 ))
 
 batista2009a = DB(WorkUnrelated(
@@ -421,6 +422,7 @@ galinac2009a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Information and Software Technology",
     scopus2015="1",
+    sciencedirect2015="1",
 ))
 
 garcia2009a = DB(WorkUnrelated(
@@ -502,6 +504,23 @@ heidrich2009a = DB(WorkUnrelated(
     cluster_id="18411556291350373740",
     scholar="http://scholar.google.com/scholar?cites=18411556291350373740&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Fachz Inform Manage Consult",
+))
+
+hong2009a = DB(WorkUnrelated(
+    2009, "Architecture-Centric Software Process for Pattern Based Software Reuse",
+    display="hong",
+    authors="W. Hong",
+    place=FAKE,
+    pp="95-99",
+    entrytype="inproceedings",
+    volume="4",
+    number="",
+    keyword="object-oriented programming;program diagnostics;software architecture;software process improvement;software reusability;architecture-centric modeling approach;architecture-centric software process;pattern based component model;pattern based software reuse;reusable component model;reusable domain specific knowledge;software component development process;top-down component reuse;top-down software reuse;traceable component model;Application software;Assembly systems;Computer architecture;Contracts;Large-scale systems;Productivity;Programming;Software engineering;Software quality;Software reusability;Architectural pattern;Domain knowledge modeling;Software process;Software reuse",
+    doi="10.1109/WCSE.2009.188",
+    issn="",
+    ID="5319510",
+    ieee2015="1",
+    placex="2009 WRI World Congress on Software Engineering",
 ))
 
 hsiao2009a = DB(WorkUnrelated(

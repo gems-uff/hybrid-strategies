@@ -292,6 +292,7 @@ bjørnson2008a = DB(WorkUnrelated(
     ID="Bjørnson20081055",
     sciencedirect="1",
     placex="Information and Software Technology",
+    sciencedirect2015="1",
 ))
 
 brindgeland2008a = DB(WorkUnrelated(
@@ -561,6 +562,23 @@ ferreira2008a = DB(WorkUnrelated(
     note="cited By 8",
     ID="Ferreira2008311",
     placex="Software Process Improvement and Practice",
+))
+
+gimenes2008a = DB(WorkUnrelated(
+    2008, "A Product Line for Business Process Management",
+    display="gimenes",
+    authors="I. M. d. S. Gimenes and M. Fantinato and M. B. F. d. Toledo",
+    place=FAKE,
+    pp="265-274",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="business data processing;contracts;organisational aspects;product development;software reusability;Internet technology;business process management;e-contract negotiation;electronic contract establishment;feature modeling;intraorganizational interchange;product line;service oriented computing;Asset management;Conference management;Contracts;Informatics;Marine technology;Monitoring;Quality of service;Telecommunication computing;Web and internet services;Web services",
+    doi="10.1109/SPLC.2008.10",
+    issn="",
+    ID="4626860",
+    ieee2015="1",
+    placex="2008 12th International Software Product Line Conference",
 ))
 
 gorschek2008a = DB(WorkUnrelated(
@@ -1180,6 +1198,23 @@ pijpers2008a = DB(WorkUnrelated(
     ID="Pijpers:2008:BSA:1409540.1409551",
     acm="1",
     placex="Proceedings of the 10th International Conference on Electronic Commerce",
+))
+
+ponisio2008a = DB(WorkUnrelated(
+    2008, "Analysing Boundary Objects to Develop Results that Support Business Goals",
+    display="ponisio",
+    authors="M. L. Ponisio and P. Vruggink",
+    place=FAKE,
+    pp="516-521",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="knowledge management;outsourcing;project management;software development management;boundary object;boundary object translation;business goal;coordination practice;knowledge coordination;mediator;multiple information passage point;outsourcing project;software development;work visibility;Collaborative work;Companies;Concrete;Costs;Guidelines;Information analysis;Knowledge transfer;Outsourcing;Programming;Project management;outsourcing;project management;software development",
+    doi="10.1109/CIMCA.2008.131",
+    issn="",
+    ID="5172679",
+    ieee2015="1",
+    placex="2008 International Conference on Computational Intelligence for Modelling Control Automation",
 ))
 
 porter2008a = DB(WorkUnrelated(

@@ -99,7 +99,7 @@ barcellos2010a = DB(WorkUnrelated(
     cluster_id="8525192396157377506",
     scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2010 14th IEEE International",
-    gs="1",
+     
 ))
 
 barcellos2010b = DB(WorkUnrelated(
@@ -117,7 +117,9 @@ barcellos2010b = DB(WorkUnrelated(
     ID="5629052",
     ieee="1",
     placex="2010 14th IEEE International Enterprise Distributed Object Computing Conference Workshops",
+    scholar="http://scholar.google.com/scholar?cites=8525192396157377506&as_sdt=2005&sciodt=0,5&hl=en",
     ieee2015="1",
+    gs="1",
 ))
 
 barreto2010a = DB(WorkSnowball(  # 9
@@ -473,6 +475,23 @@ du2010a = DB(WorkUnrelated(
     cluster_id="5599657959749411000",
     scholar="http://scholar.google.com/scholar?cites=5599657959749411000&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering Conference (APSEC), 2010 17th Asia Pacific",
+))
+
+duka2010a = DB(WorkUnrelated(
+    2010, "Fault Slip Through measurement in software development process",
+    display="duka",
+    authors="D. Duka and L. Hribar",
+    place=FAKE,
+    pp="177-182",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="software development management;software fault tolerance;software metrics;fault slip through measurement;market-driven development;software development process;Current measurement;Fault diagnosis;Organizations;Phase measurement;Programming;Software;Testing;early fault detection;fault latency;fault metric;faults-slip-through",
+    doi="",
+    issn="1334-2630",
+    ID="5606110",
+    ieee2015="1",
+    placex="Proceedings ELMAR-2010",
 ))
 
 détienne2010a = DB(WorkUnrelated(
@@ -1454,6 +1473,7 @@ petersen2010a = DB(WorkUnrelated(
     doi="10.1007/s10664-010-9136-6",
     note="cited By 51",
     ID="Petersen2010654",
+    springer2015="1",
 ))
 
 petersen2010b = DB(WorkUnrelated(
@@ -1516,6 +1536,23 @@ pino2010b = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=1428035976173142851&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of systems and software",
     sciencedirect2015="1",
+))
+
+racheva2010a = DB(WorkUnrelated(
+    2010, "Do We Know Enough about Requirements Prioritization in Agile Projects: Insights from a Case Study",
+    display="racheva",
+    authors="Z. Racheva and M. Daneva and K. Sikkel and A. Herrmann and R. Wieringa",
+    place=FAKE,
+    pp="147-156",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="software engineering;agile project contexts;agile projects;agile software development approaches;business value delivery processes;cross case study;eight software organizations;essential mechanism;requirements prioritization;Companies;Context;Decision making;Interviews;Software;agile development;exploratory case study;requirements prioritization;value creation",
+    doi="10.1109/RE.2010.27",
+    issn="1090-705X",
+    ID="5636890",
+    ieee2015="1",
+    placex="2010 18th IEEE International Requirements Engineering Conference",
 ))
 
 ramler2010a = DB(WorkUnrelated(

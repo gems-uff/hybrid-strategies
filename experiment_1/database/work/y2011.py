@@ -260,6 +260,23 @@ becker2011b = DB(WorkUnrelated(
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
 ))
 
+betz2011a = DB(WorkUnrelated(
+    2011, "Risk-Aware Business Process Modeling and Simulation Using XML Nets",
+    display="betz",
+    authors="S. Betz and S. Hickl and A. Oberweis",
+    place=FAKE,
+    pp="349-356",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Petri nets;XML;business continuity;business data processing;corporate modelling;organisational aspects;risk management;Petri nets;XML nets;business continuity;business process management;organizational goals;risk aware business process modeling;risk aware business process simulation;risk identification techniques;risk management;risk visibility;Mathematical model;Petri nets;Risk management;Software;Unified modeling language;XML;Petri nets;business process management;business process modeling and simulation;risk management",
+    doi="10.1109/CEC.2011.58",
+    issn="2378-1963",
+    ID="6046998",
+    ieee2015="1",
+    placex="2011 IEEE 13th Conference on Commerce and Enterprise Computing",
+))
+
 birkhölzer2011a = DB(WorkSnowball(
     2011, "A framework for systematic evaluation of process improvement priorities",
     display="birkhölzer",
@@ -366,6 +383,23 @@ cedergren2011b = DB(WorkUnrelated(
     publisher="Miami Beach, USA",
     ID="cedergren2011making",
     placex="International Association for Management of Technology IAMOT 2011 Proceedings",
+))
+
+chastek2011a = DB(WorkUnrelated(
+    2011, "Engineering a Production Method for a Software Product Line",
+    display="chastek",
+    authors="G. Chastek and P. Donohoe and J. D. McGregor and D. Muthig",
+    place=FAKE,
+    pp="277-286",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="product development;software development management;software process improvement;core asset development;method engineering;product development;production method;software product line;Atmospheric modeling;Computer architecture;Organizations;Product development;Production;Software;Unified modeling language;method engineering;software product line",
+    doi="10.1109/SPLC.2011.46",
+    issn="",
+    ID="6030070",
+    ieee2015="1",
+    placex="2011 15th International Software Product Line Conference",
 ))
 
 chrissis2011a = DB(WorkUnrelated(
@@ -693,6 +727,23 @@ hassanzadeh2011a = DB(WorkUnrelated(
     placex="Knowledge-Based Systems",
 ))
 
+hongying2011a = DB(WorkUnrelated(
+    2011, "A customizable agile software Quality Assurance model",
+    display="hongying",
+    authors="G. Hongying and Y. Cheng",
+    place=FAKE,
+    pp="382-387",
+    entrytype="inproceedings",
+    volume="2",
+    number="",
+    keyword="quality assurance;software prototyping;software quality;AQAM;QA capability;agile software development teams;customizable agile software quality assurance model;software development process;software industry;Best practices;Capability maturity model;Guidelines;Organizations;Programming;Testing;Key Process Area;Process Model;Quality Assurance",
+    doi="",
+    issn="",
+    ID="6093459",
+    ieee2015="1",
+    placex="The 5th International Conference on New Trends in Information Science and Service Science",
+))
+
 humphrey2011a = DB(WorkUnrelated(
     2011, "A software maturity framework",
     display="humphrey",
@@ -852,6 +903,8 @@ kaneko2011a = DB(WorkSnowball( # 15
     ieee="1",
     final_selected="1",
     selected_order="5",
+    scopus2015="1",
+    ieee2015="1",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -915,6 +968,23 @@ kowalczyk2011a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Kowalczyk2011",
     placex="Proc. 8th Software Measurement European Forum (SMEF'2011)",
+))
+
+koznov2011a = DB(WorkUnrelated(
+    2011, "Process Model of DSM Solution Development and Evolution for Small and Medium-Sized Software Companies",
+    display="koznov",
+    authors="D. Koznov",
+    place=FAKE,
+    pp="85-92",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Unified Modeling Language;program compilers;small-to-medium enterprises;software development management;software maintenance;systems analysis;DSM project participation;DSM solution development;DSM solution evolution;UML practical usage;code generation;domain specific modeling approach;flexible requirement management;graphics editors;small and medium sized software companies;stable maintenance process;visual languages;Companies;Maintenance engineering;Planning;Programming;Software;Testing;Unified modeling language;DSM;MSF;model-based development;process model;visual modeling",
+    doi="10.1109/EDOCW.2011.58",
+    issn="2325-6583",
+    ID="6037606",
+    ieee2015="1",
+    placex="2011 IEEE 15th International Enterprise Distributed Object Computing Conference Workshops",
 ))
 
 krasner2011a = DB(WorkUnrelated(
@@ -1151,6 +1221,23 @@ nudurupati2011a = DB(WorkUnrelated(
     place=FAKE,
     other1="60(2):279290",
     placex="Comput Ind Eng",
+))
+
+nunes2011a = DB(WorkUnrelated(
+    2011, "Dynamic process adaptation: A context-aware approach",
+    display="nunes",
+    authors="V. T. Nunes and C. M. L. Werner and F. M. Santoro",
+    place=FAKE,
+    pp="97-104",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="business data processing;ubiquitous computing;business process;context information;context management architecture approach;context-aware approach;dynamic process adaptation;Adaptation models;Cognition;Context;Context modeling;Organizations;Uncertainty;Context management;business process design;dynamic adaptation",
+    doi="10.1109/CSCWD.2011.5960061",
+    issn="",
+    ID="5960061",
+    ieee2015="1",
+    placex="Proceedings of the 2011 15th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
 ))
 
 ollus2011a = DB(WorkUnrelated(

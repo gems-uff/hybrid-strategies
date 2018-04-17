@@ -350,6 +350,23 @@ grant2004a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+grechenig2004a = DB(WorkUnrelated(
+    2004, "Creating organic software maturity attitudes (COSMA) selected principles and activities for software maturity in small and medium software enterprises",
+    display="grechenig",
+    authors="T. Grechenig and W. Zuser",
+    place=FAKE,
+    pp="134-143",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="DP industry;quality management;small-to-medium enterprises;software process improvement;software quality;European SMSE;SM activities;SM principles;creating organic software maturity attitudes;development cultures;mainstream quality management;minimum QM kit;small-and-medium software enterprises;software quality assurance;Best practices;Companies;Computer industry;Engineering management;Paper technology;Project management;Quality management;Samarium;Software engineering;Software quality",
+    doi="10.1109/QSIC.2004.1357954",
+    issn="",
+    ID="1357954",
+    ieee2015="1",
+    placex="Fourth International Conference onQuality Software, 2004. QSIC 2004. Proceedings.",
+))
+
 guerrero2004a = DB(WorkUnrelated(
     2004, "Adopting the SW-CMM in a Small IT Organization",
     display="guerrero",

@@ -1065,6 +1065,23 @@ varkoi2001a = DB(WorkUnrelated(
     ieee2015="1",
 ))
 
+veer2001a = DB(WorkUnrelated(
+    2001, "The human-computer interface is the system; a plea for a poor man's HCI component in software engineering curricula",
+    display="veer",
+    authors="G. van der Veer and H. van Vliet",
+    place=FAKE,
+    pp="276-286",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="computer science education;educational courses;human factors;interactive systems;software engineering;teaching;user interfaces;HCI component;human-computer interaction;human-computer interface;integrated approach;minimal course;software development;software engineering approaches;software engineering curricula;system functionality;user interface design;user interface problems;Application software;Computer science;Engines;Human computer interaction;Interactive systems;Mathematics;Programming;Software engineering;Usability;User interfaces",
+    doi="10.1109/CSEE.2001.913854",
+    issn="1093-0175",
+    ID="913854",
+    ieee2015="1",
+    placex="Software Engineering Education and Training, 2001. Proceedings. 14th Conference on",
+))
+
 vohwinkel2001a = DB(WorkUnrelated(
     2001, "Test process assessments and improvement",
     display="vohwinkel",

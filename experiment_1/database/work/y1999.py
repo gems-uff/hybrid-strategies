@@ -235,6 +235,23 @@ garbett1999a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+griss1999a = DB(WorkUnrelated(
+    1999, "Architecting for large-scale systematic component reuse",
+    display="griss",
+    authors="M. L. Griss",
+    place=ICSE,
+    pp="615-616",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="software architecture;software reusability;UML;business and system modeling;component reuse;component-based software reuse;object-oriented;Application software;Business process re-engineering;Companies;Computer architecture;Large-scale systems;Object oriented modeling;Programming;Software quality;Software systems;Unified modeling language",
+    doi="10.1145/302405.302715",
+    issn="0270-5257",
+    ID="841056",
+    ieee2015="1",
+    placex="Proceedings of the 1999 International Conference on Software Engineering (IEEE Cat. No.99CB37002)",
+))
+
 halloran1999a = DB(WorkUnrelated(
     1999, "Organisational learning from the perspective of a software process assessment and improvement program",
     display="halloran",

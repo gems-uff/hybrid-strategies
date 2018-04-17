@@ -904,6 +904,23 @@ simon2002a = DB(WorkUnrelated(
     placex="Campus, Frankfurt/Main",
 ))
 
+software2002a = DB(WorkUnrelated(
+    2002, "Attaining Level 5 in CMM process maturity",
+    display="software",
+    authors="IEEE Software",
+    place=IEEES,
+    pp="87-96",
+    entrytype="article",
+    volume="19",
+    number="6",
+    keyword="software development management;software process improvement;Capability Maturity Model Level 5;aggressive process improvement initiative;process experience data;software-intensive organizations;Computer industry;Coordinate measuring machines;ISO standards;Packaging;Personnel;Refining;Sea measurements;Software engineering;Standards development;Systems engineering and theory",
+    doi="10.1109/MS.2002.1049397",
+    issn="0740-7459",
+    ID="1049397",
+    ieee2015="1",
+    placex="IEEE Software",
+))
+
 solingen2002a = DB(WorkUnrelated(
     2002, "Goal question metric (GQM) approach",
     display="solingen",

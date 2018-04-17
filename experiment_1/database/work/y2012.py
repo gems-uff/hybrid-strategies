@@ -255,6 +255,7 @@ chouseinoglou2012a = DB(WorkUnrelated(
     ID="10.1007/978-3-642-34347-6_15",
     springer="1",
     placex="Human-Centered Software Engineering",
+    acm2015="1",
 ))
 
 clarke2012a = DB(WorkUnrelated(
@@ -937,6 +938,23 @@ mayoral2012a = DB(WorkUnrelated(
     ID="mayoral2012marco",
     local="Universidad Carlos III de Madrid",
     placex="",
+))
+
+mazinanian2012a = DB(WorkUnrelated(
+    2012, "WDMES: A comprehensive measurement system for web application development",
+    display="mazinanian",
+    authors="D. Mazinanian and M. Doroodchi and M. Hassany",
+    place=FAKE,
+    pp="1-8",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="Internet;expert systems;software engineering;software metrics;statistical analysis;WDMES;Web application development;Web developers;Web development measurement expert system;Web information system;comprehensive measurement system;software engineering;software metric selection;statistical hypothesis testing;time-consuming task;well-grounded model;Complexity theory;Information systems;Object oriented modeling;Software;Software measurement;Unified modeling language;Metrics;Software Measurement;Web Information Systems",
+    doi="10.1145/2261605.2261625",
+    issn="",
+    ID="6218060",
+    ieee2015="1",
+    placex="2012 6th Euro American Conference on Telematics and Information Systems (EATIS)",
 ))
 
 mcbride2012a = DB(WorkUnrelated(

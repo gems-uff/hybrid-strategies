@@ -50,6 +50,23 @@ brandon1998a = DB(WorkUnrelated(
     placex="Project Management Journal",
 ))
 
+brebner1998a = DB(WorkUnrelated(
+    1998, "Software process improvement by example (SPIE)",
+    display="brebner",
+    authors="P. C. Brebner",
+    place=FAKE,
+    pp="88-95",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="project management;software engineering;software tools;SPIE;organisation;scientific software projects;software development culture;software development practices;software process engineer;software process improvement by example;software tools;Australia;Decision support systems;Electrical capacitance tomography;Expert systems;Geographic Information Systems;Information systems;Internet;Numerical simulation;Programming;Software engineering",
+    doi="10.1109/SEEP.1998.707637",
+    issn="",
+    ID="707637",
+    ieee2015="1",
+    placex="Proceedings. 1998 International Conference Software Engineering: Education and Practice (Cat. No.98EX220)",
+))
+
 dynsys1998a = DB(WorkUnrelated(
     1998, "IPT Learning Campus",
     display="dynsys",

@@ -1128,6 +1128,7 @@ mitrehernández2014a = DB(WorkUnrelated(
     placex="Ingeniería, Investigación y Tecnología",
     publisher="Elsevier",
     webofscience2015="1",
+    sciencedirect2015="1",
 ))
 
 muñoz2014a = DB(WorkUnrelated(

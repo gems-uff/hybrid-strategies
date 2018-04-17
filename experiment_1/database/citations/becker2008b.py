@@ -42,6 +42,7 @@ from ..work.y2014 import ullah2014a
 from ..work.y2017 import vasconcellos2017a
 from ..work.y2017 import moreira2017a
 from ..work.y2017 import moreira2017b
+from ..work.y2010 import armbrust2010b
 
 DB(Citation(
     becker2008b, akao1990b, ref="",

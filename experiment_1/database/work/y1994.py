@@ -130,6 +130,23 @@ debou1994a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+debou1994b = DB(WorkUnrelated(
+    1994, "A quantitative approach to software process management",
+    display="debou b",
+    authors="C. Debou and A. Kuntzmann-Combelles and A. Rowe",
+    place=ISMS,
+    pp="26-34",
+    entrytype="inproceedings",
+    volume="",
+    number="",
+    keyword="DP industry;DP management;project management;research initiatives;software metrics;AMI method;Capability Maturity Model;European software industry;Software Engineering Institute;action lists;analysis;assessment method;business goals;cost-effectiveness;goal-question-metric derived method;improvement;measurement;metrication;project management;project planning;quality objective matching;quantitative approach;senior management;software process management;Ambient intelligence;Collaborative software;Computer industry;Coordinate measuring machines;Particle measurements;Production;Project management;Software measurement;Software quality;Technology management",
+    doi="10.1109/METRIC.1994.344231",
+    issn="",
+    ID="344231",
+    ieee2015="1",
+    placex="Proceedings of 1994 IEEE 2nd International Software Metrics Symposium",
+))
+
 dedolph1994a = DB(WorkUnrelated(
     1994, "Software capability evaluation version 2.0 method description",
     display="dedolph",
