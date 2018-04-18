@@ -42,6 +42,19 @@ basili1995b = DB(WorkUnrelated(
     placex="Sloan Manag Rev",
 ))
 
+bhandari1995a = DB(WorkUnrelated(
+    1995, "On the use of machine-assisted knowledge discovery to analyze and reengineer measurement frameworks",
+    display="bhandari",
+    authors="Bhandari, Inderpal S and Mendonca, Manoel G and Dawson, Jack",
+    place=FAKE,
+    pp="6",
+    entrytype="inproceedings",
+    organization="IBM Press",
+    ID="bhandari1995use",
+    acm2015="1",
+    placex="Proceedings of the 1995 conference of the Centre for Advanced Studies on Collaborative research",
+))
+
 borum1995a = DB(WorkUnrelated(
     1995, "Strategies for Organizational Change",
     display="borum",

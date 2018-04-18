@@ -593,6 +593,19 @@ kauppinen2005a = DB(WorkUnrelated(
     placex="",
 ))
 
+lavazza2005a = DB(WorkUnrelated(
+    2005, "Automated support for process-aware definition and execution of measurement plans",
+    display="lavazza",
+    authors="Lavazza, Luigi and Barresi, Giancarlo",
+    place=ICSE,
+    pp="234--243",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lavazza2005automated",
+    acm2015="1",
+    placex="Software Engineering, 2005. ICSE 2005. Proceedings. 27th International Conference on",
+))
+
 lethbridge2005a = DB(WorkUnrelated(
     2005, "Studying Software Engineers: Data Collection Techniques for Software Field Studies",
     display="lethbridge",
@@ -870,6 +883,19 @@ thayer2005a = DB(WorkUnrelated(
     note="cited By 50",
     ID="Thayer2005",
     placex="Thayer, R.H. (Ed.): IEEE Computer Society",
+))
+
+theunissen2005a = DB(WorkUnrelated(
+    2005, "In search of the sweet spot: agile open collaborative corporate software development",
+    display="theunissen",
+    authors="Theunissen, WH and Boake, Andrew and Kourie, Derrick G",
+    place=FAKE,
+    pp="268--277",
+    entrytype="inproceedings",
+    organization="South African Institute for Computer Scientists and Information Technologists",
+    ID="theunissen2005search",
+    acm2015="1",
+    placex="Proceedings of the 2005 annual research conference of the South African institute of computer scientists and information technologists on IT research in developing countries",
 ))
 
 thomas2005a = DB(WorkUnrelated(

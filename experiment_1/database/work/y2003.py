@@ -189,6 +189,21 @@ boehm2003c = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+boehm2003d = DB(WorkUnrelated(
+    2003, "Value-based software engineering: reinventing",
+    display="boehm d",
+    authors="Boehm, Barry",
+    place=FAKE,
+    pp="3",
+    entrytype="article",
+    volume="28",
+    number="2",
+    publisher="ACM",
+    ID="boehm2003value",
+    acm2015="1",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
 brydon2003a = DB(WorkUnrelated(
     2003, "Why action research?",
     display="brydon",

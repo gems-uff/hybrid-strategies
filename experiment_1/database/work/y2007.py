@@ -121,6 +121,19 @@ armbrust2007a = DB(WorkUnrelated(
     placex="GI Jahrestagung (2)",
 ))
 
+avila2007a = DB(WorkUnrelated(
+    2007, "Using software product lines to manage model families in model-driven engineering",
+    display="avila",
+    authors="Avila-García, Orlando and García, Antonio Estévez and Rebull, E",
+    place=FAKE,
+    pp="1006--1011",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="avila2007using",
+    acm2015="1",
+    placex="Proceedings of the 2007 ACM symposium on Applied computing",
+))
+
 babar2007a = DB(WorkUnrelated(
     2007, "Towards Evolution of Strategic IT Requirements",
     display="babar",
@@ -350,6 +363,19 @@ coleman2007a = DB(WorkUnrelated(
     ID="Coleman2007654",
     placex="Information and Software Technology",
     sciencedirect2015="1",
+))
+
+cresswell2007a = DB(WorkUnrelated(
+    2007, "Assessing capability for justice information sharing",
+    display="cresswell",
+    authors="Cresswell, Anthony M and Pardo, Theresa A and Hassan, Shahidul",
+    place=FAKE,
+    pp="122--130",
+    entrytype="inproceedings",
+    organization="Digital Government Society of North America",
+    ID="cresswell2007assessing",
+    acm2015="1",
+    placex="Proceedings of the 8th annual international conference on Digital government research: bridging disciplines & domains",
 ))
 
 deng2007a = DB(WorkUnrelated(
@@ -1595,6 +1621,19 @@ watson2007a = DB(WorkUnrelated(
     note="cited By 259",
     ID="Watson200796",
     placex="Computer",
+))
+
+whitehead2007a = DB(WorkUnrelated(
+    2007, "Collaboration in software engineering: A roadmap",
+    display="whitehead",
+    authors="Whitehead, Jim",
+    place=FAKE,
+    pp="214--225",
+    entrytype="inproceedings",
+    organization="IEEE Computer Society",
+    ID="whitehead2007collaboration",
+    acm2015="1",
+    placex="2007 Future of Software Engineering",
 ))
 
 wilkie2007a = DB(WorkSnowball( # 10

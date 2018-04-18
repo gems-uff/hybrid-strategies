@@ -619,6 +619,19 @@ iversen2006a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+jantunen2006a = DB(WorkUnrelated(
+    2006, "Towards global market-driven software development processes: an industrial case study",
+    display="jantunen",
+    authors="Jantunen, Sami and Smolander, Kari",
+    place=FAKE,
+    pp="94--100",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="jantunen2006towards",
+    acm2015="1",
+    placex="Proceedings of the 2006 international workshop on Global software development for the practitioner",
+))
+
 jha2006a = DB(WorkUnrelated(
     2006, "Problem Frames Approach to Web Services Requirements",
     display="jha",

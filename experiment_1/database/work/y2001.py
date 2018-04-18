@@ -336,6 +336,21 @@ daneva2001a = DB(WorkUnrelated(
     placex="New Approaches in Software Measurement",
 ))
 
+daneva2001b = DB(WorkUnrelated(
+    2001, "Evaluating the value-added benefits of using requirements reuse metrics in ERP projects",
+    display="daneva b",
+    authors="Daneva, Maya",
+    place=FAKE,
+    pp="155--163",
+    entrytype="article",
+    volume="26",
+    number="3",
+    publisher="ACM",
+    ID="daneva2001evaluating",
+    acm2015="1",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
 dekkers2001a = DB(WorkUnrelated(
     2001, "Project Improvement as Start-up",
     display="dekkers",

@@ -329,6 +329,21 @@ cox2009a = DB(WorkUnrelated(
     placex="IET software",
 ))
 
+desai2009a = DB(WorkUnrelated(
+    2009, "Amoeba: A methodology for modeling and evolving cross-organizational business processes",
+    display="desai",
+    authors="Desai, Nirmit and Chopra, Amit K and Singh, Munindar P",
+    place=ToSE,
+    pp="6",
+    entrytype="article",
+    volume="19",
+    number="2",
+    publisher="ACM",
+    ID="desai2009amoeba",
+    acm2015="1",
+    placex="ACM Transactions on Software Engineering and Methodology (TOSEM)",
+))
+
 dubinsky2009a = DB(WorkUnrelated(
     2009, "Software Development Governance (SDG): Report on 2Nd Workshop",
     display="dubinsky",
@@ -391,6 +406,19 @@ egorova2009a = DB(WorkUnrelated(
     cluster_id="2222336401975279588",
     scholar="http://scholar.google.com/scholar?cites=2222336401975279588&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications, 2009. SEAA'09. 35th Euromicro Conference on",
+))
+
+elsner2009a = DB(WorkUnrelated(
+    2009, "Product derivation for solution-driven product line engineering",
+    display="elsner",
+    authors="Elsner, Christoph and Lohmann, Daniel and Schröder-Preikschat, Wolfgang",
+    place=FAKE,
+    pp="35--41",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="elsner2009product",
+    acm2015="1",
+    placex="Proceedings of the First International Workshop on Feature-Oriented Software Development",
 ))
 
 emam2009a = DB(WorkUnrelated(
@@ -1547,6 +1575,19 @@ trienekens2009a = DB(WorkSnowball( # 22
     final_selected="1",
     selected_order="7",
     springer2015="1",
+))
+
+tun2009a = DB(WorkUnrelated(
+    2009, "Relating requirements and feature configurations: A systematic approach",
+    display="tun",
+    authors="Than Tun, Thein and Boucher, Quentin and Classen, Andreas and Hubaux, Arnaud and Heymans, Patrick",
+    place=IEEE,
+    pp="201--210",
+    entrytype="inproceedings",
+    organization="Carnegie Mellon University",
+    ID="than2009relating",
+    acm2015="1",
+    placex="Proceedings of the 13th International Software Product Line Conference",
 ))
 
 umarji2009a = DB(WorkUnrelated(

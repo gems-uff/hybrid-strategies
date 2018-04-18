@@ -317,6 +317,19 @@ bjørnson2008a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+boustedt2008a = DB(WorkUnrelated(
+    2008, "A methodology for exploring students' experiences and interaction with large-scale software through role-play and phenomenography",
+    display="boustedt",
+    authors="Boustedt, Jonas",
+    place=FAKE,
+    pp="27--38",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="boustedt2008methodology",
+    acm2015="1",
+    placex="Proceedings of the Fourth international Workshop on Computing Education Research",
+))
+
 brindgeland2008a = DB(WorkUnrelated(
     2008, "Business modeling: a practical guide to realizing business value",
     display="brindgeland",
@@ -1469,6 +1482,21 @@ qumer2008a = DB(WorkUnrelated(
     ID="Qumer20081899",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+))
+
+ramsin2008a = DB(WorkUnrelated(
+    2008, "Process-centered review of object oriented software development methodologies",
+    display="ramsin",
+    authors="Ramsin, Raman and Paige, Richard F",
+    place=CSUR,
+    pp="3",
+    entrytype="article",
+    volume="40",
+    number="1",
+    publisher="ACM",
+    ID="ramsin2008process",
+    acm2015="1",
+    placex="ACM Computing Surveys (CSUR)",
 ))
 
 rasidi2008a = DB(WorkUnrelated(

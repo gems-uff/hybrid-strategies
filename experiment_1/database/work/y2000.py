@@ -383,6 +383,19 @@ feldmann2000a = DB(WorkUnrelated(
     placex="Learning Software Organizations",
 ))
 
+harter2000a = DB(WorkUnrelated(
+    2000, "Process maturity and software quality: a field study",
+    display="harter",
+    authors="Harter, Donald E and Slaughter, Sandra A",
+    place=ICEIS,
+    pp="407--411",
+    entrytype="inproceedings",
+    organization="Association for Information Systems",
+    ID="harter2000process",
+    acm2015="1",
+    placex="Proceedings of the twenty first international conference on Information systems",
+))
+
 iso2000a = DB(WorkUnrelated(
     2000, "ISO 9001:2000",
     display="iso",

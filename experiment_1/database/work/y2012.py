@@ -1262,6 +1262,21 @@ messnarz2012a = DB(WorkUnrelated(
     placex="European Conference on Software Process Improvement",
 ))
 
+mishra2012a = DB(WorkUnrelated(
+    2012, "E-government: exploring the different dimensions of challenges, implementation, and success factors",
+    display="mishra",
+    authors="Mishra, Alok and Mishra, Deepti",
+    place=FAKE,
+    pp="23--37",
+    entrytype="article",
+    volume="42",
+    number="4",
+    publisher="ACM",
+    ID="mishra2012government",
+    acm2015="1",
+    placex="ACM SIGMIS Database: the DATABASE for Advances in Information Systems",
+))
+
 molina2012a = DB(WorkUnrelated(
     2012, "Soporte organizacional de medición y evaluación orientada a objetivos y sensible al contexto",
     display="molina",
@@ -1307,6 +1322,19 @@ murphy2012a = DB(WorkUnrelated(
     ID="Murphy201250",
     sciencedirect="1",
     placex="Procedia Technology",
+))
+
+muñoz2012a = DB(WorkUnrelated(
+    2012, "Surprise: User-controlled granular privacy and security for personal data in smartercontext",
+    display="muñoz",
+    authors="Muñoz, Juan C and Tamura, Gabriel and Villegas, Norha M and Müller, Hausi A",
+    place=FAKE,
+    pp="131--145",
+    entrytype="inproceedings",
+    organization="IBM Corp.",
+    ID="munoz2012surprise",
+    acm2015="1",
+    placex="Proceedings of the 2012 Conference of the Center for Advanced Studies on Collaborative Research",
 ))
 
 müller2012a = DB(WorkUnrelated(

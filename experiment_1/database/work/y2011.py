@@ -254,6 +254,19 @@ becker2011b = DB(WorkUnrelated(
     placex="Proceedings of the 2011 International Conference on Software and Systems Process",
 ))
 
+benestad2011a = DB(WorkUnrelated(
+    2011, "A comparison of model-based and judgment-based release planning in incremental software projects",
+    display="benestad",
+    authors="Benestad, Hans Christian and Hannay, Jo E",
+    place=ICSE,
+    pp="766--775",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="benestad2011comparison",
+    acm2015="1",
+    placex="Proceedings of the 33rd International Conference on Software Engineering",
+))
+
 betz2011a = DB(WorkUnrelated(
     2011, "Risk-Aware Business Process Modeling and Simulation Using XML Nets",
     display="betz",
@@ -554,6 +567,19 @@ dog2011a = DB(WorkUnrelated(
     ID="Dogša2011",
     springer2015="1",
     placex="Software Quality Journal",
+))
+
+duszynski2011a = DB(WorkUnrelated(
+    2011, "A scalable goal-oriented approach to software variability recovery",
+    display="duszynski",
+    authors="Duszynski, Slawomir",
+    place=FAKE,
+    pp="42",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="duszynski2011scalable",
+    acm2015="1",
+    placex="Proceedings of the 15th International Software Product Line Conference, Volume 2",
 ))
 
 el2011a = DB(WorkUnrelated(
@@ -1243,6 +1269,19 @@ li2011a = DB(WorkUnrelated(
     placex="2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY APPLICATION (AASRI-AIIA 2011), VOL 1",
 ))
 
+maheshwari2011a = DB(WorkUnrelated(
+    2011, "A multi-level framework for measuring and benchmarking public service organizations: connecting stages-of-growth models and enterprise architecture",
+    display="maheshwari",
+    authors="Maheshwari, Devender and Janssen, Marijn and van Veenstra, Anne Fleur",
+    place=FAKE,
+    pp="73--80",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="maheshwari2011multi",
+    acm2015="1",
+    placex="Proceedings of the 5th International Conference on Theory and Practice of Electronic Governance",
+))
+
 martinez2011a = DB(WorkUnrelated(
     2011, "Modelling software process variability: an empirical study",
     display="martinez",
@@ -1790,6 +1829,19 @@ stallinger2011a = DB(WorkUnrelated(
     webofscience2015="1",
     elcompendex2015="1",
     scopus2015="1",
+))
+
+stallinger2011b = DB(WorkUnrelated(
+    2011, "Migrating towards evolving software product lines: challenges of an SME in a core customer-driven industrial systems engineering context",
+    display="stallinger b",
+    authors="Stallinger, Fritz and Neumann, Robert and Schossleitner, Robert and Kriener, Stephan",
+    place=FAKE,
+    pp="20--24",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="stallinger2011migrating",
+    acm2015="1",
+    placex="Proceedings of the 2nd International Workshop on Product Line Approaches in Software Engineering",
 ))
 
 staron2011a = DB(WorkUnrelated(

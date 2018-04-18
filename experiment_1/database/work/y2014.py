@@ -61,6 +61,19 @@ al2014a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
 ))
 
+al2014b = DB(WorkUnrelated(
+    2014, "Cloud-based support for global software engineering: Potentials, risks, and gaps",
+    display="al b",
+    authors="Al-qadhi, Mohammed and Keung, Jacky",
+    place=FAKE,
+    pp="57--64",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="al2014cloud",
+    acm2015="1",
+    placex="Proceedings of the International Workshop on Innovative Software Development Methodologies and Practices",
+))
+
 ali2014a = DB(WorkUnrelated(
     2014, "A systematic literature review on the industrial use of software process simulation",
     display="ali",
@@ -351,6 +364,19 @@ bosch2014a = DB(WorkUnrelated(
     ID="Bosch:2014:ETD:2648511.2648560",
     acm="1",
     placex="Proceedings of the 18th International Software Product Line Conference - Volume 1",
+))
+
+bourimi2014a = DB(WorkUnrelated(
+    2014, "Non-Functional Requirements for Distributable User Interfaces in Agile Processes",
+    display="bourimi",
+    authors="Bourimi, Mohamed and Tesoriero, Ricardo",
+    place=FAKE,
+    pp="54--66",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="bourimi2014non",
+    acm2015="1",
+    placex="Proceedings of the 2014 Workshop on Distributed User Interfaces and Multimodal Interaction",
 ))
 
 bowes2014a = DB(WorkUnrelated(
@@ -780,6 +806,19 @@ felderer2014b = DB(WorkUnrelated(
     ID="Felderer2014",
     springer2015="1",
     placex="Software Quality Journal",
+))
+
+felderer2014c = DB(WorkUnrelated(
+    2014, "Industrial evaluation of the impact of quality-driven release planning",
+    display="felderer c",
+    authors="Felderer, Michael and Beer, Armin and Ho, Jason and Ruhe, Guenther",
+    place=ESEM,
+    pp="62",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="felderer2014industrial",
+    acm2015="1",
+    placex="Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement",
 ))
 
 fernandez2014a = DB(WorkUnrelated(
@@ -1473,6 +1512,19 @@ mahanti2014a = DB(WorkUnrelated(
     number="4",
     ID="mahanti2014application",
     placex="Software Quality Professional",
+))
+
+matthiesen2014a = DB(WorkUnrelated(
+    2014, "Figure out how to code with the hands of others: recognizing cultural blind spots in global software development",
+    display="matthiesen",
+    authors="Matthiesen, Stina and Bjørn, Pernille and Petersen, Lise Møller",
+    place=FAKE,
+    pp="1107--1119",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="matthiesen2014figure",
+    acm2015="1",
+    placex="Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing",
 ))
 
 mercer2014a = DB(WorkUnrelated(

@@ -1204,6 +1204,19 @@ lohrmann2013a = DB(WorkUnrelated(
     placex="Finance Bundling and Finance Transformation",
 ))
 
+macmahon2013a = DB(WorkUnrelated(
+    2013, "Risk management of medical IT networks: an ISO/IEC 15504 compliant approach to assessment against IEC 80001-1",
+    display="macmahon",
+    authors="MacMahon, Silvana Togneri and McCaffery, Fergal and Keenan, Frank",
+    place=FAKE,
+    pp="156--160",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="macmahon2013risk",
+    acm2015="1",
+    placex="Proceedings of the 2013 International Conference on Software and System Process",
+))
+
 maglyas2013a = DB(WorkUnrelated(
     2013, "What are the roles of software product managers? An empirical investigation",
     display="maglyas",
@@ -1429,6 +1442,21 @@ münch2013e = DB(WorkUnrelated(
     cluster_id="17169198460464709093",
     scholar="http://scholar.google.com/scholar?cites=17169198460464709093&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Lean Enterprise Software and Systems",
+))
+
+notander2013a = DB(WorkUnrelated(
+    2013, "SimPal: a design study on a framework for flexible safety-critical software development",
+    display="notander",
+    authors="Notander, Jesper Pedersen and Runeson, Per and Höst, Martin",
+    place=FAKE,
+    pp="17--29",
+    entrytype="article",
+    volume="13",
+    number="4",
+    publisher="ACM",
+    ID="notander2013simpal",
+    acm2015="1",
+    placex="ACM SIGAPP Applied Computing Review",
 ))
 
 novais2013a = DB(WorkUnrelated(
