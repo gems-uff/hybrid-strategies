@@ -403,6 +403,21 @@ kautz1999b = DB(WorkUnrelated(
     placex="Journal of the Software Process-Improvement and Practice",
 ))
 
+kellner1999a = DB(WorkUnrelated(
+    1999, "Software process simulation modeling: why? what? how?",
+    display="kellner",
+    authors="Kellner, Marc I and Madachy, Raymond J and Raffo, David M",
+    place=JSS,
+    pp="91--105",
+    entrytype="article",
+    volume="46",
+    number="2-3",
+    publisher="Elsevier",
+    ID="kellner1999software",
+    sciencedirect2015="1",
+    placex="Journal of Systems and Software",
+))
+
 leung1999a = DB(WorkUnrelated(
     1999, "Slow Change of Information System Development Practice",
     display="leung",

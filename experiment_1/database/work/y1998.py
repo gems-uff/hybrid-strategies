@@ -439,6 +439,21 @@ kontio1998a = DB(WorkUnrelated(
     placex="",
 ))
 
+krishnan1998a = DB(WorkUnrelated(
+    1998, "An empirical analysis of customer satisfaction for Intranet marketing systems",
+    display="krishnan",
+    authors="Krishnan, Mayuram S and Ramaswamy, Venkatram",
+    place=FAKE,
+    pp="45--54",
+    entrytype="article",
+    volume="24",
+    number="1",
+    publisher="Elsevier",
+    ID="krishnan1998empirical",
+    sciencedirect2015="1",
+    placex="Decision Support Systems",
+))
+
 latum1998a = DB(WorkUnrelated(
     1998, "Adopting GQM - Based measurement in an industrial environment",
     display="latum",

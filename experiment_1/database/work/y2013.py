@@ -79,6 +79,20 @@ ali2013a = DB(WorkUnrelated(
     placex="World Applied Sciences Journal",
 ))
 
+allué2013a = DB(WorkUnrelated(
+    2013, "QRP: a CMMI appraisal tool for project quality management",
+    display="allué",
+    authors="Allué, Alberto and Domínguez, Eladio and López, Antonio and Zapata, María A",
+    place=FAKE,
+    pp="664--669",
+    entrytype="article",
+    volume="9",
+    publisher="Elsevier",
+    ID="allue2013qrp",
+    sciencedirect2015="1",
+    placex="Procedia Technology",
+))
+
 alshammari2013a = DB(WorkUnrelated(
     2013, "The effect of geographical region on the transition time of CMMI-based software process improvement",
     display="alshammari",

@@ -1,0 +1,41 @@
+@article{krishnan1998empirical,
+  title={An empirical analysis of customer satisfaction for Intranet marketing systems},
+  author={Krishnan, Mayuram S and Ramaswamy, Venkatram},
+  journal={Decision Support Systems},
+  volume={24},
+  number={1},
+  pages={45--54},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{fernandes2011performance,
+  title={Performance evaluation of software development teams: a practical case study},
+  author={Fernandes, Paulo and Sales, Afonso and Santos, Alan R and Webber, Thais},
+  journal={Electronic Notes in Theoretical Computer Science},
+  volume={275},
+  pages={73--92},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{allue2013qrp,
+  title={QRP: a CMMI appraisal tool for project quality management},
+  author={Allu{\'e}, Alberto and Dom{\'\i}nguez, Eladio and L{\'o}pez, Antonio and Zapata, Mar{\'\i}a A},
+  journal={Procedia Technology},
+  volume={9},
+  pages={664--669},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{kellner1999software,
+  title={Software process simulation modeling: why? what? how?},
+  author={Kellner, Marc I and Madachy, Raymond J and Raffo, David M},
+  journal={Journal of Systems and Software},
+  volume={46},
+  number={2-3},
+  pages={91--105},
+  year={1999},
+  publisher={Elsevier}
+}

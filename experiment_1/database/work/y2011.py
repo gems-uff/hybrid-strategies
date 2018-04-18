@@ -607,6 +607,20 @@ esfahani2011b = DB(WorkUnrelated(
     placex="CAiSE Forum",
 ))
 
+fernandes2011a = DB(WorkUnrelated(
+    2011, "Performance evaluation of software development teams: a practical case study",
+    display="fernandes",
+    authors="Fernandes, Paulo and Sales, Afonso and Santos, Alan R and Webber, Thais",
+    place=FAKE,
+    pp="73--92",
+    entrytype="article",
+    volume="275",
+    publisher="Elsevier",
+    ID="fernandes2011performance",
+    sciencedirect2015="1",
+    placex="Electronic Notes in Theoretical Computer Science",
+))
+
 fernández2011a = DB(WorkUnrelated(
     2011, "Towards estimating the value of an idea",
     display="fernández",
