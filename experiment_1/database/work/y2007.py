@@ -475,6 +475,26 @@ farooq2007a = DB(WorkUnrelated(
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
+ferreira2007a = DB(WorkUnrelated(
+    2007, "Applying ISO 9001: 2000, MPS.BR and CMMI to Achieve Software Process Maturity: BL Informatica's Pathway",
+    display="ferreira",
+    authors="Irigoyen Ferreiro Ferreira, Analia and Santos, Gleison and Cerqueira, Roberta and Montoni, Mariano and Barreto, Ahilton and Soares Barreto, Andrea O. and Rocha, Ana Regina",
+    place=ICSE,
+    pp="642--651",
+    entrytype="inproceedings",
+    series="ICSE '07",
+    isbn="0-7695-2828-7",
+    numpages="10",
+    link="http://dx.doi.org/10.1109/ICSE.2007.15",
+    doi="10.1109/ICSE.2007.15",
+    acmid="1248894",
+    publisher="IEEE Computer Society",
+    address="Washington, DC, USA",
+    ID="IrigoyenFerreiroFerreira:2007:AI9:1248820.1248894",
+    acm2015="1",
+    placex="Proceedings of the 29th International Conference on Software Engineering",
+))
+
 garcía2007a = DB(WorkUnrelated(
     2007, "Managing software process measurement: A metamodel-based approach",
     display="garcía",
@@ -1049,6 +1069,50 @@ savioja2007a = DB(WorkUnrelated(
     cluster_id="16914625710543940302",
     scholar="http://scholar.google.com/scholar?cites=16914625710543940302&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Process: Improvement and Practice",
+))
+
+scacchi2007a = DB(WorkUnrelated(
+    2007, "Free/Open Source Software Development",
+    display="scacchi",
+    authors="Scacchi, Walt",
+    place=SIGSOFT,
+    pp="459--468",
+    entrytype="inproceedings",
+    series="ESEC-FSE '07",
+    isbn="978-1-59593-811-4",
+    location="Dubrovnik, Croatia",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1287624.1287689",
+    doi="10.1145/1287624.1287689",
+    acmid="1287689",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="empirical studies, free software, open source software, socio-technical relationships, software development practices",
+    ID="Scacchi:2007:FSS:1287624.1287689",
+    acm2015="1",
+    placex="Proceedings of the the 6th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on The Foundations of Software Engineering",
+))
+
+scacchi2007b = DB(WorkUnrelated(
+    2007, "Free/Open Source Software Development: Recent Research Results and Emerging Opportunities",
+    display="scacchi b",
+    authors="Scacchi, Walt",
+    place=FAKE,
+    pp="459--468",
+    entrytype="inproceedings",
+    series="ESEC-FSE companion '07",
+    isbn="978-1-59593-812-1",
+    location="Dubrovnik, Croatia",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1295014.1295019",
+    doi="10.1145/1295014.1295019",
+    acmid="1295019",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="empirical studies, free software, open source software, socio-technical relationships, software development practices",
+    ID="Scacchi:2007:FSS:1295014.1295019",
+    acm2015="1",
+    placex="The 6th Joint Meeting on European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering: Companion Papers",
 ))
 
 schalken2007a = DB(WorkUnrelated(

@@ -18,6 +18,27 @@ abrahamsson2001a = DB(WorkUnrelated(
     placex="Scandinavian Journal of Information Systems",
 ))
 
+abrahamsson2001b = DB(WorkUnrelated(
+    2001, "Commitment Development in Software Process Improvement: Critical Misconceptions",
+    display="abrahamsson b",
+    authors="Abrahamsson, Pekka",
+    place=ICSE,
+    pp="71--80",
+    entrytype="inproceedings",
+    series="ICSE '01",
+    isbn="0-7695-1050-7",
+    location="Toronto, Ontario, Canada",
+    numpages="10",
+    link="http://dl.acm.org/citation.cfm?id=381473.381480",
+    acmid="381480",
+    publisher="IEEE Computer Society",
+    address="Washington, DC, USA",
+    keyword="commitment, commitment models, forms of commitment, misconceptions, software process improvement",
+    ID="Abrahamsson:2001:CDS:381473.381480",
+    acm2015="1",
+    placex="Proceedings of the 23rd International Conference on Software Engineering",
+))
+
 bacon2001a = DB(WorkUnrelated(
     2001, "A Systemic Framework for the Field of Information Systems",
     display="bacon",
@@ -243,6 +264,33 @@ cmmi2001a = DB(WorkUnrelated(
     note="cited By 1",
     ID="CMMI2001",
     placex="Integration (CMMI SM), Version 1.1. Technical Report",
+))
+
+conradi2001a = DB(WorkUnrelated(
+    2001, "An Empirical Study on the Utility of Formal Routines to Transfer Knowledge and Experience",
+    display="conradi",
+    authors="Conradi, Reidar and Dybå, Tore",
+    place=FAKE,
+    pp="268--276",
+    entrytype="article",
+    issue_date="Sept. 2001",
+    volume="26",
+    number="5",
+    month="sep",
+    issn="0163-5948",
+    numpages="9",
+    link="http://doi.acm.org/10.1145/503271.503246",
+    doi="10.1145/503271.503246",
+    acmid="503246",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="developer attitudes, formal routines, knowledge management, knowledge transfer, software process improvement",
+    ID="Conradi:2001:ESU:503271.503246",
+    acm2015="1",
+    placex="SIGSOFT Softw. Eng. Notes",
+    series="ESEC/FSE-9",
+    isbn="1-58113-390-1",
+    location="Vienna, Austria",
 ))
 
 counsell2001a = DB(WorkUnrelated(

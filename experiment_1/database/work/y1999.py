@@ -586,6 +586,25 @@ sytsma1999a = DB(WorkUnrelated(
     placex="www.sytsma.com/tqmtools/tqmtoolmenu.html",
 ))
 
+ward1999a = DB(WorkUnrelated(
+    1999, "Some Observations on Software Quality",
+    display="ward",
+    authors="Ward,Jr., William A and Venkataraman, B.",
+    place=FAKE,
+    entrytype="inproceedings",
+    series="ACM-SE 37",
+    isbn="1-58113-128-3",
+    articleno="2",
+    link="http://doi.acm.org/10.1145/306363.306367",
+    doi="10.1145/306363.306367",
+    acmid="306367",
+    publisher="ACM",
+    address="New York, NY, USA",
+    ID="Ward:1999:OSQ:306363.306367",
+    acm2015="1",
+    placex="Proceedings of the 37th Annual Southeast Regional Conference (CD-ROM)",
+))
+
 wastell1999a = DB(WorkUnrelated(
     1999, "The Human Dimension of the Software Process",
     display="wastell",

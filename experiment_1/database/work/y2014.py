@@ -63,6 +63,28 @@ ali2014a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+alkadhi2014a = DB(WorkUnrelated(
+    2014, "Can Collaborative Tagging Improve User Feedback? A Case Study",
+    display="alkadhi",
+    authors="Alkadhi, Rana and Pagano, Dennis and Bruegge, Bernd",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    series="SSE 2014",
+    isbn="978-1-4503-3227-9",
+    location="Hong Kong, China",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/2661685.2661692",
+    doi="10.1145/2661685.2661692",
+    acmid="2661692",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Social software, collaborative tagging, user feedback, user involvement",
+    ID="Alkadhi:2014:CTI:2661685.2661692",
+    acm2015="1",
+    placex="Proceedings of the 6th International Workshop on Social Software Engineering",
+))
+
 alshehri2014a = DB(WorkUnrelated(
     2014, "Ahp-based methodology for a complex decision support in extreme programming",
     display="alshehri",
@@ -116,6 +138,28 @@ astromskis2014a = DB(WorkUnrelated(
     cluster_id="2338607806176101156",
     scholar="http://scholar.google.com/scholar?cites=2338607806176101156&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on",
+))
+
+aysolmaz2014a = DB(WorkUnrelated(
+    2014, "Modeling Business Processes to Generate Artifacts for Software Development: A Methodology",
+    display="aysolmaz",
+    authors="Aysolmaz, Banu and Demirors, Onur",
+    place=PMSE,
+    pp="7--12",
+    entrytype="inproceedings",
+    series="MiSE 2014",
+    isbn="978-1-4503-2849-4",
+    location="Hyderabad, India",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/2593770.2593775",
+    doi="10.1145/2593770.2593775",
+    acmid="2593775",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Business process modeling, COSMIC, business glossary, process definition document, process metrics, requirements analysis, software size estimation",
+    ID="Aysolmaz:2014:MBP:2593770.2593775",
+    acm2015="1",
+    placex="Proceedings of the 6th International Workshop on Modeling in Software Engineering",
 ))
 
 barafort2014a = DB(WorkUnrelated(
@@ -678,6 +722,28 @@ ferreira2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+fitzgerald2014a = DB(WorkUnrelated(
+    2014, "Continuous Software Engineering and Beyond: Trends and Challenges",
+    display="fitzgerald",
+    authors="Fitzgerald, Brian and Stol, Klaas-Jan",
+    place=FAKE,
+    pp="1--9",
+    entrytype="inproceedings",
+    series="RCoSE 2014",
+    isbn="978-1-4503-2856-2",
+    location="Hyderabad, India",
+    numpages="9",
+    link="http://doi.acm.org/10.1145/2593812.2593813",
+    doi="10.1145/2593812.2593813",
+    acmid="2593813",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="BizDev, Continuous Star, DevOps, continuous software engineering",
+    ID="Fitzgerald:2014:CSE:2593812.2593813",
+    acm2015="1",
+    placex="Proceedings of the 1st International Workshop on Rapid Continuous Software Engineering",
+))
+
 fontana2014a = DB(WorkUnrelated(
     2014, "Processes versus people: How should agile software development maturity be defined?",
     display="fontana",
@@ -1007,6 +1073,29 @@ kim2014a = DB(WorkUnrelated(
     cluster_id="4638945669897366306",
     scholar="http://scholar.google.com/scholar?cites=4638945669897366306&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE Transactions on Professional Communication",
+))
+
+kirk2014a = DB(WorkUnrelated(
+    2014, "Investigating a Conceptual Construct for Software Context",
+    display="kirk",
+    authors="Kirk, Diana and MacDonell, Stephen G.",
+    place=EASE,
+    pp="27:1--27:10",
+    entrytype="inproceedings",
+    series="EASE '14",
+    isbn="978-1-4503-2476-2",
+    location="London, England, United Kingdom",
+    articleno="27",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2601248.2601263",
+    doi="10.1145/2601248.2601263",
+    acmid="2601263",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="software context, theory building",
+    ID="Kirk:2014:ICC:2601248.2601263",
+    acm2015="1",
+    placex="Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering",
 ))
 
 kluth2014a = DB(WorkUnrelated(
@@ -1627,6 +1716,28 @@ solaimani2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+stol2014a = DB(WorkUnrelated(
+    2014, "Two's Company, Three's a Crowd: A Case Study of Crowdsourcing Software Development",
+    display="stol",
+    authors="Stol, Klaas-Jan and Fitzgerald, Brian",
+    place=ICSE,
+    pp="187--198",
+    entrytype="inproceedings",
+    series="ICSE 2014",
+    isbn="978-1-4503-2756-5",
+    location="Hyderabad, India",
+    numpages="12",
+    link="http://doi.acm.org/10.1145/2568225.2568249",
+    doi="10.1145/2568225.2568249",
+    acmid="2568249",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Crowdsourcing, case study, challenges, software development",
+    ID="Stol:2014:TCT:2568225.2568249",
+    acm2015="1",
+    placex="Proceedings of the 36th International Conference on Software Engineering",
+))
+
 sulayman2014a = DB(WorkUnrelated(
     2014, "Towards a theoretical framework of \SPI\ success factors for small and medium web companies",
     display="sulayman",
@@ -1897,6 +2008,28 @@ wang2014a = DB(WorkUnrelated(
     placex="Proceedings of the 18th International Symposium on Advancement of Construction Management and Real Estate",
 ))
 
+wiesche2014a = DB(WorkUnrelated(
+    2014, "The Relationship of Personality Models and Development Tasks in Software Engineering",
+    display="wiesche",
+    authors="Wiesche, Manuel and Krcmar, Helmut",
+    place=FAKE,
+    pp="149--161",
+    entrytype="inproceedings",
+    series="SIGSIM-CPR '14",
+    isbn="978-1-4503-2625-4",
+    location="Singapore, Singapore",
+    numpages="13",
+    link="http://doi.acm.org/10.1145/2599990.2600012",
+    doi="10.1145/2599990.2600012",
+    acmid="2600012",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="big 5 personality dimensions, disposition, five factors model (ffm), job diagnostic survey (jds), literature review, myers-briggs type indicator (mbti), personality, software engineering",
+    ID="Wiesche:2014:RPM:2599990.2600012",
+    acm2015="1",
+    placex="Proceedings of the 52Nd ACM Conference on Computers and People Research",
+))
+
 youn2014a = DB(WorkUnrelated(
     2014, "Probabilistic Bug Localization via Statistical Inference Based on Partially Observed Data",
     display="youn",
@@ -1925,6 +2058,28 @@ yuen2014a = DB(WorkUnrelated(
     cluster_id="8931553438472967999",
     scholar="http://scholar.google.com/scholar?cites=8931553438472967999&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Neurocomputing",
+))
+
+zahedi2014a = DB(WorkUnrelated(
+    2014, "Towards an Understanding of Enabling Process Knowing in Global Software Development: A Case Study",
+    display="zahedi",
+    authors="Zahedi, Mansooreh and Babar, Muhammad Ali",
+    place=FAKE,
+    pp="30--39",
+    entrytype="inproceedings",
+    series="ICSSP 2014",
+    isbn="978-1-4503-2754-1",
+    location="Nanjing, China",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2600821.2600836",
+    doi="10.1145/2600821.2600836",
+    acmid="2600836",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Case Study, Empirical Software Engineering, GSD, Knowledge Management, Process Improvement",
+    ID="Zahedi:2014:TUE:2600821.2600836",
+    acm2015="1",
+    placex="Proceedings of the 2014 International Conference on Software and System Process",
 ))
 
 zawedde2014a = DB(WorkUnrelated(

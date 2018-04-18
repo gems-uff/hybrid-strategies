@@ -1082,6 +1082,27 @@ trienekens2004a = DB(WorkSnowball(
     selected_order="48",
 ))
 
+turnu2004a = DB(WorkUnrelated(
+    2004, "Introducing TDD on a Free Libre Open Source Software Project: A Simulation Experiment",
+    display="turnu",
+    authors="Turnu, Ivana and Melis, Marco and Cau, Alessandra and Marchesi, Michele and Setzu, Alessio",
+    place=FAKE,
+    pp="59--65",
+    entrytype="inproceedings",
+    series="QUTE-SWAP '04",
+    location="Newport Beach, California",
+    numpages="7",
+    link="http://doi.acm.org/10.1145/1151433.1151442",
+    doi="10.1145/1151433.1151442",
+    acmid="1151442",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="discrete event modeling, open source process, process modeling and simulation",
+    ID="Turnu:2004:ITF:1151433.1151442",
+    acm2015="1",
+    placex="Proceedings of the 2004 Workshop on Quantitative Techniques for Software Agile Process",
+))
+
 wilkie2004a = DB(WorkUnrelated(
     2004, "The centre for software process technologies: A model for process improvement in geographical regions with small software industries",
     display="wilkie",

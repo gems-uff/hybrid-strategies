@@ -136,6 +136,28 @@ babar2008b = DB(WorkUnrelated(
     placex="Proceedings of the 2008 ACM Symposium on Applied Computing",
 ))
 
+bannerman2008a = DB(WorkUnrelated(
+    2008, "Capturing Business Benefits from Process Improvement: Four Fallacies and What to Do About Them",
+    display="bannerman",
+    authors="Bannerman, Paul L.",
+    place=IWBIPI,
+    pp="1--8",
+    entrytype="inproceedings",
+    series="BiPi '08",
+    isbn="978-1-60558-032-6",
+    location="Leipzig, Germany",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1370837.1370839",
+    doi="10.1145/1370837.1370839",
+    acmid="1370839",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="business benefit, process change, software process improvement",
+    ID="Bannerman:2008:CBB:1370837.1370839",
+    acm2015="1",
+    placex="Proceedings of the 1st International Workshop on Business Impact of Process Improvements",
+))
+
 barcellos2008a = DB(WorkUnrelated(
     2008, "Avalia{ç}ão de Bases de Medidas considerando sua Aplicabilidade ao Controle Estatístico de Processos de Software",
     display="barcellos",
@@ -983,6 +1005,28 @@ lui2008a = DB(WorkUnrelated(
     placex="Software Development Rhythms: Harmonizing Agile Practices for Synergy",
 ))
 
+luzuriaga2008a = DB(WorkUnrelated(
+    2008, "Setting SPI Practices in Latin America: An Exploratory Case Study in the Justice Area",
+    display="luzuriaga",
+    authors="Luzuriaga, Juan M. and Martínez, Rodolfo and Cechich, Alejandra",
+    place=FAKE,
+    pp="172--177",
+    entrytype="inproceedings",
+    series="ICEGOV '08",
+    isbn="978-1-60558-386-0",
+    location="Cairo, Egypt",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/1509096.1509130",
+    doi="10.1145/1509096.1509130",
+    acmid="1509130",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="CompetiSoft process model, customer satisfaction, software process evaluation, software process improvement",
+    ID="Luzuriaga:2008:SSP:1509096.1509130",
+    acm2015="1",
+    placex="Proceedings of the 2Nd International Conference on Theory and Practice of Electronic Governance",
+))
+
 madachy2008a = DB(WorkUnrelated(
     2008, "Assessing quality processes with ODC COQUALMO",
     display="madachy",
@@ -1162,6 +1206,28 @@ nollen2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Nollen2008",
     placex="INDIA in the Emerging Global Order",
+))
+
+paulisch2008a = DB(WorkUnrelated(
+    2008, "Business Impact of Process Improvements",
+    display="paulisch",
+    authors="Paulisch, Frances and Ebert, Christof",
+    place=ICSE,
+    pp="1073--1074",
+    entrytype="inproceedings",
+    series="ICSE Companion '08",
+    isbn="978-1-60558-079-1",
+    location="Leipzig, Germany",
+    numpages="2",
+    link="http://doi.acm.org/10.1145/1370175.1370253",
+    doi="10.1145/1370175.1370253",
+    acmid="1370253",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile and iterative development, business benefits, business impact, cause and effect chains, cost-benefit analysis, economics, effort estimation, performance, process improvement, qfd, roi",
+    ID="Paulisch:2008:BIP:1370175.1370253",
+    acm2015="1",
+    placex="Companion of the 30th International Conference on Software Engineering",
 ))
 
 pereira2008a = DB(WorkUnrelated(
@@ -1441,6 +1507,27 @@ songnisai2008a = DB(WorkUnrelated(
     ID="songnisai2008using",
     local="Kasetsart University",
     placex="",
+))
+
+souer2008a = DB(WorkUnrelated(
+    2008, "Engineering a Design Method for Web Content Management Implementations",
+    display="souer",
+    authors="Souer, Jurriaan and Luinenburg, Lutzen and Versendaal, Johan and van de Weerd, Inge and Brinkkemper, Sjaak",
+    place=FAKE,
+    pp="351--358",
+    entrytype="inproceedings",
+    series="iiWAS '08",
+    isbn="978-1-60558-349-5",
+    location="Linz, Austria",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1497308.1497372",
+    doi="10.1145/1497308.1497372",
+    acmid="1497372",
+    publisher="ACM",
+    address="New York, NY, USA",
+    ID="Souer:2008:EDM:1497308.1497372",
+    acm2015="1",
+    placex="Proceedings of the 10th International Conference on Information Integration and Web-based Applications & Services",
 ))
 
 spork2008a = DB(WorkUnrelated(

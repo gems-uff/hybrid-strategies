@@ -1209,6 +1209,31 @@ martinez2011a = DB(WorkUnrelated(
     placex="IET software",
 ))
 
+mcleod2011a = DB(WorkUnrelated(
+    2011, "Factors That Affect Software Systems Development Project Outcomes: A Survey of Research",
+    display="mcleod",
+    authors="McLeod, Laurie and MacDonell, Stephen G.",
+    place=FAKE,
+    pp="24:1--24:56",
+    entrytype="article",
+    issue_date="October 2011",
+    volume="43",
+    number="4",
+    month="oct",
+    issn="0360-0300",
+    articleno="24",
+    numpages="56",
+    link="http://doi.acm.org/10.1145/1978802.1978803",
+    doi="10.1145/1978802.1978803",
+    acmid="1978803",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Development processes, institutional context, people and action, project content, project outcomes",
+    ID="McLeod:2011:FAS:1978802.1978803",
+    acm2015="1",
+    placex="ACM Comput. Surv.",
+))
+
 messnarz2011a = DB(WorkUnrelated(
     2011, "Extending automotive SPICE to cover functional safety requirements and a safety architecture",
     display="messnarz",
@@ -1235,6 +1260,28 @@ messnarz2011b = DB(WorkUnrelated(
     cluster_id="12589993733396076017",
     scholar="http://scholar.google.com/scholar?cites=12589993733396076017&as_sdt=2005&sciodt=0,5&hl=en",
     placex="European Conference on Software Process Improvement",
+))
+
+mkhomazi2011a = DB(WorkUnrelated(
+    2011, "The Social Context of Broadband Infrastructure Sharing",
+    display="mkhomazi",
+    authors="Mkhomazi, Sharol Sibongile and Iyamu, Tiko",
+    place=FAKE,
+    pp="403--407",
+    entrytype="inproceedings",
+    series="iiWAS '11",
+    isbn="978-1-4503-0784-0",
+    location="Ho Chi Minh City, Vietnam",
+    numpages="5",
+    link="http://doi.acm.org/10.1145/2095536.2095617",
+    doi="10.1145/2095536.2095617",
+    acmid="2095617",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="broadband, infrastructure sharing, telecommunication",
+    ID="Mkhomazi:2011:SCB:2095536.2095617",
+    acm2015="1",
+    placex="Proceedings of the 13th International Conference on Information Integration and Web-based Applications and Services",
 ))
 
 monteiro2011a = DB(WorkUnrelated(
@@ -1517,6 +1564,30 @@ rantapuska2011a = DB(WorkUnrelated(
     placex="Governance and Sustainability in Information Systems. Managing the Transfer and Diffusion of IT",
 ))
 
+rech2011a = DB(WorkUnrelated(
+    2011, "Aggregation of Experiences in Experience Factories into Software Patterns",
+    display="rech",
+    authors="Rech, Jörg and Ras, Eric",
+    place=FAKE,
+    pp="1--4",
+    entrytype="article",
+    issue_date="March 2011",
+    volume="36",
+    number="2",
+    month="mar",
+    issn="0163-5948",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1943371.1943390",
+    doi="10.1145/1943371.1943390",
+    acmid="1943390",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="design patterns, experience factory, experience management",
+    ID="Rech:2011:AEE:1943371.1943390",
+    acm2015="1",
+    placex="SIGSOFT Softw. Eng. Notes",
+))
+
 rudzki2011a = DB(WorkUnrelated(
     2011, "Software Quality Concerns in a Commercial Setting",
     display="rudzki",
@@ -1605,6 +1676,28 @@ sharma2011a = DB(WorkUnrelated(
     publisher="Publishing India Group",
     ID="sharma2011qfd",
     placex="National Journal of System and Information Technology",
+))
+
+spoelstra2011a = DB(WorkUnrelated(
+    2011, "Software Reuse in Agile Development Organizations: A Conceptual Management Tool",
+    display="spoelstra",
+    authors="Spoelstra, Wouter and Iacob, Maria and van Sinderen, Marten",
+    place=FAKE,
+    pp="315--322",
+    entrytype="inproceedings",
+    series="SAC '11",
+    isbn="978-1-4503-0113-8",
+    location="TaiChung, Taiwan",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1982185.1982255",
+    doi="10.1145/1982185.1982255",
+    acmid="1982255",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile development, assessment method, knowledge management, maturity levels, reuse factors, reuse maturity model, software reuse",
+    ID="Spoelstra:2011:SRA:1982185.1982255",
+    acm2015="1",
+    placex="Proceedings of the 2011 ACM Symposium on Applied Computing",
 ))
 
 stallinger2011a = DB(WorkUnrelated(
@@ -1812,6 +1905,30 @@ wang2011a = DB(WorkUnrelated(
     cluster_id="7102192581024038600",
     scholar="http://scholar.google.com/scholar?cites=7102192581024038600&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Empirical Software Engineering and Measurement (ESEM), 2011 International Symposium on",
+))
+
+yilmaz2011a = DB(WorkUnrelated(
+    2011, "A Software Process Engineering Approach to Improving Software Team Productivity Using Socioeconomic Mechanism Design",
+    display="yilmaz",
+    authors="Yilmaz, Murat and O'Connor, Rory V.",
+    place=FAKE,
+    pp="1--5",
+    entrytype="article",
+    issue_date="September 2011",
+    volume="36",
+    number="5",
+    month="sep",
+    issn="0163-5948",
+    numpages="5",
+    link="http://doi.acm.org/10.1145/2020976.2020998",
+    doi="10.1145/2020976.2020998",
+    acmid="2020998",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="game theory, mechanism design, productivity, social aspects of development, software engineering economics, software management, software process improvement, team dynamics",
+    ID="Yilmaz:2011:SPE:2020976.2020998",
+    acm2015="1",
+    placex="SIGSOFT Softw. Eng. Notes",
 ))
 
 yin2011a = DB(WorkUnrelated(

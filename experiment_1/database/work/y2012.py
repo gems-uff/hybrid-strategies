@@ -172,6 +172,28 @@ berkovich2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+brown2012a = DB(WorkUnrelated(
+    2012, "Joint Implicit Alignment Work of Interaction Designers and Software Developers",
+    display="brown",
+    authors="Brown, Judith M. and Lindgaard, Gitte and Biddle, Robert",
+    place=FAKE,
+    pp="693--702",
+    entrytype="inproceedings",
+    series="NordiCHI '12",
+    isbn="978-1-4503-1482-4",
+    location="Copenhagen, Denmark",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2399016.2399121",
+    doi="10.1145/2399016.2399121",
+    acmid="2399121",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="developers, field study, interaction designers, modelling, qualitative analysis, software development",
+    ID="Brown:2012:JIA:2399016.2399121",
+    acm2015="1",
+    placex="Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design",
+))
+
 bruyn2012a = DB(WorkUnrelated(
     2012, "On the generalization of normalized systems concepts to the analysis and design of modules in systems and enterprise engineering",
     display="bruyn",
@@ -442,6 +464,28 @@ draghici2012a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+dybå2012a = DB(WorkUnrelated(
+    2012, "What Works for Whom, Where, when, and Why?: On the Role of Context in Empirical Software Engineering",
+    display="dybå",
+    authors="Dybå, Tore and Sjøberg, Dag I.K. and Cruzes, Daniela S.",
+    place=ESEM,
+    pp="19--28",
+    entrytype="inproceedings",
+    series="ESEM '12",
+    isbn="978-1-4503-1056-7",
+    location="Lund, Sweden",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2372251.2372256",
+    doi="10.1145/2372251.2372256",
+    acmid="2372256",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="empirical methods, evidence-based software engineering, generalization, sociotechnical system, theory",
+    ID="Dyba:2012:WWW:2372251.2372256",
+    acm2015="1",
+    placex="Proceedings of the ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+))
+
 eljabiri2012a = DB(WorkUnrelated(
     2012, "Tailoring the Software Process Model to Project requirements",
     display="eljabiri",
@@ -480,6 +524,27 @@ eremenko2012a = DB(WorkUnrelated(
     cluster_id="9241644097677689345",
     scholar="http://scholar.google.com/scholar?cites=9241644097677689345&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering",
+))
+
+fagerholm2012a = DB(WorkUnrelated(
+    2012, "Developer Experience: Concept and Definition",
+    display="fagerholm",
+    authors="Fagerholm, Fabian and Münch, Jürgen",
+    place=FAKE,
+    pp="73--77",
+    entrytype="inproceedings",
+    series="ICSSP '12",
+    isbn="978-1-4673-2352-9",
+    location="Zurich, Switzerland",
+    numpages="5",
+    link="http://dl.acm.org/citation.cfm?id=2664360.2664372",
+    acmid="2664372",
+    publisher="IEEE Press",
+    address="Piscataway, NJ, USA",
+    keyword="developer experience, high-performing teams, human factors, software development environment, software psychology",
+    ID="Fagerholm:2012:DEC:2664360.2664372",
+    acm2015="1",
+    placex="Proceedings of the International Conference on Software and System Process",
 ))
 
 garousi2012a = DB(WorkUnrelated(
@@ -613,6 +678,26 @@ holl2012a = DB(WorkUnrelated(
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     ))
+
+imtiaz2012a = DB(WorkUnrelated(
+    2012, "Architectural Task Allocation in Distributed Environment: A Traceability Perspective",
+    display="imtiaz",
+    authors="Imtiaz, Salma",
+    place=ICSE,
+    pp="1515--1518",
+    entrytype="inproceedings",
+    series="ICSE '12",
+    isbn="978-1-4673-1067-3",
+    location="Zurich, Switzerland",
+    numpages="4",
+    link="http://dl.acm.org/citation.cfm?id=2337223.2337470",
+    acmid="2337470",
+    publisher="IEEE Press",
+    address="Piscataway, NJ, USA",
+    ID="Imtiaz:2012:ATA:2337223.2337470",
+    acm2015="1",
+    placex="Proceedings of the 34th International Conference on Software Engineering",
+))
 
 islam2012a = DB(WorkUnrelated(
     2012, "Empirical prediction models for adaptive resource provisioning in the cloud",
@@ -955,6 +1040,28 @@ mandić2012b = DB(WorkUnrelated(
     entrytype="article",
     ID="mandicempirical",
     placex="",
+))
+
+martini2012a = DB(WorkUnrelated(
+    2012, "Enablers and Inhibitors for Speed with Reuse",
+    display="martini",
+    authors="Martini, Antonio and Pareto, Lars and Bosch, Jan",
+    place=FAKE,
+    pp="116--125",
+    entrytype="inproceedings",
+    series="SPLC '12",
+    isbn="978-1-4503-1094-9",
+    location="Salvador, Brazil",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2362536.2362554",
+    doi="10.1145/2362536.2362554",
+    acmid="2362554",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile software development, embedded systems, enablers, inhibitors, software process improvement (SPI), software reuse, speed",
+    ID="Martini:2012:EIS:2362536.2362554",
+    acm2015="1",
+    placex="Proceedings of the 16th International Software Product Line Conference - Volume 1",
 ))
 
 matalonga2012a = DB(WorkUnrelated(
@@ -1309,6 +1416,28 @@ quintero2012a = DB(WorkUnrelated(
     cluster_id="14402344170333260755",
     scholar="http://scholar.google.com/scholar?cites=14402344170333260755&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
+))
+
+rajanen2012a = DB(WorkUnrelated(
+    2012, "Introducing Usability Activities into Open Source Software Development Projects: A Participative Approach",
+    display="rajanen",
+    authors="Rajanen, Mikko and Iivari, Netta and Keskitalo, Eino",
+    place=FAKE,
+    pp="683--692",
+    entrytype="inproceedings",
+    series="NordiCHI '12",
+    isbn="978-1-4503-1482-4",
+    location="Copenhagen, Denmark",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/2399016.2399120",
+    doi="10.1145/2399016.2399120",
+    acmid="2399120",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="open source software, participative approach, usability",
+    ID="Rajanen:2012:IUA:2399016.2399120",
+    acm2015="1",
+    placex="Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design",
 ))
 
 rensburg2012a = DB(WorkUnrelated(

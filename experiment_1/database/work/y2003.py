@@ -926,6 +926,28 @@ serrano2003a = DB(WorkUnrelated(
     placex="Proceedings - International Conference on Quality Software",
 ))
 
+shoemaker2003a = DB(WorkUnrelated(
+    2003, "A Case for the Study of Software Management Within a Broad Information Technology Curriculum",
+    display="shoemaker",
+    authors="Shoemaker, Daniel and Jovanovic, Vladan and Drommi, Antonio",
+    place=FAKE,
+    pp="174--179",
+    entrytype="inproceedings",
+    series="CITC4 '03",
+    isbn="1-58113-770-2",
+    location="Lafayette, Indiana, USA",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/947121.947161",
+    doi="10.1145/947121.947161",
+    acmid="947161",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="curriculum, information technology, software management",
+    ID="Shoemaker:2003:CSS:947121.947161",
+    acm2015="1",
+    placex="Proceedings of the 4th Conference on Information Technology Curriculum",
+))
+
 sixsigma2003a = DB(WorkUnrelated(
     2003, "Six Sigma Forum Magazine",
     display="sixsigma",

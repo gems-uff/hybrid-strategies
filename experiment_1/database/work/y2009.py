@@ -204,6 +204,26 @@ bjørnson2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+boer2009a = DB(WorkUnrelated(
+    2009, "Writing and Reading Software Documentation: How the Development Process May Affect Understanding",
+    display="boer",
+    authors="de Boer, Remco C. and van Vliet, Hans",
+    place=FAKE,
+    pp="40--47",
+    entrytype="inproceedings",
+    series="CHASE '09",
+    isbn="978-1-4244-3712-2",
+    numpages="8",
+    link="http://dx.doi.org/10.1109/CHASE.2009.5071409",
+    doi="10.1109/CHASE.2009.5071409",
+    acmid="1572212",
+    publisher="IEEE Computer Society",
+    address="Washington, DC, USA",
+    ID="deBoer:2009:WRS:1572193.1572212",
+    acm2015="1",
+    placex="Proceedings of the 2009 ICSE Workshop on Cooperative and Human Aspects on Software Engineering",
+))
+
 borgert2009a = DB(WorkUnrelated(
     2009, "A Comparative Study of Complexity Measures to Analyze Business Process Models",
     display="borgert",
@@ -866,6 +886,29 @@ metodologia2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+mettler2009a = DB(WorkUnrelated(
+    2009, "Situational Maturity Models As Instrumental Artifacts for Organizational Design",
+    display="mettler",
+    authors="Mettler, Tobias and Rohner, Peter",
+    place=FAKE,
+    pp="22:1--22:9",
+    entrytype="inproceedings",
+    series="DESRIST '09",
+    isbn="978-1-60558-408-9",
+    location="Philadelphia, Pennsylvania",
+    articleno="22",
+    numpages="9",
+    link="http://doi.acm.org/10.1145/1555619.1555649",
+    doi="10.1145/1555619.1555649",
+    acmid="1555649",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="change engineering, design research, maturity models, organizational design, organizational engineering",
+    ID="Mettler:2009:SMM:1555619.1555649",
+    acm2015="1",
+    placex="Proceedings of the 4th International Conference on Design Science Research in Information Systems and Technology",
+))
+
 michel2009a = DB(WorkUnrelated(
     2009, "Detecting inconsistencies between software architecture views",
     display="michel",
@@ -972,6 +1015,29 @@ nair2009a = DB(WorkUnrelated(
     publisher="IGI Global",
     ID="nair2009comprehensive",
     placex="Handbook of Research on Software Engineering and Productivity Technologies: Implications of Globalization: Implications of Globalization",
+))
+
+najar2009a = DB(WorkUnrelated(
+    2009, "Semantic Representation of Context Models: A Framework for Analyzing and Understanding",
+    display="najar",
+    authors="Najar, Salma and Saidani, Oumaima and Kirsch-Pinheiro, Manuele and Souveyet, Carine and Nurcan, Selmin",
+    place=FAKE,
+    pp="6:1--6:10",
+    entrytype="inproceedings",
+    series="CIAO '09",
+    isbn="978-1-60558-528-4",
+    location="Heraklion, Greece",
+    articleno="6",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1552262.1552268",
+    doi="10.1145/1552262.1552268",
+    acmid="1552268",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="businesses process, context modeling, context-aware computing, ontology",
+    ID="Najar:2009:SRC:1552262.1552268",
+    acm2015="1",
+    placex="Proceedings of the 1st Workshop on Context, Information and Ontologies",
 ))
 
 napier2009a = DB(WorkUnrelated(
@@ -1113,6 +1179,28 @@ pino2009b = DB(WorkUnrelated(
     cluster_id="3660851037847429013",
     scholar="http://scholar.google.com/scholar?cites=3660851037847429013&as_sdt=2005&sciodt=0,5&hl=en",
     placex="European Conference on Software Process Improvement",
+))
+
+pino2009c = DB(WorkUnrelated(
+    2009, "Key Processes to Start Software Process Improvement in Small Companies",
+    display="pino c",
+    authors="Pino, Francisco J. and Garcia, Félix and Piattini, Mario",
+    place=FAKE,
+    pp="509--516",
+    entrytype="inproceedings",
+    series="SAC '09",
+    isbn="978-1-60558-166-8",
+    location="Honolulu, Hawaii",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1529282.1529389",
+    doi="10.1145/1529282.1529389",
+    acmid="1529389",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="SMEs, SPI, VSEs, process software, process software improvement, processes prioritization, small software organizations",
+    ID="Pino:2009:KPS:1529282.1529389",
+    acm2015="1",
+    placex="Proceedings of the 2009 ACM Symposium on Applied Computing",
 ))
 
 qiu2009a = DB(WorkUnrelated(
@@ -1274,6 +1362,29 @@ staron2009a = DB(WorkUnrelated(
     ID="Staron2009721",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+subramanian2009a = DB(WorkUnrelated(
+    2009, "Balancing Four Factors in System Development Projects",
+    display="subramanian",
+    authors="Subramanian, Girish H. and Klein, Gary and Jiang, James J. and Chan, Chien-Lung",
+    place=FAKE,
+    pp="118--121",
+    entrytype="article",
+    issue_date="October 2009",
+    volume="52",
+    number="10",
+    month="oct",
+    issn="0001-0782",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1562764.1562794",
+    doi="10.1145/1562764.1562794",
+    acmid="1562794",
+    publisher="ACM",
+    address="New York, NY, USA",
+    ID="Subramanian:2009:BFF:1562764.1562794",
+    acm2015="1",
+    placex="Commun. ACM",
 ))
 
 tagra2009a = DB(WorkUnrelated(

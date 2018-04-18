@@ -386,6 +386,28 @@ gopal2005a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+hulkko2005a = DB(WorkUnrelated(
+    2005, "A Multiple Case Study on the Impact of Pair Programming on Product Quality",
+    display="hulkko",
+    authors="Hulkko, Hanna and Abrahamsson, Pekka",
+    place=ICSE,
+    pp="495--504",
+    entrytype="inproceedings",
+    series="ICSE '05",
+    isbn="1-58113-963-2",
+    location="St. Louis, MO, USA",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1062455.1062545",
+    doi="10.1145/1062455.1062545",
+    acmid="1062545",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile software development, empirical software engineering, extreme programming, productivity, software quality",
+    ID="Hulkko:2005:MCS:1062455.1062545",
+    acm2015="1",
+    placex="Proceedings of the 27th International Conference on Software Engineering",
+))
+
 humphrey2005a = DB(WorkUnrelated(
     2005, "SWOT analysis for management consulting",
     display="humphrey",

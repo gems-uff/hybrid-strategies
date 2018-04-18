@@ -44,6 +44,28 @@ ali2010a = DB(WorkUnrelated(
     placex="",
 ))
 
+alves2010a = DB(WorkUnrelated(
+    2010, "Brazilian Public Software: Beyond Sharing",
+    display="alves",
+    authors="Alves, A. M. and Pessôa, Marcelo",
+    place=FAKE,
+    pp="73--80",
+    entrytype="inproceedings",
+    series="MEDES '10",
+    isbn="978-1-4503-0047-6",
+    location="Bangkok, Thailand",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1936254.1936268",
+    doi="10.1145/1936254.1936268",
+    acmid="1936268",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="complex system, complex theory thinking, cooperative engineering, digital emerging ecosystem, e-government, network quality model, quality in software ecosystem",
+    ID="Alves:2010:BPS:1936254.1936268",
+    acm2015="1",
+    placex="Proceedings of the International Conference on Management of Emergent Digital EcoSystems",
+))
+
 ampatzoglou2010a = DB(WorkUnrelated(
     2010, "Software engineering research for computer games: A systematic review",
     display="ampatzoglou",
@@ -866,6 +888,29 @@ hernández2010a = DB(WorkUnrelated(
     placex="",
 ))
 
+hilst2010a = DB(WorkUnrelated(
+    2010, "A Pattern System of Underlying Theories for Process Improvement",
+    display="hilst",
+    authors="Van Hilst, Michael and Fernandez, Eduardo B.",
+    place=FAKE,
+    pp="8:1--8:24",
+    entrytype="inproceedings",
+    series="PLOP '10",
+    isbn="978-1-4503-0107-7",
+    location="Reno, Nevada, USA",
+    articleno="8",
+    numpages="24",
+    link="http://doi.acm.org/10.1145/2493288.2493296",
+    doi="10.1145/2493288.2493296",
+    acmid="2493296",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile, best practices, lean, process improvement",
+    ID="VanHilst:2010:PSU:2493288.2493296",
+    acm2015="1",
+    placex="Proceedings of the 17th Conference on Pattern Languages of Programs",
+))
+
 hinz2010a = DB(WorkUnrelated(
     2010, "Exploring the localization requirements for Kashubian Linux: Opening new markets for open-source development projects",
     display="hinz",
@@ -1066,6 +1111,30 @@ lee2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM Symposium on Applied Computing",
 ))
 
+lee2010b = DB(WorkUnrelated(
+    2010, "Optimizing IT Process Management",
+    display="lee b",
+    authors="Tony Lee, Tony",
+    place=FAKE,
+    pp="1--10",
+    entrytype="article",
+    issue_date="July 2010",
+    volume="35",
+    number="4",
+    month="jul",
+    issn="0163-5948",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1811226.1811232",
+    doi="10.1145/1811226.1811232",
+    acmid="1811232",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="IT process management",
+    ID="TonyLee:2010:OPM:1811226.1811232",
+    acm2015="1",
+    placex="SIGSOFT Softw. Eng. Notes",
+))
+
 leite2010a = DB(WorkUnrelated(
     2010, "ProMeProS: UM PROCESSO DE MELHORIA DE PROCESSOS DE SOFTWARE",
     display="leite",
@@ -1074,6 +1143,29 @@ leite2010a = DB(WorkUnrelated(
     entrytype="article",
     ID="leite2010promepros",
     placex="",
+))
+
+leitner2010a = DB(WorkUnrelated(
+    2010, "Managing ERP Configuration Variants: An Experience Report",
+    display="leitner",
+    authors="Leitner, Andrea and Kreiner, Christian",
+    place=FAKE,
+    pp="2:1--2:6",
+    entrytype="inproceedings",
+    series="KOPLE '10",
+    isbn="978-1-4503-0542-6",
+    location="Reno, Nevada",
+    articleno="2",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/1964138.1964140",
+    doi="10.1145/1964138.1964140",
+    acmid="1964140",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="IT management, enterprise resource planning, experience report, software product line engineering",
+    ID="Leitner:2010:MEC:1964138.1964140",
+    acm2015="1",
+    placex="Proceedings of the 2010 Workshop on Knowledge-Oriented Product Line Engineering",
 ))
 
 lester2010a = DB(WorkUnrelated(
@@ -1437,6 +1529,30 @@ messnarz2010b = DB(WorkUnrelated(
     placex="Internal Financial Control Assessment Applying Multilingual Ontology Framework",
 ))
 
+mishra2010a = DB(WorkUnrelated(
+    2010, "People Management in Software Industry: The Key to Success",
+    display="mishra",
+    authors="Mishra, Amit and Misra, Sanjay",
+    place=FAKE,
+    pp="1--4",
+    entrytype="article",
+    issue_date="November 2010",
+    volume="35",
+    number="6",
+    month="nov",
+    issn="0163-5948",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1874391.1874402",
+    doi="10.1145/1874391.1874402",
+    acmid="1874402",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="people management, software development, software industry",
+    ID="Mishra:2010:PMS:1874391.1874402",
+    acm2015="1",
+    placex="SIGSOFT Softw. Eng. Notes",
+))
+
 monteiro2010a = DB(WorkUnrelated(
     2010, "Defining a catalog of indicators to support process performance analysis",
     display="monteiro",
@@ -1448,6 +1564,28 @@ monteiro2010a = DB(WorkUnrelated(
     cluster_id="13701762143396136253",
     scholar="http://scholar.google.com/scholar?cites=13701762143396136253&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
+))
+
+moser2010a = DB(WorkUnrelated(
+    2010, "Process-driven Feature Modeling for Variability Management of Project Environment Configurations",
+    display="moser",
+    authors="Moser, Thomas and Biffl, Stefan and Winkler, Dietmar",
+    place=ICPFSPI,
+    pp="47--50",
+    entrytype="inproceedings",
+    series="PROFES '10",
+    isbn="978-1-4503-0281-4",
+    location="Limerick, Ireland",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1961258.1961270",
+    doi="10.1145/1961258.1961270",
+    acmid="1961270",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="feature modeling, project environment variability management",
+    ID="Moser:2010:PFM:1961258.1961270",
+    acm2015="1",
+    placex="Proceedings of the 11th International Conference on Product Focused Software",
 ))
 
 mäkiö2010a = DB(WorkUnrelated(
@@ -1504,6 +1642,28 @@ niazi2010a = DB(WorkUnrelated(
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
+nikitina2010a = DB(WorkUnrelated(
+    2010, "Consequences of Business Growth on Software Processes",
+    display="nikitina",
+    authors="Nikitina, Natalja and Kajko-Mattsson, Mira",
+    place=ICPFSPI,
+    pp="35--38",
+    entrytype="inproceedings",
+    series="PROFES '10",
+    isbn="978-1-4503-0281-4",
+    location="Limerick, Ireland",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1961258.1961267",
+    doi="10.1145/1961258.1961267",
+    acmid="1961267",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Scrum, business growth, distributed teams, process change",
+    ID="Nikitina:2010:CBG:1961258.1961267",
+    acm2015="1",
+    placex="Proceedings of the 11th International Conference on Product Focused Software",
+))
+
 nikula2010a = DB(WorkUnrelated(
     2010, "Empirical validation of the Classic Change Curve on a software technology change project",
     display="nikula",
@@ -1546,6 +1706,28 @@ omg2010a = DB(WorkUnrelated(
     authors="OMG",
     place=FAKE,
     placex="Management Group (Object Management Group)",
+))
+
+pardo2010a = DB(WorkUnrelated(
+    2010, "A Process for Driving the Harmonization of Models",
+    display="pardo",
+    authors="Pardo, César and Pino, Francisco J. and García, Félix and Piattini, Mario and Baldassarre, Maria Teresa",
+    place=ICPFSPI,
+    pp="51--54",
+    entrytype="inproceedings",
+    series="PROFES '10",
+    isbn="978-1-4503-0281-4",
+    location="Limerick, Ireland",
+    numpages="4",
+    link="http://doi.acm.org/10.1145/1961258.1961271",
+    doi="10.1145/1961258.1961271",
+    acmid="1961271",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="SPI, experience report, harmonization, improvement process, multi-model",
+    ID="Pardo:2010:PDH:1961258.1961271",
+    acm2015="1",
+    placex="Proceedings of the 11th International Conference on Product Focused Software",
 ))
 
 parkinson2010a = DB(WorkUnrelated(
@@ -1883,6 +2065,72 @@ softex2010a = DB(WorkUnrelated(
     note="cited By 1",
     ID="SOFTEX2010",
     placex="",
+))
+
+souer2010a = DB(WorkUnrelated(
+    2010, "An Approach to Identify Commonalities in Web Application Engineering for a Web Content Management System",
+    display="souer",
+    authors="Souer, Jurriaan and Joor, Dirk-Jan",
+    place=FAKE,
+    pp="558--565",
+    entrytype="inproceedings",
+    series="iiWAS '10",
+    isbn="978-1-4503-0421-4",
+    location="Paris, France",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/1967486.1967572",
+    doi="10.1145/1967486.1967572",
+    acmid="1967572",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="software product lines, web content management system, web engineering",
+    ID="Souer:2010:AIC:1967486.1967572",
+    acm2015="1",
+    placex="Proceedings of the 12th International Conference on Information Integration and Web-based Applications &#38; Services",
+))
+
+srinivasan2010a = DB(WorkUnrelated(
+    2010, "Studying Software Organizations: In Search of a Method",
+    display="srinivasan",
+    authors="Srinivasan, Jayakanth and Lundqvist, Kristina and Norström, Christer",
+    place=SEC,
+    pp="51--60",
+    entrytype="inproceedings",
+    series="ISEC '10",
+    isbn="978-1-60558-922-0",
+    location="Mysore, India",
+    numpages="10",
+    link="http://doi.acm.org/10.1145/1730874.1730885",
+    doi="10.1145/1730874.1730885",
+    acmid="1730885",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="case studies, engaged scholarship, grounded theory, research methods",
+    ID="Srinivasan:2010:SSO:1730874.1730885",
+    acm2015="1",
+    placex="Proceedings of the 3rd India Software Engineering Conference",
+))
+
+srinivasan2010b = DB(WorkUnrelated(
+    2010, "Agile in India: Challenges and Lessons Learned",
+    display="srinivasan b",
+    authors="Srinivasan, Jayakanth and Lundqvist, Kristina",
+    place=SEC,
+    pp="125--130",
+    entrytype="inproceedings",
+    series="ISEC '10",
+    isbn="978-1-60558-922-0",
+    location="Mysore, India",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/1730874.1730898",
+    doi="10.1145/1730874.1730898",
+    acmid="1730898",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="agile methods, case study, outsourcing, software process improvement",
+    ID="Srinivasan:2010:AIC:1730874.1730898",
+    acm2015="1",
+    placex="Proceedings of the 3rd India Software Engineering Conference",
 ))
 
 sun2010a = DB(WorkSnowball(

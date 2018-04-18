@@ -864,6 +864,27 @@ sawyer2002a = DB(WorkUnrelated(
     placex="Information Systems Frontiers",
 ))
 
+schmid2002a = DB(WorkUnrelated(
+    2002, "A Comprehensive Product Line Scoping Approach and Its Validation",
+    display="schmid",
+    authors="Schmid, Klaus",
+    place=ICSE,
+    pp="593--603",
+    entrytype="inproceedings",
+    series="ICSE '02",
+    isbn="1-58113-472-X",
+    location="Orlando, Florida",
+    numpages="11",
+    link="http://doi.acm.org/10.1145/581339.581415",
+    doi="10.1145/581339.581415",
+    acmid="581415",
+    publisher="ACM",
+    address="New York, NY, USA",
+    ID="Schmid:2002:CPL:581339.581415",
+    acm2015="1",
+    placex="Proceedings of the 24th International Conference on Software Engineering",
+))
+
 scott2002a = DB(WorkUnrelated(
     2002, "Understanding the use of an electronic process guide",
     display="scott",

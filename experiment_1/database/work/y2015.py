@@ -194,6 +194,28 @@ deng2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+diebold2015a = DB(WorkUnrelated(
+    2015, "The Agile Practices Impact Model: Idea, Concept, and Application Scenario",
+    display="diebold",
+    authors="Diebold, Philipp and Zehler, Thomas",
+    place=FAKE,
+    pp="92--96",
+    entrytype="inproceedings",
+    series="ICSSP 2015",
+    isbn="978-1-4503-3346-7",
+    location="Tallinn, Estonia",
+    numpages="5",
+    link="http://doi.acm.org/10.1145/2785592.2785609",
+    doi="10.1145/2785592.2785609",
+    acmid="2785609",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Agile Capability Analysis, Agile Practices, Agile Practices Impact, Causal Model, Impact Model",
+    ID="Diebold:2015:API:2785592.2785609",
+    acm2015="1",
+    placex="Proceedings of the 2015 International Conference on Software and System Process",
+))
+
 dolezel2015a = DB(WorkUnrelated(
     2015, "Test Governance Framework for contracted IS development: Ethnographically informed action research",
     display="dolezel",
@@ -779,6 +801,29 @@ magalhaes2015a = DB(WorkUnrelated(
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
+mahmood2015a = DB(WorkUnrelated(
+    2015, "Identifying the Factors That Influence Task Allocation in Global Software Development: Preliminary Results",
+    display="mahmood",
+    authors="Mahmood, Sajjad and Anwer, Sajid and Niazi, Mahmood and Alshayeb, Mohammad and Richardson, Ita",
+    place=EASE,
+    pp="31:1--31:6",
+    entrytype="inproceedings",
+    series="EASE '15",
+    isbn="978-1-4503-3350-4",
+    location="Nanjing, China",
+    articleno="31",
+    numpages="6",
+    link="http://doi.acm.org/10.1145/2745802.2745831",
+    doi="10.1145/2745802.2745831",
+    acmid="2745831",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="global software development, systematic literature review, task allocation, work distribution",
+    ID="Mahmood:2015:IFI:2745802.2745831",
+    acm2015="1",
+    placex="Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering",
+))
+
 mara2015a = DB(WorkUnrelated(
     2015, "Capturing Social Value in UX Projects",
     display="mara",
@@ -950,6 +995,28 @@ nilsson2015a = DB(WorkUnrelated(
     springer="1",
     placex="International Journal on Software Tools for Technology Transfer",
     springer2015="1",
+))
+
+o2015a = DB(WorkUnrelated(
+    2015, "Software Process Reflexivity and Business Performance: Initial Results from an Empirical Study",
+    display="o",
+    authors="O&#039;Connor, Rory V. and Clarke, Paul",
+    place=FAKE,
+    pp="142--146",
+    entrytype="inproceedings",
+    series="ICSSP 2015",
+    isbn="978-1-4503-3346-7",
+    location="Tallinn, Estonia",
+    numpages="5",
+    link="http://doi.acm.org/10.1145/2785592.2785607",
+    doi="10.1145/2785592.2785607",
+    acmid="2785607",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Software process improvement, process evolution, process reflexivity",
+    ID="O&#039;Connor:2015:SPR:2785592.2785607",
+    acm2015="1",
+    placex="Proceedings of the 2015 International Conference on Software and System Process",
 ))
 
 oConnor2015a = DB(WorkSnowball(

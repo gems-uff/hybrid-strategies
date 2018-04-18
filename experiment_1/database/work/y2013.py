@@ -217,6 +217,28 @@ barcellos2013a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+barcellos2013b = DB(WorkUnrelated(
+    2013, "A Software Measurement Task Ontology",
+    display="barcellos b",
+    authors="Barcellos, Monalessa Perini and de Almeida Falbo, Ricardo",
+    place=FAKE,
+    pp="311--318",
+    entrytype="inproceedings",
+    series="SAC '13",
+    isbn="978-1-4503-1656-9",
+    location="Coimbra, Portugal",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/2480362.2480428",
+    doi="10.1145/2480362.2480428",
+    acmid="2480428",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="semantic interoperability, software measurement, task ontology",
+    ID="Barcellos:2013:SMT:2480362.2480428",
+    acm2015="1",
+    placex="Proceedings of the 28th Annual ACM Symposium on Applied Computing",
+))
+
 barn2013a = DB(WorkUnrelated(
     2013, "Enterprise Architecture Coherence and the Model Driven Enterprise: Is Simulation the Answer or Are We Flying Kites?",
     display="barn",
@@ -296,6 +318,28 @@ buglione2013a = DB(WorkUnrelated(
     ID="Buglione201310",
     sciencedirect="1",
     placex="Computer Standards & Interfaces",
+))
+
+cardoso2013a = DB(WorkUnrelated(
+    2013, "The Public Software Ecosystem: Exploratory Survey",
+    display="cardoso",
+    authors="Cardoso,Jr., Jarbas Lopes and Barbin, Silvio Ernesto and Andres, Frederic and Filho, Oscar Salviano Silva",
+    place=FAKE,
+    pp="289--296",
+    entrytype="inproceedings",
+    series="MEDES '13",
+    isbn="978-1-4503-2004-7",
+    location="Luxembourg, Luxembourg",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/2536146.2536189",
+    doi="10.1145/2536146.2536189",
+    acmid="2536189",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="collective intelligence, digital ecosystem, free and open software, social network, software forge ecosystem",
+    ID="Cardoso:2013:PSE:2536146.2536189",
+    acm2015="1",
+    placex="Proceedings of the Fifth International Conference on Management of Emergent Digital EcoSystems",
 ))
 
 chebrolu2013a = DB(WorkUnrelated(
@@ -478,6 +522,31 @@ eremenko2013a = DB(WorkUnrelated(
     publisher="Horizon Research Publishing",
     ID="eremenko2013neural",
     placex="Universal Journal of Engineering Science",
+))
+
+falessi2013a = DB(WorkUnrelated(
+    2013, "The Value of Design Rationale Information",
+    display="falessi",
+    authors="Falessi, Davide and Briand, Lionel C. and Cantone, Giovanni and Capilla, Rafael and Kruchten, Philippe",
+    place=FAKE,
+    pp="21:1--21:32",
+    entrytype="article",
+    issue_date="July 2013",
+    volume="22",
+    number="3",
+    month="jul",
+    issn="1049-331X",
+    articleno="21",
+    numpages="32",
+    link="http://doi.acm.org/10.1145/2491509.2491515",
+    doi="10.1145/2491509.2491515",
+    acmid="2491515",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Empirical software engineering, design decisions, software architecture, software maintenance, value-based software engineering",
+    ID="Falessi:2013:VDR:2491509.2491515",
+    acm2015="1",
+    placex="ACM Trans. Softw. Eng. Methodol.",
 ))
 
 ferreira2013a = DB(WorkUnrelated(
@@ -1127,6 +1196,31 @@ martínez2013b = DB(WorkUnrelated(
     placex="International Conference on Advanced Information Systems Engineering",
 ))
 
+marín2013a = DB(WorkUnrelated(
+    2013, "Using a Functional Size Measurement Procedure to Evaluate the Quality of Models in MDD Environments",
+    display="marín",
+    authors="Marín, Beatriz and Giachetti, Giovanni and Pastor, Oscar and Vos, Tanja E. J. and Abran, Alain",
+    place=FAKE,
+    pp="26:1--26:31",
+    entrytype="article",
+    issue_date="July 2013",
+    volume="22",
+    number="3",
+    month="jul",
+    issn="1049-331X",
+    articleno="26",
+    numpages="31",
+    link="http://doi.acm.org/10.1145/2491509.2491520",
+    doi="10.1145/2491509.2491520",
+    acmid="2491520",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="Case study, defect detection, functional size, model-driven development",
+    ID="Marin:2013:UFS:2491509.2491520",
+    acm2015="1",
+    placex="ACM Trans. Softw. Eng. Methodol.",
+))
+
 mccaffery2013a = DB(WorkUnrelated(
     2013, "Systems, Software and Services Process Improvement: 20th European Conference, EuroSPI 2013, Dundalk, Ireland, June 25-27, 2013. Proceedings",
     display="mccaffery",
@@ -1613,6 +1707,28 @@ valenciennes2013a = DB(WorkUnrelated(
     entrytype="article",
     ID="valenciennestowards",
     placex="",
+))
+
+virtanen2013a = DB(WorkUnrelated(
+    2013, "Team Leaders' Perceptions in the Renewing of Software Production Process",
+    display="virtanen",
+    authors="Virtanen, Pasi P.",
+    place=FAKE,
+    pp="159--166",
+    entrytype="inproceedings",
+    series="SIGMIS-CPR '13",
+    isbn="978-1-4503-1975-1",
+    location="Cincinnati, Ohio, USA",
+    numpages="8",
+    link="http://doi.acm.org/10.1145/2487294.2487329",
+    doi="10.1145/2487294.2487329",
+    acmid="2487329",
+    publisher="ACM",
+    address="New York, NY, USA",
+    keyword="organizational change, software production development, team leaders",
+    ID="Virtanen:2013:TLP:2487294.2487329",
+    acm2015="1",
+    placex="Proceedings of the 2013 Annual Conference on Computers and People Research",
 ))
 
 wang2013a = DB(WorkUnrelated(
