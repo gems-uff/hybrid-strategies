@@ -1320,6 +1320,24 @@ mellado2010a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+meneklis2010a = DB(WorkUnrelated(
+    2010, "Bridging theory and practice in e-government: A set of guidelines for architectural design",
+    display="meneklis",
+    authors="Meneklis, Vassilis and Douligeris, Christos",
+    place=FAKE,
+    pp="70-81",
+    entrytype="article",
+    volume="27",
+    number="1",
+    month="JAN",
+    doi="10.1016/j.giq.2009.08.005",
+    issn="0740-624X",
+    unique_id="ISI:000272687600010",
+    ID="ISI:000272687600010",
+    webofscience2015="1",
+    placex="GOVERNMENT INFORMATION QUARTERLY",
+))
+
 messnarz2010a = DB(WorkUnrelated(
     2010, "SPICE Level 3-Experience with Using E-Learning to Coach the Use of Standard System Design Best Practices in Projects",
     display="messnarz",
@@ -1956,6 +1974,25 @@ west2010a = DB(WorkUnrelated(
     cluster_id="1604768728676171148",
     scholar="http://scholar.google.com/scholar?cites=1604768728676171148&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+williams2010a = DB(WorkUnrelated(
+    2010, "Characterizing software architecture changes: A systematic review",
+    display="williams",
+    authors="Williams, Byron J. and Carver, Jeffrey C.",
+    place=FAKE,
+    pp="31-51",
+    entrytype="article",
+    volume="52",
+    number="1",
+    month="JAN",
+    doi="10.1016/j.infsof.2009.07.002",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000272372900003",
+    ID="ISI:000272372900003",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 winter2010a = DB(WorkUnrelated(

@@ -1789,6 +1789,24 @@ wohlin2012j = DB(WorkUnrelated(
     placex="Experimentation in Software Engineering",
 ))
 
+woungang2012a = DB(WorkUnrelated(
+    2012, "Coding-error based defects in enterprise resource planning software: Prevention, discovery, elimination and mitigation",
+    display="woungang",
+    authors="Woungang, Isaac and Akinladejo, Felix O. and White, David W. and Obaidat, Mohammad S.",
+    place=FAKE,
+    pp="1682-1698",
+    entrytype="article",
+    volume="85",
+    number="7",
+    month="JUL",
+    doi="10.1016/j.jss.2012.02.034",
+    issn="0164-1212",
+    unique_id="ISI:000304722300017",
+    ID="ISI:000304722300017",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 yihong2012a = DB(WorkUnrelated(
     2012, "Study of new wall materials design based on TRIZ integrated innovation method",
     display="yihong",
@@ -1803,4 +1821,20 @@ yihong2012a = DB(WorkUnrelated(
     cluster_id="3755663813375327626",
     scholar="http://scholar.google.com/scholar?cites=3755663813375327626&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Management Science and Engineering",
+))
+
+zacarias2012a = DB(WorkUnrelated(
+    2012, "Aligning Business Processes and Work Practices",
+    display="zacarias",
+    authors="Zacarias, Marielba and Martins, Paula Ventura",
+    place=FAKE,
+    pp="234-243",
+    entrytype="inproceedings",
+    editor="Varajao, J and Cunha, M and Yetton, P and Rijo, R",
+    series="Procedia Technology",
+    volume="5",
+    unique_id="ISI:000314469100026",
+    ID="ISI:000314469100026",
+    webofscience2015="1",
+    placex="4TH CONFERENCE OF ENTERPRISE INFORMATION SYSTEMS - ALIGNING TECHNOLOGY, ORGANIZATIONS AND PEOPLE (CENTERIS 2012)",
 ))

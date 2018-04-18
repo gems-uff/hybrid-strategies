@@ -1075,6 +1075,43 @@ snowden2007a = DB(WorkUnrelated(
     placex="Harvard Business Review",
 ))
 
+song2007a = DB(WorkUnrelated(
+    2007, "An intelligent information agent for document title classification and filtering in document-intensive domains",
+    display="song",
+    authors="Song, Dawei and Lau, Raymond Y. K. and Bruza, Peter D. and Wong, Kam-Fai and Chen, Ding-Yi",
+    place=FAKE,
+    pp="251-265",
+    entrytype="article",
+    volume="44",
+    number="1",
+    month="NOV",
+    doi="10.1016/j.dss.2007.04.001",
+    issn="0167-9236",
+    eissn="1873-5797",
+    unique_id="ISI:000250079300018",
+    ID="ISI:000250079300018",
+    webofscience2015="1",
+    placex="DECISION SUPPORT SYSTEMS",
+))
+
+staples2007a = DB(WorkUnrelated(
+    2007, "An exploratory study of why organizations do not adopt CMMI",
+    display="staples",
+    authors="Staples, Mark and Niazi, Mahmood and Jeffery, Ross and Abrahams, Alan and Byatt, Paul and Murphy, Russell",
+    place=FAKE,
+    pp="883-895",
+    entrytype="article",
+    volume="80",
+    number="6",
+    month="JUN",
+    doi="10.1016/j.jss.2006.09.008",
+    issn="0164-1212",
+    unique_id="ISI:000247229600007",
+    ID="ISI:000247229600007",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 steen2007a = DB(WorkUnrelated(
     2007, "Practical knowledge and its importance for software product quality",
     display="steen",

@@ -1106,6 +1106,20 @@ lew2011a = DB(WorkUnrelated(
     placex="International Conference on Web Engineering",
 ))
 
+li2011a = DB(WorkUnrelated(
+    2011, "Analysis of Software Testing System in Civil Aviation Field",
+    display="li",
+    authors="Li, Yonghua and Fan, Wei",
+    place=FAKE,
+    pp="299-302",
+    entrytype="inproceedings",
+    editor="Deng, W",
+    unique_id="ISI:000398850600074",
+    ID="ISI:000398850600074",
+    webofscience2015="1",
+    placex="2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY APPLICATION (AASRI-AIIA 2011), VOL 1",
+))
+
 martinez2011a = DB(WorkUnrelated(
     2011, "Modelling software process variability: an empirical study",
     display="martinez",

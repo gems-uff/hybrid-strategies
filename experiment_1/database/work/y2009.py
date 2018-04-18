@@ -1362,6 +1362,24 @@ umarji2009b = DB(WorkUnrelated(
     ieee2015="1",
 ))
 
+vavpotic2009a = DB(WorkUnrelated(
+    2009, "An approach for concurrent evaluation of technical and social aspects of  software development methodologies",
+    display="vavpotic",
+    authors="Vavpotic, Damjan and Bajec, Marko",
+    place=FAKE,
+    pp="528-545",
+    entrytype="article",
+    volume="51",
+    number="2",
+    month="FEB",
+    doi="10.1016/j.infsof.2008.06.001",
+    issn="0950-5849",
+    unique_id="ISI:000261919900021",
+    ID="ISI:000261919900021",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 vieira2009a = DB(WorkUnrelated(
     2009, "Using strategic planning for selection of SPI processes: An experience report",
     display="vieira",

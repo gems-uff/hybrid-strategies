@@ -160,6 +160,26 @@ caivano2005a = DB(WorkUnrelated(
     placex="Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR",
 ))
 
+carrington2005a = DB(WorkUnrelated(
+    2005, "An industry/university collaboration to upgrade software engineering knowledge and skills in industry",
+    display="carrington",
+    authors="Carrington, D and Strooper, P and Newby, S and Stevenson, T",
+    place=FAKE,
+    pp="29-39",
+    entrytype="article",
+    volume="75",
+    number="1-2",
+    month="FEB 15",
+    note="International Conference on Software Engineering and Training, Madrid, SPAIN, 2003",
+    doi="10.1016/j.jss.2004.02.020",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000225668000004",
+    ID="ISI:000225668000004",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 cater2005a = DB(WorkUnrelated(
     2005, "An evaluation of the RAPID assessment-based process improvement method for small firms",
     display="cater",

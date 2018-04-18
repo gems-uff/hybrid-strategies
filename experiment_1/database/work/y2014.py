@@ -374,6 +374,22 @@ cedergren2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+chakravorty2014a = DB(WorkUnrelated(
+    2014, "Analysis of Agile testing attributes for faster time to Market: Context of Manufacturing sector related IT projects",
+    display="chakravorty",
+    authors="Chakravorty, Tulika and Chakraborty, Samyadip and Jigeesh, Nasina",
+    place=FAKE,
+    pp="536-552",
+    entrytype="inproceedings",
+    editor="Londhe, BR and Divekar, R and Chandani, A",
+    series="Procedia Economics and Finance",
+    volume="11",
+    unique_id="ISI:000345439200050",
+    ID="ISI:000345439200050",
+    webofscience2015="1",
+    placex="SHAPING THE FUTURE OF BUSINESS AND SOCIETY - SYMBIOSIS INSTITUTE OF MANAGEMENT STUDIES (SIMS)",
+))
+
 cheng2014a = DB(WorkUnrelated(
     2014, "The antecedents of collective creative efficacy for information system development teams",
     display="cheng",
