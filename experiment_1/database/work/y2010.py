@@ -684,6 +684,24 @@ gartner2010a = DB(WorkUnrelated(
     placex="Press release, Gartner, Inc.",
 ))
 
+gorla2010a = DB(WorkUnrelated(
+    2010, "Determinants of software quality: A survey of information systems project managers",
+    display="gorla",
+    authors="Gorla, Narasimhaiah and Lin, Shang-Che",
+    place=FAKE,
+    pp="602-610",
+    entrytype="article",
+    volume="52",
+    number="6",
+    month="JUN",
+    doi="10.1016/j.infsof.2009.11.012",
+    issn="0950-5849",
+    unique_id="ISI:000278150500002",
+    ID="ISI:000278150500002",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 goyal2010a = DB(WorkUnrelated(
     2010, "ROI for SPI: Lessons from Initiatives at IBM Global Services India",
     display="goyal",
@@ -1707,6 +1725,24 @@ sampaio2010a = DB(WorkUnrelated(
     placex="",
 ))
 
+sanchez2010a = DB(WorkUnrelated(
+    2010, "Improving the efficiency of use of software engineering practices using product patterns",
+    display="sanchez",
+    authors="Sanchez-Segura, Maria-Isabel and Medina-Dominguez, Fuensanta and de Amescua, Antonio and Mora-Soto, Arturo",
+    place=FAKE,
+    pp="2721-2742",
+    entrytype="article",
+    volume="180",
+    number="14",
+    month="JUL 15",
+    doi="10.1016/j.ins.2010.03.028",
+    issn="0020-0255",
+    unique_id="ISI:000278629600007",
+    ID="ISI:000278629600007",
+    webofscience2015="1",
+    placex="INFORMATION SCIENCES",
+))
+
 sarcia2010a = DB(WorkUnrelated(
     2010, "Is GQM+strategies really applicable as is to non-software development domains?",
     display="sarcia",
@@ -1861,6 +1897,25 @@ tjørnehøj2010a = DB(WorkUnrelated(
     cluster_id="18374028747705230951",
     scholar="http://scholar.google.com/scholar?cites=18374028747705230951&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Information Technology",
+))
+
+turner2010a = DB(WorkUnrelated(
+    2010, "Does the technology acceptance model predict actual use? A systematic literature review",
+    display="turner",
+    authors="Turner, Mark and Kitchenham, Barbara and Brereton, Pearl and Charters, Stuart and Budgen, David",
+    place=FAKE,
+    pp="463-479",
+    entrytype="article",
+    volume="52",
+    number="5, SI",
+    month="MAY",
+    doi="10.1016/j.infsof.2009.11.005",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000277107200001",
+    ID="ISI:000277107200001",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 unterkalmsteiner2010a = DB(WorkUnrelated(

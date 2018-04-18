@@ -974,6 +974,25 @@ napier2009a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+niazi2009a = DB(WorkUnrelated(
+    2009, "Identifying high perceived value practices of CMMI level 2: An empirical study",
+    display="niazi",
+    authors="Niazi, Mahmood and Babar, Muhammad Ali",
+    place=FAKE,
+    pp="1231-1243",
+    entrytype="article",
+    volume="51",
+    number="8",
+    month="AUG",
+    doi="10.1016/j.infsof.2009.03.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000267504500003",
+    ID="ISI:000267504500003",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 ogc2009a = DB(WorkUnrelated(
     2009, "Managing successful projects with PRINCE2",
     display="ogc",

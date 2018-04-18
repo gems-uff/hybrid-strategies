@@ -67,6 +67,22 @@ brebner1998a = DB(WorkUnrelated(
     ieee2015="1",
 ))
 
+bunse1998a = DB(WorkUnrelated(
+    1998, "Improved software quality through improved development process descriptions",
+    display="bunse",
+    authors="Bunse, C and Verlage, M and Giese, P",
+    place=FAKE,
+    pp="23-32",
+    entrytype="article",
+    volume="34",
+    number="1",
+    month="JAN",
+    unique_id="ISI:000072445000004",
+    ID="ISI:000072445000004",
+    webofscience2015="1",
+    placex="AUTOMATICA",
+))
+
 dynsys1998a = DB(WorkUnrelated(
     1998, "IPT Learning Campus",
     display="dynsys",

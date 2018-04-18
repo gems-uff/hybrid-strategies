@@ -89,6 +89,25 @@ beheshitha2015a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Learning Analytics And Knowledge",
 ))
 
+berssaneti2015a = DB(WorkUnrelated(
+    2015, "Identification of variables that impact project success in Brazilian companies",
+    display="berssaneti",
+    authors="Berssaneti, Fernando Tobal and Carvalho, Marly Monteiro",
+    place=FAKE,
+    pp="638-649",
+    entrytype="article",
+    volume="33",
+    number="3",
+    month="APR",
+    doi="10.1016/j.ijproman.2014.07.002",
+    issn="0263-7863",
+    eissn="1873-4634",
+    unique_id="ISI:000350931100014",
+    ID="ISI:000350931100014",
+    webofscience2015="1",
+    placex="INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT",
+))
+
 bird2015a = DB(WorkUnrelated(
     2015, "The art and science of analyzing software data",
     display="bird",

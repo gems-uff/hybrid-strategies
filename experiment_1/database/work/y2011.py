@@ -926,6 +926,25 @@ karg2011a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+khan2011a = DB(WorkUnrelated(
+    2011, "Factors influencing clients in the selection of offshore software outsourcing vendors: An exploratory study using a systematic literature review",
+    display="khan",
+    authors="Khan, Siffat Ullah and Niazi, Mahmood and Ahmad, Rashid",
+    place=FAKE,
+    pp="686-699",
+    entrytype="article",
+    volume="84",
+    number="4, SI",
+    month="APR",
+    doi="10.1016/j.jss.2010.12.010",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000288142500013",
+    ID="ISI:000288142500013",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 knowles2011a = DB(WorkUnrelated(
     2011, "Six Sigma",
     display="knowles",

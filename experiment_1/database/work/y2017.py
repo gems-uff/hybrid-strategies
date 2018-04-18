@@ -113,6 +113,24 @@ fagerholm2017a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+fitzgerald2017a = DB(WorkUnrelated(
+    2017, "Continuous software engineering: A roadmap and agenda",
+    display="fitzgerald",
+    authors="Fitzgerald, Brian and Stol, Klaas-Jan",
+    place=FAKE,
+    pp="176-189",
+    entrytype="article",
+    volume="123",
+    month="JAN",
+    doi="10.1016/j.jss.2015.06.063",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000389100100012",
+    ID="ISI:000389100100012",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 freire2017a = DB(WorkUnrelated(
     2017, "Catálogo de Práticas para Tratamento de Fatores Críticos de Influência Negativa em Iniciativas de Melhoria de Processos de Software Baseadas em Modelos de Maturidade",
     display="freire",

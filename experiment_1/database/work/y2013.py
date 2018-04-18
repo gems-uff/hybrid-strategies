@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acher2013a = DB(WorkUnrelated(
+    2013, "FAMILIAR: A domain-specific language for large scale management of feature models",
+    display="acher",
+    authors="Acher, Mathieu and Collet, Philippe and Lahire, Philippe and France, Robert B.",
+    place=FAKE,
+    pp="657-681",
+    entrytype="article",
+    volume="78",
+    number="6",
+    month="JUN 1",
+    doi="10.1016/j.scico.2012.12.004",
+    issn="0167-6423",
+    eissn="1872-7964",
+    unique_id="ISI:000318134400004",
+    ID="ISI:000318134400004",
+    webofscience2015="1",
+    placex="SCIENCE OF COMPUTER PROGRAMMING",
+))
+
 al2013a = DB(WorkUnrelated(
     2013, "Harmonizing CMMI-DEV 1.2 and XP Method to Improve The Software Development Processes in Small Software Development Firms",
     display="al",

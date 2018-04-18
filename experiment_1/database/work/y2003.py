@@ -62,6 +62,24 @@ alexandre2003a = DB(WorkUnrelated(
     placex="GENIE LOGICIEL-TOULOUSE THEN PARIS-",
 ))
 
+baddoo2003a = DB(WorkUnrelated(
+    2003, "De-motivators for software process improvement: an analysis of practitioners' views",
+    display="baddoo",
+    authors="Baddoo, N and Hall, T",
+    place=FAKE,
+    pp="23-33",
+    entrytype="article",
+    volume="66",
+    number="1",
+    month="APR 15",
+    doi="10.1016/S0164-1212(02)00060-2",
+    issn="0164-1212",
+    unique_id="ISI:000183505400003",
+    ID="ISI:000183505400003",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 bailey2003a = DB(WorkUnrelated(
     2003, "PSM Guide 4.0b Part 1",
     display="bailey",

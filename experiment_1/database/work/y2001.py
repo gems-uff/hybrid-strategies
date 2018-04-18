@@ -615,6 +615,24 @@ jones2001a = DB(WorkUnrelated(
     ID="Jones20014",
 ))
 
+jorgensen2001a = DB(WorkUnrelated(
+    2001, "Impact of effort estimates on software project work",
+    display="jorgensen",
+    authors="Jorgensen, M and Sjoberg, DIK",
+    place=FAKE,
+    pp="939-948",
+    entrytype="article",
+    volume="43",
+    number="15",
+    month="DEC 23",
+    doi="10.1016/S0950-5849(01)00203-8",
+    issn="0950-5849",
+    unique_id="ISI:000173199900003",
+    ID="ISI:000173199900003",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 kaplan2001a = DB(WorkUnrelated(
     2001, "The strategy-focused organization: How balanced scorecard companies thrive in the new business environment",
     display="kaplan",

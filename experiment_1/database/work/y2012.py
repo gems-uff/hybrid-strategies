@@ -614,6 +614,24 @@ holl2012a = DB(WorkUnrelated(
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     ))
 
+islam2012a = DB(WorkUnrelated(
+    2012, "Empirical prediction models for adaptive resource provisioning in the cloud",
+    display="islam",
+    authors="Islam, Sadeka and Keung, Jacky and Lee, Kevin and Liu, Anna",
+    place=FAKE,
+    pp="155-162",
+    entrytype="article",
+    volume="28",
+    number="1",
+    month="JAN",
+    note="International Conference on Utility and Cloud Computing, Chennai, INDIA, DEC, 2010",
+    doi="10.1016/j.future.2011.05.027",
+    issn="0167-739X",
+    unique_d="ISI:000295947900018",
+    webofscience2015="1",
+    placex="FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
+))
+
 ivarsson2012a = DB(WorkUnrelated(
     2012, "Tool support for disseminating and improving development practices",
     display="ivarsson",
@@ -869,6 +887,24 @@ lim2012a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Expert Systems with Applications",
     sciencedirect2015="1",
+))
+
+lucio2012a = DB(WorkUnrelated(
+    2012, "Implementing an IT service information management framework: The case of COTEMAR",
+    display="lucio",
+    authors="Lucio-Nieto, Teresa and Colomo-Palacios, Ricardo and Soto-Acosta, Pedro and Popa, Simona and Amescua-Seco, Antonio",
+    place=FAKE,
+    pp="589-594",
+    entrytype="article",
+    volume="32",
+    number="6",
+    month="DEC",
+    doi="10.1016/j.ijinfomgt.2012.08.004",
+    issn="0268-4012",
+    unique_id="ISI:000312928800011",
+    ID="ISI:000312928800011",
+    webofscience2015="1",
+    placex="INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT",
 ))
 
 lópez2012a = DB(WorkUnrelated(

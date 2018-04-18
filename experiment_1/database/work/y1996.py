@@ -199,6 +199,24 @@ houston1996a = DB(WorkUnrelated(
     placex="Cost of Software Quality: A Means of Promoting Software Process Improvement",
 ))
 
+ibanez1996a = DB(WorkUnrelated(
+    1996, "Has Europe learnt enough?",
+    display="ibanez",
+    authors="Ibanez, M and Kugler, HJ and Rementeria, S",
+    place=FAKE,
+    pp="583-590",
+    entrytype="article",
+    volume="42",
+    number="8",
+    month="DEC 31",
+    doi="10.1016/S1383-7621(96)00043-4",
+    issn="1383-7621",
+    unique_id="ISI:A1996WD91000004",
+    ID="ISI:A1996WD91000004",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS ARCHITECTURE",
+))
+
 jones1996a = DB(WorkUnrelated(
     1996, "Economics of software process improvement",
     display="jones",

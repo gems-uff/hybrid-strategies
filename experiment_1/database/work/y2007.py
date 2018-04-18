@@ -17,6 +17,25 @@ abrahamsson2007a = DB(WorkUnrelated(
     placex="European Conference on Software Process Improvement",
 ))
 
+ajila2007a = DB(WorkUnrelated(
+    2007, "Empirical study of the effects of open source adoption on software development economics",
+    display="ajila",
+    authors="Ajila, Samuel A. and Wu, Di",
+    place=FAKE,
+    pp="1517-1529",
+    entrytype="article",
+    volume="80",
+    number="9",
+    month="SEP",
+    doi="10.1016/j.jss.2007.01.011",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000249472200010",
+    ID="ISI:000249472200010",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 alagarsamy2007a = DB(WorkUnrelated(
     2007, "On the implementation of a knowledge management tool for SPI",
     display="alagarsamy",
@@ -115,6 +134,22 @@ babar2007a = DB(WorkUnrelated(
     ID="Babar:2007:TES:1244002.1244268",
     acm="1",
     placex="Proceedings of the 2007 ACM Symposium on Applied Computing",
+))
+
+babar2007b = DB(WorkUnrelated(
+    2007, "Establishing and maintaining trust in software outsourcing relationships: An empirical investigation",
+    display="babar b",
+    authors="Babar, Muhammad Ali and Verner, June M. and Nguyen, Phong Thanh",
+    place=FAKE,
+    pp="1438-1449",
+    entrytype="article",
+    volume="80",
+    number="9",
+    month="SEP",
+    unique_id="ISI:000249472200003",
+    ID="ISI:000249472200003",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
 baccarelli2007a = DB(WorkUnrelated(
@@ -534,6 +569,25 @@ isoiec2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="ISOIEC2007",
     placex="ISO/IEC 15939:2007",
+))
+
+jacobs2007a = DB(WorkUnrelated(
+    2007, "Identification of factors that influence defect injection and detection in development of software intensive products",
+    display="jacobs",
+    authors="Jacobs, Jef and van Moll, Jan and Kusters, Rob and Trienekens, Jos and Brombacher, Aarnout",
+    place=FAKE,
+    pp="774-789",
+    entrytype="article",
+    volume="49",
+    number="7",
+    month="JUL",
+    doi="10.1016/j.infsof.2006.09.002",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000247294900005",
+    ID="ISI:000247294900005",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 jun2007a = DB(WorkUnrelated(
@@ -1108,6 +1162,22 @@ staples2007a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000247229600007",
     ID="ISI:000247229600007",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
+staples2007b = DB(WorkUnrelated(
+    2007, "Experiences using systematic review guidelines",
+    display="staples b",
+    authors="Staples, Mark and Niazi, Mahmood",
+    place=FAKE,
+    pp="1425-1437",
+    entrytype="article",
+    volume="80",
+    number="9",
+    month="SEP",
+    unique_id="ISI:000249472200002",
+    ID="ISI:000249472200002",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))

@@ -773,6 +773,25 @@ heidrich2014a = DB(WorkUnrelated(
     placex="Software Project Management in a Changing World",
 ))
 
+holt2014a = DB(WorkUnrelated(
+    2014, "Empirical evaluations on the cost-effectiveness of state-based testing: An industrial case study",
+    display="holt",
+    authors="Holt, Nina Elisabeth and Briand, Lionel C. and Torkar, Richard",
+    place=FAKE,
+    pp="890-910",
+    entrytype="article",
+    volume="56",
+    number="8",
+    month="AUG",
+    doi="10.1016/j.infsof.2014.02.011",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000337261800005",
+    ID="ISI:000337261800005",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 hustad2014a = DB(WorkUnrelated(
     2014, "Service-oriented Architecture Projects in Practice: A Study of a Shared Document Service Implementation",
     display="hustad",
@@ -913,6 +932,22 @@ kim2014a = DB(WorkUnrelated(
     cluster_id="4638945669897366306",
     scholar="http://scholar.google.com/scholar?cites=4638945669897366306&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE Transactions on Professional Communication",
+))
+
+kluth2014a = DB(WorkUnrelated(
+    2014, "Evaluation of Complexity Management Systems - Systematical and Maturity-Based Approach",
+    display="kluth",
+    authors="Kluth, Andreas and Jaeger, Jens and Schatz, Anja and Bauernhansl, Thomas",
+    place=FAKE,
+    pp="224-229",
+    entrytype="inproceedings",
+    editor="ElMaraghy, H",
+    series="Procedia CIRP",
+    volume="17",
+    unique_id="ISI:000345458000039",
+    ID="ISI:000345458000039",
+    webofscience2015="1",
+    placex="VARIETY MANAGEMENT IN MANUFACTURING: PROCEEDINGS OF THE 47TH CIRPCONFERENCE ON MANUFACTURING SYSTEMS",
 ))
 
 kobori2014a = DB(WorkUnrelated(
