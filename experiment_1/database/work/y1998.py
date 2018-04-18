@@ -25,6 +25,24 @@ akao1998b = DB(WorkUnrelated(
     placex="Transactions of the Tenth Symposium on QFD",
 ))
 
+bilotta1998a = DB(WorkUnrelated(
+    1998, "A Guttman Scaling of CMM Level 2 Practices: Investigating the Implementation Sequences Underlying Software Engineering Maturity",
+    display="bilotta",
+    authors="Bilotta, John G. and McGrew, John F.",
+    place=ESE,
+    pp="159--177",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="3",
+    number="2",
+    issn="1573-7616",
+    doi="10.1023/A:1008084231983",
+    ID="Bilotta1998",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 birk1998a = DB(WorkUnrelated(
     1998, "PROFES - A product driven process improvement methodology",
     display="birk",
@@ -81,6 +99,24 @@ bunse1998a = DB(WorkUnrelated(
     ID="ISI:000072445000004",
     webofscience2015="1",
     placex="AUTOMATICA",
+))
+
+christie1998a = DB(WorkUnrelated(
+    1998, "An Overview of Process Technology Activities at the Software Engineering Institute",
+    display="christie",
+    authors="Christie, Alan M. and Kellner, Marc I. and Riddle, William E.",
+    place=FAKE,
+    pp="121--132",
+    entrytype="article",
+    month="May",
+    day="01",
+    volume="8",
+    number="2",
+    issn="1573-8787",
+    doi="10.1023/A:1008206119511",
+    ID="Christie1998",
+    springer2015="1",
+    placex="Journal of Systems Integration",
 ))
 
 dynsys1998a = DB(WorkUnrelated(
@@ -358,6 +394,24 @@ liu1998a = DB(WorkUnrelated(
     note="cited By 23",
     ID="Liu1998105",
     placex="Journal of Systems and Software",
+))
+
+love1998a = DB(WorkUnrelated(
+    1998, "Can the case for CASE technology be advanced by Process Improvement?",
+    display="love",
+    authors="Love, Matthew and Siddiqi, Jawed",
+    place=SQJ,
+    pp="3--10",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="7",
+    number="1",
+    issn="1573-1367",
+    doi="10.1023/B:SQJO.0000042055.40508.32",
+    ID="Love1998",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 madni1998a = DB(WorkUnrelated(

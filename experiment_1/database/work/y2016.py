@@ -136,6 +136,24 @@ chagas2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+chatterji2016a = DB(WorkUnrelated(
+    2016, "Code clones and developer behavior: results of two surveys of the clone research community",
+    display="chatterji",
+    authors="Chatterji, Debarshi and Carver, Jeffrey C. and Kraft, Nicholas A.",
+    place=ESE,
+    pp="1476--1508",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="21",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-015-9394-4",
+    ID="Chatterji2016",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 diep2016a = DB(WorkUnrelated(
     2016, "Applying Software Data Analysis in Industry Contexts: When Research Meets Reality",
     display="diep",
@@ -610,6 +628,24 @@ pimentel2016a = DB(WorkUnrelated(
     placex="ANAIS DA JIC-JORNADA DE INICIA{Ç}ÃO CIENTÍFICA E TECNOLÓGICA",
 ))
 
+pino2016a = DB(WorkUnrelated(
+    2016, "A research framework for building SPI proposals in small organizations: the COMPETISOFT experience",
+    display="pino",
+    authors="Pino, Francisco J. and Garc{í}a, Fel{í}x and Piattini, Mario and Oktaba, Hanna",
+    place=SQJ,
+    pp="489--518",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="24",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-015-9278-2",
+    ID="Pino2016",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 port2016a = DB(WorkUnrelated(
     2016, "Developing a Value-Based Methodology for Satisfying NASA Software Assurance Requirements",
     display="port",
@@ -620,6 +656,24 @@ port2016a = DB(WorkUnrelated(
     organization="IEEE",
     ID="port2016developing",
     placex="System Sciences (HICSS), 2016 49th Hawaii International Conference on",
+))
+
+riungu2016a = DB(WorkUnrelated(
+    2016, "Adoption and use of cloud-based testing in practice",
+    display="riungu",
+    authors="Riungu-Kalliosaari, Leah and Taipale, Ossi and Smolander, Kari and Richardson, Ita",
+    place=SQJ,
+    pp="337--364",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="24",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-014-9256-0",
+    ID="Riungu-Kalliosaari2016",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 rivera2016a = DB(WorkUnrelated(
@@ -681,6 +735,24 @@ sadabadi2016a = DB(WorkUnrelated(
     entrytype="article",
     ID="sadabadiintegral",
     placex="",
+))
+
+shin2016a = DB(WorkUnrelated(
+    2016, "Comprehensive analysis of FBD test coverage criteria using mutants",
+    display="shin",
+    authors="Shin, Donghwan and Jee, Eunkyoung and Bae, Doo-Hwan",
+    place=FAKE,
+    pp="631--645",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="15",
+    number="3",
+    issn="1619-1374",
+    doi="10.1007/s10270-014-0428-y",
+    ID="Shin2016",
+    springer2015="1",
+    placex="Software {&} Systems Modeling",
 ))
 
 spósito2016a = DB(WorkUnrelated(

@@ -507,6 +507,24 @@ daubner2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+dittrich2008a = DB(WorkUnrelated(
+    2008, "Cooperative method development",
+    display="dittrich",
+    authors="Dittrich, Yvonne and Rönkkö, Kari and Eriksson, Jeanette and Hansson, Christina and Lindeberg, Olle",
+    place=ESE,
+    pp="231--260",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="13",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-007-9057-1",
+    ID="Dittrich2008",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 dybå2008a = DB(WorkUnrelated(
     2008, "Empirical studies of agile software development: A systematic review",
     display="dybå",
@@ -584,6 +602,24 @@ ferreira2008a = DB(WorkUnrelated(
     note="cited By 8",
     ID="Ferreira2008311",
     placex="Software Process Improvement and Practice",
+))
+
+funkhouser2008a = DB(WorkUnrelated(
+    2008, "A lightweight approach to software validation by comparing UML use cases with internal program documentation selected via call graphs",
+    display="funkhouser",
+    authors="Funkhouser, Owen and Etzkorn, Letha Hughes and Hughes, William E.",
+    place=SQJ,
+    pp="131--156",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="16",
+    number="1",
+    issn="1573-1367",
+    doi="10.1007/s11219-007-9034-3",
+    ID="Funkhouser2008",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 gimenes2008a = DB(WorkUnrelated(
@@ -867,6 +903,24 @@ kleinberg2008a = DB(WorkUnrelated(
     placex="Proceedings of the 9th ACM Conference on Electronic Commerce",
 ))
 
+koch2008a = DB(WorkUnrelated(
+    2008, "Exploring the effects of SourceForge.net coordination and communication tools on the efficiency of open source projects using data envelopment analysis",
+    display="koch",
+    authors="Koch, Stefan",
+    place=ESE,
+    pp="397",
+    entrytype="article",
+    month="Aug",
+    day="15",
+    volume="14",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-008-9086-4",
+    ID="Koch2008",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 kojima2008a = DB(WorkUnrelated(
     2008, "Risk analysis of software process measurements",
     display="kojima",
@@ -991,6 +1045,24 @@ long2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Long2008",
     placex="Springer US",
+))
+
+lormans2008a = DB(WorkUnrelated(
+    2008, "An industrial case study in reconstructing requirements views",
+    display="lormans",
+    authors="Lormans, Marco and van Deursen, Arie and Gross, Hans-Gerhard",
+    place=ESE,
+    pp="727--760",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="13",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-008-9078-4",
+    ID="Lormans2008",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 lui2008a = DB(WorkUnrelated(
@@ -1206,6 +1278,24 @@ nollen2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Nollen2008",
     placex="INDIA in the Emerging Global Order",
+))
+
+osei2008a = DB(WorkUnrelated(
+    2008, "Decision models for information systems management",
+    display="osei",
+    authors="Osei-Bryson, Kweku-Muata and Ngwenyama, Ojelanki",
+    place=FAKE,
+    pp="277--279",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="10",
+    number="3",
+    issn="1572-9419",
+    doi="10.1007/s10796-008-9082-7",
+    ID="Osei-Bryson2008",
+    springer2015="1",
+    placex="Information Systems Frontiers",
 ))
 
 paulisch2008a = DB(WorkUnrelated(

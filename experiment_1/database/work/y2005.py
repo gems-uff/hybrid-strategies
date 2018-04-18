@@ -502,6 +502,24 @@ kaplan2005a = DB(WorkUnrelated(
     placex="Harvard Business Review Article",
 ))
 
+karahasanoviæ2005a = DB(WorkUnrelated(
+    2005, "Collecting Feedback during Software Engineering Experiments",
+    display="karahasanoviæ",
+    authors="Karahasanoviæ, Amela and Anda, Bente and Arisholm, Erik and Hove, Siw Elisabeth and Jørgensen, Magne and Sjøberg, Dag I. K. and Welland, Ray",
+    place=ESE,
+    pp="113--147",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="10",
+    number="2",
+    issn="1573-7616",
+    doi="10.1007/s10664-004-6189-4",
+    ID="Karahasanoviæ2005",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 karlström2005a = DB(WorkUnrelated(
     2005, "A minimal test practice framework for emerging software organizations",
     display="karlström",

@@ -1,0 +1,1870 @@
+@Article{Gupta2009,
+author="Gupta, Anita
+and Li, Jingyue
+and Conradi, Reidar
+and R{\o}nneberg, Harald
+and Landre, Einar",
+title="A case study comparing defect profiles of a reused framework and of applications reusing it",
+journal="Empirical Software Engineering",
+year="2009",
+month="Apr",
+day="01",
+volume="14",
+number="2",
+pages="227--255",
+issn="1573-7616",
+doi="10.1007/s10664-008-9081-9",
+url="https://doi.org/10.1007/s10664-008-9081-9"
+}
+
+@Article{Lindholm2014,
+author="Lindholm, Christin
+and Notander, Jesper Pedersen
+and H{\"o}st, Martin",
+title="A case study on software risk analysis and planning in medical device development",
+journal="Software Quality Journal",
+year="2014",
+month="Sep",
+day="01",
+volume="22",
+number="3",
+pages="469--497",
+issn="1573-1367",
+doi="10.1007/s11219-013-9222-2",
+url="https://doi.org/10.1007/s11219-013-9222-2"
+}
+
+@Article{Stelzer1997,
+author="Stelzer, Dirk
+and Mellis, Werner
+and Herzwurm, Georg",
+title="A critical look at ISO 9000 for software quality management",
+journal="Software Quality Journal",
+year="1997",
+month="Jun",
+day="01",
+volume="6",
+number="2",
+pages="65--79",
+issn="1573-1367",
+doi="10.1023/A:1018591430752",
+url="https://doi.org/10.1023/A:1018591430752"
+}
+
+@Article{Li2007,
+author="Li, Jingzhou
+and Ruhe, Guenther
+and Al-Emran, Ahmed
+and Richter, Michael M.",
+title="A flexible method for software effort estimation by analogy",
+journal="Empirical Software Engineering",
+year="2007",
+month="Feb",
+day="01",
+volume="12",
+number="1",
+pages="65--106",
+issn="1573-7616",
+doi="10.1007/s10664-006-7552-4",
+url="https://doi.org/10.1007/s10664-006-7552-4"
+}
+
+@Article{Bilotta1998,
+author="Bilotta, John G.
+and McGrew, John F.",
+title="A Guttman Scaling of CMM Level 2 Practices: Investigating the Implementation Sequences Underlying Software Engineering Maturity",
+journal="Empirical Software Engineering",
+year="1998",
+month="Jun",
+day="01",
+volume="3",
+number="2",
+pages="159--177",
+issn="1573-7616",
+doi="10.1023/A:1008084231983",
+url="https://doi.org/10.1023/A:1008084231983"
+}
+
+@Article{Funkhouser2008,
+author="Funkhouser, Owen
+and Etzkorn, Letha Hughes
+and Hughes, William E.",
+title="A lightweight approach to software validation by comparing UML use cases with internal program documentation selected via call graphs",
+journal="Software Quality Journal",
+year="2008",
+month="Mar",
+day="01",
+volume="16",
+number="1",
+pages="131--156",
+issn="1573-1367",
+doi="10.1007/s11219-007-9034-3",
+url="https://doi.org/10.1007/s11219-007-9034-3"
+}
+
+@Article{GalinacGrbac2015,
+author="Galinac Grbac, Tihana
+and Car, {\v{Z}}eljka
+and Huljeni{\'{c}}, Darko",
+title="A quality cost reduction model for large-scale software development",
+journal="Software Quality Journal",
+year="2015",
+month="Jun",
+day="01",
+volume="23",
+number="2",
+pages="363--390",
+issn="1573-1367",
+doi="10.1007/s11219-014-9240-8",
+url="https://doi.org/10.1007/s11219-014-9240-8"
+}
+
+@Article{Drago2015,
+author="Drago, Mauro Luigi
+and Ghezzi, Carlo
+and Mirandola, Raffaela",
+title="A quality driven extension to the QVT-relations transformation			language",
+journal="Computer Science - Research and Development",
+year="2015",
+month="Feb",
+day="01",
+volume="30",
+number="1",
+pages="1--20",
+issn="1865-2042",
+doi="10.1007/s00450-011-0202-0",
+url="https://doi.org/10.1007/s00450-011-0202-0"
+}
+
+@Article{Pino2016,
+author="Pino, Francisco J.
+and Garc{\'i}a, Fel{\'i}x
+and Piattini, Mario
+and Oktaba, Hanna",
+title="A research framework for building SPI proposals in small organizations: the COMPETISOFT experience",
+journal="Software Quality Journal",
+year="2016",
+month="Sep",
+day="01",
+volume="24",
+number="3",
+pages="489--518",
+issn="1573-1367",
+doi="10.1007/s11219-015-9278-2",
+url="https://doi.org/10.1007/s11219-015-9278-2"
+}
+
+@Article{Patnayakuni2010,
+author="Patnayakuni, Ravi
+and Ruppel, Cynthia P.",
+title="A socio-technical approach to improving the systems development process",
+journal="Information Systems Frontiers",
+year="2010",
+month="Apr",
+day="01",
+volume="12",
+number="2",
+pages="219--234",
+issn="1572-9419",
+doi="10.1007/s10796-008-9093-4",
+url="https://doi.org/10.1007/s10796-008-9093-4"
+}
+
+@Article{Chu2012,
+author="Chu, Peng-Hua
+and Hsueh, Nien-Lin
+and Chen, Hong-Hsiang
+and Liu, Chien-Hung",
+title="A test case refactoring approach for pattern-based software development",
+journal="Software Quality Journal",
+year="2012",
+month="Mar",
+day="01",
+volume="20",
+number="1",
+pages="43--75",
+issn="1573-1367",
+doi="10.1007/s11219-011-9143-x",
+url="https://doi.org/10.1007/s11219-011-9143-x"
+}
+
+@Article{Riungu-Kalliosaari2016,
+author="Riungu-Kalliosaari, Leah
+and Taipale, Ossi
+and Smolander, Kari
+and Richardson, Ita",
+title="Adoption and use of cloud-based testing in practice",
+journal="Software Quality Journal",
+year="2016",
+month="Jun",
+day="01",
+volume="24",
+number="2",
+pages="337--364",
+issn="1573-1367",
+doi="10.1007/s11219-014-9256-0",
+url="https://doi.org/10.1007/s11219-014-9256-0"
+}
+
+@Article{Li2006,
+author="Li, Jingyue
+and Bj{\o}rnson, Finn Olav
+and Conradi, Reidar
+and Kampenes, Vigdis B.",
+title="An empirical study of variations in COTS-based software development processes in the Norwegian IT industry",
+journal="Empirical Software Engineering",
+year="2006",
+month="Sep",
+day="01",
+volume="11",
+number="3",
+pages="433--461",
+issn="1573-7616",
+doi="10.1007/s10664-006-9005-5",
+url="https://doi.org/10.1007/s10664-006-9005-5"
+}
+
+@Article{Šmite2014,
+author="{\v{S}}mite, Darja
+and Wohlin, Claes
+and Galvi{\c{n}}a, Zane
+and Prikladnicki, Rafael",
+title="An empirically based terminology and taxonomy for global software engineering",
+journal="Empirical Software Engineering",
+year="2014",
+month="Feb",
+day="01",
+volume="19",
+number="1",
+pages="105--153",
+issn="1573-7616",
+doi="10.1007/s10664-012-9217-9",
+url="https://doi.org/10.1007/s10664-012-9217-9"
+}
+
+@Article{Sharp2004,
+author="Sharp, Helen
+and Robinson, Hugh",
+title="An Ethnographic Study of XP Practice",
+journal="Empirical Software Engineering",
+year="2004",
+month="Dec",
+day="01",
+volume="9",
+number="4",
+pages="353--375",
+issn="1573-7616",
+doi="10.1023/B:EMSE.0000039884.79385.54",
+url="https://doi.org/10.1023/B:EMSE.0000039884.79385.54"
+}
+
+@Article{Lormans2008,
+author="Lormans, Marco
+and van Deursen, Arie
+and Gross, Hans-Gerhard",
+title="An industrial case study in reconstructing requirements views",
+journal="Empirical Software Engineering",
+year="2008",
+month="Dec",
+day="01",
+volume="13",
+number="6",
+pages="727--760",
+issn="1573-7616",
+doi="10.1007/s10664-008-9078-4",
+url="https://doi.org/10.1007/s10664-008-9078-4"
+}
+
+@Article{Damian2004,
+author="Damian, Daniela
+and Zowghi, Didar
+and Vaidyanathasamy, Lakshminarayanan
+and Pal, Yogendra",
+title="An Industrial Case Study of Immediate Benefits of Requirements Engineering Process Improvement at the Australian Center for Unisys Software",
+journal="Empirical Software Engineering",
+year="2004",
+month="Mar",
+day="01",
+volume="9",
+number="1",
+pages="45--75",
+issn="1573-7616",
+doi="10.1023/B:EMSE.0000013514.19567.ad",
+url="https://doi.org/10.1023/B:EMSE.0000013514.19567.ad"
+}
+
+@Article{Ahmed2010,
+author="Ahmed, Faheem
+and Capretz, Luiz Fernando",
+title="An organizational maturity model of software product line engineering",
+journal="Software Quality Journal",
+year="2010",
+month="Jun",
+day="01",
+volume="18",
+number="2",
+pages="195--225",
+issn="1573-1367",
+doi="10.1007/s11219-009-9088-5",
+url="https://doi.org/10.1007/s11219-009-9088-5"
+}
+
+@Article{Christie1998,
+author="Christie, Alan M.
+and Kellner, Marc I.
+and Riddle, William E.",
+title="An Overview of Process Technology Activities at the Software Engineering Institute",
+journal="Journal of Systems Integration",
+year="1998",
+month="May",
+day="01",
+volume="8",
+number="2",
+pages="121--132",
+issn="1573-8787",
+doi="10.1023/A:1008206119511",
+url="https://doi.org/10.1023/A:1008206119511"
+}
+
+@Article{Reis2002,
+author="Reis, Rodrigo Quites
+and Reis, Carla Alessandra Lima
+and Schlebbe, Heribert
+and Jos{\'e} nunes, Daltro",
+title="Automatic Verification of Static Policies on Software Process Models",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="197--234",
+issn="1573-7489",
+doi="10.1023/A:1020509809235",
+url="https://doi.org/10.1023/A:1020509809235"
+}
+
+@Article{Jönsson2006,
+author="J{\"o}nsson, Per
+and Wohlin, Claes",
+title="Benchmarking k-nearest neighbour imputation with homogeneous Likert data",
+journal="Empirical Software Engineering",
+year="2006",
+month="May",
+day="31",
+volume="11",
+number="3",
+pages="463",
+issn="1573-7616",
+doi="10.1007/s10664-006-9001-9",
+url="https://doi.org/10.1007/s10664-006-9001-9"
+}
+
+@Article{Love1998,
+author="Love, Matthew
+and Siddiqi, Jawed",
+title="Can the case for CASE technology be advanced by Process Improvement?",
+journal="Software Quality Journal",
+year="1998",
+month="Mar",
+day="01",
+volume="7",
+number="1",
+pages="3--10",
+issn="1573-1367",
+doi="10.1023/B:SQJO.0000042055.40508.32",
+url="https://doi.org/10.1023/B:SQJO.0000042055.40508.32"
+}
+
+@Inbook{Humphrey1992,
+author="Humphrey, Watts S.",
+editor="Yeh, Raymond T.",
+title="CASE Planning and the Software Process",
+bookTitle="Case Technology: A Special Issue of the Journal of Systems Integration",
+year="1992",
+publisher="Springer US",
+address="Boston, MA",
+pages="59--75",
+isbn="978-1-4615-3644-4",
+doi="10.1007/978-1-4615-3644-4_4",
+url="https://doi.org/10.1007/978-1-4615-3644-4_4"
+}
+
+@Article{Bjarnason2014,
+author="Bjarnason, Elizabeth and Runeson, Per and Borg, Markus and Unterkalmsteiner, Michael and Engstr{\"o}m, Emelie and Regnell, Bj{\"o}rn
+and Sabaliauskaite, Giedre and Loconsole, Annabella and Gorschek, Tony
+and Feldt, Robert",
+title="Challenges and practices in aligning requirements with verification and validation: a case study of six companies",
+journal="Empirical Software Engineering",
+year="2014",
+month="Dec",
+day="01",
+volume="19",
+number="6",
+pages="1809--1855",
+issn="1573-7616",
+doi="10.1007/s10664-013-9263-y",
+url="https://doi.org/10.1007/s10664-013-9263-y"
+}
+
+@Article{Benediktsson2003,
+author="Benediktsson, Oddur
+and Dalcher, Darren
+and Reed, Karl
+and Woodman, Mark",
+title="COCOMO-Based Effort Estimation for Iterative and Incremental Software Development",
+journal="Software Quality Journal",
+year="2003",
+month="Nov",
+day="01",
+volume="11",
+number="4",
+pages="265--281",
+issn="1573-1367",
+doi="10.1023/A:1025809010217",
+url="https://doi.org/10.1023/A:1025809010217"
+}
+
+@Article{Chatterji2016,
+author="Chatterji, Debarshi
+and Carver, Jeffrey C.
+and Kraft, Nicholas A.",
+title="Code clones and developer behavior: results of two surveys of the clone research community",
+journal="Empirical Software Engineering",
+year="2016",
+month="Aug",
+day="01",
+volume="21",
+number="4",
+pages="1476--1508",
+issn="1573-7616",
+doi="10.1007/s10664-015-9394-4",
+url="https://doi.org/10.1007/s10664-015-9394-4"
+}
+
+@Article{Karahasanoviæ2005,
+author="Karahasanovi{\ae}, Amela and Anda, Bente and Arisholm, Erik
+and Hove, Siw Elisabeth and J{\o}rgensen, Magne and Sj{\o}berg, Dag I. K.
+and Welland, Ray",
+title="Collecting Feedback during Software Engineering Experiments",
+journal="Empirical Software Engineering",
+year="2005",
+month="Apr",
+day="01",
+volume="10",
+number="2",
+pages="113--147",
+issn="1573-7616",
+doi="10.1007/s10664-004-6189-4",
+url="https://doi.org/10.1007/s10664-004-6189-4"
+}
+
+@Article{Abrahamsson2002,
+author="Abrahamsson, Pekka",
+title="Commitment Nets in Software Process Improvement",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="407--438",
+issn="1573-7489",
+doi="10.1023/A:1020526329708",
+url="https://doi.org/10.1023/A:1020526329708"
+}
+
+@Article{Shin2016,
+author="Shin, Donghwan
+and Jee, Eunkyoung
+and Bae, Doo-Hwan",
+title="Comprehensive analysis of FBD test coverage criteria using mutants",
+journal="Software {\&} Systems Modeling",
+year="2016",
+month="Jul",
+day="01",
+volume="15",
+number="3",
+pages="631--645",
+issn="1619-1374",
+doi="10.1007/s10270-014-0428-y",
+url="https://doi.org/10.1007/s10270-014-0428-y"
+}
+
+@Article{Gasston1999,
+author="Gasston, Jennifer
+and Halloran, Pat",
+title="Continuous Software Process Improvement Requires Organisational Learning: An Australian Case Study",
+journal="Software Quality Journal",
+year="1999",
+month="Sep",
+day="01",
+volume="8",
+number="1",
+pages="37--51",
+issn="1573-1367",
+doi="10.1023/A:1008974818812",
+url="https://doi.org/10.1023/A:1008974818812"
+}
+
+@Article{Dittrich2008,
+author="Dittrich, Yvonne
+and R{\"o}nkk{\"o}, Kari
+and Eriksson, Jeanette
+and Hansson, Christina
+and Lindeberg, Olle",
+title="Cooperative method development",
+journal="Empirical Software Engineering",
+year="2008",
+month="Jun",
+day="01",
+volume="13",
+number="3",
+pages="231--260",
+issn="1573-7616",
+doi="10.1007/s10664-007-9057-1",
+url="https://doi.org/10.1007/s10664-007-9057-1"
+}
+
+@Article{Prikladnicki2014,
+author="Prikladnicki, Rafael
+and Boden, Alexander
+and Avram, Gabriela
+and de Souza, Cleidson R. B.
+and Wulf, Volker",
+title="Data collection in global software engineering research: learning from past experience",
+journal="Empirical Software Engineering",
+year="2014",
+month="Aug",
+day="01",
+volume="19",
+number="4",
+pages="822--856",
+issn="1573-7616",
+doi="10.1007/s10664-012-9240-x",
+url="https://doi.org/10.1007/s10664-012-9240-x"
+}
+
+@Article{Bowes2014,
+author="Bowes, David
+and Hall, Tracy
+and Gray, David",
+title="DConfusion: a technique to allow cross study performance evaluation of fault prediction studies",
+journal="Automated Software Engineering",
+year="2014",
+month="Apr",
+day="01",
+volume="21",
+number="2",
+pages="287--313",
+issn="1573-7535",
+doi="10.1007/s10515-013-0129-8",
+url="https://doi.org/10.1007/s10515-013-0129-8"
+}
+
+@Article{Osei-Bryson2008,
+author="Osei-Bryson, Kweku-Muata
+and Ngwenyama, Ojelanki",
+title="Decision models for information systems management",
+journal="Information Systems Frontiers",
+year="2008",
+month="Jul",
+day="01",
+volume="10",
+number="3",
+pages="277--279",
+issn="1572-9419",
+doi="10.1007/s10796-008-9082-7",
+url="https://doi.org/10.1007/s10796-008-9082-7"
+}
+
+@Article{Giraudo2003,
+author="Giraudo, Griselda
+and Tonella, Paolo",
+title="Designing and Conducting an Empirical Study on Test Management Automation",
+journal="Empirical Software Engineering",
+year="2003",
+month="Mar",
+day="01",
+volume="8",
+number="1",
+pages="59--81",
+issn="1573-7616",
+doi="10.1023/A:1021720916127",
+url="https://doi.org/10.1023/A:1021720916127"
+}
+
+@Article{Hoda2012,
+author="Hoda, Rashina
+and Noble, James
+and Marshall, Stuart",
+title="Developing a grounded theory to explain the practices of self-organizing Agile teams",
+journal="Empirical Software Engineering",
+year="2012",
+month="Dec",
+day="01",
+volume="17",
+number="6",
+pages="609--639",
+issn="1573-7616",
+doi="10.1007/s10664-011-9161-0",
+url="https://doi.org/10.1007/s10664-011-9161-0"
+}
+
+@Article{Ebert2002,
+author="Ebert, Christof
+and De Man, Jozef",
+title="e-R{\&}D -- Effectively Managing Process Diversity",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="73--91",
+issn="1573-7489",
+doi="10.1023/A:1020545406509",
+url="https://doi.org/10.1023/A:1020545406509"
+}
+
+@Article{Šmite2010,
+author="{\v{S}}mite, Darja
+and Wohlin, Claes
+and Gorschek, Tony
+and Feldt, Robert",
+title="Empirical evidence in global software engineering: a systematic review",
+journal="Empirical Software Engineering",
+year="2010",
+month="Feb",
+day="01",
+volume="15",
+number="1",
+pages="91--118",
+issn="1573-7616",
+doi="10.1007/s10664-009-9123-y",
+url="https://doi.org/10.1007/s10664-009-9123-y"
+}
+
+@Article{Siakas2002,
+author="Siakas, Kerstin V.
+and Georgiadou, Elli",
+title="Empirical Measurement of the Effects of Cultural Diversity on Software Quality Management",
+journal="Software Quality Journal",
+year="2002",
+month="Sep",
+day="01",
+volume="10",
+number="2",
+pages="169--180",
+issn="1573-1367",
+doi="10.1023/A:1020528024624",
+url="https://doi.org/10.1023/A:1020528024624"
+}
+
+@Article{Raffo1999,
+author="Raffo, David
+and Kaltio, Timo
+and Partridge, Derek
+and Phalp, Keith
+and Ramil, Juan F.",
+title="Empirical Studies Applied to Software Process Models",
+journal="Empirical Software Engineering",
+year="1999",
+month="Dec",
+day="01",
+volume="4",
+number="4",
+pages="353--369",
+issn="1573-7616",
+doi="10.1023/A:1009817721252",
+url="https://doi.org/10.1023/A:1009817721252"
+}
+
+@Article{Gholami2014,
+author="Gholami, Mahdi Fahmideh
+and Sharifi, Mohsen
+and Jamshidi, Pooyan",
+title="Enhancing the OPEN Process Framework with service-oriented method fragments",
+journal="Software {\&} Systems Modeling",
+year="2014",
+month="Feb",
+day="01",
+volume="13",
+number="1",
+pages="361--390",
+issn="1619-1374",
+doi="10.1007/s10270-011-0222-z",
+url="https://doi.org/10.1007/s10270-011-0222-z"
+}
+
+@Article{Williams2014,
+author="Williams, Byron J.
+and Carver, Jeffrey C.",
+title="Examination of the software architecture change characterization scheme using three empirical studies",
+journal="Empirical Software Engineering",
+year="2014",
+month="Jun",
+day="01",
+volume="19",
+number="3",
+pages="419--464",
+issn="1573-7616",
+doi="10.1007/s10664-012-9223-y",
+url="https://doi.org/10.1007/s10664-012-9223-y"
+}
+
+@Article{Lindvall2007,
+author="Lindvall, Mikael and Rus, Ioana and Donzelli, Paolo and Memon, Atif
+and Zelkowitz, Marvin and Betin-Can, Aysu and Bultan, Tevfik and Ackermann, Chris and Anders, Bettina and Asgari, Sima and Basili, Victor
+and Hochstein, Lorin and Fellmann, J{\"o}rg and Shull, Forrest
+and Tvedt, Roseanne and Pech, Daniel and Hirschbach, Daniel",
+title="Experimenting with software testbeds for evaluating new technologies",
+journal="Empirical Software Engineering",
+year="2007",
+month="Aug",
+day="01",
+volume="12",
+number="4",
+pages="417--444",
+issn="1573-7616",
+doi="10.1007/s10664-006-9034-0",
+url="https://doi.org/10.1007/s10664-006-9034-0"
+}
+
+@Article{Koch2008,
+author="Koch, Stefan",
+title="Exploring the effects of SourceForge.net coordination and communication tools on the efficiency of open source projects using data envelopment analysis",
+journal="Empirical Software Engineering",
+year="2008",
+month="Aug",
+day="15",
+volume="14",
+number="4",
+pages="397",
+issn="1573-7616",
+doi="10.1007/s10664-008-9086-4",
+url="https://doi.org/10.1007/s10664-008-9086-4"
+}
+
+@Article{Lepmets2012,
+author="Lepmets, Marion
+and Cater-Steel, Aileen
+and Gacenga, Francis
+and Ras, Eric",
+title="Extending the IT service quality measurement framework through a systematic literature review",
+journal="Journal of Service Science Research",
+year="2012",
+month="Jun",
+day="01",
+volume="4",
+number="1",
+pages="7--47",
+issn="2093-0739",
+doi="10.1007/s12927-012-0001-6",
+url="https://doi.org/10.1007/s12927-012-0001-6"
+}
+
+@Article{Osterweil2009,
+author="Osterweil, Leon J.",
+title="Formalisms to Support the Definition of Processes",
+journal="Journal of Computer Science and Technology",
+year="2009",
+month="Mar",
+day="01",
+volume="24",
+number="2",
+pages="198--211",
+issn="1860-4749",
+doi="10.1007/s11390-009-9218-3",
+url="https://doi.org/10.1007/s11390-009-9218-3"
+}
+
+@Article{Saiedian1996,
+author="Saiedian, Hossein
+and McClanahan, Laura M.",
+title="Frameworks for quality software process: SEI Capability Maturity Model versus ISO 9000",
+journal="Software Quality Journal",
+year="1996",
+month="Mar",
+day="01",
+volume="5",
+number="1",
+pages="1--23",
+issn="1573-1367",
+doi="10.1007/BF02420941",
+url="https://doi.org/10.1007/BF02420941"
+}
+
+@Article{Moe2014,
+author="Moe, Nils Brede and {\v{S}}mite, Darj and Hanssen, Geir Kjetil
+and Barney, Hamish",
+title="From offshore outsourcing to insourcing and partnerships: four failed outsourcing attempts",
+journal="Empirical Software Engineering",
+year="2014",
+month="Oct",
+day="01",
+volume="19",
+number="5",
+pages="1225--1258",
+issn="1573-7616",
+doi="10.1007/s10664-013-9272-x",
+url="https://doi.org/10.1007/s10664-013-9272-x"
+}
+
+@Article{Beirne1997,
+author="Beirne, Martin
+and Panteli, Androniki
+and Ramsay, Harvie",
+title="Going soft on quality?:Process management in the Scottish software industry",
+journal="Software Quality Journal",
+year="1997",
+month="Sep",
+day="01",
+volume="6",
+number="3",
+pages="195--209",
+issn="1573-1367",
+doi="10.1023/A:1018564019365",
+url="https://doi.org/10.1023/A:1018564019365"
+}
+
+@Article{Braun2014,
+author="Braun, Peter and Broy, Manfred and Houdek, Frank and Kirchmayr, Matthias and M{\"u}ller, Mark and Penzenstadler, Birgit and Pohl, Klaus
+and Weyer, Thorsten",
+title="Guiding requirements engineering for software-intensive embedded systems in the automotive industry",
+journal="Computer Science - Research and Development",
+year="2014",
+month="Feb",
+day="01",
+volume="29",
+number="1",
+pages="21--43",
+issn="1865-2042",
+doi="10.1007/s00450-010-0136-y",
+url="https://doi.org/10.1007/s00450-010-0136-y"
+}
+
+@Article{Jabangwe2015,
+author="Jabangwe, Ronald and B{\"o}rstler, J{\"u}rgen and Petersen, Kai",
+title="Handover of managerial responsibilities in global software development: a case study of source code evolution and quality",
+journal="Software Quality Journal",
+year="2015",
+month="Dec",
+day="01",
+volume="23",
+number="4",
+pages="539--566",
+issn="1573-1367",
+doi="10.1007/s11219-014-9247-1",
+url="https://doi.org/10.1007/s11219-014-9247-1"
+}
+
+@Article{Baldassarre2012,
+author="Baldassarre, Maria Teresa and Caivano, Danilo
+and Pino, Francisco J. and Piattini, Mario and Visaggio, Giuseppe",
+title="Harmonization of ISO/IEC 9001:2000 and CMMI-DEV: from a theoretical comparison to a real case application",
+journal="Software Quality Journal",
+year="2012",
+month="Jun",
+day="01",
+volume="20",
+number="2",
+pages="309--335",
+issn="1573-1367",
+doi="10.1007/s11219-011-9154-7",
+url="https://doi.org/10.1007/s11219-011-9154-7"
+}
+
+@Article{GarcíaGuzmán2010,
+author="Garc{\'i}a Guzm{\'a}n, Javier
+and Salda{\~{n}}a Ramos, Javier
+and Amescua Seco, Antonio
+and Sanz Esteban, Ana",
+title="How to get mature global virtual teams: a framework to improve team process management in distributed software teams",
+journal="Software Quality Journal",
+year="2010",
+month="Dec",
+day="01",
+volume="18",
+number="4",
+pages="409--435",
+issn="1573-1367",
+doi="10.1007/s11219-010-9096-5",
+url="https://doi.org/10.1007/s11219-010-9096-5"
+}
+
+@Article{Ebert1999,
+author="Ebert, Christof and Liedtke, Thomas and Baisch, Ekkehard",
+title="Improving reliability of large software systems",
+journal="Annals of Software Engineering",
+year="1999",
+month="Feb",
+day="01",
+volume="8",
+number="1",
+pages="3--51",
+issn="1573-7489",
+doi="10.1023/A:1018971212809",
+url="https://doi.org/10.1023/A:1018971212809"
+}
+
+@Article{Cocchio1999,
+author="Cocchio, Luisa and Puttero, Davide",
+title="Industrial Requirements for Distributed SCM Tool",
+journal="Software Quality Journal",
+year="1999",
+month="Oct",
+day="01",
+volume="8",
+number="2",
+pages="111--120",
+issn="1573-1367",
+doi="10.1023/A:1008952809919",
+url="https://doi.org/10.1023/A:1008952809919"
+}
+
+@Article{Samoilenko2008,
+author="Samoilenko, Sergey",
+title="Information systems fitness and risk in IS development: Insights and implications from chaos and complex systems theories",
+journal="Information Systems Frontiers",
+year="2008",
+month="May",
+day="13",
+volume="10",
+number="3",
+pages="281",
+issn="1572-9419",
+doi="10.1007/s10796-008-9078-3",
+url="https://doi.org/10.1007/s10796-008-9078-3"
+}
+
+@Article{Karlström2006,
+author="Karlstr{\"o}m, Daniel and Runeson, Per",
+title="Integrating agile software development into stage-gate managed product development",
+journal="Empirical Software Engineering",
+year="2006",
+month="Jun",
+day="01",
+volume="11",
+number="2",
+pages="203--225",
+issn="1573-7616",
+doi="10.1007/s10664-006-6402-8",
+url="https://doi.org/10.1007/s10664-006-6402-8"
+}
+
+@Article{Maurer2002,
+author="Maurer, Frank and Holz, Harald",
+title="Integrating Process Support and Knowledge Management for Virtual Software Development Teams",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="145--168",
+issn="1573-7489",
+doi="10.1023/A:1020505708326",
+url="https://doi.org/10.1023/A:1020505708326"
+}
+
+@Article{Felderer2014,
+author="Felderer, Michael and Ramler, Rudolf",
+title="Integrating risk-based testing in industrial test processes",
+journal="Software Quality Journal",
+year="2014",
+month="Sep",
+day="01",
+volume="22",
+number="3",
+pages="543--575",
+issn="1573-1367",
+doi="10.1007/s11219-013-9226-y",
+url="https://doi.org/10.1007/s11219-013-9226-y"
+}
+
+@Article{Humphrey1995,
+author="Humphrey, Watts S.",
+title="Introducing the personal software process",
+journal="Annals of Software Engineering",
+year="1995",
+month="Dec",
+day="01",
+volume="1",
+number="1",
+pages="311--325",
+issn="1573-7489",
+doi="10.1007/BF02249055",
+url="https://doi.org/10.1007/BF02249055"
+}
+
+@Article{Jaliff1997,
+author="Jaliff, J. S. and Jonsson, C. {\AA}. and Ljungblad, A.",
+title="Introduction of modern software technology. A case from Swedish industry",
+journal="Software Quality Journal",
+year="1997",
+month="Mar",
+day="01",
+volume="6",
+number="1",
+pages="1--11",
+issn="1573-1367",
+doi="10.1023/A:1018536726634",
+url="https://doi.org/10.1023/A:1018536726634"
+}
+
+@Article{Tarhan2011,
+author="Tarhan, Ayca and Demirors, Onur",
+title="Investigating the effect of variations in the test development process: a case from a safety-critical system",
+journal="Software Quality Journal",
+year="2011",
+month="Dec",
+day="01",
+volume="19",
+number="4",
+pages="615--642",
+issn="1573-1367",
+doi="10.1007/s11219-011-9129-8",
+url="https://doi.org/10.1007/s11219-011-9129-8"
+}
+
+@Article{Sfetsos2006,
+author="Sfetsos, Panagiotis and Angelis, Lefteris and Stamelos, Ioannis",
+title="Investigating the extreme programming system--An empirical study",
+journal="Empirical Software Engineering",
+year="2006",
+month="Jun",
+day="01",
+volume="11",
+number="2",
+pages="269--301",
+issn="1573-7616",
+doi="10.1007/s10664-006-6404-6",
+url="https://doi.org/10.1007/s10664-006-6404-6"
+}
+
+@Article{Kocaguneli2013,
+author="Kocaguneli, Ekrem and Menzies, Tim and Keung, Jacky W.",
+title="Kernel methods for software effort estimation",
+journal="Empirical Software Engineering",
+year="2013",
+month="Feb",
+day="01",
+volume="18",
+number="1",
+pages="1--24",
+issn="1573-7616",
+doi="10.1007/s10664-011-9189-1",
+url="https://doi.org/10.1007/s10664-011-9189-1"
+}
+
+@Article{Khoshkbarforoushha2011,
+author="Khoshkbarforoushha, Alireza and Jamshidi, Pooyan and Nikravesh, Ali and Shams, Fereidoon",
+title="Metrics for BPEL process context-independency analysis",
+journal="Service Oriented Computing and Applications",
+year="2011",
+month="Sep",
+day="01",
+volume="5",
+number="3",
+pages="139--157",
+issn="1863-2394",
+doi="10.1007/s11761-011-0077-8",
+url="https://doi.org/10.1007/s11761-011-0077-8"
+}
+
+@Article{Lee2014,
+author="Lee, Taeho and Gu, Taewan and Baik, Jongmoon",
+title="MND-SCEMP: an empirical study of a software cost estimation modeling process in the defense domain",
+journal="Empirical Software Engineering",
+year="2014",
+month="Feb",
+day="01",
+volume="19",
+number="1",
+pages="213--240",
+issn="1573-7616",
+doi="10.1007/s10664-012-9220-1",
+url="https://doi.org/10.1007/s10664-012-9220-1"
+}
+
+@Article{Hall2007,
+author="Hall, Tracy and Jagielska, Dorota and Baddoo, Nathan",
+title="Motivating developer performance to improve project outcomes in a high maturity organization",
+journal="Software Quality Journal",
+year="2007",
+month="Dec",
+day="01",
+volume="15",
+number="4",
+pages="365--381",
+issn="1573-1367",
+doi="10.1007/s11219-007-9028-1",
+url="https://doi.org/10.1007/s11219-007-9028-1"
+}
+
+@Article{Mäntylä2015,
+author="M{\"a}ntyl{\"a}, Mika V and Adams, Bram and Khomh, Foutse
+and Engstr{\"o}m, Emelie and Petersen, Kai",
+title="On rapid releases and software testing: a case study and a semi-systematic literature review",
+journal="Empirical Software Engineering",
+year="2015",
+month="Oct",
+day="01",
+volume="20",
+number="5",
+pages="1384--1425",
+issn="1573-7616",
+doi="10.1007/s10664-014-9338-4",
+url="https://doi.org/10.1007/s10664-014-9338-4"
+}
+
+@Article{Seo2013,
+author="Seo, Yeong-Seok and Bae, Doo-Hwan",
+title="On the value of outlier elimination on software effort estimation research",
+journal="Empirical Software Engineering",
+year="2013",
+month="Aug",
+day="01",
+volume="18",
+number="4",
+pages="659--698",
+issn="1573-7616",
+doi="10.1007/s10664-012-9207-y",
+url="https://doi.org/10.1007/s10664-012-9207-y"
+}
+
+@Article{Kou2009,
+author="Kou, Hongbing and Johnson, Philip M. and Erdogmus, Hakan",
+title="Operational definition and automated inference of test-driven development with Zorro",
+journal="Automated Software Engineering",
+year="2009",
+month="Nov",
+day="10",
+volume="17",
+number="1",
+pages="57",
+issn="1573-7535",
+doi="10.1007/s10515-009-0058-8",
+url="https://doi.org/10.1007/s10515-009-0058-8"
+}
+
+@Article{Karlsson2007,
+author="Karlsson, Lena and Thelin, Thomas and Regnell, Bj{\"o}rn
+and Berander, Patrik and Wohlin, Claes",
+title="Pair-wise comparisons versus planning game partitioning---experiments on requirements prioritisation techniques",
+journal="Empirical Software Engineering",
+year="2007",
+month="Feb",
+day="01",
+volume="12",
+number="1",
+pages="3--33",
+issn="1573-7616",
+doi="10.1007/s10664-006-7240-4",
+url="https://doi.org/10.1007/s10664-006-7240-4"
+}
+
+@Article{Maldonado2006,
+author="Maldonado, Jos{\'e} C. and Carver, Jeffrey and Shull, Forrest
+and Fabbri, Sandra and D{\'o}ria, Emerson and Martimiano, Luciana
+and Mendon{\c{c}}a, Manoel and Basili, Victor",
+title="Perspective-Based Reading: A Replicated Experiment Focused on Individual Reviewer Effectiveness",
+journal="Empirical Software Engineering",
+year="2006",
+month="Mar",
+day="01",
+volume="11",
+number="1",
+pages="119--142",
+issn="1573-7616",
+doi="10.1007/s10664-006-5967-6",
+url="https://doi.org/10.1007/s10664-006-5967-6"
+}
+
+@Article{GarcíaGuzmán2013,
+author="Garc{\'i}a Guzm{\'a}n, Javier and Mart{\'i}n, Diego
+and Urbano, Juli{\'a}n and de Amescua, Antonio",
+title="Practical experiences in modelling software engineering practices: The project patterns approach",
+journal="Software Quality Journal",
+year="2013",
+month="Jun",
+day="01",
+volume="21",
+number="2",
+pages="325--354",
+issn="1573-1367",
+doi="10.1007/s11219-012-9177-8",
+url="https://doi.org/10.1007/s11219-012-9177-8"
+}
+
+@Article{Caglayan2015,
+author="Caglayan, Bora and Tosun Misirli, Ayse
+and Bener, Ayse Basar and Miranskyy, Andriy",
+title="Predicting defective modules in different test phases",
+journal="Software Quality Journal",
+year="2015",
+month="Jun",
+day="01",
+volume="23",
+number="2",
+pages="205--227",
+issn="1573-1367",
+doi="10.1007/s11219-014-9230-x",
+url="https://doi.org/10.1007/s11219-014-9230-x"
+}
+
+@Article{Deiters1998,
+author="Deiters, Wolfgang and Gruhn, Volker",
+title="Process Management in Practice Applying the FUNSOFT Net Approach to Large-Scale Processes",
+journal="Automated Software Engineering",
+year="1998",
+month="Jan",
+day="01",
+volume="5",
+number="1",
+pages="7--25",
+issn="1573-7535",
+doi="10.1023/A:1008654224389",
+url="https://doi.org/10.1023/A:1008654224389"
+}
+
+@Article{Henderson-Sellers2002,
+author="Henderson-Sellers, Brian",
+title="Process Metamodelling and Process Construction: Examples Using the OPEN Process Framework (OPF)",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="341--362",
+issn="1573-7489",
+doi="10.1023/A:1020570027891",
+url="https://doi.org/10.1023/A:1020570027891"
+}
+
+@Article{Harrison1997,
+author="Harrison, R. and Briand, L. and Daly, J. and Kellner, M.
+and Raffo, D. M. and Shepperd, M. J.",
+title="Process Modelling and Empirical Studies of Software Evolution (PMESSE'97) Workshop Report",
+journal="Empirical Software Engineering",
+year="1997",
+month="Dec",
+day="01",
+volume="2",
+number="4",
+pages="381--403",
+issn="1573-7616",
+doi="10.1023/A:1009749918745",
+url="https://doi.org/10.1023/A:1009749918745"
+}
+
+@Article{Francis1993,
+author="Francis, Richard",
+title="Quality and process management: a view from the UK computing services industry",
+journal="Software Quality Journal",
+year="1993",
+month="Dec",
+day="01",
+volume="2",
+number="4",
+pages="225--238",
+issn="1573-1367",
+doi="10.1007/BF00403765",
+url="https://doi.org/10.1007/BF00403765"
+}
+
+@Article{Mohagheghi2007,
+author="Mohagheghi, Parastoo and Conradi, Reidar",
+title="Quality, productivity and economic benefits of software reuse: a review of industrial studies",
+journal="Empirical Software Engineering",
+year="2007",
+month="Oct",
+day="01",
+volume="12",
+number="5",
+pages="471--516",
+issn="1573-7616",
+doi="10.1007/s10664-007-9040-x",
+url="https://doi.org/10.1007/s10664-007-9040-x"
+}
+
+@Article{Ellis2013,
+author="Ellis, Keith and Berry, Daniel M.",
+title="Quantifying the impact of requirements definition and management process maturity on project outcome in large business application development",
+journal="Requirements Engineering",
+year="2013",
+month="Sep",
+day="01",
+volume="18",
+number="3",
+pages="223--249",
+issn="1432-010X",
+doi="10.1007/s00766-012-0146-3",
+url="https://doi.org/10.1007/s00766-012-0146-3"
+}
+
+@Article{Kitchenham2010,
+author="Kitchenham, Barbara A. and Brereton, Pearl and Turner, Mark
+and Niazi, Mahmood K. and Linkman, Stephen and Pretorius, Rialette
+and Budgen, David",
+title="Refining the systematic literature review process---two participant-observer case studies",
+journal="Empirical Software Engineering",
+year="2010",
+month="Dec",
+day="01",
+volume="15",
+number="6",
+pages="618--653",
+issn="1573-7616",
+doi="10.1007/s10664-010-9134-8",
+url="https://doi.org/10.1007/s10664-010-9134-8"
+}
+
+@Article{Jedlitschka2014,
+author="Jedlitschka, Andreas and Juristo, Natalia and Rombach, Dieter",
+title="Reporting experiments to satisfy professionals' information needs",
+journal="Empirical Software Engineering",
+year="2014",
+month="Dec",
+day="01",
+volume="19",
+number="6",
+pages="1921--1955",
+issn="1573-7616",
+doi="10.1007/s10664-013-9268-6",
+url="https://doi.org/10.1007/s10664-013-9268-6"
+}
+
+@Article{Martínez-Ruiz2012,
+author="Mart{\'i}nez-Ruiz, Tom{\'a}s and M{\"u}nch, J{\"u}rgen
+and Garc{\'i}a, F{\'e}lix and Piattini, Mario",
+title="Requirements and constructors for tailoring software processes: a systematic literature review",
+journal="Software Quality Journal",
+year="2012",
+month="Mar",
+day="01",
+volume="20",
+number="1",
+pages="229--260",
+issn="1573-1367",
+doi="10.1007/s11219-011-9147-6",
+url="https://doi.org/10.1007/s11219-011-9147-6"
+}
+
+@Article{Damian2005,
+author="Damian, Daniela and Chisan, James and Vaidyanathasamy, Lakshminarayanan and Pal, Yogendra",
+title="Requirements Engineering and Downstream Software Development: Findings from a Case Study",
+journal="Empirical Software Engineering",
+year="2005",
+month="Jul",
+day="01",
+volume="10",
+number="3",
+pages="255--283",
+issn="1573-7616",
+doi="10.1007/s10664-005-1288-4",
+url="https://doi.org/10.1007/s10664-005-1288-4"
+}
+
+@Article{McCaffery2009,
+author="Mc Caffery, Fergal and Burton, John and Richardson, Ita",
+title="Risk management capability model for the development of medical device software",
+journal="Software Quality Journal",
+year="2009",
+month="Sep",
+day="22",
+volume="18",
+number="1",
+pages="81",
+issn="1573-1367",
+doi="10.1007/s11219-009-9086-7",
+url="https://doi.org/10.1007/s11219-009-9086-7"
+}
+
+
+@Article{Felderer2016,
+author="Felderer, Michael and Ramler, Rudolf",
+title="Risk orientation in software testing processes of small and medium enterprises: an exploratory and comparative study",
+journal="Software Quality Journal",
+year="2016",
+month="Sep",
+day="01",
+volume="24",
+number="3",
+pages="519--548",
+issn="1573-1367",
+doi="10.1007/s11219-015-9289-z",
+url="https://doi.org/10.1007/s11219-015-9289-z"
+}
+
+@Article{Lehman2001,
+author="Lehman, Meir M. and Ramil, Juan F.",
+title="Rules and Tools for Software Evolution Planning and Management",
+journal="Annals of Software Engineering",
+year="2001",
+month="Nov",
+day="01",
+volume="11",
+number="1",
+pages="15--44",
+issn="1573-7489",
+doi="10.1023/A:1012535017876",
+url="https://doi.org/10.1023/A:1012535017876"
+}
+
+@Article{Grundy1998,
+author="Grundy, John C. and Hosking, John G.",
+title="Serendipity: Integrated Environment Support for Process Modelling, Enactment and Work Coordination",
+journal="Automated Software Engineering",
+year="1998",
+month="Jan",
+day="01",
+volume="5",
+number="1",
+pages="27--60",
+issn="1573-7535",
+doi="10.1023/A:1008606308460",
+url="https://doi.org/10.1023/A:1008606308460"
+}
+
+@Article{Leung1999,
+author="Leung, Hareton K. N.",
+title="Slow Change of Information System Development Practice",
+journal="Software Quality Journal",
+year="1999",
+month="Nov",
+day="01",
+volume="8",
+number="3",
+pages="197--210",
+issn="1573-1367",
+doi="10.1023/A:1008915509865",
+url="https://doi.org/10.1023/A:1008915509865"
+}
+
+@Article{Lehman2002,
+author="Lehman, Meir M. and Ramil, Juan F.",
+title="Software Evolution and Software Evolution Processes",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="275--309",
+issn="1573-7489",
+doi="10.1023/A:1020557525901",
+url="https://doi.org/10.1023/A:1020557525901"
+}
+
+@Article{Pino2008,
+author="Pino, Francisco J. and Garc{\'i}a, F{\'e}lix and Piattini, Mario",
+title="Software process improvement in small and medium software enterprises: a systematic review",
+journal="Software Quality Journal",
+year="2008",
+month="Jun",
+day="01",
+volume="16",
+number="2",
+pages="237--261",
+issn="1573-1367",
+doi="10.1007/s11219-007-9038-z",
+url="https://doi.org/10.1007/s11219-007-9038-z"
+}
+
+@Article{Iqbal2016,
+author="Iqbal, Javed and Ahmad, Rodina Binti and Nasir, Mohd Hairul Nizam Md and Niazi, Mahmood and Shamshirband, Shahaboddin and Noor, Muhammad Asim",
+title="Software SMEs' unofficial readiness for CMMI®-based software process improvement",
+journal="Software Quality Journal",
+year="2016",
+month="Dec",
+day="01",
+volume="24",
+number="4",
+pages="997--1023",
+issn="1573-1367",
+doi="10.1007/s11219-015-9277-3",
+url="https://doi.org/10.1007/s11219-015-9277-3"
+}
+
+@Article{Baggen2012,
+author="Baggen, Robert and Correia, Jos{\'e} Pedro and Schill, Katrin
+and Visser, Joost",
+title="Standardized code quality benchmarking for improving software maintainability",
+journal="Software Quality Journal",
+year="2012",
+month="Jun",
+day="01",
+volume="20",
+number="2",
+pages="287--307",
+issn="1573-1367",
+doi="10.1007/s11219-011-9144-9",
+url="https://doi.org/10.1007/s11219-011-9144-9"
+}
+
+@Article{Pikkarainen2012,
+author="Pikkarainen, Minna and Salo, Outi and Kuusela, Raija and Abrahamsson, Pekka",
+title="Strengths and barriers behind the successful agile deployment---insights from the three software intensive companies in Finland",
+journal="Empirical Software Engineering",
+year="2012",
+month="Dec",
+day="01",
+volume="17",
+number="6",
+pages="675--702",
+issn="1573-7616",
+doi="10.1007/s10664-011-9185-5",
+url="https://doi.org/10.1007/s10664-011-9185-5"
+}
+
+@Article{Lethbridge2005,
+author="Lethbridge, Timothy C.vand Sim, Susan Elliott and Singer, Janice",
+title="Studying Software Engineers: Data Collection Techniques for Software Field Studies",
+journal="Empirical Software Engineering",
+year="2005",
+month="Jul",
+day="01",
+volume="10",
+number="3",
+pages="311--341",
+issn="1573-7616",
+doi="10.1007/s10664-005-1290-x",
+url="https://doi.org/10.1007/s10664-005-1290-x"
+}
+
+@Article{Hubaux2013,
+author="Hubaux, Arnaud and Heymans, Patrick and Schobbens, Pierre-Yves
+and Deridder, Dirk and Abbasi, Ebrahim Khalil",
+title="Supporting multiple perspectives in feature-based configuration",
+journal="Software {\&} Systems Modeling",
+year="2013",
+month="Jul",
+day="01",
+volume="12",
+number="3",
+pages="641--663",
+issn="1619-1374",
+doi="10.1007/s10270-011-0220-1",
+url="https://doi.org/10.1007/s10270-011-0220-1"
+}
+
+@Article{Osei-Bryson2004,
+author="Osei-Bryson, Kweku-Muata and Ngwenyama, Ojelanki K.",
+title="Supporting Semantic Diversity in the Relational Data Model: The Case of Multi-Face Attributes",
+journal="Information Systems Frontiers",
+year="2004",
+month="Sep",
+day="01",
+volume="6",
+number="3",
+pages="277--285",
+issn="1572-9419",
+doi="10.1023/B:ISFI.0000037881.10525.07",
+url="https://doi.org/10.1023/B:ISFI.0000037881.10525.07"
+}
+
+@Article{Catal2013,
+author="Catal, Cagatay and Mishra, Deepti",
+title="Test case prioritization: a systematic mapping study",
+journal="Software Quality Journal",
+year="2013",
+month="Sep",
+day="01",
+volume="21",
+number="3",
+pages="445--478",
+issn="1573-1367",
+doi="10.1007/s11219-012-9181-z",
+url="https://doi.org/10.1007/s11219-012-9181-z"
+}
+
+@Article{Dogša2011,
+author="Dog{\v{s}}a, Toma{\v{z}} and Bati{\v{c}}, David",
+title="The effectiveness of test-driven development: an industrial case study",
+journal="Software Quality Journal",
+year="2011",
+month="Dec",
+day="01",
+volume="19",
+number="4",
+pages="643--661",
+issn="1573-1367",
+doi="10.1007/s11219-011-9130-2",
+url="https://doi.org/10.1007/s11219-011-9130-2"
+}
+
+@Article{Pikkarainen2008,
+author="Pikkarainen, M. and Haikara, J. and Salo, O. and Abrahamsson, P.
+and Still, J.",
+title="The impact of agile practices on communication in software development",
+journal="Empirical Software Engineering",
+year="2008",
+month="Jun",
+day="01",
+volume="13",
+number="3",
+pages="303--337",
+issn="1573-7616",
+doi="10.1007/s10664-008-9065-9",
+url="https://doi.org/10.1007/s10664-008-9065-9"
+}
+
+@Article{Fusaro1998,
+author="Fusaro, Pierfrancesco and Emam, Khaled El
+and Smith, Bob",
+title="The Internal Consistencies of the 1987 SEI Maturity Questionnaire and the SPICE Capability Dimension",
+journal="Empirical Software Engineering",
+year="1998",
+month="Jun",
+day="01",
+volume="3",
+number="2",
+pages="179--201",
+issn="1573-7616",
+doi="10.1023/A:1008036316053",
+url="https://doi.org/10.1023/A:1008036316053"
+}
+
+@Article{Al-Baik2015,
+author="Al-Baik, Osama and Miller, James",
+title="The kanban approach, between agility and leanness: a systematic review",
+journal="Empirical Software Engineering",
+year="2015",
+month="Dec",
+day="01",
+volume="20",
+number="6",
+pages="1861--1897",
+issn="1573-7616",
+doi="10.1007/s10664-014-9340-x",
+url="https://doi.org/10.1007/s10664-014-9340-x"
+}
+
+@Article{Bjarnason2017,
+author="Bjarnason, Elizabeth and Sharp, Helen",
+title="The role of distances in requirements communication: a case study",
+journal="Requirements Engineering",
+year="2017",
+month="Mar",
+day="01",
+volume="22",
+number="1",
+pages="1--26",
+issn="1432-010X",
+doi="10.1007/s00766-015-0233-3",
+url="https://doi.org/10.1007/s00766-015-0233-3"
+}
+
+@Article{Prechelt2011,
+author="Prechelt, Lutz and Oezbek, Christopher",
+title="The search for a research method for studying OSS process innovation",
+journal="Empirical Software Engineering",
+year="2011",
+month="Aug",
+day="01",
+volume="16",
+number="4",
+pages="514--537",
+issn="1573-7616",
+doi="10.1007/s10664-011-9160-1",
+url="https://doi.org/10.1007/s10664-011-9160-1"
+}
+
+@Article{Villela2005,
+author="Villela, Karina and Santos, Gleison and Schnaider, L{\'i}lian and Rocha, Ana Regina and Travassos, Guilherme Horta",
+title="The use of an enterprise ontology to support knowledge management in software development environments",
+journal="Journal of the Brazilian Computer Society",
+year="2005",
+month="Jun",
+day="01",
+volume="11",
+number="2",
+pages="45--59",
+issn="1678-4804",
+doi="10.1007/BF03192375",
+url="https://doi.org/10.1007/BF03192375"
+}
+
+@Article{Robinson1996,
+author="Robinson, K. and Simmons, P.",
+title="The value of a certified quality management system: the perception of internal developers",
+journal="Software Quality Journal",
+year="1996",
+month="Jun",
+day="01",
+volume="5",
+number="2",
+pages="61--73",
+issn="1573-1367",
+doi="10.1007/BF00419770",
+url="https://doi.org/10.1007/BF00419770"
+}
+
+@Article{Storey2006,
+author="Storey, Margaret-Anne",
+title="Theories, tools and research methods in program comprehension: past, present and future                  ",
+journal="Software Quality Journal",
+year="2006",
+month="Sep",
+day="01",
+volume="14",
+number="3",
+pages="187--208",
+issn="1573-1367",
+doi="10.1007/s11219-006-9216-4",
+url="https://doi.org/10.1007/s11219-006-9216-4"
+}
+
+@Article{Humphrey2002,
+author="Humphrey, Watts S.",
+title="Three Process Perspectives: Organizations, Teams, and People",
+journal="Annals of Software Engineering",
+year="2002",
+month="Dec",
+day="01",
+volume="14",
+number="1",
+pages="39--72",
+issn="1573-7489",
+doi="10.1023/A:1020593305601",
+url="https://doi.org/10.1023/A:1020593305601"
+}
+
+@Article{Hoxmeier1998,
+author="Hoxmeier, John A.",
+title="Typology of database quality factors",
+journal="Software Quality Journal",
+year="1998",
+month="Sep",
+day="01",
+volume="7",
+number="3",
+pages="179--193",
+issn="1573-1367",
+doi="10.1023/A:1008923120973",
+url="https://doi.org/10.1023/A:1008923120973"
+}
+
+@Article{Benestad2010,
+author="Benestad, Hans Christian and Anda, Bente and Arisholm, Erik",
+title="Understanding cost drivers of software evolution: a quantitative and qualitative investigation of change effort in two evolving software systems",
+journal="Empirical Software Engineering",
+year="2010",
+month="Apr",
+day="01",
+volume="15",
+number="2",
+pages="166--203",
+issn="1573-7616",
+doi="10.1007/s10664-009-9118-8",
+url="https://doi.org/10.1007/s10664-009-9118-8"
+}
+
+@Article{Sánchez-Gordón2016,
+author="S{\'a}nchez-Gord{\'o}n, Mary-Luz and O'Connor, Rory V.",
+title="Understanding the gap between software process practices and actual practice in very small companies",
+journal="Software Quality Journal",
+year="2016",
+month="Sep",
+day="01",
+volume="24",
+number="3",
+pages="549--570",
+issn="1573-1367",
+doi="10.1007/s11219-015-9282-6",
+url="https://doi.org/10.1007/s11219-015-9282-6"
+}
+
+@Article{Assar2016,
+author="Assar, Sa{\"i}d and Borg, Markus and Pfahl, Dietmar",
+title="Using text clustering to predict defect resolution time: a conceptual replication and an evaluation of prediction accuracy",
+journal="Empirical Software Engineering",
+year="2016",
+month="Aug",
+day="01",
+volume="21",
+number="4",
+pages="1437--1475",
+issn="1573-7616",
+doi="10.1007/s10664-015-9391-7",
+url="https://doi.org/10.1007/s10664-015-9391-7"
+}
+
+@Article{Kalanidhi2001,
+author="Kalanidhi, Sanjeev",
+title="Value Creation in a Network: The Role of Pricing and Revenue Optimization and Enterprise Profit OptimizationTM",
+journal="Information Systems Frontiers",
+year="2001",
+month="Dec",
+day="01",
+volume="3",
+number="4",
+pages="465--470",
+issn="1572-9419",
+doi="10.1023/A:1012828921804",
+url="https://doi.org/10.1023/A:1012828921804"
+}
+
+@Article{Münch2005,
+author="M{\"u}nch, J{\"u}rgen and Pfahl, Dietmar and Rus, Ioana",
+title="Virtual Software Engineering Laboratories in Support of Trade-off Analyses",
+journal="Software Quality Journal",
+year="2005",
+month="Dec",
+day="01",
+volume="13",
+number="4",
+pages="407",
+issn="1573-1367",
+doi="10.1007/s11219-005-4253-y",
+url="https://doi.org/10.1007/s11219-005-4253-y"
+}
+
+@Article{Casey2010,
+author="Casey, Valentine",
+title="Virtual software team project management",
+journal="Journal of the Brazilian Computer Society",
+year="2010",
+month="Aug",
+day="01",
+volume="16",
+number="2",
+pages="83--96",
+issn="1678-4804",
+doi="10.1007/s13173-010-0013-3",
+url="https://doi.org/10.1007/s13173-010-0013-3"
+}
+
+@Article{Al-Baik2014,
+author="Al-Baik, Osama and Miller, James",
+title="Waste identification and elimination in information technology organizations",
+journal="Empirical Software Engineering",
+year="2014",
+month="Dec",
+day="01",
+volume="19",
+number="6",
+pages="2019--2061",
+issn="1573-7616",
+doi="10.1007/s10664-014-9302-3",
+url="https://doi.org/10.1007/s10664-014-9302-3"
+}
+
+@Article{Mackie1997,
+author="Mackie, C.",
+title="Process excellence and capability determination",
+journal="BT Technology Journal",
+year="1997",
+month="Jul",
+day="01",
+volume="15",
+number="3",
+pages="130--139",
+issn="1573-1995",
+doi="10.1023/A:1018646521455",
+url="https://doi.org/10.1023/A:1018646521455"
+}
+

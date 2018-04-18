@@ -235,6 +235,24 @@ garbett1999a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+gasston1999a = DB(WorkUnrelated(
+    1999, "Continuous Software Process Improvement Requires Organisational Learning: An Australian Case Study",
+    display="gasston",
+    authors="Gasston, Jennifer and Halloran, Pat",
+    place=SQJ,
+    pp="37--51",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="8",
+    number="1",
+    issn="1573-1367",
+    doi="10.1023/A:1008974818812",
+    ID="Gasston1999",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 griss1999a = DB(WorkUnrelated(
     1999, "Architecting for large-scale systematic component reuse",
     display="griss",
@@ -433,6 +451,24 @@ raffo1999a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     sciencedirect2015="1",
+))
+
+raffo1999b = DB(WorkUnrelated(
+    1999, "Empirical Studies Applied to Software Process Models",
+    display="raffo b",
+    authors="Raffo, David and Kaltio, Timo and Partridge, Derek and Phalp, Keith and Ramil, Juan F.",
+    place=ESE,
+    pp="353--369",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="4",
+    number="4",
+    issn="1573-7616",
+    doi="10.1023/A:1009817721252",
+    ID="Raffo1999",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 rautiainen1999a = DB(WorkUnrelated(

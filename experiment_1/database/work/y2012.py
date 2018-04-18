@@ -280,6 +280,24 @@ chouseinoglou2012a = DB(WorkUnrelated(
     acm2015="1",
 ))
 
+chu2012a = DB(WorkUnrelated(
+    2012, "A test case refactoring approach for pattern-based software development",
+    display="chu",
+    authors="Chu, Peng-Hua and Hsueh, Nien-Lin and Chen, Hong-Hsiang and Liu, Chien-Hung",
+    place=SQJ,
+    pp="43--75",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="20",
+    number="1",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9143-x",
+    ID="Chu2012",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 clarke2012a = DB(WorkUnrelated(
     2012, "The influence of \SPI\ on business success in software SMEs: An empirical study",
     display="clarke",
@@ -660,6 +678,24 @@ hochstetter2012a = DB(WorkUnrelated(
     placex="Proceedings of the 7th International Conference on Software Engineering Advances (ICSEA",
 ))
 
+hoda2012a = DB(WorkUnrelated(
+    2012, "Developing a grounded theory to explain the practices of self-organizing Agile teams",
+    display="hoda",
+    authors="Hoda, Rashina and Noble, James and Marshall, Stuart",
+    place=ESE,
+    pp="609--639",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="17",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-011-9161-0",
+    ID="Hoda2012",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 holl2012a = DB(WorkUnrelated(
     2012, "A systematic review and an expert survey on capabilities supporting multi product lines",
     display="holl",
@@ -924,6 +960,24 @@ lepmets2012a = DB(WorkUnrelated(
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=72631659526478855&as_sdt=2005&sciodt=0,5&hl=en",
     sciencedirect2015="1",
+))
+
+lepmets2012b = DB(WorkUnrelated(
+    2012, "Extending the IT service quality measurement framework through a systematic literature review",
+    display="lepmets b",
+    authors="Lepmets, Marion and Cater-Steel, Aileen and Gacenga, Francis and Ras, Eric",
+    place=FAKE,
+    pp="7--47",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="4",
+    number="1",
+    issn="2093-0739",
+    doi="10.1007/s12927-012-0001-6",
+    ID="Lepmets2012",
+    springer2015="1",
+    placex="Journal of Service Science Research",
 ))
 
 leschera2012a = DB(WorkUnrelated(

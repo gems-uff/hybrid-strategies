@@ -40,6 +40,24 @@ becker1997b = DB(WorkUnrelated(
     placex="Proceedings of the Third Conference on Software Process Improvement (SPI '97)",
 ))
 
+beirne1997a = DB(WorkUnrelated(
+    1997, "Going soft on quality?:Process management in the Scottish software industry",
+    display="beirne",
+    authors="Beirne, Martin and Panteli, Androniki and Ramsay, Harvie",
+    place=SQJ,
+    pp="195--209",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="6",
+    number="3",
+    issn="1573-1367",
+    doi="10.1023/A:1018564019365",
+    ID="Beirne1997",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 boldyreff1997a = DB(WorkUnrelated(
     1997, "A basis for process improvement in application management",
     display="boldyreff",
@@ -429,6 +447,24 @@ spice1997a = DB(WorkUnrelated(
     authors="SPICE",
     place=FAKE,
     placex="ISO/IEC JTC1/SC7.",
+))
+
+stelzer1997a = DB(WorkUnrelated(
+    1997, "A critical look at ISO 9000 for software quality management",
+    display="stelzer",
+    authors="Stelzer, Dirk and Mellis, Werner and Herzwurm, Georg",
+    place=SQJ,
+    pp="65--79",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="6",
+    number="2",
+    issn="1573-1367",
+    doi="10.1023/A:1018591430752",
+    ID="Stelzer1997",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 sutton1997a = DB(WorkUnrelated(

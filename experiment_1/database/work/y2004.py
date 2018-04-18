@@ -258,6 +258,24 @@ content2004a = DB(WorkUnrelated(
     placex="",
 ))
 
+damian2004a = DB(WorkUnrelated(
+    2004, "An Industrial Case Study of Immediate Benefits of Requirements Engineering Process Improvement at the Australian Center for Unisys Software",
+    display="damian",
+    authors="Damian, Daniela and Zowghi, Didar and Vaidyanathasamy, Lakshminarayanan and Pal, Yogendra",
+    place=ESE,
+    pp="45--75",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="9",
+    number="1",
+    issn="1573-7616",
+    doi="10.1023/B:EMSE.0000013514.19567.ad",
+    ID="Damian2004",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 davis2004a = DB(WorkUnrelated(
     2004, "Using Measurement Data in a TSPSM Project",
     display="davis",
@@ -1007,6 +1025,24 @@ serrano2004a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Serrano2004",
     placex="Proceedings of the 28th Annual International Computer Software and Applications Conference COMPSAC'04, Hong Kong, September 28-30, 2004",
+))
+
+sharp2004a = DB(WorkUnrelated(
+    2004, "An Ethnographic Study of XP Practice",
+    display="sharp",
+    authors="Sharp, Helen and Robinson, Hugh",
+    place=ESE,
+    pp="353--375",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="9",
+    number="4",
+    issn="1573-7616",
+    doi="10.1023/B:EMSE.0000039884.79385.54",
+    ID="Sharp2004",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 solingen2004a = DB(WorkUnrelated(

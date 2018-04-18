@@ -118,6 +118,24 @@ beck2003a = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+benediktsson2003a = DB(WorkUnrelated(
+    2003, "COCOMO-Based Effort Estimation for Iterative and Incremental Software Development",
+    display="benediktsson",
+    authors="Benediktsson, Oddur and Dalcher, Darren and Reed, Karl and Woodman, Mark",
+    place=SQJ,
+    pp="265--281",
+    entrytype="article",
+    month="Nov",
+    day="01",
+    volume="11",
+    number="4",
+    issn="1573-1367",
+    doi="10.1023/A:1025809010217",
+    ID="Benediktsson2003",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 biffl2003a = DB(WorkUnrelated(
     2003, "Managing Software Inspection Knowledge for Decision Support of Inspection Planning",
     display="biffl",
@@ -442,6 +460,24 @@ gans2003a = DB(WorkUnrelated(
     cluster_id="4439341089860792530",
     scholar="http://scholar.google.com/scholar?cites=4439341089860792530&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Requirements Engineering",
+))
+
+giraudo2003a = DB(WorkUnrelated(
+    2003, "Designing and Conducting an Empirical Study on Test Management Automation",
+    display="giraudo",
+    authors="Giraudo, Griselda and Tonella, Paolo",
+    place=ESE,
+    pp="59--81",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="8",
+    number="1",
+    issn="1573-7616",
+    doi="10.1023/A:1021720916127",
+    ID="Giraudo2003",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 goethert2003a = DB(WorkUnrelated(

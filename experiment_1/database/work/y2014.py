@@ -290,6 +290,24 @@ becker2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+bjarnason2014a = DB(WorkUnrelated(
+    2014, "Challenges and practices in aligning requirements with verification and validation: a case study of six companies",
+    display="bjarnason",
+    authors="Bjarnason, Elizabeth and Runeson, Per and Borg, Markus and Unterkalmsteiner, Michael and Engström, Emelie and Regnell, Björn and Sabaliauskaite, Giedre and Loconsole, Annabella and Gorschek, Tony and Feldt, Robert",
+    place=ESE,
+    pp="1809--1855",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="19",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-013-9263-y",
+    ID="Bjarnason2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 boehm2014a = DB(WorkUnrelated(
     2014, "17.3. 7 Combine Multiple Alternative Estimates",
     display="boehm",
@@ -317,6 +335,24 @@ bosch2014a = DB(WorkUnrelated(
     placex="Proceedings of the 18th International Software Product Line Conference - Volume 1",
 ))
 
+bowes2014a = DB(WorkUnrelated(
+    2014, "DConfusion: a technique to allow cross study performance evaluation of fault prediction studies",
+    display="bowes",
+    authors="Bowes, David and Hall, Tracy and Gray, David",
+    place=FAKE,
+    pp="287--313",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="21",
+    number="2",
+    issn="1573-7535",
+    doi="10.1007/s10515-013-0129-8",
+    ID="Bowes2014",
+    springer2015="1",
+    placex="Automated Software Engineering",
+))
+
 brannen2014a = DB(WorkUnrelated(
     2014, "Language, Culture and Boundary-spanning: Pushing the Frontiers of Research on Global Learning and Innovation",
     display="brannen",
@@ -330,6 +366,24 @@ brannen2014a = DB(WorkUnrelated(
     ID="Brannen:2014:LCB:2631488.2637430",
     acm="1",
     placex="Proceedings of the 5th ACM International Conference on Collaboration Across Boundaries: Culture, Distance &#38; Technology",
+))
+
+braun2014a = DB(WorkUnrelated(
+    2014, "Guiding requirements engineering for software-intensive embedded systems in the automotive industry",
+    display="braun",
+    authors="Braun, Peter and Broy, Manfred and Houdek, Frank and Kirchmayr, Matthias and Müller, Mark and Penzenstadler, Birgit and Pohl, Klaus and Weyer, Thorsten",
+    place=FAKE,
+    pp="21--43",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="29",
+    number="1",
+    issn="1865-2042",
+    doi="10.1007/s00450-010-0136-y",
+    ID="Braun2014",
+    springer2015="1",
+    placex="Computer Science - Research and Development",
 ))
 
 brehm2014a = DB(WorkUnrelated(
@@ -796,6 +850,24 @@ ghanavati2014a = DB(WorkUnrelated(
     ID="Ghanavati:2014:LGR:2593770.2593780",
     acm="1",
     placex="Proceedings of the 6th International Workshop on Modeling in Software Engineering",
+))
+
+gholami2014a = DB(WorkUnrelated(
+    2014, "Enhancing the OPEN Process Framework with service-oriented method fragments",
+    display="gholami",
+    authors="Gholami, Mahdi Fahmideh and Sharifi, Mohsen and Jamshidi, Pooyan",
+    place=FAKE,
+    pp="361--390",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="13",
+    number="1",
+    issn="1619-1374",
+    doi="10.1007/s10270-011-0222-z",
+    ID="Gholami2014",
+    springer2015="1",
+    placex="Software {&} Systems Modeling",
 ))
 
 giannoulis2014a = DB(WorkUnrelated(
@@ -1301,6 +1373,24 @@ liggesmeyer2014a = DB(WorkUnrelated(
     placex="Informatik-Spektrum",
 ))
 
+lindholm2014a = DB(WorkUnrelated(
+    2014, "A case study on software risk analysis and planning in medical device development",
+    display="lindholm",
+    authors="Lindholm, Christin and Notander, Jesper Pedersen and Höst, Martin",
+    place=SQJ,
+    pp="469--497",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="22",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-013-9222-2",
+    ID="Lindholm2014",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 mahanti2014a = DB(WorkUnrelated(
     2014, "Application of Quality Tools to Data Warehousing Projects.",
     display="mahanti",
@@ -1376,6 +1466,24 @@ mitrehernández2014a = DB(WorkUnrelated(
     publisher="Elsevier",
     webofscience2015="1",
     sciencedirect2015="1",
+))
+
+moe2014a = DB(WorkUnrelated(
+    2014, "From offshore outsourcing to insourcing and partnerships: four failed outsourcing attempts",
+    display="moe",
+    authors="Moe, Nils Brede and {Š}mite, Darj and Hanssen, Geir Kjetil and Barney, Hamish",
+    place=ESE,
+    pp="1225--1258",
+    entrytype="article",
+    month="Oct",
+    day="01",
+    volume="19",
+    number="5",
+    issn="1573-7616",
+    doi="10.1007/s10664-013-9272-x",
+    ID="Moe2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 muñoz2014a = DB(WorkUnrelated(
@@ -1555,6 +1663,24 @@ poligadu2014a = DB(WorkUnrelated(
     placex="International Journal of Agile Systems and Management",
 ))
 
+prikladnicki2014a = DB(WorkUnrelated(
+    2014, "Data collection in global software engineering research: learning from past experience",
+    display="prikladnicki",
+    authors="Prikladnicki, Rafael and Boden, Alexander and Avram, Gabriela and de Souza, Cleidson R. B. and Wulf, Volker",
+    place=ESE,
+    pp="822--856",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="19",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-012-9240-x",
+    ID="Prikladnicki2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 rahrovani2014a = DB(WorkUnrelated(
     2014, "Aligning IT for Future Business Value: Conceptualizing It Project Portfolio Alignment",
     display="rahrovani",
@@ -1703,6 +1829,24 @@ simões2014a = DB(WorkUnrelated(
     ID="Simões2014",
     springer="1",
     placex="Journal of Software Engineering Research and Development",
+))
+
+smite2014a = DB(WorkUnrelated(
+    2014, "An empirically based terminology and taxonomy for global software engineering",
+    display="smite ",
+    authors="Smite, Darja and Wohlin, Claes and Galvi{ņ}a, Zane and Prikladnicki, Rafael",
+    place=ESE,
+    pp="105--153",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="19",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-012-9217-9",
+    ID="Šmite2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 solaimani2014a = DB(WorkUnrelated(
@@ -2028,6 +2172,24 @@ wiesche2014a = DB(WorkUnrelated(
     ID="Wiesche:2014:RPM:2599990.2600012",
     acm2015="1",
     placex="Proceedings of the 52Nd ACM Conference on Computers and People Research",
+))
+
+williams2014a = DB(WorkUnrelated(
+    2014, "Examination of the software architecture change characterization scheme using three empirical studies",
+    display="williams",
+    authors="Williams, Byron J. and Carver, Jeffrey C.",
+    place=ESE,
+    pp="419--464",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="19",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-012-9223-y",
+    ID="Williams2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 youn2014a = DB(WorkUnrelated(

@@ -527,6 +527,24 @@ gunarathne2009a = DB(WorkUnrelated(
     placex="Proceedings of the 5th Grid Computing Environments Workshop",
 ))
 
+gupta2009a = DB(WorkUnrelated(
+    2009, "A case study comparing defect profiles of a reused framework and of applications reusing it",
+    display="gupta",
+    authors="Gupta, Anita and Li, Jingyue and Conradi, Reidar and Rønneberg, Harald and Landre, Einar",
+    place=ESE,
+    pp="227--255",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="14",
+    number="2",
+    issn="1573-7616",
+    doi="10.1007/s10664-008-9081-9",
+    ID="Gupta2009",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 heidrich2009a = DB(WorkUnrelated(
     2009, "Messbasierte Ausrichtung von Softwarestrategien an Geschäftszielen",
     display="heidrich",
@@ -1092,6 +1110,24 @@ oliveira2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Oliveira2009",
     placex="Software Quality Journal",
+))
+
+osterweil2009a = DB(WorkUnrelated(
+    2009, "Formalisms to Support the Definition of Processes",
+    display="osterweil",
+    authors="Osterweil, Leon J.",
+    place=JCS,
+    pp="198--211",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="24",
+    number="2",
+    issn="1860-4749",
+    doi="10.1007/s11390-009-9218-3",
+    ID="Osterweil2009",
+    springer2015="1",
+    placex="Journal of Computer Science and Technology",
 ))
 
 paruchuri2009a = DB(WorkUnrelated(

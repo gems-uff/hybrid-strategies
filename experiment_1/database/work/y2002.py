@@ -3,6 +3,24 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahamsson2002a = DB(WorkUnrelated(
+    2002, "Commitment Nets in Software Process Improvement",
+    display="abrahamsson",
+    authors="Abrahamsson, Pekka",
+    place=FAKE,
+    pp="407--438",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020526329708",
+    ID="Abrahamsson2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
+))
+
 alleman2002a = DB(WorkUnrelated(
     2002, "Agile Project Management Methods for ERP: How to Apply Agile Processes to Complex COTS Projects and Live to Tell about It",
     display="alleman",
@@ -304,6 +322,24 @@ donkin2002a = DB(WorkUnrelated(
     ID="donkin2002study",
     local="Durham University",
     placex="",
+))
+
+ebert2002a = DB(WorkUnrelated(
+    2002, "e-R&D -- Effectively Managing Process Diversity",
+    display="ebert",
+    authors="Ebert, Christof and De Man, Jozef",
+    place=FAKE,
+    pp="73--91",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020545406509",
+    ID="Ebert2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
 ))
 
 ezran2002a = DB(WorkUnrelated(
@@ -806,6 +842,24 @@ reifer2002a = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+reis2002a = DB(WorkUnrelated(
+    2002, "Automatic Verification of Static Policies on Software Process Models",
+    display="reis",
+    authors="Reis, Rodrigo Quites and Reis, Carla Alessandra Lima and Schlebbe, Heribert and José nunes, Daltro",
+    place=FAKE,
+    pp="197--234",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020509809235",
+    ID="Reis2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
+))
+
 richardson2002a = DB(WorkUnrelated(
     2002, "Development of generic quality function deployment matrix",
     display="richardson",
@@ -930,6 +984,24 @@ sheard2002a = DB(WorkUnrelated(
     ID="Sheard:2002:CPP:637610.544468",
     acm="1",
     placex="SIGCSE Bull.",
+))
+
+siakas2002a = DB(WorkUnrelated(
+    2002, "Empirical Measurement of the Effects of Cultural Diversity on Software Quality Management",
+    display="siakas",
+    authors="Siakas, Kerstin V. and Georgiadou, Elli",
+    place=SQJ,
+    pp="169--180",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="10",
+    number="2",
+    issn="1573-1367",
+    doi="10.1023/A:1020528024624",
+    ID="Siakas2002",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 simon2002a = DB(WorkUnrelated(

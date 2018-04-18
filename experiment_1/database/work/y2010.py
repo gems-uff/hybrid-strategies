@@ -19,6 +19,24 @@ aboelmaged2010a = DB(WorkUnrelated(
     placex="International Journal of Quality & Reliability Management",
 ))
 
+ahmed2010a = DB(WorkUnrelated(
+    2010, "An organizational maturity model of software product line engineering",
+    display="ahmed",
+    authors="Ahmed, Faheem and Capretz, Luiz Fernando",
+    place=SQJ,
+    pp="195--225",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="18",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-009-9088-5",
+    ID="Ahmed2010",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 albuquerque2010a = DB(WorkUnrelated(
     2010, "An approach to evaluate and improve the organizational processes assets: the first experience of use",
     display="albuquerque",
@@ -1760,6 +1778,24 @@ patanakul2010a = DB(WorkUnrelated(
     placex="Systems Engineering",
 ))
 
+patnayakuni2010a = DB(WorkUnrelated(
+    2010, "A socio-technical approach to improving the systems development process",
+    display="patnayakuni",
+    authors="Patnayakuni, Ravi and Ruppel, Cynthia P.",
+    place=FAKE,
+    pp="219--234",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="12",
+    number="2",
+    issn="1572-9419",
+    doi="10.1007/s10796-008-9093-4",
+    ID="Patnayakuni2010",
+    springer2015="1",
+    placex="Information Systems Frontiers",
+))
+
 petersen2010a = DB(WorkUnrelated(
     2010, "The effect of moving from a plan-driven to an incremental software development approach with agile practices: An industrial case study",
     display="petersen",
@@ -2053,6 +2089,24 @@ simmons2010a = DB(WorkUnrelated(
     entrytype="article",
     ID="simmons2010cmmi",
     placex="RESEARCH YEARBOOK",
+))
+
+smite2010a = DB(WorkUnrelated(
+    2010, "Empirical evidence in global software engineering: a systematic review",
+    display="smite",
+    authors="Smite, Darja and Wohlin, Claes and Gorschek, Tony and Feldt, Robert",
+    place=ESE,
+    pp="91--118",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="15",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-009-9123-y",
+    ID="Šmite2010",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 softex2010a = DB(WorkUnrelated(

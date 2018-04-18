@@ -634,6 +634,24 @@ jha2006a = DB(WorkUnrelated(
     placex="Proceedings of the 2006 International Workshop on Advances and Applications of Problem Frames",
 ))
 
+jönsson2006a = DB(WorkUnrelated(
+    2006, "Benchmarking k-nearest neighbour imputation with homogeneous Likert data",
+    display="jönsson",
+    authors="Jönsson, Per and Wohlin, Claes",
+    place=ESE,
+    pp="463",
+    entrytype="article",
+    month="May",
+    day="31",
+    volume="11",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-9001-9",
+    ID="Jönsson2006",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 kaplan2006a = DB(WorkUnrelated(
     2006, "Alignment: Using the Balanced Scorecard to Create Corporate Synergies",
     display="kaplan",
@@ -723,6 +741,24 @@ li2006a = DB(WorkUnrelated(
     cluster_id="1748080141810175497",
     scholar="http://scholar.google.com/scholar?cites=1748080141810175497&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Process Workshop",
+))
+
+li2006b = DB(WorkUnrelated(
+    2006, "An empirical study of variations in COTS-based software development processes in the Norwegian IT industry",
+    display="li b",
+    authors="Li, Jingyue and Bjørnson, Finn Olav and Conradi, Reidar and Kampenes, Vigdis B.",
+    place=ESE,
+    pp="433--461",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="11",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-9005-5",
+    ID="Li2006",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 liu2006a = DB(WorkSnowball(

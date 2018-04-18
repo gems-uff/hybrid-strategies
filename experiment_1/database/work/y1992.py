@@ -151,6 +151,23 @@ hinley1992a = DB(WorkUnrelated(
     placex="pp.174-182,",
 ))
 
+humphrey1992a = DB(WorkUnrelated(
+    1992, "CASE Planning and the Software Process",
+    display="humphrey",
+    authors="Humphrey, Watts S.",
+    place=FAKE,
+    pp="59--75",
+    entrytype="inbook",
+    editor="Yeh, Raymond T.",
+    publisher="Springer US",
+    address="Boston, MA",
+    isbn="978-1-4615-3644-4",
+    doi="10.1007/978-1-4615-3644-4_4",
+    ID="Humphrey1992",
+    springer2015="1",
+    placex="Case Technology: A Special Issue of the Journal of Systems Integration",
+))
+
 kaplan1992a = DB(WorkUnrelated(
     1992, "The balanced scorecard--measures that drive performance",
     display="kaplan",

@@ -234,6 +234,24 @@ dolezel2015a = DB(WorkUnrelated(
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
+drago2015a = DB(WorkUnrelated(
+    2015, "A quality driven extension to the QVT-relations transformation			language",
+    display="drago",
+    authors="Drago, Mauro Luigi and Ghezzi, Carlo and Mirandola, Raffaela",
+    place=FAKE,
+    pp="1--20",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="30",
+    number="1",
+    issn="1865-2042",
+    doi="10.1007/s00450-011-0202-0",
+    ID="Drago2015",
+    springer2015="1",
+    placex="Computer Science - Research and Development",
+))
+
 dymek2015a = DB(WorkUnrelated(
     2015, "Model parametryczny w zarz{?}dzaniu ryzykiem przedsi{?}wzi{?}{c?} informatycznych",
     display="dymek",
@@ -389,6 +407,24 @@ gossen2015a = DB(WorkUnrelated(
     ID="Gossen201512",
     sciencedirect="1",
     placex="Procedia \{CIRP\}",
+))
+
+grbac2015a = DB(WorkUnrelated(
+    2015, "A quality cost reduction model for large-scale software development",
+    display="grbac",
+    authors="Galinac Grbac, Tihana and Car, {Ž}eljka and Huljeni{ć}, Darko",
+    place=SQJ,
+    pp="363--390",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="23",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-014-9240-8",
+    ID="GalinacGrbac2015",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 gren2015a = DB(WorkUnrelated(

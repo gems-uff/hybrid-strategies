@@ -782,6 +782,24 @@ leung2007a = DB(WorkUnrelated(
     placex="International Journal of Quality & Reliability Management",
 ))
 
+li2007a = DB(WorkUnrelated(
+    2007, "A flexible method for software effort estimation by analogy",
+    display="li",
+    authors="Li, Jingzhou and Ruhe, Guenther and Al-Emran, Ahmed and Richter, Michael M.",
+    place=ESE,
+    pp="65--106",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="12",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-7552-4",
+    ID="Li2007",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 linden2007a = DB(WorkUnrelated(
     2007, "Software product lines in action",
     display="linden",
@@ -792,6 +810,22 @@ linden2007a = DB(WorkUnrelated(
     note="cited By 1",
     ID="vanderLinden2007",
 ))
+
+lindvall2007a = DB(WorkUnrelated(
+    2007, "Experimenting with software testbeds for evaluating new technologies",
+    display="lindvall",
+    authors="Lindvall, Mikael and Rus, Ioana and Donzelli, Paolo and Memon, Atif and Zelkowitz, Marvin and Betin-Can, Aysu and Bultan, Tevfik and Ackermann, Chris and Anders, Bettina and Asgari, Sima and Basili, Victor and Hochstein, Lorin and Fellmann, Jörg and Shull, Forrest and Tvedt, Roseanne and Pech, Daniel and Hirschbach, Daniel",
+    place=ESE,
+    pp="417--444",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="12",
+    number="4",
+    issn="1573-7616",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+ ))
 
 liu2007a = DB(WorkUnrelated(
     2007, "Motorola Software Group's China Center: value added by CMMI",

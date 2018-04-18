@@ -416,6 +416,24 @@ pulford1996b = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+saiedian1996a = DB(WorkUnrelated(
+    1996, "Frameworks for quality software process: SEI Capability Maturity Model versus ISO 9000",
+    display="saiedian",
+    authors="Saiedian, Hossein and McClanahan, Laura M.",
+    place=SQJ,
+    pp="1--23",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="5",
+    number="1",
+    issn="1573-1367",
+    doi="10.1007/BF02420941",
+    ID="Saiedian1996",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 sommerville1996a = DB(WorkUnrelated(
     1996, "Human, Social and Organizational Influences on the Software Process",
     display="sommerville",
