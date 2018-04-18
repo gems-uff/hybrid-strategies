@@ -264,6 +264,24 @@ coallier2005a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+damian2005a = DB(WorkUnrelated(
+    2005, "Requirements Engineering and Downstream Software Development: Findings from a Case Study",
+    display="damian",
+    authors="Damian, Daniela and Chisan, James and Vaidyanathasamy, Lakshminarayanan and Pal, Yogendra",
+    place=ESE,
+    pp="255--283",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="10",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-005-1288-4",
+    ID="Damian2005",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 dove2005a = DB(WorkUnrelated(
     2005, "Fundamental principles for agile systems engineering",
     display="dove",
@@ -575,6 +593,24 @@ kauppinen2005a = DB(WorkUnrelated(
     placex="",
 ))
 
+lethbridge2005a = DB(WorkUnrelated(
+    2005, "Studying Software Engineers: Data Collection Techniques for Software Field Studies",
+    display="lethbridge",
+    authors="Lethbridge, Timothy C.vand Sim, Susan Elliott and Singer, Janice",
+    place=ESE,
+    pp="311--341",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="10",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-005-1290-x",
+    ID="Lethbridge2005",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 liu2005a = DB(WorkSnowball(
     2005, "QFD application in software process management and improvement based on CMM",
     display="liu",
@@ -640,6 +676,24 @@ mas2005a = DB(WorkUnrelated(
     cluster_id="6633335005355642323",
     scholar="http://scholar.google.com/scholar?cites=6633335005355642323&as_sdt=2005&sciodt=0,5&hl=en",
     placex="REICIS. Revista Española de Innovación, Calidad e Ingeniería del Software",
+))
+
+münch2005a = DB(WorkUnrelated(
+    2005, "Virtual Software Engineering Laboratories in Support of Trade-off Analyses",
+    display="münch",
+    authors="Münch, Jürgen and Pfahl, Dietmar and Rus, Ioana",
+    place=SQJ,
+    pp="407",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="13",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-005-4253-y",
+    ID="Münch2005",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 niazi2005a = DB(WorkUnrelated(
@@ -915,6 +969,24 @@ vegas2005a = DB(WorkUnrelated(
     ID="Vegas2005437",
     placex="Empirical Software Engineering",
     other1="10 (4), 437-466",
+))
+
+villela2005a = DB(WorkUnrelated(
+    2005, "The use of an enterprise ontology to support knowledge management in software development environments",
+    display="villela",
+    authors="Villela, Karina and Santos, Gleison and Schnaider, L{í}lian and Rocha, Ana Regina and Travassos, Guilherme Horta",
+    place=JBCS,
+    pp="45--59",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="11",
+    number="2",
+    issn="1678-4804",
+    doi="10.1007/BF03192375",
+    ID="Villela2005",
+    springer2015="1",
+    placex="Journal of the Brazilian Computer Society",
 ))
 
 wang2005a = DB(WorkSnowball(

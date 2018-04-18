@@ -329,6 +329,24 @@ krasner1997a = DB(WorkUnrelated(
     placex="Krasner Consulting",
 ))
 
+mackie1997a = DB(WorkUnrelated(
+    1997, "Process excellence and capability determination",
+    display="mackie",
+    authors="Mackie, C.",
+    place=FAKE,
+    pp="130--139",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="15",
+    number="3",
+    issn="1573-1995",
+    doi="10.1023/A:1018646521455",
+    ID="Mackie1997",
+    springer2015="1",
+    placex="BT Technology Journal",
+))
+
 mashiko1997a = DB(WorkUnrelated(
     1997, "Using the GQM paradigm to investigate influential factors for software process improvement",
     display="mashiko",

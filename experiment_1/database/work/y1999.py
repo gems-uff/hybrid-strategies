@@ -403,6 +403,24 @@ kautz1999b = DB(WorkUnrelated(
     placex="Journal of the Software Process-Improvement and Practice",
 ))
 
+leung1999a = DB(WorkUnrelated(
+    1999, "Slow Change of Information System Development Practice",
+    display="leung",
+    authors="Leung, Hareton K. N.",
+    place=SQJ,
+    pp="197--210",
+    entrytype="article",
+    month="Nov",
+    day="01",
+    volume="8",
+    number="3",
+    issn="1573-1367",
+    doi="10.1023/A:1008915509865",
+    ID="Leung1999",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 linberg1999a = DB(WorkUnrelated(
     1999, "Software developer perceptions about software project failure: A case study",
     display="linberg",

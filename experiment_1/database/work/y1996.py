@@ -416,6 +416,24 @@ pulford1996b = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+robinson1996a = DB(WorkUnrelated(
+    1996, "The value of a certified quality management system: the perception of internal developers",
+    display="robinson",
+    authors="Robinson, K. and Simmons, P.",
+    place=SQJ,
+    pp="61--73",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="5",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/BF00419770",
+    ID="Robinson1996",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 saiedian1996a = DB(WorkUnrelated(
     1996, "Frameworks for quality software process: SEI Capability Maturity Model versus ISO 9000",
     display="saiedian",

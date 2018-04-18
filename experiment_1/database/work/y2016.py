@@ -72,6 +72,24 @@ arnold2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+assar2016a = DB(WorkUnrelated(
+    2016, "Using text clustering to predict defect resolution time: a conceptual replication and an evaluation of prediction accuracy",
+    display="assar",
+    authors="Assar, Sa{̈i}d and Borg, Markus and Pfahl, Dietmar",
+    place=ESE,
+    pp="1437--1475",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="21",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-015-9391-7",
+    ID="Assar2016",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 aversano2016a = DB(WorkUnrelated(
     2016, "Managing the alignment between business processes and software systems",
     display="aversano",
@@ -212,6 +230,24 @@ fabijan2016a = DB(WorkUnrelated(
     placex="Software Engineering and Advanced Applications (SEAA), 2016 42th Euromicro Conference on",
 ))
 
+felderer2016a = DB(WorkUnrelated(
+    2016, "Risk orientation in software testing processes of small and medium enterprises: an exploratory and comparative study",
+    display="felderer",
+    authors="Felderer, Michael and Ramler, Rudolf",
+    place=SQJ,
+    pp="519--548",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="24",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-015-9289-z",
+    ID="Felderer2016",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 francalanci2016a = DB(WorkUnrelated(
     2016, "Evaluating the Economic Implications of Information Systems: A Formal Model of Information Processing Capacity",
     display="francalanci",
@@ -245,6 +281,24 @@ hooge2016a = DB(WorkUnrelated(
     ID="hooge2016decision",
     local="University of the Incarnate Word",
     placex="",
+))
+
+iqbal2016a = DB(WorkUnrelated(
+    2016, "Software SMEs' unofficial readiness for CMMI®-based software process improvement",
+    display="iqbal",
+    authors="Iqbal, Javed and Ahmad, Rodina Binti and Nasir, Mohd Hairul Nizam Md and Niazi, Mahmood and Shamshirband, Shahaboddin and Noor, Muhammad Asim",
+    place=SQJ,
+    pp="997--1023",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="24",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-015-9277-3",
+    ID="Iqbal2016",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 jaramillo2016a = DB(WorkUnrelated(
@@ -810,6 +864,24 @@ sánchez2016a = DB(WorkUnrelated(
     cluster_id="6012537638812307765",
     scholar="http://scholar.google.com/scholar?cites=6012537638812307765&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Managing Software Process Evolution",
+))
+
+sánchez2016b = DB(WorkUnrelated(
+    2016, "Understanding the gap between software process practices and actual practice in very small companies",
+    display="sánchez b",
+    authors="Sánchez-Gordón, Mary-Luz and O'Connor, Rory V.",
+    place=SQJ,
+    pp="549--570",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="24",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-015-9282-6",
+    ID="Sánchez-Gordón2016",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 tahir2016a = DB(WorkUnrelated(

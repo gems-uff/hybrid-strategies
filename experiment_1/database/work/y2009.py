@@ -265,6 +265,24 @@ bóka2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+caffery2009a = DB(WorkUnrelated(
+    2009, "Risk management capability model for the development of medical device software",
+    display="caffery",
+    authors="Mc Caffery, Fergal and Burton, John and Richardson, Ita",
+    place=SQJ,
+    pp="81",
+    entrytype="article",
+    month="Sep",
+    day="22",
+    volume="18",
+    number="1",
+    issn="1573-1367",
+    doi="10.1007/s11219-009-9086-7",
+    ID="McCaffery2009",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 chastek2009a = DB(WorkUnrelated(
     2009, "Formulation of a production strategy for a software product line",
     display="chastek",

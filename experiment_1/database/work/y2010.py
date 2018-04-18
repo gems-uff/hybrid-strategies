@@ -318,6 +318,24 @@ begum2010a = DB(WorkUnrelated(
     placex="arXiv preprint arXiv:1008.3321",
 ))
 
+benestad2010a = DB(WorkUnrelated(
+    2010, "Understanding cost drivers of software evolution: a quantitative and qualitative investigation of change effort in two evolving software systems",
+    display="benestad",
+    authors="Benestad, Hans Christian and Anda, Bente and Arisholm, Erik",
+    place=ESE,
+    pp="166--203",
+    entrytype="article",
+    month="Apr",
+    day="01",
+    volume="15",
+    number="2",
+    issn="1573-7616",
+    doi="10.1007/s10664-009-9118-8",
+    ID="Benestad2010",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 besseris2010a = DB(WorkUnrelated(
     2010, "Taguchi methods in software quality testing",
     display="besseris",
@@ -411,6 +429,24 @@ carvalho2010a = DB(WorkUnrelated(
     cluster_id="1413388519633656976",
     scholar="http://scholar.google.com/scholar?cites=1413388519633656976&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings do IX Simpósio Brasileiro de Qualidade de Software. Belém, PA, Brasil: SBQS",
+))
+
+casey2010a = DB(WorkUnrelated(
+    2010, "Virtual software team project management",
+    display="casey",
+    authors="Casey, Valentine",
+    place=JBCS,
+    pp="83--96",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="16",
+    number="2",
+    issn="1678-4804",
+    doi="10.1007/s13173-010-0013-3",
+    ID="Casey2010",
+    springer2015="1",
+    placex="Journal of the Brazilian Computer Society",
 ))
 
 chiprout2010a = DB(WorkUnrelated(
@@ -1055,6 +1091,24 @@ kim2010a = DB(WorkUnrelated(
     ID="Kim:2010:RBE:1735223.1735260",
     acm="1",
     placex="Commun. ACM",
+))
+
+kitchenham2010a = DB(WorkUnrelated(
+    2010, "Refining the systematic literature review process---two participant-observer case studies",
+    display="kitchenham",
+    authors="Kitchenham, Barbara A. and Brereton, Pearl and Turner, Mark and Niazi, Mahmood K. and Linkman, Stephen and Pretorius, Rialette and Budgen, David",
+    place=ESE,
+    pp="618--653",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="15",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-010-9134-8",
+    ID="Kitchenham2010",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 klöckner2010a = DB(WorkUnrelated(

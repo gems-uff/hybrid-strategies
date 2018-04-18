@@ -1375,6 +1375,42 @@ pijpers2008a = DB(WorkUnrelated(
     placex="Proceedings of the 10th International Conference on Electronic Commerce",
 ))
 
+pikkarainen2008a = DB(WorkUnrelated(
+    2008, "The impact of agile practices on communication in software development",
+    display="pikkarainen",
+    authors="Pikkarainen, M. and Haikara, J. and Salo, O. and Abrahamsson, P. and Still, J.",
+    place=ESE,
+    pp="303--337",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="13",
+    number="3",
+    issn="1573-7616",
+    doi="10.1007/s10664-008-9065-9",
+    ID="Pikkarainen2008",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
+pino2008a = DB(WorkUnrelated(
+    2008, "Software process improvement in small and medium software enterprises: a systematic review",
+    display="pino",
+    authors="Pino, Francisco J. and Garc{í}a, Félix and Piattini, Mario",
+    place=SQJ,
+    pp="237--261",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="16",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-007-9038-z",
+    ID="Pino2008",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 ponisio2008a = DB(WorkUnrelated(
     2008, "Analysing Boundary Objects to Develop Results that Support Business Goals",
     display="ponisio",

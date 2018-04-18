@@ -538,6 +538,24 @@ dieste2011a = DB(WorkUnrelated(
     ID="Dieste2011283",
 ))
 
+dog2011a = DB(WorkUnrelated(
+    2011, "The effectiveness of test-driven development: an industrial case study",
+    display="dog",
+    authors="Dog{š}a, Toma{ž} and Bati{č}, David",
+    place=SQJ,
+    pp="643--661",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="19",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9130-2",
+    ID="Dogša2011",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 el2011a = DB(WorkUnrelated(
     2011, "DSS-CMM: A capability maturity model for DSS development processes",
     display="el",
@@ -1519,6 +1537,24 @@ ponisio2011a = DB(WorkUnrelated(
     cluster_id="944562914255284158",
     scholar="http://scholar.google.com/scholar?cites=944562914255284158&as_sdt=2005&sciodt=0,5&hl=en",
     placex="18th European Systems and Software Process Improvement and Innovation Conference, EuroSPI2 2011",
+))
+
+prechelt2011a = DB(WorkUnrelated(
+    2011, "The search for a research method for studying OSS process innovation",
+    display="prechelt",
+    authors="Prechelt, Lutz and Oezbek, Christopher",
+    place=ESE,
+    pp="514--537",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="16",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-011-9160-1",
+    ID="Prechelt2011",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 pryor2011a = DB(WorkUnrelated(

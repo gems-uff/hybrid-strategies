@@ -342,6 +342,24 @@ cardoso2013a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth International Conference on Management of Emergent Digital EcoSystems",
 ))
 
+catal2013a = DB(WorkUnrelated(
+    2013, "Test case prioritization: a systematic mapping study",
+    display="catal",
+    authors="Catal, Cagatay and Mishra, Deepti",
+    place=SQJ,
+    pp="445--478",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="21",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-012-9181-z",
+    ID="Catal2013",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 chebrolu2013a = DB(WorkUnrelated(
     2013, "How does alignment of business and IT strategies impact aspects of IT effectiveness?",
     display="chebrolu",
@@ -842,6 +860,24 @@ huang2013a = DB(WorkUnrelated(
     ID="huang2013critical",
     gs="1",
     placex="Total Quality Management & Business Excellence",
+))
+
+hubaux2013a = DB(WorkUnrelated(
+    2013, "Supporting multiple perspectives in feature-based configuration",
+    display="hubaux",
+    authors="Hubaux, Arnaud and Heymans, Patrick and Schobbens, Pierre-Yves and Deridder, Dirk and Abbasi, Ebrahim Khalil",
+    place=FAKE,
+    pp="641--663",
+    entrytype="article",
+    month="Jul",
+    day="01",
+    volume="12",
+    number="3",
+    issn="1619-1374",
+    doi="10.1007/s10270-011-0220-1",
+    ID="Hubaux2013",
+    springer2015="1",
+    placex="Software {&} Systems Modeling",
 ))
 
 hästbacka2013a = DB(WorkUnrelated(

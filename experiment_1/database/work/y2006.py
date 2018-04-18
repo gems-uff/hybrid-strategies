@@ -1119,6 +1119,24 @@ standardization2006a = DB(WorkUnrelated(
     placex="'Information technology - Process assessment'.",
 ))
 
+storey2006a = DB(WorkUnrelated(
+    2006, "Theories, tools and research methods in program comprehension: past, present and future",
+    display="storey",
+    authors="Storey, Margaret-Anne",
+    place=SQJ,
+    pp="187--208",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="14",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-006-9216-4",
+    ID="Storey2006",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 tihinen2006a = DB(WorkUnrelated(
     2006, "How to build and sustain a measurement data management environment in a SME",
     display="tihinen",

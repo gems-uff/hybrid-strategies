@@ -43,6 +43,24 @@ aguirre2014a = DB(WorkUnrelated(
     placex="Competition Forum",
 ))
 
+al2014a = DB(WorkUnrelated(
+    2014, "Waste identification and elimination in information technology organizations",
+    display="al",
+    authors="Al-Baik, Osama and Miller, James",
+    place=ESE,
+    pp="2019--2061",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="19",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-014-9302-3",
+    ID="Al-Baik2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 ali2014a = DB(WorkUnrelated(
     2014, "A systematic literature review on the industrial use of software process simulation",
     display="ali",
@@ -1108,6 +1126,24 @@ janes2014b = DB(WorkUnrelated(
     publisher="Springer",
     ID="janes2014towards",
     placex="Lean Software Development in Action",
+))
+
+jedlitschka2014a = DB(WorkUnrelated(
+    2014, "Reporting experiments to satisfy professionals' information needs",
+    display="jedlitschka",
+    authors="Jedlitschka, Andreas and Juristo, Natalia and Rombach, Dieter",
+    place=ESE,
+    pp="1921--1955",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="19",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-013-9268-6",
+    ID="Jedlitschka2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 jørgensen2014a = DB(WorkUnrelated(

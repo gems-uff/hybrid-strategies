@@ -922,6 +922,24 @@ oecd2004a = DB(WorkUnrelated(
     placex="Organization for Economic Cooperation and Development",
 ))
 
+osei2004a = DB(WorkUnrelated(
+    2004, "Supporting Semantic Diversity in the Relational Data Model: The Case of Multi-Face Attributes",
+    display="osei",
+    authors="Osei-Bryson, Kweku-Muata and Ngwenyama, Ojelanki K.",
+    place=FAKE,
+    pp="277--285",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="6",
+    number="3",
+    issn="1572-9419",
+    doi="10.1023/B:ISFI.0000037881.10525.07",
+    ID="Osei-Bryson2004",
+    springer2015="1",
+    placex="Information Systems Frontiers",
+))
+
 pedersen2004a = DB(WorkUnrelated(
     2004, "Software Thinking Improvement Learning Performance Improving Lessons",
     display="pedersen",

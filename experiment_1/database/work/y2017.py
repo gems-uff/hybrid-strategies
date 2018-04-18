@@ -40,6 +40,24 @@ becker2017a = DB(WorkUnrelated(
     placex="Computer Conference (CLEI), 2017 XLIII Latin American",
 ))
 
+bjarnason2017a = DB(WorkUnrelated(
+    2017, "The role of distances in requirements communication: a case study",
+    display="bjarnason",
+    authors="Bjarnason, Elizabeth and Sharp, Helen",
+    place=FAKE,
+    pp="1--26",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="22",
+    number="1",
+    issn="1432-010X",
+    doi="10.1007/s00766-015-0233-3",
+    ID="Bjarnason2017",
+    springer2015="1",
+    placex="Requirements Engineering",
+))
+
 carmo2017a = DB(WorkUnrelated(
     2017, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management",
     alias=(0, "An Analysis of Strategic Goals and Non-Functional Requirements in Business Process Management"),

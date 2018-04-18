@@ -490,6 +490,24 @@ henricksen2002a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+humphrey2002a = DB(WorkUnrelated(
+    2002, "Three Process Perspectives: Organizations, Teams, and People",
+    display="humphrey",
+    authors="Humphrey, Watts S.",
+    place=FAKE,
+    pp="39--72",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020593305601",
+    ID="Humphrey2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
+))
+
 isoiec2002a = DB(WorkUnrelated(
     2002, "Iso/iec 15939 international standard 1st edition 2002: software engineering - software measurement process",
     display="isoiec",
@@ -636,6 +654,24 @@ lee2002a = DB(WorkUnrelated(
     ID="10.1007/3-540-36209-6_5",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+lehman2002a = DB(WorkUnrelated(
+    2002, "Software Evolution and Software Evolution Processes",
+    display="lehman",
+    authors="Lehman, Meir M. and Ramil, Juan F.",
+    place=FAKE,
+    pp="275--309",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020557525901",
+    ID="Lehman2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
 ))
 
 mary2002a = DB(WorkUnrelated(

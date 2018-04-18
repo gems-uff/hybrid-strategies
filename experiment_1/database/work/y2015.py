@@ -14,6 +14,24 @@ abdulameer2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+al2015a = DB(WorkUnrelated(
+    2015, "The kanban approach, between agility and leanness: a systematic review",
+    display="al",
+    authors="Al-Baik, Osama and Miller, James",
+    place=ESE,
+    pp="1861--1897",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="20",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-014-9340-x",
+    ID="Al-Baik2015",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 ali2015a = DB(WorkUnrelated(
     2015, "Evaluation of simulation-assisted value stream mapping for software product development: Two industrial cases",
     display="ali",

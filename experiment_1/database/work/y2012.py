@@ -75,6 +75,24 @@ ayala2012a = DB(WorkUnrelated(
     placex="Open Source Systems: Long-Term Sustainability",
 ))
 
+baggen2012a = DB(WorkUnrelated(
+    2012, "Standardized code quality benchmarking for improving software maintainability",
+    display="baggen",
+    authors="Baggen, Robert and Correia, José Pedro and Schill, Katrin and Visser, Joost",
+    place=SQJ,
+    pp="287--307",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="20",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9144-9",
+    ID="Baggen2012",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 baldassarre2012a = DB(WorkUnrelated(
     2012, "Harmonization of ISO/IEC 9001:2000 and CMMI-DEV: from a theoretical comparison to a real case application",
     display="baldassarre",
@@ -1114,6 +1132,24 @@ mandić2012b = DB(WorkUnrelated(
     placex="",
 ))
 
+mart2012a = DB(WorkUnrelated(
+    2012, "Requirements and constructors for tailoring software processes: a systematic literature review",
+    display="mart",
+    authors="Mart{í}nez-Ruiz, Tomás and Münch, Jürgen and Garc{í}a, Félix and Piattini, Mario",
+    place=SQJ,
+    pp="229--260",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="20",
+    number="1",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9147-6",
+    ID="Martínez-Ruiz2012",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 martini2012a = DB(WorkUnrelated(
     2012, "Enablers and Inhibitors for Speed with Reuse",
     display="martini",
@@ -1446,6 +1482,24 @@ pareto2012b = DB(WorkUnrelated(
     springer="1",
     placex="Software {&} Systems Modeling",
     springer2015="1",
+))
+
+pikkarainen2012a = DB(WorkUnrelated(
+    2012, "Strengths and barriers behind the successful agile deployment---insights from the three software intensive companies in Finland",
+    display="pikkarainen",
+    authors="Pikkarainen, Minna and Salo, Outi and Kuusela, Raija and Abrahamsson, Pekka",
+    place=ESE,
+    pp="675--702",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="17",
+    number="6",
+    issn="1573-7616",
+    doi="10.1007/s10664-011-9185-5",
+    ID="Pikkarainen2012",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 ponisio2012a = DB(WorkUnrelated(

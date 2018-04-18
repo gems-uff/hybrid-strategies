@@ -681,6 +681,24 @@ jorgensen2001a = DB(WorkUnrelated(
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
+kalanidhi2001a = DB(WorkUnrelated(
+    2001, "Value Creation in a Network: The Role of Pricing and Revenue Optimization and Enterprise Profit OptimizationTM",
+    display="kalanidhi",
+    authors="Kalanidhi, Sanjeev",
+    place=FAKE,
+    pp="465--470",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="3",
+    number="4",
+    issn="1572-9419",
+    doi="10.1023/A:1012828921804",
+    ID="Kalanidhi2001",
+    springer2015="1",
+    placex="Information Systems Frontiers",
+))
+
 kaplan2001a = DB(WorkUnrelated(
     2001, "The strategy-focused organization: How balanced scorecard companies thrive in the new business environment",
     display="kaplan",
@@ -839,6 +857,24 @@ lebsanft2001a = DB(WorkUnrelated(
     ID="10.1007/3-540-44813-6_10",
     springer="1",
     placex="Product Focused Software Process Improvement",
+))
+
+lehman2001a = DB(WorkUnrelated(
+    2001, "Rules and Tools for Software Evolution Planning and Management",
+    display="lehman",
+    authors="Lehman, Meir M. and Ramil, Juan F.",
+    place=FAKE,
+    pp="15--44",
+    entrytype="article",
+    month="Nov",
+    day="01",
+    volume="11",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1012535017876",
+    ID="Lehman2001",
+    springer2015="1",
+    placex="Annals of Software Engineering",
 ))
 
 marcelloni2001a = DB(WorkUnrelated(

@@ -201,6 +201,24 @@ forman1998a = DB(WorkUnrelated(
     placex="European Journal of Operational Research",
 ))
 
+fusaro1998a = DB(WorkUnrelated(
+    1998, "The Internal Consistencies of the 1987 SEI Maturity Questionnaire and the SPICE Capability Dimension",
+    display="fusaro",
+    authors="Fusaro, Pierfrancesco and Emam, Khaled El and Smith, Bob",
+    place=ESE,
+    pp="179--201",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="3",
+    number="2",
+    issn="1573-7616",
+    doi="10.1023/A:1008036316053",
+    ID="Fusaro1998",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 gruhn1998a = DB(WorkUnrelated(
     1998, "Software Process Modeling and Enactment: An Experience Report related to Problem Tracking in an Industrial Project",
     display="gruhn",
@@ -209,6 +227,24 @@ gruhn1998a = DB(WorkUnrelated(
     entrytype="article",
     ID="Gruhn1998)",
     placex="Proceedings of the 20th international conference on Software Engineering",
+))
+
+grundy1998a = DB(WorkUnrelated(
+    1998, "Serendipity: Integrated Environment Support for Process Modelling, Enactment and Work Coordination",
+    display="grundy",
+    authors="Grundy, John C. and Hosking, John G.",
+    place=FAKE,
+    pp="27--60",
+    entrytype="article",
+    month="Jan",
+    day="01",
+    volume="5",
+    number="1",
+    issn="1573-7535",
+    doi="10.1023/A:1008606308460",
+    ID="Grundy1998",
+    springer2015="1",
+    placex="Automated Software Engineering",
 ))
 
 hansen1998a = DB(WorkUnrelated(
@@ -262,6 +298,24 @@ hierholzer1998a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 5",
     ID="Hierholzer199885",
+))
+
+hoxmeier1998a = DB(WorkUnrelated(
+    1998, "Typology of database quality factors",
+    display="hoxmeier",
+    authors="Hoxmeier, John A.",
+    place=SQJ,
+    pp="179--193",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="7",
+    number="3",
+    issn="1573-1367",
+    doi="10.1023/A:1008923120973",
+    ID="Hoxmeier1998",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 isoiec1998a = DB(WorkUnrelated(
