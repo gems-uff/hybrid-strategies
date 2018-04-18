@@ -380,6 +380,24 @@ frank2003a = DB(WorkUnrelated(
     placex="Final Project Report to the Toshiba Corporation",
 ))
 
+fuggetta2003a = DB(WorkUnrelated(
+    2003, "Open source software - an evaluation",
+    display="fuggetta",
+    authors="Fuggetta, A",
+    place=FAKE,
+    pp="77-90",
+    entrytype="article",
+    volume="66",
+    number="1",
+    month="APR 15",
+    doi="10.1016/S0164-1212(02)00065-1",
+    issn="0164-1212",
+    unique_id="ISI:000183505400008",
+    ID="ISI:000183505400008",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 gack2003a = DB(WorkUnrelated(
     2003, "Integrating improvement initiatives: connecting Six Sigma for software, CMMI, personal software process and team software process",
     display="gack",
@@ -1003,6 +1021,22 @@ vähäniitty2003b = DB(WorkUnrelated(
     entrytype="article",
     ID="vahaniitty2003thesis",
     placex="",
+))
+
+wellisch2003a = DB(WorkUnrelated(
+    2003, "Mapping modern software process engineering techniques onto an HEP development environment",
+    display="wellisch",
+    authors="Wellisch, JP",
+    place=FAKE,
+    pp="689-692",
+    entrytype="article",
+    volume="502",
+    number="2-3",
+    month="APR 21",
+    unique_id="ISI:000182893400110",
+    ID="ISI:000182893400110",
+    webofscience2015="1",
+    placex="NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT",
 ))
 
 yap2003a = DB(WorkUnrelated(

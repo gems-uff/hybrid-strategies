@@ -1055,6 +1055,24 @@ lester2010a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+li2010a = DB(WorkUnrelated(
+    2010, "Perturbation-based user-input-validation testing of web applications",
+    display="li",
+    authors="Li, Nuo and Xie, Tao and Jin, Maozhong and Liu, Chao",
+    place=FAKE,
+    pp="2263-2274",
+    entrytype="article",
+    volume="83",
+    number="11, SI",
+    month="NOV",
+    doi="10.1016/j.jss.2010.07.007",
+    issn="0164-1212",
+    unique_id="ISI:000283641600020",
+    ID="ISI:000283641600020",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 lisboa2010a = DB(WorkUnrelated(
     2010, "A systematic review of domain analysis tools",
     display="lisboa",

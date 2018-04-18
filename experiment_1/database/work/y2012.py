@@ -1146,6 +1146,22 @@ münch2012c = DB(WorkUnrelated(
     placex="Distance and International Studies Center. Springer",
 ))
 
+ng2012a = DB(WorkUnrelated(
+    2012, "Integrated Knowledge Management Strategy: A Preliminary Literature Review",
+    display="ng",
+    authors="Ng, Alex Hou Hong and Yip, Mum Wai and Din, Sabariyah Binti and Abu Bakar, Nooh",
+    place=FAKE,
+    pp="209-214",
+    entrytype="inproceedings",
+    editor="Chiu, SF and Tseng, ML and Wu, KJ",
+    series="Procedia Social and Behavioral Sciences",
+    volume="57",
+    unique_id="ISI:000393153400026",
+    ID="ISI:000393153400026",
+    webofscience2015="1",
+    placex="INTERNATIONAL CONFERENCE ON ASIA PACIFIC BUSINESS INNOVATION AND TECHNOLOGY MANAGEMENT",
+))
+
 olsina2012a = DB(WorkUnrelated(
     2012, "Bridging the Gap between Security/Risk and Quality",
     display="olsina",

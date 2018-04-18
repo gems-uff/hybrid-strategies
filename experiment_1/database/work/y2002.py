@@ -44,6 +44,24 @@ aydin2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+baddoo2002a = DB(WorkUnrelated(
+    2002, "Motivators of Software Process Improvement: an analysis of practitioners' views",
+    display="baddoo",
+    authors="Baddoo, N and Hall, T",
+    place=FAKE,
+    pp="85-96",
+    entrytype="article",
+    volume="62",
+    number="2",
+    month="MAY 15",
+    doi="10.1016/S0164-1212(01)00125-X",
+    issn="0164-1212",
+    unique_id="ISI:000176211000002",
+    ID="ISI:000176211000002",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 barafort2002a = DB(WorkUnrelated(
     2002, "Benefits Resulting from the Combined Use of ISO/IEC 15504 with the Information Technology Infrastructure Library (ITIL)",
     display="barafort",

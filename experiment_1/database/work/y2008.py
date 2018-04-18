@@ -861,6 +861,25 @@ kojima2008a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+kulk2008a = DB(WorkUnrelated(
+    2008, "Quantifying requirements volatility effects",
+    display="kulk",
+    authors="Kulk, G. P. and Verhoef, C.",
+    place=FAKE,
+    pp="136-175",
+    entrytype="article",
+    volume="72",
+    number="3",
+    month="AUG 1",
+    doi="10.1016/j.scico.2008.04.003",
+    issn="0167-6423",
+    eissn="1872-7964",
+    unique_id="ISI:000259278600002",
+    ID="ISI:000259278600002",
+    webofscience2015="1",
+    placex="SCIENCE OF COMPUTER PROGRAMMING",
+))
+
 kulpa2008a = DB(WorkUnrelated(
     2008, "Interpreting the CMMI (R): A Process Improvement Approach",
     display="kulpa",

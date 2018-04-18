@@ -207,6 +207,24 @@ barreto2011a = DB(WorkUnrelated(
     placex="Dsc Dissertation, Universidade Federal do Rio de Janeiro",
 ))
 
+baskerville2011a = DB(WorkUnrelated(
+    2011, "Post-agility: What follows a decade of agility?",
+    display="baskerville",
+    authors="Baskerville, Richard and Pries-Heje, Jan and Madsen, Sabine",
+    place=FAKE,
+    pp="543-555",
+    entrytype="article",
+    volume="53",
+    number="5, SI",
+    month="MAY",
+    doi="10.1016/j.infsof.2010.10.010",
+    issn="0950-5849",
+    unique_id="ISI:000288919900011",
+    ID="ISI:000288919900011",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 becker2011a = DB(WorkUnrelated(
     2011, "Strategy to Improve Quality for Software Applications: A Process View",
     display="becker",
@@ -426,6 +444,24 @@ connor2011a = DB(WorkUnrelated(
     publisher="Springer Science & Business Media",
     ID="connor2011systems",
     placex="",
+))
+
+cruzes2011a = DB(WorkUnrelated(
+    2011, "Research synthesis in software engineering: A tertiary study",
+    display="cruzes",
+    authors="Cruzes, Daniela S. and Dyba, Tore",
+    place=FAKE,
+    pp="440-455",
+    entrytype="article",
+    volume="53",
+    number="5, SI",
+    month="MAY",
+    doi="10.1016/j.infsof.2011.01.004",
+    issn="0950-5849",
+    unique_id="ISI:000288919900003",
+    ID="ISI:000288919900003",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 cyrus2011a = DB(WorkUnrelated(
@@ -1340,6 +1376,25 @@ petersen2011a = DB(WorkUnrelated(
     ID="Petersen2011975",
 ))
 
+petersen2011b = DB(WorkUnrelated(
+    2011, "Measuring and predicting software productivity: A systematic map and review",
+    display="petersen b",
+    authors="Petersen, Kai",
+    place=FAKE,
+    pp="317-343",
+    entrytype="article",
+    volume="53",
+    number="4, SI",
+    month="APR",
+    doi="10.1016/j.infsof.2010.12.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000288732700004",
+    ID="ISI:000288732700004",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 plösch2011a = DB(WorkSnowball(
     2011, "Software engineering strategies: aligning software process improvement with strategic goals",
     display="plösch",
@@ -1409,6 +1464,24 @@ przybylek2011a = DB(WorkUnrelated(
     cluster_id="17373964773756882564",
     scholar="http://scholar.google.com/scholar?cites=17373964773756882564&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+rabiser2011a = DB(WorkUnrelated(
+    2011, "Key activities for product derivation in software product lines",
+    display="rabiser",
+    authors="Rabiser, Rick and O'Leary, Padraig and Richardson, Ita",
+    place=FAKE,
+    pp="285-300",
+    entrytype="article",
+    volume="84",
+    number="2",
+    month="FEB",
+    doi="10.1016/j.jss.2010.09.042",
+    issn="0164-1212",
+    unique_id="ISI:000286849700010",
+    ID="ISI:000286849700010",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
 rantapuska2011a = DB(WorkUnrelated(

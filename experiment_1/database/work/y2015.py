@@ -712,6 +712,24 @@ luo2015a = DB(WorkUnrelated(
     placex="Proceedings of the First International Workshop on Automotive Software Architecture",
 ))
 
+magalhaes2015a = DB(WorkUnrelated(
+    2015, "Investigations about replication of empirical studies in software engineering: A systematic mapping study",
+    display="magalhaes",
+    authors="de Magalhaes, Cleyton V. C. and da Silva, Fabio Q. B. and Santos, Ronnie E. S. and Suassuna, Marcos",
+    place=FAKE,
+    pp="76-101",
+    entrytype="article",
+    volume="64",
+    month="AUG",
+    doi="10.1016/j.infsof.2015.02.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000355365100006",
+    ID="ISI:000355365100006",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 mara2015a = DB(WorkUnrelated(
     2015, "Capturing Social Value in UX Projects",
     display="mara",
@@ -763,6 +781,24 @@ mesquida2015a = DB(WorkUnrelated(
     placex="Computers & Security",
 ))
 
+mesquida2015b = DB(WorkUnrelated(
+    2015, "Integrating IT service management requirements into the organizational management system",
+    display="mesquida b",
+    authors="Mesquida, Antoni-Lluis and Mas, Antonia",
+    place=FAKE,
+    pp="80-91",
+    entrytype="article",
+    volume="37",
+    month="JAN",
+    doi="10.1016/j.csi.2014.06.005",
+    issn="0920-5489",
+    eissn="1872-7018",
+    unique_id="ISI:000343633400009",
+    ID="ISI:000343633400009",
+    webofscience2015="1",
+    placex="COMPUTER STANDARDS & INTERFACES",
+))
+
 mohamed2015a = DB(WorkUnrelated(
     2015, "A process based approach software certification model for agile and secure environment",
     display="mohamed",
@@ -796,6 +832,24 @@ nagel2015a = DB(WorkUnrelated(
     ID="nagel2015goal",
     local="Universitätsbibliothek",
     placex="",
+))
+
+ng2015a = DB(WorkUnrelated(
+    2015, "Integrating software engineering theory and practice using essence: A case study",
+    display="ng",
+    authors="Ng, Pan-Wei",
+    place=FAKE,
+    pp="66-78",
+    entrytype="article",
+    volume="101",
+    month="APR 1",
+    doi="10.1016/j.scico.2014.11.009",
+    issn="0167-6423",
+    eissn="1872-7964",
+    unique_id="ISI:000350513600005",
+    ID="ISI:000350513600005",
+    webofscience2015="1",
+    placex="SCIENCE OF COMPUTER PROGRAMMING",
 ))
 
 niazi2015a = DB(WorkUnrelated(

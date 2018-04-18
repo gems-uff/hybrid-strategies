@@ -35,6 +35,22 @@ al2013a = DB(WorkUnrelated(
     placex="",
 ))
 
+al2013b = DB(WorkUnrelated(
+    2013, "Prioritizing Requirements in Agile Development: A Conceptual Framework",
+    display="al b",
+    authors="AL-Ta'ani, Rami Hasan and Razali, Rozilawati",
+    place=FAKE,
+    pp="733-739",
+    entrytype="inproceedings",
+    editor="Salim, J and Ismail, M and Suwarno, I",
+    series="Procedia Technology",
+    volume="11",
+    unique_id="ISI:000335396600098",
+    ID="ISI:000335396600098",
+    webofscience2015="1",
+    placex="4TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING AND INFORMATICS (ICEEI 2013)",
+))
+
 aleixo2013a = DB(WorkUnrelated(
     2013, "Uma abordagem anotativa para gerência de variabilidade em linhas de processos de software: concep{ç}ão, implementa{ç}ão e avalia{ç}ão",
     display="aleixo",
@@ -1607,4 +1623,23 @@ weckenmann2013a = DB(WorkUnrelated(
     ID="Weckenmann2013119",
     sciencedirect="1",
     placex="Procedia \{CIRP\}",
+))
+
+wohlin2013a = DB(WorkUnrelated(
+    2013, "On the reliability of mapping studies in software engineering",
+    display="wohlin",
+    authors="Wohlin, Claes and Runeson, Per and da Mota Silveira Neto, Paulo Anselmo and Engstrom, Emelie and Machado, Ivan do Carmo and de Almeida, Eduardo Santana",
+    place=FAKE,
+    pp="2594-2610",
+    entrytype="article",
+    volume="86",
+    number="10",
+    month="OCT",
+    doi="10.1016/j.jss.2013.04.076",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000324564100009",
+    ID="ISI:000324564100009",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))

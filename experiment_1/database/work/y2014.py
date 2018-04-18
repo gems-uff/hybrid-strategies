@@ -541,6 +541,25 @@ diirr2014a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+ding2014a = DB(WorkUnrelated(
+    2014, "Knowledge-based approaches in software documentation: A systematic literature review",
+    display="ding",
+    authors="Ding, Wei and Liang, Peng and Tang, Antony and van Vliet, Hans",
+    place=FAKE,
+    pp="545-567",
+    entrytype="article",
+    volume="56",
+    number="6",
+    month="JUN",
+    doi="10.1016/j.infsof.2014.01.008",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000335486300002",
+    ID="ISI:000335486300002",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 dumke2014a = DB(WorkUnrelated(
     2014, "Handbuch der Softwareumfangsmessung und Aufwandschätzung",
     display="dumke",
@@ -627,6 +646,25 @@ felderer2014a = DB(WorkUnrelated(
     springer="1",
     placex="International Journal on Software Tools for Technology Transfer",
     springer2015="1",
+))
+
+fernandez2014a = DB(WorkUnrelated(
+    2014, "Potential and limitations of the ISBSG dataset in enhancing software engineering research: A mapping review",
+    display="fernandez",
+    authors="Fernandez-Diego, Marta and Gonzalez-Ladron-de-Guevara, Fernando",
+    place=FAKE,
+    pp="527-544",
+    entrytype="article",
+    volume="56",
+    number="6",
+    month="JUN",
+    doi="10.1016/j.infsof.2014.01.003",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000335486300001",
+    ID="ISI:000335486300001",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 ferreira2014a = DB(WorkUnrelated(
@@ -851,6 +889,24 @@ jahn2014a = DB(WorkUnrelated(
     cluster_id="5107985676713965120",
     scholar="http://scholar.google.com/scholar?cites=5107985676713965120&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Informatik 2014",
+))
+
+jalali2014a = DB(WorkUnrelated(
+    2014, "Investigating the applicability of Agility assessment surveys: A case study",
+    display="jalali",
+    authors="Jalali, Samireh and Wohlin, Claes and Angelis, Lefteris",
+    place=FAKE,
+    pp="172-190",
+    entrytype="article",
+    volume="98",
+    month="DEC",
+    doi="10.1016/j.jss.2014.08.067",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000344421900011",
+    ID="ISI:000344421900011",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
 janes2014a = DB(WorkUnrelated(
@@ -1214,6 +1270,10 @@ nielsen2014a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Government Information Quarterly",
     sciencedirect2015="1",
+    month="JUL",
+    eissn="1872-9517",
+    unique_id="ISI:000342037100007",
+    webofscience2015="1",
 ))
 
 nieters2014a = DB(WorkUnrelated(

@@ -334,6 +334,22 @@ damm2006a = DB(WorkUnrelated(
     ID="Damm200647",
 ))
 
+damm2006b = DB(WorkUnrelated(
+    2006, "Results from introducing component-level test automation and Test-Driven Development",
+    display="damm b",
+    authors="Damm, Lars-Orla and Lundberg, Lars",
+    place=FAKE,
+    pp="1001-1014",
+    entrytype="article",
+    volume="79",
+    number="7",
+    month="JUL",
+    unique_id="ISI:000238790300011",
+    ID="ISI:000238790300011",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 davis2006a = DB(WorkUnrelated(
     2006, "Effectiveness of requirements elicitation techniques: empirical results derived from a systematic review. In: Proceedings of the 14th IEEE international conference on requirements engineering (RE 2006)",
     display="davis",
