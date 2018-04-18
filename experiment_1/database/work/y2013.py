@@ -506,6 +506,25 @@ garcíaguzmán2013a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+garousi2013a = DB(WorkUnrelated(
+    2013, "A survey of software testing practices in Canada",
+    display="garousi",
+    authors="Garousi, Vahid and Zhi, Junji",
+    place=FAKE,
+    pp="1354-1376",
+    entrytype="article",
+    volume="86",
+    number="5",
+    month="MAY",
+    doi="10.1016/j.jss.2012.12.051",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000317322400014",
+    ID="ISI:000317322400014",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 garzás2013a = DB(WorkUnrelated(
     2013, "A maturity model for the Spanish software industry based on \ISO\ standards",
     display="garzás",

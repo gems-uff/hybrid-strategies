@@ -1,0 +1,1489 @@
+@article{ ISI:000071584300001,
+Author = {Shoval, P and Feldman, O},
+Title = {{A combination of the Mk-II function points software estimation method
+   with the ADISSA methodology for systems analysis and design}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{1997}},
+Volume = {{39}},
+Number = {{13}},
+Pages = {{855-865}},
+Month = {{DEC 15}},
+DOI = {{10.1016/S0950-5849(97)00009-8}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Shoval, Peretz/F-1229-2012}},
+ORCID-Numbers = {{Shoval, Peretz/0000-0002-0183-2832}},
+Unique-ID = {{ISI:000071584300001}},
+}
+
+
+@article{ ISI:000349427200012,
+Author = {Ruiz-Rube, Ivan and Manuel Dodero, Juan and Colomo-Palacios, Ricardo},
+Title = {{A framework for software process deployment and evaluation}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2015}},
+Volume = {{59}},
+Pages = {{205-221}},
+Month = {{MAR}},
+DOI = {{10.1016/j.infsof.2014.12.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Trivedi, Kruti/E-7558-2015
+   Dodero, Juan Manuel/D-4143-2009
+   Colomo-Palacios, Ricardo/E-5139-2010}},
+ORCID-Numbers = {{Dodero, Juan Manuel/0000-0002-4105-5679
+   Colomo-Palacios, Ricardo/0000-0002-1555-9726}},
+Unique-ID = {{ISI:000349427200012}},
+}
+
+
+@article{ ISI:000362137700017,
+Author = {Wohlin, Claes and Smite, Darja and Moe, Nils Brede},
+Title = {{A general theory of software engineering: Balancing human, social and
+   organizational capitals}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2015}},
+Volume = {{109}},
+Pages = {{229-242}},
+Month = {{NOV}},
+DOI = {{10.1016/j.jss.2015.08.009}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ORCID-Numbers = {{Moe, Nils Brede/0000-0003-2669-0778
+   Wohlin, Claes/0000-0003-0460-5253}},
+Unique-ID = {{ISI:000362137700017}},
+}
+
+
+@article{ ISI:000343633400004,
+Author = {Tanriover, O. Ozgur and Demirors, Onur},
+Title = {{A process capability based assessment model for software workforce in
+   emergent software organizations}},
+Journal = {{COMPUTER STANDARDS \& INTERFACES}},
+Year = {{2015}},
+Volume = {{37}},
+Pages = {{29-40}},
+Month = {{JAN}},
+DOI = {{10.1016/j.csi.2014.05.003}},
+ISSN = {{0920-5489}},
+EISSN = {{1872-7018}},
+ORCID-Numbers = {{Demirors, Onur/0000-0001-6601-3937}},
+Unique-ID = {{ISI:000343633400004}},
+}
+
+
+@article{ ISI:000308387500002,
+Author = {Richardson, Ita and Casey, Valentine and McCaffery, Fergal and Burton,
+   John and Beecham, Sarah},
+Title = {{A Process Framework for Global Software Engineering Teams}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2012}},
+Volume = {{54}},
+Number = {{11}},
+Pages = {{1175-1191}},
+Month = {{NOV}},
+DOI = {{10.1016/j.infsof.2012.05.002}},
+ISSN = {{0950-5849}},
+Unique-ID = {{ISI:000308387500002}},
+}
+
+
+
+@article{ ISI:000290836000007,
+Author = {Jahangirian, Mohsen and Eldabi, Tillal and Garg, Lalit and Jun, Gyuchan
+   T. and Naseer, Aisha and Patel, Brijesh and Stergioulas, Lampros and
+   Young, Terry},
+Title = {{A rapid review method for extremely large corpora of literature:
+   Applications to the domains of modelling, simulation, and management}},
+Journal = {{INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT}},
+Year = {{2011}},
+Volume = {{31}},
+Number = {{3}},
+Pages = {{234-243}},
+Month = {{JUN}},
+DOI = {{10.1016/j.ijinfomgt.2010.07.004}},
+ISSN = {{0268-4012}},
+ResearcherID-Numbers = {{Garg, Lalit/F-1097-2010
+   }},
+ORCID-Numbers = {{Garg, Lalit/0000-0002-3868-0481
+   Eldabi, Tillal/0000-0002-0045-4075
+   Young, Terry/0000-0001-9545-2269}},
+Unique-ID = {{ISI:000290836000007}},
+}
+
+
+@article{ ISI:000317322400014,
+Author = {Garousi, Vahid and Zhi, Junji},
+Title = {{A survey of software testing practices in Canada}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2013}},
+Volume = {{86}},
+Number = {{5}},
+Pages = {{1354-1376}},
+Month = {{MAY}},
+DOI = {{10.1016/j.jss.2012.12.051}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ORCID-Numbers = {{Garousi, Vahid/0000-0001-6590-7576}},
+Unique-ID = {{ISI:000317322400014}},
+}
+
+
+
+
+@article{ ISI:000305599200004,
+Author = {Holl, Gerald and Gruenbacher, Paul and Rabiser, Rick},
+Title = {{A systematic review and an expert survey on capabilities supporting
+   multi product lines}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2012}},
+Volume = {{54}},
+Number = {{8, SI}},
+Pages = {{828-852}},
+Month = {{AUG}},
+DOI = {{10.1016/j.infsof.2012.02.002}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Rabiser, Rick/B-8673-2017
+   Grunbacher, Paul/C-2970-2013}},
+ORCID-Numbers = {{Rabiser, Rick/0000-0003-3862-1112
+   Grunbacher, Paul/0000-0002-1951-5288}},
+Unique-ID = {{ISI:000305599200004}},
+}
+
+
+
+
+
+@article{ ISI:000272061000006,
+Author = {Khurum, Mahvish and Gorschek, Tony},
+Title = {{A systematic review of domain analysis solutions for product lines}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2009}},
+Volume = {{82}},
+Number = {{12}},
+Pages = {{1982-2003}},
+Month = {{DEC}},
+DOI = {{10.1016/j.jss.2009.06.048}},
+ISSN = {{0164-1212}},
+ResearcherID-Numbers = {{Gorschek, Tony/E-3445-2013}},
+Unique-ID = {{ISI:000272061000006}},
+}
+
+
+
+@article{ ISI:000272372900001,
+Author = {Lisboa, Liana Barachisio and Garcia, Vinicius Cardoso and Lucredio,
+   Daniel and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero  and de Mattos Fortes, Renata Pontin},
+Title = {{A systematic review of domain analysis tools}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{1}},
+Pages = {{1-13}},
+Month = {{JAN}},
+DOI = {{10.1016/j.infsof.2009.05.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Ines, INCT/J-9550-2013
+   Lucredio, Daniel/I-1793-2012
+   Inst Cien Matematicas Computacao, ICMC/USP/D-8320-2017
+   Fortes, Renata/A-3211-2010
+   Garcia, Vinicius/B-1327-2017}},
+ORCID-Numbers = {{Lucredio, Daniel/0000-0002-1360-4036
+   Fortes, Renata/0000-0001-9994-8923
+   Garcia, Vinicius/0000-0001-6904-7470}},
+Unique-ID = {{ISI:000272372900001}},
+}
+
+
+
+@inproceedings{ ISI:000314469100026,
+Author = {Zacarias, Marielba and Martins, Paula Ventura},
+Editor = {{Varajao, J and Cunha, M and Yetton, P and Rijo, R}},
+Title = {{Aligning Business Processes and Work Practices}},
+Booktitle = {{4TH CONFERENCE OF ENTERPRISE INFORMATION SYSTEMS - ALIGNING TECHNOLOGY,
+   ORGANIZATIONS AND PEOPLE (CENTERIS 2012)}},
+Series = {{Procedia Technology}},
+Year = {{2012}},
+Volume = {{5}},
+Pages = {{234-243}},
+Note = {{4th Conference on ENTERprise Information Systems (CENTERIS) - Aligning
+   Technology, Organizations and People / International Conference on
+   Health and Social Care Information Systems and Technologies (HCIST),
+   PORTUGAL, OCT 03-05, 2012}},
+DOI = {{10.1016/j.protcy.2012.09.026}},
+ISSN = {{2212-0173}},
+ResearcherID-Numbers = {{Zacarias, Marielba/F-6821-2011
+   Martins, Paula/F-6824-2011}},
+ORCID-Numbers = {{Zacarias, Marielba/0000-0003-1640-2963
+   Martins, Paula/0000-0002-3199-4517}},
+Unique-ID = {{ISI:000314469100026}},
+}
+
+
+
+@article{ ISI:000261919900021,
+Author = {Vavpotic, Damjan and Bajec, Marko},
+Title = {{An approach for concurrent evaluation of technical and social aspects of  software development methodologies}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2009}},
+Volume = {{51}},
+Number = {{2}},
+Pages = {{528-545}},
+Month = {{FEB}},
+DOI = {{10.1016/j.infsof.2008.06.001}},
+ISSN = {{0950-5849}},
+ResearcherID-Numbers = {{Vavpotic, Damjan/G-3527-2010}},
+Unique-ID = {{ISI:000261919900021}},
+}
+
+@article{ ISI:000247229600007,
+Author = {Staples, Mark and Niazi, Mahmood and Jeffery, Ross and Abrahams, Alan
+   and Byatt, Paul and Murphy, Russell},
+Title = {{An exploratory study of why organizations do not adopt CMMI}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{6}},
+Pages = {{883-895}},
+Month = {{JUN}},
+DOI = {{10.1016/j.jss.2006.09.008}},
+ISSN = {{0164-1212}},
+ResearcherID-Numbers = {{Niazi, Mahmood/C-8873-2015}},
+ORCID-Numbers = {{Niazi, Mahmood/0000-0001-7318-7644}},
+Unique-ID = {{ISI:000247229600007}},
+}
+
+
+
+
+@article{ ISI:000225668000004,
+Author = {Carrington, D and Strooper, P and Newby, S and Stevenson, T},
+Title = {{An industry/university collaboration to upgrade software engineering
+   knowledge and skills in industry}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2005}},
+Volume = {{75}},
+Number = {{1-2}},
+Pages = {{29-39}},
+Month = {{FEB 15}},
+Note = {{International Conference on Software Engineering and Training, Madrid,
+   SPAIN, 2003}},
+DOI = {{10.1016/j.jss.2004.02.020}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ORCID-Numbers = {{Strooper, Paul/0000-0003-4789-2897}},
+Unique-ID = {{ISI:000225668000004}},
+}
+
+
+@article{ ISI:000250079300018,
+Author = {Song, Dawei and Lau, Raymond Y. K. and Bruza, Peter D. and Wong, Kam-Fai
+   and Chen, Ding-Yi},
+Title = {{An intelligent information agent for document title classification and
+   filtering in document-intensive domains}},
+Journal = {{DECISION SUPPORT SYSTEMS}},
+Year = {{2007}},
+Volume = {{44}},
+Number = {{1}},
+Pages = {{251-265}},
+Month = {{NOV}},
+DOI = {{10.1016/j.dss.2007.04.001}},
+ISSN = {{0167-9236}},
+EISSN = {{1873-5797}},
+ORCID-Numbers = {{Song, Dawei/0000-0002-8660-3608
+   Bruza, Peter/0000-0001-7999-0534
+   Lau, Raymond/0000-0002-5751-4550}},
+Unique-ID = {{ISI:000250079300018}},
+}
+
+
+
+@inproceedings{ ISI:000345439200050,
+Author = {Chakravorty, Tulika and Chakraborty, Samyadip and Jigeesh, Nasina},
+Editor = {{Londhe, BR and Divekar, R and Chandani, A}},
+Title = {{Analysis of Agile testing attributes for faster time to Market: Context
+   of Manufacturing sector related IT projects}},
+Booktitle = {{SHAPING THE FUTURE OF BUSINESS AND SOCIETY - SYMBIOSIS INSTITUTE OF
+   MANAGEMENT STUDIES (SIMS)}},
+Series = {{Procedia Economics and Finance}},
+Year = {{2014}},
+Volume = {{11}},
+Pages = {{536-552}},
+Note = {{Symbiosis-Institute-of-Management-Studies Annual Research Conference
+   (SIMSARC) on Shaping the Future of Business and Society, Pune, INDIA,
+   DEC 12-13, 2013}},
+Organization = {{Symbiosis Inst Management Studies}},
+DOI = {{10.1016/S2212-5671(14)00219-6}},
+ISSN = {{2212-5671}},
+Unique-ID = {{ISI:000345439200050}},
+}
+
+
+
+@inproceedings{ ISI:000398850600074,
+Author = {Li, Yonghua and Fan, Wei},
+Editor = {{Deng, W}},
+Title = {{Analysis of Software Testing System in Civil Aviation Field}},
+Booktitle = {{2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY
+   APPLICATION (AASRI-AIIA 2011), VOL 1}},
+Year = {{2011}},
+Pages = {{299-302}},
+Note = {{AASRI Conference on Artificial Intelligence and Industry Application
+   (AASRI-AIIA 2011), Male, MALDIVES, MAY 23-24, 2011}},
+Organization = {{Amer Appl Sci Res Inst}},
+ISBN = {{978-1-937728-02-1}},
+Unique-ID = {{ISI:000398850600074}},
+}
+
+
+
+@article{ ISI:000272687600010,
+Author = {Meneklis, Vassilis and Douligeris, Christos},
+Title = {{Bridging theory and practice in e-government: A set of guidelines for
+   architectural design}},
+Journal = {{GOVERNMENT INFORMATION QUARTERLY}},
+Year = {{2010}},
+Volume = {{27}},
+Number = {{1}},
+Pages = {{70-81}},
+Month = {{JAN}},
+DOI = {{10.1016/j.giq.2009.08.005}},
+ISSN = {{0740-624X}},
+Unique-ID = {{ISI:000272687600010}},
+}
+
+
+@article{ ISI:000272372900003,
+Author = {Williams, Byron J. and Carver, Jeffrey C.},
+Title = {{Characterizing software architecture changes: A systematic review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{1}},
+Pages = {{31-51}},
+Month = {{JAN}},
+DOI = {{10.1016/j.infsof.2009.07.002}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000272372900003}},
+}
+
+
+
+@article{ ISI:000304722300017,
+Author = {Woungang, Isaac and Akinladejo, Felix O. and White, David W. and
+   Obaidat, Mohammad S.},
+Title = {{Coding-error based defects in enterprise resource planning software:
+   Prevention, discovery, elimination and mitigation}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2012}},
+Volume = {{85}},
+Number = {{7}},
+Pages = {{1682-1698}},
+Month = {{JUL}},
+DOI = {{10.1016/j.jss.2012.02.034}},
+ISSN = {{0164-1212}},
+ORCID-Numbers = {{Obaidat, Mohammad S./0000-0002-1569-9657}},
+Unique-ID = {{ISI:000304722300017}},
+}
+
+
+
+@article{ ISI:000389100100012,
+Author = {Fitzgerald, Brian and Stol, Klaas-Jan},
+Title = {{Continuous software engineering: A roadmap and agenda}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2017}},
+Volume = {{123}},
+Pages = {{176-189}},
+Month = {{JAN}},
+DOI = {{10.1016/j.jss.2015.06.063}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ORCID-Numbers = {{Stol, Klaas-Jan/0000-0002-1038-5050
+   Fitzgerald, Brian/0000-0001-9193-2863}},
+Unique-ID = {{ISI:000389100100012}},
+}
+
+
+@article{ ISI:000183505400003,
+Author = {Baddoo, N and Hall, T},
+Title = {{De-motivators for software process improvement: an analysis of
+   practitioners' views}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2003}},
+Volume = {{66}},
+Number = {{1}},
+Pages = {{23-33}},
+Month = {{APR 15}},
+DOI = {{10.1016/S0164-1212(02)00060-2}},
+ISSN = {{0164-1212}},
+ORCID-Numbers = {{Hall, Tracy/0000-0002-2728-9014}},
+Unique-ID = {{ISI:000183505400003}},
+}
+
+
+@article{ ISI:000278150500002,
+Author = {Gorla, Narasimhaiah and Lin, Shang-Che},
+Title = {{Determinants of software quality: A survey of information systems
+   project managers}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{6}},
+Pages = {{602-610}},
+Month = {{JUN}},
+DOI = {{10.1016/j.infsof.2009.11.012}},
+ISSN = {{0950-5849}},
+Unique-ID = {{ISI:000278150500002}},
+}
+
+
+@article{ ISI:000277107200001,
+Author = {Turner, Mark and Kitchenham, Barbara and Brereton, Pearl and Charters,
+   Stuart and Budgen, David},
+Title = {{Does the technology acceptance model predict actual use? A systematic
+   literature review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{5, SI}},
+Pages = {{463-479}},
+Month = {{MAY}},
+DOI = {{10.1016/j.infsof.2009.11.005}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Charters, Stuart/C-1751-2012
+   }},
+ORCID-Numbers = {{Kitchenham, Barbara/0000-0002-6134-8460}},
+Unique-ID = {{ISI:000277107200001}},
+}
+
+
+
+@article{ ISI:000337261800005,
+Author = {Holt, Nina Elisabeth and Briand, Lionel C. and Torkar, Richard},
+Title = {{Empirical evaluations on the cost-effectiveness of state-based testing:
+   An industrial case study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2014}},
+Volume = {{56}},
+Number = {{8}},
+Pages = {{890-910}},
+Month = {{AUG}},
+DOI = {{10.1016/j.infsof.2014.02.011}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000337261800005}},
+}
+
+
+
+
+@article{ ISI:000295947900018,
+Author = {Islam, Sadeka and Keung, Jacky and Lee, Kevin and Liu, Anna},
+Title = {{Empirical prediction models for adaptive resource provisioning in the
+   cloud}},
+Journal = {{FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID
+   COMPUTING AND ESCIENCE}},
+Year = {{2012}},
+Volume = {{28}},
+Number = {{1}},
+Pages = {{155-162}},
+Month = {{JAN}},
+Note = {{International Conference on Utility and Cloud Computing, Chennai, INDIA,
+   DEC, 2010}},
+DOI = {{10.1016/j.future.2011.05.027}},
+ISSN = {{0167-739X}},
+ORCID-Numbers = {{KEUNG, Jacky/0000-0002-3803-9600}},
+Unique-ID = {{ISI:000295947900018}},
+}
+
+
+@article{ ISI:000249472200010,
+Author = {Ajila, Samuel A. and Wu, Di},
+Title = {{Empirical study of the effects of open source adoption on software
+   development economics}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{9}},
+Pages = {{1517-1529}},
+Month = {{SEP}},
+DOI = {{10.1016/j.jss.2007.01.011}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+Unique-ID = {{ISI:000249472200010}},
+}
+
+
+@article{ ISI:000249472200003,
+Author = {Babar, Muhammad Ali and Verner, June M. and Nguyen, Phong Thanh},
+Title = {{Establishing and maintaining trust in software outsourcing
+   relationships: An empirical investigation}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{9}},
+Pages = {{1438-1449}},
+Month = {{SEP}},
+Note = {{10th International Conference on Evaluation and Assessment in Software
+   Engineering (EASE), Keele Univ, Keele, ENGLAND, 2006}},
+DOI = {{10.1016/j.jss.2006.12.038}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:000249472200003}},
+}
+
+
+@inproceedings{ ISI:000345458000039,
+Author = {Kluth, Andreas and Jaeger, Jens and Schatz, Anja and Bauernhansl, Thomas},
+Editor = {{ElMaraghy, H}},
+Title = {{Evaluation of Complexity Management Systems - Systematical and
+   Maturity-Based Approach}},
+Booktitle = {{VARIETY MANAGEMENT IN MANUFACTURING: PROCEEDINGS OF THE 47TH CIRP
+   CONFERENCE ON MANUFACTURING SYSTEMS}},
+Series = {{Procedia CIRP}},
+Year = {{2014}},
+Volume = {{17}},
+Pages = {{224-229}},
+Note = {{47th CIRP Conference on Manufacturing Systems, Univ Windsor, Windsor,
+   CANADA, APR 28-30, 2014}},
+Organization = {{CIRP}},
+DOI = {{10.1016/j.procir.2014.01.083}},
+ISSN = {{2212-8271}},
+Unique-ID = {{ISI:000345458000039}},
+}
+
+
+@article{ ISI:000249472200002,
+Author = {Staples, Mark and Niazi, Mahmood},
+Title = {{Experiences using systematic review guidelines}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{9}},
+Pages = {{1425-1437}},
+Month = {{SEP}},
+Note = {{10th International Conference on Evaluation and Assessment in Software
+   Engineering (EASE), Keele Univ, Keele, ENGLAND, 2006}},
+DOI = {{10.1016/j.jss.2006.09.046}},
+ISSN = {{0164-1212}},
+ResearcherID-Numbers = {{Niazi, Mahmood/C-8873-2015}},
+ORCID-Numbers = {{Niazi, Mahmood/0000-0001-7318-7644}},
+Unique-ID = {{ISI:000249472200002}},
+}
+
+
+@article{ ISI:000288142500013,
+Author = {Khan, Siffat Ullah and Niazi, Mahmood and Ahmad, Rashid},
+Title = {{Factors influencing clients in the selection of offshore software
+   outsourcing vendors: An exploratory study using a systematic literature
+   review}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2011}},
+Volume = {{84}},
+Number = {{4, SI}},
+Pages = {{686-699}},
+Month = {{APR}},
+DOI = {{10.1016/j.jss.2010.12.010}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ResearcherID-Numbers = {{Khan, Siffat Ullah/B-3309-2017
+   Niazi, Mahmood/C-8873-2015}},
+ORCID-Numbers = {{Khan, Siffat Ullah/0000-0003-0339-7915
+   Niazi, Mahmood/0000-0001-7318-7644}},
+Unique-ID = {{ISI:000288142500013}},
+}
+
+
+@article{ ISI:000318134400004,
+Author = {Acher, Mathieu and Collet, Philippe and Lahire, Philippe and France,
+   Robert B.},
+Title = {{FAMILIAR: A domain-specific language for large scale management of
+   feature models}},
+Journal = {{SCIENCE OF COMPUTER PROGRAMMING}},
+Year = {{2013}},
+Volume = {{78}},
+Number = {{6}},
+Pages = {{657-681}},
+Month = {{JUN 1}},
+DOI = {{10.1016/j.scico.2012.12.004}},
+ISSN = {{0167-6423}},
+EISSN = {{1872-7964}},
+Unique-ID = {{ISI:000318134400004}},
+}
+
+
+@article{ ISI:A1996WD91000004,
+Author = {Ibanez, M and Kugler, HJ and Rementeria, S},
+Title = {{Has Europe learnt enough?}},
+Journal = {{JOURNAL OF SYSTEMS ARCHITECTURE}},
+Year = {{1996}},
+Volume = {{42}},
+Number = {{8}},
+Pages = {{583-590}},
+Month = {{DEC 31}},
+DOI = {{10.1016/S1383-7621(96)00043-4}},
+ISSN = {{1383-7621}},
+Unique-ID = {{ISI:A1996WD91000004}},
+}
+
+
+
+@article{ ISI:000247294900005,
+Author = {Jacobs, Jef and van Moll, Jan and Kusters, Rob and Trienekens, Jos and
+   Brombacher, Aarnout},
+Title = {{Identification of factors that influence defect injection and detection
+   in development of software intensive products}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2007}},
+Volume = {{49}},
+Number = {{7}},
+Pages = {{774-789}},
+Month = {{JUL}},
+DOI = {{10.1016/j.infsof.2006.09.002}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Kusters, Rob/B-3093-2010}},
+ORCID-Numbers = {{Kusters, Rob/0000-0003-4069-5655}},
+Unique-ID = {{ISI:000247294900005}},
+}
+
+
+@article{ ISI:000350931100014,
+Author = {Berssaneti, Fernando Tobal and Carvalho, Marly Monteiro},
+Title = {{Identification of variables that impact project success in Brazilian
+   companies}},
+Journal = {{INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT}},
+Year = {{2015}},
+Volume = {{33}},
+Number = {{3}},
+Pages = {{638-649}},
+Month = {{APR}},
+DOI = {{10.1016/j.ijproman.2014.07.002}},
+ISSN = {{0263-7863}},
+EISSN = {{1873-4634}},
+ResearcherID-Numbers = {{Carvalho, Marly/D-8297-2012}},
+ORCID-Numbers = {{Carvalho, Marly/0000-0003-0119-5316}},
+Unique-ID = {{ISI:000350931100014}},
+}
+
+
+
+@article{ ISI:000267504500003,
+Author = {Niazi, Mahmood and Babar, Muhammad Ali},
+Title = {{Identifying high perceived value practices of CMMI level 2: An empirical
+   study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2009}},
+Volume = {{51}},
+Number = {{8}},
+Pages = {{1231-1243}},
+Month = {{AUG}},
+DOI = {{10.1016/j.infsof.2009.03.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Niazi, Mahmood/C-8873-2015}},
+ORCID-Numbers = {{Niazi, Mahmood/0000-0001-7318-7644}},
+Unique-ID = {{ISI:000267504500003}},
+}
+
+
+@article{ ISI:000173199900003,
+Author = {Jorgensen, M and Sjoberg, DIK},
+Title = {{Impact of effort estimates on software project work}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2001}},
+Volume = {{43}},
+Number = {{15}},
+Pages = {{939-948}},
+Month = {{DEC 23}},
+DOI = {{10.1016/S0950-5849(01)00203-8}},
+ISSN = {{0950-5849}},
+ResearcherID-Numbers = {{Jorgensen, Magne/H-4402-2016}},
+ORCID-Numbers = {{Jorgensen, Magne/0000-0001-6250-9783}},
+Unique-ID = {{ISI:000173199900003}},
+}
+
+
+@article{ ISI:000312928800011,
+Author = {Lucio-Nieto, Teresa and Colomo-Palacios, Ricardo and Soto-Acosta, Pedro
+   and Popa, Simona and Amescua-Seco, Antonio},
+Title = {{Implementing an IT service information management framework: The case of
+   COTEMAR}},
+Journal = {{INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT}},
+Year = {{2012}},
+Volume = {{32}},
+Number = {{6}},
+Pages = {{589-594}},
+Month = {{DEC}},
+DOI = {{10.1016/j.ijinfomgt.2012.08.004}},
+ISSN = {{0268-4012}},
+ResearcherID-Numbers = {{Colomo-Palacios, Ricardo/E-5139-2010
+   Soto-Acosta, Pedro/B-3927-2011
+   Popa, Simona/H-8292-2015}},
+ORCID-Numbers = {{Colomo-Palacios, Ricardo/0000-0002-1555-9726
+   Soto-Acosta, Pedro/0000-0003-4308-9781
+   Popa, Simona/0000-0003-3161-1106}},
+Unique-ID = {{ISI:000312928800011}},
+}
+
+
+@article{ ISI:000072445000004,
+Author = {Bunse, C and Verlage, M and Giese, P},
+Title = {{Improved software quality through improved development process
+   descriptions}},
+Journal = {{AUTOMATICA}},
+Year = {{1998}},
+Volume = {{34}},
+Number = {{1}},
+Pages = {{23-32}},
+Month = {{JAN}},
+Note = {{5th International Workshop on Experience with the Management of Software
+   Projects, KARLSRUHE, GERMANY, SEP 27-29, 1995}},
+DOI = {{10.1016/S0005-1098(97)00161-1}},
+ISSN = {{0005-1098}},
+Unique-ID = {{ISI:000072445000004}},
+}
+
+
+@article{ ISI:000278629600007,
+Author = {Sanchez-Segura, Maria-Isabel and Medina-Dominguez, Fuensanta and de Amescua, Antonio and Mora-Soto, Arturo},
+Title = {{Improving the efficiency of use of software engineering practices using
+   product patterns}},
+Journal = {{INFORMATION SCIENCES}},
+Year = {{2010}},
+Volume = {{180}},
+Number = {{14}},
+Pages = {{2721-2742}},
+Month = {{JUL 15}},
+DOI = {{10.1016/j.ins.2010.03.028}},
+ISSN = {{0020-0255}},
+ORCID-Numbers = {{Mora-Soto, Arturo/0000-0001-7781-1360}},
+Unique-ID = {{ISI:000278629600007}},
+}
+
+
+
+@inproceedings{ ISI:000393153400026,
+Author = {Ng, Alex Hou Hong and Yip, Mum Wai and Din, Sabariyah Binti and Abu
+   Bakar, Nooh},
+Editor = {{Chiu, SF and Tseng, ML and Wu, KJ}},
+Title = {{Integrated Knowledge Management Strategy: A Preliminary Literature
+   Review}},
+Booktitle = {{INTERNATIONAL CONFERENCE ON ASIA PACIFIC BUSINESS INNOVATION AND TECHNOLOGY MANAGEMENT}},
+Series = {{Procedia Social and Behavioral Sciences}},
+Year = {{2012}},
+Volume = {{57}},
+Pages = {{209-214}},
+Note = {{International Conference of the
+   Asia-Pacific-Business-Innovation-and-Technology-Management-Society,
+   Pattaya, THAILAND, JAN 13-15, 2012}},
+Organization = {{Asia Pacific Business Innovat \& Technol Management Soc}},
+DOI = {{10.1016/j.sbspro.2012.09.1176}},
+ISSN = {{1877-0428}},
+Unique-ID = {{ISI:000393153400026}},
+}
+
+
+@article{ ISI:000343633400009,
+Author = {Mesquida, Antoni-Lluis and Mas, Antonia},
+Title = {{Integrating IT service management requirements into the organizational
+   management system}},
+Journal = {{COMPUTER STANDARDS \& INTERFACES}},
+Year = {{2015}},
+Volume = {{37}},
+Pages = {{80-91}},
+Month = {{JAN}},
+DOI = {{10.1016/j.csi.2014.06.005}},
+ISSN = {{0920-5489}},
+EISSN = {{1872-7018}},
+ResearcherID-Numbers = {{Mas Pichaco, Antonia/G-2596-2016
+   Mesquida Calafat, Antoni Lluis/F-6864-2016}},
+ORCID-Numbers = {{Mas Pichaco, Antonia/0000-0003-4188-8088
+   Mesquida Calafat, Antoni Lluis/0000-0002-1191-6220}},
+Unique-ID = {{ISI:000343633400009}},
+}
+
+@article{ ISI:000350513600005,
+Author = {Ng, Pan-Wei},
+Title = {{Integrating software engineering theory and practice using essence: A
+   case study}},
+Journal = {{SCIENCE OF COMPUTER PROGRAMMING}},
+Year = {{2015}},
+Volume = {{101}},
+Pages = {{66-78}},
+Month = {{APR 1}},
+DOI = {{10.1016/j.scico.2014.11.009}},
+ISSN = {{0167-6423}},
+EISSN = {{1872-7964}},
+Unique-ID = {{ISI:000350513600005}},
+}
+
+
+@article{ ISI:000344421900011,
+Author = {Jalali, Samireh and Wohlin, Claes and Angelis, Lefteris},
+Title = {{Investigating the applicability of Agility assessment surveys: A case
+   study}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2014}},
+Volume = {{98}},
+Pages = {{172-190}},
+Month = {{DEC}},
+DOI = {{10.1016/j.jss.2014.08.067}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ORCID-Numbers = {{Wohlin, Claes/0000-0003-0460-5253}},
+Unique-ID = {{ISI:000344421900011}},
+}
+
+
+
+@article{ ISI:000355365100006,
+Author = {de Magalhaes, Cleyton V. C. and da Silva, Fabio Q. B. and Santos, Ronnie
+   E. S. and Suassuna, Marcos},
+Title = {{Investigations about replication of empirical studies in software
+   engineering: A systematic mapping study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2015}},
+Volume = {{64}},
+Pages = {{76-101}},
+Month = {{AUG}},
+DOI = {{10.1016/j.infsof.2015.02.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000355365100006}},
+}
+
+
+
+@article{ ISI:000286849700010,
+Author = {Rabiser, Rick and O'Leary, Padraig and Richardson, Ita},
+Title = {{Key activities for product derivation in software product lines}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2011}},
+Volume = {{84}},
+Number = {{2}},
+Pages = {{285-300}},
+Month = {{FEB}},
+DOI = {{10.1016/j.jss.2010.09.042}},
+ISSN = {{0164-1212}},
+ResearcherID-Numbers = {{Rabiser, Rick/B-8673-2017}},
+ORCID-Numbers = {{Rabiser, Rick/0000-0003-3862-1112}},
+Unique-ID = {{ISI:000286849700010}},
+}
+
+@article{ ISI:000335486300002,
+Author = {Ding, Wei and Liang, Peng and Tang, Antony and van Vliet, Hans},
+Title = {{Knowledge-based approaches in software documentation: A systematic literature review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2014}},
+Volume = {{56}},
+Number = {{6}},
+Pages = {{545-567}},
+Month = {{JUN}},
+DOI = {{10.1016/j.infsof.2014.01.008}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Tang, Antony/C-2459-2009}},
+ORCID-Numbers = {{Tang, Antony/0000-0002-3574-3977}},
+Unique-ID = {{ISI:000335486300002}},
+}
+
+
+@article{ ISI:000182893400110,
+Author = {Wellisch, JP},
+Title = {{Mapping modern software process engineering techniques onto an HEP development environment}},
+Journal = {{NUCLEAR INSTRUMENTS \& METHODS IN PHYSICS RESEARCH SECTION
+   A-ACCELERATORS SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT}},
+Year = {{2003}},
+Volume = {{502}},
+Number = {{2-3}},
+Pages = {{689-692}},
+Month = {{APR 21}},
+Note = {{8th International Workshop on Advanced Computing and Analysis Techniques
+   in Physics Research (ACAT 2002), MOSCOW, RUSSIA, JUN 24-28, 2002}},
+DOI = {{10.1016/S0168-9002(03)00545-X}},
+ISSN = {{0168-9002}},
+Unique-ID = {{ISI:000182893400110}},
+}
+
+
+@article{ ISI:000288732700004,
+Author = {Petersen, Kai},
+Title = {{Measuring and predicting software productivity: A systematic map and
+   review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2011}},
+Volume = {{53}},
+Number = {{4, SI}},
+Pages = {{317-343}},
+Month = {{APR}},
+DOI = {{10.1016/j.infsof.2010.12.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000288732700004}},
+}
+
+@article{ ISI:000176211000002,
+Author = {Baddoo, N and Hall, T},
+Title = {{Motivators of Software Process Improvement: an analysis of
+   practitioners' views}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2002}},
+Volume = {{62}},
+Number = {{2}},
+Pages = {{85-96}},
+Month = {{MAY 15}},
+DOI = {{10.1016/S0164-1212(01)00125-X}},
+Article-Number = {{PII S0164-1212(01)00125-X}},
+ISSN = {{0164-1212}},
+ORCID-Numbers = {{Hall, Tracy/0000-0002-2728-9014}},
+Unique-ID = {{ISI:000176211000002}},
+}
+
+
+
+@article{ ISI:000324564100009,
+Author = {Wohlin, Claes and Runeson, Per and da Mota Silveira Neto, Paulo Anselmo
+   and Engstrom, Emelie and Machado, Ivan do Carmo and de Almeida, Eduardo
+   Santana},
+Title = {{On the reliability of mapping studies in software engineering}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2013}},
+Volume = {{86}},
+Number = {{10}},
+Pages = {{2594-2610}},
+Month = {{OCT}},
+DOI = {{10.1016/j.jss.2013.04.076}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+ResearcherID-Numbers = {{Machado, Ivan/E-7228-2013
+   }},
+ORCID-Numbers = {{Machado, Ivan/0000-0001-9027-2293
+   Wohlin, Claes/0000-0003-0460-5253
+   Runeson, Per/0000-0003-2795-4851}},
+Unique-ID = {{ISI:000324564100009}},
+}
+
+
+
+@article{ ISI:000183505400008,
+Author = {Fuggetta, A},
+Title = {{Open source software - an evaluation}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2003}},
+Volume = {{66}},
+Number = {{1}},
+Pages = {{77-90}},
+Month = {{APR 15}},
+DOI = {{10.1016/S0164-1212(02)00065-1}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:000183505400008}},
+}
+
+
+
+@article{ ISI:000283641600020,
+Author = {Li, Nuo and Xie, Tao and Jin, Maozhong and Liu, Chao},
+Title = {{Perturbation-based user-input-validation testing of web applications}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2010}},
+Volume = {{83}},
+Number = {{11, SI}},
+Pages = {{2263-2274}},
+Month = {{NOV}},
+DOI = {{10.1016/j.jss.2010.07.007}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:000283641600020}},
+}
+
+@article{ ISI:000342037100007,
+Author = {Nielsen, Jeppe Agger and Pedersen, Keld},
+Title = {{IT portfolio decision-making in local governments: Rationality,
+   politics, intuition and coincidences}},
+Journal = {{GOVERNMENT INFORMATION QUARTERLY}},
+Year = {{2014}},
+Volume = {{31}},
+Number = {{3}},
+Pages = {{411-420}},
+Month = {{JUL}},
+DOI = {{10.1016/j.giq.2014.04.002}},
+ISSN = {{0740-624X}},
+EISSN = {{1872-9517}},
+Unique-ID = {{ISI:000342037100007}},
+}
+
+
+
+@article{ ISI:000288919900011,
+Author = {Baskerville, Richard and Pries-Heje, Jan and Madsen, Sabine},
+Title = {{Post-agility: What follows a decade of agility?}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2011}},
+Volume = {{53}},
+Number = {{5, SI}},
+Pages = {{543-555}},
+Month = {{MAY}},
+DOI = {{10.1016/j.infsof.2010.10.010}},
+ISSN = {{0950-5849}},
+Unique-ID = {{ISI:000288919900011}},
+}
+
+
+@article{ ISI:000335486300001,
+Author = {Fernandez-Diego, Marta and Gonzalez-Ladron-de-Guevara, Fernando},
+Title = {{Potential and limitations of the ISBSG dataset in enhancing software
+   engineering research: A mapping review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2014}},
+Volume = {{56}},
+Number = {{6}},
+Pages = {{527-544}},
+Month = {{JUN}},
+DOI = {{10.1016/j.infsof.2014.01.003}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000335486300001}},
+}
+
+
+
+@inproceedings{ ISI:000335396600098,
+Author = {AL-Ta'ani, Rami Hasan and Razali, Rozilawati},
+Editor = {{Salim, J and Ismail, M and Suwarno, I}},
+Title = {{Prioritizing Requirements in Agile Development: A Conceptual Framework}},
+Booktitle = {{4TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING AND INFORMATICS
+   (ICEEI 2013)}},
+Series = {{Procedia Technology}},
+Year = {{2013}},
+Volume = {{11}},
+Pages = {{733-739}},
+Note = {{4th International Conference on Electrical Engineering and Informatics
+   (ICEEI), Bangi, MALAYSIA, JUN 24-25, 2013}},
+Organization = {{Univ Kebangsaan Malaysia; Inst Teknologi Bandung Indonesia}},
+DOI = {{10.1016/j.protcy.2013.12.252}},
+ISSN = {{2212-0173}},
+Unique-ID = {{ISI:000335396600098}},
+}
+
+
+
+@article{ ISI:000259278600002,
+Author = {Kulk, G. P. and Verhoef, C.},
+Title = {{Quantifying requirements volatility effects}},
+Journal = {{SCIENCE OF COMPUTER PROGRAMMING}},
+Year = {{2008}},
+Volume = {{72}},
+Number = {{3}},
+Pages = {{136-175}},
+Month = {{AUG 1}},
+DOI = {{10.1016/j.scico.2008.04.003}},
+ISSN = {{0167-6423}},
+EISSN = {{1872-7964}},
+Unique-ID = {{ISI:000259278600002}},
+}
+
+
+@article{ ISI:000288919900003,
+Author = {Cruzes, Daniela S. and Dyba, Tore},
+Title = {{Research synthesis in software engineering: A tertiary study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2011}},
+Volume = {{53}},
+Number = {{5, SI}},
+Pages = {{440-455}},
+Month = {{MAY}},
+DOI = {{10.1016/j.infsof.2011.01.004}},
+ISSN = {{0950-5849}},
+Unique-ID = {{ISI:000288919900003}},
+}
+
+@article{ ISI:000238790300011,
+Author = {Damm, Lars-Orla and Lundberg, Lars},
+Title = {{Results from introducing component-level test automation and Test-Driven
+   Development}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2006}},
+Volume = {{79}},
+Number = {{7}},
+Pages = {{1001-1014}},
+Month = {{JUL}},
+Note = {{11th Asia-Pacific Software Engineering Conference (APSEC 2004), Busan,
+   SOUTH KOREA, NOV 30-DEC 03, 2004}},
+Organization = {{Korea Informat Sci Soc; Korea Soc Engn Fdn; Samsung Elect; Samsung SDS;
+   LG Elect; Korea IT Ind Promto Agcy; Elect \& Telecommun Res Inst}},
+DOI = {{10.1016/j.jss.2005.10.015}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+Unique-ID = {{ISI:000238790300011}},
+}
+
+
+@article{ ISI:000283641600016,
+Author = {Unphon, Hataichanok and Dittrich, Yvonne},
+Title = {{Software architecture awareness in long-term software product evolution}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2010}},
+Volume = {{83}},
+Number = {{11, SI}},
+Pages = {{2211-2226}},
+Month = {{NOV}},
+DOI = {{10.1016/j.jss.2010.06.043}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+Unique-ID = {{ISI:000283641600016}},
+}
+
+@article{ ISI:000245771700012,
+Author = {Na, Kwan-Sik and Simpson, James T. and Li, Xiaotong and Singh, Tushar
+   and Kim, Ki-Yoon},
+Title = {{Software development risk and project performance measurement: Evidence
+   in Korea}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{4, SI}},
+Pages = {{596-605}},
+Month = {{APR}},
+Note = {{5th International Workshop on Software and Performance (WOSP 2005),
+   Palma de Mallorca, SPAIN, JUL 11-14, 2005}},
+DOI = {{10.1016/j.jss.2006.06.018}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:000245771700012}},
+}
+
+
+@article{ ISI:000280214700002,
+Author = {Ampatzoglou, Apostolos and Stamelos, Ioannis},
+Title = {{Software engineering research for computer games: A systematic review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{9}},
+Pages = {{888-901}},
+Month = {{SEP}},
+DOI = {{10.1016/j.infsof.2010.05.004}},
+ISSN = {{0950-5849}},
+Unique-ID = {{ISI:000280214700002}},
+}
+
+
+@article{ ISI:000282905700005,
+Author = {Niazi, Mahmood and Babar, Muhammad Ali and Verner, June M.},
+Title = {{Software Process Improvement barriers: A cross-cultural comparison}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2010}},
+Volume = {{52}},
+Number = {{11, SI}},
+Pages = {{1204-1216}},
+Month = {{NOV}},
+DOI = {{10.1016/j.infsof.2010.06.005}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Niazi, Mahmood/C-8873-2015}},
+ORCID-Numbers = {{Niazi, Mahmood/0000-0001-7318-7644}},
+Unique-ID = {{ISI:000282905700005}},
+}
+
+
+@article{ ISI:000325599100007,
+Author = {Ianzen, Andressa and Mauda, Everson Carlos and Paludo, Marco Antonio and
+   Reinehr, Sheila and Malucelli, Andreia},
+Title = {{Software process improvement in a financial organization: An action
+   research approach}},
+Journal = {{COMPUTER STANDARDS \& INTERFACES}},
+Year = {{2013}},
+Volume = {{36}},
+Number = {{1, SI}},
+Pages = {{54-65}},
+Month = {{NOV}},
+DOI = {{10.1016/j.csi.2013.07.002}},
+ISSN = {{0920-5489}},
+EISSN = {{1872-7018}},
+Unique-ID = {{ISI:000325599100007}},
+}
+
+
+
+@article{ ISI:000329418000001,
+Author = {Garcia-Borgonon, L. and Barcelona, M. A. and Garcia-Garcia, J. A. and
+   Alba, M. and Escalona, M. J.},
+Title = {{Software process modeling languages: A systematic literature review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2014}},
+Volume = {{56}},
+Number = {{2}},
+Pages = {{103-116}},
+Month = {{FEB}},
+DOI = {{10.1016/j.infsof.2013.10.001}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ResearcherID-Numbers = {{Escalona, Maria Jose/G-3900-2010
+   Garcia Garcia, Julian Alberto/J-6081-2013
+   Barcelona, Miguel Angel/E-9038-2016}},
+ORCID-Numbers = {{Escalona, Maria Jose/0000-0002-6435-1497
+   Garcia Garcia, Julian Alberto/0000-0003-2680-1327
+   Barcelona, Miguel Angel/0000-0001-8785-2350}},
+Unique-ID = {{ISI:000329418000001}},
+}
+
+
+@article{ ISI:000273219400010,
+Author = {Garcia-Crespo, Angel and Colomo-Palacios, Ricardo and Miguel
+   Gomez-Berbis, Juan and Garcia-Sanchez, Francisco},
+Title = {{SOLAR: Social Link Advanced Recommendation System}},
+Journal = {{FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID
+   COMPUTING AND ESCIENCE}},
+Year = {{2010}},
+Volume = {{26}},
+Number = {{3}},
+Pages = {{374-380}},
+Month = {{MAR}},
+DOI = {{10.1016/j.future.2009.07.008}},
+ISSN = {{0167-739X}},
+EISSN = {{1872-7115}},
+ResearcherID-Numbers = {{Colomo-Palacios, Ricardo/E-5139-2010
+   Gomez Berbis, Juan/M-2795-2017
+   Garcia-Sanchez, Francisco/B-5292-2008
+   }},
+ORCID-Numbers = {{Colomo-Palacios, Ricardo/0000-0002-1555-9726
+   Garcia-Sanchez, Francisco/0000-0003-2667-5359
+   Garcia Crespo, Angel/0000-0003-4888-1436
+   Garcia Crespo, Angel/0000-0003-4206-7601}},
+Unique-ID = {{ISI:000273219400010}},
+}
+
+
+@article{ ISI:000356110100005,
+Author = {Dolezel, Michal and Buchalcevova, Alena},
+Title = {{Test Governance Framework for contracted IS development:
+   Ethnographically informed action research}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2015}},
+Volume = {{65}},
+Pages = {{69-94}},
+Month = {{SEP}},
+DOI = {{10.1016/j.infsof.2015.03.003}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ORCID-Numbers = {{Dolezel, Michal/0000-0002-5963-5145}},
+Unique-ID = {{ISI:000356110100005}},
+}
+
+
+@article{ ISI:000245771700015,
+Author = {Chiu, Nan-Hsing and Huang, Sun-Jen},
+Title = {{The adjusted analogy-based software effort estimation based on
+   similarity distances}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2007}},
+Volume = {{80}},
+Number = {{4, SI}},
+Pages = {{628-640}},
+Month = {{APR}},
+Note = {{5th International Workshop on Software and Performance (WOSP 2005),
+   Palma de Mallorca, SPAIN, JUL 11-14, 2005}},
+DOI = {{10.1016/j.jss.2006.06.006}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+Unique-ID = {{ISI:000245771700015}},
+}
+
+@article{ ISI:000286682700025,
+Author = {Chen, Chung-Yang and Teng, Kao-Chiuan},
+Title = {{The design and development of a computerized tool support for conducting
+   senior projects in software engineering education}},
+Journal = {{COMPUTERS \& EDUCATION}},
+Year = {{2011}},
+Volume = {{56}},
+Number = {{3}},
+Pages = {{802-817}},
+Month = {{APR}},
+DOI = {{10.1016/j.compedu.2010.10.022}},
+ISSN = {{0360-1315}},
+Unique-ID = {{ISI:000286682700025}},
+}
+
+
+@article{ ISI:000345947500016,
+Author = {Anh Nguyen-Duc and Cruzes, Daniela S. and Conradi, Reidar},
+Title = {{The impact of global dispersion on coordination, team performance and software quality - A systematic literature review}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2015}},
+Volume = {{57}},
+Pages = {{277-294}},
+Month = {{JAN}},
+DOI = {{10.1016/j.infsof.2014.06.002}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000345947500016}},
+}
+
+@article{ ISI:000184889800006,
+Author = {Ashrafi, N},
+Title = {{The impact of software process improvement on quality: in theory and
+   practice}},
+Journal = {{INFORMATION \& MANAGEMENT}},
+Year = {{2003}},
+Volume = {{40}},
+Number = {{7}},
+Pages = {{677-690}},
+Month = {{AUG}},
+DOI = {{10.1016/S0378-7206(02)00096-4}},
+Article-Number = {{PII S0378-7206(02)00096-4}},
+ISSN = {{0378-7206}},
+Unique-ID = {{ISI:000184889800006}},
+}
+
+@inproceedings{ ISI:000360175900090,
+Author = {Aziz, Ruhaya Ab. and Wong, Bernard},
+Editor = {{Samuel, P}},
+Title = {{The Interplay between Requirements Relationships Knowledge and
+   Requirements Change towards Software Project Success: An Assessment
+   Using Partial Least Square (PLS)}},
+Booktitle = {{PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INFORMATION AND
+   COMMUNICATION TECHNOLOGIES, ICICT 2014}},
+Series = {{Procedia Computer Science}},
+Year = {{2015}},
+Volume = {{46}},
+Pages = {{732-741}},
+Note = {{International Conference on Information and Communication Technologies
+   (ICICT), Kochi, INDIA, DEC 03-05, 2014}},
+Organization = {{Cochin Uni Sci \& Technol, Sch Engn; TEQIP Phase II}},
+DOI = {{10.1016/j.procs.2015.02.138}},
+ISSN = {{1877-0509}},
+Unique-ID = {{ISI:000360175900090}},
+}
+
+
+@article{ ISI:000324898300007,
+Author = {Pernstal, J. and Feldt, R. and Gorschek, T.},
+Title = {{The lean gap: A review of lean approaches to large-scale software
+   systems development}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2013}},
+Volume = {{86}},
+Number = {{11}},
+Pages = {{2797-2821}},
+Month = {{NOV}},
+DOI = {{10.1016/j.jss.2013.06.035}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:000324898300007}},
+}
+
+
+@article{ ISI:000326556300013,
+Author = {Kuhrmann, Marco and Kalus, Georg and Then, Manuel},
+Title = {{The Process Enactment Tool Framework-Transformation of software process
+   models to prepare enactment}},
+Journal = {{SCIENCE OF COMPUTER PROGRAMMING}},
+Year = {{2014}},
+Volume = {{79}},
+Number = {{SI}},
+Pages = {{172-188}},
+Month = {{JAN 1}},
+ISSN = {{0167-6423}},
+EISSN = {{1872-7964}},
+ORCID-Numbers = {{Kuhrmann, Marco/0000-0001-6101-8931}},
+Unique-ID = {{ISI:000326556300013}},
+}
+
+@article{ ISI:000326258100010,
+Author = {Yamashita, Aiko and Moonen, Leon},
+Title = {{To what extent can maintenance problems be predicted by code smell
+   detection? - An empirical study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2013}},
+Volume = {{55}},
+Number = {{12}},
+Pages = {{2223-2242}},
+Month = {{DEC}},
+DOI = {{10.1016/j.infsof.2013.08.002}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000326258100010}},
+}
+
+@article{ ISI:000329418000009,
+Author = {Kroeger, Trent A. and Davidson, Neil J. and Cook, Stephen C.},
+Title = {{Understanding the characteristics of quality for software engineering
+   processes: A Grounded Theory investigation}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2014}},
+Volume = {{56}},
+Number = {{2}},
+Pages = {{252-271}},
+Month = {{FEB}},
+DOI = {{10.1016/j.infsof.2013.10.003}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+Unique-ID = {{ISI:000329418000009}},
+}
+
+@article{ ISI:000270628100002,
+Author = {Ferreira, Susan and Collofello, James and Shunk, Dan and Mackulak,
+   Gerald},
+Title = {{Understanding the effects of requirements volatility in software
+   engineering by using analytical modeling and software process simulation}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{2009}},
+Volume = {{82}},
+Number = {{10, SI}},
+Pages = {{1568-1577}},
+Month = {{OCT}},
+DOI = {{10.1016/j.jss.2009.03.014}},
+ISSN = {{0164-1212}},
+EISSN = {{1873-1228}},
+Unique-ID = {{ISI:000270628100002}},
+}
+
+
+@article{ ISI:000345947500037,
+Author = {Garousi, Golara and Garousi-Yusifoglu, Vahid and Ruhe, Guenther and Zhi,
+   Junji and Moussavi, Mahmoud and Smith, Brian},
+Title = {{Usage and usefulness of technical software documentation: An industrial
+   case study}},
+Journal = {{INFORMATION AND SOFTWARE TECHNOLOGY}},
+Year = {{2015}},
+Volume = {{57}},
+Pages = {{664-682}},
+Month = {{JAN}},
+Note = {{17th International Conference on Evaluation and Assessment in software
+   Engineering, Porto de Galinhas, BRAZIL, APR 14-16, 2013}},
+DOI = {{10.1016/j.infsof.2014.08.003}},
+ISSN = {{0950-5849}},
+EISSN = {{1873-6025}},
+ORCID-Numbers = {{Garousi, Vahid/0000-0001-6590-7576}},
+Unique-ID = {{ISI:000345947500037}},
+}
+
+
+@article{ ISI:A1997VV22400003,
+Author = {Mashiko, Y and Basili, VR},
+Title = {{Using the GQM paradigm to investigate influential factors for software
+   process improvement}},
+Journal = {{JOURNAL OF SYSTEMS AND SOFTWARE}},
+Year = {{1997}},
+Volume = {{36}},
+Number = {{1}},
+Pages = {{17-32}},
+Month = {{JAN}},
+DOI = {{10.1016/0164-1212(95)00194-8}},
+ISSN = {{0164-1212}},
+Unique-ID = {{ISI:A1997VV22400003}},
+}
+
+
+
+
+
+
+
+
+
+
+
+

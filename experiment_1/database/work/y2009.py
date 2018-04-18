@@ -655,6 +655,24 @@ khdair2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+khurum2009a = DB(WorkUnrelated(
+    2009, "A systematic review of domain analysis solutions for product lines",
+    display="khurum",
+    authors="Khurum, Mahvish and Gorschek, Tony",
+    place=FAKE,
+    pp="1982-2003",
+    entrytype="article",
+    volume="82",
+    number="12",
+    month="DEC",
+    doi="10.1016/j.jss.2009.06.048",
+    issn="0164-1212",
+    unique_id="ISI:000272061000006",
+    ID="ISI:000272061000006",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 lami2009a = DB(WorkUnrelated(
     2009, "Is ISO/IEC 15504 Applicable to Agile Methods?",
     display="lami",

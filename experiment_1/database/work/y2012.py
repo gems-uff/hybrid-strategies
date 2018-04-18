@@ -595,6 +595,25 @@ hochstetter2012a = DB(WorkUnrelated(
     placex="Proceedings of the 7th International Conference on Software Engineering Advances (ICSEA",
 ))
 
+holl2012a = DB(WorkUnrelated(
+    2012, "A systematic review and an expert survey on capabilities supporting multi product lines",
+    display="holl",
+    authors="Holl, Gerald and Gruenbacher, Paul and Rabiser, Rick",
+    place=FAKE,
+    pp="828-852",
+    entrytype="article",
+    volume="54",
+    number="8, SI",
+    month="AUG",
+    doi="10.1016/j.infsof.2012.02.002",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000305599200004",
+    ID="ISI:000305599200004",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    ))
+
 ivarsson2012a = DB(WorkUnrelated(
     2012, "Tool support for disseminating and improving development practices",
     display="ivarsson",
@@ -1249,6 +1268,24 @@ rensburg2012a = DB(WorkUnrelated(
     ID="van2012relationship",
     local="North-West University",
     placex="",
+))
+
+richardson2012a = DB(WorkUnrelated(
+    2012, "A Process Framework for Global Software Engineering Teams",
+    display="richardson",
+    authors="Richardson, Ita and Casey, Valentine and McCaffery, Fergal and Burton, John and Beecham, Sarah",
+    place=FAKE,
+    pp="1175-1191",
+    entrytype="article",
+    volume="54",
+    number="11",
+    month="NOV",
+    doi="10.1016/j.infsof.2012.05.002",
+    issn="0950-5849",
+    unique_id="ISI:000308387500002",
+    ID="ISI:000308387500002",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 robles2012a = DB(WorkUnrelated(

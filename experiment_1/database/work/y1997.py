@@ -364,6 +364,27 @@ sheskin1997a = DB(WorkUnrelated(
     placex="CRC Press, Boca Raton",
 ))
 
+shoval1997a = DB(WorkUnrelated(
+    1997, "A combination of the Mk-II function points software estimation method with the ADISSA methodology for systems analysis and design",
+    display="shoval",
+    authors="Shoval, P and Feldman, O",
+    place=FAKE,
+    pp="855-865",
+    entrytype="article",
+    volume="39",
+    number="13",
+    month="DEC 15",
+    doi="10.1016/S0950-5849(97)00009-8",
+    issn="0950-5849",
+    eissn="1873-6025",
+    researcheridnumbers="Shoval, Peretz/F-1229-2012",
+    orcidnumbers="Shoval, Peretz/0000-0002-0183-2832",
+    unique_id="ISI:000071584300001",
+    ID="ISI:000071584300001",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 sommerville1997a = DB(WorkUnrelated(
     1997, "Requirements Engineering: A Good Practice Guide",
     display="sommerville",

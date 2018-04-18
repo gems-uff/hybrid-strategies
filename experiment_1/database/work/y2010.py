@@ -1037,6 +1037,25 @@ lester2010a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+lisboa2010a = DB(WorkUnrelated(
+    2010, "A systematic review of domain analysis tools",
+    display="lisboa",
+    authors="Lisboa, Liana Barachisio and Garcia, Vinicius Cardoso and Lucredio, Daniel and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero  and de Mattos Fortes, Renata Pontin",
+    place=FAKE,
+    pp="1-13",
+    entrytype="article",
+    volume="52",
+    number="1",
+    month="JAN",
+    doi="10.1016/j.infsof.2009.05.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000272372900001",
+    ID="ISI:000272372900001",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 malik2010a = DB(WorkUnrelated(
     2010, "Quantitative and qualitative analyses of requirements elaboration for early software size estimation",
     display="malik",

@@ -784,6 +784,9 @@ jahangirian2011a = DB(WorkUnrelated(
     ID="Jahangirian2011234",
     sciencedirect="1",
     placex="International Journal of Information Management",
+    month="JUN",
+    unique_id="ISI:000290836000007",
+    webofscience2015="1",
 ))
 
 jansson2011a = DB(WorkUnrelated(

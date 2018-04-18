@@ -994,6 +994,24 @@ rose2015a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+ruiz2015a = DB(WorkUnrelated(
+    2015, "A framework for software process deployment and evaluation",
+    display="ruiz",
+    authors="Ruiz-Rube, Ivan and Manuel Dodero, Juan and Colomo-Palacios, Ricardo",
+    place=FAKE,
+    pp="205-221",
+    entrytype="article",
+    volume="59",
+    month="MAR",
+    doi="10.1016/j.infsof.2014.12.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000349427200012",
+    ID="ISI:000349427200012",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 rúa2015a = DB(WorkUnrelated(
     2015, "Marco de trabajo para adaptar las metodologías ágiles e implantarlas a nivel organizacional",
     display="rúa",
@@ -1147,6 +1165,24 @@ ta2015a = DB(WorkUnrelated(
     placex="Strategic data-based wisdom in the big data era",
 ))
 
+tanriover2015a = DB(WorkUnrelated(
+    2015, "A process capability based assessment model for software workforce in mergent software organizations",
+    display="tanriover",
+    authors="Tanriover, O. Ozgur and Demirors, Onur",
+    place=FAKE,
+    pp="29-40",
+    entrytype="article",
+    volume="37",
+    month="JAN",
+    doi="10.1016/j.csi.2014.05.003",
+    issn="0920-5489",
+    eissn="1872-7018",
+    unique_id="ISI:000343633400004",
+    ID="ISI:000343633400004",
+    webofscience2015="1",
+    placex="COMPUTER STANDARDS & INTERFACES",
+))
+
 texel2015a = DB(WorkUnrelated(
     2015, "Exploring government contractor experiences assessing and reporting software development status",
     display="texel",
@@ -1290,6 +1326,10 @@ wohlin2015a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     sciencedirect2015="1",
+    month="NOV",
+    eissn="1873-1228",
+    unique_id="ISI:000362137700017",
+    webofscience2015="1",
 ))
 
 wolfenstetter2015a = DB(WorkUnrelated(
