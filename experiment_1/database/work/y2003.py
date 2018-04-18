@@ -62,6 +62,22 @@ alexandre2003a = DB(WorkUnrelated(
     placex="GENIE LOGICIEL-TOULOUSE THEN PARIS-",
 ))
 
+ashrafi2003a = DB(WorkUnrelated(
+    2003, "The impact of software process improvement on quality: in theory and practice",
+    display="ashrafi",
+    authors="Ashrafi, N",
+    place=FAKE,
+    pp="677-690",
+    entrytype="article",
+    volume="40",
+    number="7",
+    month="AUG",
+    unique_id="ISI:000184889800006",
+    ID="ISI:000184889800006",
+    webofscience2015="1",
+    placex="INFORMATION & MANAGEMENT",
+))
+
 baddoo2003a = DB(WorkUnrelated(
     2003, "De-motivators for software process improvement: an analysis of practitioners' views",
     display="baddoo",

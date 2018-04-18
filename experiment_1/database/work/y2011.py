@@ -396,6 +396,24 @@ chastek2011a = DB(WorkUnrelated(
     ieee2015="1",
 ))
 
+chen2011a = DB(WorkUnrelated(
+    2011, "The design and development of a computerized tool support for conducting senior projects in software engineering education",
+    display="chen",
+    authors="Chen, Chung-Yang and Teng, Kao-Chiuan",
+    place=FAKE,
+    pp="802-817",
+    entrytype="article",
+    volume="56",
+    number="3",
+    month="APR",
+    doi="10.1016/j.compedu.2010.10.022",
+    issn="0360-1315",
+    unique_id="ISI:000286682700025",
+    ID="ISI:000286682700025",
+    webofscience2015="1",
+    placex="COMPUTERS & EDUCATION",
+))
+
 chrissis2011a = DB(WorkUnrelated(
     2011, "CMMI for Development: Guidelines for Process Integration and Product Improvement",
     display="chrissis",

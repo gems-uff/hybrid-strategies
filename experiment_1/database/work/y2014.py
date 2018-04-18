@@ -698,6 +698,25 @@ fontana2014a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+garcia2014a = DB(WorkUnrelated(
+    2014, "Software process modeling languages: A systematic literature review",
+    display="garcia",
+    authors="Garcia-Borgonon, L. and Barcelona, M. A. and Garcia-Garcia, J. A. and Alba, M. and Escalona, M. J.",
+    place=FAKE,
+    pp="103-116",
+    entrytype="article",
+    volume="56",
+    number="2",
+    month="FEB",
+    doi="10.1016/j.infsof.2013.10.001",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000329418000001",
+    ID="ISI:000329418000001",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 ghanavati2014a = DB(WorkUnrelated(
     2014, "Legal Goal-oriented Requirement Language (Legal GRL) for Modeling Regulations",
     display="ghanavati",
@@ -1058,6 +1077,22 @@ kramer2014a = DB(WorkUnrelated(
     placex="Global Conference (SRII), 2014 Annual SRII",
 ))
 
+kroeger2014a = DB(WorkUnrelated(
+    2014, "Understanding the characteristics of quality for software engineering processes: A Grounded Theory investigation",
+    display="kroeger",
+    authors="Kroeger, Trent A. and Davidson, Neil J. and Cook, Stephen C.",
+    place=FAKE,
+    pp="252-271",
+    entrytype="article",
+    volume="56",
+    number="2",
+    month="FEB",
+    unique_id="ISI:000329418000009",
+    ID="ISI:000329418000009",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 kroll2014a = DB(WorkUnrelated(
     2014, "A software process model for follow the sun development",
     display="kroll",
@@ -1083,6 +1118,22 @@ kudryashova2014a = DB(WorkUnrelated(
     ID="Kudryashova:2014:MIS:2567948.2577369",
     acm="1",
     placex="Proceedings of the 23rd International Conference on World Wide Web",
+))
+
+kuhrmann2014a = DB(WorkUnrelated(
+    2014, "The Process Enactment Tool Framework-Transformation of software process models to prepare enactment",
+    display="kuhrmann",
+    authors="Kuhrmann, Marco and Kalus, Georg and Then, Manuel",
+    place=FAKE,
+    pp="172-188",
+    entrytype="article",
+    volume="79",
+    number="SI",
+    month="JAN 1",
+    unique_id="ISI:000326556300013",
+    ID="ISI:000326556300013",
+    webofscience2015="1",
+    placex="SCIENCE OF COMPUTER PROGRAMMING",
 ))
 
 lang2014a = DB(WorkUnrelated(

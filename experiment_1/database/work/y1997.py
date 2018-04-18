@@ -275,6 +275,22 @@ krasner1997a = DB(WorkUnrelated(
     placex="Krasner Consulting",
 ))
 
+mashiko1997a = DB(WorkUnrelated(
+    1997, "Using the GQM paradigm to investigate influential factors for software process improvement",
+    display="mashiko",
+    authors="Mashiko, Y and Basili, VR",
+    place=FAKE,
+    pp="17-32",
+    entrytype="article",
+    volume="36",
+    number="1",
+    month="JAN",
+    unique_id="ISI:A1997VV22400003",
+    ID="ISI:A1997VV22400003",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 offen1997a = DB(WorkUnrelated(
     1997, "Establishing software measurement programs",
     display="offen",

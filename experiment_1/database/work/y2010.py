@@ -44,6 +44,24 @@ ali2010a = DB(WorkUnrelated(
     placex="",
 ))
 
+ampatzoglou2010a = DB(WorkUnrelated(
+    2010, "Software engineering research for computer games: A systematic review",
+    display="ampatzoglou",
+    authors="Ampatzoglou, Apostolos and Stamelos, Ioannis",
+    place=FAKE,
+    pp="888-901",
+    entrytype="article",
+    volume="52",
+    number="9",
+    month="SEP",
+    doi="10.1016/j.infsof.2010.05.004",
+    issn="0950-5849",
+    unique_id="ISI:000280214700002",
+    ID="ISI:000280214700002",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 armbrust2010a = DB(WorkSnowball(
     2010, "Determining organization-specific process suitability",
     display="armbrust",
@@ -674,6 +692,25 @@ fruehwirth2010a = DB(WorkUnrelated(
     cluster_id="9107686990138046615",
     scholar="http://scholar.google.com/scholar?cites=9107686990138046615&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 6th International Workshop on Security Measurements and Metrics",
+))
+
+garcia2010a = DB(WorkUnrelated(
+    2010, "SOLAR: Social Link Advanced Recommendation System",
+    display="garcia",
+    authors="Garcia-Crespo, Angel and Colomo-Palacios, Ricardo and Miguel Gomez-Berbis, Juan and Garcia-Sanchez, Francisco",
+    place=FAKE,
+    pp="374-380",
+    entrytype="article",
+    volume="26",
+    number="3",
+    month="MAR",
+    doi="10.1016/j.future.2009.07.008",
+    issn="0167-739X",
+    eissn="1872-7115",
+    unique_id="ISI:000273219400010",
+    ID="ISI:000273219400010",
+    webofscience2015="1",
+    placex="FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
 ))
 
 gartner2010a = DB(WorkUnrelated(
@@ -1448,6 +1485,25 @@ müller2010a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+niazi2010a = DB(WorkUnrelated(
+    2010, "Software Process Improvement barriers: A cross-cultural comparison",
+    display="niazi",
+    authors="Niazi, Mahmood and Babar, Muhammad Ali and Verner, June M.",
+    place=FAKE,
+    pp="1204-1216",
+    entrytype="article",
+    volume="52",
+    number="11, SI",
+    month="NOV",
+    doi="10.1016/j.infsof.2010.06.005",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000282905700005",
+    ID="ISI:000282905700005",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 nikula2010a = DB(WorkUnrelated(
     2010, "Empirical validation of the Classic Change Curve on a software technology change project",
     display="nikula",
@@ -1934,6 +1990,25 @@ turner2010a = DB(WorkUnrelated(
     ID="ISI:000277107200001",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
+unphon2010a = DB(WorkUnrelated(
+    2010, "Software architecture awareness in long-term software product evolution",
+    display="unphon",
+    authors="Unphon, Hataichanok and Dittrich, Yvonne",
+    place=FAKE,
+    pp="2211-2226",
+    entrytype="article",
+    volume="83",
+    number="11, SI",
+    month="NOV",
+    doi="10.1016/j.jss.2010.06.043",
+    issn="0164-1212",
+    eissn="1873-1228",
+    unique_id="ISI:000283641600016",
+    ID="ISI:000283641600016",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
 unterkalmsteiner2010a = DB(WorkUnrelated(

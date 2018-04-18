@@ -402,6 +402,22 @@ fachrunnisa2009a = DB(WorkUnrelated(
     placex="Proceedings of the 11th International Conference on Information Integration and Web-based Applications &Amp; Services",
 ))
 
+ferreira2009a = DB(WorkUnrelated(
+    2009, "Understanding the effects of requirements volatility in software engineering by using analytical modeling and software process simulation",
+    display="ferreira",
+    authors="Ferreira, Susan and Collofello, James and Shunk, Dan and Mackulak, Gerald",
+    place=FAKE,
+    pp="1568-1577",
+    entrytype="article",
+    volume="82",
+    number="10, SI",
+    month="OCT",
+    unique_id="ISI:000270628100002",
+    ID="ISI:000270628100002",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 galinac2009a = DB(WorkUnrelated(
     2009, "Empirical evaluation of selected best practices in implementation of software process improvement",
     display="galinac",

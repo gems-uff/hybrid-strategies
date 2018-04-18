@@ -762,6 +762,25 @@ hästbacka2013b = DB(WorkUnrelated(
     placex="",
 ))
 
+ianzen2013a = DB(WorkUnrelated(
+    2013, "Software process improvement in a financial organization: An action research approach",
+    display="ianzen",
+    authors="Ianzen, Andressa and Mauda, Everson Carlos and Paludo, Marco Antonio and Reinehr, Sheila and Malucelli, Andreia",
+    place=FAKE,
+    pp="54-65",
+    entrytype="article",
+    volume="36",
+    number="1, SI",
+    month="NOV",
+    doi="10.1016/j.csi.2013.07.002",
+    issn="0920-5489",
+    eissn="1872-7018",
+    unique_id="ISI:000325599100007",
+    ID="ISI:000325599100007",
+    webofscience2015="1",
+    placex="COMPUTER STANDARDS & INTERFACES",
+))
+
 iivari2013a = DB(WorkUnrelated(
     2013, "Usability Specialists as Boundary Spanners -- An Appraisal of Usability Specialists' Work in Multiparty Distributed Open Source Software Development Effort",
     display="iivari",
@@ -1302,6 +1321,24 @@ pardo2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+pernstal2013a = DB(WorkUnrelated(
+    2013, "The lean gap: A review of lean approaches to large-scale software systems development",
+    display="pernstal",
+    authors="Pernstal, J. and Feldt, R. and Gorschek, T.",
+    place=FAKE,
+    pp="2797-2821",
+    entrytype="article",
+    volume="86",
+    number="11",
+    month="NOV",
+    doi="10.1016/j.jss.2013.06.035",
+    issn="0164-1212",
+    unique_id="ISI:000324898300007",
+    ID="ISI:000324898300007",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 pernstål2013a = DB(WorkUnrelated(
     2013, "Towards Managing the Interaction between Manufacturing and Development Organizations in Automotive Software Development",
     display="pernstål",
@@ -1642,4 +1679,20 @@ wohlin2013a = DB(WorkUnrelated(
     ID="ISI:000324564100009",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
+yamashita2013a = DB(WorkUnrelated(
+    2013, "To what extent can maintenance problems be predicted by code smell detection? - An empirical study",
+    display="yamashita",
+    authors="Yamashita, Aiko and Moonen, Leon",
+    place=FAKE,
+    pp="2223-2242",
+    entrytype="article",
+    volume="55",
+    number="12",
+    month="DEC",
+    unique_id="ISI:000326258100010",
+    ID="ISI:000326258100010",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))

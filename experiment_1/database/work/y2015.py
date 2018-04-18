@@ -44,6 +44,22 @@ ammala2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+aziz2015a = DB(WorkUnrelated(
+    2015, "The Interplay between Requirements Relationships Knowledge and Requirements Change towards Software Project Success: An Assessment Using Partial Least Square (PLS)",
+    display="aziz",
+    authors="Aziz, Ruhaya Ab. and Wong, Bernard",
+    place=FAKE,
+    pp="732-741",
+    entrytype="inproceedings",
+    editor="Samuel, P",
+    series="Procedia Computer Science",
+    volume="46",
+    unique_id="ISI:000360175900090",
+    ID="ISI:000360175900090",
+    webofscience2015="1",
+    placex="PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES, ICICT 2014",
+))
+
 babar2015a = DB(WorkUnrelated(
     2015, "Modeling DevOps deployment choices using process architecture design dimensions",
     display="babar",
@@ -178,6 +194,24 @@ deng2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+dolezel2015a = DB(WorkUnrelated(
+    2015, "Test Governance Framework for contracted IS development: Ethnographically informed action research",
+    display="dolezel",
+    authors="Dolezel, Michal and Buchalcevova, Alena",
+    place=FAKE,
+    pp="69-94",
+    entrytype="article",
+    volume="65",
+    month="SEP",
+    doi="10.1016/j.infsof.2015.03.003",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000356110100005",
+    ID="ISI:000356110100005",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+))
+
 dymek2015a = DB(WorkUnrelated(
     2015, "Model parametryczny w zarz{?}dzaniu ryzykiem przedsi{?}wzi{?}{c?} informatycznych",
     display="dymek",
@@ -268,6 +302,21 @@ garousi2015a = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     sciencedirect2015="1",
+))
+
+garousi2015b = DB(WorkUnrelated(
+    2015, "Usage and usefulness of technical software documentation: An industrial case study",
+    display="garousi b",
+    authors="Garousi, Golara and Garousi-Yusifoglu, Vahid and Ruhe, Guenther and Zhi, Junji and Moussavi, Mahmoud and Smith, Brian",
+    place=FAKE,
+    pp="664-682",
+    entrytype="article",
+    volume="57",
+    month="JAN",
+    unique_id="ISI:000345947500037",
+    ID="ISI:000345947500037",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 goldin2015a = DB(WorkUnrelated(
@@ -850,6 +899,24 @@ ng2015a = DB(WorkUnrelated(
     ID="ISI:000350513600005",
     webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
+))
+
+nguyenduc2015a = DB(WorkUnrelated(
+    2015, "The impact of global dispersion on coordination, team performance and software quality - A systematic literature review",
+    display="nguyen-duc",
+    authors="Anh Nguyen-Duc and Cruzes, Daniela S. and Conradi, Reidar",
+    place=FAKE,
+    pp="277-294",
+    entrytype="article",
+    volume="57",
+    month="JAN",
+    doi="10.1016/j.infsof.2014.06.002",
+    issn="0950-5849",
+    eissn="1873-6025",
+    unique_id="ISI:000345947500016",
+    ID="ISI:000345947500016",
+    webofscience2015="1",
+    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
 ))
 
 niazi2015a = DB(WorkUnrelated(

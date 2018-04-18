@@ -299,6 +299,22 @@ chen2007c = DB(WorkUnrelated(
     placex="Taiwan's Economic Transformation in Evolutionary Perspective: Entrepreneurship, Innovation Systems and Government",
 ))
 
+chiu2007a = DB(WorkUnrelated(
+    2007, "The adjusted analogy-based software effort estimation based on similarity distances",
+    display="chiu",
+    authors="Chiu, Nan-Hsing and Huang, Sun-Jen",
+    place=FAKE,
+    pp="628-640",
+    entrytype="article",
+    volume="80",
+    number="4, SI",
+    month="APR",
+    unique_id="ISI:000245771700015",
+    ID="ISI:000245771700015",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+))
+
 chrissis2007a = DB(WorkUnrelated(
     2007, "CMMI Guidelines for Process Integration and Product Development",
     display="chrissis",
@@ -858,6 +874,22 @@ murakami2007a = DB(WorkUnrelated(
     institution="SAE Technical Paper",
     ID="murakami2007product",
     placex="",
+))
+
+na2007a = DB(WorkUnrelated(
+    2007, "Software development risk and project performance measurement: Evidence in Korea",
+    display="na",
+    authors="Na, Kwan-Sik and Simpson, James T. and Li, Xiaotong and Singh, Tushar and Kim, Ki-Yoon",
+    place=FAKE,
+    pp="596-605",
+    entrytype="article",
+    volume="80",
+    number="4, SI",
+    month="APR",
+    unique_id="ISI:000245771700012",
+    ID="ISI:000245771700012",
+    webofscience2015="1",
+    placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
 neergaard2007a = DB(WorkUnrelated(
