@@ -1514,6 +1514,24 @@ rovegård2008a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+samoilenko2008a = DB(WorkUnrelated(
+    2008, "Information systems fitness and risk in IS development: Insights and implications from chaos and complex systems theories",
+    display="samoilenko",
+    authors="Samoilenko, Sergey",
+    place=FAKE,
+    pp="281",
+    entrytype="article",
+    month="May",
+    day="13",
+    volume="10",
+    number="3",
+    issn="1572-9419",
+    doi="10.1007/s10796-008-9078-3",
+    ID="Samoilenko2008",
+    springer2015="1",
+    placex="Information Systems Frontiers",
+))
+
 sanders2008a = DB(WorkUnrelated(
     2008, "Finding out what really happened after SPI assistance in Ireland",
     display="sanders",

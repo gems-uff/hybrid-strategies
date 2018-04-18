@@ -734,6 +734,24 @@ fruehwirth2010a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Workshop on Security Measurements and Metrics",
 ))
 
+garc2010a = DB(WorkUnrelated(
+    2010, "How to get mature global virtual teams: a framework to improve team process management in distributed software teams",
+    display="garc",
+    authors="Garc{í}a Guzmán, Javier and Salda{ñ}a Ramos, Javier and Amescua Seco, Antonio and Sanz Esteban, Ana",
+    place=SQJ,
+    pp="409--435",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="18",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-010-9096-5",
+    ID="GarcíaGuzmán2010",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 garcia2010a = DB(WorkUnrelated(
     2010, "SOLAR: Social Link Advanced Recommendation System",
     display="garcia",

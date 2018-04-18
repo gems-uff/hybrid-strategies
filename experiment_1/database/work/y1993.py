@@ -157,6 +157,24 @@ fernstro1993a = DB(WorkUnrelated(
     placex="?Proc. Second Int'l Conf. Software Process",
 ))
 
+francis1993a = DB(WorkUnrelated(
+    1993, "Quality and process management: a view from the UK computing services industry",
+    display="francis",
+    authors="Francis, Richard",
+    place=SQJ,
+    pp="225--238",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="2",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/BF00403765",
+    ID="Francis1993",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 hammer1993a = DB(WorkUnrelated(
     1993, "Reengineering the corporation: a manifesto for business revolution",
     display="hammer",

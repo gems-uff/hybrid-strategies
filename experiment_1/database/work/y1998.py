@@ -119,6 +119,24 @@ christie1998a = DB(WorkUnrelated(
     placex="Journal of Systems Integration",
 ))
 
+deiters1998a = DB(WorkUnrelated(
+    1998, "Process Management in Practice Applying the FUNSOFT Net Approach to Large-Scale Processes",
+    display="deiters",
+    authors="Deiters, Wolfgang and Gruhn, Volker",
+    place=FAKE,
+    pp="7--25",
+    entrytype="article",
+    month="Jan",
+    day="01",
+    volume="5",
+    number="1",
+    issn="1573-7535",
+    doi="10.1023/A:1008654224389",
+    ID="Deiters1998",
+    springer2015="1",
+    placex="Automated Software Engineering",
+))
+
 dynsys1998a = DB(WorkUnrelated(
     1998, "IPT Learning Campus",
     display="dynsys",

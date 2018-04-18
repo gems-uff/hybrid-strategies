@@ -663,6 +663,24 @@ kaplan2006a = DB(WorkUnrelated(
     placex="Harvard Business Press",
 ))
 
+karlström2006a = DB(WorkUnrelated(
+    2006, "Integrating agile software development into stage-gate managed product development",
+    display="karlström",
+    authors="Karlström, Daniel and Runeson, Per",
+    place=ESE,
+    pp="203--225",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="11",
+    number="2",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-6402-8",
+    ID="Karlström2006",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 kishore2006a = DB(WorkUnrelated(
     2006, "Enterprise integration using the agent paradigm: foundations of multi-agent-based integrative business information systems",
     display="kishore",
@@ -812,6 +830,24 @@ mahanti2006a = DB(WorkUnrelated(
     cluster_id="14100205714070344840",
     scholar="http://scholar.google.com/scholar?cites=14100205714070344840&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Six Sigma and Competitive Advantage",
+))
+
+maldonado2006a = DB(WorkUnrelated(
+    2006, "Perspective-Based Reading: A Replicated Experiment Focused on Individual Reviewer Effectiveness",
+    display="maldonado",
+    authors="Maldonado, José C. and Carver, Jeffrey and Shull, Forrest and Fabbri, Sandra and Dória, Emerson and Martimiano, Luciana and Mendon{ç}a, Manoel and Basili, Victor",
+    place=ESE,
+    pp="119--142",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="11",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-5967-6",
+    ID="Maldonado2006",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 martins2006a = DB(WorkUnrelated(
@@ -1020,6 +1056,24 @@ sei2006b = DB(WorkUnrelated(
     note="cited By 4",
     ID="SEI2006",
     placex="CMU SEI",
+))
+
+sfetsos2006a = DB(WorkUnrelated(
+    2006, "Investigating the extreme programming system--An empirical study",
+    display="sfetsos",
+    authors="Sfetsos, Panagiotis and Angelis, Lefteris and Stamelos, Ioannis",
+    place=ESE,
+    pp="269--301",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="11",
+    number="2",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-6404-6",
+    ID="Sfetsos2006",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 shull2006a = DB(WorkUnrelated(

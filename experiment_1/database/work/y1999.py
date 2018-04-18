@@ -102,6 +102,24 @@ cignoni1999a = DB(WorkUnrelated(
     ID="Cignoni1999",
 ))
 
+cocchio1999a = DB(WorkUnrelated(
+    1999, "Industrial Requirements for Distributed SCM Tool",
+    display="cocchio",
+    authors="Cocchio, Luisa and Puttero, Davide",
+    place=SQJ,
+    pp="111--120",
+    entrytype="article",
+    month="Oct",
+    day="01",
+    volume="8",
+    number="2",
+    issn="1573-1367",
+    doi="10.1023/A:1008952809919",
+    ID="Cocchio1999",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 debou1999a = DB(WorkUnrelated(
     1999, "Alcatel's Experience with Process Improvement",
     display="debou",
@@ -179,6 +197,24 @@ ebert1999b = DB(WorkUnrelated(
     sciencedirect="1",
     placex="International Journal of Project Management",
     sciencedirect2015="1",
+))
+
+ebert1999c = DB(WorkUnrelated(
+    1999, "Improving reliability of large software systems",
+    display="ebert c",
+    authors="Ebert, Christof and Liedtke, Thomas and Baisch, Ekkehard",
+    place=FAKE,
+    pp="3--51",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="8",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1018971212809",
+    ID="Ebert1999",
+    springer2015="1",
+    placex="Annals of Software Engineering",
 ))
 
 emam1999a = DB(WorkUnrelated(

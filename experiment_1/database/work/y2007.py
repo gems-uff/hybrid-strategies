@@ -581,6 +581,24 @@ habra2007a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+hall2007a = DB(WorkUnrelated(
+    2007, "Motivating developer performance to improve project outcomes in a high maturity organization",
+    display="hall",
+    authors="Hall, Tracy and Jagielska, Dorota and Baddoo, Nathan",
+    place=SQJ,
+    pp="365--381",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="15",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-007-9028-1",
+    ID="Hall2007",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 huang2007a = DB(WorkUnrelated(
     2007, "Achieving IT-business strategic alignment via enterprise-wide implementation of balanced scorecards",
     display="huang",
@@ -694,6 +712,24 @@ karagiannis2007a = DB(WorkUnrelated(
     ID="Karagiannis:2007:BMD:1282100.1282122",
     acm="1",
     placex="Proceedings of the Ninth International Conference on Electronic Commerce",
+))
+
+karlsson2007a = DB(WorkUnrelated(
+    2007, "Pair-wise comparisons versus planning game partitioning---experiments on requirements prioritisation techniques",
+    display="karlsson",
+    authors="Karlsson, Lena and Thelin, Thomas and Regnell, Björn and Berander, Patrik and Wohlin, Claes",
+    place=ESE,
+    pp="3--33",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="12",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-006-7240-4",
+    ID="Karlsson2007",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 kathuria2007a = DB(WorkUnrelated(
@@ -892,6 +928,24 @@ mcloone2007a = DB(WorkUnrelated(
     placex="Performance results from process improvement, DACS Journal",
     pp="5--9",
     volume="10",
+))
+
+mohagheghi2007a = DB(WorkUnrelated(
+    2007, "Quality, productivity and economic benefits of software reuse: a review of industrial studies",
+    display="mohagheghi",
+    authors="Mohagheghi, Parastoo and Conradi, Reidar",
+    place=ESE,
+    pp="471--516",
+    entrytype="article",
+    month="Oct",
+    day="01",
+    volume="12",
+    number="5",
+    issn="1573-7616",
+    doi="10.1007/s10664-007-9040-x",
+    ID="Mohagheghi2007",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 montoni2007a = DB(WorkUnrelated(

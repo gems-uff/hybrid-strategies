@@ -75,6 +75,24 @@ ayala2012a = DB(WorkUnrelated(
     placex="Open Source Systems: Long-Term Sustainability",
 ))
 
+baldassarre2012a = DB(WorkUnrelated(
+    2012, "Harmonization of ISO/IEC 9001:2000 and CMMI-DEV: from a theoretical comparison to a real case application",
+    display="baldassarre",
+    authors="Baldassarre, Maria Teresa and Caivano, Danilo and Pino, Francisco J. and Piattini, Mario and Visaggio, Giuseppe",
+    place=SQJ,
+    pp="309--335",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="20",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9154-7",
+    ID="Baldassarre2012",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 barcellos2012a = DB(WorkUnrelated(
     2012, "Using a Reference Domain Ontology for Developing a Software Measurement Strategy for High Maturity Organizations",
     display="barcellos",

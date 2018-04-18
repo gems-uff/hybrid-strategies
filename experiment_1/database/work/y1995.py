@@ -213,6 +213,24 @@ humphrey1995a = DB(WorkUnrelated(
     placex="A Discipline for Software Engineering",
 ))
 
+humphrey1995b = DB(WorkUnrelated(
+    1995, "Introducing the personal software process",
+    display="humphrey b",
+    authors="Humphrey, Watts S.",
+    place=FAKE,
+    pp="311--325",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="1",
+    number="1",
+    issn="1573-7489",
+    doi="10.1007/BF02249055",
+    ID="Humphrey1995",
+    springer2015="1",
+    placex="Annals of Software Engineering",
+))
+
 kerzner1995a = DB(WorkUnrelated(
     1995, "Project Management: A Systems Approach to Planning, Scheduling, and Controlling",
     display="kerzner",

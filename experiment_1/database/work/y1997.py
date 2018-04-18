@@ -201,6 +201,24 @@ group1997a = DB(WorkUnrelated(
     placex="AMI (Application of Metrics in Industry) Report",
 ))
 
+harrison1997a = DB(WorkUnrelated(
+    1997, "Process Modelling and Empirical Studies of Software Evolution (PMESSE'97) Workshop Report",
+    display="harrison",
+    authors="Harrison, R. and Briand, L. and Daly, J. and Kellner, M. and Raffo, D. M. and Shepperd, M. J.",
+    place=ESE,
+    pp="381--403",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="2",
+    number="4",
+    issn="1573-7616",
+    doi="10.1023/A:1009749918745",
+    ID="Harrison1997",
+    springer2015="1",
+    placex="Empirical Software Engineering",
+))
+
 hinley1997a = DB(WorkUnrelated(
     1997, "A goal-oriented approach for managing software process change",
     display="hinley",
@@ -223,6 +241,24 @@ isoies1997a = DB(WorkUnrelated(
     note="cited By 1",
     ID="isoies1997",
     placex="Study report ISO/IES JTC1/SC7",
+))
+
+jaliff1997a = DB(WorkUnrelated(
+    1997, "Introduction of modern software technology. A case from Swedish industry",
+    display="jaliff",
+    authors="Jaliff, J. S. and Jonsson, C. Å. and Ljungblad, A.",
+    place=SQJ,
+    pp="1--11",
+    entrytype="article",
+    month="Mar",
+    day="01",
+    volume="6",
+    number="1",
+    issn="1573-1367",
+    doi="10.1023/A:1018536726634",
+    ID="Jaliff1997",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 jenkins1997a = DB(WorkUnrelated(

@@ -510,6 +510,24 @@ ellis2013b = DB(WorkUnrelated(
     placex="arXiv preprint arXiv:1305.3853",
 ))
 
+ellis2013c = DB(WorkUnrelated(
+    2013, "Quantifying the impact of requirements definition and management process maturity on project outcome in large business application development",
+    display="ellis c",
+    authors="Ellis, Keith and Berry, Daniel M.",
+    place=FAKE,
+    pp="223--249",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="18",
+    number="3",
+    issn="1432-010X",
+    doi="10.1007/s00766-012-0146-3",
+    ID="Ellis2013",
+    springer2015="1",
+    placex="Requirements Engineering",
+))
+
 eremenko2013a = DB(WorkUnrelated(
     2013, "Neural Network Based System for Nondestructive Testing of Composite Materials Using Low-Frequency Acoustic Methods",
     display="eremenko",
@@ -588,6 +606,24 @@ garay2013a = DB(WorkUnrelated(
     cluster_id="8913330742035250473",
     scholar="http://scholar.google.com/scholar?cites=8913330742035250473&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Congreso Internacional de Investigación e Innovación en Ingeniería de Software 2013. Xalapa, Veracruz, del 2 al 4 de octubre",
+))
+
+garcia2013a = DB(WorkUnrelated(
+    2013, "Practical experiences in modelling software engineering practices: The project patterns approach",
+    display="garcia",
+    authors="Garciaa Guzmán, Javier and Mart{í}n, Diego and Urbano, Julián and de Amescua, Antonio",
+    place=SQJ,
+    pp="325--354",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="21",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-012-9177-8",
+    ID="GarcíaGuzmán2013",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 garcíaguzmán2013a = DB(WorkUnrelated(
@@ -994,6 +1030,24 @@ kläs2013a = DB(WorkUnrelated(
     cluster_id="3628608704940185612",
     scholar="http://scholar.google.com/scholar?cites=3628608704940185612&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product Focused Software Process Improvement",
+))
+
+kocaguneli2013a = DB(WorkUnrelated(
+    2013, "Kernel methods for software effort estimation",
+    display="kocaguneli",
+    authors="Kocaguneli, Ekrem and Menzies, Tim and Keung, Jacky W.",
+    place=ESE,
+    pp="1--24",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="18",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-011-9189-1",
+    ID="Kocaguneli2013",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 kowalczyk2013a = DB(WorkUnrelated(
@@ -1512,6 +1566,24 @@ schrama2013a = DB(WorkUnrelated(
     entrytype="inproceedings",
     ID="schrama2013increasing",
     placex="International Conference on Economic and Social Sustainability",
+))
+
+seo2013a = DB(WorkUnrelated(
+    2013, "On the value of outlier elimination on software effort estimation research",
+    display="seo",
+    authors="Seo, Yeong-Seok and Bae, Doo-Hwan",
+    place=ESE,
+    pp="659--698",
+    entrytype="article",
+    month="Aug",
+    day="01",
+    volume="18",
+    number="4",
+    issn="1573-7616",
+    doi="10.1007/s10664-012-9207-y",
+    ID="Seo2013",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 serrano2013a = DB(WorkUnrelated(

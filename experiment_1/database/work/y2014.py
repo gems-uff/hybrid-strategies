@@ -746,6 +746,24 @@ felderer2014a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+felderer2014b = DB(WorkUnrelated(
+    2014, "Integrating risk-based testing in industrial test processes",
+    display="felderer b",
+    authors="Felderer, Michael and Ramler, Rudolf",
+    place=SQJ,
+    pp="543--575",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="22",
+    number="3",
+    issn="1573-1367",
+    doi="10.1007/s11219-013-9226-y",
+    ID="Felderer2014",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 fernandez2014a = DB(WorkUnrelated(
     2014, "Potential and limitations of the ISBSG dataset in enhancing software engineering research: A mapping review",
     display="fernandez",
@@ -1321,6 +1339,24 @@ lang2014b = DB(WorkUnrelated(
     number="5",
     ID="薛桐2014基于组织结构的机械型组织绩效管理",
     placex="经济管理",
+))
+
+lee2014a = DB(WorkUnrelated(
+    2014, "MND-SCEMP: an empirical study of a software cost estimation modeling process in the defense domain",
+    display="lee",
+    authors="Lee, Taeho and Gu, Taewan and Baik, Jongmoon",
+    place=ESE,
+    pp="213--240",
+    entrytype="article",
+    month="Feb",
+    day="01",
+    volume="19",
+    number="1",
+    issn="1573-7616",
+    doi="10.1007/s10664-012-9220-1",
+    ID="Lee2014",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 lepmets2014a = DB(WorkSnowball(

@@ -458,6 +458,24 @@ helokunnas2002a = DB(WorkUnrelated(
     placex="Product Focused Software Process Improvement",
 ))
 
+henderson2002a = DB(WorkUnrelated(
+    2002, "Process Metamodelling and Process Construction: Examples Using the OPEN Process Framework (OPF)",
+    display="henderson",
+    authors="Henderson-Sellers, Brian",
+    place=FAKE,
+    pp="341--362",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020570027891",
+    ID="Henderson-Sellers2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
+))
+
 henricksen2002a = DB(WorkUnrelated(
     2002, "Modeling context information in pervasive computing systems",
     display="henricksen",
@@ -629,6 +647,24 @@ mary2002a = DB(WorkUnrelated(
     note="cited By 2",
     ID="Mary2002",
     placex="Software Engineering Institute, Carnegie Mellon University, Pittsburgh",
+))
+
+maurer2002a = DB(WorkUnrelated(
+    2002, "Integrating Process Support and Knowledge Management for Virtual Software Development Teams",
+    display="maurer",
+    authors="Maurer, Frank and Holz, Harald",
+    place=FAKE,
+    pp="145--168",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="14",
+    number="1",
+    issn="1573-7489",
+    doi="10.1023/A:1020505708326",
+    ID="Maurer2002",
+    springer2015="1",
+    placex="Annals of Software Engineering",
 ))
 
 mcgarry2002a = DB(WorkUnrelated(

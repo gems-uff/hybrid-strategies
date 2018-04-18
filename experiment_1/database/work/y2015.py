@@ -137,6 +137,24 @@ bird2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+caglayan2015a = DB(WorkUnrelated(
+    2015, "Predicting defective modules in different test phases",
+    display="caglayan",
+    authors="Caglayan, Bora and Tosun Misirli, Ayse and Bener, Ayse Basar and Miranskyy, Andriy",
+    place=SQJ,
+    pp="205--227",
+    entrytype="article",
+    month="Jun",
+    day="01",
+    volume="23",
+    number="2",
+    issn="1573-1367",
+    doi="10.1007/s11219-014-9230-x",
+    ID="Caglayan2015",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 cakula2015a = DB(WorkUnrelated(
     2015, "Automated Learning Support System for Adult Education Institutions and Enterprises",
     display="cakula",
@@ -567,6 +585,24 @@ imonese2015a = DB(WorkUnrelated(
     placex="Verslas: teorija ir praktika",
 ))
 
+jabangwe2015a = DB(WorkUnrelated(
+    2015, "Handover of managerial responsibilities in global software development: a case study of source code evolution and quality",
+    display="jabangwe",
+    authors="Jabangwe, Ronald and Börstler, Jürgen and Petersen, Kai",
+    place=SQJ,
+    pp="539--566",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="23",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-014-9247-1",
+    ID="Jabangwe2015",
+    springer2015="1",
+    placex="Software Quality Journal",
+))
+
 jansson2015a = DB(WorkUnrelated(
     2015, "Services supporting collaborative alignment of engineering networks",
     display="jansson",
@@ -951,6 +987,24 @@ murphy2015a = DB(WorkUnrelated(
     cluster_id="10785371662697807519",
     scholar="http://scholar.google.com/scholar?cites=10785371662697807519&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Information Systems and Project Management",
+))
+
+mäntylä2015a = DB(WorkUnrelated(
+    2015, "On rapid releases and software testing: a case study and a semi-systematic literature review",
+    display="mäntylä",
+    authors="Mäntylä, Mika V and Adams, Bram and Khomh, Foutse and Engström, Emelie and Petersen, Kai",
+    place=ESE,
+    pp="1384--1425",
+    entrytype="article",
+    month="Oct",
+    day="01",
+    volume="20",
+    number="5",
+    issn="1573-7616",
+    doi="10.1007/s10664-014-9338-4",
+    ID="Mäntylä2015",
+    springer2015="1",
+    placex="Empirical Software Engineering",
 ))
 
 nagel2015a = DB(WorkUnrelated(

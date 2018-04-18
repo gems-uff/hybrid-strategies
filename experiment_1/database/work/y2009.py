@@ -727,6 +727,24 @@ khurum2009a = DB(WorkUnrelated(
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
+kou2009a = DB(WorkUnrelated(
+    2009, "Operational definition and automated inference of test-driven development with Zorro",
+    display="kou",
+    authors="Kou, Hongbing and Johnson, Philip M. and Erdogmus, Hakan",
+    place=FAKE,
+    pp="57",
+    entrytype="article",
+    month="Nov",
+    day="10",
+    volume="17",
+    number="1",
+    issn="1573-7535",
+    doi="10.1007/s10515-009-0058-8",
+    ID="Kou2009",
+    springer2015="1",
+    placex="Automated Software Engineering",
+))
+
 lami2009a = DB(WorkUnrelated(
     2009, "Is ISO/IEC 15504 Applicable to Agile Methods?",
     display="lami",

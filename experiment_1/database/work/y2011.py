@@ -999,6 +999,24 @@ khan2011a = DB(WorkUnrelated(
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
 ))
 
+khoshkbarforoushha2011a = DB(WorkUnrelated(
+    2011, "Metrics for BPEL process context-independency analysis",
+    display="khoshkbarforoushha",
+    authors="Khoshkbarforoushha, Alireza and Jamshidi, Pooyan and Nikravesh, Ali and Shams, Fereidoon",
+    place=FAKE,
+    pp="139--157",
+    entrytype="article",
+    month="Sep",
+    day="01",
+    volume="5",
+    number="3",
+    issn="1863-2394",
+    doi="10.1007/s11761-011-0077-8",
+    ID="Khoshkbarforoushha2011",
+    springer2015="1",
+    placex="Service Oriented Computing and Applications",
+))
+
 knowles2011a = DB(WorkUnrelated(
     2011, "Six Sigma",
     display="knowles",
@@ -1769,6 +1787,24 @@ tahir2011a = DB(WorkUnrelated(
     entrytype="article",
     note="cited By 1",
     ID="Tahir2011",
+))
+
+tarhan2011a = DB(WorkUnrelated(
+    2011, "Investigating the effect of variations in the test development process: a case from a safety-critical system",
+    display="tarhan",
+    authors="Tarhan, Ayca and Demirors, Onur",
+    place=SQJ,
+    pp="615--642",
+    entrytype="article",
+    month="Dec",
+    day="01",
+    volume="19",
+    number="4",
+    issn="1573-1367",
+    doi="10.1007/s11219-011-9129-8",
+    ID="Tarhan2011",
+    springer2015="1",
+    placex="Software Quality Journal",
 ))
 
 thammarak2011a = DB(WorkUnrelated(
