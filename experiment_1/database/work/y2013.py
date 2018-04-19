@@ -406,7 +406,6 @@ chouseinoglou2013a = DB(WorkUnrelated(
     ID="Chouseinoglou20131904",
     sciencedirect="1",
     placex="Information and Software Technology",
-    acm2015="1",
 ))
 
 cuenca2013a = DB(WorkUnrelated(
