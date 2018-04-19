@@ -76,6 +76,7 @@ aziz2015a = DB(WorkUnrelated(
     ID="ISI:000360175900090",
     webofscience2015="1",
     placex="PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES, ICICT 2014",
+    sciencedirect2015="1",
 ))
 
 babar2015a = DB(WorkUnrelated(
@@ -140,6 +141,7 @@ berssaneti2015a = DB(WorkUnrelated(
     ID="ISI:000350931100014",
     webofscience2015="1",
     placex="INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT",
+    sciencedirect2015="1",
 ))
 
 bird2015a = DB(WorkUnrelated(
@@ -268,6 +270,7 @@ dolezel2015a = DB(WorkUnrelated(
     ID="ISI:000356110100005",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 drago2015a = DB(WorkUnrelated(
@@ -393,6 +396,7 @@ garousi2015b = DB(WorkUnrelated(
     ID="ISI:000345947500037",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 goldin2015a = DB(WorkUnrelated(
@@ -889,6 +893,7 @@ magalhaes2015a = DB(WorkUnrelated(
     ID="ISI:000355365100006",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 mahmood2015a = DB(WorkUnrelated(
@@ -981,6 +986,7 @@ mesquida2015b = DB(WorkUnrelated(
     ID="ISI:000343633400009",
     webofscience2015="1",
     placex="COMPUTER STANDARDS & INTERFACES",
+    sciencedirect2015="1",
 ))
 
 mohamed2015a = DB(WorkUnrelated(
@@ -1052,6 +1058,7 @@ ng2015a = DB(WorkUnrelated(
     ID="ISI:000350513600005",
     webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
+    sciencedirect2015="1",
 ))
 
 nguyenduc2015a = DB(WorkUnrelated(
@@ -1070,6 +1077,7 @@ nguyenduc2015a = DB(WorkUnrelated(
     ID="ISI:000345947500016",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 niazi2015a = DB(WorkUnrelated(
@@ -1325,6 +1333,7 @@ ruiz2015a = DB(WorkUnrelated(
     ID="ISI:000349427200012",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 rúa2015a = DB(WorkUnrelated(
@@ -1496,6 +1505,7 @@ tanriover2015a = DB(WorkUnrelated(
     ID="ISI:000343633400004",
     webofscience2015="1",
     placex="COMPUTER STANDARDS & INTERFACES",
+    sciencedirect2015="1",
 ))
 
 texel2015a = DB(WorkUnrelated(

@@ -215,6 +215,7 @@ ibanez1996a = DB(WorkUnrelated(
     ID="ISI:A1996WD91000004",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS ARCHITECTURE",
+    sciencedirect2015="1",
 ))
 
 jones1996a = DB(WorkUnrelated(

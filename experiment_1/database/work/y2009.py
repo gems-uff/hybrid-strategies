@@ -482,6 +482,7 @@ ferreira2009a = DB(WorkUnrelated(
     ID="ISI:000270628100002",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 galinac2009a = DB(WorkUnrelated(
@@ -771,6 +772,7 @@ khurum2009a = DB(WorkUnrelated(
     ID="ISI:000272061000006",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 kou2009a = DB(WorkUnrelated(
@@ -1155,6 +1157,7 @@ niazi2009a = DB(WorkUnrelated(
     ID="ISI:000267504500003",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 ogc2009a = DB(WorkUnrelated(
@@ -1637,6 +1640,7 @@ vavpotic2009a = DB(WorkUnrelated(
     ID="ISI:000261919900021",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 vieira2009a = DB(WorkUnrelated(

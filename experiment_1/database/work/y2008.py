@@ -967,6 +967,7 @@ kulk2008a = DB(WorkUnrelated(
     ID="ISI:000259278600002",
     webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
+    sciencedirect2015="1",
 ))
 
 kulpa2008a = DB(WorkUnrelated(

@@ -749,6 +749,7 @@ holl2012a = DB(WorkUnrelated(
     ID="ISI:000305599200004",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
     ))
 
 imtiaz2012a = DB(WorkUnrelated(
@@ -787,6 +788,7 @@ islam2012a = DB(WorkUnrelated(
     unique_d="ISI:000295947900018",
     webofscience2015="1",
     placex="FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
+    sciencedirect2015="1",
 ))
 
 ivarsson2012a = DB(WorkUnrelated(
@@ -875,6 +877,19 @@ jenkins2012a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Jenkins2012",
     placex="de Latin American Congress on Requirements Engineering & Software Testing",
+))
+
+jiang2012a = DB(WorkUnrelated(
+    2012, "Assessing team performance from a socio-technical congruence perspective",
+    display="jiang",
+    authors="Jiang, Li and Carley, Kathleen M and Eberlein, Armin",
+    place=FAKE,
+    pp="160--169",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="jiang2012assessing",
+    acm2015="1",
+    placex="Proceedings of the International Conference on Software and System Process",
 ))
 
 kasurinen2012a = DB(WorkUnrelated(
@@ -1080,6 +1095,7 @@ lucio2012a = DB(WorkUnrelated(
     ID="ISI:000312928800011",
     webofscience2015="1",
     placex="INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT",
+    sciencedirect2015="1",
 ))
 
 lópez2012a = DB(WorkUnrelated(
@@ -1403,6 +1419,7 @@ ng2012a = DB(WorkUnrelated(
     ID="ISI:000393153400026",
     webofscience2015="1",
     placex="INTERNATIONAL CONFERENCE ON ASIA PACIFIC BUSINESS INNOVATION AND TECHNOLOGY MANAGEMENT",
+    sciencedirect2015="1",
 ))
 
 olsina2012a = DB(WorkUnrelated(
@@ -1621,6 +1638,7 @@ richardson2012a = DB(WorkUnrelated(
     ID="ISI:000308387500002",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 robles2012a = DB(WorkUnrelated(
@@ -2140,6 +2158,7 @@ woungang2012a = DB(WorkUnrelated(
     ID="ISI:000304722300017",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 yihong2012a = DB(WorkUnrelated(
@@ -2172,4 +2191,5 @@ zacarias2012a = DB(WorkUnrelated(
     ID="ISI:000314469100026",
     webofscience2015="1",
     placex="4TH CONFERENCE OF ENTERPRISE INFORMATION SYSTEMS - ALIGNING TECHNOLOGY, ORGANIZATIONS AND PEOPLE (CENTERIS 2012)",
+    sciencedirect2015="1",
 ))

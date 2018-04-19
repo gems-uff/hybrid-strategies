@@ -455,6 +455,17 @@ emam2001c = DB(WorkUnrelated(
     placex="",
 ))
 
+engel2001a = DB(WorkUnrelated(
+    2001, "Computing curricula 2001",
+    display="engel",
+    authors="Engel, Gerald and Roberts, Eric",
+    place=FAKE,
+    entrytype="article",
+    ID="engel2001computing",
+    acm2015="1",
+    placex="IEEE-CS, ACM. Final Report",
+))
+
 fenton2001a = DB(WorkUnrelated(
     2001, "Metrics for Software Process Improvement",
     display="fenton",
@@ -694,6 +705,7 @@ jorgensen2001a = DB(WorkUnrelated(
     ID="ISI:000173199900003",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 kalanidhi2001a = DB(WorkUnrelated(

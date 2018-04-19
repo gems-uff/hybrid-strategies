@@ -100,6 +100,7 @@ ampatzoglou2010a = DB(WorkUnrelated(
     ID="ISI:000280214700002",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 armbrust2010a = DB(WorkSnowball(
@@ -805,6 +806,7 @@ garcia2010a = DB(WorkUnrelated(
     ID="ISI:000273219400010",
     webofscience2015="1",
     placex="FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
+    sciencedirect2015="1",
 ))
 
 gartner2010a = DB(WorkUnrelated(
@@ -831,6 +833,7 @@ gorla2010a = DB(WorkUnrelated(
     ID="ISI:000278150500002",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 goyal2010a = DB(WorkUnrelated(
@@ -1290,6 +1293,7 @@ li2010a = DB(WorkUnrelated(
     ID="ISI:000283641600020",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 lisboa2010a = DB(WorkUnrelated(
@@ -1309,6 +1313,7 @@ lisboa2010a = DB(WorkUnrelated(
     ID="ISI:000272372900001",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 malik2010a = DB(WorkUnrelated(
@@ -1591,6 +1596,7 @@ meneklis2010a = DB(WorkUnrelated(
     ID="ISI:000272687600010",
     webofscience2015="1",
     placex="GOVERNMENT INFORMATION QUARTERLY",
+    sciencedirect2015="1",
 ))
 
 messnarz2010a = DB(WorkUnrelated(
@@ -1730,6 +1736,7 @@ niazi2010a = DB(WorkUnrelated(
     ID="ISI:000282905700005",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 nikitina2010a = DB(WorkUnrelated(
@@ -2105,6 +2112,7 @@ sanchez2010a = DB(WorkUnrelated(
     ID="ISI:000278629600007",
     webofscience2015="1",
     placex="INFORMATION SCIENCES",
+    sciencedirect2015="1",
 ))
 
 sarcia2010a = DB(WorkUnrelated(
@@ -2364,6 +2372,7 @@ turner2010a = DB(WorkUnrelated(
     ID="ISI:000277107200001",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 unphon2010a = DB(WorkUnrelated(
@@ -2383,6 +2392,7 @@ unphon2010a = DB(WorkUnrelated(
     ID="ISI:000283641600016",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 unterkalmsteiner2010a = DB(WorkUnrelated(
@@ -2515,6 +2525,7 @@ williams2010a = DB(WorkUnrelated(
     ID="ISI:000272372900003",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 winter2010a = DB(WorkUnrelated(

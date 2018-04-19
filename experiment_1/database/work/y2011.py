@@ -223,6 +223,7 @@ baskerville2011a = DB(WorkUnrelated(
     ID="ISI:000288919900011",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 becker2011a = DB(WorkUnrelated(
@@ -425,6 +426,7 @@ chen2011a = DB(WorkUnrelated(
     ID="ISI:000286682700025",
     webofscience2015="1",
     placex="COMPUTERS & EDUCATION",
+    sciencedirect2015="1",
 ))
 
 chrissis2011a = DB(WorkUnrelated(
@@ -493,6 +495,7 @@ cruzes2011a = DB(WorkUnrelated(
     ID="ISI:000288919900003",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 cyrus2011a = DB(WorkUnrelated(
@@ -899,6 +902,7 @@ jahangirian2011a = DB(WorkUnrelated(
     month="JUN",
     unique_id="ISI:000290836000007",
     webofscience2015="1",
+    sciencedirect2015="1",
 ))
 
 jansson2011a = DB(WorkUnrelated(
@@ -1055,6 +1059,7 @@ khan2011a = DB(WorkUnrelated(
     ID="ISI:000288142500013",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 khoshkbarforoushha2011a = DB(WorkUnrelated(
@@ -1267,6 +1272,7 @@ li2011a = DB(WorkUnrelated(
     ID="ISI:000398850600074",
     webofscience2015="1",
     placex="2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY APPLICATION (AASRI-AIIA 2011), VOL 1",
+    sciencedirect2015="1",
 ))
 
 maheshwari2011a = DB(WorkUnrelated(
@@ -1547,6 +1553,7 @@ petersen2011b = DB(WorkUnrelated(
     ID="ISI:000288732700004",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 plösch2011a = DB(WorkSnowball(
@@ -1654,6 +1661,7 @@ rabiser2011a = DB(WorkUnrelated(
     ID="ISI:000286849700010",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 rantapuska2011a = DB(WorkUnrelated(

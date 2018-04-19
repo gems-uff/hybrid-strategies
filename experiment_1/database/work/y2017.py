@@ -147,6 +147,7 @@ fitzgerald2017a = DB(WorkUnrelated(
     ID="ISI:000389100100012",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 freire2017a = DB(WorkUnrelated(

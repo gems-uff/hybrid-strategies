@@ -178,6 +178,7 @@ carrington2005a = DB(WorkUnrelated(
     ID="ISI:000225668000004",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 cater2005a = DB(WorkUnrelated(

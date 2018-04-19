@@ -99,6 +99,7 @@ bunse1998a = DB(WorkUnrelated(
     ID="ISI:000072445000004",
     webofscience2015="1",
     placex="AUTOMATICA",
+    sciencedirect2015="1",
 ))
 
 christie1998a = DB(WorkUnrelated(

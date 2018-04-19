@@ -530,6 +530,7 @@ chakravorty2014a = DB(WorkUnrelated(
     ID="ISI:000345439200050",
     webofscience2015="1",
     placex="SHAPING THE FUTURE OF BUSINESS AND SOCIETY - SYMBIOSIS INSTITUTE OF MANAGEMENT STUDIES (SIMS)",
+    sciencedirect2015="1",
 ))
 
 cheng2014a = DB(WorkUnrelated(
@@ -700,6 +701,7 @@ ding2014a = DB(WorkUnrelated(
     ID="ISI:000335486300002",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 dumke2014a = DB(WorkUnrelated(
@@ -838,6 +840,7 @@ fernandez2014a = DB(WorkUnrelated(
     ID="ISI:000335486300001",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 ferreira2014a = DB(WorkUnrelated(
@@ -893,6 +896,19 @@ fontana2014a = DB(WorkUnrelated(
     sciencedirect2015="1",
 ))
 
+fuggetta2014a = DB(WorkUnrelated(
+    2014, "Software process",
+    display="fuggetta",
+    authors="Fuggetta, Alfonso and Di Nitto, Elisabetta",
+    place=FAKE,
+    pp="1--12",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="fuggetta2014software",
+    acm2015="1",
+    placex="Proceedings of the on Future of Software Engineering",
+))
+
 garcia2014a = DB(WorkUnrelated(
     2014, "Software process modeling languages: A systematic literature review",
     display="garcia",
@@ -910,6 +926,7 @@ garcia2014a = DB(WorkUnrelated(
     ID="ISI:000329418000001",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 ghanavati2014a = DB(WorkUnrelated(
@@ -1060,6 +1077,7 @@ holt2014a = DB(WorkUnrelated(
     ID="ISI:000337261800005",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 hustad2014a = DB(WorkUnrelated(
@@ -1139,6 +1157,7 @@ jalali2014a = DB(WorkUnrelated(
     ID="ISI:000344421900011",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 janes2014a = DB(WorkUnrelated(
@@ -1277,6 +1296,7 @@ kluth2014a = DB(WorkUnrelated(
     ID="ISI:000345458000039",
     webofscience2015="1",
     placex="VARIETY MANAGEMENT IN MANUFACTURING: PROCEEDINGS OF THE 47TH CIRPCONFERENCE ON MANUFACTURING SYSTEMS",
+    sciencedirect2015="1",
 ))
 
 kobori2014a = DB(WorkUnrelated(
@@ -1345,6 +1365,7 @@ kroeger2014a = DB(WorkUnrelated(
     ID="ISI:000329418000009",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 kroll2014a = DB(WorkUnrelated(
@@ -1388,6 +1409,7 @@ kuhrmann2014a = DB(WorkUnrelated(
     ID="ISI:000326556300013",
     webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
+    sciencedirect2015="1",
 ))
 
 lang2014a = DB(WorkUnrelated(

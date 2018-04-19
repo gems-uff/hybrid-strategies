@@ -1114,6 +1114,21 @@ stålhane2004a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+tracz2004a = DB(WorkUnrelated(
+    2004, "Frontmatter (TOC, Letters, Frank David Anger, ACM Fellow Profile, ICSE 2005, Praise and Criticism, Some Thoughts on Software Reliability, Latest DoD Effort to Achieve Quality in Software, Software Engineering Education)",
+    display="tracz",
+    authors="Tracz, Will",
+    place=FAKE,
+    pp="0",
+    entrytype="article",
+    volume="29",
+    number="5",
+    publisher="ACM",
+    ID="tracz2004frontmatter",
+    acm2015="1",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
 trienekens2004a = DB(WorkSnowball(
     2004, "Business objectives as drivers for process improvement: Practices and experiences at Thales Naval the Netherlands (TNNL)",
     display="trienekens",

@@ -78,6 +78,7 @@ baddoo2002a = DB(WorkUnrelated(
     ID="ISI:000176211000002",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 barafort2002a = DB(WorkUnrelated(

@@ -34,6 +34,7 @@ ajila2007a = DB(WorkUnrelated(
     ID="ISI:000249472200010",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 alagarsamy2007a = DB(WorkUnrelated(
@@ -163,6 +164,7 @@ babar2007b = DB(WorkUnrelated(
     ID="ISI:000249472200003",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 baccarelli2007a = DB(WorkUnrelated(
@@ -326,6 +328,7 @@ chiu2007a = DB(WorkUnrelated(
     ID="ISI:000245771700015",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 chrissis2007a = DB(WorkUnrelated(
@@ -668,6 +671,7 @@ jacobs2007a = DB(WorkUnrelated(
     ID="ISI:000247294900005",
     webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+    sciencedirect2015="1",
 ))
 
 jun2007a = DB(WorkUnrelated(
@@ -1024,6 +1028,7 @@ na2007a = DB(WorkUnrelated(
     ID="ISI:000245771700012",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 neergaard2007a = DB(WorkUnrelated(
@@ -1356,6 +1361,7 @@ song2007a = DB(WorkUnrelated(
     ID="ISI:000250079300018",
     webofscience2015="1",
     placex="DECISION SUPPORT SYSTEMS",
+    sciencedirect2015="1",
 ))
 
 staples2007a = DB(WorkUnrelated(
@@ -1374,6 +1380,7 @@ staples2007a = DB(WorkUnrelated(
     ID="ISI:000247229600007",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 staples2007b = DB(WorkUnrelated(
@@ -1390,6 +1397,7 @@ staples2007b = DB(WorkUnrelated(
     ID="ISI:000249472200002",
     webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
+    sciencedirect2015="1",
 ))
 
 steen2007a = DB(WorkUnrelated(
