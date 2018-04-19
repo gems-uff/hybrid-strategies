@@ -2144,6 +2144,7 @@ wohlin2012j = DB(WorkUnrelated(
 
 woungang2012a = DB(WorkUnrelated(
     2012, "Coding-error based defects in enterprise resource planning software: Prevention, discovery, elimination and mitigation",
+    alias=(2012, "Coding-error based defects in enterprise resource planning software: Prevention", ),
     display="woungang",
     authors="Woungang, Isaac and Akinladejo, Felix O. and White, David W. and Obaidat, Mohammad S.",
     place=FAKE,

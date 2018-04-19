@@ -1063,6 +1063,7 @@ ng2015a = DB(WorkUnrelated(
 
 nguyenduc2015a = DB(WorkUnrelated(
     2015, "The impact of global dispersion on coordination, team performance and software quality - A systematic literature review",
+    alias=(2015, "The impact of global dispersion on coordination", ),
     display="nguyen-duc",
     authors="Anh Nguyen-Duc and Cruzes, Daniela S. and Conradi, Reidar",
     place=FAKE,
@@ -1635,6 +1636,7 @@ valente2015b = DB(WorkUnrelated(
 
 wohlin2015a = DB(WorkUnrelated(
     2015, "A general theory of software engineering: Balancing human, social and organizational capitals",
+    alias=(2015, "A general theory of software engineering: Balancing human", ),
     display="wohlin",
     authors="Claes Wohlin and Darja mite and Nils Brede Moe",
     place=JSS,

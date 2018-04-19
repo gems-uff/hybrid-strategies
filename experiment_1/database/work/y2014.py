@@ -1648,6 +1648,7 @@ muñoz2014a = DB(WorkUnrelated(
 
 nielsen2014a = DB(WorkUnrelated(
     2014, "\IT\ portfolio decision-making in local governments: Rationality, politics, intuition and coincidences",
+    alias=(2014, "portfolio decision-making in local governments: Rationality", ),
     display="nielsen",
     authors="Jeppe Agger Nielsen and Keld Pedersen",
     place=FAKE,

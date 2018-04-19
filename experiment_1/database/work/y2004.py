@@ -1116,6 +1116,7 @@ stålhane2004a = DB(WorkUnrelated(
 
 tracz2004a = DB(WorkUnrelated(
     2004, "Frontmatter (TOC, Letters, Frank David Anger, ACM Fellow Profile, ICSE 2005, Praise and Criticism, Some Thoughts on Software Reliability, Latest DoD Effort to Achieve Quality in Software, Software Engineering Education)",
+    alias=(2004, "Frontmatter (TOC, Letters, Election results, Software Reliability Resources, ICSE 2005)", ),
     display="tracz",
     authors="Tracz, Will",
     place=FAKE,

@@ -884,6 +884,7 @@ ivarsson2011a = DB(WorkUnrelated(
 
 jahangirian2011a = DB(WorkUnrelated(
     2011, "A rapid review method for extremely large corpora of literature: Applications to the domains of modelling, simulation, and management",
+    alias=(2011, "A rapid review method for extremely large corpora of literature: Applications to the domains of modelling", ),
     display="jahangirian",
     authors="Mohsen Jahangirian and Tillal Eldabi and Lalit Garg and Gyuchan T. Jun and Aisha Naseer and Brijesh Patel and Lampros Stergioulas and Terry Young",
     place=FAKE,
