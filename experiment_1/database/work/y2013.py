@@ -1394,6 +1394,7 @@ münch2013a = DB(WorkSnowball(
     cluster_id="3182239711427877041",
     scholar_ok=True,
     selected_order="41",
+    selected_snowballing="1",
 ))
 
 münch2013c = DB(WorkSnowball(
@@ -1415,6 +1416,7 @@ münch2013c = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="40",
+    selected_snowballing="1",
 ))
 
 münch2013d = DB(WorkUnrelated(
@@ -1709,6 +1711,7 @@ stallinger2013a = DB(WorkSnowball(
     placex="International Conference on Software Quality",
     scholar_ok=True,
     selected_order="28",
+    selected_snowballing="1",
 ))
 
 strate2013a = DB(WorkUnrelated(

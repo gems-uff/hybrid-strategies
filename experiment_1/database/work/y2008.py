@@ -206,6 +206,7 @@ becker2008a = DB(WorkSnowball( # 1
     webofscience2015="1",
     elcompendex2015="1",
     scopus2015="1",
+    seed_set="1",
 ))
 
 becker2008b = DB(WorkSnowball(
@@ -238,6 +239,7 @@ becker2008b = DB(WorkSnowball(
     final_selected="1",
     selected_order="19",
     acm2015="1",
+    seed_set="1",
 ))
 
 beijun2008a = DB(WorkUnrelated(
@@ -1179,6 +1181,7 @@ martins2008a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="12",
     webofscience2015="1",
+    seed_set="1",
 ))
 
 mishra2008a = DB(WorkUnrelated(

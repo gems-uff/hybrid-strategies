@@ -539,6 +539,7 @@ mccoy1998a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="37",
+    selected_snowballing="1",
 ))
 
 mellis1998a = DB(WorkUnrelated(

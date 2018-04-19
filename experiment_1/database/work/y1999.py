@@ -478,6 +478,7 @@ messnarz1999a = DB(WorkSnowball(
     cluster_id="7398280582288886688",
     scholar_ok=True,
     selected_order="23",
+    selected_snowballing="1",
 ))
 
 prahalad1999a = DB(WorkUnrelated(
@@ -678,6 +679,7 @@ sommerville1999a = DB(WorkSnowball( # 56
     final_selected="1",
     selected_order="10",
     ieee2015="1",
+    seed_set="1",
 ))
 
 sytsma1999a = DB(WorkUnrelated(

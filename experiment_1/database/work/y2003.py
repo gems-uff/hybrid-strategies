@@ -810,6 +810,7 @@ murugappan2003a = DB(WorkSnowball(
     cluster_id="2260168261813974705",
     scholar_ok=True,
     selected_order="50",
+    selected_snowballing="1",
 ))
 
 neiger2003a = DB(WorkUnrelated(

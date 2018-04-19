@@ -1256,6 +1256,7 @@ waina2001a = DB(WorkSnowball( # 2
     final_selected="1",
     selected_order="1",
     ieee2015="1",
+    seed_set="1",
 ))
 
 waina2001b = DB(WorkUnrelated(

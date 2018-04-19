@@ -196,6 +196,7 @@ basili2007a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="38",
+    selected_snowballing="1",
 ))
 
 basili2007b = DB(WorkSnowball(
@@ -216,6 +217,7 @@ basili2007b = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="42",
+    selected_snowballing="1",
 ))
 
 basili2007c = DB(WorkSnowball(
@@ -232,6 +234,7 @@ basili2007c = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="51",
+    selected_snowballing="1",
 ))
 
 brouwer2007a = DB(WorkUnrelated(
@@ -941,6 +944,7 @@ martins2007b = DB(WorkSnowball(
     cluster_id="7946057597675755240",
     scholar_ok=True,
     selected_order="44",
+    selected_snowballing="1",
 ))
 
 mcloone2007a = DB(WorkUnrelated(
@@ -1658,6 +1662,7 @@ wilkie2007a = DB(WorkSnowball( # 10
     selected_order="2",
     scholar_ok=True,
     scopus2015="1",
+    seed_set="1",
 ))
 
 yang2007a = DB(WorkUnrelated(

@@ -1148,6 +1148,7 @@ oConnor2015a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="20",
     acm2015="1",
+    seed_set="1",
 ))
 
 papa2015a = DB(WorkUnrelated(
@@ -1220,6 +1221,7 @@ petersen2015a = DB(WorkSnowball( # 11
     scholar_ok=True,
     selected_order="4",
     springer2015="1",
+    seed_set="1",
 ))
 
 ralph2015a = DB(WorkUnrelated(

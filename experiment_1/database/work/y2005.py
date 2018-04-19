@@ -642,6 +642,7 @@ liu2005a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="36",
+    selected_snowballing="1",
 ))
 
 mahanti2005a = DB(WorkUnrelated(
@@ -952,6 +953,7 @@ trienekens2005a = DB(WorkSnowball(
     final_selected="1",
     selected_order="17",
     sciencedirect2015="1",
+    seed_set="1",
 ))
 
 tse2005a = DB(WorkUnrelated(
@@ -1035,6 +1037,7 @@ wang2005a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="11",
     ieee2015="1",
+    seed_set="1",
 ))
 
 wang2005b = DB(WorkUnrelated(

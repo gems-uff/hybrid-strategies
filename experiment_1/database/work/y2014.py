@@ -589,6 +589,7 @@ cocozza2014a = DB(WorkSnowball(
     placex="International Conference on Product-Focused Software Process Improvement",
     scholar_ok=True,
     selected_order="25",
+    selected_snowballing="1",
 ))
 
 costa2014a = DB(WorkUnrelated(
@@ -1464,6 +1465,7 @@ lepmets2014a = DB(WorkSnowball(
     cluster_id="13841680928583455244",
     scholar_ok=True,
     selected_order="33",
+    selected_snowballing="1",
 ))
 
 lepmets2014b = DB(WorkUnrelated(
@@ -2127,6 +2129,7 @@ trendowicz2014a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="39",
+    selected_snowballing="1",
 ))
 
 trendowicz2014b = DB(WorkUnrelated(
@@ -2170,6 +2173,7 @@ unterkalmsteiner2014a = DB(WorkSnowball(
     placex="Journal of Software: Evolution and Process",
     scholar_ok=True,
     selected_order="26",
+    selected_snowballing="1",
 ))
 
 verner2014a = DB(WorkUnrelated(

@@ -45,6 +45,7 @@ albuquerque2009a = DB(WorkSnowball(
     webofscience2015="1",
     elcompendex2015="1",
     scopus2015="1",
+    seed_set="1",
 ))
 
 albuquerque2009b = DB(WorkUnrelated(
@@ -1575,6 +1576,7 @@ trienekens2009a = DB(WorkSnowball( # 22
     final_selected="1",
     selected_order="7",
     springer2015="1",
+    seed_set="1",
 ))
 
 tun2009a = DB(WorkUnrelated(

@@ -120,6 +120,7 @@ armbrust2010a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="31",
+    selected_snowballing="1",
 ))
 
 armbrust2010b = DB(WorkSnowball(
@@ -132,6 +133,7 @@ armbrust2010b = DB(WorkSnowball(
     ID="armbrustprocesses",
     placex="Proceedings of the International SPICE Days",
     selected_order="45",
+    selected_snowballing="1",
 ))
 
 ast2010a = DB(WorkUnrelated(
@@ -203,6 +205,7 @@ barreto2010a = DB(WorkSnowball(  # 9
     final_selected="1",
     selected_order="6",
     elcompendex2015="1",
+    seed_set="1",
 ))
 
 barreto2010b = DB(WorkUnrelated(
@@ -248,6 +251,7 @@ basili2010a = DB(WorkSnowball( # 147
     final_selected="1",
     selected_order="9",
     ieee2015="1",
+    seed_set="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -871,6 +875,7 @@ guzmán2010a = DB(WorkSnowball( # 19
     selected_order="8",
     webofscience2015="1",
     scopus2015="1",
+    seed_set="1",
 ))
 
 haigh2010a = DB(WorkUnrelated(
@@ -1140,6 +1145,7 @@ kowalczyk2010a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="49",
+    selected_snowballing="1",
 ))
 
 krasteva2010a = DB(WorkUnrelated(
@@ -1361,6 +1367,7 @@ mandić2010a = DB(WorkSnowball(
     placex="In: Proceedings of the 36th EUROMICRO conference on software engineering and advanced applications, 13 Sept 2010,",
     selected_order="16",
     ieee2015="1",
+    seed_set="1",
 ))
 
 mandić2010b = DB(WorkSnowball(
@@ -1387,6 +1394,7 @@ mandić2010b = DB(WorkSnowball(
     other1="Italy, pp 110",
     selected_order="22",
     acm2015="1",
+    seed_set="1",
 ))
 
 mandić2010c = DB(WorkUnrelated(
@@ -1423,6 +1431,7 @@ mandić2010d = DB(WorkSnowball(
     cluster_id="8738894608367720961",
     scholar_ok=True,
     selected_order="24",
+    selected_snowballing="1",
 ))
 
 mandić2010e = DB(WorkUnrelated(
@@ -1528,6 +1537,7 @@ mcloughlin2010a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="34",
+    selected_snowballing="1",
 ))
 
 mcloughlin2010b = DB(WorkSnowball(
@@ -1551,6 +1561,7 @@ mcloughlin2010b = DB(WorkSnowball(
     placex="European Conference on Software Process Improvement",
     final_selected="1",
     selected_order="35",
+    selected_snowballing="1",
 ))
 
 
@@ -2282,6 +2293,7 @@ sun2010a = DB(WorkSnowball(
     scholar_ok=True,
     final_selected="1",
     selected_order="30",
+    selected_snowballing="1",
 ))
 
 suscheck2010a = DB(WorkUnrelated(

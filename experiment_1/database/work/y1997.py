@@ -428,6 +428,7 @@ reiblein1997a = DB(WorkSnowball(
     final_selected="1",
     selected_order="15",
     scopus2015="1",
+    seed_set="1",
 ))
 
 richardson1997a = DB(WorkUnrelated(

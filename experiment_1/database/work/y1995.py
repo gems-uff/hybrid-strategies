@@ -213,6 +213,7 @@ hinley1995a = DB(WorkSnowball(
     cluster_id="751050437562579240",
     scholar_ok=True,
     selected_order="29",
+    selected_snowballing="1",
 ))
 
 humphrey1995a = DB(WorkUnrelated(

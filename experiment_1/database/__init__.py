@@ -47,7 +47,14 @@ config.WORK_FIELDS = [
     "special", "website", "link", "scholar", "shorttitle", "address", "dglibrary", "references", "citations",
 
     "scopus", "acm", "ieee", "gs", "sciencedirect", "elcompendex", "webofscience", "springer",
-    "placex",
+    "placex", "seed_set", "selected_snowballing", "final_selected", "selected_order", 
+    "scopus2015", "acm2015", "ieee2015", "sciencedirect2015", "elcompendex2015", "webofscience2015", "springer2015",
+
+    #seed_set = estudo que pertence ao seed set;
+    #selected_snowballing = estudo selecionado durante o snowballing;
+    #final_selected = estudo selecionado após aplicação do snowballing, segundo critério de exclusão do artigo reproduzido;
+    #selected_order = ordem de seleção no artigo reproduzido;
+    #scopus2015 = estudo recuperado pela biblioteca digital scopus em 2015 (proveniencia entregue pelos autores).
 ]
 
 ### Ignore fields when exporting to BibTeX
