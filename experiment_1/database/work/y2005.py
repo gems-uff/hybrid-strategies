@@ -176,7 +176,6 @@ carrington2005a = DB(WorkUnrelated(
     eissn="1873-1228",
     unique_id="ISI:000225668000004",
     ID="ISI:000225668000004",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))

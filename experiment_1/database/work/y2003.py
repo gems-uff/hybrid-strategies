@@ -74,7 +74,6 @@ ashrafi2003a = DB(WorkUnrelated(
     month="AUG",
     unique_id="ISI:000184889800006",
     ID="ISI:000184889800006",
-    webofscience2015="1",
     placex="INFORMATION & MANAGEMENT",
     sciencedirect2015="1",
 ))
@@ -93,7 +92,6 @@ baddoo2003a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000183505400003",
     ID="ISI:000183505400003",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -445,7 +443,6 @@ fuggetta2003a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000183505400008",
     ID="ISI:000183505400008",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1127,7 +1124,6 @@ wellisch2003a = DB(WorkUnrelated(
     month="APR 21",
     unique_id="ISI:000182893400110",
     ID="ISI:000182893400110",
-    webofscience2015="1",
     placex="NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT",
     sciencedirect2015="1",
 ))

@@ -18,7 +18,6 @@ acher2013a = DB(WorkUnrelated(
     eissn="1872-7964",
     unique_id="ISI:000318134400004",
     ID="ISI:000318134400004",
-    webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
     sciencedirect2015="1",
 ))
@@ -48,7 +47,6 @@ al2013b = DB(WorkUnrelated(
     volume="11",
     unique_id="ISI:000335396600098",
     ID="ISI:000335396600098",
-    webofscience2015="1",
     placex="4TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING AND INFORMATICS (ICEEI 2013)",
     sciencedirect2015="1",
 ))
@@ -695,7 +693,6 @@ garousi2013a = DB(WorkUnrelated(
     eissn="1873-1228",
     unique_id="ISI:000317322400014",
     ID="ISI:000317322400014",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -935,7 +932,6 @@ ianzen2013a = DB(WorkUnrelated(
     eissn="1872-7018",
     unique_id="ISI:000325599100007",
     ID="ISI:000325599100007",
-    webofscience2015="1",
     placex="COMPUTER STANDARDS & INTERFACES",
     sciencedirect2015="1",
 ))
@@ -1565,7 +1561,6 @@ pernstal2013a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000324898300007",
     ID="ISI:000324898300007",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1948,7 +1943,6 @@ wohlin2013a = DB(WorkUnrelated(
     eissn="1873-1228",
     unique_id="ISI:000324564100009",
     ID="ISI:000324564100009",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1965,7 +1959,6 @@ yamashita2013a = DB(WorkUnrelated(
     month="DEC",
     unique_id="ISI:000326258100010",
     ID="ISI:000326258100010",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))

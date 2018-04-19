@@ -528,7 +528,6 @@ chakravorty2014a = DB(WorkUnrelated(
     volume="11",
     unique_id="ISI:000345439200050",
     ID="ISI:000345439200050",
-    webofscience2015="1",
     placex="SHAPING THE FUTURE OF BUSINESS AND SOCIETY - SYMBIOSIS INSTITUTE OF MANAGEMENT STUDIES (SIMS)",
     sciencedirect2015="1",
 ))
@@ -699,7 +698,6 @@ ding2014a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000335486300002",
     ID="ISI:000335486300002",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -838,7 +836,6 @@ fernandez2014a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000335486300001",
     ID="ISI:000335486300001",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -924,7 +921,6 @@ garcia2014a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000329418000001",
     ID="ISI:000329418000001",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1075,7 +1071,6 @@ holt2014a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000337261800005",
     ID="ISI:000337261800005",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1155,7 +1150,6 @@ jalali2014a = DB(WorkUnrelated(
     eissn="1873-1228",
     unique_id="ISI:000344421900011",
     ID="ISI:000344421900011",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1294,7 +1288,6 @@ kluth2014a = DB(WorkUnrelated(
     volume="17",
     unique_id="ISI:000345458000039",
     ID="ISI:000345458000039",
-    webofscience2015="1",
     placex="VARIETY MANAGEMENT IN MANUFACTURING: PROCEEDINGS OF THE 47TH CIRPCONFERENCE ON MANUFACTURING SYSTEMS",
     sciencedirect2015="1",
 ))
@@ -1363,7 +1356,6 @@ kroeger2014a = DB(WorkUnrelated(
     month="FEB",
     unique_id="ISI:000329418000009",
     ID="ISI:000329418000009",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1407,7 +1399,6 @@ kuhrmann2014a = DB(WorkUnrelated(
     month="JAN 1",
     unique_id="ISI:000326556300013",
     ID="ISI:000326556300013",
-    webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
     sciencedirect2015="1",
 ))
@@ -1668,7 +1659,6 @@ nielsen2014a = DB(WorkUnrelated(
     month="JUL",
     eissn="1872-9517",
     unique_id="ISI:000342037100007",
-    webofscience2015="1",
 ))
 
 nieters2014a = DB(WorkUnrelated(

@@ -97,7 +97,6 @@ bunse1998a = DB(WorkUnrelated(
     month="JAN",
     unique_id="ISI:000072445000004",
     ID="ISI:000072445000004",
-    webofscience2015="1",
     placex="AUTOMATICA",
     sciencedirect2015="1",
 ))

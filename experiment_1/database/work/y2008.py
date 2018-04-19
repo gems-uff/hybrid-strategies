@@ -965,7 +965,6 @@ kulk2008a = DB(WorkUnrelated(
     eissn="1872-7964",
     unique_id="ISI:000259278600002",
     ID="ISI:000259278600002",
-    webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
     sciencedirect2015="1",
 ))

@@ -221,7 +221,6 @@ baskerville2011a = DB(WorkUnrelated(
     issn="0950-5849",
     unique_id="ISI:000288919900011",
     ID="ISI:000288919900011",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -424,7 +423,6 @@ chen2011a = DB(WorkUnrelated(
     issn="0360-1315",
     unique_id="ISI:000286682700025",
     ID="ISI:000286682700025",
-    webofscience2015="1",
     placex="COMPUTERS & EDUCATION",
     sciencedirect2015="1",
 ))
@@ -493,7 +491,6 @@ cruzes2011a = DB(WorkUnrelated(
     issn="0950-5849",
     unique_id="ISI:000288919900003",
     ID="ISI:000288919900003",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -902,7 +899,6 @@ jahangirian2011a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
     month="JUN",
     unique_id="ISI:000290836000007",
-    webofscience2015="1",
     sciencedirect2015="1",
 ))
 
@@ -1058,7 +1054,6 @@ khan2011a = DB(WorkUnrelated(
     eissn="1873-1228",
     unique_id="ISI:000288142500013",
     ID="ISI:000288142500013",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1271,7 +1266,6 @@ li2011a = DB(WorkUnrelated(
     editor="Deng, W",
     unique_id="ISI:000398850600074",
     ID="ISI:000398850600074",
-    webofscience2015="1",
     placex="2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY APPLICATION (AASRI-AIIA 2011), VOL 1",
     sciencedirect2015="1",
 ))
@@ -1552,7 +1546,6 @@ petersen2011b = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000288732700004",
     ID="ISI:000288732700004",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1660,7 +1653,6 @@ rabiser2011a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000286849700010",
     ID="ISI:000286849700010",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))

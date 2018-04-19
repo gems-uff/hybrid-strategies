@@ -480,7 +480,6 @@ ferreira2009a = DB(WorkUnrelated(
     month="OCT",
     unique_id="ISI:000270628100002",
     ID="ISI:000270628100002",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -770,7 +769,6 @@ khurum2009a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000272061000006",
     ID="ISI:000272061000006",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -1155,7 +1153,6 @@ niazi2009a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000267504500003",
     ID="ISI:000267504500003",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1638,7 +1635,6 @@ vavpotic2009a = DB(WorkUnrelated(
     issn="0950-5849",
     unique_id="ISI:000261919900021",
     ID="ISI:000261919900021",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))

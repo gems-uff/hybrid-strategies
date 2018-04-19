@@ -213,7 +213,6 @@ ibanez1996a = DB(WorkUnrelated(
     issn="1383-7621",
     unique_id="ISI:A1996WD91000004",
     ID="ISI:A1996WD91000004",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS ARCHITECTURE",
     sciencedirect2015="1",
 ))

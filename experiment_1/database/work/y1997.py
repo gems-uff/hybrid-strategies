@@ -359,7 +359,6 @@ mashiko1997a = DB(WorkUnrelated(
     month="JAN",
     unique_id="ISI:A1997VV22400003",
     ID="ISI:A1997VV22400003",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -470,7 +469,6 @@ shoval1997a = DB(WorkUnrelated(
     orcidnumbers="Shoval, Peretz/0000-0002-0183-2832",
     unique_id="ISI:000071584300001",
     ID="ISI:000071584300001",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))

@@ -703,7 +703,6 @@ jorgensen2001a = DB(WorkUnrelated(
     issn="0950-5849",
     unique_id="ISI:000173199900003",
     ID="ISI:000173199900003",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))

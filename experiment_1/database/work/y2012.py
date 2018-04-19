@@ -747,7 +747,6 @@ holl2012a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000305599200004",
     ID="ISI:000305599200004",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
     ))
@@ -786,7 +785,6 @@ islam2012a = DB(WorkUnrelated(
     doi="10.1016/j.future.2011.05.027",
     issn="0167-739X",
     unique_d="ISI:000295947900018",
-    webofscience2015="1",
     placex="FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
     sciencedirect2015="1",
 ))
@@ -1093,7 +1091,6 @@ lucio2012a = DB(WorkUnrelated(
     issn="0268-4012",
     unique_id="ISI:000312928800011",
     ID="ISI:000312928800011",
-    webofscience2015="1",
     placex="INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT",
     sciencedirect2015="1",
 ))
@@ -1417,7 +1414,6 @@ ng2012a = DB(WorkUnrelated(
     volume="57",
     unique_id="ISI:000393153400026",
     ID="ISI:000393153400026",
-    webofscience2015="1",
     placex="INTERNATIONAL CONFERENCE ON ASIA PACIFIC BUSINESS INNOVATION AND TECHNOLOGY MANAGEMENT",
     sciencedirect2015="1",
 ))
@@ -1636,8 +1632,7 @@ richardson2012a = DB(WorkUnrelated(
     issn="0950-5849",
     unique_id="ISI:000308387500002",
     ID="ISI:000308387500002",
-    webofscience2015="1",
-    placex="INFORMATION AND SOFTWARE TECHNOLOGY",
+   placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
 
@@ -2157,7 +2152,6 @@ woungang2012a = DB(WorkUnrelated(
     issn="0164-1212",
     unique_id="ISI:000304722300017",
     ID="ISI:000304722300017",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
@@ -2190,7 +2184,6 @@ zacarias2012a = DB(WorkUnrelated(
     volume="5",
     unique_id="ISI:000314469100026",
     ID="ISI:000314469100026",
-    webofscience2015="1",
     placex="4TH CONFERENCE OF ENTERPRISE INFORMATION SYSTEMS - ALIGNING TECHNOLOGY, ORGANIZATIONS AND PEOPLE (CENTERIS 2012)",
     sciencedirect2015="1",
 ))

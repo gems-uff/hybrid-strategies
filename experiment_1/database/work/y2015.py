@@ -74,7 +74,6 @@ aziz2015a = DB(WorkUnrelated(
     volume="46",
     unique_id="ISI:000360175900090",
     ID="ISI:000360175900090",
-    webofscience2015="1",
     placex="PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES, ICICT 2014",
     sciencedirect2015="1",
 ))
@@ -139,7 +138,6 @@ berssaneti2015a = DB(WorkUnrelated(
     eissn="1873-4634",
     unique_id="ISI:000350931100014",
     ID="ISI:000350931100014",
-    webofscience2015="1",
     placex="INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT",
     sciencedirect2015="1",
 ))
@@ -268,7 +266,6 @@ dolezel2015a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000356110100005",
     ID="ISI:000356110100005",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -394,7 +391,6 @@ garousi2015b = DB(WorkUnrelated(
     month="JAN",
     unique_id="ISI:000345947500037",
     ID="ISI:000345947500037",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -891,7 +887,6 @@ magalhaes2015a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000355365100006",
     ID="ISI:000355365100006",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -984,7 +979,6 @@ mesquida2015b = DB(WorkUnrelated(
     eissn="1872-7018",
     unique_id="ISI:000343633400009",
     ID="ISI:000343633400009",
-    webofscience2015="1",
     placex="COMPUTER STANDARDS & INTERFACES",
     sciencedirect2015="1",
 ))
@@ -1056,7 +1050,6 @@ ng2015a = DB(WorkUnrelated(
     eissn="1872-7964",
     unique_id="ISI:000350513600005",
     ID="ISI:000350513600005",
-    webofscience2015="1",
     placex="SCIENCE OF COMPUTER PROGRAMMING",
     sciencedirect2015="1",
 ))
@@ -1076,7 +1069,6 @@ nguyenduc2015a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000345947500016",
     ID="ISI:000345947500016",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1332,7 +1324,6 @@ ruiz2015a = DB(WorkUnrelated(
     eissn="1873-6025",
     unique_id="ISI:000349427200012",
     ID="ISI:000349427200012",
-    webofscience2015="1",
     placex="INFORMATION AND SOFTWARE TECHNOLOGY",
     sciencedirect2015="1",
 ))
@@ -1504,7 +1495,6 @@ tanriover2015a = DB(WorkUnrelated(
     eissn="1872-7018",
     unique_id="ISI:000343633400004",
     ID="ISI:000343633400004",
-    webofscience2015="1",
     placex="COMPUTER STANDARDS & INTERFACES",
     sciencedirect2015="1",
 ))
@@ -1656,7 +1646,6 @@ wohlin2015a = DB(WorkUnrelated(
     month="NOV",
     eissn="1873-1228",
     unique_id="ISI:000362137700017",
-    webofscience2015="1",
 ))
 
 wolfenstetter2015a = DB(WorkUnrelated(

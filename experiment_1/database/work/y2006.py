@@ -346,7 +346,6 @@ damm2006b = DB(WorkUnrelated(
     month="JUL",
     unique_id="ISI:000238790300011",
     ID="ISI:000238790300011",
-    webofscience2015="1",
     placex="JOURNAL OF SYSTEMS AND SOFTWARE",
     sciencedirect2015="1",
 ))
