@@ -1707,9 +1707,7 @@ stallinger2013a = DB(WorkSnowball(
     entrytype="inproceedings",
     organization="Springer",
     ID="stallinger2013development",
-    scholar="  ",
     placex="International Conference on Software Quality",
-    scholar_ok=True,
     selected_order="28",
     selected_snowballing="1",
 ))

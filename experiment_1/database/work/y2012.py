@@ -1127,11 +1127,12 @@ mandic2012a = DB(WorkUnrelated(
         (2012, "Measurement-based value alignment and reasoning about organizational goals", "V Mandić"),
     ],
     display="mandić",
-    authors="Mandić, Vladimir",
+    authors="Mandic, Vladimir",
     place=FAKE,
     entrytype="article",
     ID="alignmentascientiae",
     placex="",
+    _metakey="mandic2012a",
 ))
 
 mandić2012b = DB(WorkUnrelated(

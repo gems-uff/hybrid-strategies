@@ -89,12 +89,15 @@ config.WORK_BIBTEX_MAP = {
         "inproceedings": "booktitle",
         "misc": "booktitle",
         "article": "journal",
+        "conference": "inproceedings",
+        "inbook": "",
         "book": "",
         "mastersthesis": "",
         "phdthesis": "",
         "techreport": "",
+        "Thesis": "",
         "": ""
-    }[getattr(x, "entrytype", "")]
+    }.get(getattr(x, "entrytype", ""), "")
 }
 
 ### List of rows with form buttons (I suggest using no more than 4 per row)

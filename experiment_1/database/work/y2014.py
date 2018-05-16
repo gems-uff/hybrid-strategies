@@ -1972,7 +1972,7 @@ simões2014a = DB(WorkUnrelated(
 
 smite2014a = DB(WorkUnrelated(
     2014, "An empirically based terminology and taxonomy for global software engineering",
-    display="smite ",
+    display="smite",
     authors="Smite, Darja and Wohlin, Claes and Galvi{ņ}a, Zane and Prikladnicki, Rafael",
     place=ESE,
     pp="105--153",
@@ -2432,3 +2432,9 @@ zhang2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8328283334704392410&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
 ))
+
+
+from copy import copy
+for key, value in copy(locals()).items():
+    if isinstance(value, Work):
+        value.metakey = key
