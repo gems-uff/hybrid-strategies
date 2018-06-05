@@ -1,0 +1,2599 @@
+@article{acuna2009personality,
+  title={How do personality, team processes and task characteristics relate to job satisfaction and software quality?},
+  author={Acu{\~n}a, Silvia T and G{\'o}mez, Marta and Juristo, Natalia},
+  journal={Information and Software Technology},
+  volume={51},
+  number={3},
+  pages={627--639},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{baca2013countermeasure,
+  title={Countermeasure graphs for software security risk assessment: An action research},
+  author={Baca, Dejan and Petersen, Kai},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={9},
+  pages={2411--2428},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{melo2013interpretative,
+  title={Interpretative case studies on agile team productivity and management},
+  author={Melo, Claudia De O and Cruzes, Daniela S and Kon, Fabio and Conradi, Reidar},
+  journal={Information and Software Technology},
+  volume={55},
+  number={2},
+  pages={412--427},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{staats2011lean,
+  title={Lean principles, learning, and knowledge work: Evidence from a software services provider},
+  author={Staats, Bradley R and Brunner, David James and Upton, David M},
+  journal={Journal of operations management},
+  volume={29},
+  number={5},
+  pages={376--390},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{marsillac2014connecting,
+  title={Connecting product design, process and supply chain decisions to strengthen global supply chain capabilities},
+  author={Marsillac, Erika and Roh, James Jungbae},
+  journal={International Journal of Production Economics},
+  volume={147},
+  pages={317--329},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{olszewska2016quantitatively,
+  title={Quantitatively measuring a large-scale agile transformation},
+  author={Olszewska, Marta and Heidenberg, Jeanette and Weijola, Max and Mikkonen, Kirsi and Porres, Ivan},
+  journal={Journal of Systems and Software},
+  volume={117},
+  pages={258--273},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{bjarnason2016multi,
+  title={A multi-case study of agile requirements engineering and the use of test cases as requirements},
+  author={Bjarnason, Elizabeth and Unterkalmsteiner, Michael and Borg, Markus and Engstr{\"o}m, Emelie},
+  journal={Information and Software Technology},
+  volume={77},
+  pages={61--79},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{cao2005impact,
+  title={The impact of alignment between virtual enterprise and information technology on business performance in an agile manufacturing environment},
+  author={Cao, Qing and Dowlatshahi, Shad},
+  journal={Journal of Operations Management},
+  volume={23},
+  number={5},
+  pages={531--550},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{yang2016systematic,
+  title={A systematic mapping study on the combination of software architecture and agile development},
+  author={Yang, Chen and Liang, Peng and Avgeriou, Paris},
+  journal={Journal of Systems and Software},
+  volume={111},
+  pages={157--184},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{currie2003knowledge,
+  title={A knowledge-based risk assessment framework for evaluating web-enabled application outsourcing projects},
+  author={Currie, Wendy L},
+  journal={International Journal of Project Management},
+  volume={21},
+  number={3},
+  pages={207--217},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{gencel2013decision,
+  title={A decision support framework for metrics selection in goal-based measurement programs: GQM-DSFMS},
+  author={Gencel, Cigdem and Petersen, Kai and Mughal, Aftab Ahmad and Iqbal, Muhammad Imran},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={12},
+  pages={3091--3108},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{campanelli2015agile,
+  title={Agile methods tailoring--A systematic literature review},
+  author={Campanelli, Amadeu Silveira and Parreiras, Fernando Silva},
+  journal={Journal of Systems and Software},
+  volume={110},
+  pages={85--100},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{da2013team,
+  title={Team building criteria in software projects: A mix-method replicated study},
+  author={da Silva, Fabio QB and Fran{\c{c}}a, A C{\'e}sar C and Suassuna, Marcos and de Sousa Mariz, Leila MR and Rossiley, Isabella and de Miranda, Regina CG and Gouveia, Tatiana B and Monteiro, Cleviton VF and Lucena, Evisson and Cardozo, Elisa SF and others},
+  journal={Information and Software Technology},
+  volume={55},
+  number={7},
+  pages={1316--1340},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{panvcur2011impact,
+  title={Impact of test-driven development on productivity, code and tests: A controlled experiment},
+  author={Pan{\v{c}}ur, Matja{\v{z}} and Ciglari{\v{c}}, Mojca},
+  journal={Information and Software Technology},
+  volume={53},
+  number={6},
+  pages={557--573},
+  year={2011},
+  publisher={Elsevier}
+}
+
+
+@article{stettina2015agile,
+  title={Agile portfolio management: An empirical perspective on the practice in use},
+  author={Stettina, Christoph Johann and H{\"o}rz, Jeannette},
+  journal={International Journal of Project Management},
+  volume={33},
+  number={1},
+  pages={140--152},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{petersen2009comparison,
+  title={A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
+  author={Petersen, Kai and Wohlin, Claes},
+  journal={Journal of systems and software},
+  volume={82},
+  number={9},
+  pages={1479--1490},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{wang2016towards,
+  title={Towards a secured network virtualization},
+  author={Wang, Yang and Chau, Phanvu and Chen, Fuyu},
+  journal={Computer Networks},
+  volume={104},
+  pages={55--65},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{bygstad2008software,
+  title={Software development methods and usability: Perspectives from a survey in the software industry in Norway},
+  author={Bygstad, Bendik and Ghinea, Gheorghita and Brevik, Eivind},
+  journal={Interacting with computers},
+  volume={20},
+  number={3},
+  pages={375--385},
+  year={2008},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{baker2009warehouse,
+  title={Warehouse design: A structured approach},
+  author={Baker, Peter and Canessa, Marco},
+  journal={European Journal of Operational Research},
+  volume={193},
+  number={2},
+  pages={425--436},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{robbes2007change,
+  title={A change-based approach to software evolution},
+  author={Robbes, Romain and Lanza, Michele},
+  journal={Electronic Notes in Theoretical Computer Science},
+  volume={166},
+  pages={93--109},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{ebert2008effectively,
+  title={Effectively utilizing project, product and process knowledge},
+  author={Ebert, Christof and De Man, Jozef},
+  journal={Information and Software Technology},
+  volume={50},
+  number={6},
+  pages={579--594},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{hamdan2015quality,
+  title={A quality framework for software continuous integration},
+  author={Hamdan, Saba and Alramouni, Suad},
+  journal={Procedia Manufacturing},
+  volume={3},
+  pages={2019--2025},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{neto2013design,
+  title={A design rule language for aspect-oriented programming},
+  author={Neto, Alberto Costa and Bonif{\'a}cio, Rodrigo and Ribeiro, M{\'a}rcio and Pontual, Carlos Eduardo and Borba, Paulo and Castor, Fernando},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={9},
+  pages={2333--2356},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{strode2012coordination,
+  title={Coordination in co-located agile software development projects},
+  author={Strode, Diane E and Huff, Sid L and Hope, Beverley and Link, Sebastian},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={6},
+  pages={1222--1238},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{heikkila2015operational,
+  title={Operational release planning in large-scale Scrum with multiple stakeholders--A longitudinal case study at F-Secure Corporation},
+  author={Heikkil{\"a}, Ville T and Paasivaara, Maria and Rautiainen, Kristian and Lassenius, Casper and Toivola, Towo and J{\"a}rvinen, Janne},
+  journal={Information and Software Technology},
+  volume={57},
+  pages={116--140},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{femmer2017rapid,
+  title={Rapid quality assurance with requirements smells},
+  author={Femmer, Henning and Fern{\'a}ndez, Daniel M{\'e}ndez and Wagner, Stefan and Eder, Sebastian},
+  journal={Journal of Systems and Software},
+  volume={123},
+  pages={190--213},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{fagerholm2017right,
+  title={The RIGHT model for continuous experimentation},
+  author={Fagerholm, Fabian and Guinea, Alejandro Sanchez and M{\"a}enp{\"a}{\"a}, Hanna and M{\"u}nch, J{\"u}rgen},
+  journal={Journal of Systems and Software},
+  volume={123},
+  pages={292--305},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{browning2009reconceptualizing,
+  title={Reconceptualizing the effects of lean on production costs with evidence from the F-22 program},
+  author={Browning, Tyson R and Heath, Ralph D},
+  journal={Journal of Operations Management},
+  volume={27},
+  number={1},
+  pages={23--44},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{engstrom2011software,
+  title={Software product line testing--a systematic mapping study},
+  author={Engstr{\"o}m, Emelie and Runeson, Per},
+  journal={Information and Software Technology},
+  volume={53},
+  number={1},
+  pages={2--13},
+  year={2011},
+  publisher={Elsevier}
+}
+
+
+@article{yu2014understanding,
+  title={Understanding agile software development practices using shared mental models theory},
+  author={Yu, Xiaodan and Petter, Stacie},
+  journal={Information and Software Technology},
+  volume={56},
+  number={8},
+  pages={911--921},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{rivero2014mockup,
+  title={Mockup-driven development: providing agile support for model-driven web engineering},
+  author={Rivero, Jos{\'e} Mat{\'\i}as and Grigera, Juli{\'a}n and Rossi, Gustavo and Luna, Esteban Robles and Montero, Francisco and Gaedke, Martin},
+  journal={Information and Software Technology},
+  volume={56},
+  number={6},
+  pages={670--687},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{escalona2013detecting,
+  title={Detecting Web requirements conflicts and inconsistencies under a model-based perspective},
+  author={Escalona, M Jos{\'e} and Urbieta, Matias and Rossi, Gustavo and Garcia-Garcia, JA and Luna, E Robles},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={12},
+  pages={3024--3038},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{diaz2014agile,
+  title={Agile product-line architecting in practice: A case study in smart grids},
+  author={D{\'\i}az, Jessica and P{\'e}rez, Jennifer and Garbajosa, Juan},
+  journal={Information and Software Technology},
+  volume={56},
+  number={7},
+  pages={727--748},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{cruzes2011research,
+  title={Research synthesis in software engineering: A tertiary study},
+  author={Cruzes, Daniela S and Dyb{\aa}, Tore},
+  journal={Information and Software Technology},
+  volume={53},
+  number={5},
+  pages={440--455},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{serrador2015does,
+  title={Does Agile work?—A quantitative analysis of agile project success},
+  author={Serrador, Pedro and Pinto, Jeffrey K},
+  journal={International Journal of Project Management},
+  volume={33},
+  number={5},
+  pages={1040--1051},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{misra2009identifying,
+  title={Identifying some important success factors in adopting agile software development practices},
+  author={Misra, Subhas Chandra and Kumar, Vinod and Kumar, Uma},
+  journal={Journal of Systems and Software},
+  volume={82},
+  number={11},
+  pages={1869--1890},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{hatonen2009making,
+  title={Making the locational choice: A case approach to the development of a theory of offshore outsourcing and internationalization},
+  author={H{\"a}t{\"o}nen, Jussi},
+  journal={Journal of International Management},
+  volume={15},
+  number={1},
+  pages={61--76},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{golfarelli2013multi,
+  title={Multi-sprint planning and smooth replanning: An optimization model},
+  author={Golfarelli, Matteo and Rizzi, Stefano and Turricchia, Elisa},
+  journal={Journal of systems and software},
+  volume={86},
+  number={9},
+  pages={2357--2370},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{turner2010project,
+  title={Project management in small to medium-sized enterprises: Matching processes to the nature of the firm},
+  author={Turner, Rodney and Ledwith, Ann and Kelly, John},
+  journal={International journal of project management},
+  volume={28},
+  number={8},
+  pages={744--755},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{scott2016towards,
+  title={Towards better Scrum learning using learning styles},
+  author={Scott, Ezequiel and Rodr{\'\i}guez, Guillermo and Soria, {\'A}lvaro and Campo, Marcelo},
+  journal={Journal of Systems and Software},
+  volume={111},
+  pages={242--253},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{mettler2010agile,
+  title={Agile autonomous guidance using spatial value functions},
+  author={Mettler, B and Dadkhah, N and Kong, Z},
+  journal={Control Engineering Practice},
+  volume={18},
+  number={7},
+  pages={773--788},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{martins2016requirements,
+  title={Requirements engineering for safety-critical systems: A systematic literature review},
+  author={Martins, Luiz Eduardo G and Gorschek, Tony},
+  journal={Information and software technology},
+  volume={75},
+  pages={71--89},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{stankovic2013survey,
+  title={A survey study of critical success factors in agile software projects in former Yugoslavia IT companies},
+  author={Stankovic, Dragan and Nikolic, Vesna and Djordjevic, Miodrag and Cao, Dac-Buu},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={6},
+  pages={1663--1678},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{wang2004product,
+  title={Product-driven supply chain selection using integrated multi-criteria decision-making methodology},
+  author={Wang, Ge and Huang, Samuel H and Dismukes, John P},
+  journal={International journal of production economics},
+  volume={91},
+  number={1},
+  pages={1--15},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{hasan2012agility,
+  title={Agility and production flow layouts: An analytical decision analysis},
+  author={Hasan, Mohd Asif and Sarkis, Joseph and Shankar, Ravi},
+  journal={Computers \& Industrial Engineering},
+  volume={62},
+  number={4},
+  pages={898--907},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{lane2012soadapt,
+  title={SOAdapt: A process reference model for developing adaptable service-based applications},
+  author={Lane, Stephen and Bucchiarone, Antonio and Richardson, Ita},
+  journal={Information and Software Technology},
+  volume={54},
+  number={3},
+  pages={299--316},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{larusdottir2017license,
+  title={A license to kill--Improving UCSD in Agile development},
+  author={Larusdottir, Marta and Gulliksen, Jan and Cajander, {\AA}sa},
+  journal={Journal of Systems and Software},
+  volume={123},
+  pages={214--222},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{sauser2009projects,
+  title={Why projects fail? How contingency theory can provide new insights--A comparative analysis of NASA’s Mars Climate Orbiter loss},
+  author={Sauser, Brian J and Reilly, Richard R and Shenhar, Aaron J},
+  journal={International Journal of Project Management},
+  volume={27},
+  number={7},
+  pages={665--679},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{reyes2016strengths,
+  title={The strengths and weaknesses of software architecture design in the rup, msf, mbase and rup-soa methodologies: A conceptual review},
+  author={Reyes-Delgado, Paola Y and Mora, Manuel and Duran-Limon, Hector A and Rodr{\'\i}guez-Mart{\'\i}nez, Laura C and O'Connor, Rory V and Mendoza-Gonzalez, Ricardo},
+  journal={Computer Standards \& Interfaces},
+  volume={47},
+  pages={24--41},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{koh2011drivers,
+  title={Drivers, barriers and critical success factors for ERPII implementation in supply chains: A critical analysis},
+  author={Koh, SC Lenny and Gunasekaran, Angappa and Goodman, T},
+  journal={The Journal of Strategic Information Systems},
+  volume={20},
+  number={4},
+  pages={385--402},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{bichou2006review,
+  title={Review of port performance approaches and a supply chain framework to port performance benchmarking},
+  author={Bichou, Khalid},
+  journal={Research in Transportation Economics},
+  volume={17},
+  pages={567--598},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{ricca2009using,
+  title={Using acceptance tests as a support for clarifying requirements: A series of experiments},
+  author={Ricca, Filippo and Torchiano, Marco and Di Penta, Massimiliano and Ceccato, Mariano and Tonella, Paolo},
+  journal={Information and Software Technology},
+  volume={51},
+  number={2},
+  pages={270--283},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{yli2016software,
+  title={How do software development teams manage technical debt?--An empirical study},
+  author={Yli-Huumo, Jesse and Maglyas, Andrey and Smolander, Kari},
+  journal={Journal of Systems and Software},
+  volume={120},
+  pages={195--218},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{dittrich2016does,
+  title={What does it mean to use a method? Towards a practice theory for software engineering},
+  author={Dittrich, Yvonne},
+  journal={Information and Software Technology},
+  volume={70},
+  pages={220--231},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{du2015pareto,
+  title={A Pareto supplier selection algorithm for minimum the life cycle cost of complex product system},
+  author={Du, Baigang and Guo, Shunsheng and Huang, Xiaorong and Li, Yibing and Guo, Jun},
+  journal={Expert Systems with Applications},
+  volume={42},
+  number={9},
+  pages={4253--4264},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{baykasouglu2008application,
+  title={Application of activity-based costing to a land transportation company: A case study},
+  author={Baykaso{\u{g}}lu, Adil and Kaplano{\u{g}}lu, Vahit},
+  journal={International Journal of Production Economics},
+  volume={116},
+  number={2},
+  pages={308--324},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{garousi2010experience,
+  title={Experience and challenges with UML-driven performance engineering of a Distributed Real-Time System},
+  author={Garousi, Vahid},
+  journal={Information and Software Technology},
+  volume={52},
+  number={6},
+  pages={625--640},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{kristianto2014model,
+  title={A model of resilient supply chain network design: A two-stage programming with fuzzy shortest path},
+  author={Kristianto, Yohanes and Gunasekaran, Angappa and Helo, Petri and Hao, Yuqiuqe},
+  journal={Expert Systems with Applications},
+  volume={41},
+  number={1},
+  pages={39--49},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{klas2008use,
+  title={The use of simulation techniques for hybrid software cost estimation and risk analysis},
+  author={Kl{\"a}s, Michael and Trendowicz, Adam and Wickenkamp, Axel and M{\"u}nch, J{\"u}rgen and Kikuchi, Nahomi and Ishigai, Yasushi},
+  journal={Advances in computers},
+  volume={74},
+  pages={115--174},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{bano2015systematic,
+  title={A systematic review on the relationship between user involvement and system success},
+  author={Bano, Muneera and Zowghi, Didar},
+  journal={Information and Software Technology},
+  volume={58},
+  pages={148--169},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{choi2008exploring,
+  title={Exploring the underlying aspects of pair programming: The impact of personality},
+  author={Choi, Kyungsub S and Deek, Fadi P and Im, Il},
+  journal={Information and Software Technology},
+  volume={50},
+  number={11},
+  pages={1114--1126},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{mulebeke2006analytical,
+  title={Analytical network process for software selection in product development: A case study},
+  author={Mulebeke, James AW and Zheng, Li},
+  journal={Journal of Engineering and Technology Management},
+  volume={23},
+  number={4},
+  pages={337--352},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{stegaru2013quality,
+  title={Quality Management in Sensing Enterprise: Requirements for quality driven manufacturing},
+  author={Stegaru, G and Moisescu, MA and Sacala, IS and Costetchi, N},
+  journal={IFAC Proceedings Volumes},
+  volume={46},
+  number={9},
+  pages={1316--1321},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{ovaska2010knowledge,
+  title={Knowledge based quality-driven architecture design and evaluation},
+  author={Ovaska, Eila and Evesti, Antti and Henttonen, Katja and Palviainen, Marko and Aho, Pekka},
+  journal={Information and Software Technology},
+  volume={52},
+  number={6},
+  pages={577--601},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{conforto2016agility,
+  title={The agility construct on project management theory},
+  author={Conforto, Edivandro Carlos and Amaral, Daniel Capaldo and da Silva, Sergio Luis and Di Felippo, Ariani and Kamikawachi, Dayse Simon L},
+  journal={International Journal of Project Management},
+  volume={34},
+  number={4},
+  pages={660--674},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{sherehiy2007review,
+  title={A review of enterprise agility: Concepts, frameworks, and attributes},
+  author={Sherehiy, Bohdana and Karwowski, Waldemar and Layer, John K},
+  journal={International Journal of industrial ergonomics},
+  volume={37},
+  number={5},
+  pages={445--460},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{perkusich2015procedure,
+  title={A procedure to detect problems of processes in software development projects using Bayesian networks},
+  author={Perkusich, Mirko and Soares, Gustavo and Almeida, Hyggo and Perkusich, Angelo},
+  journal={Expert Systems with Applications},
+  volume={42},
+  number={1},
+  pages={437--450},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{bach2014optimization,
+  title={Optimization Model of Agile Team's Cohesion},
+  author={Bach-D{\k{a}}browska, Irena and Pawlewski, Pawe{\l}},
+  journal={Procedia Computer Science},
+  volume={35},
+  pages={1577--1585},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{fornaro2007reflections,
+  title={Reflections on 10 years of sponsored senior design projects: Students win--clients win!},
+  author={Fornaro, Robert J and Heil, Margaret R and Tharp, Alan L},
+  journal={Journal of Systems and Software},
+  volume={80},
+  number={8},
+  pages={1209--1216},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{torrecilla2016agile,
+  title={Agile, Web Engineering and Capability Maturity Model Integration: A systematic literature review.},
+  author={Torrecilla-Salinas, CJ and Sede{\~n}o, Jorge and Escalona, MJ and Mej{\'\i}as, Manuel},
+  journal={Information and Software Technology},
+  volume={71},
+  pages={92--107},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{ntabe2015systematic,
+  title={A systematic literature review of the supply chain operations reference (SCOR) model application with special attention to environmental issues},
+  author={Ntabe, Eric N and LeBel, Luc and Munson, Alison D and Santa-Eulalia, Luis-Antonio},
+  journal={International Journal of Production Economics},
+  volume={169},
+  pages={310--332},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{suomalainen2011software,
+  title={Software product roadmapping in a volatile business environment},
+  author={Suomalainen, Tanja and Salo, Outi and Abrahamsson, Pekka and Simil{\"a}, Jouni},
+  journal={Journal of Systems and Software},
+  volume={84},
+  number={6},
+  pages={958--975},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{jalali2014investigating,
+  title={Investigating the applicability of agility assessment surveys: A case study},
+  author={Jalali, Samireh and Wohlin, Claes and Angelis, Lefteris},
+  journal={Journal of Systems and Software},
+  volume={98},
+  pages={172--190},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{shrivastava2014risks,
+  title={Risks in distributed agile development: A review},
+  author={Shrivastava, Suprika Vasudeva and Rathod, Urvashi},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={133},
+  pages={417--424},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{cicmil2006rethinking,
+  title={Rethinking project management: researching the actuality of projects},
+  author={Cicmil, Svetlana and Williams, Terry and Thomas, Janice and Hodgson, Damian},
+  journal={International journal of project management},
+  volume={24},
+  number={8},
+  pages={675--686},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{naim2011leanness,
+  title={On leanness, agility and leagile supply chains},
+  author={Naim, Mohamed M and Gosling, Jonathan},
+  journal={International Journal of Production Economics},
+  volume={131},
+  number={1},
+  pages={342--354},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{kakar2015investigating,
+  title={Investigating the penalty reward calculus of software users and its impact on requirements prioritization},
+  author={Kakar, Adarsh Kumar},
+  journal={Information and Software Technology},
+  volume={65},
+  pages={56--68},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{gustavsson2014rethinking,
+  title={Rethinking dichotomization: A critical perspective on the use of “hard” and “soft” in project management research},
+  author={Gustavsson, Tina Karrbom and Hallin, Anette},
+  journal={International Journal of Project Management},
+  volume={32},
+  number={4},
+  pages={568--577},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{ali2014systematic,
+  title={A systematic literature review on the industrial use of software process simulation},
+  author={Ali, Nauman Bin and Petersen, Kai and Wohlin, Claes},
+  journal={Journal of Systems and Software},
+  volume={97},
+  pages={65--85},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{silva2015using,
+  title={Using CMMI together with agile software development: A systematic review},
+  author={Silva, Fernando Selleri and Soares, Felipe Santana Furtado and Peres, Angela Lima and de Azevedo, Ivanildo Monteiro and Vasconcelos, Ana Paula LF and Kamei, Fernando Kenji and de Lemos Meira, Silvio Romero},
+  journal={Information and Software Technology},
+  volume={58},
+  pages={20--43},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{torrecilla2015estimating,
+  title={Estimating, planning and managing Agile Web development projects under a value-based perspective},
+  author={Torrecilla-Salinas, CJ and Sede{\~n}o, Jorge and Escalona, MJ and Mej{\'\i}as, Manuel},
+  journal={Information and Software Technology},
+  volume={61},
+  pages={124--144},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{elverum2015use,
+  title={On the use of directional and incremental prototyping in the development of high novelty products: Two case studies in the automotive industry},
+  author={Elverum, Christer W and Welo, Torgeir},
+  journal={Journal of engineering and technology management},
+  volume={38},
+  pages={71--88},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{fontana2015progressive,
+  title={Progressive Outcomes: A framework for maturing in agile software development},
+  author={Fontana, Rafaela Mantovani and Meyer Jr, Victor and Reinehr, Sheila and Malucelli, Andreia},
+  journal={Journal of Systems and Software},
+  volume={102},
+  pages={88--108},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{portillo2012tools,
+  title={Tools used in Global Software Engineering: A systematic mapping review},
+  author={Portillo-Rodr{\'\i}guez, Javier and Vizca{\'\i}no, Aurora and Piattini, Mario and Beecham, Sarah},
+  journal={Information and Software Technology},
+  volume={54},
+  number={7},
+  pages={663--685},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{floricel2016complexity,
+  title={Complexity, uncertainty-reduction strategies, and project performance},
+  author={Floricel, Serghei and Michela, John L and Piperca, Sorin},
+  journal={International Journal of Project Management},
+  volume={34},
+  number={7},
+  pages={1360--1383},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{fontana2014processes,
+  title={Processes versus people: How should agile software development maturity be defined?},
+  author={Fontana, Rafaela Mantovani and Fontana, Isabela Mantovani and da Rosa Garbuio, Paula Andrea and Reinehr, Sheila and Malucelli, Andreia},
+  journal={Journal of Systems and Software},
+  volume={97},
+  pages={140--155},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{dittes2011language,
+  title={A language for formal design of embedded intelligence research systems},
+  author={Dittes, Benjamin and Goerick, Christian},
+  journal={Robotics and Autonomous Systems},
+  volume={59},
+  number={3-4},
+  pages={181--193},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{da2014software,
+  title={Software product line scoping and requirements engineering in a small and medium-sized enterprise: An industrial case study},
+  author={Da Silva, Ivonei Freitas and Neto, Paulo Anselmo da Mota Silveira and O’Leary, P{\'a}draig and De Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero},
+  journal={Journal of Systems and Software},
+  volume={88},
+  pages={189--206},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{schneider2013solutions,
+  title={Solutions in global software engineering: A systematic literature review},
+  author={Schneider, Stefan and Torkar, Richard and Gorschek, Tony},
+  journal={International Journal of Information Management},
+  volume={33},
+  number={1},
+  pages={119--132},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{jimenez2015pursuit,
+  title={The pursuit of responsiveness in production environments: From flexibility to reconfigurability},
+  author={Jimenez, Cesar H Ortega and Machuca, Jose AD and Garrido-Vega, Pedro and Filippini, Roberto},
+  journal={International Journal of Production Economics},
+  volume={163},
+  pages={157--172},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{kirk2012lightweight,
+  title={A lightweight framework for describing software practices},
+  author={Kirk, Diana and Tempero, Ewan},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={3},
+  pages={582--595},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{bajo2009integrating,
+  title={Integrating case-based planning and RPTW neural networks to construct an intelligent environment for health care},
+  author={Bajo, Javier and de Paz, Juan F and de Paz, Yanira and Corchado, Juan M},
+  journal={Expert Systems with Applications},
+  volume={36},
+  number={3},
+  pages={5844--5858},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{ali2016software,
+  title={Software outsourcing partnership model: An evaluation framework for vendor organizations},
+  author={Ali, Sikandar and Khan, Siffat Ullah},
+  journal={Journal of systems and software},
+  volume={117},
+  pages={402--425},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{drury2014performance,
+  title={Performance on agile teams: Relating iteration objectives and critical decisions to project management success factors},
+  author={Drury-Grogan, Meghann L},
+  journal={Information and Software Technology},
+  volume={56},
+  number={5},
+  pages={506--515},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{moe2010teamwork,
+  title={A teamwork model for understanding an agile team: A case study of a Scrum project},
+  author={Moe, Nils Brede and Dings{\o}yr, Torgeir and Dyb{\aa}, Tore},
+  journal={Information and Software Technology},
+  volume={52},
+  number={5},
+  pages={480--491},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{staron2016mesram,
+  title={Mesram--a method for assessing robustness of measurement programs in large software development organizations and its industrial evaluation},
+  author={Staron, Miroslaw and Meding, Wilhelm},
+  journal={Journal of Systems and Software},
+  volume={113},
+  pages={76--100},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{szHoke2011conceptual,
+  title={Conceptual scheduling model and optimized release scheduling for agile environments},
+  author={Sz{\H{o}}ke, {\'A}kos},
+  journal={Information and software technology},
+  volume={53},
+  number={6},
+  pages={574--591},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{laguna2013systematic,
+  title={A systematic mapping study on software product line evolution: From legacy system reengineering to product line refactoring},
+  author={Laguna, Miguel A and Crespo, Yania},
+  journal={Science of Computer Programming},
+  volume={78},
+  number={8},
+  pages={1010--1034},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{staron2010method,
+  title={A method for forecasting defect backlog in large streamline software development projects and its industrial evaluation},
+  author={Staron, Miroslaw and Meding, Wilhelm and S{\"o}derqvist, Bo},
+  journal={Information and Software Technology},
+  volume={52},
+  number={10},
+  pages={1069--1079},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{bauer2016comparing,
+  title={Comparing reuse practices in two large software-producing companies},
+  author={Bauer, Veronika and others},
+  journal={Journal of Systems and Software},
+  volume={117},
+  pages={545--582},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{conde2014implementation,
+  title={Implementation and design of a service-based framework to integrate personal and institutional learning environments},
+  author={Conde, Miguel {\'A} and Garc{\'\i}a-Pe{\~n}alvo, Francisco and Alier, Marc and Mayol, Enric and Fern{\'a}ndez-Llamas, Camino},
+  journal={Science of Computer Programming},
+  volume={88},
+  pages={41--53},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{andrade2013architectural,
+  title={An architectural model for software testing lesson learned systems},
+  author={Andrade, Javier and Ares, Juan and Mart{\'\i}nez, Mar{\'\i}a-Aurora and Pazos, Juan and Rodr{\'\i}guez, Santiago and Romera, Julio and Su{\'a}rez, Sonia},
+  journal={Information and Software Technology},
+  volume={55},
+  number={1},
+  pages={18--34},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{pinheiro2013dealing,
+  title={Dealing the selection of project management through hybrid model of verbal decision analysis},
+  author={Pinheiro, Pl{\'a}cido Rogerio and Machado, Thais Cristina Sampaio and Tamanini, Isabelle},
+  journal={Procedia Computer Science},
+  volume={17},
+  pages={332--339},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{bjarnason2012you,
+  title={Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering},
+  author={Bjarnason, Elizabeth and Wnuk, Krzysztof and Regnell, Bj{\"o}rn},
+  journal={Information and Software Technology},
+  volume={54},
+  number={10},
+  pages={1107--1124},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{wendler2012maturity,
+  title={The maturity of maturity model research: A systematic mapping study},
+  author={Wendler, Roy},
+  journal={Information and software technology},
+  volume={54},
+  number={12},
+  pages={1317--1339},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{daneva2013agile,
+  title={Agile requirements prioritization in large-scale outsourced system projects: An empirical study},
+  author={Daneva, Maya and Van Der Veen, Egbert and Amrit, Chintan and Ghaisas, Smita and Sikkel, Klaas and Kumar, Ramesh and Ajmeri, Nirav and Ramteerthkar, Uday and Wieringa, Roel},
+  journal={Journal of systems and software},
+  volume={86},
+  number={5},
+  pages={1333--1353},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{zimmermann2012reference,
+  title={Reference architecture, metamodel, and modeling principles for architectural knowledge management in information technology services},
+  author={Zimmermann, Olaf and Miksovic, Christoph and K{\"u}ster, Jochen M},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={9},
+  pages={2014--2033},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{khan2011barriers,
+  title={Barriers in the selection of offshore software development outsourcing vendors: An exploratory study using a systematic literature review},
+  author={Khan, Siffat Ullah and Niazi, Mahmood and Ahmad, Rashid},
+  journal={Information and Software Technology},
+  volume={53},
+  number={7},
+  pages={693--706},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{rana2016analyzing,
+  title={Analyzing defect inflow distribution and applying Bayesian inference method for software defect prediction in large software projects},
+  author={Rana, Rakesh and Staron, Miroslaw and Berger, Christian and Hansson, J{\"o}rgen and Nilsson, Martin and Meding, Wilhelm},
+  journal={Journal of Systems and Software},
+  volume={117},
+  pages={229--244},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{francca2014motivation,
+  title={Motivation in software engineering industrial practice: A cross-case analysis of two software organisations},
+  author={Fran{\c{c}}a, A C{\'e}sar C and Da Silva, Fabio QB and de LC Felix, Adelnei and Carneiro, David ES},
+  journal={Information and Software Technology},
+  volume={56},
+  number={1},
+  pages={79--101},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{ghobadi2015drives,
+  title={What drives knowledge sharing in software development teams: A literature review and classification framework},
+  author={Ghobadi, Shahla},
+  journal={Information \& Management},
+  volume={52},
+  number={1},
+  pages={82--97},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{ben2012supplier,
+  title={Supplier ranking by multi-alternative proposal analysis for agile projects},
+  author={Ben-David, Arie and Gelbard, Roy and Milstein, Irena},
+  journal={International Journal of Project Management},
+  volume={30},
+  number={6},
+  pages={723--730},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{gunasekaran2006information,
+  title={Information technology and systems justification: A review for research and applications},
+  author={Gunasekaran, Angappa and Ngai, Eric WT and McGAUGHEY, Ronald E},
+  journal={European Journal of Operational Research},
+  volume={173},
+  number={3},
+  pages={957--983},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{grapenthin2015improving,
+  title={Improving task breakdown comprehensiveness in agile projects with an Interaction Room},
+  author={Grapenthin, Simon and Poggel, Steven and Book, Matthias and Gruhn, Volker},
+  journal={Information and Software Technology},
+  volume={67},
+  pages={254--264},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{franken2015cloudteams,
+  title={CloudTeams: Bridging the gap between developers and customers during software development processes},
+  author={Franken, Sebastian and Kolvenbach, Sabine and Prinz, Wolfgang and Alvertis, Iosif and Koussouris, Sotiris},
+  journal={Procedia Computer Science},
+  volume={68},
+  pages={188--195},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{hoda2016multi,
+  title={Multi-level agile project management challenges: A self-organizing team perspective},
+  author={Hoda, Rashina and Murugesan, Latha K},
+  journal={Journal of Systems and Software},
+  volume={117},
+  pages={245--257},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{pane2015capability,
+  title={Capability Maturity Model Integration (CMMI) for Optimizing Object-Oriented Analysis and Design (OOAD)},
+  author={Pane, Evi Septiana and Sarno, Riyanarto},
+  journal={Procedia Computer Science},
+  volume={72},
+  pages={40--48},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{eloranta2016exploring,
+  title={Exploring ScrumBut—An empirical study of Scrum anti-patterns},
+  author={Eloranta, Veli-Pekka and Koskimies, Kai and Mikkonen, Tommi},
+  journal={Information and Software Technology},
+  volume={74},
+  pages={194--203},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{gregory2016challenges,
+  title={The challenges that challenge: Engaging with agile practitioners’ concerns},
+  author={Gregory, Peggy and Barroca, Leonor and Sharp, Helen and Deshpande, Advait and Taylor, Katie},
+  journal={Information and Software Technology},
+  volume={77},
+  pages={92--104},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{pierreval2003evolutionary,
+  title={Evolutionary approaches to the design and organization of manufacturing systems},
+  author={Pierreval, Henri and Caux, C and Paris, JL and Viguier, F},
+  journal={Computers \& Industrial Engineering},
+  volume={44},
+  number={3},
+  pages={339--364},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{baxter2011socio,
+  title={Socio-technical systems: From design methods to systems engineering},
+  author={Baxter, Gordon and Sommerville, Ian},
+  journal={Interacting with computers},
+  volume={23},
+  number={1},
+  pages={4--17},
+  year={2011},
+  publisher={Oxford University Press}
+}
+
+@article{ali2016flow,
+  title={FLOW-assisted value stream mapping in the early phases of large-scale software development},
+  author={Ali, Nauman Bin and Petersen, Kai and Schneider, Kurt},
+  journal={Journal of Systems and Software},
+  volume={111},
+  pages={213--227},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{vlaanderen2011agile,
+  title={The agile requirements refinery: Applying SCRUM principles to software product management},
+  author={Vlaanderen, Kevin and Jansen, Slinger and Brinkkemper, Sjaak and Jaspers, Erik},
+  journal={Information and software technology},
+  volume={53},
+  number={1},
+  pages={58--70},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{dybaa2008empirical,
+  title={Empirical studies of agile software development: A systematic review},
+  author={Dyb{\aa}, Tore and Dings{\o}yr, Torgeir},
+  journal={Information and software technology},
+  volume={50},
+  number={9-10},
+  pages={833--859},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{binder2014project,
+  title={The project management cocktail model: An approach for balancing agile and ISO 21500},
+  author={Binder, Jean and Aillaud, Leon IV and Schilli, Lionel},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={119},
+  pages={182--191},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{mansor2013empirical,
+  title={Empirical Study of Cost Management Success Determinants in Agile Based Software Development Project: A Rasch Measurement Model Analysis},
+  author={Mansor, Zulkefli and Yahya, Saadiah and Arshad, Noor Habibah},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={107},
+  pages={129--135},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{pareto2012collaborative,
+  title={Collaborative prioritization of architectural concerns},
+  author={Pareto, Lars and Sandberg, Anna B{\"o}rjesson and Eriksson, Peter and Ehnebom, Staffan},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={9},
+  pages={1971--1994},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{damm2006results,
+  title={Results from introducing component-level test automation and test-driven development},
+  author={Damm, Lars-Ola and Lundberg, Lars},
+  journal={Journal of Systems and Software},
+  volume={79},
+  number={7},
+  pages={1001--1014},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{agh2016pattern,
+  title={A pattern-based model-driven approach for situational method engineering},
+  author={Agh, Halimeh and Ramsin, Raman},
+  journal={Information and Software Technology},
+  volume={78},
+  pages={95--120},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{da2015using,
+  title={Using a multi-method approach to understand Agile software product lines},
+  author={Da Silva, Ivonei Freitas and Neto, Paulo Anselmo da Mota Silveira and O’Leary, P{\'a}draig and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero},
+  journal={Information and Software Technology},
+  volume={57},
+  pages={527--542},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{pardo2013chaos,
+  title={From chaos to the systematic harmonization of multiple reference models: A harmonization framework applied in two case studies},
+  author={Pardo, C{\'e}Sar and Pino, Francisco J and Garcia, F{\'e}Lix and Baldassarre, Maria Teresa and Piattini, Mario},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={1},
+  pages={125--143},
+  year={2013},
+  publisher={Elsevier}
+}
+
+
+@article{miranda2010agile,
+  title={Agile monitoring using the line of balance},
+  author={Miranda, Eduardo and Bourque, Pierre},
+  journal={Journal of Systems and Software},
+  volume={83},
+  number={7},
+  pages={1205--1215},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{pernstaal2013lean,
+  title={The lean gap: A review of lean approaches to large-scale software systems development},
+  author={Pernst{\aa}l, Joakim and Feldt, Robert and Gorschek, Tony},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={11},
+  pages={2797--2821},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{carvalho2012supply,
+  title={Supply chain redesign for resilience using simulation},
+  author={Carvalho, Helena and Barroso, Ana P and Machado, Virg{\'\i}nia H and Azevedo, Susana and Cruz-Machado, Virgilio},
+  journal={Computers \& Industrial Engineering},
+  volume={62},
+  number={1},
+  pages={329--341},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{do2015practices,
+  title={Practices in Project Management According to Charles Handy's Organizational Culture Typologies},
+  author={do Carmo Silva, Marcela and Gomes, Carlos Francisco Sim{\~o}es},
+  journal={Procedia Computer Science},
+  volume={55},
+  pages={678--687},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{petersen2014reasons,
+  title={Reasons for bottlenecks in very large-scale system of systems development},
+  author={Petersen, Kai and Khurum, Mahvish and Angelis, Lefteris},
+  journal={Information and Software Technology},
+  volume={56},
+  number={10},
+  pages={1403--1420},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{tarhan2014systematic,
+  title={Systematic analyses and comparison of development performance and product quality of Incremental Process and Agile Process},
+  author={Tarhan, Ayca and Yilmaz, Seda Gunes},
+  journal={Information and Software Technology},
+  volume={56},
+  number={5},
+  pages={477--494},
+  year={2014},
+  publisher={Elsevier}
+}
+
+
+@article{li2015systematic,
+  title={A systematic mapping study on technical debt and its management},
+  author={Li, Zengyang and Avgeriou, Paris and Liang, Peng},
+  journal={Journal of Systems and Software},
+  volume={101},
+  pages={193--220},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{jorgensen2016incorrect,
+  title={Incorrect results in software engineering experiments: How to improve research practices},
+  author={J{\o}rgensen, Magne and Dyb{\aa}, Tore and Liest{\o}l, Knut and Sj{\o}berg, Dag IK},
+  journal={Journal of Systems and Software},
+  volume={116},
+  pages={133--145},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{van2013does,
+  title={Does decision documentation help junior designers rationalize their decisions? A comparative multiple-case study},
+  author={van Heesch, Uwe and Avgeriou, Paris and Tang, Antony},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={6},
+  pages={1545--1565},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{hansson2006agile,
+  title={How agile are industrial software development practices?},
+  author={Hansson, Christina and Dittrich, Yvonne and Gustafsson, Bj{\"o}rn and Zarnak, Stefan},
+  journal={Journal of Systems and Software},
+  volume={79},
+  number={9},
+  pages={1295--1311},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{afzal2016software,
+  title={Software test process improvement approaches: A systematic literature review and an industrial case study},
+  author={Afzal, Wasif and Alone, Snehal and Glocksien, Kerstin and Torkar, Richard},
+  journal={Journal of Systems and Software},
+  volume={111},
+  pages={1--33},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{petersen2011measuring,
+  title={Measuring and predicting software productivity: A systematic map and review},
+  author={Petersen, Kai},
+  journal={Information and Software Technology},
+  volume={53},
+  number={4},
+  pages={317--343},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{kupiainen2015using,
+  title={Using metrics in Agile and Lean Software Development--A systematic literature review of industrial studies},
+  author={Kupiainen, Eetu and M{\"a}ntyl{\"a}, Mika V and Itkonen, Juha},
+  journal={Information and Software Technology},
+  volume={62},
+  pages={143--163},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{bissi2016effects,
+  title={The effects of test driven development on internal quality, external quality and productivity: A systematic review},
+  author={Bissi, Wilson and Neto, Adolfo Gustavo Serra Seca and Emer, Maria Claudia Figueiredo Pereira},
+  journal={Information and Software Technology},
+  volume={74},
+  pages={45--54},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{wale2015integrating,
+  title={Integrating usability work into a large inter-organisational agile development project: Tactics developed by usability designers},
+  author={Wale-Kolade, Adeola Yetunde},
+  journal={Journal of Systems and Software},
+  volume={100},
+  pages={54--66},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{ruohonen2015sigmoidal,
+  title={The sigmoidal growth of operating system security vulnerabilities: an empirical revisit},
+  author={Ruohonen, Jukka and Hyrynsalmi, Sami and Lepp{\"a}nen, Ville},
+  journal={Computers \& Security},
+  volume={55},
+  pages={1--20},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{youngberg2009determinants,
+  title={Determinants of professionally autonomous end user acceptance in an enterprise resource planning system environment},
+  author={Youngberg, Elaine and Olsen, David and Hauser, Karina},
+  journal={International journal of information management},
+  volume={29},
+  number={2},
+  pages={138--144},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@misc{dittrich2007special,
+  title={For the special issue on qualitative software engineering research},
+  author={Dittrich, Yvonne and John, Michael and Singer, Janice and Tessem, Bj{\o}rnar},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{joubert2015accelerated,
+  title={Accelerated application development: The ORNL Titan experience},
+  author={Joubert, Wayne and Archibald, Rick and Berrill, Mark and Brown, W Michael and Eisenbach, Markus and Grout, Ray and Larkin, Jeff and Levesque, John and Messer, Bronson and Norman, Matt and others},
+  journal={Computers \& Electrical Engineering},
+  volume={46},
+  pages={123--138},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+@article{ika2014learning,
+  title={Learning from international development projects: blending critical project studies and critical development studies},
+  author={Ika, Lavagnon A and Hodgson, Damian},
+  journal={International Journal of Project Management},
+  volume={32},
+  number={7},
+  pages={1182--1196},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{hannan2011analysis,
+  title={Analysis of the collaborative activities in software development processes from the perspective of chronotopes},
+  author={Hannan, Mohammad},
+  journal={Computers in Human Behavior},
+  volume={27},
+  number={1},
+  pages={248--267},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{unterkalmsteiner2015assessing,
+  title={Assessing requirements engineering and software test alignment—Five case studies},
+  author={Unterkalmsteiner, Michael and Gorschek, Tony and Feldt, Robert and Klotins, Eriks},
+  journal={Journal of systems and software},
+  volume={109},
+  pages={62--77},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{shen2011assessing,
+  title={Assessing PSP effect in training disciplined software development: A Plan--Track--Review model},
+  author={Shen, Wen-Hsiang and Hsueh, Nien-Lin and Lee, Wei-Mann},
+  journal={Information and Software Technology},
+  volume={53},
+  number={2},
+  pages={137--148},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{schneider2005extreme,
+  title={eXtreme Programming----helpful or harmful in educating undergraduates?},
+  author={Schneider, Jean-Guy and Johnston, Lorraine},
+  journal={Journal of Systems and Software},
+  volume={74},
+  number={2},
+  pages={121--132},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{dowlatshahi2006relationships,
+  title={The relationships among virtual enterprise, information technology, and business performance in agile manufacturing: An industry perspective},
+  author={Dowlatshahi, Shad and Cao, Qing},
+  journal={European journal of operational research},
+  volume={174},
+  number={2},
+  pages={835--860},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{plonka2015knowledge,
+  title={Knowledge transfer in pair programming: An in-depth analysis},
+  author={Plonka, Laura and Sharp, Helen and Van der Linden, Janet and Dittrich, Yvonne},
+  journal={International journal of human-computer studies},
+  volume={73},
+  pages={66--78},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{karhu2009investigating,
+  title={Investigating the relationship between schedules and knowledge transfer in software testing},
+  author={Karhu, Katja and Taipale, Ossi and Smolander, Kari},
+  journal={Information and Software Technology},
+  volume={51},
+  number={3},
+  pages={663--677},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{heaton2015claims,
+  title={Claims about the use of software engineering practices in science: A systematic literature review},
+  author={Heaton, Dustin and Carver, Jeffrey C},
+  journal={Information and Software Technology},
+  volume={67},
+  pages={207--219},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{hauksdottir2014identified,
+  title={Identified adjustability dimensions when generating a product specific requirements specification by requirements reuse},
+  author={Hauksd{\'o}ttir, Dagn{\`y} and Mortensen, Niels Henrik and Nielsen, Poul Erik},
+  journal={Computers in Industry},
+  volume={65},
+  number={6},
+  pages={952--966},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{gupta2013usage,
+  title={The usage and adoption of cloud computing by small and medium businesses},
+  author={Gupta, Prashant and Seetharaman, Arumugam and Raj, John Rudolph},
+  journal={International Journal of Information Management},
+  volume={33},
+  number={5},
+  pages={861--874},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{vlietland2016aligning,
+  title={Aligning codependent Scrum teams to enable fast business value delivery: A governance framework and set of intervention actions},
+  author={Vlietland, Jan and Van Solingen, Rini and van Vliet, Hans},
+  journal={Journal of Systems and Software},
+  volume={113},
+  pages={418--429},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{dikert2016challenges,
+  title={Challenges and success factors for large-scale agile transformations: A systematic literature review},
+  author={Dikert, Kim and Paasivaara, Maria and Lassenius, Casper},
+  journal={Journal of Systems and Software},
+  volume={119},
+  pages={87--108},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{bogers2016additive,
+  title={Additive manufacturing for consumer-centric business models: Implications for supply chains in consumer goods manufacturing},
+  author={Bogers, Marcel and Hadar, Ronen and Bilberg, Arne},
+  journal={Technological Forecasting and Social Change},
+  volume={102},
+  pages={225--239},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{hasani2016robust,
+  title={Robust global supply chain network design under disruption and uncertainty considering resilience strategies: A parallel memetic algorithm for a real-life case study},
+  author={Hasani, Aliakbar and Khosrojerdi, Amirhossein},
+  journal={Transportation Research Part E: Logistics and Transportation Review},
+  volume={87},
+  pages={20--52},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{haselberger2016literature,
+  title={A literature-based framework of performance-related leadership interactions in ICT project teams},
+  author={Haselberger, David},
+  journal={Information and Software Technology},
+  volume={70},
+  pages={1--17},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{bottani2010profile,
+  title={Profile and enablers of agile companies: An empirical investigation},
+  author={Bottani, Eleonora},
+  journal={International Journal of Production Economics},
+  volume={125},
+  number={2},
+  pages={251--261},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{dolevzel2015test,
+  title={Test Governance Framework for contracted IS development: Ethnographically informed action research},
+  author={Dole{\v{z}}el, Michal and Buchalcevov{\'a}, Alena},
+  journal={Information and Software Technology},
+  volume={65},
+  pages={69--94},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{kazman2006essential,
+  title={The essential components of software architecture design and analysis},
+  author={Kazman, Rick and Bass, Len and Klein, Mark},
+  journal={Journal of Systems and Software},
+  volume={79},
+  number={8},
+  pages={1207--1216},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{fucci2015towards,
+  title={Towards an operationalization of test-driven development skills: An industrial empirical study},
+  author={Fucci, Davide and Turhan, Burak and Juristo, Natalia and Dieste, Oscar and Tosun-Misirli, Ayse and Oivo, Markku},
+  journal={Information and Software Technology},
+  volume={68},
+  pages={82--97},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{hurtado2013mde,
+  title={MDE software process lines in small companies},
+  author={Hurtado, Julio Ariel and Bastarrica, Mar{\'\i}a Cecilia and Ochoa, Sergio F and Simmonds, Jocelyn},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={5},
+  pages={1153--1171},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{lucae2014understanding,
+  title={Understanding the front-end of large-scale engineering programs},
+  author={Lucae, Sebastian and Rebentisch, Eric and Oehmen, Josef},
+  journal={Procedia Computer Science},
+  volume={28},
+  pages={653--662},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{barney2014software,
+  title={Software quality across borders: Three case studies on company internal alignment},
+  author={Barney, Sebastian and Mohankumar, Varun and Chatzipetrou, Panagiota and Aurum, Aybuke and Wohlin, Claes and Angelis, Lefteris},
+  journal={Information and Software Technology},
+  volume={56},
+  number={1},
+  pages={20--38},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{canete2013influential,
+  title={How influential has academic and industrial research been in current software life cycles? A retrospective analysis of four mainstream activities},
+  author={Ca{\~n}ete-Valde{\'o}n, Jos{\'e} Miguel},
+  journal={Information and Software Technology},
+  volume={55},
+  number={2},
+  pages={226--240},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{mohagheghi2009definitions,
+  title={Definitions and approaches to model quality in model-based software development--A review of literature},
+  author={Mohagheghi, Parastoo and Dehlen, Vegard and Neple, Tor},
+  journal={Information and Software Technology},
+  volume={51},
+  number={12},
+  pages={1646--1669},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{ryan2013acquiring,
+  title={Acquiring and sharing tacit knowledge in software development teams: An empirical study},
+  author={Ryan, Sharon and O’Connor, Rory V},
+  journal={Information and Software Technology},
+  volume={55},
+  number={9},
+  pages={1614--1624},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{van2013agile,
+  title={When agile meets the enterprise},
+  author={Van Waardenburg, Guus and Van Vliet, Hans},
+  journal={Information and software technology},
+  volume={55},
+  number={12},
+  pages={2154--2171},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{gasparic2016recommendation,
+  title={What recommendation systems for software engineering recommend: A systematic literature review},
+  author={Gasparic, Marko and Janes, Andrea},
+  journal={Journal of Systems and Software},
+  volume={113},
+  pages={101--113},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{rana2014selecting,
+  title={Selecting software reliability growth models and improving their predictive accuracy using historical projects data},
+  author={Rana, Rakesh and Staron, Miroslaw and Berger, Christian and Hansson, J{\"o}rgen and Nilsson, Martin and T{\"o}rner, Fredrik and Meding, Wilhelm and H{\"o}glund, Christoffer},
+  journal={Journal of Systems and Software},
+  volume={98},
+  pages={59--78},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{soomro2016effect,
+  title={The effect of software engineers’ personality traits on team climate and performance: A Systematic Literature Review},
+  author={Soomro, Arjumand Bano and Salleh, Norsaremah and Mendes, Emilia and Grundy, John and Burch, Giles and Nordin, Azlin},
+  journal={Information and software technology},
+  volume={73},
+  pages={52--65},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{paasivaara2014communities,
+  title={Communities of practice in a large distributed agile software development organization--Case Ericsson},
+  author={Paasivaara, Maria and Lassenius, Casper},
+  journal={Information and Software Technology},
+  volume={56},
+  number={12},
+  pages={1556--1577},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{munir2014considering,
+  title={Considering rigor and relevance when evaluating test driven development: A systematic review},
+  author={Munir, Hussan and Moayyed, Misagh and Petersen, Kai},
+  journal={Information and Software Technology},
+  volume={56},
+  number={4},
+  pages={375--394},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{brhel2015exploring,
+  title={Exploring principles of user-centered agile software development: A literature review},
+  author={Brhel, Manuel and Meth, Hendrik and Maedche, Alexander and Werder, Karl},
+  journal={Information and Software Technology},
+  volume={61},
+  pages={163--181},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{chuang2014assessment,
+  title={Assessment of institutions, scholars, and contributions on agile software development (2001--2012)},
+  author={Chuang, Sun-Wen and Luor, Tainyi and Lu, Hsi-Peng},
+  journal={Journal of Systems and Software},
+  volume={93},
+  pages={84--101},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{kettunen2005steer,
+  title={How to steer an embedded software project: tactics for selecting the software process model},
+  author={Kettunen, Petri and Laanti, Maarit},
+  journal={Information and Software Technology},
+  volume={47},
+  number={9},
+  pages={587--608},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{nowotarski2015barriers,
+  title={Barriers in running construction SME--case study on introduction of agile methodology to electrical subcontractor},
+  author={Nowotarski, Piotr and Paslawski, Jerzy},
+  journal={Procedia Engineering},
+  volume={122},
+  pages={47--56},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{hussain2016framework,
+  title={A framework for supply chain sustainability in service industry with Confirmatory Factor Analysis},
+  author={Hussain, Matloub and Khan, Mehmood and Al-Aomar, Raid},
+  journal={Renewable and Sustainable Energy Reviews},
+  volume={55},
+  pages={1301--1312},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{nurdiani2016impacts,
+  title={The impacts of agile and lean practices on project constraints: A tertiary study},
+  author={Nurdiani, Indira and B{\"o}rstler, J{\"u}rgen and Fricker, Samuel A},
+  journal={Journal of Systems and Software},
+  volume={119},
+  pages={162--183},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{assmann2004towards,
+  title={Towards partnership in software subcontracting},
+  author={Assmann, Danilo and Punter, Teade},
+  journal={Computers in industry},
+  volume={54},
+  number={2},
+  pages={137--150},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{rodriguez2017continuous,
+  title={Continuous deployment of software intensive products and services: A systematic mapping study},
+  author={Rodr{\'\i}guez, Pilar and Haghighatkhah, Alireza and Lwakatare, Lucy Ellen and Teppola, Susanna and Suomalainen, Tanja and Eskeli, Juho and Karvonen, Teemu and Kuvaja, Pasi and Verner, June M and Oivo, Markku},
+  journal={Journal of Systems and Software},
+  volume={123},
+  pages={263--291},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{drury2012obstacles,
+  title={Obstacles to decision making in Agile software development teams},
+  author={Drury, Meghann and Conboy, Kieran and Power, Ken},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={6},
+  pages={1239--1254},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{alves2016identification,
+  title={Identification and management of technical debt: A systematic mapping study},
+  author={Alves, Nicolli SR and Mendes, Thiago S and de Mendon{\c{c}}a, Manoel G and Sp{\'\i}nola, Rodrigo O and Shull, Forrest and Seaman, Carolyn},
+  journal={Information and Software Technology},
+  volume={70},
+  pages={100--121},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{berger2007agile,
+  title={Agile development in a bureaucratic arena—A case study experience},
+  author={Berger, Hilary},
+  journal={International Journal of Information Management},
+  volume={27},
+  number={6},
+  pages={386--396},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{zhen2012analytical,
+  title={An analytical study on service-oriented manufacturing strategies},
+  author={Zhen, Lu},
+  journal={International Journal of Production Economics},
+  volume={139},
+  number={1},
+  pages={220--228},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{buyukozkan2009supplier,
+  title={Supplier Selection in an Agile Supply Chain Environment using Fuzzy Axiomatic Design Approach},
+  author={B{\"u}y{\"u}k{\"o}zkan, G{\"u}l{\c{c}}in and Arsenyan, Jbid},
+  journal={IFAC Proceedings Volumes},
+  volume={42},
+  number={4},
+  pages={840--845},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{hwang2015mediating,
+  title={Mediating effect of IT-enabled capabilities on competitive performance outcomes: An empirical investigation of ERP implementation},
+  author={Hwang, David and Yang, Ma Ga Mark and Hong, Paul},
+  journal={Journal of Engineering and Technology Management},
+  volume={36},
+  pages={1--23},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{sommer2014barriers,
+  title={Barriers towards integrated product development—Challenges from a holistic project management perspective},
+  author={Sommer, Anita Friis and Dukovska-Popovska, Iskra and Steger-Jensen, Kenn},
+  journal={International Journal of Project Management},
+  volume={32},
+  number={6},
+  pages={970--982},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{senapathi2012understanding,
+  title={Understanding post-adoptive agile usage: An exploratory cross-case analysis},
+  author={Senapathi, Mali and Srinivasan, Ananth},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={6},
+  pages={1255--1268},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{mckay2007evolution,
+  title={The evolution of a production planning system: A 10-year case study},
+  author={McKay, Kenneth N and Black, Gary W},
+  journal={Computers in Industry},
+  volume={58},
+  number={8-9},
+  pages={756--771},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{qureshi2008reusable,
+  title={A reusable software component-based development process model},
+  author={Qureshi, M Rizwan Jameel and Hussain, SA},
+  journal={Advances in engineering software},
+  volume={39},
+  number={2},
+  pages={88--94},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{christopoulou2012automated,
+  title={Automated refactoring to the Strategy design pattern},
+  author={Christopoulou, Aikaterini and Giakoumakis, Emmanouel A and Zafeiris, Vassilis E and Soukara, Vasiliki},
+  journal={Information and Software Technology},
+  volume={54},
+  number={11},
+  pages={1202--1214},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{lutters2007revealing,
+  title={Revealing actual documentation usage in software maintenance through war stories},
+  author={Lutters, Wayne G and Seaman, Carolyn B},
+  journal={Information and Software Technology},
+  volume={49},
+  number={6},
+  pages={576--587},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{pino2010assessment,
+  title={Assessment methodology for software process improvement in small organizations},
+  author={Pino, Francisco J and Pardo, C{\'e}sar and Garc{\'\i}a, F{\'e}lix and Piattini, Mario},
+  journal={Information and Software Technology},
+  volume={52},
+  number={10},
+  pages={1044--1061},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{delgado2014integrated,
+  title={An integrated approach based on execution measures for the continuous improvement of business processes realized by services},
+  author={Delgado, Andrea and Weber, Barbara and Ruiz, Francisco and De Guzm{\'a}n, Ignacio Garcia-Rodr{\'\i}guez and Piattini, Mario},
+  journal={Information and Software Technology},
+  volume={56},
+  number={2},
+  pages={134--162},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{paternoster2014software,
+  title={Software development in startup companies: A systematic mapping study},
+  author={Paternoster, Nicol{\`o} and Giardino, Carmine and Unterkalmsteiner, Michael and Gorschek, Tony and Abrahamsson, Pekka},
+  journal={Information and Software Technology},
+  volume={56},
+  number={10},
+  pages={1200--1218},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{clarke2012situational,
+  title={The situational factors that affect the software development process: Towards a comprehensive reference framework},
+  author={Clarke, Paul and O’Connor, Rory V},
+  journal={Information and Software Technology},
+  volume={54},
+  number={5},
+  pages={433--447},
+  year={2012},
+  publisher={Elsevier}
+}
+
+
+@article{conforto2016agile,
+  title={Agile project management and stage-gate model—A hybrid framework for technology-based companies},
+  author={Conforto, Edivandro C and Amaral, Daniel C},
+  journal={Journal of Engineering and Technology Management},
+  volume={40},
+  pages={1--14},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{andre2011formal,
+  title={Formal model for assigning human resources to teams in software projects},
+  author={Andr{\'e}, Margarita and Baldoqu{\'\i}n, Mar{\'\i}a G and Acu{\~n}a, Silvia T},
+  journal={Information and Software Technology},
+  volume={53},
+  number={3},
+  pages={259--275},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{iivari2011relationship,
+  title={The relationship between organizational culture and the deployment of agile methods},
+  author={Iivari, Juhani and Iivari, Netta},
+  journal={Information and Software Technology},
+  volume={53},
+  number={5},
+  pages={509--520},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{clark2004selecting,
+  title={Selecting components in large COTS repositories},
+  author={Clark, Justin and Clarke, Chris and De Panfilis, Stefano and Granatella, Giampiero and Predonzani, Paolo and Sillitti, Alberto and Succi, Giancarlo and Vernazza, Tullio},
+  journal={Journal of Systems and Software},
+  volume={73},
+  number={2},
+  pages={323--331},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{verner2014risks,
+  title={Risks and risk mitigation in global software development: A tertiary study},
+  author={Verner, June M and Brereton, O Pearl and Kitchenham, Barbara A and Turner, Mahmood and Niazi, Mahmood},
+  journal={Information and Software Technology},
+  volume={56},
+  number={1},
+  pages={54--78},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{ryan2009development,
+  title={Development of a team measure for tacit knowledge in software development teams},
+  author={Ryan, Sharon and O’connor, Rory V},
+  journal={Journal of Systems and Software},
+  volume={82},
+  number={2},
+  pages={229--240},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{bjarnason2016theory,
+  title={A theory of distances in software engineering},
+  author={Bjarnason, Elizabeth and Smolander, Kari and Engstr{\"o}m, Emelie and Runeson, Per},
+  journal={Information and Software Technology},
+  volume={70},
+  pages={204--219},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{salini2012survey,
+  title={Survey and analysis on security requirements engineering},
+  author={Salini, P and Kanmani, S},
+  journal={Computers \& Electrical Engineering},
+  volume={38},
+  number={6},
+  pages={1785--1797},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{lopez2015systematic,
+  title={A systematic mapping study of search-based software engineering for software product lines},
+  author={Lopez-Herrejon, Roberto E and Linsbauer, Lukas and Egyed, Alexander},
+  journal={Information and software technology},
+  volume={61},
+  pages={33--51},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{shao2014organizing,
+  title={Organizing knowledge workforce for specified iterative software development tasks},
+  author={Shao, Benjamin BM and Yin, Peng-Yeng and Chen, Andrew NK},
+  journal={Decision Support Systems},
+  volume={59},
+  pages={15--27},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{kovacs2003planning,
+  title={A planning and management infrastructure for large, complex, distributed projects—beyond ERP and SCM},
+  author={Kov{\'a}cs, George L and Paganelli, Paolo},
+  journal={Computers in Industry},
+  volume={51},
+  number={2},
+  pages={165--183},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{hesse2016documented,
+  title={Documented decision-making strategies and decision knowledge in open source projects: An empirical study on Firefox issue reports},
+  author={Hesse, Tom-Michael and Lerche, Veronika and Seiler, Marcus and Knoess, Konstantin and Paech, Barbara},
+  journal={Information and Software Technology},
+  volume={79},
+  pages={36--51},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{li2011recent,
+  title={Recent development of knowledge-based systems, methods and tools for One-of-a-Kind Production},
+  author={Li, BM and Xie, SQ and Xu, X},
+  journal={Knowledge-Based Systems},
+  volume={24},
+  number={7},
+  pages={1108--1119},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{tate2012environmental,
+  title={Environmental purchasing and supplier management (EPSM): Theory and practice},
+  author={Tate, Wendy L and Ellram, Lisa M and Dooley, Kevin J},
+  journal={Journal of Purchasing and Supply Management},
+  volume={18},
+  number={3},
+  pages={173--188},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{alzoubi2016empirical,
+  title={Empirical studies of geographically distributed agile development communication challenges: A systematic review},
+  author={Alzoubi, Yehia Ibrahim and Gill, Asif Qumer and Al-Ani, Ahmed},
+  journal={Information \& Management},
+  volume={53},
+  number={1},
+  pages={22--37},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{becker2015besouro,
+  title={Besouro: A framework for exploring compliance rules in automatic TDD behavior assessment},
+  author={Becker, Karin and Pedroso, Bruno de Souza Costa and Pimenta, Marcelo Soares and Jacobi, Ricardo Pezzuol},
+  journal={Information and Software Technology},
+  volume={57},
+  pages={494--508},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{ganguly2009evaluating,
+  title={Evaluating agility in corporate enterprises},
+  author={Ganguly, Anirban and Nilchiani, Roshanak and Farr, John V},
+  journal={International Journal of Production Economics},
+  volume={118},
+  number={2},
+  pages={410--423},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{magdaleno2012reconciling,
+  title={Reconciling software development models: A quasi-systematic review},
+  author={Magdaleno, Andr{\'e}a Magalh{\~a}es and Werner, Cl{\'a}udia Maria Lima and De Araujo, Renata Mendes},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={2},
+  pages={351--369},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{cedergren2014evaluating,
+  title={Evaluating performance in the development of software-intensive products},
+  author={Cedergren, Stefan and Larsson, Stig},
+  journal={Information and Software Technology},
+  volume={56},
+  number={5},
+  pages={516--526},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{musa2014supply,
+  title={Supply chain product visibility: Methods, systems and impacts},
+  author={Musa, Ahmed and Gunasekaran, Angappa and Yusuf, Yahaya},
+  journal={Expert Systems with Applications},
+  volume={41},
+  number={1},
+  pages={176--194},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{ampatzoglou2015financial,
+  title={The financial aspect of managing technical debt: A systematic literature review},
+  author={Ampatzoglou, Areti and Ampatzoglou, Apostolos and Chatzigeorgiou, Alexander and Avgeriou, Paris},
+  journal={Information and Software Technology},
+  volume={64},
+  pages={52--73},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{stavru2014critical,
+  title={A critical examination of recent industrial surveys on agile method usage},
+  author={Stavru, Stavros},
+  journal={Journal of Systems and Software},
+  volume={94},
+  pages={87--97},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{vlietland2015towards,
+  title={Towards a governance framework for chains of Scrum teams},
+  author={Vlietland, Jan and van Vliet, Hans},
+  journal={Information and Software Technology},
+  volume={57},
+  pages={52--65},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{wang2012leagile,
+  title={“Leagile” software development: An experience report analysis of the application of lean approaches in agile software development},
+  author={Wang, Xiaofeng and Conboy, Kieran and Cawley, Oisin},
+  journal={Journal of Systems and Software},
+  volume={85},
+  number={6},
+  pages={1287--1299},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{fagerholm2015performance,
+  title={Performance Alignment Work: How software developers experience the continuous adaptation of team performance in Lean and Agile environments},
+  author={Fagerholm, Fabian and Ikonen, Marko and Kettunen, Petri and M{\"u}nch, J{\"u}rgen and Roto, Virpi and Abrahamsson, Pekka},
+  journal={Information and Software Technology},
+  volume={64},
+  pages={132--147},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{fayoumi2016ecosystem,
+  title={Ecosystem-inspired enterprise modelling framework for collaborative and networked manufacturing systems},
+  author={Fayoumi, Amjad},
+  journal={Computers in Industry},
+  volume={80},
+  pages={54--68},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{elmoselhy2013hybrid,
+  title={Hybrid lean--agile manufacturing system technical facet, in automotive sector},
+  author={Elmoselhy, Salah AM},
+  journal={Journal of Manufacturing Systems},
+  volume={32},
+  number={4},
+  pages={598--619},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{velez2008management,
+  title={Management control systems as inter-organizational trust builders in evolving relationships: Evidence from a longitudinal case study},
+  author={V{\'e}lez, Maria L and S{\'a}nchez, Jos{\'e} M and {\'A}lvarez-Dardet, Concha},
+  journal={Accounting, Organizations and Society},
+  volume={33},
+  number={7-8},
+  pages={968--994},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{sheffield2013factors,
+  title={Factors associated with the software development agility of successful projects},
+  author={Sheffield, Jim and Lem{\'e}tayer, Julien},
+  journal={International Journal of Project Management},
+  volume={31},
+  number={3},
+  pages={459--472},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{canfora2007evaluating,
+  title={Evaluating performances of pair designing in industry},
+  author={Canfora, Gerardo and Cimitile, Aniello and Garcia, Felix and Piattini, Mario and Visaggio, Corrado Aaron},
+  journal={Journal of Systems and Software},
+  volume={80},
+  number={8},
+  pages={1317--1327},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{schnetzler2007decomposition,
+  title={A decomposition-based approach for the development of a supply chain strategy},
+  author={Schnetzler, Matthias J and Sennheiser, Andreas and Sch{\"o}nsleben, Paul},
+  journal={International Journal of Production Economics},
+  volume={105},
+  number={1},
+  pages={21--42},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{noor2008agile,
+  title={Agile product line planning: A collaborative approach and a case study},
+  author={Noor, Muhammad A and Rabiser, Rick and Gr{\"u}nbacher, Paul},
+  journal={Journal of Systems and Software},
+  volume={81},
+  number={6},
+  pages={868--882},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{greer2004software,
+  title={Software release planning: an evolutionary and iterative approach},
+  author={Greer, Des and Ruhe, Guenther},
+  journal={Information and software technology},
+  volume={46},
+  number={4},
+  pages={243--253},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{de2009secure,
+  title={On the secure software development process: CLASP, SDL and Touchpoints compared},
+  author={De Win, Bart and Scandariato, Riccardo and Buyens, Koen and Gr{\'e}goire, Johan and Joosen, Wouter},
+  journal={Information and software technology},
+  volume={51},
+  number={7},
+  pages={1152--1171},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{giuffrida2015conceptual,
+  title={A conceptual framework to study the role of communication through social software for coordination in globally-distributed software teams},
+  author={Giuffrida, Rosalba and Dittrich, Yvonne},
+  journal={Information and Software Technology},
+  volume={63},
+  pages={11--30},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{mellado2010systematic,
+  title={A systematic review of security requirements engineering},
+  author={Mellado, Daniel and Blanco, Carlos and S{\'a}nchez, Luis E and Fern{\'a}ndez-Medina, Eduardo},
+  journal={Computer Standards \& Interfaces},
+  volume={32},
+  number={4},
+  pages={153--165},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{watcharapanyawong2011model,
+  title={A model of mass customization for engineering production system development in textile and apparel industries in thailand},
+  author={Watcharapanyawong, Kornthip and Sirisoponsilp, Sompong and Sophatsathit, Peraphon},
+  journal={Systems Engineering Procedia},
+  volume={2},
+  pages={382--397},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{walk2015apply,
+  title={How to apply markov chains for modeling sequential edit patterns in collaborative ontology-engineering projects},
+  author={Walk, Simon and Singer, Philipp and Strohmaier, Markus and Helic, Denis and Noy, Natalya F and Musen, Mark A},
+  journal={International Journal of Human-Computer Studies},
+  volume={84},
+  pages={51--66},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{garza2015lean,
+  title={Lean and green--a systematic review of the state of the art literature},
+  author={Garza-Reyes, Jose Arturo},
+  journal={Journal of Cleaner Production},
+  volume={102},
+  pages={18--29},
+  year={2015},
+  publisher={Elsevier}
+}

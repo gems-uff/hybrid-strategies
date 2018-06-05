@@ -1,0 +1,153 @@
+digraph "PROV" { size="16,12"; rankdir="RL"; ranksep="0.1"; 
+"http://example.org/backward4" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="backward4",URL="http://example.org/backward4"]
+"-attrs0" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">found:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs0" -> "http://example.org/backward4" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/backward3" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="backward3",URL="http://example.org/backward3"]
+"-attrs1" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">found:</TD>
+	    <TD align="left">26</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">1</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs1" -> "http://example.org/backward3" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/forward2" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="forward2",URL="http://example.org/forward2"]
+"-attrs2" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">found:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">0</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs2" -> "http://example.org/forward2" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/forward1" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="forward1",URL="http://example.org/forward1"]
+"-attrs3" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">found:</TD>
+	    <TD align="left">69</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">1</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs3" -> "http://example.org/forward1" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/start" [fillcolor="#9FB1FC",color="#0000FF",shape="polygon",sides="4",style="filled",label="start",URL="http://example.org/start"]
+"http://example.org/s4" [fillcolor="#FFFC87",color="#808080",style="filled",label="s4",URL="http://example.org/s4"]
+"-attrs4" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">type:</TD>
+	    <TD align="left">Set</TD>
+	</TR>
+	<TR>
+	    <TD align="left">visited:</TD>
+	    <TD align="left">99</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">4</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs4" -> "http://example.org/s4" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/s3" [fillcolor="#FFFC87",color="#808080",style="filled",label="s3",URL="http://example.org/s3"]
+"-attrs5" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">type:</TD>
+	    <TD align="left">Set</TD>
+	</TR>
+	<TR>
+	    <TD align="left">visited:</TD>
+	    <TD align="left">99</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">4</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs5" -> "http://example.org/s3" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/s2" [fillcolor="#FFFC87",color="#808080",style="filled",label="s2",URL="http://example.org/s2"]
+"-attrs6" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">type:</TD>
+	    <TD align="left">Set</TD>
+	</TR>
+	<TR>
+	    <TD align="left">visited:</TD>
+	    <TD align="left">73</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">3</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs6" -> "http://example.org/s2" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/s1" [fillcolor="#FFFC87",color="#808080",style="filled",label="s1",URL="http://example.org/s1"]
+"-attrs7" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">type:</TD>
+	    <TD align="left">Set</TD>
+	</TR>
+	<TR>
+	    <TD align="left">visited:</TD>
+	    <TD align="left">73</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">3</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs7" -> "http://example.org/s1" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/s0" [fillcolor="#FFFC87",color="#808080",style="filled",label="s0",URL="http://example.org/s0"]
+"-attrs8" [color="gray",shape="note",fontsize="10",fontcolor="black",label=<<TABLE cellpadding="0" border="0">
+	<TR>
+	    <TD align="left">type:</TD>
+	    <TD align="left">Set</TD>
+	</TR>
+	<TR>
+	    <TD align="left">visited:</TD>
+	    <TD align="left">4</TD>
+	</TR>
+	<TR>
+	    <TD align="left">related:</TD>
+	    <TD align="left">2</TD>
+	</TR>
+    </TABLE>>
+]
+"-attrs8" -> "http://example.org/s0" [color="gray",style="dashed",arrowhead="none"]
+"http://example.org/backward4" -> "http://example.org/s3" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
+"http://example.org/s4" -> "http://example.org/backward4" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
+"http://example.org/s4" -> "http://example.org/s3" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
+"http://example.org/backward3" -> "http://example.org/s2" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
+"http://example.org/s3" -> "http://example.org/backward3" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
+"http://example.org/s3" -> "http://example.org/s2" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
+"http://example.org/forward2" -> "http://example.org/s1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
+"http://example.org/s2" -> "http://example.org/forward2" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
+"http://example.org/s2" -> "http://example.org/s1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
+"http://example.org/forward1" -> "http://example.org/s0" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="use"]
+"http://example.org/s1" -> "http://example.org/forward1" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
+"http://example.org/s1" -> "http://example.org/s0" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="der"]
+"http://example.org/s0" -> "http://example.org/start" [labelfontsize="8",labeldistance="1.5",labelangle="60.0",rotation="20",taillabel="gen"]
+}
