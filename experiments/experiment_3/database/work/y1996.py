@@ -56,3 +56,18 @@ doheny1996d = DB(WorkUnrelated(
     gs2016="1",
     placex="",
 ))
+
+gasston1996a = DB(WorkUnrelated(
+    1996, "Process improvement: an alternative to BPR for software development organizations",
+    display="gasston",
+    authors="Gasston, JL",
+    place=SQJ,
+    pp="171--183",
+    entrytype="article",
+    volume="5",
+    number="3",
+    publisher="Springer",
+    ID="gasston1996process",
+    gs2016="1",
+    placex="Software Quality Journal",
+))

@@ -1,0 +1,305 @@
+@article{eito2017dealing,
+  title={Dealing with software process requirements complexity: an information access proposal based on semantic technologies},
+  author={Eito-Brun, Ricardo and Amescua, Antonio},
+  journal={Requirements Engineering},
+  volume={22},
+  number={4},
+  pages={527--542},
+  year={2017},
+  publisher={Springer}
+}
+
+@book{escalona2014information,
+  title={Information system development: Improving enterprise communication},
+  author={Escalona, Mar{\'\i}a Jos{\'e} and Arag{\'o}n, Gustavo and Linger, Henry and Lang, Michael and Barry, Chris and Schneider, Christoph},
+  year={2014},
+  publisher={Springer}
+}
+
+@incollection{munoz2014towards,
+  title={Towards Knowledge Management to Support Decision Making for Software Process Development},
+  author={Mu{\~n}oz, Edrisi and Cap{\'o}n-Garc{\'\i}a, Elisabeth},
+  booktitle={Agile Estimation Techniques and Innovative Approaches to Software Process Improvement},
+  pages={161--179},
+  year={2014},
+  publisher={IGI Global}
+}
+
+
+@inproceedings{medina2008collaborative,
+  title={A Collaborative Framework to Support Software Process Improvement Based on the Reuse of Process Assets.},
+  author={Medina-Dom{\'\i}nguez, Fuensanta and Ramos, Javier Salda{\~n}a and Mora-Soto, Arturo and Sanz-Esteban, Ana and Segura, Maria Isabel S{\'a}nchez},
+  booktitle={ICSOFT (PL/DPS/KE)},
+  pages={283--289},
+  year={2008}
+}
+
+@inproceedings{peldzius2014tool,
+  title={Tool for Usage of Multiple Process Assessment Models},
+  author={Peldzius, Stasys and Ragaisis, Saulius},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={106--117},
+  year={2014},
+  organization={Springer}
+}
+
+@article{deprocess,
+  title={A process meta-model in a gradual software process implementation environment process meta-model for a software process definition and improvement.},
+  author={de Vasconcelos, Alexandre Marcos Lins},
+  booktitle={Proceedings on The First International Workshop on Metamodelling--Utilization in Software Engineering--MUSE, Set{\'u}bal-Portugal},
+  year={2006}
+}
+
+@inproceedings{colomo2016towards,
+  title={Towards Supporting International Standard-Based Software Engineering Approaches Using Semantic Web Technologies: A Systematic Literature Review},
+  author={Colomo-Palacios, Ricardo and Colombo-Mendoza, Luis Omar and Valencia-Garc{\'\i}a, Rafael},
+  booktitle={International Conference on Technologies and Innovation},
+  pages={169--183},
+  year={2016},
+  organization={Springer}
+}
+
+@article{ruy2015iso,
+  title={An ISO-based software process ontology pattern language and its application for harmonizing standards},
+  author={Ruy, Fabiano B and Falbo, Ricardo A and Barcellos, Monalessa P and Guizzardi, Giancarlo and Quirino, Glaice KS},
+  journal={ACM SIGAPP Applied Computing Review},
+  volume={15},
+  number={2},
+  pages={27--40},
+  year={2015},
+  publisher={ACM}
+}
+
+@article{medinaapproaching,
+  title={Approaching Software Process Improvement to Organizations through the Reuse of their Processes and Products},
+  author={Medina-Dom{\'\i}nguez, Fuensanta and Sanchez-Segura, Maria-Isabel and Mora-Soto, Arturo and Guzman, Javier Garc{\'\i}a and Amescua, Antonio}
+}
+
+@incollection{he2012software,
+  title={Software Process Management Assessment Towards CMM a Systematic Approach to Optimize Internal Process Improvement},
+  author={He, Zhongshi and Zou, Dongsheng and others},
+  booktitle={Software Engineering and Knowledge Engineering: Theory and Practice},
+  pages={499--505},
+  year={2012},
+  publisher={Springer}
+}
+
+@incollection{bermon2009software,
+  title={Software Process Asset Libraries Using Knowledge Repositories},
+  author={Berm{\'o}n-Angarita, Leonardo and Amescua-Seco, Antonio and S{\'a}nchez-Segura, Maria Isabel and Garc{\'\i}a-Guzm{\'a}n, Javier},
+  booktitle={Handbook of Research on Digital Libraries: Design, Development, and Impact},
+  pages={465--475},
+  year={2009},
+  publisher={IGI Global}
+}
+
+@inproceedings{choi2011semantic,
+  title={Semantic process management environment},
+  author={Choi, SeungYoung},
+  booktitle={Ubiquitous Computing and Multimedia Applications (UCMA), 2011 International Conference on},
+  pages={106--110},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{cuadrado2008software,
+  title={Software Process and Product Measurement},
+  author={Cuadrado-Gallego, Juan J and Dumke, Ren{\'e} Braungarten Reiner R and Abran, Alain},
+  year={2008},
+  publisher={Springer}
+}
+
+@inproceedings{de2012ontology,
+  title={Ontology based software development good practices selection for adoption in micro-enterprises},
+  author={de Castro Leal, Andr{\'e} Luiz and Braga, Jos{\'e} Luis and Soares, Liziane Santos and Satler, Bruno Torres},
+  booktitle={Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En},
+  pages={1--8},
+  year={2012},
+  organization={IEEE}
+}
+
+@book{kreiner2016systems,
+  title={Systems, Software and Services Process Improvement},
+  author={Kreiner, Christian and O'Connor, Rory V and Poth, Alexander and Messnarz, Richard},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{picha2016alm,
+  title={Alm tool data usage in software process metamodeling},
+  author={P{\'\i}cha, Petr and Brada, Premek},
+  booktitle={Software Engineering and Advanced Applications (SEAA), 2016 42th Euromicro Conference on},
+  pages={1--8},
+  year={2016},
+  organization={IEEE}
+}
+
+@incollection{bonazzi2009compliance,
+  title={Compliance management is becoming a major issue in IS design},
+  author={Bonazzi, Riccardo and Hussami, Lotfi and Pigneur, Yves},
+  booktitle={Information systems: People, organizations, institutions, and technologies},
+  pages={391--398},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{montoniprojeto,
+  title={Projeto 6.12-Taba Workstation: Supporting Software Process Deployment based on CMMI and MR-MPS1},
+  author={Montoni, Mariano and Rocha, Ana Regina and Santos, Gleison and Figueiredo, S{\'a}vio and Barreto, Ahilton and Soares, Andr{\'e}a and Cerdeiral, Cristina and Lupo, Peter},
+  publisher={Citeseer}
+}
+
+@inproceedings{pereira2007systematic,
+  title={A systematic approach to process tailoring},
+  author={Pereira, Eliana B and Bastos, Ricardo M and Oliveira, Toacy C},
+  booktitle={Systems Engineering and Modeling, 2007. ICSEM'07. International Conference on},
+  pages={71--78},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{adedjouma2012experiment,
+  title={An experiment on merging quality assessment in automotive domain},
+  author={Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{\c{c}}ois and Kitouni, Tarek},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={107--117},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{guedria2008interoperability,
+  title={Interoperability maturity models--survey and comparison--},
+  author={Gu{\'e}dria, Wided and Naudet, Yannick and Chen, David},
+  booktitle={OTM Confederated International Conferences" On the Move to Meaningful Internet Systems"},
+  pages={273--282},
+  year={2008},
+  organization={Springer}
+}
+
+@article{mata2014knowledge,
+  title={Knowledge Management in Process Improvement and Best Practices Sharing},
+  author={Mata, Edrisi Munoz and Mata, Mirna A Munoz and Capon, Elisabet and Miranda, Jezreel Mejia},
+  journal={IEEE Latin America Transactions},
+  volume={12},
+  number={3},
+  pages={469--474},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{kim2009guideline,
+  title={Guideline-based Process Management Environment},
+  author={Kim, Jeong-Ah},
+  journal={?????????},
+  volume={6},
+  number={1},
+  pages={47--56},
+  year={2009}
+}
+
+@article{pardo2015360,
+  title={A 360-degree process improvement approach based on multiple models},
+  author={Pardo-Calvache, C{\'e}sar Jes{\'u}s and Garc{\'\i}a-Rubio, F{\'e}lix Oscar and Piattini-Velthuis, Mario Gerardo and Pino-Correa, Francisco Jos{\'e} and Baldassarre, Maria Teresa},
+  journal={Revista Facultad de Ingenier{\'\i}a Universidad de Antioquia},
+  number={77},
+  pages={95--104},
+  year={2015},
+  publisher={Universidad de Antioquia}
+}
+
+@article{gerogiannishuman,
+  title={Human Resource Assessment in Software Projects},
+  author={Gerogiannis, Vassilis C and Karageorgos, Anthony and Rapti, Elli and Fitsilis, Panos}
+journal={Proc. of the 5th Int. Conf. on   Industrial   Engineering   and   Operations   Management(IEOM 2015),  IEEE, Dubai, UAE, March 2015},
+year={2015}
+}
+
+@article{garcia2006towards,
+  title={Towards a consistent terminology for software measurement},
+  author={Garc{\'\i}a, F{\'e}lix and Bertoa, Manuel F and Calero, Coral and Vallecillo, Antonio and Ruiz, Francisco and Piattini, Mario and Genero, Marcela},
+  journal={Information and Software Technology},
+  volume={48},
+  number={8},
+  pages={631--644},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@inproceedings{barcellos2012using,
+  title={Using a reference domain ontology for developing a software measurement strategy for high maturity organizations},
+  author={Barcellos, Monalessa Perini and de A Falbo, Ricardo and da Rocha, Ana Regina C},
+  booktitle={Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2012 IEEE 16th International},
+  pages={114--123},
+  year={2012},
+  organization={IEEE}
+}
+
+@incollection{mc2012medical,
+  title={Medical device software traceability},
+  author={Mc Caffery, Fergal and Casey, Valentine and Sivakumar, MS and Coleman, Gerry and Donnelly, Peter and Burton, John},
+  booktitle={Software and Systems Traceability},
+  pages={321--339},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{keto2010towards,
+  title={Towards the process-ontological modelling},
+  author={Keto, Harri and Palom{\"a}ki, Jari and Jaakkola, Hannu and Pohjoisranta, PO},
+  journal={Information Modelling and Knowledge Bases XXI},
+  volume={206},
+  pages={299},
+  year={2010},
+  publisher={IOS Press}
+}
+
+@article{tuffleyapplying,
+  title={Applying Design Research in Software Engineering to Develop a Process Reference Model},
+  author={Tuffley, David},
+  journal={ICSE},
+  year={2009}
+}
+
+@incollection{gonzalez2006ontology,
+  title={An ontology for software development methodologies and endeavours},
+  author={Gonzalez-Perez, C{\'e}sar and Henderson-Sellers, Brian},
+  booktitle={Ontologies for Software Engineering and Software Technology},
+  pages={123--151},
+  year={2006},
+  publisher={Springer}
+}
+
+@article{stojanov2016exploring,
+  title={Exploring software maintenance process characteristics by using inductive thematic analysis},
+ journal={International conference on Applied Internet and Information Technologies - AIIT 2016},
+  author={Stojanov, Zeljko and Stojanov, Jelena},
+  year={2016}
+}
+
+@inproceedings{miler2012improvement,
+  title={Improvement of Task Management with Process Models in Small and Medium Software Companies},
+  author={Miler, Jakub and Weso{\l}owska, Hanna},
+  booktitle={European Conference on Software Process Improvement},
+  pages={145--156},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{soto2008using,
+  title={Using model comparison to maintain model-to-standard compliance},
+  author={Soto, Mart{\'\i}n and M{\"u}nch, J{\"u}rgen},
+  booktitle={Proceedings of the 2008 international workshop on Comparison and versioning of software models},
+  pages={35--40},
+  year={2008},
+  organization={ACM}
+}
+
+@article{kozina2013customizing,
+  title={Customizing of the Software Organization Maturity Level Assessments Using SCT Based Generator},
+  author={Kozina, Melita and Rado{\v{s}}evi{\'c}, Danijel and Magdaleni{\'c}, Ivan},
+ journal={24rd Central European Conference on Information and Intelligent Systems},
+  year={2013}
+}
+
+
+

@@ -3,6 +3,46 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ali2010a = DB(WorkUnrelated(
+    2010, "Towards innovation measurement in software industry",
+    display="ali",
+    authors="Bin Ali, Nauman and Edison, Henry",
+    place=FAKE,
+    entrytype="article",
+    ID="bin2010towards",
+    gs2016="1",
+    placex="Unpublishing masters thesis. School of Computing at Blekinge Institute of Technology in Sweden",
+))
+
+andrade2010a = DB(WorkUnrelated(
+    2010, "A fuzzy approach for solving a critical benchmarking problem",
+    display="andrade",
+    authors="Andrade, Javier and Ares, Juan and Martínez, María A and Pazos, Juan and Rodríguez, Santiago and Suárez, Sonia M",
+    place=FAKE,
+    pp="59--75",
+    entrytype="article",
+    volume="24",
+    number="1",
+    publisher="Springer",
+    ID="andrade2010fuzzy",
+    gs2016="1",
+    placex="Knowledge and Information Systems",
+))
+
+anneliheimbürgera2010a = DB(WorkUnrelated(
+    2010, "Context-based knowledge creation and sharing in cross-cultural collaborative communities",
+    display="anneliheimbürgera",
+    authors="AnneliHEIMBÜRGERa, Hannu JAAKKOLA and Sasaki, Shiori",
+    place=FAKE,
+    pp="76",
+    entrytype="article",
+    volume="206",
+    publisher="IOS Press",
+    ID="anneliheimburgera2010context",
+    gs2016="1",
+    placex="Information Modelling and Knowledge Bases XXI",
+))
+
 barcellos2010a = DB(WorkUnrelated(
     2010, "A Well-Founded Software Measurement Ontology.",
     display="barcellos",
@@ -16,6 +56,67 @@ barcellos2010a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10073961660459423469&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="FOIS",
+))
+
+basri2010a = DB(WorkUnrelated(
+    2010, "Software Process Improvement in Very Small Entities: An investigation of Software Development Knowledge Management and Team issues in maintaining and evolving software process and process improvement.",
+    display="basri",
+    authors="Basri, Shuib",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="basri2010software",
+    local="Dublin City University",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+bowman2010a = DB(WorkUnrelated(
+    2010, "Engineering resource management solutions by leveraging dual data fusion solutions",
+    display="bowman",
+    authors="Bowman, Christopher",
+    place=FAKE,
+    pp="3501",
+    entrytype="incollection",
+    ID="bowman2010engineering",
+    gs2016="1",
+    placex="AIAA Infotech@ Aerospace 2010",
+))
+
+cancian2010a = DB(WorkUnrelated(
+    2010, "Supporting Software Services’ Trustworthiness in Collaborative Networks",
+    display="cancian",
+    authors="Cancian, Maiara Heil and Rabelo, Ricardo J and Von Wangenheim, Christiane Gresse",
+    place=FAKE,
+    pp="672--684",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cancian2010supporting",
+    gs2016="1",
+    placex="Working Conference on Virtual Enterprises",
+))
+
+cornford2010a = DB(WorkUnrelated(
+    2010, "Ecosystem value stream optimization system, method and device",
+    display="cornford",
+    authors="Cornford, Alan Bruce",
+    place=FAKE,
+    entrytype="misc",
+    publisher="Google Patents",
+    note="US Patent App. 12/344,350",
+    ID="cornford2010ecosystem",
+    gs2016="1",
+    placex="Google",
+))
+
+cuadrado2010a = DB(WorkUnrelated(
+    2010, "Framework of Quality Measurement in CASE Tool Based Software Development",
+    display="cuadrado",
+    authors="Cuadrado-Gallego, Juan José",
+    place=FAKE,
+    entrytype="article",
+    ID="cuadradoframework",
+    gs2016="1",
+    placex="dissertation",
 ))
 
 daramola2010a = DB(WorkUnrelated(
@@ -33,6 +134,17 @@ daramola2010a = DB(WorkUnrelated(
     placex="International Conference on Web Engineering",
 ))
 
+ellis2010a = DB(WorkUnrelated(
+    2010, "D2. 1-ICT4EE Data Taxonomy",
+    display="ellis",
+    authors="Ellis, Keith and CSTB, Bruno Fies and LOU, Steven Firth and LOU, Tarek Hassan and FHG, Daniel Kuhn and Kema, Hans Pille and Sheridan, Charlie",
+    place=FAKE,
+    entrytype="article",
+    ID="ellisd2",
+    gs2016="1",
+    placex="Roadmap Enabling Vision and Strategy for ICT-enabled Energy Efficiency",
+))
+
 georgieva2010a = DB(WorkUnrelated(
     2010, "Software Quality Standards and Approaches from Ontological Point of View",
     display="georgieva",
@@ -43,6 +155,45 @@ georgieva2010a = DB(WorkUnrelated(
     ID="georgieva2010software",
     gs2016="1",
     placex="SOFTWARE MEASUREMENT EUROPEAN FORUM",
+))
+
+henderson2010a = DB(WorkUnrelated(
+    2010, "Situational method engineering: state-of-the-art review",
+    display="henderson",
+    authors="Henderson-Sellers, Brian and Ralyté, Jolita",
+    place=JCS,
+    entrytype="article",
+    publisher="Graz University of Technology",
+    ID="henderson2010situational",
+    gs2016="1",
+    placex="Journal of Universal Computer Science",
+))
+
+irrazabal2010a = DB(WorkUnrelated(
+    2010, "Alignment of Open Source Tools with ISO norms for software product quality",
+    display="irrazabal",
+    authors="Irrazabal, Emanuel and Vara, Juan Manuel and Garzás, Javier and Santa Escolástica, Roberto and Marcos, Esperanza",
+    place=FAKE,
+    pp="135",
+    entrytype="inproceedings",
+    ID="irrazabal2010alignment",
+    gs2016="1",
+    placex="SOFTWARE MEASUREMENT EUROPEAN FORUM",
+))
+
+jaakkola2010a = DB(WorkUnrelated(
+    2010, "Knowledge-oriented software engineering process in a multi-cultural context",
+    display="jaakkola",
+    authors="Jaakkola, Hannu and Heimbürger, Anneli and Linna, Petri",
+    place=SQJ,
+    pp="299--319",
+    entrytype="article",
+    volume="18",
+    number="2",
+    publisher="Springer",
+    ID="jaakkola2010knowledge",
+    gs2016="1",
+    placex="Software Quality Journal",
 ))
 
 keto2010a = DB(WorkUnrelated(
@@ -74,6 +225,80 @@ ko2010a = DB(WorkUnrelated(
     placex="International Conference on Evaluation of Novel Approaches to Software Engineering",
 ))
 
+laplante2010a = DB(WorkUnrelated(
+    2010, "Encyclopedia of Software Engineering",
+    display="laplante",
+    authors="Laplante, P",
+    place=FAKE,
+    entrytype="article",
+    publisher="Auerbach Publications",
+    ID="laplante2010encyclopedia",
+    gs2016="1",
+    placex="Encyclopedia of Software Engineering Three-Volume Set (Print)",
+))
+
+mehmood2010a = DB(WorkUnrelated(
+    2010, "Conception des Systèmes d'Information: une approche centrée sur les Patrons de Gestion de la Qualité",
+    display="mehmood",
+    authors="Mehmood, Kashif",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mehmood2010conception",
+    local="Conservatoire national des arts et metiers-CNAM",
+    gs2016="1",
+    placex="",
+))
+
+mencke2010a = DB(WorkUnrelated(
+    2010, "Quality-Driven, Semantic Information System Integration: The QuaD-Framework",
+    display="mencke",
+    authors="Mencke, Steffen and Kunz, Martin and Rud, Dmytro and Dumke, Reiner",
+    place=FAKE,
+    pp="127--161",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="mencke2010quality",
+    gs2016="1",
+    placex="Cases on Semantic Interoperability for Information Systems Integration: Practices and Applications",
+))
+
+minhas2010a = DB(WorkUnrelated(
+    2010, "Evaluating GORE Process—A Case Study Based Analysis",
+    display="minhas",
+    authors="Minhas, Sumaira Sultan",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="minhas2010evaluating",
+    local="International Islamic University Islamabad",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+moser2010a = DB(WorkUnrelated(
+    2010, "Integrating production automation expert knowledge across engineering stakeholder domains",
+    display="moser",
+    authors="Moser, Thomas and Biffl, Stefan and Sunindyo, Wikan Danar and Winkler, Dietmar",
+    place=FAKE,
+    pp="352--359",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="moser2010integrating",
+    gs2016="1",
+    placex="Complex, Intelligent and Software Intensive Systems (CISIS), 2010 International Conference on",
+))
+
+otte2010a = DB(WorkUnrelated(
+    2010, "An Investigation into quality assurance of the Open Source Software Development model",
+    display="otte",
+    authors="Otte, Tobias",
+    place=FAKE,
+    entrytype="article",
+    publisher="University of Wolverhampton",
+    ID="otte2010investigation",
+    gs2016="1",
+    placex="",
+))
+
 pardo2010a = DB(WorkUnrelated(
     2010, "Trends in harmonization of multiple reference models",
     display="pardo",
@@ -87,6 +312,35 @@ pardo2010a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=11971456827434441571&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Evaluation of Novel Approaches to Software Engineering",
+))
+
+pires2010a = DB(WorkUnrelated(
+    2010, "TOWARDS AN INTEGRATED PROCESS-PERSONNEL MODEL TO EVALUATE THE REQUIREMENTS ENGINEERING IN SMEs",
+    display="pires",
+    authors="Pires, Lucy and Ortega, Maryoly and Pérez, María and Mendoza, Luis and Méndez, Edumilis and Domínguez, Kenyer",
+    place=FAKE,
+    pp="101",
+    entrytype="inproceedings",
+    volume="677",
+    number="088",
+    ID="pires2010towards",
+    gs2016="1",
+    placex="Proceedings of the IASTED International Conference",
+))
+
+riel2010a = DB(WorkUnrelated(
+    2010, "Qualification and certification for the competitive edge in integrated design",
+    display="riel",
+    authors="Riel, Andreas and Tichkiewitch, Serge and Messnarz, Richard",
+    place=FAKE,
+    pp="279--289",
+    entrytype="article",
+    volume="2",
+    number="4",
+    publisher="Elsevier",
+    ID="riel2010qualification",
+    gs2016="1",
+    placex="CIRP Journal of Manufacturing Science and Technology",
 ))
 
 rodríguez2010a = DB(WorkUnrelated(
@@ -106,6 +360,43 @@ rodríguez2010a = DB(WorkUnrelated(
     placex="International Journal of Software Engineering and Knowledge Engineering",
 ))
 
+shvaiko2010a = DB(WorkUnrelated(
+    2010, "E-government interoperability framework: A case study in a developing country",
+    display="shvaiko",
+    authors="Shvaiko, Pavel and Villafiorita, Adolfo and Zorer, Alessandro and Chemane, Lourino and Fumo, Teotonio",
+    place=FAKE,
+    pp="639--662",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="shvaiko2010government",
+    gs2016="1",
+    placex="Comparative E-Government",
+))
+
+simonsen2010a = DB(WorkUnrelated(
+    2010, "Design research: Synergies from interdisciplinary perspectives",
+    display="simonsen",
+    authors="Simonsen, Jesper and Bærenholdt, Jørgen Ole and Büscher, Monika and Scheuer, John Damm and others",
+    place=Book,
+    entrytype="book",
+    publisher="Routledge",
+    ID="simonsen2010design",
+    gs2016="1",
+    placex="",
+))
+
+sousa2010a = DB(WorkUnrelated(
+    2010, "A Model-Driven Approach for User Interface-Business Process Alignment",
+    display="sousa",
+    authors="Sousa, Kênia Soares",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="sousa2010model",
+    local="IBM Research, United States",
+    gs2016="1",
+    placex="",
+))
+
 stolfa2010a = DB(WorkSnowball(
     2010, "Building process definition with ontology background",
     display="stolfa",
@@ -122,4 +413,89 @@ stolfa2010a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Computer Information Systems and Industrial Management Applications (CISIM), 2010 International Conference on",
+))
+
+succar2010a = DB(WorkUnrelated(
+    2010, "Building information modelling maturity matrix",
+    display="succar",
+    authors="Succar, Bilal",
+    place=FAKE,
+    pp="65--103",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="succar2010building",
+    gs2016="1",
+    placex="Handbook of research on building information modeling and construction informatics: Concepts and technologies",
+))
+
+tuffley2010a = DB(WorkUnrelated(
+    2010, "A Design Research approach to developing a Process Reference Model for leadership of integrated teams in virtual environments",
+    display="tuffley",
+    authors="Tuffley, David John",
+    place=Book,
+    entrytype="book",
+    publisher="Griffith University",
+    ID="tuffley2010design",
+    gs2016="1",
+    placex="",
+))
+
+tuya2010a = DB(WorkUnrelated(
+    2010, "SOAQTest: Quality in development and test processes in service oriented architectures-TIN2007-67843-C06",
+    display="tyya",
+    authors="Tuya, Javier and Ramos, Isabel and Ruiz, Mercedes",
+    journal="Jornada de Seguimiento de Proyectos Programa Nacional de Tecnologías Informáticas",
+    place=FAKE,
+    entrytype="article",
+    ID="tuyasoaqtest",
+    gs2016="1",
+    placex="",
+))
+
+unterkalmsteiner2010a = DB(WorkUnrelated(
+    2010, "Extended Material to ‘Evaluation and Measurement of Software Process Improvement—A Systematic Literature Review’",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, M and Gorschek, Tony and Islam, AKMM and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=FAKE,
+    entrytype="misc",
+    ID="unterkalmsteiner2010extended",
+    gs2016="1",
+    placex="",
+))
+
+yurchyshyna2010a = DB(WorkUnrelated(
+    2010, "Improving formalizing expert knowledge in Construction: from ontology-based modeling to creating sustainable services",
+    display="yurchyshyna",
+    authors="Yurchyshyna, A and Leonard, M",
+    place=FAKE,
+    pp="3",
+    entrytype="inproceedings",
+    organization="CRC Press",
+    ID="yurchyshyna2010improving",
+    gs2016="1",
+    placex="eWork and eBusiness in Architecture, Engineering and Construction: Proceedings of the European Conference on Product and Process Modelling 2010, Cork, Republic of Ireland, 14-16 September 2010",
+))
+
+yurchyshyna2010b = DB(WorkUnrelated(
+    2010, "Towards an ontology-based approach for creating sustainable services",
+    display="yurchyshyna b",
+    authors="Yurchyshyna, Anastasiya and Opprecht, Wanda",
+    place=FAKE,
+    pp="136--149",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="yurchyshyna2010towards",
+    gs2016="1",
+    placex="International Conference on Exploring Services Science",
+))
+
+喇度史2010a = DB(WorkUnrelated(
+    2010, "Erwin Grosspietsch, Konrad Klöckner (eds.)",
+    display="喇度史",
+    authors="喇度史",
+    place=FAKE,
+    entrytype="article",
+    ID="喇度史2010erwin",
+    gs2016="1",
+    placex="article",
 ))

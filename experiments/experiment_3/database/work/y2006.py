@@ -3,6 +3,31 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ahonen2006a = DB(WorkUnrelated(
+    2006, "Defining the process for making software system modernization decisions",
+    display="ahonen",
+    authors="Ahonen, Jarmo J and Sivula, Henna and Koskinen, Jussi and Lintinen, Heikki and Tilus, Tero and Kankaanpää, Irja and Juutilainen, Päivi",
+    place=ICPFSPI,
+    pp="5--18",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ahonen2006defining",
+    gs2016="1",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
+bella2006a = DB(WorkUnrelated(
+    2006, "ASG Platform Development Process",
+    display="bella",
+    authors="Bella, Fabio and Lehner, Theresa and Ocampo, Alexis",
+    place=FAKE,
+    entrytype="article",
+    volume="6",
+    ID="bella2006asg",
+    gs2016="1",
+    placex="Adaptive Services Grid Deliverable D",
+))
+
 bertoa2006a = DB(WorkUnrelated(
     2006, "An ontology for software measurement",
     display="bertoa",
@@ -16,6 +41,31 @@ bertoa2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=4535880459485815052&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
+))
+
+bertollo2006a = DB(WorkUnrelated(
+    2006, "Definição de Processos de Software em um Ambiente de Desenvolvimento de Software Baseado em Ontologias",
+    display="bertollo",
+    authors="Bertollo, Gleidson and Segrini, Bruno and FALBO, Ricardo A",
+    place=FAKE,
+    pp="72--86",
+    entrytype="article",
+    volume="6",
+    ID="bertollo2006definiccao",
+    gs2016="1",
+    placex="V Simpósio Brasileiro de Qualidade de Software, SBQS",
+))
+
+bertollo2006b = DB(WorkUnrelated(
+    2006, "Definição de Processos em um Ambiente de Desenvolvimento de Software",
+    display="bertollo b",
+    authors="Bertollo, Gleidson",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal do Espírito Santo",
+    ID="bertollo2006definiccao",
+    gs2016="1",
+    placex="",
 ))
 
 biffl2006a = DB(WorkUnrelated(
@@ -33,6 +83,7 @@ biffl2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8376441572406504250&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Software Process: Improvement and Practice",
+    wiley2016="1",
 ))
 
 canfora2006a = DB(WorkUnrelated(
@@ -50,6 +101,7 @@ canfora2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=1761052978994151267&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Software: Practice and Experience",
+    wiley2016="1",
 ))
 
 domínguez2006a = DB(WorkUnrelated(
@@ -67,6 +119,45 @@ domínguez2006a = DB(WorkUnrelated(
     placex="CLEI electronic journal",
 ))
 
+dutoit2006a = DB(WorkUnrelated(
+    2006, "Rationale management in software engineering: Concepts and techniques",
+    display="dutoit",
+    authors="Dutoit, Allen H and McCall, Raymond and Mistrík, Ivan and Paech, Barbara",
+    place=FAKE,
+    pp="1--48",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="dutoit2006rationale",
+    gs2016="1",
+    placex="Rationale management in software engineering",
+))
+
+ferreira2006a = DB(WorkUnrelated(
+    2006, "Taba workstation: Supporting software process improvement initiatives based on software standards and maturity models",
+    display="ferreira",
+    authors="Ferreira, Analia Irigoyen Ferreiro and Santos, Gleison and Cerqueira, Roberta and Montoni, Mariano and Barreto, Ahilton and Rocha, Ana Regina and Figueiredo, Sávio and Barreto, Andrea and Silva Filho, Reinaldo C and Lupo, Peter and others",
+    place=FAKE,
+    pp="207--218",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ferreira2006taba",
+    gs2016="1",
+    placex="European Conference on Software Process Improvement",
+))
+
+fujita2006a = DB(WorkUnrelated(
+    2006, "New trends in software methodologies, Tools and Techniques",
+    display="fujita",
+    authors="Fujita, Hamido and Mejri, Mohamed",
+    place=Book,
+    entrytype="book",
+    volume="147",
+    publisher="Ios Press",
+    ID="fujita2006new",
+    gs2016="1",
+    placex="Proceedings of the Fifth SoMeT_06",
+))
+
 garcía2006a = DB(WorkUnrelated(
     2006, "Towards a consistent terminology for software measurement",
     display="garcía",
@@ -82,6 +173,19 @@ garcía2006a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+gervasi2006a = DB(WorkUnrelated(
+    2006, "Computational Science and Its Applications-ICCSA 2006: International Conference, Glasgow, UK, May 8-11, 2006, Proceedings",
+    display="gervasi",
+    authors="Gervasi, Osvaldo and Kumar, Vipin and Tan, CJ Kenneth and Taniar, David and Laganà, Antonio and Mun, Youngsong and Choo, Hyunseung",
+    place=Book,
+    entrytype="book",
+    volume="3983",
+    publisher="Springer",
+    ID="gervasi2006computational",
+    gs2016="1",
+    placex="",
+))
+
 gonzalez2006a = DB(WorkUnrelated(
     2006, "An ontology for software development methodologies and endeavours",
     display="gonzalez",
@@ -95,6 +199,61 @@ gonzalez2006a = DB(WorkUnrelated(
     placex="Ontologies for Software Engineering and Software Technology",
 ))
 
+halloran2006a = DB(WorkUnrelated(
+    2006, "An Infrastructure for Software Process Improvement that Facilitates Organisational Learning and Knowledge Management for SME's",
+    display="halloran",
+    authors="Halloran, Patrick",
+    place=Book,
+    entrytype="book",
+    publisher="Griffith University",
+    ID="halloran2006infrastructure",
+    gs2016="1",
+    placex="",
+))
+
+lehner2006a = DB(WorkUnrelated(
+    2006, "ASG Development Process--Application and Service Engineering",
+    display="lehner",
+    authors="Lehner, Theresa and Bayer, Joachim and Bella, Fabio and Ocampo, Alexis",
+    place=FAKE,
+    entrytype="article",
+    volume="6",
+    ID="lehner2006asg",
+    gs2016="1",
+    placex="Adaptive Services Grid Deliverable D",
+))
+
+leppänen2006a = DB(WorkUnrelated(
+    2006, "Conceptual evaluation of methods for engineering situational ISD methods",
+    display="leppänen",
+    authors="Leppänen, Mauri",
+    place=SPIP,
+    pp="539--555",
+    entrytype="article",
+    volume="11",
+    number="5",
+    publisher="Wiley Online Library",
+    ID="leppanen2006conceptual",
+    gs2016="1",
+    placex="Software Process: Improvement and Practice",
+    wiley2016="1",
+))
+
+mei2006a = DB(WorkUnrelated(
+    2006, "Development of software engineering: A research perspective",
+    display="mei",
+    authors="Mei, Hong and Cao, Dong-Gang and Yang, Fu-Qing",
+    place=JCS,
+    pp="682--696",
+    entrytype="article",
+    volume="21",
+    number="5",
+    publisher="Springer",
+    ID="mei2006development",
+    gs2016="1",
+    placex="Journal of Computer Science and Technology",
+))
+
 montoni2006a = DB(WorkUnrelated(
     2006, "Projeto 6.12-Taba Workstation: Supporting Software Process Deployment based on CMMI and MR-MPS1",
     display="montoni",
@@ -105,6 +264,19 @@ montoni2006a = DB(WorkUnrelated(
     ID="montoniprojeto",
     gs2016="1",
     placex="PROFES 2006",
+))
+
+montoni2006b = DB(WorkUnrelated(
+    2006, "Taba workstation: Supporting software process deployment based on CMMI and MR-MPS. BR",
+    display="montoni b",
+    authors="Montoni, Mariano and Santos, Gleison and Rocha, Ana Regina and Figueiredo, Sávio and Cabral, Reinaldo and Barcellos, Rafael and Barreto, Ahilton and Soares, Andréa and Cerdeiral, Cristina and Lupo, Peter",
+    place=ICPFSPI,
+    pp="249--262",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="montoni2006taba",
+    gs2016="1",
+    placex="International Conference on Product Focused Software Process Improvement",
 ))
 
 oliveira2006a = DB(WorkUnrelated(
@@ -133,6 +305,30 @@ palomäki2006a = DB(WorkUnrelated(
     placex="PhiSE",
 ))
 
+rittgen2006a = DB(WorkUnrelated(
+    2006, "Enterprise modeling and computing with UML",
+    display="rittgen",
+    authors="Rittgen, Peter",
+    place=Book,
+    entrytype="book",
+    publisher="IGI Global",
+    ID="rittgen2006enterprise",
+    gs2016="1",
+    placex="booksgoogle",
+))
+
+silva2006a = DB(WorkUnrelated(
+    2006, "Processos e ferramentas para o desenvolvimento de software livre: um estudo de caso",
+    display="silva",
+    authors="Silva, Bruno Carreira Coutinho",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal do Espírito Santo",
+    ID="silva2006processos",
+    gs2016="1",
+    placex="",
+))
+
 soydan2006a = DB(WorkSnowball(
     2006, "An OWL ontology for representing the CMMI-SW model",
     display="soydan",
@@ -147,6 +343,17 @@ soydan2006a = DB(WorkSnowball(
     selected_order="12",
     final_selected="1",
     placex="Workshop on Semantic Web Enabled Software Engineering (SWESE)",
+))
+
+vandenabeele2006a = DB(WorkUnrelated(
+    2006, "CoP-independent meta-ontologies and support ontologies",
+    display="vandenabeele",
+    authors="Vandenabeele, Luc and Vidou, Géraldine and Dieng-Kuntz, Rose and El Ghali, Adil and Evangelou, Christina and Giboin, Alain and Jacquemart, Stéphane and Karacapilidis, Nikos and Tifous, Amira and Tzagarakis, Manolis",
+    place=FAKE,
+    entrytype="article",
+    ID="vandenabeele2006cop",
+    gs2016="1",
+    placex="",
 ))
 
 vasconcelos2006a = DB(WorkUnrelated(

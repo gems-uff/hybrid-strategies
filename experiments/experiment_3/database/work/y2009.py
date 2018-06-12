@@ -18,6 +18,53 @@ april2009a = DB(WorkUnrelated(
     placex="Encyclopedia of Information Science and Technology, Second Edition",
 ))
 
+armbrust2009a = DB(WorkUnrelated(
+    2009, "Verfolgbarkeit in großen Prozessstandards am Beispiel der Raumfahrtindustrie.",
+    display="armbrust",
+    authors="Armbrust, Ove and Ocampo, Alexis and Soto, Martín and Münch, Jürgen and Katahira, Masafumi and Koishi, Yumi and Miyamoto, Yuko",
+    place=FAKE,
+    pp="3552--3565",
+    entrytype="inproceedings",
+    ID="armbrust2009verfolgbarkeit",
+    gs2016="1",
+    placex="GI Jahrestagung",
+))
+
+barcellos2009a = DB(WorkUnrelated(
+    2009, "Uma estratégia para medição de software e avaliação de bases de medidas para controle estatístico de processos de software em organizações de alta maturidade",
+    display="barcellos",
+    authors="Barcellos, Monalessa Perini",
+    place=FAKE,
+    entrytype="article",
+    ID="barcellos2009estrategia",
+    gs2016="1",
+    placex="Doctoral, Engenharia de Sistemas e Computa{ç}ão, COPPE, Universidade Federal do Rio de Janeiro, Rio de Janeiro",
+))
+
+bartusevics2009a = DB(WorkUnrelated(
+    2009, "THE DEVELOPMENT AND IMPLEMENTATION OF MODEL--DRIVEN SOFTWARE CONFIGURATION MANAGEMENT SOLUTIONS",
+    display="bartusevics",
+    authors="BARTUSEVICS, Arturs",
+    place=FAKE,
+    entrytype="article",
+    ID="bartusevicsdevelopment",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+baskerville2009a = DB(WorkUnrelated(
+    2009, "Soft design science methodology",
+    display="baskerville",
+    authors="Baskerville, Richard and Pries-Heje, Jan and Venable, John",
+    place=FAKE,
+    pp="9",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="baskerville2009soft",
+    gs2016="1",
+    placex="Proceedings of the 4th international conference on design science research in information systems and technology",
+))
+
 bermón2009a = DB(WorkUnrelated(
     2009, "Software Process Asset Libraries Using Knowledge Repositories",
     display="bermón",
@@ -44,6 +91,80 @@ bonazzi2009a = DB(WorkUnrelated(
     placex="Information systems: People, organizations, institutions, and technologies",
 ))
 
+casteleyn2009a = DB(WorkUnrelated(
+    2009, "The Development Process",
+    display="casteleyn",
+    authors="Casteleyn, Sven and Daniel, Florian and Dolog, Peter and Matera, Maristella",
+    place=FAKE,
+    entrytype="inbook",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Casteleyn2009",
+    gs2016="1",
+    placex="Engineering Web Applications",
+))
+
+cheng2009a = DB(WorkUnrelated(
+    2009, "Towards an Evaluation Framework for Software Process Improvement",
+    display="cheng",
+    authors="Cheng, Chow Kian and Permadi, Rahadian Bayu",
+    place=FAKE,
+    entrytype="misc",
+    ID="cheng2009towards",
+    gs2016="1",
+    placex="",
+))
+
+chroust2009a = DB(WorkUnrelated(
+    2009, "Choosing basic architectural alternatives",
+    display="chroust",
+    authors="Chroust, Gerhard and Schoitsch, Erwin",
+    place=FAKE,
+    pp="161--221",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="chroust2009choosing",
+    gs2016="1",
+    placex="Designing Software-Intensive Systems: Methods and Principles",
+))
+
+cornut2009a = DB(WorkUnrelated(
+    2009, "The discursive constitution of software development",
+    display="cornut",
+    authors="Cornut, Francis",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="cornut2009discursive",
+    local="The London School of Economics and Political Science (LSE)",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+correia2009a = DB(WorkUnrelated(
+    2009, "Integrating it service management within the enterprise architecture",
+    display="correia",
+    authors="Correia, Anacleto and e Abreu, Fernando Brito",
+    place=ICSE,
+    pp="553--558",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="correia2009integrating",
+    gs2016="1",
+    placex="Software Engineering Advances, 2009. ICSEA'09. Fourth International Conference on",
+))
+
+dumke2009a = DB(WorkUnrelated(
+    2009, "Quality assurance of agent-based and self-managed systems",
+    display="dumke",
+    authors="Dumke, Reiner and Mencke, Steffen and Wille, Cornelius",
+    place=Book,
+    entrytype="book",
+    publisher="CRC Press",
+    ID="dumke2009quality",
+    gs2016="1",
+    placex="",
+))
+
 falbo2009a = DB(WorkUnrelated(
     2009, "A software process ontology as a common vocabulary about software processes",
     display="falbo",
@@ -59,6 +180,17 @@ falbo2009a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=13554592707241944376&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Business Process Integration and Management",
+))
+
+falbo2009b = DB(WorkUnrelated(
+    2009, "Uso de uma Ontologia de Avaliação de Software para o Desenvolvimento e Integração de Ferramentas",
+    display="falbo b",
+    authors="de Almeida Falbo, Ricardo and Dal Moro, Rodrigo and de Oliveira, Ana Christina and Bringuente, Murilo de Oliveira Palácio",
+    place=FAKE,
+    entrytype="article",
+    ID="deuso",
+    gs2016="1",
+    placex="VIII Simpósio Brasileiro de Qualidade de Software",
 ))
 
 gazel2009a = DB(WorkSnowball(
@@ -79,6 +211,72 @@ gazel2009a = DB(WorkSnowball(
     gs2016="1",
 ))
 
+husnain2009a = DB(WorkUnrelated(
+    2009, "An interrogative review of requirement engineering frameworks",
+    display="husnain",
+    authors="Husnain, Muhammad and Waseem, Muhammad and Ghayyur, SAK",
+    place=FAKE,
+    pp="1--8",
+    entrytype="article",
+    volume="2",
+    number="1",
+    publisher="Citeseer",
+    ID="husnain2009interrogative",
+    gs2016="1",
+    placex="International Journal of Reviews in Computing",
+))
+
+hussami2009a = DB(WorkUnrelated(
+    2009, "A decision-support system for is compliance management",
+    display="hussami",
+    authors="Hussami, Lotfi",
+    place=FAKE,
+    entrytype="article",
+    ID="hussami2009decision",
+    gs2016="1",
+    placex="CAISE-DC'09 Proceedings",
+))
+
+kang2009a = DB(WorkUnrelated(
+    2009, "Applied software product line engineering",
+    display="kang",
+    authors="Kang, Kyo C and Sugumaran, Vijayan and Park, Sooyong",
+    place=Book,
+    entrytype="book",
+    publisher="CRC press",
+    ID="kang2009applied",
+    gs2016="1",
+    placex="",
+))
+
+kayed2009a = DB(WorkUnrelated(
+    2009, "Towards an ontology for software product quality attributes",
+    display="kayed",
+    authors="Kayed, Ahmad and Hirzalla, Nael and Samhan, Ahmad A and Alfayoumi, Mohammed",
+    place=FAKE,
+    pp="200--204",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kayed2009towards",
+    gs2016="1",
+    placex="Internet and Web Applications and Services, 2009. ICIW'09. Fourth International Conference on",
+))
+
+khurum2009a = DB(WorkUnrelated(
+    2009, "A systematic review of domain analysis solutions for product lines",
+    display="khurum",
+    authors="Khurum, Mahvish and Gorschek, Tony",
+    place=JSS,
+    pp="1982--2003",
+    entrytype="article",
+    volume="82",
+    number="12",
+    publisher="Elsevier",
+    ID="khurum2009systematic",
+    gs2016="1",
+    placex="Journal of Systems and Software",
+))
+
 kim2009a = DB(WorkUnrelated(
     2009, "Guideline-based Process Management Environment",
     display="kim",
@@ -91,6 +289,45 @@ kim2009a = DB(WorkUnrelated(
     ID="kim2009guideline",
     gs2016="1",
     placex="보안공학연구논문지",
+))
+
+kohlegger2009a = DB(WorkUnrelated(
+    2009, "Maturing Knowledge-Qualitative Analysis of existing Maturity Models and Implications for Knowledge Maturing",
+    display="kohlegger",
+    authors="Kohlegger, Michael",
+    place=Thesis,
+    entrytype="article",
+    publisher="University of Innsbruck Innsbruck, Austria",
+    ID="kohlegger2009maturing",
+    gs2016="1",
+    placex="thesis",
+))
+
+lavrischeva2009a = DB(WorkUnrelated(
+    2009, "An approach to expert assessment in software engineering",
+    display="lavrischeva",
+    authors="Lavrischeva, EM and Slabospickaya, OA",
+    place=FAKE,
+    pp="638--654",
+    entrytype="article",
+    volume="45",
+    number="4",
+    publisher="Springer",
+    ID="lavrischeva2009approach",
+    gs2016="1",
+    placex="Cybernetics and Systems Analysis",
+))
+
+leal2009a = DB(WorkUnrelated(
+    2009, "Uma proposta de taxonomia de boas práticas em desenvolvimento de software",
+    display="leal",
+    authors="Leal, André Luiz de Castro and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Vi{ç}osa",
+    ID="leal2009proposta",
+    gs2016="1",
+    placex="",
 ))
 
 lee2009a = DB(WorkSnowball(
@@ -112,6 +349,56 @@ lee2009a = DB(WorkSnowball(
     placex="Applied Intelligence",
 ))
 
+lincke2009a = DB(WorkUnrelated(
+    2009, "Validation of a standard-and metric-based software quality model",
+    display="lincke",
+    authors="Lincke, Rüdiger and Löwe, Welf",
+    place=Book,
+    entrytype="book",
+    publisher="Växjö University Press",
+    ID="lincke2009validation",
+    gs2016="1",
+    placex="",
+))
+
+mora2009a = DB(WorkUnrelated(
+    2009, "An overview of models and standards of processes in the SE, SwE, and IS Disciplines",
+    display="mora",
+    authors="Mora, Manuel and Gelman, Ovsei and O’Connor, Rory and Alvarez, Francisco and Macías-Luévano, Jorge",
+    place=FAKE,
+    entrytype="article",
+    volume="147",
+    publisher="IGI Global",
+    ID="mora2009overview",
+    gs2016="1",
+    placex="Information Communication Technology Standardization for E-Business Sectors: Integrating Supply and Demand Factors: Integrating Supply and Demand Factors",
+))
+
+oh2009a = DB(WorkUnrelated(
+    2009, "High-quality software models of the mid-infrared instrument for the James Webb space telescope",
+    display="oh",
+    authors="Oh, Jane MC",
+    place=FAKE,
+    pp="447--460",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="oh2009high",
+    gs2016="1",
+    placex="Model-Driven Software Development: Integrating Quality Assurance",
+))
+
+riel2009a = DB(WorkUnrelated(
+    2009, "European-wide Formation and Certification for the Competitive Edge in Integrated Design",
+    display="riel",
+    authors="Riel, A and Tichkiewitch, S and Messnarz, R",
+    place=FAKE,
+    entrytype="inproceedings",
+    organization="Cranfield University Press",
+    ID="riel2009european",
+    gs2016="1",
+    placex="Proceedings of the 19th CIRP Design Conference--Competitive Design",
+))
+
 rodríguez2009a = DB(WorkUnrelated(
     2009, "Defining spem 2 process constraints with semantic rules using swrl",
     display="rodríguez",
@@ -126,6 +413,30 @@ rodríguez2009a = DB(WorkUnrelated(
     placex="Proceedings of ONTOSE",
 ))
 
+seigerroth2009a = DB(WorkUnrelated(
+    2009, "Bringing Contextual Dimensions into Improvement of Information System Development Practices",
+    display="seigerroth",
+    authors="Seigerroth, Ulf and Lind, Mikael",
+    place=FAKE,
+    pp="1--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="seigerroth2009bringing",
+    gs2016="1",
+    placex="System Sciences, 2009. HICSS'09. 42nd Hawaii International Conference on",
+))
+
+szyszka2009a = DB(WorkUnrelated(
+    2009, "Analysis and classification of maturity models in enterprise architecture management",
+    display="szyszka",
+    authors="Szyszka, B",
+    place=FAKE,
+    entrytype="article",
+    ID="szyszka2009analysis",
+    gs2016="1",
+    placex="Unpublished Bachelor Thesis, Fakultät für Informatik der Technischen Universität Munchën",
+))
+
 tuffley2009a = DB(WorkUnrelated(
     2009, "Applying Design Research in Software Engineering to Develop a Process Reference Model",
     display="tuffley",
@@ -135,4 +446,55 @@ tuffley2009a = DB(WorkUnrelated(
     ID="tuffleyapplying",
     gs2016="1",
     placex="ICSE",
+))
+
+vergara2009a = DB(WorkUnrelated(
+    2009, "A recommended framework for the network-centric acquisition process",
+    display="vergara",
+    authors="Vergara, Gustavo J",
+    place=TechReport,
+    entrytype="techreport",
+    institution="NAVAL POSTGRADUATE SCHOOL MONTEREY CA",
+    ID="vergara2009recommended",
+    gs2016="1",
+    placex="",
+))
+
+weerd2009a = DB(WorkUnrelated(
+    2009, "Meta-modeling for situational analysis and design methods",
+    display="weerd",
+    authors="van de Weerd, Inge and Brinkkemper, Sjaak",
+    place=FAKE,
+    pp="35--54",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="van2009meta",
+    gs2016="1",
+    placex="Handbook of research on modern systems analysis and design technologies and applications",
+))
+
+xia2009a = DB(WorkUnrelated(
+    2009, "A Reliable Message Transfer Mechanism [J]",
+    display="xia",
+    authors="XIA, Sheng-ming and YIN, Bao-lin",
+    place=FAKE,
+    pp="009",
+    entrytype="article",
+    volume="10",
+    ID="xia2009reliable",
+    gs2016="1",
+    placex="Computer Technology and Development",
+))
+
+yard2009a = DB(WorkUnrelated(
+    2009, "Software security assessment tools review",
+    display="yard",
+    authors="Washington Navy Yard, DC and Hamilton, Booz Allen",
+    place=FAKE,
+    pp="145",
+    entrytype="article",
+    volume="2",
+    ID="washington2009software",
+    gs2016="1",
+    placex="Mar",
 ))

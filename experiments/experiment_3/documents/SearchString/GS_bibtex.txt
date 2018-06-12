@@ -1,0 +1,885 @@
+@article{chansylilathevaluation,
+  title={Evaluation and Improvement of MoSaIc Reference Models Comparison Approach},
+  booktitle={International conference on Intelligent Systems, Data Mining and Information Technology (ICIDIT’2014)},
+  author={CHANSYLILATH, Chittaphone and JENERS, Simona},
+  year={2014}
+}
+
+@inproceedings{correia2009integrating,
+  title={Integrating it service management within the enterprise architecture},
+  author={Correia, Anacleto and e Abreu, Fernando Brito},
+  booktitle={Software Engineering Advances, 2009. ICSEA'09. Fourth International Conference on},
+  pages={553--558},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{kumarapeli2007using,
+  title={Using Unified Modelling Language (UML) as a process-modelling technique for clinical-research process improvement},
+  author={Kumarapeli, Pushpa and De Lusignan, Simon and Ellis, Timothy and Jones, Beryl},
+  journal={Medical Informatics and the Internet in Medicine},
+  volume={32},
+  number={1},
+  pages={51--64},
+  year={2007},
+  publisher={Taylor \& Francis}
+}
+
+@article{albertyn2007hybrid,
+  title={A hybrid method for E-Process selection},
+  author={Albertyn, Frina and Kaschek, Roland},
+  journal={ACIS 2007 Proceedings},
+  pages={34},
+  year={2007}
+}
+
+@article{ruiz2012uses,
+  title={Uses and applications of spem process models. a systematic mapping study},
+  author={Ruiz-Rube, Iv{\'a}n and Dodero, Juan Manuel and Palomo-Duarte, Manuel and Ruiz, Mercedes and Gawn, David},
+  journal={Journal of Software Maintenance and Evolution: Research and Practice},
+  volume={1},
+  number={32},
+  pages={999--1025},
+  year={2012}
+}
+
+@inproceedings{feloni2015methodologies,
+  title={Methodologies for evaluation and improvement of software processes in the context of quality and maturity models: a systematic mapping},
+  author={Feloni, D and Braga, Rosana T Vaccare},
+  booktitle={XVIII Ibero-American Conference on Software Engineering (CIbSE)},
+  pages={1--14},
+  year={2015}
+}
+
+@article{tuyasoaqtest,
+  title={SOAQTest: Quality in development and test processes in service oriented architectures-TIN2007-67843-C06},
+  author={Tuya, Javier and Ramos, Isabel and Ruiz, Mercedes}
+    journal={Jornada de Seguimiento de Proyectos, Programa Nacional de Tecnologías Informáticas},
+year={2010}
+}
+
+@inproceedings{niessink2001perspectives,
+  title={Perspectives on improving software maintenance},
+  author={Niessink, Frank},
+  booktitle={Software Maintenance, 2001. Proceedings. IEEE International Conference on},
+  pages={553--556},
+  year={2001},
+  organization={IEEE}
+}
+
+@incollection{falbo2016ontology,
+  title={Ontology pattern languages},
+  author={Falbo, RA and Barcellos, MP and Ruy, FB and Guizzardi, G and Guizzardi, RSS},
+  booktitle={Ontology Engineering with Ontology Design Patterns: Foundations and Applications},
+  year={2016},
+  publisher={IOS Press}
+}
+
+@article{kruchten2012frog,
+  title={The frog and the octopus: a conceptual model of software development},
+  author={Kruchten, Philippe},
+  journal={arXiv preprint arXiv:1209.1327},
+  year={2012}
+}
+
+@article{kaschek2007formal,
+  title={A Formal Approach to e-Process Selection},
+  author={Kaschek, Roland and Albertyn, Frina and Shekhovtsov, Vladimir A and Zlatkin, Sergiy},
+journal={Citation},
+  year={2007}
+}
+
+@article{de1997experiences,
+  title={Experiences introducing a measurement program},
+  author={De Panfilis, Stefano and Kitchenham, Barbara and Morfuni, N},
+  journal={Information and Software Technology},
+  volume={39},
+  number={11},
+  pages={745--754},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@article{dexter2008establishing,
+  title={Establishing a development process for composite applications in the work-based learning and competency management domain},
+  author={Dexter, Hilary and Petch, Jim and Powley, Dan},
+  journal={International Journal of Learning Technology},
+  volume={3},
+  number={4},
+  pages={348--367},
+  year={2008},
+  publisher={Inderscience Publishers}
+}
+
+@article{biscoglio2007establishing,
+  title={Establishing a quality-model based evaluation process for websites},
+  author={Biscoglio, Isabella and Fusani, Mario and Lami, Giuseppe and Trentanni, Gianluca},
+  journal={Institute of Science and technologies in Informatics, National Research Council), Via Moruzzi},
+  volume={1},
+  pages={56124},
+  year={2007},
+  publisher={Citeseer}
+}
+
+@article{doladotic2001,
+  title={TIC2001-1143-C03},
+  author={Dolado, Jos{\'e} Javier and Riquelme, Jos{\'e} and Tuya, Javier},
+  journal={Jornada de Seguimiento de Proyectos en Tecnologias Informaticas, Programa Nacional de Tecnologias de la Informacion y las Comunicaciones},
+  year={2003}
+}
+
+@inproceedings{del2015towards,
+  title={Towards the development of a framework for encouraging the learning of SPICE model by using knowledge graphs},
+  author={Del Carpio, Alvaro Fern{\'a}ndez and Angarita, Leonardo Berm{\'o}n},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={203--216},
+  year={2015},
+  organization={Springer}
+}
+
+@article{messnarzintegrated,
+  title={Integrated COSO SPICE Assessments},
+  author={MESSNARZ, Richard and IVANYOS, Janos and EKERT, Damjan},
+  journal={Internal Financial Control Assessment Applying Multilingual Ontology Framework},
+  pages={77},
+  year={2015}
+}
+
+@inproceedings{gerogiannis2015fuzzy,
+  title={A fuzzy linguistic approach for human resource evaluation and selection in software projects},
+  author={Gerogiannis, Vassilis C and Rapti, Elli and Karageorgos, Anthony and Fitsilis, Panos},
+  booktitle={Industrial Engineering and Operations Management (IEOM), 2015 International Conference on},
+  pages={1--9},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{fitsilis2015technological,
+  title={TECHNOLOGICAL EDUCATIONAL INSTITUTE OF THESSALY},
+  journal={???WLEDGE MANAGEMENT for SOFTWARE PROJECT MANAGEMENT USING ONTOLOGIES AND SOCIAL NETW?RKS},
+  author={Fitsilis, Panos},
+  year={2015}
+}
+
+@book{fujita2006new,
+  title={New trends in software methodologies, Tools and Techniques},
+  author={Fujita, Hamido and Mejri, Mohamed},
+journal={Proceedings of the Fifth SoMeT\_06},
+  volume={147},
+  year={2006},
+  publisher={Ios Press}
+}
+
+@article{hendersonposition,
+  title={Position Statement for SEMAT},
+  author={Henderson-Sellers, Brian and FIMA, FIEAust},
+ journal={Citation},
+year={2012}
+}
+
+
+@article{bella2006asg,
+  title={ASG Platform Development Process},
+  author={Bella, Fabio and Lehner, Theresa and Ocampo, Alexis},
+  journal={Adaptive Services Grid Deliverable D},
+  volume={6},
+  year={2006}
+}
+
+@article{hussami2009decision,
+  title={A decision-support system for is compliance management},
+  author={Hussami, Lotfi},
+  journal={CAISE-DC'09 Proceedings},
+  year={2009}
+}
+
+@article{ruiz2013uses,
+  title={Uses and applications of Software \& Systems Process Engineering Meta-Model process models. A systematic mapping study},
+  author={Ruiz-Rube, Iv{\'a}n and Dodero, Juan Manuel and Palomo-Duarte, Manuel and Ruiz, Mercedes and Gawn, David},
+  journal={Journal of Software: Evolution and Process},
+  volume={25},
+  number={9},
+  pages={999--1025},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{marttiin1998similarities,
+  title={Similarities and differences of method engineering and process engineering approaches},
+  author={Marttiin, Pentti and Koskinen, Minna},
+  journal={Effective Utilization and Management of Emerging Information Technologies},
+  pages={420--424},
+  year={1998}
+}
+
+@misc{davies2007information,
+  title={Information system development},
+  author={Davies, James and Crichton, Edward and Sorensen, Ib and Neilson, David},
+  year={2007},
+  publisher={Google Patents},
+  journal={US Patent App. 10/570,381}
+}
+
+@article{henderson2014ontology,
+  title={An ontology for ISO software engineering standards: 1) Creating the infrastructure},
+  author={Henderson-Sellers, Brian and Gonzalez-Perez, Cesar and Mcbride, Tom and Low, Graham},
+  journal={Computer Standards \& Interfaces},
+  volume={36},
+  number={3},
+  pages={563--576},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@inproceedings{martoglia2011facilitate,
+  title={Facilitate IT-Providing SMEs in Software Development: a Semantic Helper for Filtering and Searching Knowledge.},
+  author={Martoglia, Riccardo},
+  booktitle={SEKE},
+  pages={130--136},
+  year={2011}
+}
+
+@book{wang2012oois,
+  title={OOIS 2001},
+  author={Wang, Xingxu and Patel, Shushma and Johnston, Ronald},
+  journal={7th International Conference on Object-Oriented Information Systems 27--29 August 2001, Calgary, Canada},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+
+
+@inproceedings{gruhn2008runtime,
+  title={Runtime Properties of Mobile Systems-Gaining Insight by Architecture Simulation.},
+  author={Gruhn, Volker and Sch{\"a}fer, Clemens},
+  booktitle={SoMeT},
+  pages={3--13},
+  year={2008}
+}
+
+@Inbook{Henderson-Sellers2014,
+author="Henderson-Sellers, Brian
+and Ralyt{\'e}, Jolita
+and {\AA}gerfalk, P{\"a}r J.
+and Rossi, Matti",
+title="Assessing Quality",
+bookTitle="Situational Method Engineering",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="195--231"
+}
+
+@article{henderson2012standards,
+  title={Standards harmonization: theory and practice},
+  author={Henderson-Sellers, Brian},
+  journal={Software \& Systems Modeling},
+  volume={11},
+  number={2},
+  pages={153--161},
+  year={2012},
+  publisher={Springer}
+}
+
+@book{rittgen2006enterprise,
+  title={Enterprise modeling and computing with UML},
+  author={Rittgen, Peter},
+journal={booksgoogle},
+  year={2006},
+  publisher={IGI Global}
+}
+
+@inproceedings{aharoni2008domain,
+  title={A domain engineering approach for situational method engineering},
+  author={Aharoni, Anat and Reinhartz-Berger, Iris},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={455--468},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{rifaut2011intentional,
+  title={Intentional Models based on Measurement Theory.},
+  author={Rifaut, Andre},
+  booktitle={IStar},
+  pages={144--149},
+  year={2011},
+  organization={Citeseer}
+}
+
+@article{bajec13method,
+  title={METHOD ENGINEERING--ME’11},
+  author={Bajec, Marko and Elves{\ae}ter, Brian and Session, V and Session, I and Session, IV and Session, VI and Session, II},
+  journal={Foundations},
+  volume={13},
+  pages={15--00}
+}
+
+@article{keto2007applying,
+  title={Applying a Process-Ontological Model in Practice},
+  author={Keto, Harri and Palom{\"a}ki, Jari},
+  journal={Proceedings of ONTOSE},
+  year={2007}
+}
+
+@inproceedings{figueiredo2014evolving,
+  title={Evolving a method framework for engineering process assessment models},
+  author={Figueiredo, Adriana MCM and Salviano, Clenio F},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={12--23},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{alves2012experimental,
+  title={Experimental software engineering in educational context},
+  author={Alves, Lu{\'\i}s M and Machado, Ricardo J and Ribeiro, Pedro},
+  booktitle={Quality of Information and Communications Technology (QUATIC), 2012 Eighth International Conference on the},
+  pages={336--341},
+  year={2012},
+  organization={IEEE}
+}
+
+@Inbook{Henderson-Sellers2014,
+author="Henderson-Sellers, Brian
+and Ralyt{\'e}, Jolita
+and {\AA}gerfalk, P{\"a}r J.
+and Rossi, Matti",
+title="Introduction",
+bookTitle="Situational Method Engineering",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="3--25"
+}
+
+@inproceedings{yahaya2012towards,
+  title={Towards the anti-ageing model for application software},
+  author={Yahaya, Jamaiah and Deraman, Aziz},
+  booktitle={Proceedings of the World Congress on Engineering},
+  volume={2},
+  year={2012}
+}
+
+@inproceedings{montoni2007methodology,
+  title={A methodology for identifying critical success factors that influence software process improvement initiatives: an application in the Brazilian software industry},
+  author={Montoni, Mariano and Rocha, Ana Regina},
+  booktitle={European Conference on Software Process Improvement},
+  pages={175--186},
+  year={2007},
+  organization={Springer}
+}
+
+@article{doladotin2004,
+  title={TIN2004-06689-C03},
+  author={Dolado, Jos{\'e} Javier and Ramos, Isabel and Tuya, Javier},
+  journal={Jornadas de Seguimiento de Proyectos, 2007
+Programa Nacional de Tecnolog´ias Inform´aticas},
+year={2007}
+}
+
+
+@article{lewis1970development,
+  title={The development process.},
+  author={Lewis, William Arthur},
+  year={1970},
+  publisher={New York United Nations 1970.}
+}
+
+@Inbook{Casteleyn2009,
+author="Casteleyn, Sven and Daniel, Florian and Dolog, Peter and Matera, Maristella",
+title="The Development Process",
+bookTitle="Engineering Web Applications",
+year="2009",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="57--79"
+}
+
+@misc{unterkalmsteiner2010extended,
+  title={Extended Material to ‘Evaluation and Measurement of Software Process Improvement—A Systematic Literature Review’},
+  author={Unterkalmsteiner, M and Gorschek, Tony and Islam, AKMM and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert},
+  year={2010}
+}
+
+@inproceedings{montoni2006taba,
+  title={Taba workstation: Supporting software process deployment based on CMMI and MR-MPS. BR},
+  author={Montoni, Mariano and Santos, Gleison and Rocha, Ana Regina and Figueiredo, S{\'a}vio and Cabral, Reinaldo and Barcellos, Rafael and Barreto, Ahilton and Soares, Andr{\'e}a and Cerdeiral, Cristina and Lupo, Peter},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={249--262},
+  year={2006},
+  organization={Springer}
+}
+
+@inproceedings{ferreira2006taba,
+  title={Taba workstation: Supporting software process improvement initiatives based on software standards and maturity models},
+  author={Ferreira, Analia Irigoyen Ferreiro and Santos, Gleison and Cerqueira, Roberta and Montoni, Mariano and Barreto, Ahilton and Rocha, Ana Regina and Figueiredo, S{\'a}vio and Barreto, Andrea and Silva Filho, Reinaldo C and Lupo, Peter and others},
+  booktitle={European Conference on Software Process Improvement},
+  pages={207--218},
+  year={2006},
+  organization={Springer}
+}
+
+@article{lavrischeva2009approach,
+  title={An approach to expert assessment in software engineering},
+  author={Lavrischeva, EM and Slabospickaya, OA},
+  journal={Cybernetics and Systems Analysis},
+  volume={45},
+  number={4},
+  pages={638--654},
+  year={2009},
+  publisher={Springer}
+}
+
+@book{fujita2016new,
+  title={New Trends in Software Methodologies, Tools and Techniques: Proceedings of the Fifteenth SoMeT\_16},
+  author={Fujita, Hamido and Papadopoulos, George A},
+  volume={286},
+  year={2016},
+  publisher={IOS Press}
+}
+
+@article{hauck2017proposing,
+  title={Proposing a knowledge engineering based approach for process capability/maturity models customization},
+  author={Hauck, Jean Carlo R and Gresse von Wangenheim, Christiane and McCaffery, Fergal and Von Wangenheim, Aldo},
+  year={2017}
+}
+
+@article{mora2009overview,
+  title={An overview of models and standards of processes in the SE, SwE, and IS Disciplines},
+  author={Mora, Manuel and Gelman, Ovsei and O’Connor, Rory and Alvarez, Francisco and Mac{\'\i}as-Lu{\'e}vano, Jorge},
+  journal={Information Communication Technology Standardization for E-Business Sectors: Integrating Supply and Demand Factors: Integrating Supply and Demand Factors},
+  volume={147},
+  year={2009},
+  publisher={IGI Global}
+}
+
+@article{taipaleresults,
+  title={RESULTS OF THE STUDY: OBSERVATIONS ON SOFTWARE TESTING PRACTICE},
+  author={Taipale, Ossi},
+  journal={Lappeenranta University of Technology},
+  year={2007}
+}
+
+@article{kaufmann2014extending,
+  title={Extending the SPES Modeling Framework for Supporting Role-specific Variant Management in the Engineering Process of Embedded Software},
+  author={Kaufmann, Tobias and Manz, Christian and Weyer, Thorsten},
+  year={2014},
+  publisher={CEUR-WS. org}
+}
+
+
+@incollection{ruiz2003environment,
+  title={Environment for Managing Software Maintenance Projects},
+  author={Ruiz, Francisco and Garcia, Felix and Piattini, Mario and Polo, Macario},
+  booktitle={Advances in software maintenance management: technologies and solutions},
+  pages={255--291},
+  year={2003},
+  publisher={IGI Global}
+}
+
+
+@inproceedings{coallier2007vision,
+  title={A vision for international standardization in software and systems engineering},
+  author={Coallier, Fran{\c{c}}ois},
+  booktitle={Quality of Information and Communications Technology, 2007. QUATIC 2007. 6th International Conference on the},
+  pages={3--11},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{zarour2012evaluating,
+  title={Evaluating the assessment method of the software maintenance maturity model},
+  author={Zarour, Mohammad and Alarifi, Abdulrahman and Abran, Alain and Desharnais, Jean-Marc},
+  booktitle={Information Technology and e-Services (ICITeS), 2012 International Conference on},
+  pages={1--8},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{tripathi2007change,
+  title={Change management in semantic business processes modeling},
+  author={Tripathi, Uttam Kumar and Hinkelmann, Knut},
+  booktitle={Autonomous Decentralized Systems, 2007. ISADS'07. Eighth International Symposium on},
+  pages={155--162},
+  year={2007},
+  organization={IEEE}
+}
+
+
+@inproceedings{barafort2014design,
+  title={How to design an innovative framework for process improvement? The TIPA for ITIL case},
+  author={Barafort, B{\'e}atrix and Rousseau, Anne and Dubois, Eric},
+  booktitle={European Conference on Software Process Improvement},
+  pages={48--59},
+  year={2014},
+  organization={Springer}
+}
+
+
+@article{xia2009reliable,
+  title={A Reliable Message Transfer Mechanism [J]},
+  author={XIA, Sheng-ming and YIN, Bao-lin},
+  journal={Computer Technology and Development},
+  volume={10},
+  pages={009},
+  year={2009}
+}
+
+@article{von1997information,
+  title={Information systems quality versus software quality a discussion from a managerial, an organisational and an engineering viewpoint},
+  author={Von Hellens, LA},
+  journal={Information and Software Technology},
+  volume={39},
+  number={12},
+  pages={801--808},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@inproceedings{kerzazi2015conceptual,
+  title={Conceptual alignment between SPEM-based processes and CMMI},
+  author={Kerzazi, Noureddine},
+  booktitle={Intelligent Systems: Theories and Applications (SITA), 2015 10th International Conference on},
+  pages={1--9},
+  year={2015},
+  organization={IEEE}
+}
+
+@incollection{silva2016process,
+  title={A process for creating the elicitation guide of non-functional requirements},
+  author={Silva, Andreia and Pinheiro, Pl{\'a}cido and Albuquerque, Adriano and Barroso, J{\^o}natas},
+  booktitle={Software Engineering Perspectives and Application in Intelligent Systems},
+  pages={293--302},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{kumarapeli2007feasibility,
+  title={The feasibility of using ML to compare the impact of different brands of computer system on the clinical consultation.},
+  author={Kumarapeli, Pushpa and de Lusignan, Simon and Koczan, Phil and Jones, Beryl and Sheeler, Ian},
+  journal={Informatics in primary care},
+  volume={15},
+  number={4},
+  year={2007}
+}
+
+@article{husnain2009interrogative,
+  title={An interrogative review of requirement engineering frameworks},
+  author={Husnain, Muhammad and Waseem, Muhammad and Ghayyur, SAK},
+  journal={International Journal of Reviews in Computing},
+  volume={2},
+  number={1},
+  pages={1--8},
+  year={2009},
+  publisher={Citeseer}
+}
+
+@article{lehner2006asg,
+  title={ASG Development Process--Application and Service Engineering},
+  author={Lehner, Theresa and Bayer, Joachim and Bella, Fabio and Ocampo, Alexis},
+  journal={Adaptive Services Grid Deliverable D},
+  volume={6},
+  year={2006}
+}
+
+@inproceedings{cancian2010supporting,
+  title={Supporting Software Services’ Trustworthiness in Collaborative Networks},
+  author={Cancian, Maiara Heil and Rabelo, Ricardo J and Von Wangenheim, Christiane Gresse},
+  booktitle={Working Conference on Virtual Enterprises},
+  pages={672--684},
+  year={2010},
+  organization={Springer}
+}
+
+@book{rosing2014complete,
+  title={The Complete Business Process Handbook: Body of Knowledge from Process Modeling to BPM, Volume I},
+  author={Rosing, Mark von and Scheel, Henrik von and Scheer, August-Wilhelm},
+  year={2014},
+  publisher={Morgan Kaufmann Publishers Inc.}
+}
+
+@article{tripathi2008life,
+  title={Life cycle for change management in business processes using semantic technologies.},
+  author={Tripathi, Uttam Kumar and Hinkelmann, Knut and Feldkamp, Daniela},
+  journal={JCP},
+  volume={3},
+  number={1},
+  pages={24--31},
+  year={2008}
+}
+
+@inproceedings{bodo2015semi,
+  title={Semi-supervised learning applied to performance indicators in software engineering processes},
+  author={Bodo, Leandro and Oliveira, HC and Breve, Fabricio Aparecido and Eler, Danilo Medeiros},
+  booktitle={International Conference on Software Engineering Research and Practice (SERP 2015), Las Vegas, EUA},
+  pages={255--261},
+  year={2015}
+}
+
+@inproceedings{adedjouma2012merging,
+  title={Merging the quality assessment of processes and products in automotive domain},
+  author={Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{\c{c}}ois and Kitouni, Tarek},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={275--289},
+  year={2012},
+  organization={Springer}
+}
+
+@book{gervasi2006computational,
+  title={Computational Science and Its Applications-ICCSA 2006: International Conference, Glasgow, UK, May 8-11, 2006, Proceedings},
+  author={Gervasi, Osvaldo and Kumar, Vipin and Tan, CJ Kenneth and Taniar, David and Lagan{\`a}, Antonio and Mun, Youngsong and Choo, Hyunseung},
+  volume={3983},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{yurchyshyna2010improving,
+  title={Improving formalizing expert knowledge in Construction: from ontology-based modeling to creating sustainable services},
+  author={Yurchyshyna, A and Leonard, M},
+  booktitle={eWork and eBusiness in Architecture, Engineering and Construction: Proceedings of the European Conference on Product and Process Modelling 2010, Cork, Republic of Ireland, 14-16 September 2010},
+  pages={3},
+  year={2010},
+  organization={CRC Press}
+}
+
+@article{larrucea2016standards,
+  title={Standards-based metamodel for the management of goals, risks and evidences in critical systems development},
+  author={Larrucea, Xabier and Gonzalez-Perez, Cesar and McBride, Tom and Henderson-Sellers, Brian},
+  journal={Computer Standards \& Interfaces},
+  volume={48},
+  pages={71--79},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{borsoi2008use,
+  title={The use of object orientation to define process models},
+  author={Borsoi, Beatriz Terezinha and Becerra, Jorge Luis Risco},
+  booktitle={Software Engineering Research, Management and Applications, 2008. SERA'08. Sixth International Conference on},
+  pages={85--92},
+  year={2008},
+  organization={IEEE}
+}
+
+@article{manjula2011new,
+  title={A New Framework for Measuring the Quality of Engineering Education System using SEI-CMM approach--(E2-CMM)},
+  author={Manjula, R and Vaideeswaran, J},
+  journal={International Journal of Software Engineering \& Applications},
+  volume={2},
+  number={1},
+  pages={28--42},
+  year={2011}
+}
+
+@Inbook{Henderson-Sellers2014,
+author="Henderson-Sellers, Brian
+and Ralyt{\'e}, Jolita
+and {\AA}gerfalk, P{\"a}r J.
+and Rossi, Matti",
+title="Formal Descriptions",
+bookTitle="Situational Method Engineering",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="69--114"
+}
+
+
+@inproceedings{burgues2005mof,
+  title={A MOF-compliant approach to software quality modeling},
+  author={Burgu{\'e}s, Xavier and Franch, Xavier and Rib{\'o}, Josep M},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={176--191},
+  year={2005},
+  organization={Springer}
+}
+
+@incollection{succar2010building,
+  title={Building information modelling maturity matrix},
+  author={Succar, Bilal},
+  booktitle={Handbook of research on building information modeling and construction informatics: Concepts and technologies},
+  pages={65--103},
+  year={2010},
+  publisher={IGI Global}
+}
+
+@inproceedings{ning2005requirements,
+  title={Requirements engineering processes improvement: a systematic view},
+  author={Ning, Anliang and Hou, Hong and Hua, Qingyi and Yu, Bin and Hao, Kegang},
+  booktitle={Software Process Workshop},
+  pages={151--163},
+  year={2005},
+  organization={Springer}
+}
+
+@inproceedings{ramakrishnan1994quality,
+  title={Quality factors for resource allocation problems-linking domain analysis and object-oriented software engineering},
+  author={Ramakrishnan, Sita},
+  booktitle={Software Testing, Reliability and Quality Assurance, 1994. Conference Proceedings., First International Conference on},
+  pages={68--72},
+  year={1994},
+  organization={IEEE}
+}
+
+@article{menolli2013organizational,
+  title={Organizational learning applied to software engineering: a systematic review},
+  author={Menolli, Andre and Reinehr, Sheila and Malucelli, Andreia},
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  volume={23},
+  number={08},
+  pages={1153--1175},
+  year={2013},
+  publisher={World Scientific}
+}
+
+
+@article{gerogiannis2015using,
+  title={On using fuzzy linguistic 2-tuples for the evaluation of human resource suitability in software development tasks},
+  author={Gerogiannis, Vassilis C and Rapti, Elli and Karageorgos, Anthony and Fitsilis, Panos},
+  journal={Advances in Software Engineering},
+  volume={2015},
+  pages={1},
+  year={2015},
+  publisher={Hindawi Publishing Corp.}
+}
+
+@incollection{buglione2015software,
+  title={Software or Service? That’s the question!},
+  author={Buglione, Luigi and Abran, Alain and von Wangenheim, Christiane Gresse and Mc Caffery, Fergal and Hauck, Jean Carlo Rossa},
+  booktitle={Software Measurement},
+  pages={30--45},
+  year={2015},
+  publisher={Springer}
+}
+
+
+@inproceedings{burgues2008quinst,
+  title={QUINST: A Metamodeling Tool},
+  author={Burgu{\'e}s, Xavier and Franch, Xavier and Rib{\'o}, Josep M},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={544--546},
+  year={2008},
+  organization={Springer}
+}
+
+
+@article{preneelsofsem,
+  title={SOFSEM 2014: Theory and Practice of Computer Science},
+  author={Preneel, Viliam Geffert Bart and {\v{S}}tuller, Branislav Rovan J{\'u}lius and Tjoa, A Min},
+booktitle={40th International Conference on Current Trends in Theory and Practice of Computer Science},
+  publisher={Springer},
+year={2014}
+}
+
+
+
+@incollection{garcia2016project,
+  title={Project Management in Small-Sized Software Enterprises: A Metamodeling-Based Approach},
+  author={Garcia, I and Pacheco, C and Arcilla, M and Sanchez, N},
+  booktitle={Trends and Applications in Software Engineering},
+  pages={3--13},
+  year={2016},
+  publisher={Springer}
+}
+
+@phdthesis{lafta2015study,
+  title={A study of requirements engineering practices among software developers at UUM Information Technology (UUMIT)},
+  booktitle={phd thesis},
+  author={Lafta, Inam Abdullah},
+  year={2015},
+  school={Universiti Utara Malaysia}
+}
+
+@article{laplante2010encyclopedia ,
+  title={Encyclopedia of Software Engineering},
+  author={Laplante, P},
+booktitle={Encyclopedia of Software Engineering Three-Volume Set (Print)},
+  publisher={Auerbach Publications},
+year={2010}
+}
+
+@article{wimmerreport,
+  title={Report for the activities within the RENOIR exchange programme},
+  journal={Requirements Engineering Network Of International cooperating Research groups},
+  author={Wimmer, Maria A},
+  year={2000}
+}
+
+
+@article{meth2013state,
+  title={The state of the art in automated requirements elicitation},
+  author={Meth, Hendrik and Brhel, Manuel and Maedche, Alexander},
+  journal={Information and Software Technology},
+  volume={55},
+  number={10},
+  pages={1695--1709},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@book{simos2007international,
+  title={International e-Conference of Computer Science 2006: Additional Papers from ICNAAM 2006 and ICCMSE 2006},
+  author={Simos, Theodore and Psihoyios, Georgios},
+  volume={8},
+  year={2007},
+  publisher={CRC Press}
+}
+
+@book{geffert2014sofsem,
+  title={SOFSEM 2014: Theory and Practice of Computer Science: 40th International Conference on Current Trends in Theory and Practice of Computer Science, Nov{\`y} Smokovec, Slovakia, January 26-29, 2014, Proceedings},
+  author={Geffert, Viliam and Preneel, Bart and Rovan, Branislav and {\v{S}}tuller, J{\'u}lius and Tjoa, A Min},
+  volume={8327},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{gasston1999role,
+  title={The Role of the Client-Supplier Relationship in Achieving Software Quality},
+  author={Gasston, Jennifer},
+  booktitle={VTT SYMPOSIUM},
+  volume={195},
+  pages={203--221},
+  year={1999},
+  organization={VTT; 1999}
+}
+
+@article{barafort2017integrating,
+  title={Integrating risk management in IT settings from ISO standards and management systems perspectives},
+  author={Barafort, B{\'e}atrix and Mesquida, Antoni-Llu{\'\i}s and Mas, Antonia},
+  journal={Computer Standards \& Interfaces},
+  volume={54},
+  pages={176--185},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{eberlein2007description,
+  title={Description of a process development methodology},
+  author={Eberlein, Armin and Jiang, Li},
+  journal={Software Process: Improvement and Practice},
+  volume={12},
+  number={1},
+  pages={101--118},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@incollection{li2008overview,
+  title={Overview of Software Processes and Software Evolution},
+  author={Li, Tong},
+  booktitle={An Approach to Modelling Software Evolution Processes},
+  pages={8--33},
+  year={2008},
+  publisher={Springer}
+}
+
+@inproceedings{zacarias2012modeling,
+  title={Modeling Business Processes from Work Practices},
+  author={Zacarias, Marielba and Martins, Paula Ventura},
+  booktitle={International Conference on Advanced Information Systems Engineering},
+  pages={440--454},
+  year={2012},
+  organization={Springer}
+}
+
+

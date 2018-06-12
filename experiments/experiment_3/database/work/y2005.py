@@ -18,6 +18,32 @@ april2005a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=4698067354586756591&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Software: Evolution and Process",
+    wiley2016="1",
+))
+
+bourque2005a = DB(WorkUnrelated(
+    2005, "Contributions to the Maturation of Software Engineering as a Discipline and a Recognised Profession",
+    display="bourque",
+    authors="Bourque, Pierre",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="bourque2005contributions",
+    local="Citeseer",
+    gs2016="1",
+    placex="",
+))
+
+burgués2005a = DB(WorkUnrelated(
+    2005, "A MOF-compliant approach to software quality modeling",
+    display="burgués",
+    authors="Burgués, Xavier and Franch, Xavier and Ribó, Josep M",
+    place=FAKE,
+    pp="176--191",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="burgues2005mof",
+    gs2016="1",
+    placex="International Conference on Conceptual Modeling",
 ))
 
 falbo2005a = DB(WorkUnrelated(
@@ -93,6 +119,42 @@ liao2005b = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="",
+))
+
+ning2005a = DB(WorkUnrelated(
+    2005, "Requirements engineering processes improvement: a systematic view",
+    display="ning",
+    authors="Ning, Anliang and Hou, Hong and Hua, Qingyi and Yu, Bin and Hao, Kegang",
+    place=FAKE,
+    pp="151--163",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ning2005requirements",
+    gs2016="1",
+    placex="Software Process Workshop",
+))
+
+rocha2005a = DB(WorkUnrelated(
+    2005, "Estação TABA: Uma infra-estrutura para Implantação do Modelo de referência para Melhoria de Processo de Software",
+    display="rocha",
+    authors="Rocha, Ana Regina and Montoni, Mariano and Santos, Gleison and Mafra, Sômulo and Figueiredo, Sávio and Bessa, Adriano and Mian, Paula",
+    place=FAKE,
+    entrytype="article",
+    ID="rocha2005estaccao",
+    gs2016="1",
+    placex="IV SBQS, Porto Alegre, Brasil",
+))
+
+scacchi2005a = DB(WorkUnrelated(
+    2005, "Dynamic Process Discovery, Modeling, and Recovery: Managing Knowledge Intensive Distributed Systems",
+    display="scacchi",
+    authors="Scacchi, Walt and Noll, John",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="scacchi2005dynamic",
+    gs2016="1",
+    placex="Institute for Software Research",
 ))
 
 shangteng2005a = DB(WorkUnrelated(

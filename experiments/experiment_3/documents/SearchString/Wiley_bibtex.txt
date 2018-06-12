@@ -1,0 +1,151 @@
+@article{april2005software,
+  title={Software Maintenance Maturity Model (SMmm): the software maintenance process model},
+  author={April, Alain and Huffman Hayes, Jane and Abran, Alain and Dumke, Reiner},
+  journal={Journal of Software: Evolution and Process},
+  volume={17},
+  number={3},
+  pages={197--223},
+  year={2005},
+  publisher={Wiley Online Library}
+}
+
+@article{biffl2006software,
+  title={Software process improvement in Europe: potential of the new V-modell XT and research issues},
+  author={Biffl, Stefan and Winkler, Dietmar and H{\"o}hn, Reinhard and Wetzel, Herbert},
+  journal={Software Process: Improvement and Practice},
+  volume={11},
+  number={3},
+  pages={229--238},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{canfora2006applying,
+  title={Applying a framework for the improvement of software process maturity},
+  author={Canfora, Gerardo and Garc{\'\i}a, F{\'e}lix and Piattini, Mario and Ruiz, Francisco and Visaggio, Corrado Aaron},
+  journal={Software: Practice and Experience},
+  volume={36},
+  number={3},
+  pages={283--304},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{cholez2014maturity,
+  title={Maturity assessment and process improvement for information security management in small and medium enterprises},
+  author={Cholez, Herv{\'e} and Girard, Fr{\'e}d{\'e}ric},
+  journal={Journal of Software: Evolution and Process},
+  volume={26},
+  number={5},
+  pages={496--503},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+
+@article{chroust2011improving,
+  title={Improving resilience of critical human systems in CBRN emergencies: challenges for first responders},
+  author={Chroust, Gerhard and Rainer, Karin and Sturm, Nadine and Roth, Markus and Ziehesberger, Peter},
+  journal={Systems Research and Behavioral Science},
+  volume={28},
+  number={5},
+  pages={476--490},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{eberlein2007description,
+  title={Description of a process development methodology},
+  author={Eberlein, Armin and Jiang, Li},
+  journal={Software Process: Improvement and Practice},
+  volume={12},
+  number={1},
+  pages={101--118},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{huffman2003observe,
+  title={Observe-mine-adopt (OMA): an agile way to enhance software maintainability},
+  author={Huffman Hayes, Jane and Mohamed, Naresh and Gao, Tina Hong},
+  journal={Journal of Software: Evolution and Process},
+  volume={15},
+  number={5},
+  pages={297--323},
+  year={2003},
+  publisher={Wiley Online Library}
+}
+
+@article{kelemen2012identifying,
+  title={Identifying criteria for multimodel software process improvement solutions--based on a review of current problems and initiatives},
+  author={Kelemen, Z{\'a}dor D{\'a}niel and Kusters, Rob and Trienekens, Jos},
+  journal={Journal of software: Evolution and Process},
+  volume={24},
+  number={8},
+  pages={895--909},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{laporte201210,
+  title={10.3. 1 The Development of Systems Engineering International Standards and Support Tools for Very Small Enterprises},
+  author={Laporte, Claude Y and Ptack, Ken and Fanmuy, Gauthier},
+  booktitle={INCOSE International Symposium},
+  volume={22},
+  number={1},
+  pages={1460--1487},
+  year={2012},
+  organization={Wiley Online Library}
+}
+
+@article{lee2007certification,
+  title={Certification process artifacts defined as measurable units for software assurance},
+  author={Lee, Seok-Won and Gandhi, Robin A and Ahn, Gail-Joon},
+  journal={Software Process: Improvement and Practice},
+  volume={12},
+  number={2},
+  pages={165--189},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{lema2015itil,
+  title={ITIL in small to medium-sized enterprises software companies: towards an implementation sequence},
+  author={Lema, Lohana and Calvo-Manzano, Jos{\'e}-Antonio and Colomo-Palacios, Ricardo and Arcilla, Magdalena},
+  journal={Journal of Software: Evolution and Process},
+  volume={27},
+  number={8},
+  pages={528--538},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{leppanen2006conceptual,
+  title={Conceptual evaluation of methods for engineering situational ISD methods},
+  author={Lepp{\"a}nen, Mauri},
+  journal={Software Process: Improvement and Practice},
+  volume={11},
+  number={5},
+  pages={539--555},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{ruiz2013uses,
+  title={Uses and applications of Software \& Systems Process Engineering Meta-Model process models. A systematic mapping study},
+  author={Ruiz-Rube, Iv{\'a}n and Dodero, Juan Manuel and Palomo-Duarte, Manuel and Ruiz, Mercedes and Gawn, David},
+  journal={Journal of Software: Evolution and Process},
+  volume={25},
+  number={9},
+  pages={999--1025},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{safonov2008teaching,
+  title={Teaching TWC and AOP},
+  author={Safonov, Vladimir O},
+  journal={Using Aspect-Oriented Programming for Trustworthy Software Development},
+  pages={208--268},
+  year={2008},
+  publisher={Wiley Online Library}
+}

@@ -3,6 +3,45 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alam2014a = DB(WorkUnrelated(
+    2014, "Technology-enhanced laboratory experiments in learning and teaching",
+    display="alam",
+    authors="Alam, Firoz and Hadgraft, Roger G and Subic, Aleksandar",
+    place=FAKE,
+    pp="289--302",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="alam2014technology",
+    gs2016="1",
+    placex="Using Technology Tools to Innovate Assessment, Reporting, and Teaching Practices in Engineering Education",
+))
+
+ali2014a = DB(WorkUnrelated(
+    2014, "A systematic literature review on the industrial use of software process simulation",
+    display="ali",
+    authors="Ali, Nauman Bin and Petersen, Kai and Wohlin, Claes",
+    place=JSS,
+    pp="65--85",
+    entrytype="article",
+    volume="97",
+    publisher="Elsevier",
+    ID="ali2014systematic",
+    gs2016="1",
+    placex="Journal of Systems and Software",
+))
+
+araujo2014a = DB(WorkUnrelated(
+    2014, "Mapeamento do MPS. SW com os modelos MPT. BR e CERTICS",
+    display="araujo",
+    authors="de Araujo, Larissa Lopes",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="de2014mapeamento",
+    local="Universidade Federal do Rio de Janeiro",
+    gs2016="1",
+    placex="",
+))
+
 ayalew2014a = DB(WorkUnrelated(
     2014, "An ISO/IEC 15504 based software process assessment in small software companies",
     display="ayalew",
@@ -16,6 +55,19 @@ ayalew2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=12238272806795589375&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Software Engineering & Its Applications",
+))
+
+barafort2014a = DB(WorkUnrelated(
+    2014, "How to design an innovative framework for process improvement? The TIPA for ITIL case",
+    display="barafort",
+    authors="Barafort, Béatrix and Rousseau, Anne and Dubois, Eric",
+    place=FAKE,
+    pp="48--59",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="barafort2014design",
+    gs2016="1",
+    placex="European Conference on Software Process Improvement",
 ))
 
 bibi2014a = DB(WorkUnrelated(
@@ -33,6 +85,40 @@ bibi2014a = DB(WorkUnrelated(
     placex="Software Engineering and Applications (ICSOFT-EA), 2014 9th International Conference on",
 ))
 
+bontcheva2014a = DB(WorkUnrelated(
+    2014, "Learning Ontologies from Software Artifacts: Exploring and Combining Multiple Choices.",
+    display="bontcheva",
+    authors="Bontcheva, Kalina",
+    place=FAKE,
+    entrytype="misc",
+    ID="bontcheva2014learning",
+    gs2016="1",
+    placex="booksgoogle",
+))
+
+bozan2014a = DB(WorkUnrelated(
+    2014, "Essays on Electronic Health Records (EHR) Process Framework and Design-Theoretic Model in a Multi-Stakeholder Context",
+    display="bozan",
+    authors="Bozan, Karoly",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="bozan2014essays",
+    local="Kent State University",
+    gs2016="1",
+    placex="",
+))
+
+chansylilath2014a = DB(WorkUnrelated(
+    2014, "Evaluation and Improvement of MoSaIc Reference Models Comparison Approach",
+    display="chansylilath",
+    authors="CHANSYLILATH, Chittaphone and JENERS, Simona",
+    place=FAKE,
+    entrytype="article",
+    ID="chansylilathevaluation",
+    gs2016="1",
+    placex="International conference on Intelligent Systems, Data Mining and Information Technology (ICIDIT’2014)",
+))
+
 cholez2014a = DB(WorkUnrelated(
     2014, "Maturity assessment and process improvement for information security management in small and medium enterprises",
     display="cholez",
@@ -48,6 +134,33 @@ cholez2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=2751740774997121183&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Software: Evolution and Process",
+    wiley2016="1",
+))
+
+dewitte2014a = DB(WorkUnrelated(
+    2014, "Development and Reuse of Engineering Automation",
+    display="dewitte",
+    authors="Dewitte, PJAR",
+    place=FAKE,
+    entrytype="article",
+    ID="dewitte2014development",
+    gs2016="1",
+    placex="",
+))
+
+eito2014a = DB(WorkUnrelated(
+    2014, "Mapping of improvement models as a risk reduction strategy: a theoretical comparison for the aerospace industry",
+    display="eito",
+    authors="Eito-Brun, Ricardo",
+    place=FAKE,
+    pp="283--295",
+    entrytype="article",
+    volume="10",
+    number="4",
+    publisher="Springer",
+    ID="eito2014mapping",
+    gs2016="1",
+    placex="Innovations in Systems and Software Engineering",
 ))
 
 escalona2014a = DB(WorkUnrelated(
@@ -60,6 +173,31 @@ escalona2014a = DB(WorkUnrelated(
     ID="escalona2014information",
     gs2016="1",
     placex="",
+))
+
+figueiredo2014a = DB(WorkUnrelated(
+    2014, "Evolving a method framework for engineering process assessment models",
+    display="figueiredo",
+    authors="Figueiredo, Adriana MCM and Salviano, Clenio F",
+    place=ICSPICD,
+    pp="12--23",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="figueiredo2014evolving",
+    gs2016="1",
+    placex="International Conference on Software Process Improvement and Capability Determination",
+))
+
+filó2014a = DB(WorkUnrelated(
+    2014, "Um Método de Extraç ao de Valores Referência para Métricas de Softwares Orientados por Objetos",
+    display="filó",
+    authors="Filó, Tarcısio GS and Bigonha, Mariza AS and Ferreira, Kecia Aline Marques",
+    place=FAKE,
+    pp="62",
+    entrytype="article",
+    ID="filo2014metodo",
+    gs2016="1",
+    placex="WTDSoft 2014",
 ))
 
 fitsilis2014a = DB(WorkUnrelated(
@@ -79,6 +217,113 @@ fitsilis2014a = DB(WorkUnrelated(
     placex="Journal of Software Engineering and Applications",
 ))
 
+geffert2014a = DB(WorkUnrelated(
+    2014, "SOFSEM 2014: Theory and Practice of Computer Science: 40th International Conference on Current Trends in Theory and Practice of Computer Science, Novỳ Smokovec, Slovakia, January 26-29, 2014, Proceedings",
+    display="geffert",
+    authors="Geffert, Viliam and Preneel, Bart and Rovan, Branislav and {Š}tuller, Július and Tjoa, A Min",
+    place=Book,
+    entrytype="book",
+    volume="8327",
+    publisher="Springer",
+    ID="geffert2014sofsem",
+    gs2016="1",
+    placex="",
+))
+
+henderson2014a = DB(WorkUnrelated(
+    2014, "An ontology for ISO software engineering standards: 1) Creating the infrastructure",
+    display="henderson",
+    authors="Henderson-Sellers, Brian and Gonzalez-Perez, Cesar and Mcbride, Tom and Low, Graham",
+    place=CSI,
+    pp="563--576",
+    entrytype="article",
+    volume="36",
+    number="3",
+    publisher="Elsevier",
+    ID="henderson2014ontology",
+    gs2016="1",
+    placex="Computer Standards & Interfaces",
+))
+
+henderson2014b = DB(WorkUnrelated(
+    2014, "Assessing Quality",
+    display="henderson b",
+    authors="Henderson-Sellers, Brian and Ralyté, Jolita and Ågerfalk, Pär J. and Rossi, Matti",
+    place=FAKE,
+    entrytype="inbook",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Henderson-Sellers2014",
+    gs2016="1",
+    placex="Situational Method Engineering",
+))
+
+henderson2014c = DB(WorkUnrelated(
+    2014, "Introduction",
+    display="henderson c",
+    authors="Henderson-Sellers, Brian and Ralyté, Jolita and Ågerfalk, Pär J. and Rossi, Matti",
+    place=FAKE,
+    entrytype="inbook",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Henderson-Sellers2014",
+    gs2016="1",
+    placex="Situational Method Engineering",
+))
+
+henderson2014d = DB(WorkUnrelated(
+    2014, "Formal Descriptions",
+    display="henderson d",
+    authors="Henderson-Sellers, Brian and Ralyté, Jolita and Ågerfalk, Pär J. and Rossi, Matti",
+    place=FAKE,
+    entrytype="inbook",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    ID="Henderson-Sellers2014",
+    gs2016="1",
+    placex="Situational Method Engineering",
+))
+
+henderson2014e = DB(WorkUnrelated(
+    2014, "Processes for Creating a Methodology from Method Parts",
+    display="henderson e",
+    authors="Henderson-Sellers, Brian and Ralyté, Jolita and Ågerfalk, Pär J and Rossi, Matti",
+    place=FAKE,
+    pp="133--167",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="henderson2014processes",
+    gs2016="1",
+    placex="Situational Method Engineering",
+))
+
+kaufmann2014a = DB(WorkUnrelated(
+    2014, "Extending the SPES Modeling Framework for Supporting Role-specific Variant Management in the Engineering Process of Embedded Software",
+    display="kaufmann",
+    authors="Kaufmann, Tobias and Manz, Christian and Weyer, Thorsten",
+    place=FAKE,
+    entrytype="article",
+    publisher="CEUR-WS. org",
+    ID="kaufmann2014extending",
+    gs2016="1",
+    placex="",
+))
+
+kroeger2014a = DB(WorkUnrelated(
+    2014, "Understanding the characteristics of quality for software engineering processes: A Grounded Theory investigation",
+    display="kroeger",
+    authors="Kroeger, Trent A and Davidson, Neil J and Cook, Stephen C",
+    place=IST,
+    pp="252--271",
+    entrytype="article",
+    volume="56",
+    number="2",
+    publisher="Elsevier",
+    ID="kroeger2014understanding",
+    gs2016="1",
+    placex="Information and Software Technology",
+))
+
 mata2014a = DB(WorkUnrelated(
     2014, "Knowledge Management in Process Improvement and Best Practices Sharing",
     display="mata",
@@ -92,6 +337,58 @@ mata2014a = DB(WorkUnrelated(
     ID="mata2014knowledge",
     gs2016="1",
     placex="IEEE Latin America Transactions",
+))
+
+mehmood2014a = DB(WorkUnrelated(
+    2014, "A Quality Pattern Based Approach for the Analysis and Design of Information Systems",
+    display="mehmood",
+    authors="Mehmood, Kashif",
+    place=Book,
+    entrytype="book",
+    publisher="Citeseer",
+    ID="mehmood2014quality",
+    gs2016="1",
+    placex="",
+))
+
+mesquida2014a = DB(WorkUnrelated(
+    2014, "MIN-ITs: A Framework for Integration of IT Management Standards in Mature Environments",
+    display="mesquida",
+    authors="Mesquida, Antoni-Lluís and Mas, Antonia and Feliu, Tomás San and Arcilla, Magdalena",
+    place=FAKE,
+    pp="887--908",
+    entrytype="article",
+    volume="24",
+    number="06",
+    publisher="World Scientific",
+    ID="mesquida2014min",
+    gs2016="1",
+    placex="International Journal of Software Engineering and Knowledge Engineering",
+))
+
+mireles2014a = DB(WorkUnrelated(
+    2014, "A Process Framework for Managing Interactions between Sotware Quality Charateristics",
+    display="mireles",
+    authors="García Mireles, Gabriel Alberto",
+    place=Thesis,
+    entrytype="article",
+    publisher="Universidad de Castilla-La Mancha",
+    ID="garcia2014process",
+    gs2016="1",
+    placex="thesis",
+))
+
+mirna2014a = DB(WorkUnrelated(
+    2014, "Evolving process improvement using multi-model enviroments and knowledge management",
+    display="mirna",
+    authors="Mirna, Munoz and Jezreel, Mejia and Edrisi, Muñoz",
+    place=FAKE,
+    pp="1--6",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="mirna2014evolving",
+    gs2016="1",
+    placex="Information Systems and Technologies (CISTI), 2014 9th Iberian Conference on",
 ))
 
 muñoz2014a = DB(WorkUnrelated(
@@ -124,6 +421,18 @@ muñoz2014b = DB(WorkUnrelated(
     placex="Agile Estimation Techniques and Innovative Approaches to Software Process Improvement",
 ))
 
+oconnor2014a = DB(WorkUnrelated(
+    2014, "An innovative approach to the development of an international software process lifecycle standard for very small entities",
+    display="o connor",
+    authors="O'Connor, Rory V and Laporte, Claude Y",
+    place=FAKE,
+    entrytype="article",
+    publisher="IGI Global",
+    ID="oconnor2014innovative",
+    gs2016="1",
+    placex="",
+))
+
 peldzius2014a = DB(WorkUnrelated(
     2014, "Tool for Usage of Multiple Process Assessment Models",
     display="peldzius",
@@ -135,6 +444,55 @@ peldzius2014a = DB(WorkUnrelated(
     ID="peldzius2014tool",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+))
+
+pettit2014a = DB(WorkUnrelated(
+    2014, "Development and Validation of an Instrument to Operationalize Information System Requirements Capabilities",
+    display="pettit",
+    authors="Pettit, Alex Z",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="pettit2014development",
+    local="University of North Texas",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+preneel2014a = DB(WorkUnrelated(
+    2014, "SOFSEM 2014: Theory and Practice of Computer Science",
+    display="preneel",
+    authors="Preneel, Viliam Geffert Bart and {Š}tuller, Branislav Rovan Július and Tjoa, A Min",
+    place=FAKE,
+    entrytype="article",
+    publisher="Springer",
+    ID="preneelsofsem",
+    gs2016="1",
+    placex="40th International Conference on Current Trends in Theory and Practice of Computer Science",
+))
+
+pérez2014a = DB(WorkUnrelated(
+    2014, "Cloud computing decisions in real enterprises",
+    display="pérez",
+    authors="Pérez-Cota, Manuel and Gon{ç}alves, Ramiro and Moreira, Fernando Joaquim Lopes",
+    place=FAKE,
+    pp="313--330",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="perez2014cloud",
+    gs2016="1",
+    placex="Agile Estimation Techniques and Innovative Approaches to Software Process Improvement",
+))
+
+rosing2014a = DB(WorkUnrelated(
+    2014, "The Complete Business Process Handbook: Body of Knowledge from Process Modeling to BPM, Volume I",
+    display="rosing",
+    authors="Rosing, Mark von and Scheel, Henrik von and Scheer, August-Wilhelm",
+    place=Book,
+    entrytype="book",
+    publisher="Morgan Kaufmann Publishers Inc.",
+    ID="rosing2014complete",
+    gs2016="1",
+    placex="",
 ))
 
 stallinger2014a = DB(WorkUnrelated(
@@ -150,4 +508,29 @@ stallinger2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8311150970307705766&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+))
+
+stallinger2014b = DB(WorkUnrelated(
+    2014, "Assessment-Based Innovation System Customization for Software Product Line Organizations",
+    display="stallinger b",
+    authors="Stallinger, Fritz and Neumann, Robert and Schossleitner, Robert",
+    place=ICSPICD,
+    pp="131--143",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="stallinger2014assessment",
+    gs2016="1",
+    placex="International Conference on Software Process Improvement and Capability Determination",
+))
+
+yoshidome2014a = DB(WorkUnrelated(
+    2014, "Uma Ontologia que Estabelece os Relacionamentos de Dependência entre as Práticas de Gerência de Projetos constantes nos modelos CMMI-DEV e MR-MPS-SW",
+    display="yoshidome",
+    authors="Yoshidome, Ewelton Yoshio Chiba and Oliveira, Sandro Ronaldo Bezerra",
+    place=FAKE,
+    entrytype="misc",
+    publisher="SBQS",
+    ID="yoshidome2014ontologia",
+    gs2016="1",
+    placex="",
 ))

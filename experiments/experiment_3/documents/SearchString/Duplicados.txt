@@ -1,0 +1,25 @@
+Towards a consistent terminology for software measurement
+
+Software engineering process theory: A multi-method comparison of Sensemaking--Coevolution--Implementation Theory and Function--Behavior--Structure Theory
+
+
+10.3. 1 The Development of Systems Engineering International Standards and Support Tools for Very Small Enterprises
+
+
+Proposal for a framework for quality measurement to the SPB--Brazilian Public Software
+
+Evaluation and measurement of software process improvement—a systematic literature review
+
+==========================================
+
+323 - 466 = 143 mas 10 nao foram incluidos = 133
+
+10 nao foram incluidos (procurar entre o 323 e 466)
+
+
+323 + 133 = 456 - 10 = 446 (mas aparecem 444, faltam 2 que estavam como duplicados)
+ 
+Proposal for a framework for quality measurement to the SPB--Brazilian Public Software
+
+Evaluation and measurement of software process improvement—a systematic literature review
+

@@ -16,6 +16,57 @@ adedjouma2012a = DB(WorkUnrelated(
     placex="International Conference on Software Process Improvement and Capability Determination",
 ))
 
+adedjouma2012b = DB(WorkUnrelated(
+    2012, "Merging the quality assessment of processes and products in automotive domain",
+    display="adedjouma b",
+    authors="Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{ç}ois and Kitouni, Tarek",
+    place=ICPFSPI,
+    pp="275--289",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="adedjouma2012merging",
+    gs2016="1",
+    placex="International Conference on Product Focused Software Process Improvement",
+))
+
+adedjouma2012c = DB(WorkUnrelated(
+    2012, "Efficient Methodology from Requirements to Design Models for an Automotive Application",
+    display="adedjouma c",
+    authors="Adedjouma, Morayo and Wojciech, Machnik and Dubois, Hubert and Terrier, Francois",
+    place=FAKE,
+    pp="5--7",
+    entrytype="inproceedings",
+    ID="adedjouma2012efficient",
+    gs2016="1",
+    placex="Proceedings of 6th European congress on Embedded Real Time Software and Systems (ERTS 2012)",
+))
+
+alves2012a = DB(WorkUnrelated(
+    2012, "Experimental software engineering in educational context",
+    display="alves",
+    authors="Alves, Luís M and Machado, Ricardo J and Ribeiro, Pedro",
+    place=ICQICT,
+    pp="336--341",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="alves2012experimental",
+    gs2016="1",
+    placex="Quality of Information and Communications Technology (QUATIC), 2012 Eighth International Conference on the",
+))
+
+april2012a = DB(WorkUnrelated(
+    2012, "Software maintenance management: evaluation and continuous improvement",
+    display="april",
+    authors="April, Alain and Abran, Alain",
+    place=Book,
+    entrytype="book",
+    volume="67",
+    publisher="John Wiley & Sons",
+    ID="april2012software",
+    gs2016="1",
+    placex="",
+))
+
 barcellos2012a = DB(WorkUnrelated(
     2012, "Using a reference domain ontology for developing a software measurement strategy for high maturity organizations",
     display="barcellos",
@@ -27,6 +78,18 @@ barcellos2012a = DB(WorkUnrelated(
     ID="barcellos2012using",
     gs2016="1",
     placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2012 IEEE 16th International",
+))
+
+bauer2012a = DB(WorkUnrelated(
+    2012, "A Literature Review on Operational IT Risks and Regulations of Institutions in the Financial Service Sector.",
+    display="bauer",
+    authors="Bauer, Stefan",
+    place=FAKE,
+    pp="58",
+    entrytype="inproceedings",
+    ID="bauer2012literature",
+    gs2016="1",
+    placex="CONF-IRM",
 ))
 
 caffery2012a = DB(WorkUnrelated(
@@ -42,6 +105,52 @@ caffery2012a = DB(WorkUnrelated(
     placex="Software and Systems Traceability",
 ))
 
+calvache2012a = DB(WorkUnrelated(
+    2012, "A Framework to Support the Harmonization between Multiple Models and Standards",
+    display="calvache",
+    authors="Calvache, César Jesús Pardo",
+    place=FAKE,
+    entrytype="article",
+    ID="calvacheframework",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+casare2012a = DB(WorkUnrelated(
+    2012, "Medee: A method framework for multiagent systems",
+    display="casare",
+    authors="Casare, SJ",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="casare2012medee",
+    local="Ph. D. Thesis, Universidade de São Paulo, São Paulo, Brazil. Retrieved February 22, 2013 from http://www. teses. usp. br/teses/disponiveis/3/3141/tde-05032012-162517/en. php",
+    gs2016="1",
+    placex="phdthesis",
+))
+
+chouseinoglou2012a = DB(WorkUnrelated(
+    2012, "Organizational Learning Assessment in Software Development Organizations",
+    display="chouseinoglou",
+    authors="Chouseinoglou, Oumout and Bilgen, S",
+    place=FAKE,
+    entrytype="article",
+    ID="chouseinoglou2012organizational",
+    gs2016="1",
+    placex="Teknik Rapor: METU/II-TR-2012-02, Enformatik Enstitüsü, Orta Do{ğ}u Teknik Üniversitesi, Ankara, Türkiye",
+))
+
+clarke2012a = DB(WorkUnrelated(
+    2012, "Investigating the relationship between software process improvement, situational change, and business success in software SMEs",
+    display="clarke",
+    authors="Clarke, Paul",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="clarke2012investigating",
+    local="Dublin City University",
+    gs2016="1",
+    placex="",
+))
+
 dash2012a = DB(WorkUnrelated(
     2012, "Ontology Driven Benchmarking on ITIL to achieve Six Sigma",
     display="dash",
@@ -55,6 +164,88 @@ dash2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=15271164983631064785&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Computer Applications,(0975-8887)",
+))
+
+domínguez2012a = DB(WorkUnrelated(
+    2012, "Quality evaluation for model-driven web engineering methodologies",
+    display="domínguez",
+    authors="Domínguez-Mayo, FJ and Escalona, M José and Mejías, Manuel and Ross, Margaret and Staples, Geoff",
+    place=IST,
+    pp="1265--1282",
+    entrytype="article",
+    volume="54",
+    number="11",
+    publisher="Elsevier",
+    ID="dominguez2012quality",
+    gs2016="1",
+    placex="Information and Software Technology",
+))
+
+dubois2012a = DB(WorkUnrelated(
+    2012, "Capturing and aligning assurance requirements for business services systems",
+    display="dubois",
+    authors="Dubois, Eric and Kubicki, Sylvain and Ramel, Sophie and Rifaut, André",
+    place=FAKE,
+    pp="71--92",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="dubois2012capturing",
+    gs2016="1",
+    placex="Business System Management and Engineering",
+))
+
+edberg2012a = DB(WorkUnrelated(
+    2012, "Methodology mashups: An exploration of processes used to maintain software",
+    display="edberg",
+    authors="Edberg, Dana and Ivanova, Polina and Kuechler, William",
+    place=FAKE,
+    pp="271--304",
+    entrytype="article",
+    volume="28",
+    number="4",
+    publisher="Taylor & Francis",
+    ID="edberg2012methodology",
+    gs2016="1",
+    placex="Journal of Management Information Systems",
+))
+
+esfahani2012a = DB(WorkUnrelated(
+    2012, "Transitioning to agile: A framework for pre-adoption analysis using empirical knowledge and strategic modeling",
+    display="esfahani",
+    authors="Esfahani, Hesam Chiniforooshan",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="esfahani2012transitioning",
+    local="University of Toronto (Canada)",
+    gs2016="1",
+    placex="",
+))
+
+fernandes2012a = DB(WorkUnrelated(
+    2012, "Melhoria contínua na gestão de projectos: desenvolvimento e aplicação da ferramenta MAPEA",
+    display="fernandes",
+    authors="Fernandes, Diogo Gouveia",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="fernandes2012melhoria",
+    local="Faculdade de Ciências e Tecnologia",
+    gs2016="1",
+    placex="",
+))
+
+fernández2012a = DB(WorkUnrelated(
+    2012, "Field study on requirements engineering: Investigation of artefacts, project parameters, and execution strategies",
+    display="fernández",
+    authors="Fernández, Daniel Méndez and Wagner, Stefan and Lochmann, Klaus and Baumann, Andrea and de Carne, Holger",
+    place=IST,
+    pp="162--178",
+    entrytype="article",
+    volume="54",
+    number="2",
+    publisher="Elsevier",
+    ID="fernandez2012field",
+    gs2016="1",
+    placex="Information and Software Technology",
 ))
 
 gazel2012a = DB(WorkSnowball(
@@ -92,6 +283,18 @@ grambow2012a = DB(WorkSnowball(
     placex="",
 ))
 
+gruhn2012a = DB(WorkUnrelated(
+    2012, "Using Wikis as Software Development Environments.",
+    display="gruhn",
+    authors="Gruhn, Volker and Hannebauer, Christoph",
+    place=FAKE,
+    pp="3--20",
+    entrytype="inproceedings",
+    ID="gruhn2012using",
+    gs2016="1",
+    placex="SoMeT",
+))
+
 he2012a = DB(WorkUnrelated(
     2012, "Software Process Management Assessment Towards CMM a Systematic Approach to Optimize Internal Process Improvement",
     display="he",
@@ -105,6 +308,87 @@ he2012a = DB(WorkUnrelated(
     placex="Software Engineering and Knowledge Engineering: Theory and Practice",
 ))
 
+henderson2012a = DB(WorkUnrelated(
+    2012, "Position Statement for SEMAT",
+    display="henderson",
+    authors="Henderson-Sellers, Brian and FIMA, FIEAust",
+    place=FAKE,
+    entrytype="article",
+    ID="hendersonposition",
+    gs2016="1",
+    placex="Citation",
+))
+
+henderson2012b = DB(WorkUnrelated(
+    2012, "Standards harmonization: theory and practice",
+    display="henderson b",
+    authors="Henderson-Sellers, Brian",
+    place=FAKE,
+    pp="153--161",
+    entrytype="article",
+    volume="11",
+    number="2",
+    publisher="Springer",
+    ID="henderson2012standards",
+    gs2016="1",
+    placex="Software & Systems Modeling",
+))
+
+hundley2012a = DB(WorkUnrelated(
+    2012, "Imprinting Community College Computer Science Education with Software Engineering Principles",
+    display="hundley",
+    authors="Hundley, Jacqueline Holliday",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hundley2012imprinting",
+    local="Auburn University",
+    gs2016="1",
+    placex="",
+))
+
+kelemen2012a = DB(WorkUnrelated(
+    2012, "Identifying criteria for multimodel software process improvement solutions--based on a review of current problems and initiatives",
+    display="kelemen",
+    authors="Kelemen, Zádor Dániel and Kusters, Rob and Trienekens, Jos",
+    place=JSEP,
+    pp="895--909",
+    entrytype="article",
+    volume="24",
+    number="8",
+    publisher="Wiley Online Library",
+    ID="kelemen2012identifying",
+    gs2016="1",
+    placex="Journal of software: Evolution and Process",
+    wiley2016="1",
+))
+
+kruchten2012a = DB(WorkUnrelated(
+    2012, "The frog and the octopus: a conceptual model of software development",
+    display="kruchten",
+    authors="Kruchten, Philippe",
+    place=FAKE,
+    entrytype="article",
+    ID="kruchten2012frog",
+    gs2016="1",
+    placex="arXiv preprint arXiv:1209.1327",
+))
+
+laporte2012a = DB(WorkUnrelated(
+    2012, "10.3. 1 The Development of Systems Engineering International Standards and Support Tools for Very Small Enterprises",
+    display="laporte",
+    authors="Laporte, Claude Y and Ptack, Ken and Fanmuy, Gauthier",
+    place=FAKE,
+    pp="1460--1487",
+    entrytype="inproceedings",
+    volume="22",
+    number="1",
+    organization="Wiley Online Library",
+    ID="laporte201210",
+    gs2016="1",
+    placex="INCOSE International Symposium",
+    wiley2016="1",
+))
+
 leal2012a = DB(WorkUnrelated(
     2012, "Ontology based software development good practices selection for adoption in micro-enterprises",
     display="leal",
@@ -116,6 +400,21 @@ leal2012a = DB(WorkUnrelated(
     ID="de2012ontology",
     gs2016="1",
     placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
+))
+
+li2012a = DB(WorkUnrelated(
+    2012, "Circumstantial-evidence-based effort judgement for web service composition-based SOA implementations",
+    display="li",
+    authors="Li, Zheng and O’Brien, Liam and Zhang, He",
+    place=FAKE,
+    pp="31--44",
+    entrytype="article",
+    volume="2",
+    number="1",
+    publisher="Inderscience Publishers Ltd",
+    ID="li2012circumstantial",
+    gs2016="1",
+    placex="International Journal of Space-Based and Situated Computing 25",
 ))
 
 miler2012a = DB(WorkUnrelated(
@@ -146,6 +445,56 @@ peldzius2012a = DB(WorkUnrelated(
     placex="International Conference on Software Process Improvement and Capability Determination",
 ))
 
+rahman2012a = DB(WorkUnrelated(
+    2012, "Requirements Elicitation Technique for Social Presence in Collaborative Activities in Support of E-learning Domain",
+    display="rahman",
+    authors="Rahman, Noorihan Abdul and Sahibuddin, Shamsul",
+    place=REFSQ,
+    pp="333",
+    entrytype="inproceedings",
+    ID="rahman2012requirements",
+    gs2016="1",
+    placex="18th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+))
+
+rensburg2012a = DB(WorkUnrelated(
+    2012, "The relationship between process maturity models and the use and effectiveness of systems development methodologies",
+    display="rensburg",
+    authors="Janse van Rensburg, CW",
+    place=FAKE,
+    entrytype="article",
+    ID="janse2012relationship",
+    gs2016="1",
+    placex="",
+))
+
+rifaut2012a = DB(WorkUnrelated(
+    2012, "Measurement-oriented comparison of multiple regulations with GRL",
+    display="rifaut",
+    authors="Rifaut, Andre and Ghanavati, Sepideh",
+    place=FAKE,
+    pp="7--16",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="rifaut2012measurement",
+    gs2016="1",
+    placex="Requirements Engineering and Law (RELAW), 2012 Fifth International Workshop on",
+))
+
+ruiz2012a = DB(WorkUnrelated(
+    2012, "Uses and applications of spem process models. a systematic mapping study",
+    display="ruiz",
+    authors="Ruiz-Rube, Iván and Dodero, Juan Manuel and Palomo-Duarte, Manuel and Ruiz, Mercedes and Gawn, David",
+    place=FAKE,
+    pp="999--1025",
+    entrytype="article",
+    volume="1",
+    number="32",
+    ID="ruiz2012uses",
+    gs2016="1",
+    placex="Journal of Software Maintenance and Evolution: Research and Practice",
+))
+
 rungratri2012a = DB(WorkUnrelated(
     2012, "Semantic based approach supporting CMMI gap analysis process",
     display="rungratri",
@@ -160,6 +509,18 @@ rungratri2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=18206382962446305705&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Convergence Information Technology",
+))
+
+slooten2012a = DB(WorkUnrelated(
+    2012, "Software release planning: Investigating the use of an advanced assessment instrument and evaluating a novel maturity framework",
+    display="slooten",
+    authors="Slooten, R",
+    place=FAKE,
+    entrytype="misc",
+    publisher="Master Scinece), Technische Universiteit Eindhoven, Eindhoven",
+    ID="slooten2012software",
+    gs2016="1",
+    placex="",
 ))
 
 soydan2012a = DB(WorkSnowball(
@@ -180,4 +541,108 @@ soydan2012a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Journal of Software Engineering and Applications",
+))
+
+tech2012a = DB(WorkUnrelated(
+    2012, "COURSE STRUCTURE AND DETAILED SYLLABUS (MR12Regulations)",
+    display="tech",
+    authors="Tech, M",
+    place=FAKE,
+    entrytype="article",
+    ID="tech2012course",
+    gs2016="1",
+    placex="course",
+))
+
+thalheim2012a = DB(WorkUnrelated(
+    2012, "The science and art of conceptual modelling",
+    display="thalheim",
+    authors="Thalheim, Bernhard",
+    place=FAKE,
+    pp="76--105",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="thalheim2012science",
+    gs2016="1",
+    placex="Transactions on Large-Scale Data-and Knowledge-Centered Systems VI",
+))
+
+unterkalmsteiner2012a = DB(WorkUnrelated(
+    2012, "Evaluation and measurement of software process improvement—a systematic literature review",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, Michael and Gorschek, Tony and Islam, AKM Moinul and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=ToSE,
+    pp="398--424",
+    entrytype="article",
+    volume="38",
+    number="2",
+    publisher="IEEE",
+    ID="unterkalmsteiner2012evaluation",
+    gs2016="1",
+    placex="IEEE Transactions on Software Engineering",
+))
+
+wang2012a = DB(WorkUnrelated(
+    2012, "OOIS 2001",
+    display="wang",
+    authors="Wang, Xingxu and Patel, Shushma and Johnston, Ronald",
+    place=Book,
+    entrytype="book",
+    publisher="Springer Science & Business Media",
+    ID="wang2012oois",
+    gs2016="1",
+    placex="7th International Conference on Object-Oriented Information Systems 27--29 August 2001, Calgary, Canada",
+))
+
+wendler2012a = DB(WorkUnrelated(
+    2012, "The maturity of maturity model research: A systematic mapping study",
+    display="wendler",
+    authors="Wendler, Roy",
+    place=IST,
+    pp="1317--1339",
+    entrytype="article",
+    volume="54",
+    number="12",
+    publisher="Elsevier",
+    ID="wendler2012maturity",
+    gs2016="1",
+    placex="Information and software technology",
+))
+
+yahaya2012a = DB(WorkUnrelated(
+    2012, "Towards the anti-ageing model for application software",
+    display="yahaya",
+    authors="Yahaya, Jamaiah and Deraman, Aziz",
+    place=FAKE,
+    entrytype="inproceedings",
+    volume="2",
+    ID="yahaya2012towards",
+    gs2016="1",
+    placex="Proceedings of the World Congress on Engineering",
+))
+
+zacarias2012a = DB(WorkUnrelated(
+    2012, "Modeling Business Processes from Work Practices",
+    display="zacarias",
+    authors="Zacarias, Marielba and Martins, Paula Ventura",
+    place=FAKE,
+    pp="440--454",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="zacarias2012modeling",
+    gs2016="1",
+    placex="International Conference on Advanced Information Systems Engineering",
+))
+
+zarour2012a = DB(WorkUnrelated(
+    2012, "Evaluating the assessment method of the software maintenance maturity model",
+    display="zarour",
+    authors="Zarour, Mohammad and Alarifi, Abdulrahman and Abran, Alain and Desharnais, Jean-Marc",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="zarour2012evaluating",
+    gs2016="1",
+    placex="Information Technology and e-Services (ICITeS), 2012 International Conference on",
 ))
