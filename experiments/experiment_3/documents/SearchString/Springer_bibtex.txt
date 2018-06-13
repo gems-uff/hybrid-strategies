@@ -1,0 +1,604 @@
+@inproceedings{clarke2016investigation,
+  title={An investigation of software development process terminology},
+  author={Clarke, Paul and Mesquida, Antoni-Llu{\'\i}s and Ekert, Damjan and Ekstrom, Joseph J and Gornostaja, Tatjana and Jovanovic, Milos and Johansen, J{\o}rn and Mas, Antonia and Messnarz, Richard and Villar, Blanca N{\'a}jera and others},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={351--361},
+  year={2016},
+  organization={Springer}
+}
+
+@inproceedings{peldzius2013usage,
+  title={Usage of multiple process assessment models},
+  author={Peldzius, Stasys and Ragaisis, Saulius},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={223--234},
+  year={2013},
+  organization={Springer}
+}
+
+@article{gasston1996process,
+  title={Process improvement: an alternative to BPR for software development organizations},
+  author={Gasston, JL},
+  journal={Software Quality Journal},
+  volume={5},
+  number={3},
+  pages={171--183},
+  year={1996},
+  publisher={Springer}
+}
+
+@inproceedings{peldzius2012framework,
+  title={Framework for usage of multiple software process models},
+  author={Peldzius, Stasys and Ragaisis, Saulius},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={210--221},
+  year={2012},
+  organization={Springer}
+}
+
+@incollection{he2012software,
+  title={Software Process Management Assessment Towards CMM a Systematic Approach to Optimize Internal Process Improvement},
+  author={He, Zhongshi and Zou, Dongsheng and others},
+  booktitle={Software Engineering and Knowledge Engineering: Theory and Practice},
+  pages={499--505},
+  year={2012},
+  publisher={Springer}
+}
+
+@incollection{li2008overview,
+  title={Overview of Software Processes and Software Evolution},
+  author={Li, Tong},
+  booktitle={An Approach to Modelling Software Evolution Processes},
+  pages={8--33},
+  year={2008},
+  publisher={Springer}
+}
+
+@inproceedings{peldzius2014tool,
+  title={Tool for Usage of Multiple Process Assessment Models},
+  author={Peldzius, Stasys and Ragaisis, Saulius},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={106--117},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{hauck2011proposing,
+  title={Proposing an ISO/IEC 15504-2 compliant method for process capability/maturity models customization},
+  author={Hauck, Jean Carlo Rossa and Von Wangenheim, Christiane Gresse and Mc Caffery, Fergal and Buglione, Luigi},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={44--58},
+  year={2011},
+  organization={Springer}
+}
+
+@inproceedings{colomo2016towards,
+  title={Towards Supporting International Standard-Based Software Engineering Approaches Using Semantic Web Technologies: A Systematic Literature Review},
+  author={Colomo-Palacios, Ricardo and Colombo-Mendoza, Luis Omar and Valencia-Garc{\'\i}a, Rafael},
+  booktitle={International Conference on Technologies and Innovation},
+  pages={169--183},
+  year={2016},
+  organization={Springer}
+}
+
+@inproceedings{stallinger2014towards,
+  title={Towards methodological support for the engineering of process reference models for product software},
+  author={Stallinger, Fritz and Pl{\"o}sch, Reinhold},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={24--35},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{figueiredo2014evolving,
+  title={Evolving a method framework for engineering process assessment models},
+  author={Figueiredo, Adriana MCM and Salviano, Clenio F},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={12--23},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{damiani2007metamodel,
+  title={A metamodel for modeling and measuring scrum development process},
+  author={Damiani, Ernesto and Colombo, Alberto and Frati, Fulvio and Bellettini, Carlo},
+  booktitle={International Conference on Extreme Programming and Agile Processes in Software Engineering},
+  pages={74--83},
+  year={2007},
+  organization={Springer}
+}
+
+@inproceedings{del2015towards,
+  title={Towards the development of a framework for encouraging the learning of SPICE model by using knowledge graphs},
+  author={Del Carpio, Alvaro Fern{\'a}ndez and Angarita, Leonardo Berm{\'o}n},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={203--216},
+  year={2015},
+  organization={Springer}
+}
+
+@inproceedings{montoni2006taba,
+  title={Taba workstation: Supporting software process deployment based on CMMI and MR-MPS. BR},
+  author={Montoni, Mariano and Santos, Gleison and Rocha, Ana Regina and Figueiredo, S{\'a}vio and Cabral, Reinaldo and Barcellos, Rafael and Barreto, Ahilton and Soares, Andr{\'e}a and Cerdeiral, Cristina and Lupo, Peter},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={249--262},
+  year={2006},
+  organization={Springer}
+}
+
+@inproceedings{ruiz2002xmi,
+  title={An XMI-based repository for software process meta-modeling},
+  author={Ruiz, Francisco and Piattini, Mario and Garc{\'\i}a, F{\'e}lix and Polo, Macario},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={546--558},
+  year={2002},
+  organization={Springer}
+}
+
+@book{casteleyn2009engineering,
+  title={Engineering web applications},
+  author={Casteleyn, Sven and Daniel, Florian and Dolog, Peter and Matera, Maristella},
+  volume={30},
+  year={2009},
+  publisher={Springer}
+}
+
+@inproceedings{daramola2010process,
+  title={A process framework for semantics-aware tourism information systems},
+  author={Daramola, Olawande J},
+  booktitle={International Conference on Web Engineering},
+  pages={521--532},
+  year={2010},
+  organization={Springer}
+}
+
+@inproceedings{kovzusznik2010know,
+  title={Know How and Know What for Software Processes},
+  author={Ko{\v{z}}usznik, Jan and {\v{S}}tolfa, Svatopluk and Du{\v{z}}{\'\i}, Marie and Ko{\v{s}}in{\'a}r, Michal and {\v{C}}{\'\i}halov{\'a}, Martina},
+  booktitle={International Conference on Evaluation of Novel Approaches to Software Engineering},
+  pages={178--192},
+  year={2010},
+  organization={Springer}
+}
+
+@incollection{henderson2014assessing,
+  title={Assessing Quality},
+  author={Henderson-Sellers, Brian and Ralyt{\'e}, Jolita and {\AA}gerfalk, P{\"a}r J and Rossi, Matti},
+  booktitle={Situational Method Engineering},
+  pages={195--231},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{montoni2007methodology,
+  title={A methodology for identifying critical success factors that influence software process improvement initiatives: an application in the Brazilian software industry},
+  author={Montoni, Mariano and Rocha, Ana Regina},
+  booktitle={European Conference on Software Process Improvement},
+  pages={175--186},
+  year={2007},
+  organization={Springer}
+}
+
+@inproceedings{ning2005requirements,
+  title={Requirements engineering processes improvement: a systematic view},
+  author={Ning, Anliang and Hou, Hong and Hua, Qingyi and Yu, Bin and Hao, Kegang},
+  booktitle={Software Process Workshop},
+  pages={151--163},
+  year={2005},
+  organization={Springer}
+}
+
+@inproceedings{adedjouma2012merging,
+  title={Merging the quality assessment of processes and products in automotive domain},
+  author={Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{\c{c}}ois and Kitouni, Tarek},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={275--289},
+  year={2012},
+  organization={Springer}
+}
+
+@incollection{tasse2010techniques,
+  title={Techniques for merging views of software processes},
+  author={Tass{\'e}, Jos{\'e}e and Madhavji, Nazim H and Azad, Amandeep},
+  booktitle={Graph transformations and model-driven engineering},
+  pages={441--472},
+  year={2010},
+  publisher={Springer}
+}
+
+@inproceedings{hauck2008process,
+  title={Process reference guides--support for improving software processes in alignment with reference models and standards},
+  author={Hauck, Jean Carlo R and von Wangenheim, Christiane Gresse and de Souza, Richard H and Thiry, Marcello},
+  booktitle={European Conference on Software Process Improvement},
+  pages={70--81},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{eito2013comparing,
+  title={Comparing SPICE for space (S4S) and CMMI-DEV: identifying sources of risk from improvement models},
+  author={Eito-Brun, Ricardo},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={84--94},
+  year={2013},
+  organization={Springer}
+}
+
+@incollection{bertoa2006ontology,
+  title={An ontology for software measurement},
+  author={Bertoa, Manuel F and Vallecillo, Antonio and Garc{\'\i}a, F{\'e}lix},
+  booktitle={Ontologies for Software Engineering and Software Technology},
+  pages={175--196},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{ferreira2006taba,
+  title={Taba workstation: Supporting software process improvement initiatives based on software standards and maturity models},
+  author={Ferreira, Analia Irigoyen Ferreiro and Santos, Gleison and Cerqueira, Roberta and Montoni, Mariano and Barreto, Ahilton and Rocha, Ana Regina and Figueiredo, S{\'a}vio and Barreto, Andrea and Silva Filho, Reinaldo C and Lupo, Peter and others},
+  booktitle={European Conference on Software Process Improvement},
+  pages={207--218},
+  year={2006},
+  organization={Springer}
+}
+
+@incollection{garcia2016project,
+  title={Project Management in Small-Sized Software Enterprises: A Metamodeling-Based Approach},
+  author={Garcia, I and Pacheco, C and Arcilla, M and Sanchez, N},
+  booktitle={Trends and Applications in Software Engineering},
+  pages={3--13},
+  year={2016},
+  publisher={Springer}
+}
+
+@incollection{kovzusznik2011comparison,
+  title={Comparison of System Dynamics and BPM for Software Process Simulation},
+  author={Ko{\v{z}}usznik, Jan and {\v{S}}tolfa, Svatopluk and Je{\v{z}}ek, David and Kucha{\v{r}}, {\v{S}}t{\v{e}}p{\'a}n},
+  booktitle={Digital Information Processing and Communications},
+  pages={1--15},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{miler2012improvement,
+  title={Improvement of Task Management with Process Models in Small and Medium Software Companies},
+  author={Miler, Jakub and Weso{\l}owska, Hanna},
+  booktitle={European Conference on Software Process Improvement},
+  pages={145--156},
+  year={2012},
+  organization={Springer}
+}
+
+@incollection{edwards2003managing,
+  title={Managing software engineers and their knowledge},
+  author={Edwards, John S},
+  booktitle={Managing software engineering knowledge},
+  pages={5--27},
+  year={2003},
+  publisher={Springer}
+}
+
+@inproceedings{aharoni2008domain,
+  title={A domain engineering approach for situational method engineering},
+  author={Aharoni, Anat and Reinhartz-Berger, Iris},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={455--468},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{pardo2010trends,
+  title={Trends in harmonization of multiple reference models},
+  author={Pardo, C{\'e}sar and Pino, Francisco J and Garc{\'\i}a, F{\'e}lix and Velthius, Mario Piattini and Baldassarre, Maria Teresa},
+  booktitle={International Conference on Evaluation of Novel Approaches to Software Engineering},
+  pages={61--73},
+  year={2010},
+  organization={Springer}
+}
+
+@incollection{schleicher2002infering,
+  title={Infering Process Model Definition Knowledge},
+  author={Schleicher, Ansgar},
+  booktitle={Management of Development Processes},
+  pages={197--228},
+  year={2002},
+  publisher={Springer}
+}
+
+
+@inproceedings{cerioli2008gesper,
+  title={Gesper: Support to Capitalize on Experience in a Network of SMEs},
+  author={Cerioli, Maura and Lagorio, Giovanni and Morten, Enrico and Reggio, Gianna},
+  booktitle={International Symposium On Leveraging Applications of Formal Methods, Verification and Validation},
+  pages={738--752},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{becker2013enhancing,
+  title={Enhancing the conceptual framework capability for a measurement and evaluation strategy},
+  author={Becker, Pablo and Papa, Fernanda and Olsina, Luis},
+  booktitle={International Conference on Web Engineering},
+  pages={104--116},
+  year={2013},
+  organization={Springer}
+}
+
+
+@inproceedings{barafort2014design,
+  title={How to design an innovative framework for process improvement? The TIPA for ITIL case},
+  author={Barafort, B{\'e}atrix and Rousseau, Anne and Dubois, Eric},
+  booktitle={European Conference on Software Process Improvement},
+  pages={48--59},
+  year={2014},
+  organization={Springer}
+}
+
+@incollection{gonzalez2006ontology,
+  title={An ontology for software development methodologies and endeavours},
+  author={Gonzalez-Perez, C{\'e}sar and Henderson-Sellers, Brian},
+  booktitle={Ontologies for Software Engineering and Software Technology},
+  pages={123--151},
+  year={2006},
+  publisher={Springer}
+}
+
+@incollection{thalheim2012science,
+  title={The science and art of conceptual modelling},
+  author={Thalheim, Bernhard},
+  booktitle={Transactions on Large-Scale Data-and Knowledge-Centered Systems VI},
+  pages={76--105},
+  year={2012},
+  publisher={Springer}
+}
+
+@inproceedings{rungratri2008project,
+  title={Project assets ontology (PAO) to support gap analysis for organization process improvement based on CMMI v. 1.2},
+  author={Rungratri, Suwanit and Usanavasin, Sasiporn},
+  booktitle={International Conference on Software Process},
+  pages={76--87},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{yurchyshyna2010towards,
+  title={Towards an ontology-based approach for creating sustainable services},
+  author={Yurchyshyna, Anastasiya and Opprecht, Wanda},
+  booktitle={International Conference on Exploring Services Science},
+  pages={136--149},
+  year={2010},
+  organization={Springer}
+}
+
+@article{henderson2012standards,
+  title={Standards harmonization: theory and practice},
+  author={Henderson-Sellers, Brian},
+  journal={Software \& Systems Modeling},
+  volume={11},
+  number={2},
+  pages={153--161},
+  year={2012},
+  publisher={Springer}
+}
+
+
+@inproceedings{thalheim2011science,
+  title={The science of conceptual modelling},
+  author={Thalheim, Bernhard},
+  booktitle={International Conference on Database and Expert Systems Applications},
+  pages={12--26},
+  year={2011},
+  organization={Springer}
+}
+
+@inproceedings{cancian2010supporting,
+  title={Supporting Software Services’ Trustworthiness in Collaborative Networks},
+  author={Cancian, Maiara Heil and Rabelo, Ricardo J and Von Wangenheim, Christiane Gresse},
+  booktitle={Working Conference on Virtual Enterprises},
+  pages={672--684},
+  year={2010},
+  organization={Springer}
+}
+
+@article{lavrischeva2009approach,
+  title={An approach to expert assessment in software engineering},
+  author={Lavrischeva, EM and Slabospickaya, OA},
+  journal={Cybernetics and Systems Analysis},
+  volume={45},
+  number={4},
+  pages={638--654},
+  year={2009},
+  publisher={Springer}
+}
+
+@inproceedings{kindler2005incremental,
+  title={Incremental workflow mining based on document versioning information},
+  author={Kindler, Ekkart and Rubin, Vladimir and Sch{\"a}fer, Wilhelm},
+  booktitle={Software Process Workshop},
+  pages={287--301},
+  year={2005},
+  organization={Springer}
+}
+
+@inproceedings{stallinger2014assessment,
+  title={Assessment-Based Innovation System Customization for Software Product Line Organizations},
+  author={Stallinger, Fritz and Neumann, Robert and Schossleitner, Robert},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={131--143},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{adedjouma2012experiment,
+  title={An experiment on merging quality assessment in automotive domain},
+  author={Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{\c{c}}ois and Kitouni, Tarek},
+  booktitle={International Conference on Software Process Improvement and Capability Determination},
+  pages={107--117},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{zacarias2012modeling,
+  title={Modeling Business Processes from Work Practices},
+  author={Zacarias, Marielba and Martins, Paula Ventura},
+  booktitle={International Conference on Advanced Information Systems Engineering},
+  pages={440--454},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{burgues2005mof,
+  title={A MOF-compliant approach to software quality modeling},
+  author={Burgu{\'e}s, Xavier and Franch, Xavier and Rib{\'o}, Josep M},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={176--191},
+  year={2005},
+  organization={Springer}
+}
+
+@incollection{henderson2011random,
+  title={Random thoughts on multi-level conceptual modelling},
+  author={Henderson-Sellers, Brian},
+  booktitle={The evolution of conceptual modeling},
+  pages={93--116},
+  year={2011},
+  publisher={Springer}
+}
+
+@incollection{dubois2012capturing,
+  title={Capturing and aligning assurance requirements for business services systems},
+  author={Dubois, Eric and Kubicki, Sylvain and Ramel, Sophie and Rifaut, Andr{\'e}},
+  booktitle={Business System Management and Engineering},
+  pages={71--92},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{eito2014mapping,
+  title={Mapping of improvement models as a risk reduction strategy: a theoretical comparison for the aerospace industry},
+  author={Eito-Brun, Ricardo},
+  journal={Innovations in Systems and Software Engineering},
+  volume={10},
+  number={4},
+  pages={283--295},
+  year={2014},
+  publisher={Springer}
+}
+
+@incollection{borgen2001maturity,
+  title={A Maturity Framework for the Enterprise Modeling and Engineering Process},
+  author={Borgen, Kjell and Ohren, Ottar},
+  booktitle={Contemporary Trends in Systems Development},
+  pages={53--64},
+  year={2001},
+  publisher={Springer}
+}
+
+
+@inproceedings{ahonen2006defining,
+  title={Defining the process for making software system modernization decisions},
+  author={Ahonen, Jarmo J and Sivula, Henna and Koskinen, Jussi and Lintinen, Heikki and Tilus, Tero and Kankaanp{\"a}{\"a}, Irja and Juutilainen, P{\"a}ivi},
+  booktitle={International Conference on Product Focused Software Process Improvement},
+  pages={5--18},
+  year={2006},
+  organization={Springer}
+}
+
+@incollection{althoff2002indigo,
+  title={The indiGo project: enhancement of experience management and process learning with moderated discourses},
+  author={Althoff, Klaus-Dieter and Becker-Kornstaedt, Ulrike and Decker, Bj{\"o}rn and Klotz, Andreas and Leopold, Edda and Rech, J{\"o}rg and Voss, Angi},
+  booktitle={Advances in Data Mining},
+  pages={53--79},
+  year={2002},
+  publisher={Springer}
+}
+
+@inproceedings{shvaiko2009egif4m,
+  title={eGIF4M: eGovernment Interoperability Framework for Mozambique},
+  author={Shvaiko, Pavel and Villafiorita, Adolfo and Zorer, Alessandro and Chemane, Lourino and Fumo, Teot{\'o}nio and Hinkkanen, Jussi},
+  booktitle={International Conference on Electronic Government},
+  pages={328--340},
+  year={2009},
+  organization={Springer}
+}
+
+@incollection{bonazzi2009compliance,
+  title={Compliance management is becoming a major issue in IS design},
+  author={Bonazzi, Riccardo and Hussami, Lotfi and Pigneur, Yves},
+  booktitle={Information systems: People, organizations, institutions, and technologies},
+  pages={391--398},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{bergamaschi2015exploiting,
+  title={Exploiting semantics for filtering and searching knowledge in a software development context},
+  author={Bergamaschi, Sonia and Martoglia, Riccardo and Sorrentino, Serena},
+  journal={Knowledge and Information Systems},
+  volume={45},
+  number={2},
+  pages={295--318},
+  year={2015},
+  publisher={Springer}
+}
+
+@inproceedings{guedria2008interoperability,
+  title={Interoperability maturity models--survey and comparison--},
+  author={Gu{\'e}dria, Wided and Naudet, Yannick and Chen, David},
+  booktitle={OTM Confederated International Conferences" On the Move to Meaningful Internet Systems"},
+  pages={273--282},
+  year={2008},
+  organization={Springer}
+}
+
+@article{andrade2010fuzzy,
+  title={A fuzzy approach for solving a critical benchmarking problem},
+  author={Andrade, Javier and Ares, Juan and Mart{\'\i}nez, Mar{\'\i}a A and Pazos, Juan and Rodr{\'\i}guez, Santiago and Su{\'a}rez, Sonia M},
+  journal={Knowledge and Information Systems},
+  volume={24},
+  number={1},
+  pages={59--75},
+  year={2010},
+  publisher={Springer}
+}
+
+@inproceedings{burgues2008quinst,
+  title={QUINST: A Metamodeling Tool},
+  author={Burgu{\'e}s, Xavier and Franch, Xavier and Rib{\'o}, Josep M},
+  booktitle={International Conference on Conceptual Modeling},
+  pages={544--546},
+  year={2008},
+  organization={Springer}
+}
+
+@article{challenger2016systematic,
+  title={A systematic approach to evaluating domain-specific modeling language environments for multi-agent systems},
+  author={Challenger, Moharram and Kardas, Geylani and Tekinerdogan, Bedir},
+  journal={Software Quality Journal},
+  volume={24},
+  number={3},
+  pages={755--795},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{turki2010compliance,
+  title={Compliance in e-government service engineering: State-of-the-art},
+  author={Turki, Slim and Bjekovic-Obradovic, Marija},
+  booktitle={International Conference on Exploring Services Science},
+  pages={270--275},
+  year={2010},
+  organization={Springer}
+}
+
+@incollection{kreimeyer2011foundations,
+  title={The foundations of complexity metrics},
+  author={Kreimeyer, Matthias and Lindemann, Udo},
+  booktitle={Complexity Metrics in Engineering Design},
+  pages={33--92},
+  year={2011},
+  publisher={Springer}
+}
+
+
+

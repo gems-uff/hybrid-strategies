@@ -14,6 +14,7 @@ adedjouma2012a = DB(WorkUnrelated(
     ID="adedjouma2012experiment",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 adedjouma2012b = DB(WorkUnrelated(
@@ -27,6 +28,7 @@ adedjouma2012b = DB(WorkUnrelated(
     ID="adedjouma2012merging",
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
+    springer2016="1",
 ))
 
 adedjouma2012c = DB(WorkUnrelated(
@@ -65,6 +67,8 @@ april2012a = DB(WorkUnrelated(
     ID="april2012software",
     gs2016="1",
     placex="",
+    place2="Titulo na planilha: References",
+    wiley2016="1",
 ))
 
 barcellos2012a = DB(WorkUnrelated(
@@ -192,6 +196,7 @@ dubois2012a = DB(WorkUnrelated(
     ID="dubois2012capturing",
     gs2016="1",
     placex="Business System Management and Engineering",
+    springer2016="1",
 ))
 
 edberg2012a = DB(WorkUnrelated(
@@ -306,6 +311,7 @@ he2012a = DB(WorkUnrelated(
     ID="he2012software",
     gs2016="1",
     placex="Software Engineering and Knowledge Engineering: Theory and Practice",
+    springer2016="1",
 ))
 
 henderson2012a = DB(WorkUnrelated(
@@ -332,6 +338,7 @@ henderson2012b = DB(WorkUnrelated(
     ID="henderson2012standards",
     gs2016="1",
     placex="Software & Systems Modeling",
+    springer2016="1",
 ))
 
 hundley2012a = DB(WorkUnrelated(
@@ -428,6 +435,7 @@ miler2012a = DB(WorkUnrelated(
     ID="miler2012improvement",
     gs2016="1",
     placex="European Conference on Software Process Improvement",
+    springer2016="1",
 ))
 
 peldzius2012a = DB(WorkUnrelated(
@@ -443,6 +451,7 @@ peldzius2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=407283389735490053&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 rahman2012a = DB(WorkUnrelated(
@@ -565,6 +574,7 @@ thalheim2012a = DB(WorkUnrelated(
     ID="thalheim2012science",
     gs2016="1",
     placex="Transactions on Large-Scale Data-and Knowledge-Centered Systems VI",
+    springer2016="1",
 ))
 
 unterkalmsteiner2012a = DB(WorkUnrelated(
@@ -607,6 +617,7 @@ wendler2012a = DB(WorkUnrelated(
     ID="wendler2012maturity",
     gs2016="1",
     placex="Information and software technology",
+    sciencedirect2016="1",
 ))
 
 yahaya2012a = DB(WorkUnrelated(
@@ -632,6 +643,21 @@ zacarias2012a = DB(WorkUnrelated(
     ID="zacarias2012modeling",
     gs2016="1",
     placex="International Conference on Advanced Information Systems Engineering",
+    springer2016="1",
+))
+
+zacarias2012b = DB(WorkUnrelated(
+    2012, "Aligning business processes and work practices",
+    display="zacarias b",
+    authors="Zacarias, Marielba and Martins, Paula Ventura",
+    place=FAKE,
+    pp="234--243",
+    entrytype="article",
+    volume="5",
+    publisher="Elsevier",
+    ID="zacarias2012aligning",
+    sciencedirect2016="1",
+    placex="Procedia Technology",
 ))
 
 zarour2012a = DB(WorkUnrelated(

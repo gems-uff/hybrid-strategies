@@ -27,6 +27,7 @@ andrade2010a = DB(WorkUnrelated(
     ID="andrade2010fuzzy",
     gs2016="1",
     placex="Knowledge and Information Systems",
+    springer2016="1",
 ))
 
 anneliheimbürgera2010a = DB(WorkUnrelated(
@@ -93,6 +94,7 @@ cancian2010a = DB(WorkUnrelated(
     ID="cancian2010supporting",
     gs2016="1",
     placex="Working Conference on Virtual Enterprises",
+    springer2016="1",
 ))
 
 cornford2010a = DB(WorkUnrelated(
@@ -132,6 +134,7 @@ daramola2010a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=13756961987301652517&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Web Engineering",
+    springer2016="1",
 ))
 
 ellis2010a = DB(WorkUnrelated(
@@ -223,6 +226,7 @@ ko2010a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=16860326753954944790&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Evaluation of Novel Approaches to Software Engineering",
+    springer2016="1",
 ))
 
 laplante2010a = DB(WorkUnrelated(
@@ -312,6 +316,7 @@ pardo2010a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=11971456827434441571&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Evaluation of Novel Approaches to Software Engineering",
+    springer2016="1",
 ))
 
 pires2010a = DB(WorkUnrelated(
@@ -428,6 +433,19 @@ succar2010a = DB(WorkUnrelated(
     placex="Handbook of research on building information modeling and construction informatics: Concepts and technologies",
 ))
 
+tassé2010a = DB(WorkUnrelated(
+    2010, "Techniques for merging views of software processes",
+    display="tassé",
+    authors="Tassé, Josée and Madhavji, Nazim H and Azad, Amandeep",
+    place=FAKE,
+    pp="441--472",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="tasse2010techniques",
+    springer2016="1",
+    placex="Graph transformations and model-driven engineering",
+))
+
 tuffley2010a = DB(WorkUnrelated(
     2010, "A Design Research approach to developing a Process Reference Model for leadership of integrated teams in virtual environments",
     display="tuffley",
@@ -438,6 +456,19 @@ tuffley2010a = DB(WorkUnrelated(
     ID="tuffley2010design",
     gs2016="1",
     placex="",
+))
+
+turki2010a = DB(WorkUnrelated(
+    2010, "Compliance in e-government service engineering: State-of-the-art",
+    display="turki",
+    authors="Turki, Slim and Bjekovic-Obradovic, Marija",
+    place=FAKE,
+    pp="270--275",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="turki2010compliance",
+    springer2016="1",
+    placex="International Conference on Exploring Services Science",
 ))
 
 tuya2010a = DB(WorkUnrelated(
@@ -487,6 +518,7 @@ yurchyshyna2010b = DB(WorkUnrelated(
     ID="yurchyshyna2010towards",
     gs2016="1",
     placex="International Conference on Exploring Services Science",
+    springer2016="1",
 ))
 
 喇度史2010a = DB(WorkUnrelated(

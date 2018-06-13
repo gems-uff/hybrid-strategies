@@ -3,6 +3,19 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+althoff2002a = DB(WorkUnrelated(
+    2002, "The indiGo project: enhancement of experience management and process learning with moderated discourses",
+    display="althoff",
+    authors="Althoff, Klaus-Dieter and Becker-Kornstaedt, Ulrike and Decker, Björn and Klotz, Andreas and Leopold, Edda and Rech, Jörg and Voss, Angi",
+    place=FAKE,
+    pp="53--79",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="althoff2002indigo",
+    springer2016="1",
+    placex="Advances in Data Mining",
+))
+
 bennetts2002a = DB(WorkUnrelated(
     2002, "Measurement of performance and role play in Churchmanian design systems: an instantiation",
     display="bennetts",
@@ -68,6 +81,7 @@ ruiz2002a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=15405828224327782001&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
+    springer2016="1",
 ))
 
 schleicher2002a = DB(WorkUnrelated(
@@ -81,4 +95,5 @@ schleicher2002a = DB(WorkUnrelated(
     ID="schleicher2002infering",
     gs2016="1",
     placex="Management of Development Processes",
+    springer2016="1",
 ))

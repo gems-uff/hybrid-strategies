@@ -68,6 +68,7 @@ barafort2014a = DB(WorkUnrelated(
     ID="barafort2014design",
     gs2016="1",
     placex="European Conference on Software Process Improvement",
+    springer2016="1",
 ))
 
 bibi2014a = DB(WorkUnrelated(
@@ -161,6 +162,7 @@ eito2014a = DB(WorkUnrelated(
     ID="eito2014mapping",
     gs2016="1",
     placex="Innovations in Systems and Software Engineering",
+    springer2016="1",
 ))
 
 escalona2014a = DB(WorkUnrelated(
@@ -186,6 +188,7 @@ figueiredo2014a = DB(WorkUnrelated(
     ID="figueiredo2014evolving",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 filó2014a = DB(WorkUnrelated(
@@ -243,6 +246,7 @@ henderson2014a = DB(WorkUnrelated(
     ID="henderson2014ontology",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 henderson2014b = DB(WorkUnrelated(
@@ -256,6 +260,8 @@ henderson2014b = DB(WorkUnrelated(
     ID="Henderson-Sellers2014",
     gs2016="1",
     placex="Situational Method Engineering",
+    pp="195--231",
+    springer2016="1",
 ))
 
 henderson2014c = DB(WorkUnrelated(
@@ -322,6 +328,7 @@ kroeger2014a = DB(WorkUnrelated(
     ID="kroeger2014understanding",
     gs2016="1",
     placex="Information and Software Technology",
+    sciencedirect2016="1",
 ))
 
 mata2014a = DB(WorkUnrelated(
@@ -444,6 +451,7 @@ peldzius2014a = DB(WorkUnrelated(
     ID="peldzius2014tool",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 pettit2014a = DB(WorkUnrelated(
@@ -508,6 +516,7 @@ stallinger2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8311150970307705766&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 stallinger2014b = DB(WorkUnrelated(
@@ -521,6 +530,7 @@ stallinger2014b = DB(WorkUnrelated(
     ID="stallinger2014assessment",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 yoshidome2014a = DB(WorkUnrelated(

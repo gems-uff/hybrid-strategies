@@ -44,6 +44,7 @@ burgués2005a = DB(WorkUnrelated(
     ID="burgues2005mof",
     gs2016="1",
     placex="International Conference on Conceptual Modeling",
+    springer2016="1",
 ))
 
 falbo2005a = DB(WorkUnrelated(
@@ -85,6 +86,19 @@ frenzel2005a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=2676882007378842137&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="",
+))
+
+kindler2005a = DB(WorkUnrelated(
+    2005, "Incremental workflow mining based on document versioning information",
+    display="kindler",
+    authors="Kindler, Ekkart and Rubin, Vladimir and Schäfer, Wilhelm",
+    place=FAKE,
+    pp="287--301",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kindler2005incremental",
+    springer2016="1",
+    placex="Software Process Workshop",
 ))
 
 liao2005a = DB(WorkSnowball(
@@ -132,6 +146,7 @@ ning2005a = DB(WorkUnrelated(
     ID="ning2005requirements",
     gs2016="1",
     placex="Software Process Workshop",
+    springer2016="1",
 ))
 
 rocha2005a = DB(WorkUnrelated(

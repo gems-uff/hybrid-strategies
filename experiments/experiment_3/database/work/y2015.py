@@ -83,6 +83,7 @@ bergamaschi2015a = DB(WorkUnrelated(
     ID="bergamaschi2015exploiting",
     gs2016="1",
     placex="Knowledge and Information Systems",
+    springer2016="1",
 ))
 
 bodo2015a = DB(WorkUnrelated(
@@ -132,6 +133,7 @@ carpio2015a = DB(WorkUnrelated(
     ID="del2015towards",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 feloni2015a = DB(WorkUnrelated(
@@ -195,6 +197,7 @@ garousi2015a = DB(WorkUnrelated(
     ID="garousi2015survey",
     gs2016="1",
     placex="Journal of Systems and Software",
+    sciencedirect2016="1",
 ))
 
 garretson2015a = DB(WorkUnrelated(
@@ -343,6 +346,7 @@ morales2015a = DB(WorkUnrelated(
     ID="morales2015making",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 moreta2015a = DB(WorkUnrelated(
@@ -452,6 +456,19 @@ samuel2015a = DB(WorkUnrelated(
     ID="samuel2015customizing",
     gs2016="1",
     placex="IEEE Transactions on Software Engineering",
+))
+
+shekhovtsov2015a = DB(WorkUnrelated(
+    2015, "Harmonizing the quality view of stakeholders",
+    display="shekhovtsov",
+    authors="Shekhovtsov, Vladimir A and Mayr, Heinrich C and Kop, Christian",
+    place=FAKE,
+    pp="41--73",
+    entrytype="incollection",
+    publisher="Elsevier",
+    ID="shekhovtsov2015harmonizing",
+    sciencedirect2016="1",
+    placex="Relating System Quality and Software Architecture",
 ))
 
 shrestha2015a = DB(WorkUnrelated(

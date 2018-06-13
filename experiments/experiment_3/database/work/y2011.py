@@ -148,6 +148,7 @@ hauck2011a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=13928810847676269616&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
+    springer2016="1",
 ))
 
 henderson2011a = DB(WorkUnrelated(
@@ -161,6 +162,7 @@ henderson2011a = DB(WorkUnrelated(
     ID="henderson2011random",
     gs2016="1",
     placex="The evolution of conceptual modeling",
+    springer2016="1",
 ))
 
 jr2011a = DB(WorkUnrelated(
@@ -210,6 +212,20 @@ ko2011a = DB(WorkUnrelated(
     ID="kovzusznik2011comparison",
     gs2016="1",
     placex="Digital Information Processing and Communications",
+    springer2016="1",
+))
+
+kreimeyer2011a = DB(WorkUnrelated(
+    2011, "The foundations of complexity metrics",
+    display="kreimeyer",
+    authors="Kreimeyer, Matthias and Lindemann, Udo",
+    place=FAKE,
+    pp="33--92",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="kreimeyer2011foundations",
+    springer2016="1",
+    placex="Complexity Metrics in Engineering Design",
 ))
 
 lane2011a = DB(WorkUnrelated(
@@ -225,6 +241,19 @@ lane2011a = DB(WorkUnrelated(
     ID="lane2011process",
     gs2016="1",
     placex="Information and Software Technology",
+))
+
+lund2011a = DB(WorkUnrelated(
+    2011, "User experience management: essential skills for leading effective UX teams",
+    display="lund",
+    authors="Lund, Arnie",
+    place=Book,
+    entrytype="book",
+    place2="Chapter 8 - Transforming the Organization",
+    publisher="Elsevier",
+    ID="lund2011user",
+    sciencedirect2016="1",
+    placex="",
 ))
 
 lí2011a = DB(WorkUnrelated(
@@ -346,6 +375,7 @@ thalheim2011a = DB(WorkUnrelated(
     ID="thalheim2011science",
     gs2016="1",
     placex="International Conference on Database and Expert Systems Applications",
+    springer2016="1",
 ))
 
 wall2011a = DB(WorkUnrelated(

@@ -1,10 +1,12 @@
+
+
+==========================================
+
 Towards a consistent terminology for software measurement
 
 Software engineering process theory: A multi-method comparison of Sensemaking--Coevolution--Implementation Theory and Function--Behavior--Structure Theory
 
-
 10.3. 1 The Development of Systems Engineering International Standards and Support Tools for Very Small Enterprises
-
 
 Proposal for a framework for quality measurement to the SPB--Brazilian Public Software
 
@@ -23,3 +25,6 @@ Proposal for a framework for quality measurement to the SPB--Brazilian Public So
 
 Evaluation and measurement of software process improvement—a systematic literature review
 
+===========springer duplicado ===================
+
+Project assets ontology (PAO) to support gap analysis for organization process improvement based on CMMI v. 1.2

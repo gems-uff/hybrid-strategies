@@ -16,6 +16,7 @@ hellens1997a = DB(WorkUnrelated(
     ID="von1997information",
     gs2016="1",
     placex="Information and Software Technology",
+    sciencedirect2016="1",
 ))
 
 panfilis1997a = DB(WorkUnrelated(

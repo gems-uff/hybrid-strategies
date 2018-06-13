@@ -80,6 +80,19 @@ coallier2007a = DB(WorkUnrelated(
     placex="Quality of Information and Communications Technology, 2007. QUATIC 2007. 6th International Conference on the",
 ))
 
+damiani2007a = DB(WorkUnrelated(
+    2007, "A metamodel for modeling and measuring scrum development process",
+    display="damiani",
+    authors="Damiani, Ernesto and Colombo, Alberto and Frati, Fulvio and Bellettini, Carlo",
+    place=FAKE,
+    pp="74--83",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="damiani2007metamodel",
+    springer2016="1",
+    placex="International Conference on Extreme Programming and Agile Processes in Software Engineering",
+))
+
 davies2007a = DB(WorkUnrelated(
     2007, "Information system development",
     display="davies",
@@ -316,6 +329,7 @@ montoni2007a = DB(WorkUnrelated(
     ID="montoni2007methodology",
     gs2016="1",
     placex="European Conference on Software Process Improvement",
+    springer2016="1",
 ))
 
 pawlak2007a = DB(WorkUnrelated(

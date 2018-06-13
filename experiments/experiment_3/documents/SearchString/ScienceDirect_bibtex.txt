@@ -1,0 +1,211 @@
+@article{afzal2016software,
+  title={Software test process improvement approaches: A systematic literature review and an industrial case study},
+  author={Afzal, Wasif and Alone, Snehal and Glocksien, Kerstin and Torkar, Richard},
+  journal={Journal of Systems and Software},
+  volume={111},
+  pages={1--33},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{andrade2008formal,
+  title={Formal conceptualisation as a basis for a more procedural knowledge management},
+  author={Andrade, Javier and Ares, Juan and Garc{\'\i}a, Rafael and Pazos, Juan and Rodr{\'\i}guez, Santiago and Silva, Andr{\'e}s},
+  journal={Decision Support Systems},
+  volume={45},
+  number={1},
+  pages={164--179},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{barafort2017integrating,
+  title={Integrating risk management in IT settings from ISO standards and management systems perspectives},
+  author={Barafort, B{\'e}atrix and Mesquida, Antoni-Llu{\'\i}s and Mas, Antonia},
+  journal={Computer Standards \& Interfaces},
+  volume={54},
+  pages={176--185},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{buglione2013lego,
+  title={The LEGO strategy: guidelines for a profitable deployment},
+  author={Buglione, Luigi and von Wangenheim, Christiane Gresse and McCaffery, Fergal and Hauck, Jean Carlo Rossa},
+  journal={Computer Standards \& Interfaces},
+  volume={36},
+  number={1},
+  pages={10--20},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{chen2016industrial,
+  title={Industrial information integration—A literature review 2006--2015},
+  author={Chen, Yong},
+  journal={Journal of Industrial Information Integration},
+  volume={2},
+  pages={30--64},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{garcia2006towards,
+  title={Towards a consistent terminology for software measurement},
+  author={Garc{\'\i}a, F{\'e}lix and Bertoa, Manuel F and Calero, Coral and Vallecillo, Antonio and Ruiz, Francisco and Piattini, Mario and Genero, Marcela},
+  journal={Information and Software Technology},
+  volume={48},
+  number={8},
+  pages={631--644},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{garousi2015survey,
+  title={A survey of software engineering practices in Turkey},
+  author={Garousi, Vahid and Co{\c{s}}kun{\c{c}}ay, Ahmet and Betin-Can, Aysu and Demir{\"o}rs, Onur},
+  journal={Journal of Systems and Software},
+  volume={108},
+  pages={148--177},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+@article{gonzalez2016ontology,
+  title={An Ontology for ISO software engineering standards: 2) Proof of concept and application},
+  author={Gonzalez-Perez, Cesar and Henderson-Sellers, Brian and McBride, Tom and Low, Graham C and Larrucea, Xabier},
+  journal={Computer Standards \& Interfaces},
+  volume={48},
+  pages={112--123},
+  year={2016},
+  publisher={Elsevier}
+}
+
+
+@article{von1997information,
+  title={Information systems quality versus software quality a discussion from a managerial, an organisational and an engineering viewpoint},
+  author={Von Hellens, LA},
+  journal={Information and Software Technology},
+  volume={39},
+  number={12},
+  pages={801--808},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@article{henderson2014ontology,
+  title={An ontology for ISO software engineering standards: 1) Creating the infrastructure},
+  author={Henderson-Sellers, Brian and Gonzalez-Perez, Cesar and Mcbride, Tom and Low, Graham},
+  journal={Computer Standards \& Interfaces},
+  volume={36},
+  number={3},
+  pages={563--576},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{khurum2009systematic,
+  title={A systematic review of domain analysis solutions for product lines},
+  author={Khurum, Mahvish and Gorschek, Tony},
+  journal={Journal of Systems and Software},
+  volume={82},
+  number={12},
+  pages={1982--2003},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{kroeger2014understanding,
+  title={Understanding the characteristics of quality for software engineering processes: A Grounded Theory investigation},
+  author={Kroeger, Trent A and Davidson, Neil J and Cook, Stephen C},
+  journal={Information and Software Technology},
+  volume={56},
+  number={2},
+  pages={252--271},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{larrucea2016standards,
+  title={Standards-based metamodel for the management of goals, risks and evidences in critical systems development},
+  author={Larrucea, Xabier and Gonzalez-Perez, Cesar and McBride, Tom and Henderson-Sellers, Brian},
+  journal={Computer Standards \& Interfaces},
+  volume={48},
+  pages={71--79},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@book{lund2011user,
+  title={User experience management: essential skills for leading effective UX teams},
+  author={Lund, Arnie},
+  place2={Chapter 8 - Transforming the Organization},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{mejia2016reinforcing,
+  title={Reinforcing the applicability of multi-model environments for software process improvement using knowledge management},
+  author={Mejia, Jezreel and Mu{\~n}oz, Edrisi and Mu{\~n}oz, Mirna},
+  journal={Science of Computer Programming},
+  volume={121},
+  pages={3--15},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{morales2015making,
+  title={The making of an OMG standard},
+  author={Morales-Trujillo, Miguel Eh{\'e}catl and Oktaba, Hanna and Piattini, Mario},
+  journal={Computer Standards \& Interfaces},
+  volume={42},
+  pages={84--94},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@incollection{shekhovtsov2015harmonizing,
+  title={Harmonizing the quality view of stakeholders},
+  author={Shekhovtsov, Vladimir A and Mayr, Heinrich C and Kop, Christian},
+  booktitle={Relating System Quality and Software Architecture},
+  pages={41--73},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{siemieniuch2006systems,
+  title={Systems integration},
+  author={Siemieniuch, CE and Sinclair, MA},
+  journal={Applied ergonomics},
+  volume={37},
+  number={1},
+  pages={91--110},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{wendler2012maturity,
+  title={The maturity of maturity model research: A systematic mapping study},
+  author={Wendler, Roy},
+  journal={Information and software technology},
+  volume={54},
+  number={12},
+  pages={1317--1339},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{zacarias2012aligning,
+  title={Aligning business processes and work practices},
+  author={Zacarias, Marielba and Martins, Paula Ventura},
+  journal={Procedia Technology},
+  volume={5},
+  pages={234--243},
+  year={2012},
+  publisher={Elsevier}
+}
+
+
+
+

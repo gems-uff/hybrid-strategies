@@ -25,6 +25,19 @@ dolado2003a = DB(WorkUnrelated(
     placex="Jornada de Seguimiento de Proyectos en Tecnologıas Informaticas, Programa Nacional de Tecnologıas de la Informacion y las Comunicaciones",
 ))
 
+edwards2003a = DB(WorkUnrelated(
+    2003, "Managing software engineers and their knowledge",
+    display="edwards",
+    authors="Edwards, John S",
+    place=FAKE,
+    pp="5--27",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="edwards2003managing",
+    springer2016="1",
+    placex="Managing software engineering knowledge",
+))
+
 hayes2003a = DB(WorkUnrelated(
     2003, "Observe-mine-adopt (OMA): an agile way to enhance software maintainability",
     display="hayes",

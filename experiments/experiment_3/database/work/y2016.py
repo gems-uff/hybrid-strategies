@@ -15,6 +15,7 @@ afzal2016a = DB(WorkUnrelated(
     ID="afzal2016software",
     gs2016="1",
     placex="Journal of Systems and Software",
+    sciencedirect2016="1",
 ))
 
 aleem2016a = DB(WorkUnrelated(
@@ -70,6 +71,7 @@ challenger2016a = DB(WorkUnrelated(
     ID="challenger2016systematic",
     gs2016="1",
     placex="Software Quality Journal",
+    springer2016="1",
 ))
 
 chen2016a = DB(WorkUnrelated(
@@ -84,6 +86,7 @@ chen2016a = DB(WorkUnrelated(
     ID="chen2016industrial",
     gs2016="1",
     placex="Journal of Industrial Information Integration",
+    sciencedirect2016="1",
 ))
 
 clarke2016a = DB(WorkUnrelated(
@@ -111,6 +114,7 @@ clarke2016b = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=16844510422058803457&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 colomo2016a = DB(WorkUnrelated(
@@ -124,6 +128,7 @@ colomo2016a = DB(WorkUnrelated(
     ID="colomo2016towards",
     gs2016="1",
     placex="International Conference on Technologies and Innovation",
+    springer2016="1",
 ))
 
 diazvasquez2016a = DB(WorkUnrelated(
@@ -185,6 +190,7 @@ garcia2016a = DB(WorkUnrelated(
     ID="garcia2016project",
     gs2016="1",
     placex="Trends and Applications in Software Engineering",
+    springer2016="1",
 ))
 
 garcia2016b = DB(WorkUnrelated(
@@ -237,6 +243,7 @@ gonzalez2016a = DB(WorkUnrelated(
     ID="gonzalez2016ontology",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 kabaale2016a = DB(WorkSnowball(
@@ -269,6 +276,17 @@ kreiner2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+kreiner2016b = DB(WorkUnrelated(
+    2016, "23rd European Conference on Systems, Software and Services Process Improvement, EuroSPI 2016",
+    display="kreiner b",
+    authors="Kreiner, Christian Josef",
+    place=FAKE,
+    entrytype="article",
+    ID="kreiner2017eurospi",
+    scopus2016="1",
+    placex="",
+))
+
 kunene2016a = DB(WorkUnrelated(
     2016, "Business processes alignment for an effective e-government implementation: A case study of a Provincial Government in South Africa",
     display="kunene",
@@ -293,6 +311,7 @@ larrucea2016a = DB(WorkUnrelated(
     ID="larrucea2016standards",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 lima2016a = DB(WorkUnrelated(
@@ -334,6 +353,7 @@ mejia2016a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=3373933946626951801&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Science of Computer Programming",
+    sciencedirect2016="1",
 ))
 
 pícha2016a = DB(WorkUnrelated(

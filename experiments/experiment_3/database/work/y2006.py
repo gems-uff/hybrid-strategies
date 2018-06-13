@@ -14,6 +14,7 @@ ahonen2006a = DB(WorkUnrelated(
     ID="ahonen2006defining",
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
+    springer2016="1",
 ))
 
 bella2006a = DB(WorkUnrelated(
@@ -41,6 +42,7 @@ bertoa2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=4535880459485815052&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
+    springer2016="1",
 ))
 
 bertollo2006a = DB(WorkUnrelated(
@@ -143,6 +145,7 @@ ferreira2006a = DB(WorkUnrelated(
     ID="ferreira2006taba",
     gs2016="1",
     placex="European Conference on Software Process Improvement",
+    springer2016="1",
 ))
 
 fujita2006a = DB(WorkUnrelated(
@@ -171,6 +174,7 @@ garcía2006a = DB(WorkUnrelated(
     ID="garcia2006towards",
     gs2016="1",
     placex="Information and Software Technology",
+    sciencedirect2016="1",
 ))
 
 gervasi2006a = DB(WorkUnrelated(
@@ -197,6 +201,7 @@ gonzalez2006a = DB(WorkUnrelated(
     ID="gonzalez2006ontology",
     gs2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
+    springer2016="1",
 ))
 
 halloran2006a = DB(WorkUnrelated(
@@ -277,6 +282,7 @@ montoni2006b = DB(WorkUnrelated(
     ID="montoni2006taba",
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
+    springer2016="1",
 ))
 
 oliveira2006a = DB(WorkUnrelated(
@@ -315,6 +321,21 @@ rittgen2006a = DB(WorkUnrelated(
     ID="rittgen2006enterprise",
     gs2016="1",
     placex="booksgoogle",
+))
+
+siemieniuch2006a = DB(WorkUnrelated(
+    2006, "Systems integration",
+    display="siemieniuch",
+    authors="Siemieniuch, CE and Sinclair, MA",
+    place=FAKE,
+    pp="91--110",
+    entrytype="article",
+    volume="37",
+    number="1",
+    publisher="Elsevier",
+    ID="siemieniuch2006systems",
+    sciencedirect2016="1",
+    placex="Applied ergonomics",
 ))
 
 silva2006a = DB(WorkUnrelated(

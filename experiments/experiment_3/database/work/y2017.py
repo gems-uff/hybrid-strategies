@@ -15,6 +15,7 @@ barafort2017a = DB(WorkUnrelated(
     ID="barafort2017integrating",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 eito2017a = DB(WorkUnrelated(

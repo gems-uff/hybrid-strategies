@@ -82,6 +82,7 @@ becker2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=7188459273852706667&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Web Engineering",
+    springer2016="1",
 ))
 
 begier2013a = DB(WorkUnrelated(
@@ -123,6 +124,7 @@ buglione2013a = DB(WorkUnrelated(
     ID="buglione2013lego",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    sciencedirect2016="1",
 ))
 
 cawley2013a = DB(WorkUnrelated(
@@ -165,6 +167,7 @@ eito2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=5558011175912345023&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 garcía2013a = DB(WorkUnrelated(
@@ -401,6 +404,7 @@ peldzius2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10835013779673466372&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    springer2016="1",
 ))
 
 pernstål2013a = DB(WorkUnrelated(

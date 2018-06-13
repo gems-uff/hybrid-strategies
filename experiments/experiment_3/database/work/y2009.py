@@ -89,6 +89,7 @@ bonazzi2009a = DB(WorkUnrelated(
     ID="bonazzi2009compliance",
     gs2016="1",
     placex="Information systems: People, organizations, institutions, and technologies",
+    springer2016="1",
 ))
 
 casteleyn2009a = DB(WorkUnrelated(
@@ -102,6 +103,19 @@ casteleyn2009a = DB(WorkUnrelated(
     ID="Casteleyn2009",
     gs2016="1",
     placex="Engineering Web Applications",
+))
+
+casteleyn2009b = DB(WorkUnrelated(
+    2009, "Engineering web applications",
+    display="casteleyn b",
+    authors="Casteleyn, Sven and Daniel, Florian and Dolog, Peter and Matera, Maristella",
+    place=Book,
+    entrytype="book",
+    volume="30",
+    publisher="Springer",
+    ID="casteleyn2009engineering",
+    springer2016="1",
+    placex="",
 ))
 
 cheng2009a = DB(WorkUnrelated(
@@ -275,6 +289,7 @@ khurum2009a = DB(WorkUnrelated(
     ID="khurum2009systematic",
     gs2016="1",
     placex="Journal of Systems and Software",
+    sciencedirect2016="1",
 ))
 
 kim2009a = DB(WorkUnrelated(
@@ -316,6 +331,7 @@ lavrischeva2009a = DB(WorkUnrelated(
     ID="lavrischeva2009approach",
     gs2016="1",
     placex="Cybernetics and Systems Analysis",
+    springer2016="1",
 ))
 
 leal2009a = DB(WorkUnrelated(
@@ -424,6 +440,19 @@ seigerroth2009a = DB(WorkUnrelated(
     ID="seigerroth2009bringing",
     gs2016="1",
     placex="System Sciences, 2009. HICSS'09. 42nd Hawaii International Conference on",
+))
+
+shvaiko2009a = DB(WorkUnrelated(
+    2009, "eGIF4M: eGovernment Interoperability Framework for Mozambique",
+    display="shvaiko",
+    authors="Shvaiko, Pavel and Villafiorita, Adolfo and Zorer, Alessandro and Chemane, Lourino and Fumo, Teotónio and Hinkkanen, Jussi",
+    place=FAKE,
+    pp="328--340",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="shvaiko2009egif4m",
+    springer2016="1",
+    placex="International Conference on Electronic Government",
 ))
 
 szyszka2009a = DB(WorkUnrelated(

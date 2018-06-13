@@ -14,6 +14,7 @@ aharoni2008a = DB(WorkUnrelated(
     ID="aharoni2008domain",
     gs2016="1",
     placex="International Conference on Conceptual Modeling",
+    springer2016="1",
 ))
 
 andrade2008a = DB(WorkUnrelated(
@@ -29,6 +30,7 @@ andrade2008a = DB(WorkUnrelated(
     ID="andrade2008formal",
     gs2016="1",
     placex="Decision Support Systems",
+    sciencedirect2016="1",
 ))
 
 ba2008a = DB(WorkUnrelated(
@@ -90,6 +92,7 @@ burgués2008a = DB(WorkUnrelated(
     ID="burgues2008quinst",
     gs2016="1",
     placex="International Conference on Conceptual Modeling",
+    springer2016="1",
 ))
 
 caballero2008a = DB(WorkUnrelated(
@@ -117,6 +120,7 @@ cerioli2008a = DB(WorkUnrelated(
     ID="cerioli2008gesper",
     gs2016="1",
     placex="International Symposium On Leveraging Applications of Formal Methods, Verification and Validation",
+    springer2016="1",
 ))
 
 cuadrado2008a = DB(WorkUnrelated(
@@ -210,6 +214,20 @@ guédria2008a = DB(WorkUnrelated(
     ID="guedria2008interoperability",
     gs2016="1",
     placex="OTM Confederated International Conferences  On the Move to Meaningful Internet Systems",
+    springer2016="1",
+))
+
+hauck2008a = DB(WorkUnrelated(
+    2008, "Process reference guides--support for improving software processes in alignment with reference models and standards",
+    display="hauck",
+    authors="Hauck, Jean Carlo R and von Wangenheim, Christiane Gresse and de Souza, Richard H and Thiry, Marcello",
+    place=FAKE,
+    pp="70--81",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="hauck2008process",
+    springer2016="1",
+    placex="European Conference on Software Process Improvement",
 ))
 
 jacobson2008a = DB(WorkUnrelated(
@@ -276,6 +294,7 @@ li2008a = DB(WorkUnrelated(
     ID="li2008overview",
     gs2016="1",
     placex="An Approach to Modelling Software Evolution Processes",
+    springer2016="1",
 ))
 
 li2008b = DB(WorkUnrelated(
