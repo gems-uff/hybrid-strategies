@@ -30,6 +30,18 @@ ali2014a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+ali2014b = DB(WorkUnrelated(
+    2014, "Doctor of Philosophy (PhD)",
+    display="ali b",
+    authors="Usman Ali",
+    place=Thesis,
+    entrytype="phdthesis",
+    place2="CONFIGURATION MANAGEMENT PROCESS MATURITY: DEFINITION AND MATURATION OF CONFIGURATION MANAGEMENT FOR AEROSPACE AND DEFENCE INDUSTRIES - A thesis submitted to The University of Manchester for the degree of Doctor of Philosophy (PhD) in the Faculty of Engineering and Physical Sciences School of Mechanical, Aerospace and Civil Engineering",
+    ID="usman2014doctor",
+    gs2016="1",
+    placex="Faculty of Engineering and Physical Sciences",
+))
+
 araujo2014a = DB(WorkUnrelated(
     2014, "Mapeamento do MPS. SW com os modelos MPT. BR e CERTICS",
     display="araujo",
@@ -344,6 +356,18 @@ mata2014a = DB(WorkUnrelated(
     ID="mata2014knowledge",
     gs2016="1",
     placex="IEEE Latin America Transactions",
+))
+
+mcinerney2014a = DB(WorkUnrelated(
+    2014, "mallown",
+    display="mcinerney",
+    authors="Clare McInerney",
+    place=FAKE,
+    entrytype="article",
+    place2="Lero - The Irish Software Engineering Research Centre",
+    ID="clare2014mallown",
+    gs2016="1",
+    placex="Mallow Festival of Science",
 ))
 
 mehmood2014a = DB(WorkUnrelated(

@@ -346,6 +346,17 @@ leal2009a = DB(WorkUnrelated(
     placex="",
 ))
 
+leal2009b = DB(WorkUnrelated(
+    2009, "Andre Luiz de Castro Leal - UMA PROPOSTA DE TAXONOMIA DE BOAS PRÁTICAS EM DESENVOLVIMENTO DE SOFTWARE",
+    display="leal b",
+    authors="Leal, Andre Luiz de Castro",
+    place=FAKE,
+    entrytype="article",
+    ID="leal2009leal",
+    gs2016="1",
+    placex="MG",
+))
+
 lee2009a = DB(WorkSnowball(
     2009, "Ontology-based computational intelligent multi-agent and its application to CMMI assessment",
     display="lee",
@@ -388,6 +399,17 @@ mora2009a = DB(WorkUnrelated(
     ID="mora2009overview",
     gs2016="1",
     placex="Information Communication Technology Standardization for E-Business Sectors: Integrating Supply and Demand Factors: Integrating Supply and Demand Factors",
+))
+
+no2009a = DB(WorkUnrelated(
+    2009, "ANNA UNIVERSITY CHENNAI:: CHENNAI 600 025 UNIVERSITY DEPARTMENTS CURRICULUM--R 2009 BE (PART TIME) COMPUTER SCIENCE AND ENGINEERING SEMESTER I",
+    display="no",
+    authors="NO, S",
+    place=FAKE,
+    entrytype="article",
+    ID="no2009anna",
+    gs2016="1",
+    placex="BE (PART TIME) COMPUTER SCIENCE AND ENGINEERING SEMESTER I",
 ))
 
 oh2009a = DB(WorkUnrelated(
@@ -453,6 +475,7 @@ shvaiko2009a = DB(WorkUnrelated(
     ID="shvaiko2009egif4m",
     springer2016="1",
     placex="International Conference on Electronic Government",
+    gs2016="1",
 ))
 
 szyszka2009a = DB(WorkUnrelated(

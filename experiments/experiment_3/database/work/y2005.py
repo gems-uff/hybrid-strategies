@@ -88,6 +88,22 @@ frenzel2005a = DB(WorkUnrelated(
     placex="",
 ))
 
+garcía2005a = DB(WorkUnrelated(
+    2006, "Towards a Consistent Terminology for Software Measurement",
+    display="garcía",
+    authors="García, Félix and Bertoa, Manuel F and Calero, Coral and Vallecillo, Antonio and Ruiz, Francisco and Piattini, Mario and Genero, Marcela",
+    place=IST,
+    pp="631--644",
+    entrytype="article",
+    volume="48",
+    number="8",
+    publisher="Elsevier",
+    ID="garcia2005atowards",
+    gs2016="1",
+    placex="Preprint submitted to Information and Software Technology",
+))
+
+
 kindler2005a = DB(WorkUnrelated(
     2005, "Incremental workflow mining based on document versioning information",
     display="kindler",

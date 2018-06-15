@@ -117,6 +117,19 @@ clarke2016b = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+clarke2016c = DB(WorkUnrelated(
+    2016, "Software Process Improvement and Capability Determination: 16th International Conference, SPICE 2016, Dublin, Ireland, June 9-10, 2016, Proceedings",
+    display="clarke c",
+    authors="Clarke, Paul M and O'Connor, Rory V and Rout, Terry and Dorling, Alec",
+    place=Book,
+    entrytype="book",
+    volume="609",
+    publisher="Springer",
+    ID="clarke2016software",
+    gs2016="1",
+    placex="",
+))
+
 colomo2016a = DB(WorkUnrelated(
     2016, "Towards Supporting International Standard-Based Software Engineering Approaches Using Semantic Web Technologies: A Systematic Literature Review",
     display="colomo",
@@ -129,6 +142,17 @@ colomo2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Technologies and Innovation",
     springer2016="1",
+))
+
+delhi2016a = DB(WorkUnrelated(
+    2016, "SYLLABI OF COMPULSORY FOUNDATION COURSES",
+    display="delhi",
+    authors="University of Delhi",
+    place=FAKE,
+    entrytype="article",
+    ID="delhi2016syllabi",
+    gs2016="1",
+    placex="SCHEME AND SYLLABUS - B.E. COMPUTER ENGINEERING SYLLABI OF COMPULSORY FOUNDATION COURSES Passed in the meeting of Academic Council, University of Delhi",
 ))
 
 diazvasquez2016a = DB(WorkUnrelated(
@@ -356,6 +380,18 @@ mejia2016a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+prabu2016a = DB(WorkUnrelated(
+    2016, "Software Measurement Linkage for CMMI Implementation",
+    display="prabu",
+    authors="Prabu G., Kannan N., Kovalan A. and Thaddeus S.",
+    place=JCA,
+    entrytype="article",
+    publisher="serials publications",
+    ID="prabu2016asoftware",
+    gs2016="1",
+    placex="International Journal of Control Theory and Applications",
+))
+
 pícha2016a = DB(WorkUnrelated(
     2016, "Alm tool data usage in software process metamodeling",
     display="pícha",
@@ -382,6 +418,23 @@ ralph2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="Information and Software Technology",
 ))
+
+
+ralph2016b = DB(WorkUnrelated(
+    2016, "Software engineering process theory",
+    alias=(2016, "Software engineering process theory: A multi-method comparison of Sensemaking--Coevolution--Implementation Theory and Function--Behavior--Structure Theory", ),
+    display="ralph",
+    authors="Ralph, Paul",
+    place=IST,
+    pp="232--250",
+    entrytype="article",
+    volume="70",
+    publisher="Elsevier",
+    ID="ralph2016software",
+    gs2016="1",
+    placex="Pre Print to Information and Software Technology",
+))
+
 
 roux2016a = DB(WorkUnrelated(
     2016, "Utilising the Software Engineering Methods and Theory framework to critically evaluate software engineering practice in the South African banking industry",
@@ -427,4 +480,15 @@ stojanov2016b = DB(WorkUnrelated(
     ID="stojanov2016inductive",
     gs2016="1",
     placex="International conference on Applied Internet and Information Technologies - AIIT 2016",
+))
+
+tochtermann2016a = DB(WorkUnrelated(
+    2016, "econstor",
+    display="tochtermann",
+    authors="Tochtermann, Klaus",
+    place=FAKE,
+    entrytype="article",
+    ID="tochtermann2009econstor",
+    gs2016="1",
+    placex="Proceedings of I-KNOW '09: 9th international conference on knowledge management and knowledge technologies ; Proceedings of I-SEMANTICS '09: 5th international conference on semanticsystemss",
 ))

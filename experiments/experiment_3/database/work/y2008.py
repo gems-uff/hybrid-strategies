@@ -46,14 +46,39 @@ ba2008a = DB(WorkUnrelated(
 ))
 
 bjorner2008a = DB(WorkUnrelated(
-    2008, "SOFTWARE ENGINEERING Volume I: The Triptych Approach",
+    2008, "Dines Bjorner: 9th DRAFT: October 31, 2008",
+    alias=(2008, "SOFTWARE ENGINEERING Volume I: The Triptych Approach", ),
     display="bjorner",
     authors="Bjorner, Dines",
     place=FAKE,
     entrytype="article",
-    ID="bjornerdines",
+    ID="bjornerdines2008a",
     gs2016="1",
     placex="9th DRAFT",
+))
+
+bjorner2008b = DB(WorkUnrelated(
+    2008, "Friday August 1, 2008: Dines Bjorner Dr. techn. Thesis",
+    display="bjorner b",
+    authors="Bjorner, Dines and Quest, An Unended",
+    place=Thesis,
+    entrytype="article",
+    ID="bjorner2008bfriday",
+    gs2016="1",
+    placex="thesis",
+))
+
+
+bjorner2008c = DB(WorkUnrelated(
+    2008, "Dines Bjørner",
+    alias=(2008, "SOFTWARE ENGINEERING An Unended Quest", ),
+    display="bjorner c",
+    authors="Dines Bjorner",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="bjorner2008cdines",
+    gs2016="1",
+    placex="Proposal for a Dr. Techn. Thesis This document is to be submitted to The Technical University of Denmark",
 ))
 
 borsoi2008a = DB(WorkUnrelated(
@@ -121,6 +146,18 @@ cerioli2008a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Symposium On Leveraging Applications of Formal Methods, Verification and Validation",
     springer2016="1",
+))
+
+claxton2008a = DB(WorkUnrelated(
+    2008, "THIS THESIS IS OPEN",
+    display="claxton",
+    authors="Guðmundur Claxton",
+    place=Thesis,
+    entrytype="phdthesis",
+    place2="MANAGING SOFTWARE DEVELOPMENT KNOWLEDGE IN SMALL COMPANIES A case study conducted in a small software development & consultancy division",
+    ID="guomundur2008this",
+    gs2016="1",
+    placex="Cand.it - IT, Communication & Organization – Aarhus School of Business (ASB)",
 ))
 
 cuadrado2008a = DB(WorkUnrelated(
@@ -228,6 +265,18 @@ hauck2008a = DB(WorkUnrelated(
     ID="hauck2008process",
     springer2016="1",
     placex="European Conference on Software Process Improvement",
+))
+
+henderson2008a = DB(WorkUnrelated(
+    2008, "Some quality issues for conceptual models",
+    display="henderson-sellers",
+    authors="Brian Henderson Sellers",
+    place=FAKE,
+    entrytype="article",
+    place2="The Evolution of Conceptual Modeling 08181 Abstracts Collection",
+    ID="brian2008some",
+    gs2016="1",
+    placex="Dagstuhl Seminar Proceedings",
 ))
 
 jacobson2008a = DB(WorkUnrelated(

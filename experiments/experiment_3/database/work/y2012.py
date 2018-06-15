@@ -58,6 +58,7 @@ alves2012a = DB(WorkUnrelated(
 
 april2012a = DB(WorkUnrelated(
     2012, "Software maintenance management: evaluation and continuous improvement",
+    alias=(2012, "References", ),
     display="april",
     authors="April, Alain and Abran, Alain",
     place=Book,
@@ -67,7 +68,6 @@ april2012a = DB(WorkUnrelated(
     ID="april2012software",
     gs2016="1",
     placex="",
-    place2="Titulo na planilha: References",
     wiley2016="1",
 ))
 
@@ -396,6 +396,21 @@ laporte2012a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+laporte2012b = DB(WorkUnrelated(
+    2012, "The development of systems engineering international standards and support tools for very small enterprises",
+    display="laporte",
+    authors="Laporte, Claude Y and Ptack, Ken and Fanmuy, Gauthier",
+    place=FAKE,
+    pp="1460--1487",
+    entrytype="inproceedings",
+    volume="22",
+    number="1",
+    organization="Wiley Online Library",
+    ID="laporte201210",
+    gs2016="1",
+    placex="INCOSE International Symposium",
+))
+
 leal2012a = DB(WorkUnrelated(
     2012, "Ontology based software development good practices selection for adoption in micro-enterprises",
     display="leal",
@@ -587,9 +602,24 @@ unterkalmsteiner2012a = DB(WorkUnrelated(
     volume="38",
     number="2",
     publisher="IEEE",
-    ID="unterkalmsteiner2012evaluation",
+    ID="unterkalmsteiner2012aevaluation",
     gs2016="1",
     placex="IEEE Transactions on Software Engineering",
+))
+
+unterkalmsteiner2012b = DB(WorkUnrelated(
+    2012, "Evaluation and Measurement of Software Process Improvement—A Systematic Literature Review",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, Michael and Gorschek, Tony and Islam, AKM Moinul and Cheng, Chow Kian and Permadi, Rahadian Bayu and Feldt, Robert",
+    place=ToSE,
+    pp="398--424",
+    entrytype="article",
+    volume="38",
+    number="2",
+    publisher="IEEE",
+    ID="unterkalmsteiner2012bevaluation",
+    gs2016="1",
+    placex="Isivast Org - IEEE Transactions on Software Engineering",
 ))
 
 wang2012a = DB(WorkUnrelated(

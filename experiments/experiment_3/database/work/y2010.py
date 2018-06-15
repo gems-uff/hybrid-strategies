@@ -379,7 +379,8 @@ shvaiko2010a = DB(WorkUnrelated(
 ))
 
 simonsen2010a = DB(WorkUnrelated(
-    2010, "Design research: Synergies from interdisciplinary perspectives",
+    2010, "5 Design and management",
+    alias=(2010, "Design research: Synergies from interdisciplinary perspectives", ),
     display="simonsen",
     authors="Simonsen, Jesper and Bærenholdt, Jørgen Ole and Büscher, Monika and Scheuer, John Damm and others",
     place=Book,
@@ -392,6 +393,18 @@ simonsen2010a = DB(WorkUnrelated(
 
 sousa2010a = DB(WorkUnrelated(
     2010, "A Model-Driven Approach for User Interface-Business Process Alignment",
+    display="sousa",
+    authors="Sousa, Kênia Soares",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="sousa2010model",
+    local="IBM Research, United States",
+    gs2016="1",
+    placex="",
+))
+
+sousa2010b = DB(WorkUnrelated(
+    2010, "A model-driven approach for user interface-business process alignment",
     display="sousa",
     authors="Sousa, Kênia Soares",
     place=Thesis,

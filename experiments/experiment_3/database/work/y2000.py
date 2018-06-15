@@ -15,7 +15,8 @@ dutton2000a = DB(WorkUnrelated(
 ))
 
 iivari2000a = DB(WorkUnrelated(
-    2000, "A dynamic framework for classifying information systems development methodologies and approaches",
+    2000, "A Dynamic Framework for Classifying",
+    alias=(2000, "A dynamic framework for classifying information systems development methodologies and approaches", ),
     display="iivari",
     authors="Iivari, Juhani and Hirschheim, Rudy and Klein, Heinz K",
     place=FAKE,
@@ -27,6 +28,17 @@ iivari2000a = DB(WorkUnrelated(
     ID="iivari2000dynamic",
     gs2016="1",
     placex="Journal of management information systems",
+))
+
+mair2000a = DB(WorkUnrelated(
+    2000, "Agent-based Process Model Integration in Virtual Software Corporations",
+    display="mair",
+    authors="Quentin Mair  and Zsolt Haag",
+    place=FAKE,
+    entrytype="article",
+    ID="quentin2000agent",
+    gs2016="1",
+    placex="Proceedings of the ECAI 2000 Workshop 13 Agent Technologies and Their Application Scenarios in Logistics",
 ))
 
 nick2000a = DB(WorkUnrelated(

@@ -66,3 +66,14 @@ ruiz2003a = DB(WorkUnrelated(
     gs2016="1",
     placex="Advances in software maintenance management: technologies and solutions",
 ))
+
+staalhane2003a = DB(WorkUnrelated(
+    2003, "Kandidatens navn: Christian Waale Hansen",
+    display="staalhane",
+    authors="Staalhane, Tor",
+    place=FAKE,
+    entrytype="article",
+    ID="staalhane2003kandidatens",
+    gs2016="1",
+    placex="NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET FAKULTET FOR INFORMASJONSTEKNOLOGI, MATEMATIKK OG ELEKTROTEKNIKK",
+))

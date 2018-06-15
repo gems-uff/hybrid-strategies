@@ -245,11 +245,11 @@ lane2011a = DB(WorkUnrelated(
 
 lund2011a = DB(WorkUnrelated(
     2011, "User experience management: essential skills for leading effective UX teams",
+    alias=(2011, "Chapter 8 - Transforming the Organization", ),
     display="lund",
     authors="Lund, Arnie",
     place=Book,
     entrytype="book",
-    place2="Chapter 8 - Transforming the Organization",
     publisher="Elsevier",
     ID="lund2011user",
     sciencedirect2016="1",
@@ -413,4 +413,19 @@ zowghi2011a = DB(WorkUnrelated(
     ID="zowghi2011requirements",
     gs2016="1",
     placex="SoMeT",
+))
+
+陳仲儼2011a = DB(WorkUnrelated(
+    2011, "教學能力成熟度模式的設計與建立",
+    display="陳仲儼",
+    authors="陳仲儼 and 郭俊毅",
+    place=FAKE,
+    pp="141--174",
+    entrytype="article",
+    volume="14",
+    number="1",
+    publisher="中華民國課程與教學學會",
+    ID="陳仲儼2011教學能力成熟度模式的設計與建立",
+    gs2016="1",
+    placex="課程與教學",
 ))

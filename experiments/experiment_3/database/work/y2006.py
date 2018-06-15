@@ -171,7 +171,7 @@ garcía2006a = DB(WorkUnrelated(
     volume="48",
     number="8",
     publisher="Elsevier",
-    ID="garcia2006towards",
+    ID="garcia2006atowards",
     gs2016="1",
     placex="Information and Software Technology",
     sciencedirect2016="1",
@@ -336,6 +336,7 @@ siemieniuch2006a = DB(WorkUnrelated(
     ID="siemieniuch2006systems",
     sciencedirect2016="1",
     placex="Applied ergonomics",
+    gs2016="1",
 ))
 
 silva2006a = DB(WorkUnrelated(

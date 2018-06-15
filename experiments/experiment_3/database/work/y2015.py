@@ -24,9 +24,24 @@ alves2015a = DB(WorkUnrelated(
     volume="21",
     number="1",
     publisher="Emerald Group Publishing Limited",
-    ID="alves2015proposal",
+    ID="alves2015aproposal",
     gs2016="1",
     placex="Business Process Management Journal",
+))
+
+alves2015b = DB(WorkUnrelated(
+    2015, "Proposal for a Framework for Quality Measurement to the SPB--Brazilian Public Software",
+    display="alves b",
+    authors="Alves, Angela Maria and Pessoa, Marcelo and Salviano, Clênio F",
+    place=FAKE,
+    pp="100--125",
+    entrytype="article",
+    volume="21",
+    number="1",
+    publisher="ResearchGate - Emerald Group Publishing Limited",
+    ID="alves2015bproposal",
+    gs2016="1",
+    placex="ResearchGate - Business Process Management Journal",
 ))
 
 andrade2015a = DB(WorkUnrelated(
@@ -536,4 +551,15 @@ yoshidome2015a = DB(WorkUnrelated(
     ID="yoshidome2015proposta",
     gs2016="1",
     placex="Abakós",
+))
+
+ΣΗ2015a = DB(WorkUnrelated(
+    2015, "Η μεθοδολογία CMMI: η περίπτωση ανάπτυξης εφαρμογής λογισμικού",
+    display="",
+    authors="ΣΗ Γατέα",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="gammaalphatauacutevarepsilonalpha2015eta",
+    gs2016="1",
+    placex="",
 ))
