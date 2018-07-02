@@ -47,6 +47,17 @@ amrute2014a = DB(WorkUnrelated(
     placex="Social Anthropology",
 ))
 
+andansare2014a = DB(WorkUnrelated(
+    2014, "Managing Technical Debt with Agile",
+    display="andansare",
+    authors="Nita Andansare",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="nita2014",
+    placex="Agile Records",
+))
+
 anvari2014a = DB(WorkUnrelated(
     2014, "An integrated design methodology based on the use of group AHP-DEA approach for measuring lean tools efficiency with undesirable output",
     display="anvari",
@@ -1804,6 +1815,19 @@ ståhl2014a = DB(WorkUnrelated(
     issn="0164-1212",
     keyword="Continuous integration",
     sciencedirect2016_duplicate_removed="1",
+))
+
+suryanarayana2014a = DB(WorkUnrelated(
+    2014, "Refactoring for Software Design Smells: Managing Technical Debt",
+    display="suryanarayana",
+    authors="Suryanarayana, G. and Samarthyam, G. and Sharma, T.",
+    place=Book,
+    pp="1-237",
+    entrytype="book",
+    doi="10.1016/C2013-0-23413-9",
+    note="cited By 26",
+    ID="Suryanarayana20141",
+    placex="Refactoring for Software Design Smells: Managing Technical Debt",
 ))
 
 tarhan2014a = DB(WorkUnrelated(

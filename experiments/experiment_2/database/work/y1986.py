@@ -16,3 +16,13 @@ takeuchi1986a = DB(WorkUnrelated(
     ID="Takeuchi1986137",
     placex="Harvard Business Review",
 ))
+
+takeuchi1986b = DB(WorkUnrelated(
+    1986, "New Product Development Game",
+    display="takeuchi b",
+    authors="Takeuchi and Nonaka",
+    place=FAKE,
+    entrytype="article",
+    ID="Takeuchi1986",
+    placex="Harvard Business Review",
+))

@@ -77,6 +77,17 @@ batra2010a = DB(WorkUnrelated(
     placex="Communications of the Association for Information Systems",
 ))
 
+beaumont2010a = DB(WorkUnrelated(
+    2010, "The Definition of Ready, Xebia Blogs",
+    display="beaumont",
+    authors="Beaumont, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Beaumont2010",
+    placex="",
+))
+
 begier2010a = DB(WorkUnrelated(
     2010, "Users’ involvement may help respect social and ethical values and improve software quality",
     display="begier",
@@ -367,6 +378,20 @@ hannay2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
 ))
 
+heidenberg2010a = DB(WorkUnrelated(
+    2010, "Systematic piloting of agile methods in the large: Two cases in embedded systems development",
+    display="heidenberg",
+    authors="Heidenberg, J. and Matinlassi, M. and Pikkarainen, M. and Hirkman, P. and Partanen, J.",
+    place=FAKE,
+    pp="47-61",
+    entrytype="article",
+    volume="6156 LNCS",
+    doi="10.1007/978-3-642-13792-1_6",
+    note="cited By 7",
+    ID="Heidenberg201047",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 hilst2010a = DB(WorkUnrelated(
     2010, "A pattern system of underlying theories for process improvement",
     display="hilst",
@@ -396,6 +421,33 @@ hoda2010a = DB(WorkUnrelated(
     ID="Hoda201073",
     scopus2016="1",
     placex="Lecture Notes in Business Information Processing",
+))
+
+hoda2010b = DB(WorkUnrelated(
+    2010, "Organizing self-organizing teams",
+    display="hoda b",
+    authors="Hoda, R. and Noble, J. and Marshall, S.",
+    place=ICSE,
+    pp="285-294",
+    entrytype="conference",
+    volume="1",
+    doi="10.1145/1806799.1806843",
+    note="cited By 55",
+    ID="Hoda2010285",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
+hoda2010c = DB(WorkUnrelated(
+    2010, "Agility in context",
+    display="hoda c",
+    authors="Hoda, R. and Kruchten, P. and Noble, J. and Marshall, S.",
+    place=FAKE,
+    pp="74-88",
+    entrytype="conference",
+    doi="10.1145/1869459.1869467",
+    note="cited By 20",
+    ID="Hoda201074",
+    placex="Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA",
 ))
 
 howell2010a = DB(WorkUnrelated(
@@ -761,6 +813,7 @@ petersen2010a = DB(WorkUnrelated(
     ID="Petersen2010",
     springer2016="1",
     placex="Empirical Software Engineering",
+    note="cited By 57",
 ))
 
 pino2010a = DB(WorkUnrelated(
@@ -858,6 +911,8 @@ scharff2010a = DB(WorkUnrelated(
     ID="scharff2010scrum",
     acm2016="1",
     placex="Proceedings of the 2010 ICSE Workshop on Cooperative and Human Aspects of Software Engineering",
+    doi="10.1145/1833310.1833315",
+    note="cited By 23",
 ))
 
 siau2010a = DB(WorkUnrelated(
@@ -906,6 +961,17 @@ smith2010a = DB(WorkUnrelated(
     ID="smith2010attribute",
     wiley2016="1",
     placex="Systems engineering",
+))
+
+sommerville2010a = DB(WorkUnrelated(
+    2010, "Software Engineering",
+    display="sommerville",
+    authors="Sommerville, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4565",
+    ID="Sommerville2010",
+    placex="Addison",
 ))
 
 staron2010a = DB(WorkUnrelated(
@@ -992,4 +1058,16 @@ vinodh2010a = DB(WorkUnrelated(
     cluster_id="17372528132094673544",
     scholar="http://scholar.google.com/scholar?cites=17372528132094673544&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+yamin2010a = DB(WorkUnrelated(
+    2010, "Education for sustainable development through problem based learning: A review of the monitoring and assessment strategy",
+    display="yamin",
+    authors="Yamin, S.",
+    place=FAKE,
+    pp="171-178",
+    entrytype="article",
+    note="cited By 2",
+    ID="Yamin2010171",
+    placex="Proceedings of the International Conference on Education for Sustainable Development in Technical and Vocational Education and Training",
 ))

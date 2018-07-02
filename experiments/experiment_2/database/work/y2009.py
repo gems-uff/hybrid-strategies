@@ -146,6 +146,17 @@ berger2009a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+bob2009a = DB(WorkUnrelated(
+    2009, "Programmer 97-things: About, the Boy Scout's Rule",
+    display="bob",
+    authors="Uncle Bob",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Uncle2009",
+    placex="",
+))
+
 bonacin2009a = DB(WorkUnrelated(
     2009, "An agile process model for inclusive software development",
     display="bonacin",
@@ -218,6 +229,47 @@ büyüközkan2009a = DB(WorkUnrelated(
     placex="IFAC Proceedings Volumes",
 ))
 
+cao2009a = DB(WorkUnrelated(
+    2009, "A framework for adapting agile development methodologies",
+    display="cao",
+    authors="Cao, L. and Mohan, K. and Xu, P. and Ramesh, B.",
+    place=FAKE,
+    pp="332-343",
+    entrytype="article",
+    volume="18",
+    number="4",
+    doi="10.1057/ejis.2009.26",
+    note="cited By 82",
+    ID="Cao2009332",
+    placex="European Journal of Information Systems",
+))
+
+chan2009a = DB(WorkUnrelated(
+    2009, "Acceptance of agile methodologies: A critical review and conceptual framework",
+    display="chan",
+    authors="Chan, F.K.Y. and Thong, J.Y.L.",
+    place=FAKE,
+    pp="803-814",
+    entrytype="article",
+    volume="46",
+    number="4",
+    doi="10.1016/j.dss.2008.11.009",
+    note="cited By 80",
+    ID="Chan2009803",
+    placex="Decision Support Systems",
+))
+
+coder2009a = DB(WorkUnrelated(
+    2009, "Uncle Bob Consulting LLC, a Mess Is Not a Technical Debt",
+    display="coder",
+    authors="Coder, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Coder2009",
+    placex="",
+))
+
 cohn2009a = DB(WorkUnrelated(
     2009, "Succeeding with Agile: Software Development Using Scrum",
     display="cohn",
@@ -260,6 +312,17 @@ conboy2009a = DB(WorkUnrelated(
     note="cited By 282",
     ID="Conboy2009329",
     placex="Information Systems Research",
+))
+
+cube2009a = DB(WorkUnrelated(
+    2009, "Evaluate Your Technical Debt with Sonar",
+    display="cube",
+    authors="Cube, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Cube2009",
+    placex="",
 ))
 
 diaz2009a = DB(WorkUnrelated(
@@ -334,6 +397,17 @@ fernandes2009a = DB(WorkUnrelated(
     ID="fernandes2009structured",
     wiley2016="1",
     placex="Creativity and Innovation Management",
+))
+
+fowler2009a = DB(WorkUnrelated(
+    2009, "Technical Debt Quadrant",
+    display="fowler",
+    authors="Martin Fowler",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Martin2009",
+    placex="",
 ))
 
 ganguly2009a = DB(WorkUnrelated(
@@ -598,6 +672,17 @@ ktata2009a = DB(WorkUnrelated(
     placex="proceedings of the 2nd Canadian conference on computer science and software engineering",
 ))
 
+larman2009a = DB(WorkUnrelated(
+    2009, "Lean Primer",
+    display="larman",
+    authors="Larman, C. and Vodde, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 8",
+    ID="Larman2009",
+    placex="",
+))
+
 laskey2009a = DB(WorkUnrelated(
     2009, "Service oriented architecture",
     display="laskey",
@@ -626,6 +711,50 @@ magalhães2009a = DB(WorkUnrelated(
     ID="magalhaes2009evaluating",
     wiley2016="1",
     placex="Software: Practice and Experience",
+))
+
+mangalaraj2009a = DB(WorkUnrelated(
+    2009, "Acceptance of software process innovations- The case of extreme programming",
+    display="mangalaraj",
+    authors="Mangalaraj, G. and Mahapatra, R. and Nerur, S.",
+    place=FAKE,
+    pp="344-354",
+    entrytype="article",
+    volume="18",
+    number="4",
+    doi="10.1057/ejis.2009.23",
+    note="cited By 45",
+    ID="Mangalaraj2009344",
+    placex="European Journal of Information Systems",
+))
+
+martin2009a = DB(WorkUnrelated(
+    2009, "XP customer practices: A grounded theory",
+    display="martin",
+    authors="Martin, A. and Biddle, R. and Noble, J.",
+    place=FAKE,
+    pp="33-40",
+    entrytype="conference",
+    doi="10.1109/AGILE.2009.68",
+    art_number="5261109",
+    note="cited By 16",
+    ID="Martin200933",
+    placex="Proceedings - 2009 Agile Conference, AGILE 2009",
+))
+
+mcavoy2009a = DB(WorkUnrelated(
+    2009, "The role of project management in ineffective decision making within agile software development projects",
+    display="mcavoy",
+    authors="McAvoy, J. and Butler, T.",
+    place=FAKE,
+    pp="372-383",
+    entrytype="article",
+    volume="18",
+    number="4",
+    doi="10.1057/ejis.2009.22",
+    note="cited By 43",
+    ID="McAvoy2009372",
+    placex="European Journal of Information Systems",
 ))
 
 misra2009a = DB(WorkUnrelated(
@@ -673,6 +802,17 @@ nawaz2009a = DB(WorkUnrelated(
     placex="Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research",
 ))
 
+ogc2009a = DB(WorkUnrelated(
+    2009, "An Introduction to PRINCE2: Managing and Directing Successful Projects",
+    display="ogc",
+    authors="OGC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="OGC2009",
+    placex="The Stationary Office",
+))
+
 pasternak2009a = DB(WorkUnrelated(
     2009, "GenUTest: a unit test and mock aspect generation tool",
     display="pasternak",
@@ -705,6 +845,17 @@ petersen2009a = DB(WorkUnrelated(
     placex="Journal of systems and software",
     doi="10.1016/j.jss.2009.03.036",
     note="cited By 96",
+))
+
+pink2009a = DB(WorkUnrelated(
+    2009, "Drive: The Surprising Truth about What Motivates Us",
+    display="pink",
+    authors="Pink, D.H.",
+    place=Book,
+    entrytype="article",
+    note="cited By 646",
+    ID="Pink2009",
+    placex="Riverhead Books",
 ))
 
 plugge2009a = DB(WorkUnrelated(
@@ -865,6 +1016,17 @@ sauser2009a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+scrum2009a = DB(WorkUnrelated(
+    2009, "Scrum Development",
+    display="scrum",
+    authors="Scrum",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Scrum2009",
+    placex="accessed site",
+))
+
 sharp2009a = DB(WorkUnrelated(
     2009, "The role of physical artefacts in agile software development: Two complementary perspectives",
     display="sharp",
@@ -922,6 +1084,18 @@ strembeck2009a = DB(WorkUnrelated(
     ID="strembeck2009approach",
     wiley2016="1",
     placex="Software: Practice and Experience",
+))
+
+strode2009a = DB(WorkUnrelated(
+    2009, "The impact of organizational culture on agile method use, in: Proceedings of the 42nd Hawaii International Conference on System Sciences",
+    display="strode",
+    authors="Strode, D.E. and Huff, S.L. and Tretiakov, A.",
+    place=FAKE,
+    pp="1-9",
+    entrytype="article",
+    note="cited By 1",
+    ID="Strode20091",
+    placex="IEEE Computer Society",
 ))
 
 talby2009a = DB(WorkUnrelated(
@@ -983,6 +1157,17 @@ wang2009a = DB(WorkUnrelated(
     ID="wang2009agile",
     acm2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
+))
+
+wikipedia2009a = DB(WorkUnrelated(
+    2009, "Innovation",
+    display="wikipedia",
+    authors="wikipedia",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="wikipedia2009",
+    placex="",
 ))
 
 win2009a = DB(WorkUnrelated(

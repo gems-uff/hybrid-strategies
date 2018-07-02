@@ -36,6 +36,28 @@ brown1998a = DB(WorkUnrelated(
     placex="Wiley",
 ))
 
+brown1998b = DB(WorkUnrelated(
+    1998, "AntiPatterns: Refactoring Software",
+    display="brown b",
+    authors="Brown, W.J. and Malveau, R.C. and McCormick III, H.W. and Mowbray, T.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 6",
+    ID="Brown1998",
+    placex="Architectures, and Projects in Crisis",
+))
+
+glaser1998a = DB(WorkUnrelated(
+    1998, "Doing Grounded Theory: Issues and Discussions",
+    display="glaser",
+    authors="Glaser, B.G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1197",
+    ID="Glaser1998",
+    placex="Sociology Press",
+))
+
 ieee1998a = DB(WorkUnrelated(
     1998, "IEEE recommended practice for software requirements specifications",
     display="ieee",
@@ -47,6 +69,21 @@ ieee1998a = DB(WorkUnrelated(
     note="cited By 1",
     ID="ieee1998",
     placex="IEEE Std",
+))
+
+parry1998a = DB(WorkUnrelated(
+    1998, "Grounded theory and social process: A new direction for leadership research",
+    display="parry",
+    authors="Parry, K.W.",
+    place=FAKE,
+    pp="85-105",
+    entrytype="article",
+    volume="9",
+    number="1",
+    doi="10.1016/S1048-9843(98)90043-1",
+    note="cited By 174",
+    ID="Parry199885",
+    placex="Leadership Quarterly",
 ))
 
 stelzer1998a = DB(WorkUnrelated(
@@ -61,6 +98,17 @@ stelzer1998a = DB(WorkUnrelated(
     note="cited By 125",
     ID="Stelzer1998227",
     placex="Software Process Improvement and Practice",
+))
+
+strauss1998a = DB(WorkUnrelated(
+    1998, "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory",
+    display="strauss",
+    authors="Strauss, A. and Corbin, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 18287",
+    ID="Strauss1998",
+    placex="",
 ))
 
 vaughan1998a = DB(WorkUnrelated(

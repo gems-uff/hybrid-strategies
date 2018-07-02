@@ -93,6 +93,17 @@ bartlett2007a = DB(WorkUnrelated(
     placex="The International Journal of Logistics Management",
 ))
 
+barton2007a = DB(WorkUnrelated(
+    2007, "Establishing and Maintaining Top to Bottom Transparency Using the Meta-Scrum",
+    display="barton",
+    authors="Barton, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Barton2007",
+    placex="",
+))
+
 berger2007a = DB(WorkUnrelated(
     2007, "Agile development in a bureaucratic arena—A case study experience",
     display="berger",
@@ -258,6 +269,35 @@ coldewey2007a = DB(WorkUnrelated(
     placex="Companion to the 22nd ACM SIGPLAN conference on Object-oriented programming systems and applications companion",
 ))
 
+coleman2007a = DB(WorkUnrelated(
+    2007, "Using grounded theory to understand software process improvement: A study of Irish software product companies",
+    display="coleman",
+    authors="Coleman, G. and O'Connor, R.",
+    place=IST,
+    pp="654-667",
+    entrytype="article",
+    volume="49",
+    number="6",
+    doi="10.1016/j.infsof.2007.02.011",
+    note="cited By 94",
+    ID="Coleman2007654",
+    placex="Information and Software Technology",
+))
+
+conboy2007a = DB(WorkUnrelated(
+    2007, "The views of experts on the current state of agile method tailoring",
+    display="conboy",
+    authors="Conboy, K. and Fitzgerald, B.",
+    place=FAKE,
+    pp="217-234",
+    entrytype="article",
+    volume="235",
+    doi="10.1007/978-0-387-72804-9_15",
+    note="cited By 9",
+    ID="Conboy2007217",
+    placex="IFIP International Federation for Information Processing",
+))
+
 dittrich2007a = DB(WorkUnrelated(
     2007, "For the special issue on qualitative software engineering research",
     display="dittrich",
@@ -312,6 +352,31 @@ fornaro2007a = DB(WorkUnrelated(
     ID="fornaro2007reflections",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+gorman2007a = DB(WorkUnrelated(
+    2007, "Innovation",
+    display="gorman",
+    authors="Gorman, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Gorman2007",
+    placex="",
+))
+
+hansen2007a = DB(WorkUnrelated(
+    2007, "The innovation value chain",
+    display="hansen",
+    authors="Hansen, M.T. and Birkinshaw, J.",
+    place=FAKE,
+    pp="121-130+142",
+    entrytype="article",
+    volume="85",
+    number="6",
+    note="cited By 295",
+    ID="Hansen2007",
+    placex="Harvard Business Review",
 ))
 
 herbsleb2007a = DB(WorkUnrelated(
@@ -385,6 +450,20 @@ leffingwell2007a = DB(WorkUnrelated(
     note="cited By 143",
     ID="Leffingwell2007",
     placex="Pearson Education",
+))
+
+lowery2007a = DB(WorkUnrelated(
+    2007, "Scaling product ownership",
+    display="lowery",
+    authors="Lowery, M. and Evans, M.",
+    place=FAKE,
+    pp="328-332",
+    entrytype="conference",
+    doi="10.1109/AGILE.2007.51",
+    art_number="4293617",
+    note="cited By 4",
+    ID="Lowery2007328",
+    placex="Proceedings - AGILE 2007",
 ))
 
 lutters2007a = DB(WorkUnrelated(
@@ -657,6 +736,17 @@ schnetzler2007a = DB(WorkUnrelated(
     placex="International Journal of Production Economics",
 ))
 
+schwaber2007a = DB(WorkUnrelated(
+    2007, "Enterprise Scrum",
+    display="schwaber",
+    authors="Schwaber, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Schwaber2007",
+    placex="",
+))
+
 sherehiy2007a = DB(WorkUnrelated(
     2007, "A review of enterprise agility: Concepts, frameworks, and attributes",
     display="sherehiy",
@@ -685,6 +775,8 @@ siakas2007a = DB(WorkUnrelated(
     ID="siakas2007agile",
     wiley2016="1",
     placex="Software Process: Improvement and Practice",
+    doi="10.1002/spip.344",
+    note="cited By 13",
 ))
 
 simons2007a = DB(WorkUnrelated(
@@ -746,6 +838,17 @@ sutherland2007a = DB(WorkUnrelated(
     placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
 ))
 
+sutherland2007b = DB(WorkUnrelated(
+    2007, "Is it Lean or is it Scrum?",
+    display="sutherland b",
+    authors="Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sutherland2007",
+    placex="",
+))
+
 sy2007a = DB(WorkUnrelated(
     2007, "Adapting usability investigations for agile user-centered design",
     display="sy",
@@ -759,6 +862,18 @@ sy2007a = DB(WorkUnrelated(
     ID="sy2007adapting",
     acm2016="1",
     placex="Journal of usability Studies",
+))
+
+tai2007a = DB(WorkUnrelated(
+    2007, "Authentic assessment strategies in problem based learning",
+    display="tai",
+    authors="Tai, G.X.-L. and Yuen, M.C.",
+    place=FAKE,
+    pp="983-993",
+    entrytype="conference",
+    note="cited By 11",
+    ID="Tai2007983",
+    placex="ASCILITE 2007 - The Australasian Society for Computers in Learning in Tertiary Education",
 ))
 
 ware2007a = DB(WorkUnrelated(

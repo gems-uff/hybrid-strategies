@@ -59,3 +59,14 @@ parunak1997a = DB(WorkUnrelated(
     springer2016="1",
     placex="Annals of Operations Research",
 ))
+
+stapleton1997a = DB(WorkUnrelated(
+    1997, "Dynamic Systems Development Method",
+    display="stapleton",
+    authors="Stapleton, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 197",
+    ID="Stapleton1997",
+    placex="Addison Wesley",
+))

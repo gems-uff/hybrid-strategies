@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+adolph2012a = DB(WorkUnrelated(
+    2012, "Reconciling perspectives: A grounded theory of how people manage the process of software development",
+    display="adolph",
+    authors="Adolph, S. and Kruchten, P. and Hall, W.",
+    place=JSS,
+    pp="1269-1286",
+    entrytype="article",
+    volume="85",
+    number="6",
+    doi="10.1016/j.jss.2012.01.059",
+    note="cited By 47",
+    ID="Adolph20121269",
+    placex="Journal of Systems and Software",
+))
+
 al2012a = DB(WorkUnrelated(
     2012, "Suppliers versus lead users: Examining their relative impact on product variety",
     display="al",
@@ -234,6 +249,17 @@ clarke2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+codovation2012a = DB(WorkUnrelated(
+    2012, "Effective Steps to Reduce Technical Debt: An Agile Approach",
+    display="codovation",
+    authors="CODOVATION",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="CODOVATION2012",
+    placex="",
+))
+
 collins2012a = DB(WorkUnrelated(
     2012, "Software test automation practices in agile development environment: An industry experience report",
     display="collins",
@@ -282,6 +308,21 @@ deemer2012a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Deemer2012",
     placex="InfoQ, Version 2.0 Edn",
+))
+
+dingsøyr2012a = DB(WorkUnrelated(
+    2012, "A decade of agile methodologies: Towards explaining agile software development",
+    display="dingsøyr",
+    authors="Dingsøyr, T. and Nerur, S. and Balijepally, V. and Moe, N.B.",
+    place=JSS,
+    pp="1213-1221",
+    entrytype="article",
+    volume="85",
+    number="6",
+    doi="10.1016/j.jss.2012.02.033",
+    note="cited By 301",
+    ID="Dingsøyr20121213",
+    placex="Journal of Systems and Software",
 ))
 
 dorairaj2012a = DB(WorkUnrelated(
@@ -380,6 +421,20 @@ fitzgerald2012a = DB(WorkUnrelated(
     note="cited By 5",
     ID="Fitzgerald2012117",
     placex="Requirements Engineering",
+))
+
+fukuyasu2012a = DB(WorkUnrelated(
+    2012, "Experimental report of the exercise environment for software development PBL",
+    display="fukuyasu",
+    authors="Fukuyasu, N. and Saiki, S. and Igaki, H. and Manabe, Y.",
+    place=FAKE,
+    pp="482-487",
+    entrytype="conference",
+    doi="10.1109/SNPD.2012.56",
+    art_number="6299325",
+    note="cited By 2",
+    ID="Fukuyasu2012482",
+    placex="Proceedings - 13th ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing, SNPD 2012",
 ))
 
 garcía2012a = DB(WorkUnrelated(
@@ -507,6 +562,21 @@ herzog2012a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+hoda2012a = DB(WorkUnrelated(
+    2012, "Developing a grounded theory to explain the practices of self-organizing Agile teams",
+    display="hoda",
+    authors="Hoda, R. and Noble, J. and Marshall, S.",
+    place=ESE,
+    pp="609-639",
+    entrytype="article",
+    volume="17",
+    number="6",
+    doi="10.1007/s10664-011-9161-0",
+    note="cited By 51",
+    ID="Hoda2012609",
+    placex="Empirical Software Engineering",
+))
+
 hofman2012a = DB(WorkUnrelated(
     2012, "Domain specific feature modeling for software product lines",
     display="hofman",
@@ -518,6 +588,21 @@ hofman2012a = DB(WorkUnrelated(
     ID="hofman2012domain",
     acm2016="1",
     placex="Proceedings of the 16th International Software Product Line Conference-Volume 1",
+))
+
+hosono2012a = DB(WorkUnrelated(
+    2012, "A DevOps framework to shorten delivery time for cloud applications",
+    display="hosono",
+    authors="Hosono, S.",
+    place=FAKE,
+    pp="329-344",
+    entrytype="article",
+    volume="7",
+    number="4",
+    doi="10.1504/IJCSE.2012.049753",
+    note="cited By 7",
+    ID="Hosono2012329",
+    placex="International Journal of Computational Science and Engineering",
 ))
 
 huang2012a = DB(WorkUnrelated(
@@ -620,6 +705,20 @@ kelemen2012a = DB(WorkUnrelated(
     placex="Journal of software: Evolution and Process",
 ))
 
+kilamo2012a = DB(WorkUnrelated(
+    2012, "Teaching collaborative software development: A case study",
+    display="kilamo",
+    authors="Kilamo, T. and Hammouda, I. and Chatti, M.A.",
+    place=ICSE,
+    pp="1165-1174",
+    entrytype="conference",
+    doi="10.1109/ICSE.2012.6227026",
+    art_number="6227026",
+    note="cited By 9",
+    ID="Kilamo20121165",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 kircher2012a = DB(WorkUnrelated(
     2012, "Combining systematic reuse with agile development: experience report",
     display="kircher",
@@ -672,6 +771,20 @@ kniberg2012a = DB(WorkUnrelated(
     note="cited By 8",
     ID="Kniberg2012",
     placex="accessed site",
+))
+
+kurapati2012a = DB(WorkUnrelated(
+    2012, "Agile software development practice adoption survey",
+    display="kurapati",
+    authors="Kurapati, N. and Manyam, V.S.C. and Petersen, K.",
+    place=BIP,
+    pp="16-30",
+    entrytype="article",
+    volume="111 LNBIP",
+    doi="10.1007/978-3-642-30350-0_2",
+    note="cited By 19",
+    ID="Kurapati201216",
+    placex="Lecture Notes in Business Information Processing",
 ))
 
 kuusinen2012a = DB(WorkUnrelated(
@@ -775,6 +888,24 @@ magdaleno2012a = DB(WorkUnrelated(
     ID="magdaleno2012reconciling",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    doi="10.1016/j.jss.2011.08.028",
+    note="cited By 30",
+))
+
+mahnic2012a = DB(WorkUnrelated(
+    2012, "A capstone course on agile software development using scrum",
+    display="mahnic",
+    authors="Mahnic, V.",
+    place=FAKE,
+    pp="99-106",
+    entrytype="article",
+    volume="55",
+    number="1",
+    doi="10.1109/TE.2011.2142311",
+    art_number="5765710",
+    note="cited By 66",
+    ID="Mahnic201299",
+    placex="IEEE Transactions on Education",
 ))
 
 microsoft2012a = DB(WorkUnrelated(
@@ -801,6 +932,17 @@ neill2012a = DB(WorkUnrelated(
     ID="neill20129",
     wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+newing2012a = DB(WorkUnrelated(
+    2012, "On Technical Debt, Pragmatic Agile Development: How to Develop Fast & Contain Technical Debt",
+    display="newing",
+    authors="Rod Newing",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Rod2012",
+    placex="",
 ))
 
 nielsen2012a = DB(WorkUnrelated(
@@ -843,6 +985,17 @@ olsson2012a = DB(WorkUnrelated(
     note="cited By 100",
     ID="Olsson2012392",
     placex="Proceedings - 38th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2012",
+))
+
+one2012a = DB(WorkUnrelated(
+    2012, "Version One State of Agile Survey",
+    display="one",
+    authors="Version One",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="VersionOne2012",
+    placex="accessed site",
 ))
 
 paasivaara2012a = DB(WorkUnrelated(
@@ -908,6 +1061,21 @@ peled2012a = DB(WorkUnrelated(
     issn="0263-7863",
     keyword="Defence projects",
     sciencedirect2016_duplicate_removed="1",
+))
+
+pikkarainen2012a = DB(WorkUnrelated(
+    2012, "Strengths and barriers behind the successful agile deployment-insights from the three software intensive companies in Finland",
+    display="pikkarainen",
+    authors="Pikkarainen, M. and Salo, O. and Kuusela, R. and Abrahamsson, P.",
+    place=ESE,
+    pp="675-702",
+    entrytype="article",
+    volume="17",
+    number="6",
+    doi="10.1007/s10664-011-9185-5",
+    note="cited By 28",
+    ID="Pikkarainen2012675",
+    placex="Empirical Software Engineering",
 ))
 
 pino2012a = DB(WorkUnrelated(
@@ -1085,6 +1253,17 @@ scheithauer2012a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+seaman2012a = DB(WorkUnrelated(
+    2012, "Identifying and Managing Technical Debt",
+    display="seaman",
+    authors="Carolyn Seaman",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Carolyn2012",
+    placex="",
+))
+
 seinturier2012a = DB(WorkUnrelated(
     2012, "A component-based middleware platform for reconfigurable service-oriented architectures",
     display="seinturier",
@@ -1203,6 +1382,8 @@ strode2012a = DB(WorkUnrelated(
     ID="strode2012coordination",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    doi="10.1016/j.jss.2012.02.017",
+    note="cited By 61",
 ))
 
 sutherland2012a = DB(WorkUnrelated(
@@ -1308,6 +1489,17 @@ unterkalmsteiner2012a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+veli2012a = DB(WorkUnrelated(
+    2012, "Interview Questions",
+    display="veli",
+    authors="Veli-Pekka, E.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Veli-Pekka2012",
+    placex="",
+))
+
 versionone2012a = DB(WorkUnrelated(
     2012, "VersionOne 7th Annual State of Agile Survey",
     display="versionone",
@@ -1317,6 +1509,21 @@ versionone2012a = DB(WorkUnrelated(
     note="cited By 1",
     ID="versionone2012version",
     placex="accessed site",
+))
+
+vijayasarathy2012a = DB(WorkUnrelated(
+    2012, "Drivers of agile software development use: Dialectic interplay between benefits and hindrances",
+    display="vijayasarathy",
+    authors="Vijayasarathy, L. and Turk, D.",
+    place=IST,
+    pp="137-148",
+    entrytype="article",
+    volume="54",
+    number="2",
+    doi="10.1016/j.infsof.2011.08.003",
+    note="cited By 33",
+    ID="Vijayasarathy2012137",
+    placex="Information and Software Technology",
 ))
 
 vinodh2012a = DB(WorkUnrelated(

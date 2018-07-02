@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alliance2001a = DB(WorkUnrelated(
+    2001, "Manifesto for Agile Software",
+    display="alliance",
+    authors="Agile Alliance",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="AgileAlliance2001",
+    placex="",
+))
+
 beck2001a = DB(WorkUnrelated(
     2001, "Manifesto for Agile Software Development",
     display="beck",
@@ -12,6 +23,32 @@ beck2001a = DB(WorkUnrelated(
     note="cited By 938",
     ID="Beck2001",
     placex="Manifesto for Agile Software Development",
+))
+
+cockburn2001a = DB(WorkUnrelated(
+    2001, "Agile software development: The people factor",
+    display="cockburn",
+    authors="Cockburn, A. and Highsmith, J.",
+    place=C,
+    pp="131-133",
+    entrytype="article",
+    volume="34",
+    number="11",
+    doi="10.1109/2.963450",
+    note="cited By 418",
+    ID="Cockburn2001131",
+    placex="Computer",
+))
+
+cockburn2001b = DB(WorkUnrelated(
+    2001, "Agile Software Development",
+    display="cockburn b",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1122",
+    ID="Cockburn2001",
+    placex="Addison-Wesley",
 ))
 
 eoyang2001a = DB(WorkUnrelated(
@@ -38,6 +75,20 @@ ferré2001a = DB(WorkUnrelated(
     note="cited By 77",
     ID="Ferré200122",
     placex="IEEE Software",
+))
+
+highsmith2001a = DB(WorkUnrelated(
+    2001, "The agile manifesto",
+    display="highsmith",
+    authors="Highsmith, J. and Fowler, M.",
+    place=FAKE,
+    pp="29-30",
+    entrytype="article",
+    volume="9",
+    number="8",
+    note="cited By 27",
+    ID="Highsmith200129",
+    placex="Software Development Magazine",
 ))
 
 hoyle2001a = DB(WorkUnrelated(

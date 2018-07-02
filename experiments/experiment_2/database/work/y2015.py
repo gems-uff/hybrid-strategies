@@ -158,6 +158,17 @@ bosni2015a = DB(WorkUnrelated(
     placex="Proceedings of the 2015 European Conference on Software Architecture Workshops",
 ))
 
+breault2015a = DB(WorkUnrelated(
+    2015, "Agile Expectations, Scrum Team Dependencies",
+    display="breault",
+    authors="Jason Breault",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Jason2015",
+    placex="",
+))
+
 brhel2015a = DB(WorkUnrelated(
     2015, "Exploring principles of user-centered agile software development: A literature review",
     display="brhel",
@@ -1593,6 +1604,17 @@ shah2015a = DB(WorkUnrelated(
     ID="shah2015lean",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+sharma2015a = DB(WorkUnrelated(
+    2015, "Pragmatic Technical Debt Management",
+    display="sharma",
+    authors="Tushar Sharma",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Tushar2015",
+    placex="InfoQ",
 ))
 
 shuaibu2015a = DB(WorkUnrelated(

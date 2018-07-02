@@ -49,6 +49,19 @@ acuña2008b = DB(WorkUnrelated(
     placex="Proceedings of the Second ACM-IEEE international symposium on Empirical software engineering and measurement",
 ))
 
+adolph2008a = DB(WorkUnrelated(
+    2008, "A methodological leg to stand on: Lessons learned using grounded theory to study software development",
+    display="adolph",
+    authors="Adolph, S. and Hall, W. and Kruchten, P.",
+    place=FAKE,
+    entrytype="conference",
+    doi="10.1145/1463788.1463806",
+    art_number="13",
+    note="cited By 31",
+    ID="Adolph2008",
+    placex="Proceedings of the 2008 Conference of the Center for Advanced Studies, CASCON'08",
+))
+
 alexander2008a = DB(WorkUnrelated(
     2008, "Information behavior in requirements engineering: an initial review of the research",
     display="alexander",
@@ -74,6 +87,17 @@ ambler2008a = DB(WorkUnrelated(
     note="cited By 25",
     ID="Ambler200875",
     placex="Maturing Usability",
+))
+
+anderson2008a = DB(WorkUnrelated(
+    2008, "Agile Directions",
+    display="anderson",
+    authors="D. Anderson",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Anderson2008",
+    placex="",
 ))
 
 baptista2008a = DB(WorkUnrelated(
@@ -115,6 +139,18 @@ baykaso2008a = DB(WorkUnrelated(
     ID="baykasouglu2008application",
     sciencedirect2016="1",
     placex="International Journal of Production Economics",
+))
+
+benefield2008a = DB(WorkUnrelated(
+    2008, "Rolling out agile in a large enterprise",
+    display="benefield",
+    authors="Benefield, G.",
+    place=FAKE,
+    pp="462",
+    entrytype="article",
+    note="cited By 1",
+    ID="Benefield2008462",
+    placex="Proceedings of the 41st hawaii international conference on system sciences (HICSS 2008) IEEEi Computer Society",
 ))
 
 bettenburg2008a = DB(WorkUnrelated(
@@ -235,6 +271,17 @@ chow2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+cockburn2008a = DB(WorkUnrelated(
+    2008, "Information Radiator",
+    display="cockburn",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Cockburn2008",
+    placex="Blog",
+))
+
 cooper2008a = DB(WorkUnrelated(
     2008, "Perspective: The stage-gate	extregistered idea-to-launch process—update, what's new, and nexgen systems",
     display="cooper",
@@ -353,6 +400,17 @@ federoff2008a = DB(WorkUnrelated(
     placex="CHI'08 extended abstracts on Human factors in computing systems",
 ))
 
+fowler2008a = DB(WorkUnrelated(
+    2008, "Estimated Interest",
+    display="fowler",
+    authors="Martin Fowler",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="MartinFowler2008",
+    placex="",
+))
+
 fox2008a = DB(WorkUnrelated(
     2008, "Agile methods and user-centered design: How these two methodologies are being successfully integrated in industry",
     display="fox",
@@ -365,6 +423,20 @@ fox2008a = DB(WorkUnrelated(
     note="cited By 69",
     ID="Fox200863",
     placex="Proceedings - Agile 2008 Conference",
+))
+
+georgieva2008a = DB(WorkUnrelated(
+    2008, "Best practices in project management through a grounded theory Lens",
+    display="georgieva",
+    authors="Georgieva, S. and Allan, G.",
+    place=FAKE,
+    pp="43-52",
+    entrytype="article",
+    volume="6",
+    number="1",
+    note="cited By 28",
+    ID="Georgieva200843",
+    placex="Electronic Journal of Business Research Methods",
 ))
 
 gon2008a = DB(WorkUnrelated(
@@ -435,6 +507,20 @@ iii2008a = DB(WorkUnrelated(
     placex="Proceedings - 2008 International Symposium on Microelectronics, IMAPS 2008",
 ))
 
+isham2008a = DB(WorkUnrelated(
+    2008, "Agile architecture IS possible - You first have to believe!",
+    display="isham",
+    authors="Isham, M.",
+    place=FAKE,
+    pp="484-489",
+    entrytype="conference",
+    doi="10.1109/Agile.2008.16",
+    art_number="4599526",
+    note="cited By 8",
+    ID="Isham2008484",
+    placex="Proceedings - Agile 2008 Conference",
+))
+
 isoiec2008a = DB(WorkUnrelated(
     2008, "ISO/IEC: Information Technology - Security Techniques - Systems Security Engineering - Capability Maturity Model (SSE-CMM)",
     display="isoiec",
@@ -444,6 +530,19 @@ isoiec2008a = DB(WorkUnrelated(
     note="cited By 1",
     ID="isoiec2008",
     placex="iso/IEC 21817",
+))
+
+judy2008a = DB(WorkUnrelated(
+    2008, "Great scrums need great product owners: Unbounded collaboration and collective product ownership",
+    display="judy",
+    authors="Judy, K.H. and Krumins-Beens, I.",
+    place=FAKE,
+    entrytype="conference",
+    doi="10.1109/HICSS.2008.186",
+    art_number="4439168",
+    note="cited By 11",
+    ID="Judy2008",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
 ))
 
 jörges2008a = DB(WorkUnrelated(
@@ -476,6 +575,8 @@ kettunen2008a = DB(WorkUnrelated(
     ID="kettunen2008combining",
     wiley2016="1",
     placex="Software Process: Improvement and Practice",
+    doi="10.1002/spip.354",
+    note="cited By 37",
 ))
 
 kirova2008a = DB(WorkUnrelated(
@@ -636,6 +737,31 @@ moe2008a = DB(WorkUnrelated(
     note="cited By 56",
     ID="Moe200876",
     placex="Proceedings of the Australian Software Engineering Conference, ASWEC",
+))
+
+moore2008a = DB(WorkUnrelated(
+    2008, "Scaling agile: Finding your agile tribe",
+    display="moore",
+    authors="Moore, E. and Spens, J.",
+    place=FAKE,
+    pp="121-124",
+    entrytype="conference",
+    doi="10.1109/Agile.2008.43",
+    art_number="4599461",
+    note="cited By 11",
+    ID="Moore2008121",
+    placex="Proceedings - Agile 2008 Conference",
+))
+
+morris2008a = DB(WorkUnrelated(
+    2008, "From 'acorns' of ideas to 'oak trees' of business success",
+    display="morris",
+    authors="Morris, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Morris2008",
+    placex="",
 ))
 
 motała2008a = DB(WorkUnrelated(
@@ -957,6 +1083,21 @@ sfetsos2008a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
     ))
 
+sharp2008a = DB(WorkUnrelated(
+    2008, "Collaboration and co-ordination in mature eXtreme programming teams",
+    display="sharp",
+    authors="Sharp, H. and Robinson, H.",
+    place=FAKE,
+    pp="506-518",
+    entrytype="article",
+    volume="66",
+    number="7",
+    doi="10.1016/j.ijhcs.2007.10.004",
+    note="cited By 58",
+    ID="Sharp2008506",
+    placex="International Journal of Human Computer Studies",
+))
+
 singh2008a = DB(WorkUnrelated(
     2008, "U-SCRUM: An agile methodology for promoting usability",
     display="singh",
@@ -1065,6 +1206,21 @@ taylor2008a = DB(WorkUnrelated(
     placex="Software Process: Improvement and Practice",
 ))
 
+tolfo2008a = DB(WorkUnrelated(
+    2008, "The influence of organizational culture on the adoption of extreme programming",
+    display="tolfo",
+    authors="Tolfo, C. and Wazlawick, R.S.",
+    place=JSS,
+    pp="1955-1967",
+    entrytype="article",
+    volume="81",
+    number="11",
+    doi="10.1016/j.jss.2008.01.014",
+    note="cited By 31",
+    ID="Tolfo20081955",
+    placex="Journal of Systems and Software",
+))
+
 tomaszewski2008a = DB(WorkUnrelated(
     2008, "From Traditional to Streamline Development—opportunities and challenges",
     display="tomaszewski",
@@ -1106,6 +1262,17 @@ ungar2008a = DB(WorkUnrelated(
     ID="ungar2008agile",
     acm2016="1",
     placex="CHI'08 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+vanvliet2008a = DB(WorkUnrelated(
+    2008, "Software Engineering: Principles and Practice",
+    display="vanvliet",
+    authors="Vanvliet, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="Vanvliet2008",
+    placex="John Wiley",
 ))
 
 vélez2008a = DB(WorkUnrelated(

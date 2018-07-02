@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+boehm1981a = DB(WorkUnrelated(
+    1981, "Software Engineering Economics",
+    display="boehm",
+    authors="Boehm, B.W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3420",
+    ID="Boehm1981",
+    placex="Prentice Hall",
+))
+
 doran1981a = DB(WorkUnrelated(
     1981, "There's a S.M.A.R.T. way to write management's goals and objectives",
     display="doran",

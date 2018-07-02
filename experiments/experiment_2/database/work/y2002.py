@@ -3,6 +3,46 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+agarwal2002a = DB(WorkUnrelated(
+    2002, "Principles and models for organizing the IT function",
+    display="agarwal",
+    authors="Agarwal, R. and Sambamurthy, V.",
+    place=FAKE,
+    pp="1-16",
+    entrytype="article",
+    volume="1",
+    number="1",
+    note="cited By 172",
+    ID="Agarwal20021",
+    placex="MIS Quarterly Executive",
+))
+
+boehm2002a = DB(WorkUnrelated(
+    2002, "Get ready for agile methods, with care",
+    display="boehm",
+    authors="Boehm, B.",
+    place=C,
+    pp="64-69",
+    entrytype="article",
+    volume="35",
+    number="1",
+    doi="10.1109/2.976920",
+    note="cited By 410",
+    ID="Boehm200264",
+    placex="Computer",
+))
+
+boehm2002b = DB(WorkUnrelated(
+    2002, "Balancing Agility and Discipline: A Guide for the Perplexed",
+    display="boehm b",
+    authors="Boehm, B. and Turner, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 783",
+    ID="Boehm2002",
+    placex="Addison Wesley",
+))
+
 cockburn2002a = DB(WorkUnrelated(
     2002, "Agile Software Development",
     display="cockburn",
@@ -12,6 +52,17 @@ cockburn2002a = DB(WorkUnrelated(
     note="cited By 1123",
     ID="Cockburn2002agile",
     placex="1st ed. Addison-Wesley Professional",
+))
+
+larman2002a = DB(WorkUnrelated(
+    2002, "Applying UML and Patterns, 2nd  Edition",
+    display="larman",
+    authors="Larman, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Larman2002",
+    placex="",
 ))
 
 morgan2002a = DB(WorkUnrelated(
@@ -44,6 +95,17 @@ ohara2002a = DB(WorkUnrelated(
     placex="International Transactions in Operational Research",
 ))
 
+palmer2002a = DB(WorkUnrelated(
+    2002, "A Practical Guide to Feature-Driven Development",
+    display="palmer",
+    authors="Palmer, S.R. and Felsing, J.M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 303",
+    ID="Palmer2002",
+    placex="A Practical Guide to Feature-Driven Development",
+))
+
 schwaber2002a = DB(WorkUnrelated(
     2002, "Agile Software Development with Scrum",
     display="schwaber",
@@ -68,6 +130,16 @@ webster2002a = DB(WorkUnrelated(
     ID="webster2002supply",
     wiley2016="1",
     placex="International Journal of Management Reviews",
+))
+
+wirfs2002a = DB(WorkUnrelated(
+    2002, "Object Design: Roles, Responsibilities and Collaborations",
+    display="wirfs",
+    authors="Wirfs-Brock, R., McKean, A.",
+    place=FAKE,
+    entrytype="article",
+    ID="Wirfs2002",
+    placex="Addison-Wesley",
 ))
 
 worren2002a = DB(WorkUnrelated(

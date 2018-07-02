@@ -18,6 +18,21 @@ baskerville1996a = DB(WorkUnrelated(
     placex="Journal of Information Technology",
 ))
 
+button1996a = DB(WorkUnrelated(
+    1996, "Project work: The organisation of collaborative design and development in software engineering",
+    display="button",
+    authors="Button, G. and Sharrock, W.",
+    place=FAKE,
+    pp="369-386",
+    entrytype="article",
+    volume="5",
+    number="4",
+    doi="10.1007/BF00136711",
+    note="cited By 62",
+    ID="Button1996369",
+    placex="Computer Supported Cooperative Work",
+))
+
 stacey1996a = DB(WorkUnrelated(
     1996, "Emerging Strategies for a Chaotic Environment",
     display="stacey",
@@ -31,4 +46,15 @@ stacey1996a = DB(WorkUnrelated(
     note="cited By 49",
     ID="Stacey1996182",
     placex="Long Range Planning",
+))
+
+womack1996a = DB(WorkUnrelated(
+    1996, "Lean Thinking",
+    display="womack",
+    authors="Womack, J.P. and Jones, D.T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1326",
+    ID="Womack1996",
+    placex="Free Press Publications",
 ))

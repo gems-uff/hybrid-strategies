@@ -59,3 +59,17 @@ walsham1995b = DB(WorkUnrelated(
     ID="Walsham1995376",
     placex="Information Systems Research",
 ))
+
+webb1995a = DB(WorkUnrelated(
+    1995, "Group collaboration in assessment: Multiple objectives, processes, and outcomes",
+    display="webb",
+    authors="Webb, N.M.",
+    place=FAKE,
+    pp="239-261",
+    entrytype="article",
+    volume="17",
+    number="2",
+    note="cited By 82",
+    ID="Webb1995239",
+    placex="Educational Evaluation and Policy Analysis",
+))

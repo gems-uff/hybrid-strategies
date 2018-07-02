@@ -15,6 +15,33 @@ abrahamsson2003a = DB(WorkUnrelated(
     placex="Proceedings - International Conference on Software Engineering",
 ))
 
+allan2003a = DB(WorkUnrelated(
+    2003, "A critique of using grounded theory as a research method",
+    display="allan",
+    authors="Allan, G.",
+    place=FAKE,
+    pp="1-10",
+    entrytype="article",
+    volume="2",
+    number="1",
+    note="cited By 146",
+    ID="Allan20031",
+    placex="Electronic Journal of Business Research Methods",
+))
+
+anderson2003a = DB(WorkUnrelated(
+    2003, "Agile management - An oxymoron? Who needs managers anyway?",
+    display="anderson",
+    authors="Anderson, L. and Alleman, G.B. and Beck, K. and Blotner, J. and Cunningham, W. and Poppendieck, M. and Wirfs-Brock, R.",
+    place=FAKE,
+    pp="275-277",
+    entrytype="conference",
+    doi="10.1145/949344.949410",
+    note="cited By 10",
+    ID="Anderson2003275",
+    placex="Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA",
+))
+
 beckley2003a = DB(WorkUnrelated(
     2003, "2.6. 2 Evolution of Agile Processes on a Small Program",
     display="beckley",
@@ -30,6 +57,19 @@ beckley2003a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+boehm2003a = DB(WorkUnrelated(
+    2003, "Rebalancing your organization's agility and discipline",
+    display="boehm",
+    authors="Boehm, B. and Turner, R.",
+    place=FAKE,
+    pp="1-8",
+    entrytype="article",
+    volume="2753",
+    note="cited By 19",
+    ID="Boehm20031",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 bruin2003a = DB(WorkUnrelated(
     2003, "Food process engineering: the last 25 years and challenges ahead",
     display="bruin",
@@ -43,6 +83,43 @@ bruin2003a = DB(WorkUnrelated(
     ID="bruin2003food",
     wiley2016="1",
     placex="Comprehensive Reviews in Food Science and Food Safety",
+))
+
+cockburn2003a = DB(WorkUnrelated(
+    2003, "People and methodologies in software development",
+    display="cockburn",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 24",
+    ID="Cockburn2003",
+    placex="People and Methodologies in Software Development",
+))
+
+cockburn2003b = DB(WorkUnrelated(
+    2003, "Agile Software Development",
+    display="cockburn b",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1122",
+    ID="Cockburn2003",
+    placex="Addison-Wesley",
+))
+
+cohn2003a = DB(WorkUnrelated(
+    2003, "Introducing an agile process to an organization",
+    display="cohn",
+    authors="Cohn, M. and Ford, D.",
+    place=C,
+    pp="74-78",
+    entrytype="article",
+    volume="36",
+    number="6",
+    doi="10.1109/MC.2003.1204378",
+    note="cited By 99",
+    ID="Cohn200374",
+    placex="Computer",
 ))
 
 currie2003a = DB(WorkUnrelated(
@@ -69,6 +146,30 @@ emery2003a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Emery2003",
     placex="",
+))
+
+fowler2003a = DB(WorkUnrelated(
+    2003, "Technical Debt",
+    display="fowler",
+    authors="Martin Fowler",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Martin2003",
+    placex="",
+))
+
+fraser2003a = DB(WorkUnrelated(
+    2003, "Xtreme programming and agile coaching",
+    display="fraser",
+    authors="Fraser, S. and Reinitz, R. and Eckstein, J. and Kerievsky, J. and Mee, R. and Poppendieck, M.",
+    place=FAKE,
+    pp="265-267",
+    entrytype="conference",
+    doi="10.1145/949344.949406",
+    note="cited By 10",
+    ID="Fraser2003265",
+    placex="Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA",
 ))
 
 georgiadou2003a = DB(WorkUnrelated(
@@ -144,6 +245,32 @@ kovács2003a = DB(WorkUnrelated(
     placex="Computers in Industry",
 ))
 
+larman2003a = DB(WorkUnrelated(
+    2003, "Iterative and incremental development: A brief history",
+    display="larman",
+    authors="Larman, C. and Basili, V.R.",
+    place=C,
+    pp="47-56",
+    entrytype="article",
+    volume="36",
+    number="6",
+    doi="10.1109/MC.2003.1204375",
+    note="cited By 440",
+    ID="Larman200347",
+    placex="Computer",
+))
+
+martin2003a = DB(WorkUnrelated(
+    2003, "Agile Software Development: Principles, Patterns, and Practices",
+    display="martin",
+    authors="Martin, R.C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 815",
+    ID="Martin2003",
+    placex="Pearson Education NJ",
+))
+
 mcdaniel2003a = DB(WorkUnrelated(
     2003, "2.3. 3 The Good, the Bad, and the Agile: XP Meets Systems Engineering",
     display="mcdaniel",
@@ -213,6 +340,21 @@ qvortrup2003a = DB(WorkUnrelated(
     note="cited By 10",
     ID="Qvortrup2003",
     placex="Manchester University Press",
+))
+
+rasmusson2003a = DB(WorkUnrelated(
+    2003, "Introducing XP into greenfield projects: Lessons learned",
+    display="rasmusson",
+    authors="Rasmusson, J.",
+    place=IEEES,
+    pp="21-28",
+    entrytype="article",
+    volume="20",
+    number="3",
+    doi="10.1109/MS.2003.1196316",
+    note="cited By 54",
+    ID="Rasmusson200321",
+    placex="IEEE Software",
 ))
 
 siebel2003a = DB(WorkUnrelated(

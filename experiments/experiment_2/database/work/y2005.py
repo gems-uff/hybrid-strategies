@@ -35,6 +35,21 @@ amram2005a = DB(WorkUnrelated(
     placex="Journal of Applied Corporate Finance",
 ))
 
+augustine2005a = DB(WorkUnrelated(
+    2005, "Agile project management: Steering from the edges",
+    display="augustine",
+    authors="Augustine, S. and Payne, B. and Sencindiver, F. and Woodcock, S.",
+    place=CACM,
+    pp="85-89",
+    entrytype="article",
+    volume="48",
+    number="12",
+    doi="10.1145/1101779.1101781",
+    note="cited By 90",
+    ID="Augustine200585",
+    placex="Communications of the ACM",
+))
+
 bellini2005a = DB(WorkUnrelated(
     2005, "Pair designing as practice for enforcing and diffusing design knowledge",
     display="bellini",
@@ -76,6 +91,21 @@ blomkvist2005a = DB(WorkUnrelated(
     note="cited By 50",
     ID="Blomkvist2005219",
     placex="Human-Centered Software Engineering-Integrating Usability in the Software Development Lifecycle",
+))
+
+boehm2005a = DB(WorkUnrelated(
+    2005, "Management challenges to implementing agile processes in traditional development organizations",
+    display="boehm",
+    authors="Boehm, B. and Turner, R.",
+    place=IEEES,
+    pp="30-39",
+    entrytype="article",
+    volume="22",
+    number="5",
+    doi="10.1109/MS.2005.129",
+    note="cited By 188",
+    ID="Boehm200530",
+    placex="IEEE Software",
 ))
 
 brandon2005a = DB(WorkUnrelated(
@@ -167,6 +197,19 @@ chirouze2005a = DB(WorkUnrelated(
     placex="Software: Practice and Experience",
 ))
 
+clark2005a = DB(WorkUnrelated(
+    2005, "Evaluating student teams developing unique industry projects",
+    display="clark",
+    authors="Clark, N.",
+    place=FAKE,
+    pp="21-30",
+    entrytype="conference",
+    volume="42",
+    note="cited By 20",
+    ID="Clark200521",
+    placex="Conferences in Research and Practice in Information Technology Series",
+))
+
 coelho2005a = DB(WorkUnrelated(
     2005, "Not so eXtreme programming: agile practices for R&D projects",
     display="coelho",
@@ -178,6 +221,29 @@ coelho2005a = DB(WorkUnrelated(
     ID="coelho2005not",
     acm2016="1",
     placex="Companion to the 20th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications",
+))
+
+glaser2005a = DB(WorkUnrelated(
+    2005, "The Grounded Theory Perspective III: Theoretical Coding",
+    display="glaser",
+    authors="Glaser, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 231",
+    ID="Glaser2005",
+    placex="",
+))
+
+grisham2005a = DB(WorkUnrelated(
+    2005, "Customer relationships and Extreme Programming",
+    display="grisham",
+    authors="Grisham, P.S. and Perry, D.E.",
+    place=FAKE,
+    entrytype="conference",
+    doi="10.1145/1083106.1083113",
+    note="cited By 20",
+    ID="Grisham2005",
+    placex="Proceedings of the 2005 Workshop on Human and Social Factors of Software Engineering, HSSE 2005",
 ))
 
 griswold2005a = DB(WorkUnrelated(
@@ -337,6 +403,20 @@ lee2005a = DB(WorkUnrelated(
     placex="Proceedings of the IASTED International Conference on Software Engineering: part of the 23rd IASTED International Multi-Conference on Applied Informatics, SE 2005",
 ))
 
+levina2005a = DB(WorkUnrelated(
+    2005, "The emergence of boundary spanning competence in practice: Implications for implementation and use of information systems",
+    display="levina",
+    authors="Levina, N. and Vaast, E.",
+    place=FAKE,
+    pp="335-363",
+    entrytype="article",
+    volume="29",
+    number="2",
+    note="cited By 572",
+    ID="Levina2005335",
+    placex="MIS Quarterly: Management Information Systems",
+))
+
 loftus2005a = DB(WorkUnrelated(
     2005, "Extreme programming promotes extreme learning?",
     display="loftus",
@@ -363,6 +443,21 @@ madsen2005a = DB(WorkUnrelated(
     ID="madsen2005agility",
     acm2016="1",
     placex="Companion to the 20th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications",
+))
+
+mann2005a = DB(WorkUnrelated(
+    2005, "A case study on the impact of scrum on overtime and customer satisfaction",
+    display="mann",
+    authors="Mann, C. and Maurer, F.",
+    place=FAKE,
+    pp="70-79",
+    entrytype="conference",
+    volume="2005",
+    doi="10.1109/ADC.2005.1",
+    art_number="1609806",
+    note="cited By 71",
+    ID="Mann200570",
+    placex="Proceedings - AGILE Confernce 2005",
 ))
 
 markovi2005a = DB(WorkUnrelated(
@@ -487,6 +582,31 @@ mens2005a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+mitra2005a = DB(WorkUnrelated(
+    2005, "Teaching Software Engineering Using a Traceability-Based Development Methodology",
+    display="mitra",
+    authors="Mitra, S., Rao, T.M., and Bullinger, T.A.",
+    place=FAKE,
+    entrytype="article",
+    ID="Mitra2005",
+    placex="Journal of Computing in Colleges",
+))
+
+nerur2005a = DB(WorkUnrelated(
+    2005, "Challenges of migrating to agile methodologies",
+    display="nerur",
+    authors="Nerur, S. and Mahapatra, R. and Mangalaraj, G.",
+    place=CACM,
+    pp="72-78",
+    entrytype="article",
+    volume="48",
+    number="5",
+    doi="10.1145/1060710.1060712",
+    note="cited By 399",
+    ID="Nerur200572",
+    placex="Communications of the ACM",
+))
+
 paez2005a = DB(WorkUnrelated(
     2005, "Moving from lean manufacturing to lean construction: Toward a common sociotechnological framework",
     display="paez",
@@ -527,6 +647,31 @@ pikkarainen2005a = DB(WorkUnrelated(
     note="cited By 15",
     ID="Pikkarainen200516",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+poger2005a = DB(WorkUnrelated(
+    2005, "A Software Development Project: A Student-Written Assessment System",
+    display="poger",
+    authors="Poger, S., Schiaffno, R., Ricardo, C.",
+    place=JCS,
+    entrytype="article",
+    ID="Poger2005",
+    placex="Journal of Computing Sciences",
+))
+
+robinson2005a = DB(WorkUnrelated(
+    2005, "Organisational culture and XP: Three case studies",
+    display="robinson",
+    authors="Robinson, H. and Sharp, H.",
+    place=FAKE,
+    pp="49-58",
+    entrytype="conference",
+    volume="2005",
+    doi="10.1109/ADC.2005.36",
+    art_number="1609804",
+    note="cited By 31",
+    ID="Robinson200549",
+    placex="Proceedings - AGILE Confernce 2005",
 ))
 
 salo2005a = DB(WorkUnrelated(
@@ -632,6 +777,19 @@ sutherland2005a = DB(WorkUnrelated(
     note="cited By 43",
     ID="Sutherland200590",
     placex="Proceedings - AGILE Confernce 2005",
+))
+
+svensson2005a = DB(WorkUnrelated(
+    2005, "Introducing an agile process in a software maintenance and evolution organization",
+    display="svensson",
+    authors="Svensson, H. and Host, M.",
+    place=FAKE,
+    pp="256-264",
+    entrytype="conference",
+    doi="10.1109/CSMR.2005.33",
+    note="cited By 51",
+    ID="Svensson2005256",
+    placex="Proceedings of the European Conference on Software Maintenance and Reengineering, CSMR",
 ))
 
 tsipenyuk2005a = DB(WorkUnrelated(

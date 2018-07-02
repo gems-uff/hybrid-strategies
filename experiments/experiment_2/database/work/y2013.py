@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+agile2013a = DB(WorkUnrelated(
+    2013, "Scaled Agile Framework",
+    display="agile",
+    authors="Scaled Agile",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ScaleAgile2013",
+    placex="",
+))
+
 ahalt2013a = DB(WorkUnrelated(
     2013, "Water science software institute: An open source engagement process",
     display="ahalt",
@@ -75,6 +86,17 @@ baca2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+bang2013a = DB(WorkUnrelated(
+    2013, "What Is Ticket Driven Development, and Why Is It Attracting Attention in Japan?",
+    display="bang",
+    authors="Bang, C. and Sakai, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Bang2013",
+    placex="accessed site",
+))
+
 beedle2013a = DB(WorkUnrelated(
     2013, "Principles behind the Agile Manifesto",
     display="beedle",
@@ -118,6 +140,21 @@ bijan2013a = DB(WorkUnrelated(
     placex="Systems Engineering",
 ))
 
+birks2013a = DB(WorkUnrelated(
+    2013, "Grounded theory method in information systems research: Its nature, diversity and opportunities",
+    display="birks",
+    authors="Birks, D.F. and Fernandez, W. and Levina, N. and Nasirin, S.",
+    place=FAKE,
+    pp="1-8",
+    entrytype="article",
+    volume="22",
+    number="1",
+    doi="10.1057/ejis.2012.48",
+    note="cited By 38",
+    ID="Birks20131",
+    placex="European Journal of Information Systems",
+))
+
 boehm2013a = DB(WorkUnrelated(
     2013, "Clarifying the Context of SE for the SEBoK",
     display="boehm",
@@ -146,6 +183,20 @@ briggs2013a = DB(WorkUnrelated(
     ID="briggs2013terrestrial",
     wiley2016="1",
     placex="Journal of Geophysical Research: Space Physics",
+))
+
+brown2013a = DB(WorkUnrelated(
+    2013, "Agility at scale: Economic governance, measured improvement, and disciplined delivery",
+    display="brown",
+    authors="Brown, A.W. and Ambler, S. and Royce, W.",
+    place=ICSE,
+    pp="873-881",
+    entrytype="conference",
+    doi="10.1109/ICSE.2013.6606636",
+    art_number="6606636",
+    note="cited By 14",
+    ID="Brown2013873",
+    placex="Proceedings - International Conference on Software Engineering",
 ))
 
 bustard2013a = DB(WorkUnrelated(
@@ -365,6 +416,17 @@ davis2013a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     scopus2016="1",
+))
+
+davis2013b = DB(WorkUnrelated(
+    2013, "Medical Device Software: Leveraging Agile and the Team Software Process",
+    display="davis b",
+    authors="Davis, N. and Wyrwa, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Davis2013b",
+    placex="Medical Device Summit, May 22, 2013",
 ))
 
 elmoselhy2013a = DB(WorkUnrelated(
@@ -610,6 +672,22 @@ heesch2013a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+hoda2013a = DB(WorkUnrelated(
+    2013, "Self-organizing roles on agile software development teams",
+    display="hoda",
+    authors="Hoda, R. and Noble, J. and Marshall, S.",
+    place=ToSE,
+    pp="422-444",
+    entrytype="article",
+    volume="39",
+    number="3",
+    doi="10.1109/TSE.2012.30",
+    art_number="6197202",
+    note="cited By 51",
+    ID="Hoda2013422",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 hsu2013a = DB(WorkUnrelated(
     2013, "Antecedents and consequences of user coproduction in information system development projects",
     display="hsu",
@@ -623,6 +701,17 @@ hsu2013a = DB(WorkUnrelated(
     ID="hsu2013antecedents",
     wiley2016="1",
     placex="Project Management Journal",
+))
+
+humphrey2013a = DB(WorkUnrelated(
+    2013, "A Personal Commitment to Software Quality",
+    display="humphrey",
+    authors="Humphrey, W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Humphrey2013",
+    placex="The Software Engineering Institute (SEI)",
 ))
 
 hurtado2013a = DB(WorkUnrelated(
@@ -799,6 +888,8 @@ kruchten2013a = DB(WorkUnrelated(
     ID="kruchten2013contextualizing",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+    doi="10.1002/smr.572",
+    note="cited By 45",
 ))
 
 kuhrmann2013a = DB(WorkUnrelated(
@@ -917,6 +1008,21 @@ masood2013a = DB(WorkUnrelated(
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
+matavire2013a = DB(WorkUnrelated(
+    2013, "Profiling grounded theory approaches in information systems research",
+    display="matavire",
+    authors="Matavire, R. and Brown, I.",
+    place=FAKE,
+    pp="119-129",
+    entrytype="article",
+    volume="22",
+    number="1",
+    doi="10.1057/ejis.2011.35",
+    note="cited By 37",
+    ID="Matavire2013119",
+    placex="European Journal of Information Systems",
+))
+
 mcavoy2013a = DB(WorkUnrelated(
     2013, "Using mindfulness to examine ISD agility",
     display="mcavoy",
@@ -987,6 +1093,17 @@ moniruzzaman2013a = DB(WorkUnrelated(
     note="cited By 5",
     ID="Moniruzzaman2013",
     placex="arXiv",
+))
+
+msft2013a = DB(WorkUnrelated(
+    2013, "The DSUI Team Blog, Debugging a GDI Resource Leak David Wooden - MSFT",
+    display="msft",
+    authors="MSFT",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="MSFT2013",
+    placex="",
 ))
 
 neely2013a = DB(WorkUnrelated(
@@ -1069,6 +1186,20 @@ ozkaya2013a = DB(WorkSnowball(
     placex="CrossTalk",
 ))
 
+
+paasivaara2013a = DB(WorkUnrelated(
+    2013, "Teaching students global software engineering skills using distributed Scrum",
+    display="paasivaara",
+    authors="Paasivaara, M. and Lassenius, C. and Damian, D. and Raty, P. and Schroter, A.",
+    place=ICSE,
+    pp="1128-1137",
+    entrytype="conference",
+    doi="10.1109/ICSE.2013.6606664",
+    art_number="6606664",
+    note="cited By 19",
+    ID="Paasivaara20131128",
+    placex="Proceedings - International Conference on Software Engineering",
+))
 
 papke2013a = DB(WorkUnrelated(
     2013, "1.2. 1 Combating Uncertainty in the Workflow of Systems Engineering Projects",
@@ -1232,6 +1363,20 @@ raninen2013a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+rocha2013a = DB(WorkUnrelated(
+    2013, "Understanding individual contribution and collaboration in student software teams",
+    display="rocha",
+    authors="Rocha, F. and Stroulia, E.",
+    place=FAKE,
+    pp="51-60",
+    entrytype="conference",
+    doi="10.1109/CSEET.2013.6595236",
+    art_number="6595236",
+    note="cited By 3",
+    ID="Rocha201351",
+    placex="Software Engineering Education Conference, Proceedings",
+))
+
 rodríguez2013a = DB(WorkUnrelated(
     2013, "Building lean thinking in a telecom software development organization: strengths and challenges",
     display="rodríguez",
@@ -1309,6 +1454,20 @@ samantra2013a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+santos2013a = DB(WorkUnrelated(
+    2013, "Authentic assessment in software engineering education based on PBL principles a case study in the telecom market",
+    display="santos",
+    authors="Dos Santos, S.C. and Soares, F.S.F.",
+    place=ICSE,
+    pp="1055-1062",
+    entrytype="conference",
+    doi="10.1109/ICSE.2013.6606655",
+    art_number="6606655",
+    note="cited By 14",
+    ID="DosSantos20131055",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 scharlau2013a = DB(WorkUnrelated(
     2013, "Games for teaching software development",
     display="scharlau",
@@ -1346,6 +1505,28 @@ schwaber2013a = DB(WorkUnrelated(
     note="cited By 209",
     ID="Schwaber2013",
     placex="Scrum",
+))
+
+schwaber2013b = DB(WorkUnrelated(
+    2013, "Scrum Guide Scrum Alliance Resources",
+    display="schwaber b",
+    authors="Schwaber, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Schwaber2013",
+    placex="accessed site",
+))
+
+scrum2013a = DB(WorkUnrelated(
+    2013, "Scrum Guide",
+    display="scrum",
+    authors="Scrum",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Scrum2013",
+    placex="",
 ))
 
 sheffield2013a = DB(WorkUnrelated(
@@ -1390,6 +1571,17 @@ silva2013b = DB(WorkUnrelated(
     note="cited By 10",
     ID="DaSilva201342",
     placex="Proceedings - AGILE 2013",
+))
+
+smits2013a = DB(WorkUnrelated(
+    2013, "Scaling Agile Processes: Five Levels of Planning",
+    display="smits",
+    authors="Smits, H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Smits2013",
+    placex="",
 ))
 
 stankovic2013a = DB(WorkUnrelated(

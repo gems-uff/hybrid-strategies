@@ -125,6 +125,19 @@ boehm2006b = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+boehm2006c = DB(WorkUnrelated(
+    2006, "A view of 20th and 21st century software engineering",
+    display="boehm c",
+    authors="Boehm, B.",
+    place=ICSE,
+    pp="12-29",
+    entrytype="conference",
+    volume="2006",
+    note="cited By 237",
+    ID="Boehm200612",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 boivie2006a = DB(WorkUnrelated(
     2006, "The lonesome cowboy: A study of the usability designer role in systems development",
     display="boivie",
@@ -172,6 +185,27 @@ browning2006a = DB(WorkUnrelated(
     document_type="Article",
     source="Scopus",
     scopus2016_duplicate_removed="1",
+))
+
+bullinger2006a = DB(WorkUnrelated(
+    2006, "The Reverse Detective: Pragmatic Software Requirements and Analysis",
+    display="bullinger",
+    authors="Bullinger, T. A., Mitra, S.",
+    place=Book,
+    entrytype="article",
+    ID="Bullinger2006",
+    placex="WME Books",
+))
+
+carlson2006a = DB(WorkUnrelated(
+    2006, "Innovation: The Five Disciplines for Creating What Customers Want",
+    display="carlson",
+    authors="Carlson, C.R. and Wilmot, W.W.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 104",
+    ID="Carlson2006",
+    placex="Crown Publishing Group",
 ))
 
 carlsson2006a = DB(WorkUnrelated(
@@ -413,6 +447,20 @@ gunasekaran2006a = DB(WorkUnrelated(
     placex="European Journal of Operational Research",
 ))
 
+hanssen2006a = DB(WorkUnrelated(
+    2006, "Agile customer engagement: A longitudinal qualitative case study",
+    display="hanssen",
+    authors="Hanssen, G.K. and Fægri, T.E.",
+    place=FAKE,
+    pp="164-173",
+    entrytype="conference",
+    volume="2006",
+    doi="10.1145/1159733.1159759",
+    note="cited By 22",
+    ID="Hanssen2006164",
+    placex="ISESE'06 - Proceedings of the 5th ACM-IEEE International Symposium on Empirical Software Engineering",
+))
+
 hansson2006a = DB(WorkUnrelated(
     2006, "How agile are industrial software development practices?",
     display="hansson",
@@ -469,6 +517,21 @@ jos2006a = DB(WorkUnrelated(
     placex="American Review of Public Administration",
 ))
 
+karlström2006a = DB(WorkUnrelated(
+    2006, "Integrating agile software development into stage-gate managed product development",
+    display="karlström",
+    authors="Karlström, D. and Runeson, P.",
+    place=ESE,
+    pp="203-225",
+    entrytype="article",
+    volume="11",
+    number="2",
+    doi="10.1007/s10664-006-6402-8",
+    note="cited By 51",
+    ID="Karlström2006203",
+    placex="Empirical Software Engineering",
+))
+
 kazman2006a = DB(WorkUnrelated(
     2006, "The essential components of software architecture design and analysis",
     display="kazman",
@@ -512,6 +575,21 @@ kolb2006a = DB(WorkUnrelated(
     ID="kolb2006refactoring",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+korkala2006a = DB(WorkUnrelated(
+    2006, "A case study on the impact of customer communication on defects in Agile software development",
+    display="korkala",
+    authors="Korkala, M. and Abrahamsson, P. and Kyllönen, P.",
+    place=FAKE,
+    pp="76-86",
+    entrytype="conference",
+    volume="2006",
+    doi="10.1109/AGILE.2006.1",
+    art_number="1667565",
+    note="cited By 30",
+    ID="Korkala200676",
+    placex="Proceedings - AGILE Conference, 2006",
 ))
 
 lavrishcheva2006a = DB(WorkUnrelated(
@@ -918,6 +996,16 @@ tiem2006a = DB(WorkUnrelated(
     placex="Handbook of Human Performance Technology",
 ))
 
+vinekar2006a = DB(WorkUnrelated(
+    2006, "Can agile and traditional systems development  approaches  coexist?  An  ambidextrous  view",
+    display="vinekar",
+    authors="V. Vinekar, C.W. Slinkman, S. Nerur",
+    place=IST,
+    entrytype="article",
+    ID="Vinekar2006",
+    placex="Information and Software Technology",
+))
+
 wang2006a = DB(WorkUnrelated(
     2006, "2.3. 2 Towards a Work Breakdown Structure for Net Centric System of Systems Engineering and Management",
     display="wang",
@@ -946,6 +1034,16 @@ ward2006a = DB(WorkUnrelated(
     ID="ward2006impact",
     wiley2016="1",
     placex="Decision Sciences",
+))
+
+werner2006a = DB(WorkUnrelated(
+    2006, "Building Community Service Projects Effectively",
+    display="werner",
+    authors="Werner, W., and MacLean, L.",
+    place=JCS,
+    entrytype="article",
+    ID="Werner2006",
+    placex="Journal of Computing Sciences",
 ))
 
 xie2006a = DB(WorkUnrelated(

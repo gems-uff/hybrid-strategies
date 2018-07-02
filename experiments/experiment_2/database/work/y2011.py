@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+adolph2011a = DB(WorkUnrelated(
+    2011, "Using grounded theory to study the experience of software development",
+    display="adolph",
+    authors="Adolph, S. and Hall, W. and Kruchten, P.",
+    place=ESE,
+    pp="487-513",
+    entrytype="article",
+    volume="16",
+    number="4",
+    doi="10.1007/s10664-010-9152-6",
+    note="cited By 81",
+    ID="Adolph2011487",
+    placex="Empirical Software Engineering",
+))
+
 adzic2011a = DB(WorkUnrelated(
     2011, "Specification by Example: How Successful Teams Deliver the Right Software",
     display="adzic",
@@ -202,6 +217,21 @@ barhorst2011a = DB(WorkUnrelated(
     language="English",
     copyright="Compendex",
     elcompendex2016_duplicate_removed="1",
+))
+
+baskerville2011a = DB(WorkUnrelated(
+    2011, "Post-agility: What follows a decade of agility?",
+    display="baskerville",
+    authors="Baskerville, R. and Pries-Heje, J. and Madsen, S.",
+    place=IST,
+    pp="543-555",
+    entrytype="article",
+    volume="53",
+    number="5",
+    doi="10.1016/j.infsof.2010.10.010",
+    note="cited By 38",
+    ID="Baskerville2011543",
+    placex="Information and Software Technology",
 ))
 
 baxter2011a = DB(WorkUnrelated(
@@ -600,6 +630,17 @@ haskins2011a = DB(WorkUnrelated(
     placex="21st Annual International Symposium of the International Council on Systems Engineering, INCOSE 2011",
 ))
 
+heusser2011a = DB(WorkUnrelated(
+    2011, "Sticky Minds, 10 Thoughts on Technical Debt",
+    display="heusser",
+    authors="Matthew Heusser",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Matthew2011",
+    placex="",
+))
+
 hoda2011a = DB(WorkSnowball(
     2011, "The impact of inadequate customer collaboration on self-organizing Agile teams",
     display="hoda",
@@ -668,6 +709,19 @@ iivari2011a = DB(WorkUnrelated(
     ID="iivari2011relationship",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+    doi="10.1016/j.infsof.2010.10.008",
+    note="cited By 80",
+))
+
+jones2011a = DB(WorkUnrelated(
+    2011, "The Economics of Software Quality",
+    display="jones",
+    authors="Jones, C. and Bonsignour, O.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 63",
+    ID="Jones2011",
+    placex="Pearson",
 ))
 
 jonker2011a = DB(WorkUnrelated(
@@ -766,6 +820,21 @@ koh2011a = DB(WorkUnrelated(
     placex="The Journal of Strategic Information Systems",
 ))
 
+laanti2011a = DB(WorkUnrelated(
+    2011, "Agile methods rapidly replacing traditional methods at Nokia: A survey of opinions on agile transformation",
+    display="laanti",
+    authors="Laanti, M. and Salo, O. and Abrahamsson, P.",
+    place=IST,
+    pp="276-290",
+    entrytype="article",
+    volume="53",
+    number="3",
+    doi="10.1016/j.infsof.2010.11.010",
+    note="cited By 79",
+    ID="Laanti2011276",
+    placex="Information and Software Technology",
+))
+
 lapham2011a = DB(WorkUnrelated(
     2011, "Agile Methods: Selected DoD Management and Acquisition Concerns",
     display="lapham",
@@ -842,6 +911,17 @@ maranzato2011a = DB(WorkUnrelated(
     placex="Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion",
 ))
 
+marschal2011a = DB(WorkUnrelated(
+    2011, "How to Translate business Value of Things That Are Technically Important",
+    display="marschal",
+    authors="Matthias Marschal",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Matthias2011",
+    placex="AGILE WEB DEVELOPMENT & OPERATIONS",
+))
+
 martin2011a = DB(WorkUnrelated(
     2011, "Transforming the enterprise using a systems approach",
     display="martin",
@@ -887,6 +967,8 @@ mishra2011a = DB(WorkUnrelated(
     ID="mishra2011complex",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+    doi="10.1002/smr.528",
+    note="cited By 22",
 ))
 
 monteiro2011a = DB(WorkUnrelated(
@@ -1007,6 +1089,17 @@ pascot2011a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+persson2011a = DB(WorkUnrelated(
+    2011, "On the use of scrum in project driven higher education",
+    display="persson",
+    authors="Persson, M. and Kruzela, I. and Allder, K. and Johansson, O. and Johansson, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 5",
+    ID="Persson2011",
+    placex="Proc. of the World Congress in Computer Science, Computer Engineering and Applied Computing",
+))
+
 petersen2011a = DB(WorkUnrelated(
     2011, "Measuring and predicting software productivity: A systematic map and review",
     display="petersen",
@@ -1090,6 +1183,17 @@ rohn2011a = DB(WorkUnrelated(
     ID="rohn2011managing",
     acm2016="1",
     placex="CHI'11 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+schar2011a = DB(WorkUnrelated(
+    2011, "Guiding global software development projects using scrum and agile with quality assurance",
+    display="schar",
+    authors="Schar, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Schar2011",
+    placex="Proc. 24th IEEE-CS Conference on Software Engineering Education and Training (CSEE&T)",
 ))
 
 scharff2011a = DB(WorkUnrelated(

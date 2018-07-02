@@ -227,6 +227,17 @@ bogers2016a = DB(WorkUnrelated(
     placex="Technological Forecasting and Social Change",
 ))
 
+campwood2016a = DB(WorkUnrelated(
+    2016, "SourceMonitor V3.5 - Campwood Software",
+    display="campwood",
+    authors="Campwood",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Campwood2016",
+    placex="",
+))
+
 carlgren2016a = DB(WorkUnrelated(
     2016, "Framing design thinking: The concept in idea and enactment",
     display="carlgren",
@@ -305,6 +316,39 @@ cooper2016a = DB(WorkUnrelated(
     placex="Journal of Product Innovation Management",
 ))
 
+coverity2016a = DB(WorkUnrelated(
+    2016, "Coverity Resource Library",
+    display="coverity",
+    authors="Coverity",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Coverity2016",
+    placex="",
+))
+
+coverity2016b = DB(WorkUnrelated(
+    2016, "Coverity: Software Testing and Static Analysis Tools",
+    display="coverity b",
+    authors="Coverity",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Coverity2016",
+    placex="",
+))
+
+cppcheck2016a = DB(WorkUnrelated(
+    2016, "Cppcheck-A tool for static C/C++ code analysis",
+    display="cppcheck",
+    authors="Cppcheck",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Cppcheck2016",
+    placex="",
+))
+
 cram2016a = DB(WorkUnrelated(
     2016, "Hitting a moving target: a process model of information systems control change",
     display="cram",
@@ -318,6 +362,28 @@ cram2016a = DB(WorkUnrelated(
     ID="cram2016hitting",
     wiley2016="1",
     placex="Information Systems Journal",
+))
+
+designtool2016a = DB(WorkUnrelated(
+    2016, "Design Smell Tool: Designite",
+    display="designtool",
+    authors="DesignTool",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="DesignTool2016",
+    placex="accessed site",
+))
+
+designtool2016b = DB(WorkUnrelated(
+    2016, "Design Smell Tool: In Fusion",
+    display="designtool b",
+    authors="DesignTool",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="NoAuthor2016",
+    placex="accessed site",
 ))
 
 dikert2016a = DB(WorkUnrelated(
@@ -361,6 +427,17 @@ doyle2016a = DB(WorkUnrelated(
     placex="Proceedings of the 47th ACM Technical Symposium on Computing Science Education",
 ))
 
+dsdm2016a = DB(WorkUnrelated(
+    2016, "DSDM Consortium, Driving Strategy Delivering More",
+    display="dsdm",
+    authors="DSDM",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="DSDM2016",
+    placex="",
+))
+
 dubey2016a = DB(WorkUnrelated(
     2016, "The impact of big data on world-class sustainable manufacturing",
     display="dubey",
@@ -376,6 +453,17 @@ dubey2016a = DB(WorkUnrelated(
     cluster_id="7399256793955138430",
     scholar="http://scholar.google.com/scholar?cites=7399256793955138430&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+eclemma2016a = DB(WorkUnrelated(
+    2016, "EclEmma-Java Code Coverage for Eclipse",
+    display="eclemma",
+    authors="EclEmma",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="EclEmma2016",
+    placex="",
 ))
 
 eloranta2016a = DB(WorkSnowball(
@@ -424,6 +512,28 @@ fayoumi2016a = DB(WorkUnrelated(
     ID="fayoumi2016ecosystem",
     sciencedirect2016="1",
     placex="Computers in Industry",
+))
+
+feathers2016a = DB(WorkUnrelated(
+    2016, "Working Effectively with Legacy Code 1st Edition",
+    display="feathers",
+    authors="Michael Feathers",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Michael2016",
+    placex="",
+))
+
+findbugs2016a = DB(WorkUnrelated(
+    2016, "FindBugs-Find Bugs in Java Programs",
+    display="findbugs",
+    authors="FindBugs",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="FindBugs2016",
+    placex="",
 ))
 
 floricel2016a = DB(WorkUnrelated(
@@ -873,6 +983,17 @@ li2016a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+li2016b = DB(WorkUnrelated(
+    2016, "A Systematic Mapping Study on Technical Debt and its Management",
+    display="li b",
+    authors="Li, Z. and Avgeriou, P. and Liang, P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Li2016",
+    placex="",
+))
+
 liu2016a = DB(WorkUnrelated(
     2016, "Major motivations for extract method refactorings: analysis based on interviews and change histories",
     display="liu",
@@ -959,6 +1080,28 @@ matthies2016b = DB(WorkUnrelated(
     placex="Proceedings of the 38th International Conference on Software Engineering Companion",
 ))
 
+meter2016a = DB(WorkUnrelated(
+    2016, "Test Performance Tool",
+    display="meter",
+    authors="Meter, A.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Meter2016",
+    placex="",
+))
+
+mindtools2016a = DB(WorkUnrelated(
+    2016, "Management Training and Leadership Training",
+    display="mindtools",
+    authors="MindTools",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="MindTools2016",
+    placex="",
+))
+
 misra2016a = DB(WorkUnrelated(
     2016, "Modeling privacy issues in distributed enterprise resource planning systems",
     display="misra",
@@ -972,6 +1115,17 @@ misra2016a = DB(WorkUnrelated(
     ID="misra2016modeling",
     wiley2016="1",
     placex="International Journal of Communication Systems",
+))
+
+ncover2016a = DB(WorkUnrelated(
+    2016, "NCover-. NET Code Coverage For. NET Developers",
+    display="ncover",
+    authors="NCover",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="NCover2016",
+    placex="",
 ))
 
 nurdiani2016a = DB(WorkUnrelated(
@@ -1063,6 +1217,17 @@ pecchia2016a = DB(WorkUnrelated(
     ID="Pecchia2016103",
     scopus2016="1",
     placex="Communications in Computer and Information Science",
+))
+
+perfmon2016a = DB(WorkUnrelated(
+    2016, "Performance Monitoring Tool",
+    display="perfmon",
+    authors="Perfmon",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Perfmon2016",
+    placex="",
 ))
 
 prause2016a = DB(WorkUnrelated(
@@ -1183,6 +1348,28 @@ scott2016a = DB(WorkUnrelated(
     ID="scott2016towards",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+shore2016a = DB(WorkUnrelated(
+    2016, "The Art of Agile, I Work with People Who Want to Be Great",
+    display="shore",
+    authors="James Shore",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="James2016",
+    placex="",
+))
+
+simian2016a = DB(WorkUnrelated(
+    2016, "Similarity Analyser | Duplicate Code Detection",
+    display="simian",
+    authors="Simian",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Simian2016",
+    placex="",
 ))
 
 singh2016a = DB(WorkUnrelated(

@@ -33,6 +33,16 @@ baskerville2004a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+beck2004a = DB(WorkUnrelated(
+    2004, "Extreme Programming Explained: Embrace Change, 2nd Edition",
+    display="beck",
+    authors="Beck, K., Andres, C.",
+    place=FAKE,
+    entrytype="article",
+    ID="Beck2004",
+    placex="Addison-Wesley",
+))
+
 berki2004a = DB(WorkUnrelated(
     2004, "Requirements Engineering and Process Modelling in Software Quality Management--- Towards a Generic Process Metamodel",
     display="berki",
@@ -66,6 +76,17 @@ boehm2004a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+chau2004a = DB(WorkUnrelated(
+    2004, "Knowledge Sharing in Agile Software Teams",
+    display="chau",
+    authors="Chau, T. and Maurer, F.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Chau2004",
+    placex="",
+))
+
 clark2004a = DB(WorkUnrelated(
     2004, "Selecting components in large COTS repositories",
     display="clark",
@@ -92,6 +113,46 @@ cockburn2004a = DB(WorkUnrelated(
     placex="",
 ))
 
+drobka2004a = DB(WorkUnrelated(
+    2004, "Piloting XP on four mission-critical projects",
+    display="drobka",
+    authors="Drobka, J. and Noftz, D. and Raghu, R.",
+    place=IEEES,
+    pp="70-75",
+    entrytype="article",
+    volume="21",
+    number="6",
+    doi="10.1109/MS.2004.47",
+    note="cited By 41",
+    ID="Drobka200470",
+    placex="IEEE Software",
+))
+
+fraser2004a = DB(WorkUnrelated(
+    2004, "The Role of the Customer in Software Development: The XP Customer - Fad or Fashion?",
+    display="fraser",
+    authors="Fraser, S. and Martin, A. and Biddle, R. and Hussman, D. and Miller, G. and Poppendieck, M. and Rising, L. and Striebeck, M.",
+    place=FAKE,
+    pp="148-150",
+    entrytype="article",
+    note="cited By 5",
+    ID="Fraser2004148",
+    placex="OOPSLA'04",
+))
+
+glasser2004a = DB(WorkUnrelated(
+    2004, "Remodeling grounded theory",
+    display="glasser",
+    authors="Glasser, B.G. and Holton, J.",
+    place=FAKE,
+    entrytype="article",
+    volume="5",
+    number="2",
+    note="cited By 185",
+    ID="Glasser2004",
+    placex="Forum Qualitative Sozialforschung",
+))
+
 greer2004a = DB(WorkUnrelated(
     2004, "Software release planning: an evolutionary and iterative approach",
     display="greer",
@@ -105,6 +166,31 @@ greer2004a = DB(WorkUnrelated(
     ID="greer2004software",
     sciencedirect2016="1",
     placex="Information and software technology",
+))
+
+he2004a = DB(WorkUnrelated(
+    2004, "Exploration vs. exploitation: An empirical test of the ambidexterity hypothesis",
+    display="he",
+    authors="He, Z.-L. and Wong, P.-K.",
+    place=FAKE,
+    pp="481-495",
+    entrytype="article",
+    volume="15",
+    number="4",
+    note="cited By 1215",
+    ID="He2004481",
+    placex="Organization Science",
+))
+
+highsmith2004a = DB(WorkUnrelated(
+    2004, "Agile Project Management",
+    display="highsmith",
+    authors="Highsmith, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 366",
+    ID="Highsmith2004",
+    placex="Addison-Weasley",
 ))
 
 holz2004a = DB(WorkUnrelated(
@@ -160,6 +246,21 @@ jokela2004a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+kan2004a = DB(WorkUnrelated(
+    2004, "Identifying paradox: A grounded theory of leadership in overcoming resistance to change",
+    display="kan",
+    authors="Kan, M.M. and Parry, K.W.",
+    place=FAKE,
+    pp="467-491",
+    entrytype="article",
+    volume="15",
+    number="4",
+    doi="10.1016/j.leaqua.2004.05.003",
+    note="cited By 71",
+    ID="Kan2004467",
+    placex="Leadership Quarterly",
+))
+
 kim2004a = DB(WorkUnrelated(
     2004, "Testing Software Requirements with Z and Statecharts Applied to an Embedded Control Systemt0t1",
     display="kim",
@@ -188,6 +289,18 @@ lee2004a = DB(WorkUnrelated(
     ID="lee2004multi",
     wiley2016="1",
     placex="Software Process: Improvement and Practice",
+))
+
+liker2004a = DB(WorkUnrelated(
+    2004, "The Toyota Way",
+    display="liker",
+    authors="Liker, J.K.",
+    place=FAKE,
+    pp="28-29",
+    entrytype="article",
+    note="cited By 776",
+    ID="Liker200428",
+    placex="McGraw-Hill",
 ))
 
 lindvall2004a = DB(WorkUnrelated(
