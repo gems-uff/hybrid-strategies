@@ -78,6 +78,21 @@ arthur2007a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+bartlett2007a = DB(WorkUnrelated(
+    2007, "Improving supply chain performance through improved visibility",
+    display="bartlett",
+    authors="Bartlett, P.A. and Julien, D.M. and Baines, T.S.",
+    place=FAKE,
+    pp="294-313",
+    entrytype="article",
+    volume="18",
+    number="2",
+    doi="10.1108/09574090710816986",
+    note="cited By 62",
+    ID="Bartlett2007294",
+    placex="The International Journal of Logistics Management",
+))
+
 berger2007a = DB(WorkUnrelated(
     2007, "Agile development in a bureaucratic arena—A case study experience",
     display="berger",
@@ -140,6 +155,18 @@ bohner2007a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+bon2007a = DB(WorkUnrelated(
+    2007, "Foundations of IT Service Management Based on ITIL",
+    display="bon",
+    authors="Van Bon, J. and Jong, A. and Kolthof, A.",
+    place=FAKE,
+    entrytype="article",
+    volume="3",
+    note="cited By 1",
+    ID="VanBon2007",
+    placex="Van Haren Publishing",
+))
+
 boot2007a = DB(WorkUnrelated(
     2007, "Stratification, elaboration and formalisation of design documents: Effects on the production of instructional materials",
     display="boot",
@@ -183,6 +210,11 @@ browning2007a = DB(WorkUnrelated(
     ID="browning2007survey",
     wiley2016="1",
     placex="Production and operations management",
+    note="cited By 118",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-34547279437&partnerID=40&md5=d9b155e0cf21136cc65d8e1a3858ac02",
+    document_type="Article",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
 ))
 
 canfora2007a = DB(WorkUnrelated(
@@ -238,6 +270,20 @@ dittrich2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+düchting2007a = DB(WorkUnrelated(
+    2007, "Incorporating user centered requirement engineering into agile software development",
+    display="düchting",
+    authors="Düchting, M. and Zimmermann, D. and Nebe, K.",
+    place=FAKE,
+    pp="58-67",
+    entrytype="article",
+    volume="4550 LNCS",
+    number="PART 1",
+    note="cited By 22",
+    ID="Düchting200758",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 fong2007a = DB(WorkUnrelated(
     2007, "Using a boundary object framework to analyze interorganizational collaboration",
     display="fong",
@@ -265,6 +311,35 @@ fornaro2007a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="fornaro2007reflections",
     sciencedirect2016="1",
+    placex="Journal of Systems and Software",
+))
+
+herbsleb2007a = DB(WorkUnrelated(
+    2007, "Global software engineering: The future of socio-technical coordination",
+    display="herbsleb",
+    authors="Herbsleb, J.D.",
+    place=FAKE,
+    pp="188-198",
+    entrytype="conference",
+    doi="10.1109/FOSE.2007.11",
+    art_number="4221620",
+    note="cited By 373",
+    ID="Herbsleb2007188",
+    placex="FoSE 2007: Future of Software Engineering",
+))
+
+juristo2007a = DB(WorkUnrelated(
+    2007, "Analysing the impact of usability on software design",
+    display="juristo",
+    authors="Juristo, N. and Moreno, A.M. and Sanchez-Segura, M.-I.",
+    place=JSS,
+    pp="1506-1516",
+    entrytype="article",
+    volume="80",
+    number="9",
+    doi="10.1016/j.jss.2007.01.006",
+    note="cited By 65",
+    ID="Juristo20071506",
     placex="Journal of Systems and Software",
 ))
 
@@ -299,6 +374,17 @@ lang2007a = DB(WorkUnrelated(
     ID="Lang2007",
     springer2016="1",
     placex="Requirements Engineering",
+))
+
+leffingwell2007a = DB(WorkUnrelated(
+    2007, "Scaling Software Agility: Best Practices for Large Enterprises",
+    display="leffingwell",
+    authors="Leffingwell, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 143",
+    ID="Leffingwell2007",
+    placex="Pearson Education",
 ))
 
 lutters2007a = DB(WorkUnrelated(
@@ -393,6 +479,21 @@ morien2007a = DB(WorkUnrelated(
     ID="Morien2007",
     scopus2016="1",
     placex="Proceedings of the Information Systems Education Conference, ISECON",
+))
+
+myers2007a = DB(WorkUnrelated(
+    2007, "The qualitative interview in IS research: Examining the craft",
+    display="myers",
+    authors="Myers, M.D. and Newman, M.",
+    place=FAKE,
+    pp="2-26",
+    entrytype="article",
+    volume="17",
+    number="1",
+    doi="10.1016/j.infoandorg.2006.11.001",
+    note="cited By 487",
+    ID="Myers20072",
+    placex="Information and Organization",
 ))
 
 müller2007a = DB(WorkUnrelated(
@@ -603,6 +704,18 @@ simons2007a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+snowden2007a = DB(WorkUnrelated(
+    2007, "A Leader's Framework for Decision Making: Wise executives tailor their approach to fit the complexity of the circumstances they face",
+    display="snowden",
+    authors="Snowden, D.J. and Boone, M.E.",
+    place=FAKE,
+    pp="69-76",
+    entrytype="article",
+    note="cited By 34",
+    ID="Snowden200769",
+    placex="A Leader's Framework for Decision Making",
+))
+
 solomon2007a = DB(WorkUnrelated(
     2007, "Performance-based earned value",
     display="solomon",
@@ -618,6 +731,19 @@ solomon2007a = DB(WorkUnrelated(
     ID="Solomon20071",
     scopus2016="1",
     placex="Performance-Based Earned Value",
+))
+
+sutherland2007a = DB(WorkUnrelated(
+    2007, "Distributed scrum: Agile project management with outsourced development teams",
+    display="sutherland",
+    authors="Sutherland, J. and Viktorov, A. and Blount, J. and Puntikov, N.",
+    place=FAKE,
+    entrytype="conference",
+    doi="10.1109/HICSS.2007.180",
+    art_number="4076936",
+    note="cited By 125",
+    ID="Sutherland2007",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
 ))
 
 sy2007a = DB(WorkUnrelated(
@@ -648,6 +774,20 @@ ware2007a = DB(WorkUnrelated(
     ID="ware2007application",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+williams2007a = DB(WorkUnrelated(
+    2007, "The UCD perspective: Before and after agile",
+    display="williams",
+    authors="Williams, H. and Ferguson, A.",
+    place=FAKE,
+    pp="285-290",
+    entrytype="conference",
+    doi="10.1109/AGILE.2007.61",
+    art_number="4293610",
+    note="cited By 19",
+    ID="Williams2007285",
+    placex="Proceedings - AGILE 2007",
 ))
 
 yeoh2007a = DB(WorkUnrelated(

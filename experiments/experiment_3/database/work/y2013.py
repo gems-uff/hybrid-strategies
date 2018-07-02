@@ -67,6 +67,8 @@ barcellos2013a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=6919528260872603430&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of the Brazilian Computer Society",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893145058&doi=10.1007%2fs13173-013-0106-x&partnerID=40&md5=b77022758d1fb70e6c5f787a24bb4900",
+    scopus2016_duplicate_removed="1",
 ))
 
 becker2013a = DB(WorkUnrelated(
@@ -83,6 +85,9 @@ becker2013a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Web Engineering",
     springer2016="1",
+    volume="8295 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893788424&doi=10.1007%2f978-3-319-04244-2_11&partnerID=40&md5=a8c4cd97390c9566b7679e1991ffe21b",
+    scopus2016_duplicate_removed="1",
 ))
 
 begier2013a = DB(WorkUnrelated(
@@ -125,6 +130,8 @@ buglione2013a = DB(WorkUnrelated(
     gs2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884501639&doi=10.1016%2fj.csi.2013.07.008&partnerID=40&md5=21b4877e85d12c05db15ec80aff1e33b",
+    scopus2016_duplicate_removed="1",
 ))
 
 cawley2013a = DB(WorkUnrelated(
@@ -168,6 +175,9 @@ eito2013a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+    volume="349 CCIS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904596458&doi=10.1007%2f978-3-642-38833-0_8&partnerID=40&md5=304cb8a6f68cc51e10109b2014cc9248",
+    scopus2016_duplicate_removed="1",
 ))
 
 garcía2013a = DB(WorkUnrelated(
@@ -183,6 +193,8 @@ garcía2013a = DB(WorkUnrelated(
     ID="garcia2013process",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884499071&doi=10.1016%2fj.csi.2013.07.004&partnerID=40&md5=f6551d45086a8972b36516703673aad7",
+    scopus2016_duplicate_removed="1",
 ))
 
 gea2013a = DB(WorkUnrelated(
@@ -269,6 +281,9 @@ jeners2013b = DB(WorkUnrelated(
     ID="jeners2013efficient",
     gs2016="1",
     placex="e-Informatica Software Engineering Journal",
+    pp="15-24",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885167609&doi=10.5277%2fe-Inf130102&partnerID=40&md5=e598a86aa4e3b753315a644f5e023dd3",
+    scopus2016_duplicate_removed="1",
 ))
 
 kotevski2013a = DB(WorkUnrelated(
@@ -321,6 +336,8 @@ menolli2013a = DB(WorkUnrelated(
     ID="menolli2013organizational",
     gs2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894150710&doi=10.1142%2fS0218194013500356&partnerID=40&md5=e3c0d3aedc76bedb58164b233bf379fd",
+    scopus2016_duplicate_removed="1",
 ))
 
 meth2013a = DB(WorkUnrelated(
@@ -420,6 +437,8 @@ pernstål2013a = DB(WorkUnrelated(
     ID="pernstaal2013lean",
     gs2016="1",
     placex="Journal of Systems and Software",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884161764&doi=10.1016%2fj.jss.2013.06.035&partnerID=40&md5=76698d7ac3e9e8303a3a8768046e6ecc",
+    scopus2016_duplicate_removed="1",
 ))
 
 ralph2013a = DB(WorkUnrelated(
@@ -477,6 +496,8 @@ stallinger2013a = DB(WorkUnrelated(
     ID="stallinger2013enhancing",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884501896&doi=10.1016%2fj.csi.2013.07.006&partnerID=40&md5=b251f627119197ea52f4565fa05f9e26",
+    scopus2016_duplicate_removed="1",
 ))
 
 velkoski2013a = DB(WorkUnrelated(

@@ -46,6 +46,8 @@ ruiz2004a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=15123460243312094937&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-4043164955&doi=10.1142%2fS0218194004001646&partnerID=40&md5=682d9f1939381c32380bd6f7119c3e73",
+    scopus2016_duplicate_removed="1",
 ))
 
 weber2004a = DB(WorkUnrelated(

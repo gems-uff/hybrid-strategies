@@ -18,6 +18,21 @@ acuña2009a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+adikari2009a = DB(WorkUnrelated(
+    2009, "Little design up-front: A design science approach to integrating usability into agile requirements engineering",
+    display="adikari",
+    authors="Adikari, S. and McDonald, C. and Campbell, J.",
+    place=FAKE,
+    pp="549-558",
+    entrytype="article",
+    volume="5610 LNCS",
+    number="PART 1",
+    doi="10.1007/978-3-642-02574-7_62",
+    note="cited By 18",
+    ID="Adikari2009549",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 ambler2009a = DB(WorkUnrelated(
     2009, "Scaling agile software development through lean governance",
     display="ambler",
@@ -29,6 +44,28 @@ ambler2009a = DB(WorkUnrelated(
     ID="ambler2009scaling",
     acm2016="1",
     placex="Software Development Governance, 2009. SDG'09. ICSE Workshop on",
+))
+
+ambler2009b = DB(WorkUnrelated(
+    2009, "The agile scaling model (ASM): adapting agile methods for complex environments",
+    display="ambler b",
+    authors="Ambler, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Ambler2009theagile",
+    placex="IBM",
+))
+
+atlas2009a = DB(WorkUnrelated(
+    2009, "Teach Your Boss to be Agile with a Social Contract",
+    display="atlas",
+    authors="Atlas, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Atlas2009",
+    placex="",
 ))
 
 bajo2009a = DB(WorkUnrelated(
@@ -61,6 +98,20 @@ baker2009a = DB(WorkUnrelated(
     placex="European Journal of Operational Research",
 ))
 
+barksdale2009a = DB(WorkUnrelated(
+    2009, "Easing team politics in agile usability: A concept mapping approach",
+    display="barksdale",
+    authors="Barksdale, J.T. and Ragan, E.D. and McCrickard, D.S.",
+    place=FAKE,
+    pp="19-25",
+    entrytype="conference",
+    doi="10.1109/AGILE.2009.57",
+    art_number="5261111",
+    note="cited By 11",
+    ID="Barksdale200919",
+    placex="Proceedings - 2009 Agile Conference, AGILE 2009",
+))
+
 barton2009a = DB(WorkSnowball(
     2009, "All-out organizational scrum as an innovation value Chain",
     display="barton",
@@ -75,6 +126,9 @@ barton2009a = DB(WorkSnowball(
     scholar="http://scholar.google.com/scholar?cites=7434981126386246581&as_sdt=2005&sciodt=0,5&hl=en",
     selected_snowballing="1",
     selected_order="18",
+    doi="10.1109/HICSS.2009.57",
+    art_number="4755763",
+    note="cited By 5",
 ))
 
 berger2009a = DB(WorkUnrelated(
@@ -90,6 +144,35 @@ berger2009a = DB(WorkUnrelated(
     ID="berger2009utility",
     wiley2016="1",
     placex="Information Systems Journal",
+))
+
+bonacin2009a = DB(WorkUnrelated(
+    2009, "An agile process model for inclusive software development",
+    display="bonacin",
+    authors="Bonacin, R. and Baranauskas, M.E.C. and Rodrigues, M.A.",
+    place=BIP,
+    pp="807-818",
+    entrytype="article",
+    volume="24 LNBIP",
+    doi="10.1007/978-3-642-01347-8_67",
+    note="cited By 8",
+    ID="Bonacin2009807",
+    placex="Lecture Notes in Business Information Processing",
+))
+
+bowen2009a = DB(WorkUnrelated(
+    2009, "Document analysis as a qualitative research method",
+    display="bowen",
+    authors="Bowen, G.A.",
+    place=FAKE,
+    pp="27-40",
+    entrytype="article",
+    volume="9",
+    number="2",
+    doi="10.3316/QRJ0902027",
+    note="cited By 543",
+    ID="Bowen200927",
+    placex="Qualitative Research Journal",
 ))
 
 browning2009a = DB(WorkUnrelated(
@@ -135,6 +218,17 @@ büyüközkan2009a = DB(WorkUnrelated(
     placex="IFAC Proceedings Volumes",
 ))
 
+cohn2009a = DB(WorkUnrelated(
+    2009, "Succeeding with Agile: Software Development Using Scrum",
+    display="cohn",
+    authors="Cohn, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 194",
+    ID="Cohn2009",
+    placex="Addison-Wesley",
+))
+
 colla2009a = DB(WorkUnrelated(
     2009, "Evaluation of software process improvement in small organizations",
     display="colla",
@@ -151,6 +245,35 @@ colla2009a = DB(WorkUnrelated(
     ID="Colla200959",
     scopus2016="1",
     placex="Lecture Notes in Business Information Processing",
+))
+
+conboy2009a = DB(WorkUnrelated(
+    2009, "Agility from first principles: Reconstructing the concept of agility in information systems development",
+    display="conboy",
+    authors="Conboy, K.",
+    place=FAKE,
+    pp="329-354",
+    entrytype="article",
+    volume="20",
+    number="3",
+    doi="10.1287/isre.1090.0236",
+    note="cited By 282",
+    ID="Conboy2009329",
+    placex="Information Systems Research",
+))
+
+diaz2009a = DB(WorkUnrelated(
+    2009, "Mapping CMMI level 2 to scrum practices: An experience report",
+    display="diaz",
+    authors="Diaz, J. and Garbajosa, J. and Calvo-Manzano, J.A.",
+    place=CCIS,
+    pp="93-104",
+    entrytype="article",
+    volume="42",
+    doi="10.1007/978-3-642-04133-4_8",
+    note="cited By 33",
+    ID="Diaz200993",
+    placex="Communications in Computer and Information Science",
 ))
 
 dinakar2009a = DB(WorkUnrelated(
@@ -277,6 +400,28 @@ garcía2009b = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+gat2009a = DB(WorkUnrelated(
+    2009, "A Social Contract for Agile",
+    display="gat",
+    authors="Gat, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Gat2009a",
+    placex="",
+))
+
+gat2009b = DB(WorkUnrelated(
+    2009, "Addition to the Social Contract",
+    display="gat b",
+    authors="Gat, I.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Gat2009b",
+    placex="",
+))
+
 ghanam2009a = DB(WorkUnrelated(
     2009, "A report on the XP workshop on agile product line engineering",
     display="ghanam",
@@ -290,6 +435,21 @@ ghanam2009a = DB(WorkUnrelated(
     ID="ghanam2009report",
     acm2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
+))
+
+heck2009a = DB(WorkUnrelated(
+    2009, "A software product certification model",
+    display="heck",
+    authors="Heck, P. and Klabbers, M. and van Eekelen, M.",
+    place=SQJ,
+    pp="37-55",
+    entrytype="article",
+    volume="18",
+    number="1",
+    doi="10.1007/s11219-009-9080-0",
+    note="cited By 17",
+    ID="Heck200937",
+    placex="Software Quality Journal",
 ))
 
 herald2009a = DB(WorkUnrelated(
@@ -328,6 +488,20 @@ hussain2009a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+hussain2009b = DB(WorkUnrelated(
+    2009, "Current state of agile user-centered design: A survey",
+    display="hussain b",
+    authors="Hussain, Z. and Slany, W. and Holzinger, A.",
+    place=FAKE,
+    pp="416-427",
+    entrytype="article",
+    volume="5889 LNCS",
+    doi="10.1007/978-3-642-10308-7_30",
+    note="cited By 51",
+    ID="Hussain2009416",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 hätönen2009a = DB(WorkUnrelated(
     2009, "Making the locational choice: A case approach to the development of a theory of offshore outsourcing and internationalization",
     display="hätönen",
@@ -341,6 +515,17 @@ hätönen2009a = DB(WorkUnrelated(
     ID="hatonen2009making",
     sciencedirect2016="1",
     placex="Journal of International Management",
+))
+
+iiba2009a = DB(WorkUnrelated(
+    2009, "A guide to the business analysis body of knowledge (BABOK Guide)",
+    display="iiba",
+    authors="IIBA",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="iiba2009",
+    placex="International Institute of Business Analysis (IIBA)",
 ))
 
 karhu2009a = DB(WorkUnrelated(
@@ -384,6 +569,20 @@ khmelevsky2009a = DB(WorkUnrelated(
     ID="khmelevsky2009sw",
     acm2016="1",
     placex="Proceedings of the 14th Western Canadian Conference on Computing Education",
+))
+
+kollmann2009a = DB(WorkUnrelated(
+    2009, "The importance of identity and vision to user experience designers on agile projects",
+    display="kollmann",
+    authors="Kollmann, J. and Sharp, H. and Blandford, A.",
+    place=FAKE,
+    pp="11-18",
+    entrytype="conference",
+    doi="10.1109/AGILE.2009.58",
+    art_number="5261114",
+    note="cited By 28",
+    ID="Kollmann200911",
+    placex="Proceedings - 2009 Agile Conference, AGILE 2009",
 ))
 
 ktata2009a = DB(WorkUnrelated(
@@ -442,6 +641,8 @@ misra2009a = DB(WorkUnrelated(
     ID="misra2009identifying",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    doi="10.1016/j.jss.2009.05.052",
+    note="cited By 128",
 ))
 
 mohagheghi2009a = DB(WorkUnrelated(
@@ -502,6 +703,38 @@ petersen2009a = DB(WorkUnrelated(
     ID="petersen2009comparison",
     sciencedirect2016="1",
     placex="Journal of systems and software",
+    doi="10.1016/j.jss.2009.03.036",
+    note="cited By 96",
+))
+
+plugge2009a = DB(WorkUnrelated(
+    2009, "Managing change in IT outsourcing arrangements: An offshore service provider perspective on adaptability",
+    display="plugge",
+    authors="Plugge, A. and Janssen, M.",
+    place=FAKE,
+    pp="257-274",
+    entrytype="article",
+    volume="2",
+    number="3",
+    doi="10.1108/17538290911005162",
+    note="cited By 20",
+    ID="Plugge2009257",
+    placex="Strategic Outsourcing: An International Journal",
+))
+
+port2009a = DB(WorkUnrelated(
+    2009, "Simulating mixed agile and plan-based requirements prioritization strategies: Proof-of-concept and practical implications",
+    display="port",
+    authors="Port, D. and Bui, T.",
+    place=FAKE,
+    pp="317-331",
+    entrytype="article",
+    volume="18",
+    number="4",
+    doi="10.1057/ejis.2009.19",
+    note="cited By 23",
+    ID="Port2009317",
+    placex="European Journal of Information Systems",
 ))
 
 ren2009a = DB(WorkUnrelated(
@@ -565,6 +798,9 @@ runeson2009a = DB(WorkUnrelated(
     cluster_id="16127251919715312246",
     scholar="http://scholar.google.com/scholar?cites=16127251919715312246&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    doi="10.1007/s10664-008-9102-8",
+    note="cited By 1109",
+    placex="Empirical Software Engineering",
 ))
 
 ryan2009a = DB(WorkUnrelated(
@@ -629,6 +865,21 @@ sauser2009a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+sharp2009a = DB(WorkUnrelated(
+    2009, "The role of physical artefacts in agile software development: Two complementary perspectives",
+    display="sharp",
+    authors="Sharp, H. and Robinson, H. and Petre, M.",
+    place=FAKE,
+    pp="108-116",
+    entrytype="article",
+    volume="21",
+    number="1-2",
+    doi="10.1016/j.intcom.2008.10.006",
+    note="cited By 57",
+    ID="Sharp2009108",
+    placex="Interacting with Computers",
+))
+
 sillitti2009a = DB(WorkUnrelated(
     2009, "Designing empirical studies: assessing the effectiveness of agile methods",
     display="sillitti",
@@ -642,6 +893,20 @@ sillitti2009a = DB(WorkUnrelated(
     ID="sillitti2009designing",
     acm2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
+))
+
+soundararajan2009a = DB(WorkUnrelated(
+    2009, "A soft-structured agile framework for larger scale systems development",
+    display="soundararajan",
+    authors="Soundararajan, S. and Arthur, J.D.",
+    place=FAKE,
+    pp="187-195",
+    entrytype="conference",
+    doi="10.1109/ECBS.2009.21",
+    art_number="4839245",
+    note="cited By 8",
+    ID="Soundararajan2009187",
+    placex="Proceedings of the International Symposium and Workshop on Engineering of Computer Based Systems",
 ))
 
 strembeck2009a = DB(WorkUnrelated(
@@ -670,6 +935,9 @@ talby2009a = DB(WorkUnrelated(
     ID="talby2009governance",
     acm2016="1",
     placex="Software Development Governance, 2009. SDG'09. ICSE Workshop on",
+    doi="10.1109/SDG.2009.5071336",
+    art_number="5071336",
+    note="cited By 11",
 ))
 
 vejandla2009a = DB(WorkUnrelated(
@@ -760,4 +1028,19 @@ youngberg2009a = DB(WorkUnrelated(
     ID="youngberg2009determinants",
     sciencedirect2016="1",
     placex="International journal of information management",
+))
+
+ågerfalk2009a = DB(WorkUnrelated(
+    2009, "Flexible and distributed information systems development: State of the art and research challenges",
+    display="ågerfalk",
+    authors="Ågerfalk, P.J. and Fitzgerald, B. and Slaughter, S.A.",
+    place=FAKE,
+    pp="317-328",
+    entrytype="article",
+    volume="20",
+    number="3",
+    doi="10.1287/isre.1090.0244",
+    note="cited By 80",
+    ID="Ågerfalk2009317",
+    placex="Information Systems Research",
 ))

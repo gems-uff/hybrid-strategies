@@ -143,6 +143,17 @@ benedicenti2016a = DB(WorkUnrelated(
     ID="benedicenti2016applying",
     acm2016="1",
     placex="Proceedings of the 38th International Conference on Software Engineering Companion",
+    doi="10.1145/2889160.2892652",
+    note="cited By 4",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026649976&doi=10.1145%2f2889160.2892652&partnerID=40&md5=21527d1d613641618689fd6d2a3bbf5a",
+    document_type="Conference Paper",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
+    language="English",
+    copyright="Compendex",
+    issn="02705257",
+    address="Austin, TX, United states",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 bian2016a = DB(WorkUnrelated(
@@ -1189,6 +1200,21 @@ singh2016a = DB(WorkUnrelated(
     cluster_id="7639152736635184960",
     scholar="http://scholar.google.com/scholar?cites=7639152736635184960&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+solinski2016a = DB(WorkUnrelated(
+    2016, "Prioritizing agile benefits and limitations in relation to practice usage",
+    display="solinski",
+    authors="Solinski, A. and Petersen, K.",
+    place=SQJ,
+    pp="447-482",
+    entrytype="article",
+    volume="24",
+    number="2",
+    doi="10.1007/s11219-014-9253-3",
+    note="cited By 8",
+    ID="Solinski2016447",
+    placex="Software Quality Journal",
 ))
 
 soomro2016a = DB(WorkUnrelated(

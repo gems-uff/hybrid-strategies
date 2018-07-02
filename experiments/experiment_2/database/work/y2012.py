@@ -48,6 +48,20 @@ asan2012a = DB(WorkUnrelated(
     placex="INCOSE international symposium",
 ))
 
+bachmann2012a = DB(WorkUnrelated(
+    2012, "Architectural tactics to support rapid and agile stability",
+    display="bachmann",
+    authors="Bachmann, F. and Nord, R.L. and Ozkaya, I.",
+    place=FAKE,
+    pp="20-25",
+    entrytype="article",
+    volume="25",
+    number="3",
+    note="cited By 12",
+    ID="Bachmann201220",
+    placex="CrossTalk",
+))
+
 ben2012a = DB(WorkUnrelated(
     2012, "Supplier ranking by multi-alternative proposal analysis for agile projects",
     display="ben",
@@ -76,6 +90,19 @@ bjarnason2012a = DB(WorkUnrelated(
     ID="bjarnason2012you",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+brown2012a = DB(WorkUnrelated(
+    2012, "Joint implicit alignment work of interaction designers and software developers",
+    display="brown",
+    authors="Brown, J.M. and Lindgaard, G. and Biddle, R.",
+    place=FAKE,
+    pp="693-702",
+    entrytype="conference",
+    doi="10.1145/2399016.2399121",
+    note="cited By 5",
+    ID="Brown2012693",
+    placex="NordiCHI 2012: Making Sense Through Design - Proceedings of the 7th Nordic Conference on Human-Computer Interaction",
 ))
 
 bruegge2012a = DB(WorkUnrelated(
@@ -246,6 +273,31 @@ damian2012a = DB(WorkUnrelated(
     placex="Collaborative Teaching of Globally Distributed Software Development Workshop (CTGDSD), 2012",
 ))
 
+deemer2012a = DB(WorkUnrelated(
+    2012, "The Scrum Primer: The ligthweight guide to the theory and practice of Scrum",
+    display="deemer",
+    authors="Deemer, P. and Benefield, G. and Larman, C. and Vodde, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Deemer2012",
+    placex="InfoQ, Version 2.0 Edn",
+))
+
+dorairaj2012a = DB(WorkUnrelated(
+    2012, "Understanding team dynamics in distributed agile software development",
+    display="dorairaj",
+    authors="Dorairaj, S. and Noble, J. and Malik, P.",
+    place=BIP,
+    pp="47-61",
+    entrytype="article",
+    volume="111 LNBIP",
+    doi="10.1007/978-3-642-30350-0_4",
+    note="cited By 16",
+    ID="Dorairaj201247",
+    placex="Lecture Notes in Business Information Processing",
+))
+
 drury2012a = DB(WorkUnrelated(
     2012, "Obstacles to decision making in Agile software development teams",
     display="drury",
@@ -274,6 +326,20 @@ eloranta2012a = DB(WorkUnrelated(
     placex="Proceedings of the WICSA/ECSA 2012 Companion Volume",
 ))
 
+ernst2012a = DB(WorkUnrelated(
+    2012, "Case studies in just-in-time requirements analysis",
+    display="ernst",
+    authors="Ernst, N.A. and Murphy, G.C.",
+    place=FAKE,
+    pp="25-32",
+    entrytype="conference",
+    doi="10.1109/EmpiRE.2012.6347678",
+    art_number="6347678",
+    note="cited By 33",
+    ID="Ernst201225",
+    placex="2012 2nd IEEE International Workshop on Empirical Requirements Engineering, EmpiRE 2012 - Proceedings",
+))
+
 felker2012a = DB(WorkUnrelated(
     2012, "Integrating UX with scrum in an undergraduate software development project",
     display="felker",
@@ -285,6 +351,35 @@ felker2012a = DB(WorkUnrelated(
     ID="felker2012integrating",
     acm2016="1",
     placex="Proceedings of the 43rd ACM technical symposium on Computer Science Education",
+))
+
+ferreira2012a = DB(WorkUnrelated(
+    2012, "Agile development and user experience design integration as an ongoing achievement in practice",
+    display="ferreira",
+    authors="Ferreira, J. and Sharp, H. and Robinson, H.",
+    place=FAKE,
+    pp="11-20",
+    entrytype="conference",
+    doi="10.1109/Agile.2012.33",
+    art_number="6298087",
+    note="cited By 21",
+    ID="Ferreira201211",
+    placex="Proceedings - 2012 Agile Conference, Agile 2012",
+))
+
+fitzgerald2012a = DB(WorkUnrelated(
+    2012, "Early failure prediction in feature request management systems: An extended study",
+    display="fitzgerald",
+    authors="Fitzgerald, C. and Letier, E. and Finkelstein, A.",
+    place=FAKE,
+    pp="117-132",
+    entrytype="article",
+    volume="17",
+    number="2",
+    doi="10.1007/s00766-012-0150-7",
+    note="cited By 5",
+    ID="Fitzgerald2012117",
+    placex="Requirements Engineering",
 ))
 
 garcía2012a = DB(WorkUnrelated(
@@ -347,6 +442,30 @@ gorschek2012a = DB(WorkUnrelated(
     placex="Journal of software: Evolution and Process",
 ))
 
+grant2012a = DB(WorkUnrelated(
+    2012, "Navigate the Future of Agile and Lean",
+    display="grant",
+    authors="Grant, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Grant2012",
+    placex="",
+))
+
+hartson2012a = DB(WorkUnrelated(
+    2012, "The UX Book: Process and Guidelines for Ensuring a Quality User Experience",
+    display="hartson",
+    authors="Hartson, R. and Pyla, P.S.",
+    place=Book,
+    pp="1-937",
+    entrytype="book",
+    doi="10.1016/C2010-0-66326-7",
+    note="cited By 134",
+    ID="Hartson20121",
+    placex="The UX Book: Process and Guidelines for Ensuring a Quality User Experience",
+))
+
 hasan2012a = DB(WorkUnrelated(
     2012, "Agility and production flow layouts: An analytical decision analysis",
     display="hasan",
@@ -360,6 +479,17 @@ hasan2012a = DB(WorkUnrelated(
     ID="hasan2012agility",
     sciencedirect2016="1",
     placex="Computers & Industrial Engineering",
+))
+
+herzig2012a = DB(WorkUnrelated(
+    2012, "Its not a bug, its a feature: How misclassification impacts bug prediction",
+    display="herzig",
+    authors="Herzig, K. and Just, S. and Zeller, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Herzig2012",
+    placex="Universitt des Saarlandes",
 ))
 
 herzog2012a = DB(WorkUnrelated(
@@ -402,6 +532,32 @@ huang2012a = DB(WorkUnrelated(
     ID="huang2012agile",
     webofscience2016="1",
     placex="Sensors and Systems for Space Applications V",
+    doi="10.1117/12.919303",
+    art_number="83850F",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84864349249&doi=10.1117%2f12.919303&partnerID=40&md5=58f34e83d166e6c30e20cade7fe0757f",
+    document_type="Conference Paper",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
+    language="English",
+    copyright="Compendex",
+    issn="0277786X",
+    address="Baltimore, MD, United states",
+    elcompendex2016_duplicate_removed="1",
+))
+
+isomursu2012a = DB(WorkUnrelated(
+    2012, "User experience design goes agile in lean transformation - A case study",
+    display="isomursu",
+    authors="Isomursu, M. and Sirotkin, A. and Voltti, P. and Halonen, M.",
+    place=FAKE,
+    pp="1-10",
+    entrytype="conference",
+    doi="10.1109/Agile.2012.10",
+    art_number="6298086",
+    note="cited By 10",
+    ID="Isomursu20121",
+    placex="Proceedings - 2012 Agile Conference, Agile 2012",
 ))
 
 jalali2012a = DB(WorkUnrelated(
@@ -507,6 +663,31 @@ klendauer2012a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+kniberg2012a = DB(WorkUnrelated(
+    2012, "Scaling Agile @ Spotify",
+    display="kniberg",
+    authors="Kniberg, H. and Ivarsson, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 8",
+    ID="Kniberg2012",
+    placex="accessed site",
+))
+
+kuusinen2012a = DB(WorkUnrelated(
+    2012, "Agile user experience development in a large software organization: Good expertise but limited impact",
+    display="kuusinen",
+    authors="Kuusinen, K. and Mikkonen, T. and Pakarinen, S.",
+    place=FAKE,
+    pp="94-111",
+    entrytype="article",
+    volume="7623 LNCS",
+    doi="10.1007/978-3-642-34347-6_6",
+    note="cited By 20",
+    ID="Kuusinen201294",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 lane2012a = DB(WorkUnrelated(
     2012, "SOAdapt: A process reference model for developing adaptable service-based applications",
     display="lane",
@@ -555,6 +736,17 @@ lepmets2012a = DB(WorkUnrelated(
     placex="Communications in Computer and Information Science",
 ))
 
+lárusdóttir2012a = DB(WorkUnrelated(
+    2012, "The big picture of UX is missing in scrum projects",
+    display="lárusdóttir",
+    authors="Lárusdóttir, M.K. and Cajander Å.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Lárusdóttir2012",
+    placex="Proceedings of the 2nd International Workshop on the Interplay between User Experience Evaluation and Software Development, in Conjunction with the 7th Nordic Conference on Human-computer Interaction",
+))
+
 madni2012a = DB(WorkUnrelated(
     2012, "Adaptable platform-based engineering: Key enablers and outlook for the future",
     display="madni",
@@ -585,6 +777,17 @@ magdaleno2012a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+microsoft2012a = DB(WorkUnrelated(
+    2012, "Microsoft: Microsoft Security Development Lifecycle",
+    display="microsoft",
+    authors="Microsoft",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Microsoft2012",
+    placex="Microsoft",
+))
+
 neill2012a = DB(WorkUnrelated(
     2012, "9.1. 2 Antipatterns in Systems Engineering: An Opening Trio",
     display="neill",
@@ -600,6 +803,19 @@ neill2012a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+nielsen2012a = DB(WorkUnrelated(
+    2012, "The usability expert's fear of agility - An empirical study of global trends and emerging practices",
+    display="nielsen",
+    authors="Nielsen, L. and Madsen, S.",
+    place=FAKE,
+    pp="261-264",
+    entrytype="conference",
+    doi="10.1145/2399016.2399057",
+    note="cited By 8",
+    ID="Nielsen2012261",
+    placex="NordiCHI 2012: Making Sense Through Design - Proceedings of the 7th Nordic Conference on Human-Computer Interaction",
+))
+
 niinimäki2012a = DB(WorkUnrelated(
     2012, "Reflecting the choice and usage of communication tools in global software development projects with media synchronicity theory",
     display="niinimäki",
@@ -613,6 +829,33 @@ niinimäki2012a = DB(WorkUnrelated(
     ID="niinimaki2012reflecting",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+olsson2012a = DB(WorkUnrelated(
+    2012, "Climbing the Stairway to heaven - A mulitiple-case study exploring barriers in the transition from agile development towards continuous deployment of software",
+    display="olsson",
+    authors="Olsson, H.H. and Alahyari, H. and Bosch, J.",
+    place=SEAA,
+    pp="392-399",
+    entrytype="conference",
+    doi="10.1109/SEAA.2012.54",
+    art_number="6328180",
+    note="cited By 100",
+    ID="Olsson2012392",
+    placex="Proceedings - 38th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2012",
+))
+
+paasivaara2012a = DB(WorkUnrelated(
+    2012, "Inter-team coordination in large-scale globally distributed scrum: Do scrum-of-scrums really work?",
+    display="paasivaara",
+    authors="Paasivaara, M. and Lassenius, C. and Heikkilä, V.T.",
+    place=ESEM,
+    pp="235-238",
+    entrytype="conference",
+    doi="10.1145/2372251.2372294",
+    note="cited By 25",
+    ID="Paasivaara2012235",
+    placex="International Symposium on Empirical Software Engineering and Measurement",
 ))
 
 pamujula2012a = DB(WorkUnrelated(
@@ -662,6 +905,9 @@ peled2012a = DB(WorkUnrelated(
     ID="Peled2012317",
     scopus2016="1",
     placex="International Journal of Project Management",
+    issn="0263-7863",
+    keyword="Defence projects",
+    sciencedirect2016_duplicate_removed="1",
 ))
 
 pino2012a = DB(WorkUnrelated(
@@ -763,6 +1009,17 @@ romeike2012a = DB(WorkUnrelated(
     placex="Proceedings of the 7th Workshop in Primary and Secondary Computing Education",
 ))
 
+rubin2012a = DB(WorkUnrelated(
+    2012, "Essential Scrum: A Practical Guide to the Most Popular Agile Process",
+    display="rubin",
+    authors="Rubin, K.S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 95",
+    ID="Rubin2012",
+    placex="Addison-Wesley",
+))
+
 saddington2012a = DB(WorkSnowball(
     2012, "Scaling Agile Product Ownership through Team Alignment and Optimization: A Story of Epic Proportions",
     display="saddington",
@@ -821,6 +1078,11 @@ scheithauer2012a = DB(WorkUnrelated(
     ID="scheithauer2012managing",
     wiley2016="1",
     placex="INCOSE International Symposium",
+    note="cited By 0",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884158702&partnerID=40&md5=c35d7f6eceb11b7807b830e0be55b2f9",
+    document_type="Conference Paper",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
 ))
 
 seinturier2012a = DB(WorkUnrelated(
@@ -943,6 +1205,17 @@ strode2012a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+sutherland2012a = DB(WorkUnrelated(
+    2012, "The Dangers of Not Being Done, Or Ready for that Matter",
+    display="sutherland",
+    authors="Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Sutherland2012",
+    placex="accessed site",
+))
+
 tamburri2012a = DB(WorkUnrelated(
     2012, "Simulating awareness in global software engineering: a comparative analysis of scrum and agile service networks",
     display="tamburri",
@@ -1019,6 +1292,33 @@ turner2012a = DB(WorkUnrelated(
     placex="Procedia Computer Science",
 ))
 
+unterkalmsteiner2012a = DB(WorkUnrelated(
+    2012, "Evaluation and measurement of software process improvement-A systematic literature review",
+    display="unterkalmsteiner",
+    authors="Unterkalmsteiner, M. and Gorschek, T. and Islam, A.K.M.M. and Cheng, C.K. and Permadi, R.B. and Feldt, R.",
+    place=ToSE,
+    pp="398-424",
+    entrytype="article",
+    volume="38",
+    number="2",
+    doi="10.1109/TSE.2011.26",
+    art_number="5728832",
+    note="cited By 89",
+    ID="Unterkalmsteiner2012398",
+    placex="IEEE Transactions on Software Engineering",
+))
+
+versionone2012a = DB(WorkUnrelated(
+    2012, "VersionOne 7th Annual State of Agile Survey",
+    display="versionone",
+    authors="VersionOne",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="versionone2012version",
+    placex="accessed site",
+))
+
 vinodh2012a = DB(WorkUnrelated(
     2012, "Thirty-criteria-based agility assessment: a case study in an Indian pump manufacturing organisation",
     display="vinodh",
@@ -1062,6 +1362,11 @@ wang2012a = DB(WorkUnrelated(
     ID="wang2012leagile",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    note="Special Issue: Agile Development",
+    issn="0164-1212",
+    doi="https://doi.org/10.1016/j.jss.2012.01.061",
+    link="https://www.sciencedirect.com/science/article/pii/S0164121212000404",
+    keyword="Experience report",
 ))
 
 wang2012b = DB(WorkUnrelated(

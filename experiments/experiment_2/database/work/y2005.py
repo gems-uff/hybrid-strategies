@@ -65,6 +65,19 @@ bergin2005a = DB(WorkUnrelated(
     placex="ACM SIGCSE Bulletin",
 ))
 
+blomkvist2005a = DB(WorkUnrelated(
+    2005, "Towards a model for bridging agile development and user-centered design",
+    display="blomkvist",
+    authors="Blomkvist, S.",
+    place=FAKE,
+    pp="219-244",
+    entrytype="article",
+    number="4",
+    note="cited By 50",
+    ID="Blomkvist2005219",
+    placex="Human-Centered Software Engineering-Integrating Usability in the Software Development Lifecycle",
+))
+
 brandon2005a = DB(WorkUnrelated(
     2005, "Project management for modern information systems",
     display="brandon",
@@ -93,6 +106,20 @@ brechner2005a = DB(WorkUnrelated(
     ID="brechner2005journey",
     acm2016="1",
     placex="Proceedings of the 27th international conference on Software engineering",
+))
+
+brown2005a = DB(WorkUnrelated(
+    2005, "Framing the frameworks: A review of IT governance research",
+    display="brown",
+    authors="Brown, A.E. and Grant, G.G.",
+    place=FAKE,
+    pp="696-712",
+    entrytype="article",
+    volume="15",
+    number="15",
+    note="cited By 236",
+    ID="Brown2005696",
+    placex="Communications of the Association for Information Systems",
 ))
 
 browning2005a = DB(WorkUnrelated(
@@ -166,6 +193,32 @@ griswold2005a = DB(WorkUnrelated(
     placex="Proceedings of the 27th international conference on Software engineering",
 ))
 
+howard2005a = DB(WorkUnrelated(
+    2005, "19 Deadly Sins of Software Security",
+    display="howard",
+    authors="Howard, M. and LeBlanc, D. and Viega, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 63",
+    ID="Howard2005",
+    placex="",
+))
+
+hsieh2005a = DB(WorkUnrelated(
+    2005, "Three approaches to qualitative content analysis",
+    display="hsieh",
+    authors="Hsieh, H.-F. and Shannon, S.E.",
+    place=FAKE,
+    pp="1277-1288",
+    entrytype="article",
+    volume="15",
+    number="9",
+    doi="10.1177/1049732305276687",
+    note="cited By 7466",
+    ID="Hsieh20051277",
+    placex="Qualitative Health Research",
+))
+
 hulkko2005a = DB(WorkUnrelated(
     2005, "A multiple case study on the impact of pair programming on product quality",
     display="hulkko",
@@ -177,6 +230,20 @@ hulkko2005a = DB(WorkUnrelated(
     ID="hulkko2005multiple",
     acm2016="1",
     placex="Software Engineering, 2005. ICSE 2005. Proceedings. 27th International Conference on",
+))
+
+ilgen2005a = DB(WorkUnrelated(
+    2005, "Teams in organizations: From input-process-output models to IMOI models",
+    display="ilgen",
+    authors="Ilgen, D.R. and Hollenbeck, J.R. and Johnson, M. and Jundt, D.",
+    place=FAKE,
+    pp="517-543",
+    entrytype="article",
+    volume="56",
+    doi="10.1146/annurev.psych.56.091103.070250",
+    note="cited By 847",
+    ID="Ilgen2005517",
+    placex="Annual Review of Psychology",
 ))
 
 johansen2005a = DB(WorkUnrelated(
@@ -363,6 +430,20 @@ mccabe2005a = DB(WorkUnrelated(
     placex="CrossTalk",
 ))
 
+mcinerney2005a = DB(WorkUnrelated(
+    2005, "UCD in agile projects: Dream team or odd couple?",
+    display="mcinerney",
+    authors="McInerney, P. and Maurer, F.",
+    place=FAKE,
+    pp="19-23",
+    entrytype="article",
+    volume="12",
+    number="6",
+    note="cited By 53",
+    ID="McInerney200519",
+    placex="Interactions",
+))
+
 mckinney2005a = DB(WorkUnrelated(
     2005, "Affective assessment of team skills in agile CS1 labs: the good, the bad, and the ugly",
     display="mckinney",
@@ -432,6 +513,34 @@ paige2005a = DB(WorkUnrelated(
     ID="paige2005high",
     acm2016="1",
     placex="Proceedings of the 2005 ACM symposium on Applied computing",
+))
+
+pikkarainen2005a = DB(WorkUnrelated(
+    2005, "Deploying agile practices in organizations: A case study",
+    display="pikkarainen",
+    authors="Pikkarainen, M. and Salo, O. and Still, J.",
+    place=FAKE,
+    pp="16-27",
+    entrytype="article",
+    volume="3792 LNCS",
+    doi="10.1007/11586012_3",
+    note="cited By 15",
+    ID="Pikkarainen200516",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+salo2005a = DB(WorkUnrelated(
+    2005, "Integrating agile software development and software process improvement: A longitudinal case study",
+    display="salo",
+    authors="Salo, O. and Abrahamsson, P.",
+    place=ESEM,
+    pp="193-202",
+    entrytype="conference",
+    doi="10.1109/ISESE.2005.1541828",
+    art_number="1541828",
+    note="cited By 23",
+    ID="Salo2005193",
+    placex="2005 International Symposium on Empirical Software Engineering, ISESE 2005",
 ))
 
 schneider2005a = DB(WorkUnrelated(
@@ -508,6 +617,36 @@ sullivan2005a = DB(WorkUnrelated(
     ID="sullivan2005science",
     acm2016="1",
     placex="Proceedings of the 27th international conference on Software engineering",
+))
+
+sutherland2005a = DB(WorkUnrelated(
+    2005, "Future of scrum: Parallel pipelining of sprints in complex projects",
+    display="sutherland",
+    authors="Sutherland, J.",
+    place=FAKE,
+    pp="90-99",
+    entrytype="conference",
+    volume="2005",
+    doi="10.1109/ADC.2005.28",
+    art_number="1609808",
+    note="cited By 43",
+    ID="Sutherland200590",
+    placex="Proceedings - AGILE Confernce 2005",
+))
+
+tsipenyuk2005a = DB(WorkUnrelated(
+    2005, "Seven pernicious kingdoms: A taxonomy of software security errors",
+    display="tsipenyuk",
+    authors="Tsipenyuk, K. and Chess, B. and McGraw, G.",
+    place=FAKE,
+    pp="81-84",
+    entrytype="article",
+    volume="3",
+    number="6",
+    doi="10.1109/MSP.2005.159",
+    note="cited By 83",
+    ID="Tsipenyuk200581",
+    placex="IEEE Security and Privacy",
 ))
 
 wellington2005a = DB(WorkUnrelated(

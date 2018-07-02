@@ -81,6 +81,17 @@ clark2004a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+cockburn2004a = DB(WorkUnrelated(
+    2004, "Crystal Clear: A Human-Powered Methodology for Small Teams",
+    display="cockburn",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 248",
+    ID="Cockburn2004",
+    placex="",
+))
+
 greer2004a = DB(WorkUnrelated(
     2004, "Software release planning: an evolutionary and iterative approach",
     display="greer",
@@ -96,6 +107,19 @@ greer2004a = DB(WorkUnrelated(
     placex="Information and software technology",
 ))
 
+holz2004a = DB(WorkUnrelated(
+    2004, "Research on Learning Software Organizations - Past, Present, and Future",
+    display="holz",
+    authors="Holz, H. and Melnik, G.",
+    place=FAKE,
+    pp="1-6",
+    entrytype="article",
+    volume="3096",
+    note="cited By 4",
+    ID="Holz20041",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 iivari2004a = DB(WorkUnrelated(
     2004, "Towards a distinctive body of knowledge for Information Systems experts: coding ISD process knowledge in two IS journals",
     display="iivari",
@@ -109,6 +133,31 @@ iivari2004a = DB(WorkUnrelated(
     ID="iivari2004towards",
     wiley2016="1",
     placex="Information systems journal",
+))
+
+jarvinen2004a = DB(WorkUnrelated(
+    2004, "Research Questions Guiding Selection of an Appropriate Research Method",
+    display="jarvinen",
+    authors="Jarvinen, P.",
+    place=FAKE,
+    pp="9",
+    entrytype="article",
+    note="cited By 5",
+    ID="Jarvinen20049",
+    placex="Research Questions Guiding Selection of an Appropriate Research Method",
+))
+
+jokela2004a = DB(WorkUnrelated(
+    2004, "Usability assessment of an extreme programming project: Close co-operation with the customer does not equal to good usability",
+    display="jokela",
+    authors="Jokela, T. and Abrahamsson, P.",
+    place=FAKE,
+    pp="393-407",
+    entrytype="article",
+    volume="3009",
+    note="cited By 25",
+    ID="Jokela2004393",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 kim2004a = DB(WorkUnrelated(
@@ -139,6 +188,35 @@ lee2004a = DB(WorkUnrelated(
     ID="lee2004multi",
     wiley2016="1",
     placex="Software Process: Improvement and Practice",
+))
+
+lindvall2004a = DB(WorkUnrelated(
+    2004, "Agile software development in large organizations",
+    display="lindvall",
+    authors="Lindvall, M. and Muthig, D. and Dagnino, A. and Wallin, C. and Stupperich, M. and Kiefer, D. and May, J. and Kähkönen, T.",
+    place=C,
+    pp="26-34",
+    entrytype="article",
+    volume="37",
+    number="12",
+    doi="10.1109/MC.2004.231",
+    note="cited By 115",
+    ID="Lindvall200426",
+    placex="Computer",
+))
+
+melville2004a = DB(WorkUnrelated(
+    2004, "Review: Information technology and organizational performance: An integrative model of it business value",
+    display="melville",
+    authors="Melville, N. and Kraemer, K. and Gurbaxani, V.",
+    place=FAKE,
+    pp="283-322",
+    entrytype="article",
+    volume="28",
+    number="2",
+    note="cited By 1590",
+    ID="Melville2004283",
+    placex="MIS Quarterly: Management Information Systems",
 ))
 
 sahraoui2004a = DB(WorkUnrelated(

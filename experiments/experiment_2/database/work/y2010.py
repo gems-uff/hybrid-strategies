@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahão2010a = DB(WorkUnrelated(
+    2010, "Interplay between usability and software development",
+    display="abrahão",
+    authors="Abrahão, S. and Juristo, N. and Law, E.L.-C. and Stage, J.",
+    place=JSS,
+    pp="2015-2018",
+    entrytype="article",
+    volume="83",
+    number="11",
+    doi="10.1016/j.jss.2010.05.080",
+    note="cited By 6",
+    ID="Abrahão20102015",
+    placex="Journal of Systems and Software",
+))
+
 alnatheer2010a = DB(WorkUnrelated(
     2010, "Agile security issues: an empirical study",
     display="alnatheer",
@@ -32,6 +47,34 @@ andrade2010a = DB(WorkUnrelated(
     ID="Andrade2010",
     scopus2016="1",
     placex="ACM International Conference Proceeding Series",
+))
+
+banbury2010a = DB(WorkUnrelated(
+    2010, "Cracking the bullwhip: Team collaboration and performance within a simulated supply chain",
+    display="banbury",
+    authors="Banbury, S. and Helman, S. and James, S. and Tremblay, S.",
+    place=FAKE,
+    pp="1620-1624",
+    entrytype="conference",
+    volume="3",
+    doi="10.1518/107118110X12829370089524",
+    note="cited By 1",
+    ID="Banbury20101620",
+    placex="Proceedings of the Human Factors and Ergonomics Society",
+))
+
+batra2010a = DB(WorkUnrelated(
+    2010, "Balancing agile and structured development approaches to successfully manage large distributed software projects: A case study from the cruise line industry",
+    display="batra",
+    authors="Batra, D. and Xia, W. and van der Meer, D. and Dutta, K.",
+    place=FAKE,
+    pp="379-394",
+    entrytype="article",
+    volume="27",
+    number="1",
+    note="cited By 36",
+    ID="Batra2010379",
+    placex="Communications of the Association for Information Systems",
 ))
 
 begier2010a = DB(WorkUnrelated(
@@ -159,6 +202,28 @@ conforto2010a = DB(WorkUnrelated(
     placex="Project Management Journal",
 ))
 
+coplien2010a = DB(WorkUnrelated(
+    2010, "Lean Architecture for Agile Software Development",
+    display="coplien",
+    authors="Coplien, J. and Bjørnvig, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 67",
+    ID="Coplien2010lean",
+    placex="Wiley",
+))
+
+cp2010a = DB(WorkUnrelated(
+    2010, "CMMI for Development version 1.3",
+    display="cp",
+    authors="Team CP",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 247",
+    ID="teamcp2010",
+    placex="cmmi",
+))
+
 donaires2010a = DB(WorkUnrelated(
     2010, "Programming in the complex: Cybernetic insights into software process and architecture",
     display="donaires",
@@ -172,6 +237,20 @@ donaires2010a = DB(WorkUnrelated(
     ID="donaires2010programming",
     wiley2016="1",
     placex="Systems Research and Behavioral Science",
+))
+
+ferreira2010a = DB(WorkUnrelated(
+    2010, "Values and assumptions shaping Agile development and User Experience design in practice",
+    display="ferreira",
+    authors="Ferreira, J. and Sharp, H. and Robinson, H.",
+    place=BIP,
+    pp="178-183",
+    entrytype="article",
+    volume="48 LNBIP",
+    doi="10.1007/978-3-642-13054-0_15",
+    note="cited By 14",
+    ID="Ferreira2010178",
+    placex="Lecture Notes in Business Information Processing",
 ))
 
 fogelström2010a = DB(WorkUnrelated(
@@ -336,6 +415,9 @@ howell2010a = DB(WorkUnrelated(
     ID="Howell2010256",
     scopus2016="1",
     placex="International Journal of Project Management",
+    issn="0263-7863",
+    keyword="Risk",
+    sciencedirect2016_duplicate_removed="1",
 ))
 
 huang2010a = DB(WorkUnrelated(
@@ -353,6 +435,17 @@ huang2010a = DB(WorkUnrelated(
     cluster_id="6961688030137230783",
     scholar="http://scholar.google.com/scholar?cites=6961688030137230783&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+humble2010a = DB(WorkUnrelated(
+    2010, "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+    display="humble",
+    authors="Humble, J. and Farley, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 243",
+    ID="Humble2010",
+    placex="Wesley",
 ))
 
 jenkin2010a = DB(WorkUnrelated(
@@ -463,6 +556,17 @@ ktata2010a = DB(WorkUnrelated(
     placex="Proceedings of the Third C* Conference on Computer Science and Software Engineering",
 ))
 
+leffingwell2010a = DB(WorkUnrelated(
+    2010, "Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise",
+    display="leffingwell",
+    authors="Leffingwell, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 144",
+    ID="Leffingwell2010",
+    placex="Wesley",
+))
+
 lema2010a = DB(WorkUnrelated(
     2010, "Adoption of open business models in the west and innovation in India's software industry",
     display="lema",
@@ -551,6 +655,20 @@ moe2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+nanette2010a = DB(WorkUnrelated(
+    2010, "Enabling agility through architecture",
+    display="nanette",
+    authors="Nanette, B. and Nord, R. and Ozkaya, I.",
+    place=FAKE,
+    pp="12-17",
+    entrytype="article",
+    volume="23",
+    number="11-12",
+    note="cited By 17",
+    ID="Nanette201012",
+    placex="CrossTalk",
+))
+
 oconnor2010a = DB(WorkSnowball(
     2010, "Letters from the edge of an agile transition",
     display="oconnor",
@@ -612,6 +730,19 @@ ovaska2010a = DB(WorkUnrelated(
     ID="ovaska2010knowledge",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+paasivaara2010a = DB(WorkUnrelated(
+    2010, "Using scrum practices in GSD projects",
+    display="paasivaara",
+    authors="Paasivaara, M. and Lassenius, C.",
+    place=Book,
+    pp="259-278",
+    entrytype="book",
+    doi="10.1007/978-3-642-12442-6_17",
+    note="cited By 9",
+    ID="Paasivaara2010259",
+    placex="Agility Across Time and Space: Implementing Agile Methods in Global Software Projects",
 ))
 
 petersen2010a = DB(WorkUnrelated(
@@ -790,6 +921,17 @@ staron2010a = DB(WorkUnrelated(
     ID="staron2010method",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+sutherland2010a = DB(WorkUnrelated(
+    2010, "Scrumbut Test Aka the Nokia Test",
+    display="sutherland",
+    authors="Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Sutherland2010",
+    placex="accessed site",
 ))
 
 topalian2010a = DB(WorkUnrelated(

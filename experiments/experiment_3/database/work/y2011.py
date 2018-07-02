@@ -149,6 +149,9 @@ hauck2011a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    volume="6759 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960302722&doi=10.1007%2f978-3-642-21843-9_6&partnerID=40&md5=17ba14e3e1a5ba3176ce99210f7abcf8",
+    scopus2016_duplicate_removed="1",
 ))
 
 henderson2011a = DB(WorkUnrelated(
@@ -163,6 +166,9 @@ henderson2011a = DB(WorkUnrelated(
     gs2016="1",
     placex="The evolution of conceptual modeling",
     springer2016="1",
+    volume="6520",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956074927&doi=10.1007%2f978-3-642-17505-3_5&partnerID=40&md5=cc45fd7b7914d2c5a7fe35bf052f6110",
+    scopus2016_duplicate_removed="1",
 ))
 
 jr2011a = DB(WorkUnrelated(
@@ -270,6 +276,8 @@ lí2011a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8973194731755662092&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Computer Science and Information Systems",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80755163671&doi=10.2298%2fCSIS101230011L&partnerID=40&md5=fc496989d69409ee01afac9ccd02f9c2",
+    scopus2016_duplicate_removed="1",
 ))
 
 manjula2011a = DB(WorkUnrelated(
@@ -336,6 +344,9 @@ rifaut2011b = DB(WorkUnrelated(
     ID="rifaut2011compliance",
     gs2016="1",
     placex="Requirements Engineering and Law (RELAW), 2011 Fourth International Workshop on",
+    art_number="6050268",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80855129511&doi=10.1109%2fRELAW.2011.6050268&partnerID=40&md5=8f60903ff4f41ec9220329afd96fc989",
+    scopus2016_duplicate_removed="1",
 ))
 
 santos2011a = DB(WorkUnrelated(
@@ -350,6 +361,8 @@ santos2011a = DB(WorkUnrelated(
     ID="dos2011action",
     gs2016="1",
     placex="Advances in computers",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79955638767&doi=10.1016%2fB978-0-12-385510-7.00005-9&partnerID=40&md5=9485bac9d34f169320ea6d93066d7712",
+    scopus2016_duplicate_removed="1",
 ))
 
 sharma2011a = DB(WorkUnrelated(

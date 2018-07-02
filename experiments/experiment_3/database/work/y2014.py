@@ -28,6 +28,8 @@ ali2014a = DB(WorkUnrelated(
     ID="ali2014systematic",
     gs2016="1",
     placex="Journal of Systems and Software",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908160600&doi=10.1016%2fj.jss.2014.06.059&partnerID=40&md5=62c4c0af6fd2596cfc83de88d7820919",
+    scopus2016_duplicate_removed="1",
 ))
 
 ali2014b = DB(WorkUnrelated(
@@ -67,6 +69,9 @@ ayalew2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=12238272806795589375&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Software Engineering & Its Applications",
+    pp="121-138",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902595454&doi=10.14257%2fijseia.2014.8.6.10&partnerID=40&md5=7ec4ccdf54215c0d54381f65eb333a6c",
+    scopus2016_duplicate_removed="1",
 ))
 
 barafort2014a = DB(WorkUnrelated(
@@ -96,6 +101,8 @@ bibi2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=3570539627947906330&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Software Engineering and Applications (ICSOFT-EA), 2014 9th International Conference on",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908876208&partnerID=40&md5=ee85c5b355e8506be33dd27b000a8f8c",
+    scopus2016_duplicate_removed="1",
 ))
 
 bontcheva2014a = DB(WorkUnrelated(
@@ -175,6 +182,8 @@ eito2014a = DB(WorkUnrelated(
     gs2016="1",
     placex="Innovations in Systems and Software Engineering",
     springer2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939874837&doi=10.1007%2fs11334-014-0236-0&partnerID=40&md5=ec0a8230c207774f7a360cae96f19a5c",
+    scopus2016_duplicate_removed="1",
 ))
 
 escalona2014a = DB(WorkUnrelated(
@@ -259,6 +268,8 @@ henderson2014a = DB(WorkUnrelated(
     gs2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892434734&doi=10.1016%2fj.csi.2013.11.001&partnerID=40&md5=e8c78b331607b037a7f431a2b3e69eb2",
+    scopus2016_duplicate_removed="1",
 ))
 
 henderson2014b = DB(WorkUnrelated(
@@ -356,6 +367,9 @@ mata2014a = DB(WorkUnrelated(
     ID="mata2014knowledge",
     gs2016="1",
     placex="IEEE Latin America Transactions",
+    art_number="6827875",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84903155196&doi=10.1109%2fTLA.2014.6827875&partnerID=40&md5=69d75cef5983a56166d00987353a53da",
+    scopus2016_duplicate_removed="1",
 ))
 
 mcinerney2014a = DB(WorkUnrelated(
@@ -395,6 +409,8 @@ mesquida2014a = DB(WorkUnrelated(
     ID="mesquida2014min",
     gs2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928628227&doi=10.1142%2fS0218194014400026&partnerID=40&md5=c1c824f68d231a8976e4ba206ae2c959",
+    scopus2016_duplicate_removed="1",
 ))
 
 mireles2014a = DB(WorkUnrelated(
@@ -437,6 +453,8 @@ muñoz2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=11895781013702597574&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928600143&doi=10.1142%2fS0218194014400038&partnerID=40&md5=f325528b90e643975bea19be094c9f69",
+    scopus2016_duplicate_removed="1",
 ))
 
 muñoz2014b = DB(WorkUnrelated(
@@ -450,6 +468,8 @@ muñoz2014b = DB(WorkUnrelated(
     ID="munoz2014towards",
     gs2016="1",
     placex="Agile Estimation Techniques and Innovative Approaches to Software Process Improvement",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945990494&doi=10.4018%2f978-1-4666-5182-1.ch010&partnerID=40&md5=1249345488696e85d3ea6e9b6d95717f",
+    scopus2016_duplicate_removed="1",
 ))
 
 oconnor2014a = DB(WorkUnrelated(
@@ -476,6 +496,9 @@ peldzius2014a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+    volume="477",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908537519&partnerID=40&md5=b66c44ad8938a85033fb3f245c162c9b",
+    scopus2016_duplicate_removed="1",
 ))
 
 pettit2014a = DB(WorkUnrelated(
@@ -541,6 +564,9 @@ stallinger2014a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+    volume="477",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949132987&partnerID=40&md5=24a5c90116fe844ec25dab932c50e224",
+    scopus2016_duplicate_removed="1",
 ))
 
 stallinger2014b = DB(WorkUnrelated(

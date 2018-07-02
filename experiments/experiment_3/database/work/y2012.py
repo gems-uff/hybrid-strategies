@@ -69,6 +69,9 @@ april2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="",
     wiley2016="1",
+    page_count="312",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891582161&doi=10.1002%2f9780470258033&partnerID=40&md5=e72c8ee52270b4c068b6ad5861c91691",
+    scopus2016_duplicate_removed="1",
 ))
 
 barcellos2012a = DB(WorkUnrelated(
@@ -82,6 +85,9 @@ barcellos2012a = DB(WorkUnrelated(
     ID="barcellos2012using",
     gs2016="1",
     placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2012 IEEE 16th International",
+    art_number="6406216",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84873431617&doi=10.1109%2fEDOCW.2012.24&partnerID=40&md5=dfbe2b154ca9e10be4c39e2ef9a4937c",
+    scopus2016_duplicate_removed="1",
 ))
 
 bauer2012a = DB(WorkUnrelated(
@@ -107,6 +113,9 @@ caffery2012a = DB(WorkUnrelated(
     ID="mc2012medical",
     gs2016="1",
     placex="Software and Systems Traceability",
+    volume="9781447122395",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922033804&doi=10.1007%2f978-1-4471-2239-5_15&partnerID=40&md5=ba4312b79ed72606b80ff052ba9d919a",
+    scopus2016_duplicate_removed="1",
 ))
 
 calvache2012a = DB(WorkUnrelated(
@@ -270,6 +279,8 @@ gazel2012a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Gazi University Journal of Science",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856582312&partnerID=40&md5=24199db94642a73441b99d423ad616be",
+    scopus2016_duplicate_removed="1",
 ))
 
 grambow2012a = DB(WorkSnowball(
@@ -312,6 +323,9 @@ he2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="Software Engineering and Knowledge Engineering: Theory and Practice",
     springer2016="1",
+    volume="114",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856253161&doi=10.1007%2f978-3-642-03718-4_62&partnerID=40&md5=f3fdf4340fd169fd99c15f0a90a30abb",
+    scopus2016_duplicate_removed="1",
 ))
 
 henderson2012a = DB(WorkUnrelated(
@@ -367,6 +381,8 @@ kelemen2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of software: Evolution and Process",
     wiley2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84876188288&doi=10.1002%2fsmr.549&partnerID=40&md5=10bf76275a07e47e243968e8cebe67c5",
+    scopus2016_duplicate_removed="1",
 ))
 
 kruchten2012a = DB(WorkUnrelated(
@@ -422,6 +438,9 @@ leal2012a = DB(WorkUnrelated(
     ID="de2012ontology",
     gs2016="1",
     placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
+    art_number="6426917",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84874319092&doi=10.1109%2fCLEI.2012.6426917&partnerID=40&md5=2ba2ba7b16714b63571f45088d01a984",
+    scopus2016_duplicate_removed="1",
 ))
 
 li2012a = DB(WorkUnrelated(
@@ -451,6 +470,9 @@ miler2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="European Conference on Software Process Improvement",
     springer2016="1",
+    volume="301 CCIS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84864241594&doi=10.1007%2f978-3-642-31199-4_13&partnerID=40&md5=121d2c194196279a902f29176d966d6c",
+    scopus2016_duplicate_removed="1",
 ))
 
 peldzius2012a = DB(WorkUnrelated(
@@ -533,6 +555,9 @@ rungratri2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=18206382962446305705&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Convergence Information Technology",
+    pp="127-137",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869213144&doi=10.4156%2fjcit.vol7.issue20.16&partnerID=40&md5=194456f0d15b007ce7cf32f589e36968",
+    scopus2016_duplicate_removed="1",
 ))
 
 slooten2012a = DB(WorkUnrelated(
@@ -605,6 +630,9 @@ unterkalmsteiner2012a = DB(WorkUnrelated(
     ID="unterkalmsteiner2012aevaluation",
     gs2016="1",
     placex="IEEE Transactions on Software Engineering",
+    art_number="5728832",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84859747286&doi=10.1109%2fTSE.2011.26&partnerID=40&md5=f8c340416840673c58bc2ddfb2b7b098",
+    scopus2016_duplicate_removed="1",
 ))
 
 unterkalmsteiner2012b = DB(WorkUnrelated(
@@ -701,4 +729,7 @@ zarour2012a = DB(WorkUnrelated(
     ID="zarour2012evaluating",
     gs2016="1",
     placex="Information Technology and e-Services (ICITeS), 2012 International Conference on",
+    art_number="6216681",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863672081&doi=10.1109%2fICITeS.2012.6216681&partnerID=40&md5=cd5125013b191dfeca2a01a00387280d",
+    scopus2016_duplicate_removed="1",
 ))

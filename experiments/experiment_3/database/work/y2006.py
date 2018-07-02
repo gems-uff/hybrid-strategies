@@ -15,6 +15,9 @@ ahonen2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    volume="4034 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33746217458&partnerID=40&md5=c3f690652c1b2f954dd23a4ee611849f",
+    scopus2016_duplicate_removed="1",
 ))
 
 bella2006a = DB(WorkUnrelated(
@@ -43,6 +46,8 @@ bertoa2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
     springer2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892350864&doi=10.1007%2f3-540-34518-3_6&partnerID=40&md5=b7914b5773fa235c26d99a2d2237f3b4",
+    scopus2016_duplicate_removed="1",
 ))
 
 bertollo2006a = DB(WorkUnrelated(
@@ -104,6 +109,8 @@ canfora2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="Software: Practice and Experience",
     wiley2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644808059&doi=10.1002%2fspe.697&partnerID=40&md5=e849738eb749d1075b10d1a78bbaab7c",
+    scopus2016_duplicate_removed="1",
 ))
 
 domínguez2006a = DB(WorkUnrelated(
@@ -146,6 +153,9 @@ ferreira2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="European Conference on Software Process Improvement",
     springer2016="1",
+    volume="4257 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33845242534&partnerID=40&md5=3c33b417894c299c02bec7765e4f2862",
+    scopus2016_duplicate_removed="1",
 ))
 
 fujita2006a = DB(WorkUnrelated(
@@ -202,6 +212,8 @@ gonzalez2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
     springer2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049024468&doi=10.1007%2f3-540-34518-3_4&partnerID=40&md5=8c1b21f719c1878e19b4cbb962ad1da3",
+    scopus2016_duplicate_removed="1",
 ))
 
 halloran2006a = DB(WorkUnrelated(

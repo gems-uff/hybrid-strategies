@@ -192,6 +192,8 @@ ikram2007a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=3807634414759117273&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Proceedings of the 25th conference on IASTED International Multi-Conference: Software Engineering",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-56149112595&partnerID=40&md5=7542547954c95115ebcb624e1854db28",
+    scopus2016_duplicate_removed="1",
 ))
 
 kaschek2007a = DB(WorkUnrelated(
@@ -242,6 +244,8 @@ kumarapeli2007a = DB(WorkUnrelated(
     ID="kumarapeli2007using",
     gs2016="1",
     placex="Medical Informatics and the Internet in Medicine",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80051757603&doi=10.1080%2f14639230601097705&partnerID=40&md5=684cbd50f2b4ea319011a1973dc17603",
+    scopus2016_duplicate_removed="1",
 ))
 
 kumarapeli2007b = DB(WorkUnrelated(
@@ -255,6 +259,9 @@ kumarapeli2007b = DB(WorkUnrelated(
     ID="kumarapeli2007feasibility",
     gs2016="1",
     placex="Informatics in primary care",
+    pp="245-253",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-39149138671&partnerID=40&md5=f666bd36c4dd36fa4fe57d97acd93100",
+    scopus2016_duplicate_removed="1",
 ))
 
 lee2007a = DB(WorkUnrelated(

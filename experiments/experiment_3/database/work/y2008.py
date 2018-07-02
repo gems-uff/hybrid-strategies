@@ -132,6 +132,8 @@ caballero2008a = DB(WorkUnrelated(
     ID="caballero2008iqm3",
     gs2016="1",
     placex="J. UCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-64849090027&partnerID=40&md5=8c9d39e8dde88248d5db8da0af64dd23",
+    scopus2016_duplicate_removed="1",
 ))
 
 cerioli2008a = DB(WorkUnrelated(
@@ -417,6 +419,8 @@ pino2008a = DB(WorkUnrelated(
     ID="pino2008software",
     gs2016="1",
     placex="Software Quality Journal",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-42149144165&doi=10.1007%2fs11219-007-9038-z&partnerID=40&md5=7873c84ff0384db40b1ebab2db030ae3",
+    scopus2016_duplicate_removed="1",
 ))
 
 rifaut2008a = DB(WorkUnrelated(
@@ -492,6 +496,9 @@ ryu2008a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Computer and Information Science, 2008. ICIS 08. Seventh IEEE/ACIS International Conference on",
+    art_number="4529877",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-51349137132&doi=10.1109%2fICIS.2008.78&partnerID=40&md5=e419e7dfc224fa8cd3bf08b6e5b47108",
+    scopus2016_duplicate_removed="1",
 ))
 
 safonov2008a = DB(WorkUnrelated(
@@ -530,6 +537,8 @@ soto2008a = DB(WorkUnrelated(
     ID="soto2008using",
     gs2016="1",
     placex="Proceedings of the 2008 international workshop on Comparison and versioning of software models",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79959453182&doi=10.1145%2f1370152.1370162&partnerID=40&md5=9f587f6f62dc11a72db935432922e324",
+    scopus2016_duplicate_removed="1",
 ))
 
 tripathi2008a = DB(WorkUnrelated(

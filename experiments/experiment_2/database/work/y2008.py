@@ -64,6 +64,18 @@ alexander2008a = DB(WorkUnrelated(
     placex="Proceedings of the Association for Information Science and Technology",
 ))
 
+ambler2008a = DB(WorkUnrelated(
+    2008, "Tailoring usability into agile software development projects",
+    display="ambler",
+    authors="Ambler, S.W.",
+    place=FAKE,
+    pp="75-95",
+    entrytype="article",
+    note="cited By 25",
+    ID="Ambler200875",
+    placex="Maturing Usability",
+))
+
 baptista2008a = DB(WorkUnrelated(
     2008, "Agile documentation with uScrum",
     display="baptista",
@@ -103,6 +115,19 @@ baykaso2008a = DB(WorkUnrelated(
     ID="baykasouglu2008application",
     sciencedirect2016="1",
     placex="International Journal of Production Economics",
+))
+
+bettenburg2008a = DB(WorkUnrelated(
+    2008, "What makes a good bug report?",
+    display="bettenburg",
+    authors="Bettenburg, N. and Just, S. and Schröter, A. and Weiss, C. and Premraj, R. and Zimmermann, T.",
+    place=FAKE,
+    pp="308-318",
+    entrytype="conference",
+    doi="10.1145/1453101.1453146",
+    note="cited By 228",
+    ID="Bettenburg2008308",
+    placex="Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering",
 ))
 
 bianco2008a = DB(WorkUnrelated(
@@ -195,6 +220,21 @@ choi2008a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+chow2008a = DB(WorkUnrelated(
+    2008, "A survey study of critical success factors in agile software projects",
+    display="chow",
+    authors="Chow, T. and Cao, D.-B.",
+    place=JSS,
+    pp="961-971",
+    entrytype="article",
+    volume="81",
+    number="6",
+    doi="10.1016/j.jss.2007.08.020",
+    note="cited By 284",
+    ID="Chow2008961",
+    placex="Journal of Systems and Software",
+))
+
 cooper2008a = DB(WorkUnrelated(
     2008, "Perspective: The stage-gate	extregistered idea-to-launch process—update, what's new, and nexgen systems",
     display="cooper",
@@ -238,6 +278,21 @@ dybå2008a = DB(WorkUnrelated(
     ID="dybaa2008empirical",
     sciencedirect2016="1",
     placex="Information and software technology",
+    doi="10.1016/j.infsof.2008.01.006",
+    note="cited By 895",
+))
+
+easterbrook2008a = DB(WorkUnrelated(
+    2008, "Selecting empirical methods for software engineering research",
+    display="easterbrook",
+    authors="Easterbrook, S. and Singer, J. and Storey, M.-A. and Damian, D.",
+    place=Book,
+    pp="285-311",
+    entrytype="book",
+    doi="10.1007/978-1-84800-044-5_11",
+    note="cited By 259",
+    ID="Easterbrook2008285",
+    placex="Guide to Advanced Empirical Software Engineering",
 ))
 
 ebert2008a = DB(WorkUnrelated(
@@ -298,6 +353,20 @@ federoff2008a = DB(WorkUnrelated(
     placex="CHI'08 extended abstracts on Human factors in computing systems",
 ))
 
+fox2008a = DB(WorkUnrelated(
+    2008, "Agile methods and user-centered design: How these two methodologies are being successfully integrated in industry",
+    display="fox",
+    authors="Fox, D. and Sillito, J. and Maurer, F.",
+    place=FAKE,
+    pp="63-72",
+    entrytype="conference",
+    doi="10.1109/Agile.2008.78",
+    art_number="4599453",
+    note="cited By 69",
+    ID="Fox200863",
+    placex="Proceedings - Agile 2008 Conference",
+))
+
 gon2008a = DB(WorkUnrelated(
     2008, "KR12 Processes and Beyond",
     display="gon",
@@ -339,6 +408,17 @@ höfer2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2008 international workshop on Scrutinizing agile practices or shoot-out at the agile corral",
 ))
 
+ieee2008a = DB(WorkUnrelated(
+    2008, "IEEE SA - 829-2008 Standard for Software and System Test: The Institute of Electrical and Electronics Engineers",
+    display="ieee",
+    authors="IEEE",
+    place=IEEE,
+    entrytype="article",
+    note="cited By 1",
+    ID="IEEE2008",
+    placex="IEEE",
+))
+
 iii2008a = DB(WorkUnrelated(
     2008, "Assessment of the impacts of packaging, long-term storage, and transportation on military MEMS",
     display="iii",
@@ -353,6 +433,17 @@ iii2008a = DB(WorkUnrelated(
     ID="ZuninoIII2008752",
     scopus2016="1",
     placex="Proceedings - 2008 International Symposium on Microelectronics, IMAPS 2008",
+))
+
+isoiec2008a = DB(WorkUnrelated(
+    2008, "ISO/IEC: Information Technology - Security Techniques - Systems Security Engineering - Capability Maturity Model (SSE-CMM)",
+    display="isoiec",
+    authors="ISOIEC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="isoiec2008",
+    placex="iso/IEC 21817",
 ))
 
 jörges2008a = DB(WorkUnrelated(
@@ -403,7 +494,8 @@ kirova2008a = DB(WorkUnrelated(
 ))
 
 kläs2008a = DB(WorkUnrelated(
-    2008, "The use of simulation techniques for hybrid software cost estimation and risk analysis",
+    2008, "Chapter 4 The Use of Simulation Techniques for Hybrid Software Cost Estimation and Risk Analysis",
+    alias=(2008, "The use of simulation techniques for hybrid software cost estimation and risk analysis", ),
     display="kläs",
     authors="Kläs, Michael and Trendowicz, Adam and Wickenkamp, Axel and Münch, Jürgen and Kikuchi, Nahomi and Ishigai, Yasushi",
     place=FAKE,
@@ -532,6 +624,20 @@ mirakhorli2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2008 international workshop on Scrutinizing agile practices or shoot-out at the agile corral",
 ))
 
+moe2008a = DB(WorkUnrelated(
+    2008, "Understanding self-organizing teams in agile software development",
+    display="moe",
+    authors="Moe, N.B. and Dingsøyr, T. and Dybå, T.",
+    place=SEC,
+    pp="76-85",
+    entrytype="conference",
+    doi="10.1109/ASWEC.2008.4483195",
+    art_number="4483195",
+    note="cited By 56",
+    ID="Moe200876",
+    placex="Proceedings of the Australian Software Engineering Conference, ASWEC",
+))
+
 motała2008a = DB(WorkUnrelated(
     2008, "Designing an effective management system for enterprises: Concepts and verification",
     display="motała",
@@ -545,6 +651,20 @@ motała2008a = DB(WorkUnrelated(
     ID="motala2008designing",
     wiley2016="1",
     placex="Human Factors and Ergonomics in Manufacturing & Service Industries",
+))
+
+najafi2008a = DB(WorkUnrelated(
+    2008, "Two case studies of user experience design and agile development",
+    display="najafi",
+    authors="Najafi, M. and Toyoshiba, L.",
+    place=FAKE,
+    pp="531-536",
+    entrytype="conference",
+    doi="10.1109/Agile.2008.67",
+    art_number="4599534",
+    note="cited By 23",
+    ID="Najafi2008531",
+    placex="Proceedings - Agile 2008 Conference",
 ))
 
 nandigam2008a = DB(WorkUnrelated(
@@ -633,6 +753,21 @@ petersen2008a = DB(WorkUnrelated(
     placex="Proceedings of the nineteenth ACM conference on Hypertext and hypermedia",
 ))
 
+pikkarainen2008a = DB(WorkUnrelated(
+    2008, "The impact of agile practices on communication in software development",
+    display="pikkarainen",
+    authors="Pikkarainen, M. and Haikara, J. and Salo, O. and Abrahamsson, P. and Still, J.",
+    place=ESE,
+    pp="303-337",
+    entrytype="article",
+    volume="13",
+    number="3",
+    doi="10.1007/s10664-008-9065-9",
+    note="cited By 126",
+    ID="Pikkarainen2008303",
+    placex="Empirical Software Engineering",
+))
+
 pino2008a = DB(WorkUnrelated(
     2008, "Software process improvement in small and medium software enterprises: a systematic review",
     display="pino",
@@ -662,6 +797,21 @@ pons2008a = DB(WorkUnrelated(
     ID="pons2008project",
     wiley2016="1",
     placex="Project management journal",
+))
+
+qumer2008a = DB(WorkUnrelated(
+    2008, "A framework to support the evaluation, adoption and improvement of agile methods in practice",
+    display="qumer",
+    authors="Qumer, A. and Henderson-Sellers, B.",
+    place=JSS,
+    pp="1899-1919",
+    entrytype="article",
+    volume="81",
+    number="11",
+    doi="10.1016/j.jss.2007.12.806",
+    note="cited By 81",
+    ID="Qumer20081899",
+    placex="Journal of Systems and Software",
 ))
 
 qureshi2008a = DB(WorkUnrelated(
@@ -774,6 +924,21 @@ ross2008a = DB(WorkUnrelated(
     placex="Systems Engineering",
 ))
 
+salo2008a = DB(WorkUnrelated(
+    2008, "Agile methods in European embedded software development organisations: A survey on the actual use and usefulness of Extreme Programming and Scrum",
+    display="salo",
+    authors="Salo, O. and Abrahamsson, P.",
+    place=IEEES,
+    pp="58-64",
+    entrytype="article",
+    volume="2",
+    number="1",
+    doi="10.1049/iet-sen:20070038",
+    note="cited By 87",
+    ID="Salo200858",
+    placex="IET Software",
+))
+
 sfetsos2008a = DB(WorkUnrelated(
     2008, "An experimental investigation of personality types impact on pair effectiveness in pair programming",
     display="sfetsos",
@@ -791,6 +956,20 @@ sfetsos2008a = DB(WorkUnrelated(
     springer2016="1",
     placex="Empirical Software Engineering",
     ))
+
+singh2008a = DB(WorkUnrelated(
+    2008, "U-SCRUM: An agile methodology for promoting usability",
+    display="singh",
+    authors="Singh, M.",
+    place=FAKE,
+    pp="555-560",
+    entrytype="conference",
+    doi="10.1109/Agile.2008.33",
+    art_number="4599538",
+    note="cited By 55",
+    ID="Singh2008555",
+    placex="Proceedings - Agile 2008 Conference",
+))
 
 stanik2008a = DB(WorkUnrelated(
     2008, "A Conversation with Steve Bourne, Eric Allman, and Bryan Cantrill",

@@ -135,6 +135,9 @@ daramola2010a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Web Engineering",
     springer2016="1",
+    volume="6385 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649805138&doi=10.1007%2f978-3-642-16985-4_50&partnerID=40&md5=2af8c8443e3dac550ada953deab272ae",
+    scopus2016_duplicate_removed="1",
 ))
 
 ellis2010a = DB(WorkUnrelated(
@@ -170,6 +173,11 @@ henderson2010a = DB(WorkUnrelated(
     ID="henderson2010situational",
     gs2016="1",
     placex="Journal of Universal Computer Science",
+    pp="424-478",
+    volume="16",
+    number="3",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951085619&partnerID=40&md5=0e9527893daf591f4103ac72d9fbef21",
+    scopus2016_duplicate_removed="1",
 ))
 
 irrazabal2010a = DB(WorkUnrelated(
@@ -197,6 +205,8 @@ jaakkola2010a = DB(WorkUnrelated(
     ID="jaakkola2010knowledge",
     gs2016="1",
     placex="Software Quality Journal",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77952092036&doi=10.1007%2fs11219-009-9091-x&partnerID=40&md5=022dd7de8d0778456cde7f17368352a9",
+    scopus2016_duplicate_removed="1",
 ))
 
 keto2010a = DB(WorkUnrelated(
@@ -211,6 +221,8 @@ keto2010a = DB(WorkUnrelated(
     ID="keto2010towards",
     gs2016="1",
     placex="Information Modelling and Knowledge Bases XXI",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77950987684&doi=10.3233%2f978-1-60750-477-1-299&partnerID=40&md5=033142589926cc453c133d5a04250903",
+    scopus2016_duplicate_removed="1",
 ))
 
 ko2010a = DB(WorkUnrelated(
@@ -457,6 +469,9 @@ tassé2010a = DB(WorkUnrelated(
     ID="tasse2010techniques",
     springer2016="1",
     placex="Graph transformations and model-driven engineering",
+    volume="5765 LNCS",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649514391&doi=10.1007%2f978-3-642-17322-6_19&partnerID=40&md5=e4038a7574f423e4f2d56769696201f0",
+    scopus2016_duplicate_removed="1",
 ))
 
 tuffley2010a = DB(WorkUnrelated(

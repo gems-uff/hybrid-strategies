@@ -305,6 +305,17 @@ cotugno2014a = DB(WorkUnrelated(
     placex="IFIP International Conference on Open Source Systems",
 ))
 
+cummings2014a = DB(WorkUnrelated(
+    2014, "Organization development and change",
+    display="cummings",
+    authors="Cummings, T. and Worley, C.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 54",
+    ID="Cummings2014",
+    placex="Cengage Learning",
+))
+
 dawson2014a = DB(WorkUnrelated(
     2014, "Software Development Process Models: A Technique for Evaluation and Decision-Making",
     display="dawson",
@@ -669,6 +680,32 @@ hauksdóttir2014a = DB(WorkUnrelated(
     placex="Computers in Industry",
 ))
 
+heck2014a = DB(WorkUnrelated(
+    2014, "Horizontal traceability for just-in-time requirements: The case for open source feature requests",
+    display="heck",
+    authors="Heck, P. and Zaidman, A.",
+    place=JSEP,
+    pp="1280-1296",
+    entrytype="article",
+    volume="26",
+    number="12",
+    note="cited By 7",
+    ID="Heck20141280",
+    placex="Journal of Software: Evolution and Process",
+))
+
+heck2014ab = DB(WorkUnrelated(
+    2014, "A quality framework for agile requirements: A practitioners perspective",
+    display="heck",
+    authors="Heck, P. and Zaidman, A.",
+    place=FAKE,
+    pp="2014-3006",
+    entrytype="article",
+    note="cited By 1",
+    ID="Heck00002014",
+    placex="Software Engineering Research Group, Delft University of Technology, Tech. Rep. TUD-SERG",
+))
+
 hegarty2014a = DB(WorkUnrelated(
     2014, "Transition to a product line infrastructure: experience at Akari Software",
     display="hegarty",
@@ -789,6 +826,17 @@ ika2014a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+inayat2014a = DB(WorkUnrelated(
+    2014, "A systematic literature review on agile requirements engineering practices and challenges",
+    display="inayat",
+    authors="Inayat, I. and Salim, S.S. and Marczak, S. and Daneva, M. and Shamshirband, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 12",
+    ID="Inayat2014",
+    placex="Computers in Human Behavior",
+))
+
 jadhav2014a = DB(WorkUnrelated(
     2014, "Development of framework for sustainable Lean implementation: an ISM approach",
     display="jadhav",
@@ -831,6 +879,19 @@ jo2014a = DB(WorkUnrelated(
     ID="jo2014agile",
     springer2016="1",
     placex="International Journal of Precision Engineering and Manufacturing-Green Technology",
+))
+
+jrad2014a = DB(WorkUnrelated(
+    2014, "Insider Action Design Research: A multi-methodological Information Systems research approach",
+    display="jrad",
+    authors="Jrad, R.B.N. and Ahmed, M.D. and Sundaram, D.",
+    place=RCIS,
+    entrytype="conference",
+    doi="10.1109/RCIS.2014.6861053",
+    art_number="6861053",
+    note="cited By 10",
+    ID="Jrad2014",
+    placex="Proceedings - International Conference on Research Challenges in Information Science",
 ))
 
 kalinowski2014a = DB(WorkUnrelated(
@@ -1127,6 +1188,12 @@ moreland2014a = DB(WorkUnrelated(
     ID="moreland2014experimental",
     wiley2016="1",
     placex="Systems Engineering",
+    doi="10.1002/sys.21250",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893694191&doi=10.1002%2fsys.21250&partnerID=40&md5=21b28734b4d388372dc9fa23f5528bb6",
+    document_type="Article",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
 ))
 
 munir2014a = DB(WorkUnrelated(
@@ -1297,6 +1364,17 @@ petersen2014b = DB(WorkUnrelated(
     placex="Journal of software: Evolution and Process",
 ))
 
+pietikäinen2014a = DB(WorkUnrelated(
+    2014, "Handbook of the Secure Agile Software Development Life Cycle",
+    display="pietikäinen",
+    authors="Pietikäinen, P. and Röning, J.E.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="Pietikäinen2014",
+    placex="University of Oulu",
+))
+
 pomar2014a = DB(WorkUnrelated(
     2014, "Understanding sprint velocity fluctuations for improved project plans with Scrum: a case study",
     display="pomar",
@@ -1333,6 +1411,11 @@ power2014a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     scopus2016="1",
+    language="English",
+    copyright="Compendex",
+    issn="18651348",
+    address="Rome, Italy",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 power2014b = DB(WorkSnowball(
@@ -1356,6 +1439,11 @@ power2014b = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     scopus2016="1",
+    language="English",
+    copyright="Compendex",
+    issn="18651348",
+    address="Rome, Italy",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 ramos2014a = DB(WorkUnrelated(
@@ -1471,6 +1559,20 @@ salleh2014a = DB(WorkUnrelated(
     ID="salleh2014investigating",
     springer2016="1",
     placex="Empirical Software Engineering",
+))
+
+scheerer2014a = DB(WorkUnrelated(
+    2014, "Coordination in large-scale agile software development: A multiteam systems perspective",
+    display="scheerer",
+    authors="Scheerer, A. and Hildenbrand, T. and Kude, T.",
+    place=FAKE,
+    pp="4780-4788",
+    entrytype="conference",
+    doi="10.1109/HICSS.2014.587",
+    art_number="6759189",
+    note="cited By 12",
+    ID="Scheerer20144780",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
 ))
 
 scheithauer2014a = DB(WorkUnrelated(
@@ -1699,6 +1801,9 @@ ståhl2014a = DB(WorkUnrelated(
     ID="Ståhl201448",
     scopus2016="1",
     placex="Journal of Systems and Software",
+    issn="0164-1212",
+    keyword="Continuous integration",
+    sciencedirect2016_duplicate_removed="1",
 ))
 
 tarhan2014a = DB(WorkUnrelated(
@@ -1774,6 +1879,17 @@ usman2014a = DB(WorkUnrelated(
     placex="Proceedings of the 10th International Conference on Predictive Models in Software Engineering",
 ))
 
+vacanti2014a = DB(WorkUnrelated(
+    2014, "Actionable Metrics at Siemens Health Services",
+    display="vacanti",
+    authors="Vacanti, D. and Vallet, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Vacanti2014",
+    placex="",
+))
+
 verner2014a = DB(WorkUnrelated(
     2014, "Risks and risk mitigation in global software development: A tertiary study",
     display="verner",
@@ -1787,6 +1903,33 @@ verner2014a = DB(WorkUnrelated(
     ID="verner2014risks",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+vlietland2014a = DB(WorkUnrelated(
+    2014, "Alignment issues in chains of scrum teams",
+    display="vlietland",
+    authors="Vlietland, J. and van Vliet, H.",
+    place=BIP,
+    pp="301-306",
+    entrytype="article",
+    volume="182 LNBIP",
+    doi="10.1007/978-3-319-08738-2",
+    note="cited By 1",
+    ID="Vlietland2014301",
+    placex="Lecture Notes in Business Information Processing",
+))
+
+vlietland2014b = DB(WorkUnrelated(
+    2014, "Improving IT incident handling performance with information visibility",
+    display="vlietland b",
+    authors="Vlietland, J. and Van Vliet, H.",
+    place=FAKE,
+    pp="1106-1127",
+    entrytype="article",
+    volume="26",
+    note="cited By 5",
+    ID="Vlietland20141106",
+    placex="J Softw Evol Process",
 ))
 
 wagner2014a = DB(WorkUnrelated(
@@ -1828,6 +1971,17 @@ whittle2014a = DB(WorkUnrelated(
     ID="whittle2014much",
     acm2016="1",
     placex="Proceedings of the 13th Participatory Design Conference: Research Papers-Volume 1",
+))
+
+wikipedia2014a = DB(WorkUnrelated(
+    2014, "Social_contract",
+    display="wikipedia",
+    authors="wikipedia",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1194",
+    ID="wikipedia2014",
+    placex="accessed site",
 ))
 
 winter2014a = DB(WorkUnrelated(

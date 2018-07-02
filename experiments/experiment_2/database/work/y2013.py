@@ -16,6 +16,20 @@ ahalt2013a = DB(WorkUnrelated(
     placex="Software Engineering for Computational Science and Engineering (SE-CSE), 2013 5th International Workshop on",
 ))
 
+alspaugh2013a = DB(WorkUnrelated(
+    2013, "Ongoing software development without classical requirements",
+    display="alspaugh",
+    authors="Alspaugh, T.A. and Scacchi, W.",
+    place=FAKE,
+    pp="165-174",
+    entrytype="conference",
+    doi="10.1109/RE.2013.6636716",
+    art_number="6636716",
+    note="cited By 19",
+    ID="Alspaugh2013165",
+    placex="2013 21st IEEE International Requirements Engineering Conference, RE 2013 - Proceedings",
+))
+
 andrade2013a = DB(WorkUnrelated(
     2013, "An architectural model for software testing lesson learned systems",
     display="andrade",
@@ -59,6 +73,17 @@ baca2013a = DB(WorkUnrelated(
     ID="baca2013countermeasure",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+beedle2013a = DB(WorkUnrelated(
+    2013, "Principles behind the Agile Manifesto",
+    display="beedle",
+    authors="Beedle, M., Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Highsmith, J.A.H., Jeffries, R., Kern, J., Marick, B., Martin, R.C., Schwaber, K., Sutherland, J., Thomas, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 99",
+    ID="Beedle2013",
+    placex="agile manifesto org",
 ))
 
 behrouzi2013a = DB(WorkUnrelated(
@@ -141,6 +166,21 @@ bustard2013a = DB(WorkUnrelated(
     placex="Innovations in Systems and Software Engineering",
 ))
 
+cajander2013a = DB(WorkUnrelated(
+    2013, "Existing but not explicit - The user perspective in scrum projects in practice",
+    display="cajander",
+    authors="Cajander, Å. and Larusdottir, M. and Gulliksen, J.",
+    place=FAKE,
+    pp="762-779",
+    entrytype="article",
+    volume="8119 LNCS",
+    number="PART 3",
+    doi="10.1007/978-3-642-40477-1_52",
+    note="cited By 18",
+    ID="Cajander2013762",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 cao2013a = DB(WorkUnrelated(
     2013, "Adapting funding processes for agile IT projects: an empirical investigation",
     display="cao",
@@ -206,6 +246,21 @@ cil2013a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+clarke2013a = DB(WorkUnrelated(
+    2013, "An empirical examination of the extent of software process improvement in software SMEs",
+    display="clarke",
+    authors="Clarke, P. and O'Connor, R.V.",
+    place=JSEP,
+    pp="981-998",
+    entrytype="article",
+    volume="25",
+    number="9",
+    doi="10.1002/smr.1580",
+    note="cited By 23",
+    ID="Clarke2013981",
+    placex="Journal of software: Evolution and Process",
+))
+
 codabux2013a = DB(WorkUnrelated(
     2013, "Managing technical debt: An industrial case study",
     display="codabux",
@@ -260,6 +315,17 @@ dahmann2013a = DB(WorkUnrelated(
     ID="dahmann2013systems",
     webofscience2016="1",
     placex="Systems Conference (SysCon), 2013 IEEE International",
+    doi="10.1109/SysCon.2013.6549905",
+    art_number="6549905",
+    note="cited By 1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883024391&doi=10.1109%2fSysCon.2013.6549905&partnerID=40&md5=d42f7833bd9a25ebd3187f6035910bdb",
+    document_type="Conference Paper",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
+    language="English",
+    copyright="Compendex",
+    address="Orlando, FL, United states",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 daneva2013a = DB(WorkUnrelated(
@@ -332,6 +398,43 @@ eloranta2013a = DB(WorkSnowball(
     selected_order="17",
 ))
 
+eloranta2013b = DB(WorkUnrelated(
+    2013, "Scrum ANTI-patterns - An empirical study",
+    display="eloranta b",
+    authors="Eloranta, V.-P. and Koskimies, K. and Mikkonen, T. and Vuorinen, J.",
+    place=FAKE,
+    pp="503-510",
+    entrytype="conference",
+    volume="1",
+    doi="10.1109/APSEC.2013.72",
+    art_number="6805443",
+    note="cited By 9",
+    ID="Eloranta2013503",
+    placex="Proceedings - Asia-Pacific Software Engineering Conference, APSEC",
+))
+
+eoyang2013a = DB(WorkUnrelated(
+    2013, "Human Systems Dynamics Professional Certification Training Manual",
+    display="eoyang",
+    authors="Eoyang, G.H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 4",
+    ID="Eoyang2013",
+    placex="",
+))
+
+eoyang2013b = DB(WorkUnrelated(
+    2013, "Adaptive Action: Leveraging Uncertainty in Your Organization",
+    display="eoyang b",
+    authors="Eoyang, G.H. and Holladay, R.J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 28",
+    ID="Eoyang2013",
+    placex="",
+))
+
 escalona2013a = DB(WorkUnrelated(
     2013, "Detecting Web requirements conflicts and inconsistencies under a model-based perspective",
     display="escalona",
@@ -345,6 +448,20 @@ escalona2013a = DB(WorkUnrelated(
     ID="escalona2013detecting",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+fitzgerald2013a = DB(WorkUnrelated(
+    2013, "Scaling agile methods to regulated environments: An industry case study",
+    display="fitzgerald",
+    authors="Fitzgerald, B. and Stol, K.-J. and O'Sullivan, R. and O'Brien, D.",
+    place=ICSE,
+    pp="863-872",
+    entrytype="conference",
+    doi="10.1109/ICSE.2013.6606635",
+    art_number="6606635",
+    note="cited By 54",
+    ID="Fitzgerald2013863",
+    placex="Proceedings - International Conference on Software Engineering",
 ))
 
 garvey2013a = DB(WorkUnrelated(
@@ -463,6 +580,19 @@ hamraz2013a = DB(WorkUnrelated(
     ID="hamraz2013holistic",
     wiley2016="1",
     placex="Systems Engineering",
+))
+
+heck2013a = DB(WorkUnrelated(
+    2013, "An analysis of requirements evolution in open source projects: Recommendations for issue trackers",
+    display="heck",
+    authors="Heck, P. and Zaidman, A.",
+    place=FAKE,
+    pp="43-52",
+    entrytype="conference",
+    doi="10.1145/2501543.2501550",
+    note="cited By 6",
+    ID="Heck201343",
+    placex="International Workshop on Principles of Software Evolution (IWPSE)",
 ))
 
 heesch2013a = DB(WorkUnrelated(
@@ -729,6 +859,20 @@ lane2013a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+larman2013a = DB(WorkUnrelated(
+    2013, "Scaling agile development",
+    display="larman",
+    authors="Larman, C. and Vodde, B.",
+    place=FAKE,
+    pp="8-12",
+    entrytype="article",
+    volume="26",
+    number="3",
+    note="cited By 6",
+    ID="Larman20138",
+    placex="CrossTalk",
+))
+
 macduffie2013a = DB(WorkUnrelated(
     2013, "Modularity-as-property, modularization-as-process, and ‘modularity'-as-frame: Lessons from product architecture initiatives in the global automotive industry",
     display="macduffie",
@@ -788,6 +932,19 @@ mcavoy2013a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+meingast2013a = DB(WorkUnrelated(
+    2013, "Agile and UX: The road to integration-The challenges of the UX practitioner in an agile environment",
+    display="meingast",
+    authors="Meingast, M. and Packard, H. and Ballew, T. and Edwards, R. and Nordquist, E. and Sader, C. and Smith, D.",
+    place=FAKE,
+    pp="1002-1006",
+    entrytype="conference",
+    doi="10.1177/1541931213571224",
+    note="cited By 3",
+    ID="Meingast20131002",
+    placex="Proceedings of the Human Factors and Ergonomics Society",
+))
+
 melo2013a = DB(WorkUnrelated(
     2013, "The evolution of agile software development in Brazil",
     display="melo",
@@ -819,6 +976,31 @@ melo2013b = DB(WorkUnrelated(
     ID="melo2013interpretative",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+moniruzzaman2013a = DB(WorkUnrelated(
+    2013, "Comparative Study on Agile Software Development Methodologies",
+    display="moniruzzaman",
+    authors="Moniruzzaman, A. and Hossain, D.S.A.",
+    place=arXiv,
+    entrytype="article",
+    note="cited By 5",
+    ID="Moniruzzaman2013",
+    placex="arXiv",
+))
+
+neely2013a = DB(WorkUnrelated(
+    2013, "Continuous delivery? Easy! Just change everything (well, maybe it is not that easy)",
+    display="neely",
+    authors="Neely, S. and Stolt, S.",
+    place=FAKE,
+    pp="121-128",
+    entrytype="conference",
+    doi="10.1109/AGILE.2013.17",
+    art_number="6612887",
+    note="cited By 39",
+    ID="Neely2013121",
+    placex="Proceedings - AGILE 2013",
 ))
 
 neto2013a = DB(WorkUnrelated(
@@ -1020,6 +1202,21 @@ qusef2013a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+raison2013a = DB(WorkUnrelated(
+    2013, "Keeping user centred design (UCD) alive and well in your organisation: Taking an agile approach",
+    display="raison",
+    authors="Raison, C. and Schmidt, S.",
+    place=FAKE,
+    pp="573-582",
+    entrytype="article",
+    volume="8012 LNCS",
+    number="PART 1",
+    doi="10.1007/978-3-642-39229-0_61",
+    note="cited By 9",
+    ID="Raison2013573",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
 raninen2013a = DB(WorkUnrelated(
     2013, "LAPPI: A light-weight technique to practical process modeling and improvement target identification",
     display="raninen",
@@ -1140,6 +1337,17 @@ schneider2013a = DB(WorkUnrelated(
     placex="International Journal of Information Management",
 ))
 
+schwaber2013a = DB(WorkUnrelated(
+    2013, "The Scrum Guide TM",
+    display="schwaber",
+    authors="Schwaber, K. and Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 209",
+    ID="Schwaber2013",
+    placex="Scrum",
+))
+
 sheffield2013a = DB(WorkUnrelated(
     2013, "Factors associated with the software development agility of successful projects",
     display="sheffield",
@@ -1168,6 +1376,20 @@ silva2013a = DB(WorkUnrelated(
     ID="da2013team",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+silva2013b = DB(WorkUnrelated(
+    2013, "Ten lessons learned from integrating interaction design and Agile development",
+    display="silva b",
+    authors="Da Silva, T.S. and Silveira, M.S. and Maurer, F.",
+    place=FAKE,
+    pp="42-49",
+    entrytype="conference",
+    doi="10.1109/AGILE.2013.11",
+    art_number="6612877",
+    note="cited By 10",
+    ID="DaSilva201342",
+    placex="Proceedings - AGILE 2013",
 ))
 
 stankovic2013a = DB(WorkUnrelated(
@@ -1230,6 +1452,53 @@ turner2013a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+vahtiohje2013a = DB(WorkUnrelated(
+    2013, "FMoF: Sovelluskehityksen Tietoturvaohje",
+    display="vahtiohje",
+    authors="vahtiohje",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="vahtiohje2013",
+    placex="",
+))
+
+vallon2013a = DB(WorkUnrelated(
+    2013, "Inter-organizational co-development with scrum: Experiences and lessons learned from a distributed corporate development environment",
+    display="vallon",
+    authors="Vallon, R. and Strobl, S. and Bernhart, M. and Grechenig, T.",
+    place=BIP,
+    pp="150-164",
+    entrytype="article",
+    volume="149",
+    doi="10.1007/978-3-642-38314-4_11",
+    note="cited By 2",
+    ID="Vallon2013150",
+    placex="Lecture Notes in Business Information Processing",
+))
+
+versionone2013a = DB(WorkUnrelated(
+    2013, "Retrieved from 7th Annual State of Agile Development Survey",
+    display="versionone",
+    authors="VersionOne",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="NoAuthor2013",
+    placex="",
+))
+
+versionone2013b = DB(WorkUnrelated(
+    2013, "VersionOne: 8th Annual State of Agile Survey",
+    display="versionone b",
+    authors="versionone",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="versionone2013",
+    placex="",
+))
+
 waardenburg2013a = DB(WorkSnowball(
     2013, "When agile meets the enterprise",
     display="waardenburg",
@@ -1247,6 +1516,18 @@ waardenburg2013a = DB(WorkSnowball(
     selected_order="20",
     sciencedirect2016="1",
     placex="Information and software technology",
+))
+
+wale2013a = DB(WorkUnrelated(
+    2013, "Usability work in agile systems development practice: A systematic review",
+    display="wale",
+    authors="Wale-Kolade, A. and Nielsen, P.A. and Päivärinta, T.",
+    place=FAKE,
+    pp="569-582",
+    entrytype="article",
+    note="cited By 4",
+    ID="Wale-Kolade2013569",
+    placex="Building Sustainable Information Systems",
 ))
 
 wasserman2013a = DB(WorkUnrelated(
@@ -1273,4 +1554,18 @@ wiklund2013a = DB(WorkUnrelated(
     ID="wiklund2013can",
     acm2016="1",
     placex="Proceedings of the 1st international workshop on conducting empirical studies in industry",
+))
+
+yamakami2013a = DB(WorkUnrelated(
+    2013, "Self-innovation skill-based change management: An approach toward flexible organizational management",
+    display="yamakami",
+    authors="Yamakami, T.",
+    place=FAKE,
+    pp="256-260",
+    entrytype="conference",
+    doi="10.1109/CGC.2013.47",
+    art_number="6686039",
+    note="cited By 1",
+    ID="Yamakami2013256",
+    placex="Proceedings - 2013 IEEE 3rd International Conference on Cloud and Green Computing, CGC 2013 and 2013 IEEE 3rd International Conference on Social Computing and Its Applications, SCA 2013",
 ))

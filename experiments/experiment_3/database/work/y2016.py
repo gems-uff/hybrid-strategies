@@ -44,6 +44,8 @@ aversano2016a = DB(WorkUnrelated(
     ID="aversano2016managing",
     gs2016="1",
     placex="Information and Software Technology",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958658482&doi=10.1016%2fj.infsof.2015.12.009&partnerID=40&md5=ca93cbbdd644a50aeb0c0216d4f35a7c",
+    scopus2016_duplicate_removed="1",
 ))
 
 cervantes2016a = DB(WorkUnrelated(
@@ -87,6 +89,8 @@ chen2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of Industrial Information Integration",
     sciencedirect2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010280254&doi=10.1016%2fj.jii.2016.04.004&partnerID=40&md5=c81aaf8eb7b924aa8d658c0d4530526c",
+    scopus2016_duplicate_removed="1",
 ))
 
 clarke2016a = DB(WorkUnrelated(
@@ -142,6 +146,9 @@ colomo2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Technologies and Innovation",
     springer2016="1",
+    volume="658",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84996957301&doi=10.1007%2f978-3-319-48024-4_14&partnerID=40&md5=4a5d295f8b13fb878d4511026a3fbc1f",
+    scopus2016_duplicate_removed="1",
 ))
 
 delhi2016a = DB(WorkUnrelated(
@@ -336,6 +343,8 @@ larrucea2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84965066556&doi=10.1016%2fj.csi.2016.04.004&partnerID=40&md5=365ea63ee0f467e5df8d19c568b08661",
+    scopus2016_duplicate_removed="1",
 ))
 
 lima2016a = DB(WorkUnrelated(
@@ -390,6 +399,11 @@ prabu2016a = DB(WorkUnrelated(
     ID="prabu2016asoftware",
     gs2016="1",
     placex="International Journal of Control Theory and Applications",
+    pp="11-17",
+    volume="9",
+    number="27",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007106919&partnerID=40&md5=7f9c976b937a4bcc1f7034e3ba6e9683",
+    scopus2016_duplicate_removed="1",
 ))
 
 pícha2016a = DB(WorkUnrelated(
@@ -403,6 +417,9 @@ pícha2016a = DB(WorkUnrelated(
     ID="picha2016alm",
     gs2016="1",
     placex="Software Engineering and Advanced Applications (SEAA), 2016 42th Euromicro Conference on",
+    art_number="7592768",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020757592&doi=10.1109%2fSEAA.2016.37&partnerID=40&md5=6bcc0286848b0302aeb616d24b6c474f",
+    scopus2016_duplicate_removed="1",
 ))
 
 ralph2016a = DB(WorkUnrelated(
@@ -417,6 +434,8 @@ ralph2016a = DB(WorkUnrelated(
     ID="ralph2016software",
     gs2016="1",
     placex="Information and Software Technology",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949533182&doi=10.1016%2fj.infsof.2015.06.010&partnerID=40&md5=f545aa6363dc6b697dddb1b844b095d4",
+    scopus2016_duplicate_removed="1",
 ))
 
 
@@ -458,6 +477,9 @@ silva2016a = DB(WorkUnrelated(
     ID="silva2016process",
     gs2016="1",
     placex="Software Engineering Perspectives and Application in Intelligent Systems",
+    volume="465",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964734943&doi=10.1007%2f978-3-319-33622-0_27&partnerID=40&md5=ab32c36560a0f8679c43354523cfbd80",
+    scopus2016_duplicate_removed="1",
 ))
 
 stojanov2016a = DB(WorkUnrelated(

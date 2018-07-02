@@ -187,6 +187,17 @@ bruegge2015a = DB(WorkUnrelated(
     placex="ACM Transactions on Computing Education (TOCE)",
 ))
 
+bsimm2015a = DB(WorkUnrelated(
+    2015, "Building Security In Maturity Model",
+    display="bsimm",
+    authors="BSIMM",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3",
+    ID="BSIMM2015",
+    placex="",
+))
+
 campanelli2015a = DB(WorkUnrelated(
     2015, "Agile methods tailoring--A systematic literature review",
     display="campanelli",
@@ -365,6 +376,17 @@ edison2015a = DB(WorkUnrelated(
     ID="edison2015lean",
     acm2016="1",
     placex="Scientific Workshop Proceedings of the XP2015",
+))
+
+eloranta2015a = DB(WorkUnrelated(
+    2015, "Interview Questions",
+    display="eloranta",
+    authors="Eloranta, V.-P.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Eloranta2015interview",
+    placex="accessed site",
 ))
 
 elverum2015a = DB(WorkUnrelated(
@@ -1116,6 +1138,17 @@ olszewska2015a = DB(WorkUnrelated(
     placex="Proceedings of the 1st International Workshop on Quality-Aware DevOps",
 ))
 
+org2015a = DB(WorkUnrelated(
+    2015, "Scrum homepage",
+    display="org",
+    authors="Scrum Org",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="ScrumOrg2015",
+    placex="ScrumButs and Modifying Scrum",
+))
+
 ortu2015a = DB(WorkUnrelated(
     2015, "The JIRA repository dataset: Understanding social aspects of software development",
     display="ortu",
@@ -1217,6 +1250,17 @@ perkusich2015a = DB(WorkUnrelated(
     ID="perkusich2015procedure",
     sciencedirect2016="1",
     placex="Expert Systems with Applications",
+))
+
+pilcher2015a = DB(WorkUnrelated(
+    2015, "The Definition of Ready",
+    display="pilcher",
+    authors="Pilcher, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Pilcher2015",
+    placex="accessed site",
 ))
 
 plonka2015a = DB(WorkUnrelated(
@@ -1324,6 +1368,11 @@ rindell2015a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     scopus2016="1",
+    language="English",
+    copyright="Compendex",
+    issn="16130073",
+    address="Tampere, Finland",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 rindell2015b = DB(WorkUnrelated(
@@ -1337,6 +1386,9 @@ rindell2015b = DB(WorkUnrelated(
     ID="rindell2015comparison",
     acm2016="1",
     placex="Proceedings of the 16th International Conference on Computer Systems and Technologies",
+    volume="1008",
+    doi="10.1145/2812428.2812431",
+    note="cited By 4",
 ))
 
 rizvi2015a = DB(WorkUnrelated(
@@ -1664,6 +1716,8 @@ stettina2015a = DB(WorkUnrelated(
     ID="stettina2015agile",
     sciencedirect2016="1",
     placex="International Journal of Project Management",
+    doi="10.1016/j.ijproman.2014.03.008",
+    note="cited By 27",
 ))
 
 stevens2015a = DB(WorkUnrelated(
@@ -1744,6 +1798,28 @@ unterkalmsteiner2015a = DB(WorkUnrelated(
     placex="Journal of systems and software",
 ))
 
+vahtiohje2015a = DB(WorkUnrelated(
+    2015, "Teknisen ympäristön tietoturvataso-ohje",
+    display="vahtiohje",
+    authors="vahtiohje",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="vahtiohje2015",
+    placex="accessed site",
+))
+
+vahtiohje2015b = DB(WorkUnrelated(
+    2015, "FMoF: Vahti-ohj",
+    display="vahtiohje b",
+    authors="vahtiohje",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="vahtiohje2015",
+    placex="",
+))
+
 vlietland2015a = DB(WorkSnowball(
     2015, "Towards a governance framework for chains of Scrum teams",
     display="vlietland",
@@ -1760,6 +1836,9 @@ vlietland2015a = DB(WorkSnowball(
     selected_order="4",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+    number="1",
+    doi="10.1016/j.infsof.2014.08.008",
+    note="cited By 13",
 ))
 
 wale2015a = DB(WorkSnowball(

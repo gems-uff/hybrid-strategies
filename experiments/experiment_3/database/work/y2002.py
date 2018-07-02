@@ -82,6 +82,9 @@ ruiz2002a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    volume="2559",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949946857&partnerID=40&md5=2db3e294fb79fbbd65b6d2e14e09642c",
+    scopus2016_duplicate_removed="1",
 ))
 
 schleicher2002a = DB(WorkUnrelated(

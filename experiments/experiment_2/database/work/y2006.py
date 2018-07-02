@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acm2006a = DB(WorkUnrelated(
+    2006, "Flexible and distributed software processes: Old petunias in new bowls?",
+    display="acm",
+    authors="ACM",
+    place=CACM,
+    pp="27-34",
+    entrytype="article",
+    volume="49",
+    number="10",
+    note="cited By 122",
+    ID="acm200627",
+    placex="Communications of the ACM",
+))
+
 ali2006a = DB(WorkUnrelated(
     2006, "Imparting effective software engineering education",
     display="ali",
@@ -88,6 +102,12 @@ boehm2006a = DB(WorkUnrelated(
     ID="boehm2006some",
     wiley2016="1",
     placex="Systems Engineering",
+    doi="10.1002/sys.20044",
+    note="cited By 105",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644684772&doi=10.1002%2fsys.20044&partnerID=40&md5=300d1e31b0a13e9ccac17d5fac1aee2e",
+    document_type="Review",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
 ))
 
 boehm2006b = DB(WorkUnrelated(
@@ -103,6 +123,21 @@ boehm2006b = DB(WorkUnrelated(
     ID="boehm20066",
     wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+boivie2006a = DB(WorkUnrelated(
+    2006, "The lonesome cowboy: A study of the usability designer role in systems development",
+    display="boivie",
+    authors="Boivie, I. and Gulliksen, J. and Göransson, B.",
+    place=FAKE,
+    pp="601-634",
+    entrytype="article",
+    volume="18",
+    number="4",
+    doi="10.1016/j.intcom.2005.10.003",
+    note="cited By 48",
+    ID="Boivie2006601",
+    placex="Interacting with Computers",
 ))
 
 boström2006a = DB(WorkUnrelated(
@@ -131,6 +166,12 @@ browning2006a = DB(WorkUnrelated(
     ID="browning2006key",
     wiley2016="1",
     placex="Systems Engineering",
+    doi="10.1002/sys.20047",
+    note="cited By 155",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33744490407&doi=10.1002%2fsys.20047&partnerID=40&md5=85d3d6dbc275b8edcaf8f311b9ba8edc",
+    document_type="Article",
+    source="Scopus",
+    scopus2016_duplicate_removed="1",
 ))
 
 carlsson2006a = DB(WorkUnrelated(
@@ -144,6 +185,19 @@ carlsson2006a = DB(WorkUnrelated(
     ID="carlsson2006eunit",
     acm2016="1",
     placex="Proceedings of the 2006 ACM SIGPLAN workshop on Erlang",
+))
+
+chamberlain2006a = DB(WorkUnrelated(
+    2006, "Towards a framework for integrating agile development and user-centred design",
+    display="chamberlain",
+    authors="Chamberlain, S. and Sharp, H. and Maiden, N.",
+    place=FAKE,
+    pp="143-153",
+    entrytype="article",
+    volume="4044 LNCS",
+    note="cited By 91",
+    ID="Chamberlain2006143",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 christov2006a = DB(WorkUnrelated(
@@ -247,6 +301,17 @@ davies2006a = DB(WorkUnrelated(
     placex="Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications",
 ))
 
+derby2006a = DB(WorkUnrelated(
+    2006, "Agile Retrospectives: Making Good Teams Great",
+    display="derby",
+    authors="Derby, E. and Larsen, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 72",
+    ID="Derby2006",
+    placex="",
+))
+
 dowlatshahi2006a = DB(WorkUnrelated(
     2006, "The relationships among virtual enterprise, information technology, and business performance in agile manufacturing: An industry perspective",
     display="dowlatshahi",
@@ -278,6 +343,7 @@ fitzgerald2006a = DB(WorkUnrelated(
     ID="Fitzgerald2006",
     springer2016="1",
     placex="European Journal of Information Systems",
+    note="cited By 176",
 ))
 
 fraser2006a = DB(WorkUnrelated(
@@ -304,6 +370,17 @@ ge2006a = DB(WorkUnrelated(
     ID="ge2006agile",
     acm2016="1",
     placex="Proceedings of the 6th international conference on Web engineering",
+))
+
+geneva2006a = DB(WorkUnrelated(
+    2006, "Ergonomics of human-system interaction",
+    display="geneva",
+    authors="Iso Geneva",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 204",
+    ID="iso2006",
+    placex="Iso Geneva",
 ))
 
 goldsby2006a = DB(WorkUnrelated(
@@ -375,6 +452,21 @@ hazzan2006b = DB(WorkUnrelated(
     ID="hazzan2006concept",
     acm2016="1",
     placex="Proceedings of the 2006 international workshop on Software technology transfer in software engineering",
+))
+
+jos2006a = DB(WorkUnrelated(
+    2006, "Social contract theory: Implications for professional ethics",
+    display="jos",
+    authors="Jos, P.H.",
+    place=FAKE,
+    pp="139-155",
+    entrytype="article",
+    volume="36",
+    number="2",
+    doi="10.1177/0275074005282860",
+    note="cited By 6",
+    ID="Jos2006139",
+    placex="American Review of Public Administration",
 ))
 
 kazman2006a = DB(WorkUnrelated(
@@ -451,6 +543,32 @@ lee2006a = DB(WorkUnrelated(
     ID="lee2006embracing",
     acm2016="1",
     placex="CHI'06 Extended Abstracts on Human Factors in Computing Systems",
+))
+
+lievesley2006a = DB(WorkUnrelated(
+    2006, "The Role of the Interaction Designer in An Agile Software Development Process",
+    display="lievesley",
+    authors="Lievesley, M.A. and Yee, J.S.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Lievesley2006",
+    placex="ACM",
+))
+
+lim2006a = DB(WorkUnrelated(
+    2006, "Team mental models and team performance: A field study of the effects of team mental model similarity and accuracy",
+    display="lim",
+    authors="Lim, B.-C. and Klein, K.J.",
+    place=FAKE,
+    pp="403-418",
+    entrytype="article",
+    volume="27",
+    number="4",
+    doi="10.1002/job.387",
+    note="cited By 237",
+    ID="Lim2006403",
+    placex="Journal of Organizational Behavior",
 ))
 
 mackertich2006a = DB(WorkUnrelated(
@@ -554,6 +672,21 @@ navoraphan2006a = DB(WorkUnrelated(
     ID="navoraphan2006next",
     acm2016="1",
     placex="Proceedings of the 2006 OOPSLA workshop on eclipse technology eXchange",
+))
+
+norman2006a = DB(WorkUnrelated(
+    2006, "Why doing user observations first is wrong",
+    display="norman",
+    authors="Norman, D.",
+    place=FAKE,
+    pp="50+63",
+    entrytype="article",
+    volume="13",
+    number="4",
+    doi="10.1145/1142169.1142199",
+    note="cited By 11",
+    ID="Norman2006",
+    placex="Interactions",
 ))
 
 olague2006a = DB(WorkUnrelated(
@@ -759,6 +892,30 @@ syed2006a = DB(WorkUnrelated(
     ID="Syed-Abdullah2006",
     springer2016="1",
     placex="Empirical Software Engineering",
+))
+
+tabaka2006a = DB(WorkUnrelated(
+    2006, "Collaboration Explained: Facilitation Skills for Software Project Leaders",
+    display="tabaka",
+    authors="Tabaka, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 27",
+    ID="Tabaka2006",
+    placex="Addison-Wesley Professional",
+))
+
+tiem2006a = DB(WorkUnrelated(
+    2006, "Hidden order of human performance technology",
+    display="tiem",
+    authors="Van Tiem, D.M. and Karve, S. and Rosenzweig, J.",
+    place=FAKE,
+    pp="1251-1273",
+    entrytype="article",
+    volume="1251",
+    note="cited By 1",
+    ID="VanTiem20061251",
+    placex="Handbook of Human Performance Technology",
 ))
 
 wang2006a = DB(WorkUnrelated(

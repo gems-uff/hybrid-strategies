@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+adzic2011a = DB(WorkUnrelated(
+    2011, "Specification by Example: How Successful Teams Deliver the Right Software",
+    display="adzic",
+    authors="Adzic, G.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 31",
+    ID="Adzic2011",
+    placex="Manning Publications",
+))
+
 agarwal2011a = DB(WorkUnrelated(
     2011, "Continuous SCRUM: agile management of SAAS products",
     display="agarwal",
@@ -14,6 +25,21 @@ agarwal2011a = DB(WorkUnrelated(
     ID="agarwal2011continuous",
     acm2016="1",
     placex="Proceedings of the 4th India Software Engineering Conference",
+))
+
+akbar2011a = DB(WorkUnrelated(
+    2011, "A review of prominent work on agile processes software process improvement and process tailoring practices",
+    display="akbar",
+    authors="Akbar, R. and Hassan, M.F. and Abdullah, A.",
+    place=CCIS,
+    pp="571-585",
+    entrytype="article",
+    volume="181 CCIS",
+    number="PART 3",
+    doi="10.1007/978-3-642-22203-0_49",
+    note="cited By 2",
+    ID="Akbar2011571",
+    placex="Communications in Computer and Information Science",
 ))
 
 amiri2011a = DB(WorkUnrelated(
@@ -44,6 +70,17 @@ andré2011a = DB(WorkUnrelated(
     ID="andre2011formal",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+appelo2011a = DB(WorkUnrelated(
+    2011, "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
+    display="appelo",
+    authors="Appelo, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 34",
+    ID="Appelo2011",
+    placex="",
 ))
 
 asuncion2011a = DB(WorkUnrelated(
@@ -161,6 +198,10 @@ barhorst2011a = DB(WorkUnrelated(
     ID="Barhorst2011",
     scopus2016="1",
     placex="AIAA Infotech at Aerospace Conference and Exhibit 2011",
+    pp="American Institute of Aeronautics and Astronautics (AIAA) -",
+    language="English",
+    copyright="Compendex",
+    elcompendex2016_duplicate_removed="1",
 ))
 
 baxter2011a = DB(WorkUnrelated(
@@ -219,6 +260,35 @@ bowen2011a = DB(WorkUnrelated(
     ID="bowen2011ui",
     acm2016="1",
     placex="Proceedings of the 3rd ACM SIGCHI symposium on Engineering interactive computing systems",
+))
+
+brown2011a = DB(WorkUnrelated(
+    2011, "Collaborative events and shared artefacts: Agile interaction designers and developers working toward common aims",
+    display="brown",
+    authors="Brown, J.M. and Lindgaard, G. and Biddle, R.",
+    place=FAKE,
+    pp="87-96",
+    entrytype="conference",
+    doi="10.1109/AGILE.2011.45",
+    art_number="6005489",
+    note="cited By 11",
+    ID="Brown201187",
+    placex="Proceedings - 2011 Agile Conference, Agile 2011",
+))
+
+bygstad2011a = DB(WorkUnrelated(
+    2011, "Exploring the role of informants in interpretive case study research in IS",
+    display="bygstad",
+    authors="Bygstad, B. and Munkvold, B.E.",
+    place=FAKE,
+    pp="32-45",
+    entrytype="article",
+    volume="26",
+    number="1",
+    doi="10.1057/jit.2010.15",
+    note="cited By 19",
+    ID="Bygstad201132",
+    placex="Journal of Information Technology",
 ))
 
 cruzes2011a = DB(WorkUnrelated(
@@ -371,6 +441,8 @@ ferreira2011a = DB(WorkUnrelated(
     ID="ferreira2011user",
     wiley2016="1",
     placex="Software: Practice and Experience",
+    doi="10.1002/spe.1012",
+    note="cited By 27",
 ))
 
 fishman2011a = DB(WorkUnrelated(
@@ -550,6 +622,9 @@ hoda2011a = DB(WorkSnowball(
     source="Scopus",
     scopus2016="1",
     placex="Information and Software Technology",
+    issn="0950-5849",
+    keyword="Agile Undercover",
+    sciencedirect2016_duplicate_removed="1",
 ))
 
 hope2011a = DB(WorkUnrelated(
@@ -593,6 +668,20 @@ iivari2011a = DB(WorkUnrelated(
     ID="iivari2011relationship",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+jonker2011a = DB(WorkUnrelated(
+    2011, "Shared mental models",
+    display="jonker",
+    authors="Jonker, C.M. and Van Riemsdijk, M.B. and Vermeulen, B.",
+    place=FAKE,
+    pp="132-151",
+    entrytype="article",
+    volume="6541 LNAI",
+    doi="10.1007/978-3-642-21268-0_8",
+    note="cited By 23",
+    ID="Jonker2011132",
+    placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
 kayes2011a = DB(WorkUnrelated(
@@ -677,6 +766,17 @@ koh2011a = DB(WorkUnrelated(
     placex="The Journal of Strategic Information Systems",
 ))
 
+lapham2011a = DB(WorkUnrelated(
+    2011, "Agile Methods: Selected DoD Management and Acquisition Concerns",
+    display="lapham",
+    authors="Lapham, M.A. and Miller, S. and Adams, L. and Brown, N. and Hackemack, B. and Hammons, C. and Levine, L. and Schenker, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 7",
+    ID="Lapham2011",
+    placex="",
+))
+
 lee2011a = DB(WorkUnrelated(
     2011, "Automated scheduling for clone-based refactoring using a competent GA",
     display="lee",
@@ -690,6 +790,28 @@ lee2011a = DB(WorkUnrelated(
     ID="lee2011automated",
     wiley2016="1",
     placex="Software: Practice and Experience",
+))
+
+lee2011b = DB(WorkUnrelated(
+    2011, "Evaluating EXtreme Scenario-based Design in A Distributed Agile Team",
+    display="lee b",
+    authors="Lee, J.C. and Judge, T.K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Lee2011",
+    placex="ACM",
+))
+
+leffingwell2011a = DB(WorkUnrelated(
+    2011, "Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise",
+    display="leffingwell",
+    authors="Leffingwell, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 144",
+    ID="Leffingwell2011",
+    placex="Addison-Wesley Professional Agile Software Requirements",
 ))
 
 li2011a = DB(WorkUnrelated(
@@ -933,6 +1055,30 @@ post2011a = DB(WorkUnrelated(
     placex="Proceedings - 2010 DoD High Performance Computing Modernization Program Users Group Conference, HPCMP UGC 2010",
 ))
 
+power2011a = DB(WorkUnrelated(
+    2011, "Definition of Ready",
+    display="power",
+    authors="Power, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Power2011",
+    placex="accessed",
+))
+
+rautiainen2011a = DB(WorkUnrelated(
+    2011, "Supporting scaling agile with portfolio management: Case Paf.com",
+    display="rautiainen",
+    authors="Rautiainen, K. and Von Schantz, J. and Vähäniitty, J.",
+    place=FAKE,
+    entrytype="conference",
+    doi="10.1109/HICSS.2011.390",
+    art_number="5718993",
+    note="cited By 8",
+    ID="Rautiainen2011",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
+))
+
 rohn2011a = DB(WorkUnrelated(
     2011, "Managing UX teams",
     display="rohn",
@@ -956,6 +1102,56 @@ scharff2011a = DB(WorkUnrelated(
     ID="scharff2011evolving",
     acm2016="1",
     placex="CTGDSD@ ICSE",
+))
+
+schnitter2011a = DB(WorkUnrelated(
+    2011, "Large-Scale Agile Software Development at SAP AG",
+    display="schnitter",
+    authors="Schnitter, J. and Mackert, O.",
+    place=CCIS,
+    pp="209-220",
+    entrytype="article",
+    volume="230",
+    doi="10.1007/978-3-642-23391-3_15",
+    note="cited By 7",
+    ID="Schnitter2011209",
+    placex="Communications in Computer and Information Science",
+))
+
+schwaber2011a = DB(WorkUnrelated(
+    2011, "The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game",
+    display="schwaber",
+    authors="Schwaber, K. and Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 81",
+    ID="Schwaber2011",
+    placex="accessed site",
+))
+
+schwaber2011b = DB(WorkUnrelated(
+    2011, "Scrum Guide",
+    display="schwaber b",
+    authors="Schwaber, K. and Sutherland, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 210",
+    ID="Schwaber2011",
+    placex="",
+))
+
+sein2011a = DB(WorkUnrelated(
+    2011, "Action design research",
+    display="sein",
+    authors="Sein, M.K. and Henfridsson, O. and Purao, S. and Rossi, M. and Lindgren, R.",
+    place=FAKE,
+    pp="37-56",
+    entrytype="article",
+    volume="35",
+    number="1",
+    note="cited By 504",
+    ID="Sein201137",
+    placex="MIS Quarterly: Management Information Systems",
 ))
 
 shen2011a = DB(WorkUnrelated(
@@ -1001,6 +1197,20 @@ silva2011a = DB(WorkUnrelated(
     ID="da2011agile",
     wiley2016="1",
     placex="Software: Practice and Experience",
+))
+
+silva2011b = DB(WorkUnrelated(
+    2011, "User-centered design and agile methods: A systematic review",
+    display="silva b",
+    authors="Da Silva, T.S. and Martin, A. and Maurer, F. and Silveira, M.",
+    place=FAKE,
+    pp="77-86",
+    entrytype="conference",
+    doi="10.1109/AGILE.2011.24",
+    art_number="6005488",
+    note="cited By 86",
+    ID="DaSilva201177",
+    placex="Proceedings - 2011 Agile Conference, Agile 2011",
 ))
 
 sletholt2011a = DB(WorkUnrelated(
@@ -1061,6 +1271,17 @@ sz2011a = DB(WorkUnrelated(
     placex="Information and software technology",
 ))
 
+tfsc2011a = DB(WorkUnrelated(
+    2011, "Retrieved from the Changing Face of Payments - A Review of Current Payments Infrastructures, Drivers for Change and Implications for the Future",
+    display="tfsc",
+    authors="TFSC",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="TFSC2011",
+    placex="",
+))
+
 toews2011a = DB(WorkUnrelated(
     2011, "An internationally distributed cloud for science: the cloud-enabled space weather platform",
     display="toews",
@@ -1089,6 +1310,21 @@ tolfo2011a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+vasconcelos2011a = DB(WorkUnrelated(
+    2011, "Complexity in business environments",
+    display="vasconcelos",
+    authors="Vasconcelos, F.C. and Ramirez, R.",
+    place=FAKE,
+    pp="236-241",
+    entrytype="article",
+    volume="64",
+    number="3",
+    doi="10.1016/j.jbusres.2009.11.007",
+    note="cited By 24",
+    ID="Vasconcelos2011236",
+    placex="Journal of Business Research",
+))
+
 vlaanderen2011a = DB(WorkUnrelated(
     2011, "The agile requirements refinery: Applying SCRUM principles to software product management",
     display="vlaanderen",
@@ -1102,6 +1338,8 @@ vlaanderen2011a = DB(WorkUnrelated(
     ID="vlaanderen2011agile",
     sciencedirect2016="1",
     placex="Information and software technology",
+    doi="10.1016/j.infsof.2010.08.004",
+    note="cited By 57",
 ))
 
 watcharapanyawong2011a = DB(WorkUnrelated(

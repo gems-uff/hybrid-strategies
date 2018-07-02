@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahamsson2003a = DB(WorkUnrelated(
+    2003, "New directions on agile methods: A comparative analysis",
+    display="abrahamsson",
+    authors="Abrahamsson, P. and Warsta, J. and Siponen, M.T. and Ronkainen, J.",
+    place=ICSE,
+    pp="244-254",
+    entrytype="conference",
+    note="cited By 335",
+    ID="Abrahamsson2003244",
+    placex="Proceedings - International Conference on Software Engineering",
+))
+
 beckley2003a = DB(WorkUnrelated(
     2003, "2.6. 2 Evolution of Agile Processes on a Small Program",
     display="beckley",
@@ -48,6 +60,17 @@ currie2003a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+emery2003a = DB(WorkUnrelated(
+    2003, "The Second Directive",
+    display="emery",
+    authors="Emery, D.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Emery2003",
+    placex="",
+))
+
 georgiadou2003a = DB(WorkUnrelated(
     2003, "Software process and product improvement: a historical perspective",
     display="georgiadou",
@@ -78,6 +101,17 @@ hayes2003a = DB(WorkUnrelated(
     ID="huffman2003observe",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+jeffries2003a = DB(WorkUnrelated(
+    2003, "Fractional Scrum, or scrum-But",
+    display="jeffries",
+    authors="Jeffries, R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Jeffries2013",
+    placex="AgileAtlas",
 ))
 
 joglekar2003a = DB(WorkUnrelated(
@@ -140,6 +174,21 @@ mroczek2003a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+paasivaara2003a = DB(WorkUnrelated(
+    2003, "Collaboration practices in global inter-organizational software development projects",
+    display="paasivaara",
+    authors="Paasivaara, M. and Lassenius, C.",
+    place=SPIP,
+    pp="183-199",
+    entrytype="article",
+    volume="8",
+    number="4",
+    doi="10.1002/spip.187",
+    note="cited By 72",
+    ID="Paasivaara2003183",
+    placex="Software Process Improvement and Practice",
+))
+
 pierreval2003a = DB(WorkUnrelated(
     2003, "Evolutionary approaches to the design and organization of manufacturing systems",
     display="pierreval",
@@ -155,6 +204,17 @@ pierreval2003a = DB(WorkUnrelated(
     placex="Computers & Industrial Engineering",
 ))
 
+qvortrup2003a = DB(WorkUnrelated(
+    2003, "The political philosophy of Jean-Jacques Rousseau: The impossibilty of reason",
+    display="qvortrup",
+    authors="Qvortrup, M.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 10",
+    ID="Qvortrup2003",
+    placex="Manchester University Press",
+))
+
 siebel2003a = DB(WorkUnrelated(
     2003, "Latitudinal and longitudinal process diversity",
     display="siebel",
@@ -168,6 +228,32 @@ siebel2003a = DB(WorkUnrelated(
     ID="siebel2003latitudinal",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+wake2003a = DB(WorkUnrelated(
+    2003, "INVEST in Good Stories, and SMART Tasks",
+    display="wake",
+    authors="Wake, B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 21",
+    ID="Wake2003",
+    placex="accessed site",
+))
+
+williams2003a = DB(WorkUnrelated(
+    2003, "Agile software development: It's about feedback and change",
+    display="williams",
+    authors="Williams, L. and Cockburn, A.",
+    place=C,
+    pp="39-43",
+    entrytype="article",
+    volume="36",
+    number="6",
+    doi="10.1109/MC.2003.1204373",
+    note="cited By 144",
+    ID="Williams200339",
+    placex="Computer",
 ))
 
 wilson2003a = DB(WorkUnrelated(

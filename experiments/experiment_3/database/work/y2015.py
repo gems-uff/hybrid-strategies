@@ -135,6 +135,9 @@ buglione2015a = DB(WorkUnrelated(
     ID="buglione2015software",
     gs2016="1",
     placex="Software Measurement",
+    volume="230",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951281712&doi=10.1007%2f978-3-319-24285-9_3&partnerID=40&md5=577db60b364aa6a5d38a01470e051bbd",
+    scopus2016_duplicate_removed="1",
 ))
 
 carpio2015a = DB(WorkUnrelated(
@@ -149,6 +152,9 @@ carpio2015a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+    volume="526",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937433656&doi=10.1007%2f978-3-319-19860-6_16&partnerID=40&md5=13bb2ab413376e3f33b6ce18e822b5b0",
+    scopus2016_duplicate_removed="1",
 ))
 
 feloni2015a = DB(WorkUnrelated(
@@ -161,6 +167,8 @@ feloni2015a = DB(WorkUnrelated(
     ID="feloni2015methodologies",
     gs2016="1",
     placex="XVIII Ibero-American Conference on Software Engineering (CIbSE)",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84936132896&partnerID=40&md5=05f39184c82e863f80cb931f777ad80c",
+    scopus2016_duplicate_removed="1",
 ))
 
 fernandes2015a = DB(WorkUnrelated(
@@ -321,6 +329,8 @@ lema2015a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939494936&doi=10.1002%2fsmr.1727&partnerID=40&md5=5d0d6921a3ea07ca419dc126e4966092",
+    scopus2016_duplicate_removed="1",
 ))
 
 mesquida2015a = DB(WorkUnrelated(
@@ -335,6 +345,8 @@ mesquida2015a = DB(WorkUnrelated(
     ID="mesquida2015implementing",
     gs2016="1",
     placex="Computers & Security",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908268449&doi=10.1016%2fj.cose.2014.09.003&partnerID=40&md5=7ed5c55b4de0d6fd658539028ba08f5c",
+    scopus2016_duplicate_removed="1",
 ))
 
 messnarz2015a = DB(WorkUnrelated(
@@ -362,6 +374,8 @@ morales2015a = DB(WorkUnrelated(
     gs2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937540473&doi=10.1016%2fj.csi.2015.05.001&partnerID=40&md5=bb25c52faa2fd1a026737e43b155af26",
+    scopus2016_duplicate_removed="1",
 ))
 
 moreta2015a = DB(WorkUnrelated(
@@ -441,6 +455,9 @@ ruy2015a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=1555528468121159175&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Proceedings of the 30th Annual ACM Symposium on Applied Computing",
+    volume="13-17-April-2015",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955504362&doi=10.1145%2f2695664.2695796&partnerID=40&md5=4f0a7151062ea9513be1238bd75bddac",
+    scopus2016_duplicate_removed="1",
 ))
 
 ruy2015b = DB(WorkUnrelated(
@@ -471,6 +488,9 @@ samuel2015a = DB(WorkUnrelated(
     ID="samuel2015customizing",
     gs2016="1",
     placex="IEEE Transactions on Software Engineering",
+    art_number="6898868",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921342444&doi=10.1109%2fTSE.2014.2354043&partnerID=40&md5=217195e5f21d5712f572ec64c7054321",
+    scopus2016_duplicate_removed="1",
 ))
 
 shekhovtsov2015a = DB(WorkUnrelated(
@@ -510,6 +530,8 @@ tanrıöver2015a = DB(WorkUnrelated(
     ID="tanriover2015process",
     gs2016="1",
     placex="Computer Standards & Interfaces",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908659446&doi=10.1016%2fj.csi.2014.05.003&partnerID=40&md5=1f25e0ff0cafbdfad353fb727ecb39e4",
+    scopus2016_duplicate_removed="1",
 ))
 
 tarhan2015a = DB(WorkUnrelated(
@@ -525,6 +547,9 @@ tarhan2015a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=9696259495684213434&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Software Engineering and Advanced Applications (SEAA), 2015 41st Euromicro Conference on",
+    art_number="7302485",
+    link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958260485&doi=10.1109%2fSEAA.2015.50&partnerID=40&md5=50674d3611ae7cb05eb82200b1bd33b3",
+    scopus2016_duplicate_removed="1",
 ))
 
 yatsko2015a = DB(WorkUnrelated(
