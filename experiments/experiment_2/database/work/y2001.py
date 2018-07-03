@@ -25,6 +25,17 @@ beck2001a = DB(WorkUnrelated(
     placex="Manifesto for Agile Software Development",
 ))
 
+beck2001b = DB(WorkUnrelated(
+    2001, "Principles behind the Agile Manifesto",
+    display="beck b",
+    authors="Beck, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 99",
+    ID="Beck2001",
+    placex="Principles behind the Agile Manifesto",
+))
+
 cockburn2001a = DB(WorkUnrelated(
     2001, "Agile software development: The people factor",
     display="cockburn",
@@ -113,6 +124,21 @@ kerth2001a = DB(WorkUnrelated(
     placex="",
 ))
 
+knight2001a = DB(WorkUnrelated(
+    2001, "Casper: Space Exploration through Continuous Planning",
+    display="knight",
+    authors="Knight, R. and Rabideau, G. and Chien, S. and Engelhardt, B. and Sherwood, R.",
+    place=FAKE,
+    pp="70-75",
+    entrytype="article",
+    volume="16",
+    number="5",
+    doi="10.1109/MIS.2001.956084",
+    note="cited By 55",
+    ID="Knight200170",
+    placex="IEEE Intelligent Systems",
+))
+
 kroemer2001a = DB(WorkUnrelated(
     2001, "Keyboards and keying An annotated bibliography of the literature from 1878 to 1999",
     display="kroemer",
@@ -135,6 +161,20 @@ manifesto2001a = DB(WorkUnrelated(
     note="cited By 1",
     ID="agile2001agile",
     placex="accessed site",
+))
+
+mentzer2001a = DB(WorkUnrelated(
+    2001, "Defining supply chain management",
+    display="mentzer",
+    authors="Mentzer, J.T. and Dewitt, W. and Keebler, J.S. and Min, S. and Nix, N.W. and Smith, C.D. and Zacharia, Z.G.",
+    place=FAKE,
+    pp="1-25",
+    entrytype="article",
+    volume="22",
+    number="2",
+    note="cited By 1407",
+    ID="Mentzer20011",
+    placex="Journal of Business Logistics",
 ))
 
 olson2001a = DB(WorkUnrelated(

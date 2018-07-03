@@ -370,6 +370,7 @@ dove2014a = DB(WorkUnrelated(
     ID="dove20148",
     wiley2016="1",
     placex="INCOSE international symposium",
+    note="cited By 1",
 ))
 
 dove2014b = DB(WorkUnrelated(
@@ -514,6 +515,7 @@ fitzgerald2014b = DB(WorkUnrelated(
     ID="fitzgerald2014continuous",
     acm2016="1",
     placex="Proceedings of the 1st International Workshop on Rapid Continuous Software Engineering",
+    note="cited By 1",
 ))
 
 fixson2014a = DB(WorkUnrelated(
@@ -1815,6 +1817,16 @@ ståhl2014a = DB(WorkUnrelated(
     issn="0164-1212",
     keyword="Continuous integration",
     sciencedirect2016_duplicate_removed="1",
+))
+
+ståhl2014b = DB(WorkUnrelated(
+    2014, "Modeling continuous integration practice differences",
+    display="ståhl b",
+    authors="D. Ståhl, J. Bosch",
+    place=FAKE,
+    entrytype="article",
+    ID="Stahl2014",
+    placex="industry software development",
 ))
 
 suryanarayana2014a = DB(WorkUnrelated(

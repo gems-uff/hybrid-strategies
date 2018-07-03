@@ -170,6 +170,19 @@ bygstad2010a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+candea2010a = DB(WorkUnrelated(
+    2010, "Automated software testing as a service",
+    display="candea",
+    authors="Candea, G. and Bucur, S. and Zamfir, C.",
+    place=FAKE,
+    pp="155-160",
+    entrytype="conference",
+    doi="10.1145/1807128.1807153",
+    note="cited By 64",
+    ID="Candea2010155",
+    placex="Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC '10",
+))
+
 civjan2010a = DB(WorkUnrelated(
     2010, "Client research that counts: involve your staff, engage your clients, and improve your services",
     display="civjan",
@@ -292,6 +305,22 @@ fran2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
 ))
 
+freudenberg2010a = DB(WorkUnrelated(
+    2010, "The top 10 burning research questions from practitioners",
+    display="freudenberg",
+    authors="Freudenberg, S. and Sharp, H.",
+    place=IEEES,
+    pp="8-9",
+    entrytype="article",
+    volume="27",
+    number="5",
+    doi="10.1109/MS.2010.129",
+    art_number="5551011",
+    note="cited By 41",
+    ID="Freudenberg20108",
+    placex="IEEE Software",
+))
+
 garousi2010a = DB(WorkUnrelated(
     2010, "Experience and challenges with UML-driven performance engineering of a Distributed Real-Time System",
     display="garousi",
@@ -307,6 +336,21 @@ garousi2010a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+gibbert2010a = DB(WorkUnrelated(
+    2010, "The What and How of Case Study Rigor: Three Strategies Based on Published Work",
+    display="gibbert",
+    authors="Gibbert, M. and Ruigrok, W.",
+    place=FAKE,
+    pp="710-737",
+    entrytype="article",
+    volume="13",
+    number="4",
+    doi="10.1177/1094428109351319",
+    note="cited By 143",
+    ID="Gibbert2010710",
+    placex="Organizational Research Methods",
+))
+
 goeschl2010a = DB(WorkUnrelated(
     2010, "When agile meets OO testing: a case study",
     display="goeschl",
@@ -318,6 +362,20 @@ goeschl2010a = DB(WorkUnrelated(
     ID="goeschl2010agile",
     acm2016="1",
     placex="Proceedings of the 1st Workshop on Testing Object-Oriented Systems",
+))
+
+green2010a = DB(WorkUnrelated(
+    2010, "Communication and quality in distributed agile development: An empirical case study",
+    display="green",
+    authors="Green, R. and Mazzuchi, T. and Sarkani, S.",
+    place=FAKE,
+    pp="2010",
+    entrytype="article",
+    volume="6",
+    number="1",
+    note="cited By 1",
+    ID="Green2010",
+    placex="Int. J. Inform. Technol.",
 ))
 
 gurp2010a = DB(WorkUnrelated(
@@ -606,6 +664,21 @@ ktata2010a = DB(WorkUnrelated(
     ID="ktata2010designing",
     acm2016="1",
     placex="Proceedings of the Third C* Conference on Computer Science and Software Engineering",
+))
+
+lee2010a = DB(WorkUnrelated(
+    2010, "Distributed agile: Project management in a global environment",
+    display="lee",
+    authors="Lee, S. and Yong, H.-S.",
+    place=ESE,
+    pp="204-217",
+    entrytype="article",
+    volume="15",
+    number="2",
+    doi="10.1007/s10664-009-9119-7",
+    note="cited By 40",
+    ID="Lee2010204",
+    placex="Empirical Software Engineering",
 ))
 
 leffingwell2010a = DB(WorkUnrelated(
@@ -915,6 +988,18 @@ scharff2010a = DB(WorkUnrelated(
     note="cited By 23",
 ))
 
+sharp2010a = DB(WorkUnrelated(
+    2010, "Three ‘C’s of Agile Practice: Collaboration, Co-ordination and Communication",
+    display="sharp",
+    authors="H. Sharp, H. Robinson",
+    place=FAKE,
+    pp="47-61",
+    entrytype="article",
+    note="cited By 100",
+    ID="sharp2010",
+    placex="Agile Software Development - Springer",
+))
+
 siau2010a = DB(WorkUnrelated(
     2010, "Important characteristics of software development team members: an empirical investigation using Repertory Grid",
     display="siau",
@@ -1058,6 +1143,26 @@ vinodh2010a = DB(WorkUnrelated(
     cluster_id="17372528132094673544",
     scholar="http://scholar.google.com/scholar?cites=17372528132094673544&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+wei2010a = DB(WorkUnrelated(
+    2010, "The strategic value of supply chain visibility: increasing the ability to reconfigure",
+    display="",
+    authors="H.-L. Wei, E.T. Wang",
+    place=FAKE,
+    entrytype="article",
+    ID="wei2010a",
+    placex="Eur. J. Inform. Syst.",
+))
+
+woodward2010a = DB(WorkUnrelated(
+    2010, "A Practical Guide to Distributed Scrum",
+    display="woodward",
+    authors="E. Woodward, S. Surdek, M. Ganis",
+    place=FAKE,
+    entrytype="article",
+    ID="Woodward2010",
+    placex="Pearson Education",
 ))
 
 yamin2010a = DB(WorkUnrelated(

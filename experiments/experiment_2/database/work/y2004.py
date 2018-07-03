@@ -365,6 +365,17 @@ sampaio2004a = DB(WorkUnrelated(
     placex="Journal of the Brazilian Computer Society",
 ))
 
+schwaber2004a = DB(WorkUnrelated(
+    2004, "Agile Project Management with Scrum",
+    display="schwaber",
+    authors="Schwaber, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 739",
+    ID="Schwaber2004",
+    placex="",
+))
+
 sheard2004a = DB(WorkUnrelated(
     2004, "2.4. 3 Evolving Systems Engineering Processes: Moving from “What Systems Engineers Do” to “Engineering Systems “",
     display="sheard",

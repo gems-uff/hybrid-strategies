@@ -312,6 +312,17 @@ downey2008a = DB(WorkUnrelated(
     placex="Software Process: Improvement and Practice",
 ))
 
+dul2008a = DB(WorkUnrelated(
+    2008, "Case Study Methodology in Business Research",
+    display="dul",
+    authors="Dul, J. and Hak, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 141",
+    ID="Dul2008",
+    placex="Routledge",
+))
+
 dybå2008a = DB(WorkUnrelated(
     2008, "Empirical studies of agile software development: A systematic review",
     display="dybå",
@@ -467,6 +478,20 @@ hadar2008a = DB(WorkUnrelated(
     placex="Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming systems languages and applications",
 ))
 
+hildenbrand2008a = DB(WorkUnrelated(
+    2008, "Agile methodologies for distributed collaborative development of enterprise applications",
+    display="hildenbrand",
+    authors="Hildenbrand, T. and Geisser, M. and Kude, T. and Bruch, D. and Acker, T.",
+    place=FAKE,
+    pp="540-545",
+    entrytype="conference",
+    doi="10.1109/CISIS.2008.105",
+    art_number="4606732",
+    note="cited By 10",
+    ID="Hildenbrand2008540",
+    placex="Proceedings - CISIS 2008: 2nd International Conference on Complex, Intelligent and Software Intensive Systems",
+))
+
 höfer2008a = DB(WorkUnrelated(
     2008, "Video analysis of pair programming",
     display="höfer",
@@ -577,6 +602,20 @@ kettunen2008a = DB(WorkUnrelated(
     placex="Software Process: Improvement and Practice",
     doi="10.1002/spip.354",
     note="cited By 37",
+))
+
+kim2008a = DB(WorkUnrelated(
+    2008, "Automated continuous integration of component-based software: An industrial experience",
+    display="kim",
+    authors="Kim, S. and Park, S. and Yun, J. and Lee, Y.",
+    place=FAKE,
+    pp="423-426",
+    entrytype="conference",
+    doi="10.1109/ASE.2008.64",
+    art_number="4639357",
+    note="cited By 14",
+    ID="Kim2008423",
+    placex="ASE 2008 - 23rd IEEE/ACM International Conference on Automated Software Engineering, Proceedings",
 ))
 
 kirova2008a = DB(WorkUnrelated(
@@ -1171,6 +1210,16 @@ suscheck2008a = DB(WorkUnrelated(
     ID="suscheck2008jazz",
     wiley2016="1",
     placex="Software Process: Improvement and Practice",
+))
+
+sutherland2008a = DB(WorkUnrelated(
+    2008, "Fully distributed scrum:the secret sauce for hyperproductive offshored development teams",
+    display="sutherland",
+    authors="J. Sutherland, G. Schoonheim, E. Rustenburg, M. Rijk",
+    place=FAKE,
+    entrytype="article",
+    ID="Sutherland2008",
+    placex="AGILE’08",
 ))
 
 tallon2008a = DB(WorkUnrelated(

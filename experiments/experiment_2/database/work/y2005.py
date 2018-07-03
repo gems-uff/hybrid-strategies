@@ -674,6 +674,21 @@ robinson2005a = DB(WorkUnrelated(
     placex="Proceedings - AGILE Confernce 2005",
 ))
 
+sahin2005a = DB(WorkUnrelated(
+    2005, "Information sharing and coordination in make-to-order supply chains",
+    display="sahin",
+    authors="Sahin, F. and Robinson Jr., E.P.",
+    place=FAKE,
+    pp="579-598",
+    entrytype="article",
+    volume="23",
+    number="6",
+    doi="10.1016/j.jom.2004.08.007",
+    note="cited By 209",
+    ID="Sahin2005579",
+    placex="Journal of Operations Management",
+))
+
 salo2005a = DB(WorkUnrelated(
     2005, "Integrating agile software development and software process improvement: A longitudinal case study",
     display="salo",
@@ -835,4 +850,16 @@ young2005a = DB(WorkUnrelated(
     ID="young2005personality",
     acm2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
+))
+
+ågerfalk2005a = DB(WorkUnrelated(
+    2005, "A framework for considering opportunities and threats in distributed software development",
+    display="ågerfalk",
+    authors="Ågerfalk, P.J. and Fitzgerald, B. and Holmström, H. and Lings, B. and Lundell, B. and Conchúir, E.O.",
+    place=FAKE,
+    pp="47-61",
+    entrytype="article",
+    note="cited By 100",
+    ID="Ågerfalk200547",
+    placex="Proceedings of the International Workshop on Distributed Software Development",
 ))

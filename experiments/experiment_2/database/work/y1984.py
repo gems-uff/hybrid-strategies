@@ -17,6 +17,17 @@ hannan1984a = DB(WorkUnrelated(
     placex="American Sociological Review",
 ))
 
+huberman1984a = DB(WorkUnrelated(
+    1984, "Innovation Up Close: How School Improvement Works",
+    display="huberman",
+    authors="Huberman, A.M. and Miles, M.B.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 370",
+    ID="Huberman1984",
+    placex="Springer",
+))
+
 kolb1984a = DB(WorkUnrelated(
     1984, "Experiential learning: Experience as the source of learning and development",
     display="kolb",

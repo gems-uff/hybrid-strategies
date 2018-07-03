@@ -262,6 +262,17 @@ benestad2011a = DB(WorkUnrelated(
     placex="Proceedings of the 33rd International Conference on Software Engineering",
 ))
 
+birks2011a = DB(WorkUnrelated(
+    2011, "Grounded Theory: A Practical Guide",
+    display="birks",
+    authors="Birks, M. and Mills, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 359",
+    ID="Birks2011",
+    placex="Grounded Theory: A Practical Guide",
+))
+
 boehm2011a = DB(WorkUnrelated(
     2011, "Some future software engineering opportunities and challenges",
     display="boehm",
@@ -334,6 +345,21 @@ cruzes2011a = DB(WorkUnrelated(
     ID="cruzes2011research",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+datta2011a = DB(WorkUnrelated(
+    2011, "Information sharing and coordination mechanisms for managing uncertainty in supply chains: A simulation study",
+    display="datta",
+    authors="Datta, P.P. and Christopher, M.G.",
+    place=FAKE,
+    pp="765-803",
+    entrytype="article",
+    volume="49",
+    number="3",
+    doi="10.1080/00207540903460216",
+    note="cited By 80",
+    ID="Datta2011765",
+    placex="International Journal of Production Research",
 ))
 
 dittes2011a = DB(WorkUnrelated(
@@ -533,6 +559,21 @@ gat2011a = DB(WorkUnrelated(
     ID="gat2011assessment",
     acm2016="1",
     placex="Proceedings of the 2nd Workshop on Managing Technical Debt",
+))
+
+gregory2011a = DB(WorkUnrelated(
+    2011, "Goals, feedback, and self-regulation: Control theory as a natural framework for executive coaching",
+    display="gregory",
+    authors="Gregory, J.B. and Beck, J.W. and Carr, A.E.",
+    place=FAKE,
+    pp="26-38",
+    entrytype="article",
+    volume="63",
+    number="1",
+    doi="10.1037/a0023398",
+    note="cited By 20",
+    ID="Gregory201126",
+    placex="Consulting Psychology Journal",
 ))
 
 gu2011a = DB(WorkUnrelated(
@@ -738,6 +779,20 @@ jonker2011a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+jyothi2011a = DB(WorkUnrelated(
+    2011, "Effective implementation of agile practices ingenious and organized theoretical framework",
+    display="jyothi",
+    authors="Jyothi, V.E. and Rao, K.N.",
+    place=JCA,
+    pp="41-48",
+    entrytype="article",
+    volume="2",
+    number="3",
+    note="cited By 13",
+    ID="Jyothi201141",
+    placex="International Journal of Advanced Computer Science and Applications",
+))
+
 kayes2011a = DB(WorkUnrelated(
     2011, "Agile testing: introducing PRAT as a metric of testing quality in scrum",
     display="kayes",
@@ -881,6 +936,21 @@ leffingwell2011a = DB(WorkUnrelated(
     note="cited By 144",
     ID="Leffingwell2011",
     placex="Addison-Wesley Professional Agile Software Requirements",
+))
+
+lewis2011a = DB(WorkUnrelated(
+    2011, "Transactive memory systems: Current issues and future research directions",
+    display="lewis",
+    authors="Lewis, K. and Herndon, B.",
+    place=FAKE,
+    pp="1254-1265",
+    entrytype="article",
+    volume="22",
+    number="5",
+    doi="10.1287/orsc.1110.0647",
+    note="cited By 115",
+    ID="Lewis20111254",
+    placex="Organization Science",
 ))
 
 li2011a = DB(WorkUnrelated(
@@ -1055,6 +1125,20 @@ oppenheim2011a = DB(WorkUnrelated(
     ID="oppenheim2011lean",
     wiley2016="1",
     placex="Systems Engineering",
+))
+
+oppenheim2011b = DB(WorkUnrelated(
+    2011, "Agility of enterprise operations across distributed organizations: A model of cross enterprise collaboration",
+    display="oppenheim b",
+    authors="Oppenheim, D. and Bagheri, S. and Ratakonda, K. and Chee, Y.-M.",
+    place=FAKE,
+    pp="154-162",
+    entrytype="conference",
+    doi="10.1109/SRII.2011.88",
+    art_number="5958084",
+    note="cited By 11",
+    ID="Oppenheim2011154",
+    placex="Proceedings - 2011 Annual SRII Global Conference, SRII 2011",
 ))
 
 pan2011a = DB(WorkUnrelated(

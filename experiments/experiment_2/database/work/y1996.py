@@ -33,6 +33,33 @@ button1996a = DB(WorkUnrelated(
     placex="Computer Supported Cooperative Work",
 ))
 
+harland1996a = DB(WorkUnrelated(
+    1996, "Supply Chain Management Purchasing and Supply Management Logistics Vertical Integration Materials Management and Supply Chain Dynamics",
+    display="harland",
+    authors="Harland, C.",
+    place=FAKE,
+    pp="15",
+    entrytype="article",
+    note="cited By 1",
+    ID="Harland199615",
+    placex="Blackwell, Encyclopedic Dictionary of Operations Management",
+))
+
+marshall1996a = DB(WorkUnrelated(
+    1996, "Sampling for qualitative research",
+    display="marshall",
+    authors="Marshall, M.N.",
+    place=FAKE,
+    pp="522-525",
+    entrytype="article",
+    volume="13",
+    number="6",
+    doi="10.1093/fampra/13.6.522",
+    note="cited By 986",
+    ID="Marshall1996522",
+    placex="Family Practice",
+))
+
 stacey1996a = DB(WorkUnrelated(
     1996, "Emerging Strategies for a Chaotic Environment",
     display="stacey",

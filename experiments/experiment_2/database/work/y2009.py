@@ -131,6 +131,20 @@ barton2009a = DB(WorkSnowball(
     note="cited By 5",
 ))
 
+begel2009a = DB(WorkUnrelated(
+    2009, "Coordination in large-scale software teams",
+    display="begel",
+    authors="Begel, A. and Nagappan, N. and Poile, C. and Layman, L.",
+    place=FAKE,
+    pp="1-7",
+    entrytype="conference",
+    doi="10.1109/CHASE.2009.5071401",
+    art_number="5071401",
+    note="cited By 27",
+    ID="Begel20091",
+    placex="Proceedings of the 2009 ICSE Workshop on Cooperative and Human Aspects on Software Engineering, CHASE 2009",
+))
+
 berger2009a = DB(WorkUnrelated(
     2009, "The utility of rapid application development in large-scale, complex projects",
     display="berger",
@@ -474,6 +488,17 @@ garcía2009b = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+garg2009a = DB(WorkUnrelated(
+    2009, "Agile software development",
+    display="garg",
+    authors="Garg, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Garg2009",
+    placex="DRDO Science Spectrum",
+))
+
 gat2009a = DB(WorkUnrelated(
     2009, "A Social Contract for Agile",
     display="gat",
@@ -696,6 +721,20 @@ laskey2009a = DB(WorkUnrelated(
     ID="laskey2009service",
     wiley2016="1",
     placex="Wiley Interdisciplinary Reviews: Computational Statistics",
+))
+
+lehto2009a = DB(WorkUnrelated(
+    2009, "Software development governance challenges of a middle-sized company in agile transition",
+    display="lehto",
+    authors="Lehto, I. and Rautiainen, K.",
+    place=FAKE,
+    pp="36-39",
+    entrytype="conference",
+    doi="10.1109/SDG.2009.5071335",
+    art_number="5071335",
+    note="cited By 7",
+    ID="Lehto200936",
+    placex="Proceedings of the 2009 ICSE Workshop on Software Development Governance, SDG 2009",
 ))
 
 magalhães2009a = DB(WorkUnrelated(
@@ -969,6 +1008,17 @@ ryan2009a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+saldana2009a = DB(WorkUnrelated(
+    2009, "The coding manual for qualitative researchers",
+    display="saldana",
+    authors="Saldana, J.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3861",
+    ID="Saldana2009",
+    placex="The Coding Manual for Qualitative Researchers",
+))
+
 salvaneschi2009a = DB(WorkUnrelated(
     2009, "Managing knowledge for information system evolution: the MinimalEDoc methodology",
     display="salvaneschi",
@@ -1198,6 +1248,16 @@ wu2009a = DB(WorkUnrelated(
     ID="wu2009model",
     wiley2016="1",
     placex="Knowledge and Process Management",
+))
+
+yin2009a = DB(WorkUnrelated(
+    2009, "Case Study Research: Design and Methods, second ed.",
+    display="yin",
+    authors="R.K. Yin",
+    place=SAGE,
+    entrytype="article",
+    ID="Yin2009",
+    placex="Sage Publications",
 ))
 
 youngberg2009a = DB(WorkUnrelated(

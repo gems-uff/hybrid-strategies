@@ -3,6 +3,58 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+calvert1995a = DB(WorkUnrelated(
+    1995, "The rational choice theory of social institutions: Cooperation, coordination, and communication, Modern Polit",
+    display="calvert",
+    authors="Calvert, R.",
+    place=FAKE,
+    pp="216-268",
+    entrytype="article",
+    note="cited By 1",
+    ID="Calvert1995216",
+    placex="Econ.: Old Top. New Direct.",
+))
+
+galbraith1995a = DB(WorkUnrelated(
+    1995, "Designing Organizations: An Executive Briefing on Strategy, Structure, and Process",
+    display="galbraith",
+    authors="Galbraith, J.R.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 305",
+    ID="Galbraith1995",
+    placex="Jossey-Bass",
+))
+
+henneman1995a = DB(WorkUnrelated(
+    1995, "Collaboration: a concept analysis",
+    display="henneman",
+    authors="Henneman, E.A. and Lee, J.L. and Cohen, J.I.",
+    place=FAKE,
+    pp="103-109",
+    entrytype="article",
+    volume="21",
+    number="1",
+    doi="10.1046/j.1365-2648.1995.21010103.x",
+    note="cited By 234",
+    ID="Henneman1995103",
+    placex="Journal of Advanced Nursing",
+))
+
+sandelowski1995a = DB(WorkUnrelated(
+    1995, "Sample size in qualitative research.",
+    display="sandelowski",
+    authors="Sandelowski, M.",
+    place=FAKE,
+    pp="179-183",
+    entrytype="article",
+    volume="18",
+    number="2",
+    note="cited By 1155",
+    ID="Sandelowski1995179",
+    placex="Research in nursing & health",
+))
+
 schwaber1995a = DB(WorkUnrelated(
     1995, "Scrum development process",
     display="schwaber",

@@ -32,6 +32,20 @@ ali2006a = DB(WorkUnrelated(
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
+andrei2006a = DB(WorkUnrelated(
+    2006, "Modern control theory Stud",
+    display="andrei",
+    authors="Andrei, N.",
+    place=FAKE,
+    pp="51",
+    entrytype="article",
+    volume="15",
+    number="1",
+    note="cited By 1",
+    ID="Andrei200651",
+    placex="Inform. Control",
+))
+
 barnard2006a = DB(WorkUnrelated(
     2006, "4.1. 2 Project-driven adaptation of software life cycle model",
     display="barnard",
@@ -277,6 +291,17 @@ cicmil2006a = DB(WorkUnrelated(
     ID="cicmil2006rethinking",
     sciencedirect2016="1",
     placex="International journal of project management",
+))
+
+cockburn2006a = DB(WorkUnrelated(
+    2006, "Agile Software Development: The Cooperative Game",
+    display="cockburn",
+    authors="Cockburn, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 41",
+    ID="Cockburn2006",
+    placex="Pearson Education",
 ))
 
 cook2006a = DB(WorkUnrelated(

@@ -76,6 +76,16 @@ iivari2001a = DB(WorkUnrelated(
     placex="Journal of Management Information Systems",
 ))
 
+lopez2001a = DB(WorkUnrelated(
+    2001, "the  Software  Process:  Evaluation  and  Improvement",
+    display="lopez",
+    authors="Lopez,  M.",
+    place=FAKE,
+    other1="Cybernetics  and  Informatics",
+    other2="ISAS-SCIs",
+    placex="Proceedings  of  World  Multi  conference  on  Systemics",
+))
+
 niessink2001a = DB(WorkUnrelated(
     2001, "Perspectives on improving software maintenance",
     display="niessink",

@@ -27,3 +27,13 @@ doran1981a = DB(WorkUnrelated(
     ID="Doran198135",
     placex="Management Review",
 ))
+
+yin1981a = DB(WorkUnrelated(
+    1981, "The case study crisis: some answers",
+    display="yin",
+    authors="R.K. Yin",
+    place=FAKE,
+    entrytype="article",
+    ID="Yin1981",
+    placex="Adm. Sci. Q.",
+))

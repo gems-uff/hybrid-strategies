@@ -14,6 +14,14 @@ ambriola2003a = DB(WorkUnrelated(
     placex="article",
 ))
 
+deng2003a = DB(WorkUnrelated(
+    2003, "Multimedia  Software Engineering",
+    display="deng",
+    authors="Deng, D., Wang, T., Sheu, P.C.-Y., Maezawa, H., Tsunoda, F., Onoma, A.K.: DPSSEE: a distributed  proactive  semantic software  engineering  environment",
+    place=FAKE,
+    placex="proceedings of the Fifth International Symposium",
+))
+
 dolado2003a = DB(WorkUnrelated(
     2003, "TIC2001-1143-C03",
     display="dolado",

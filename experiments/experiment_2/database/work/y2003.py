@@ -70,6 +70,21 @@ boehm2003a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+boonstra2003a = DB(WorkUnrelated(
+    2003, "Structure and analysis of IS decision-making processes",
+    display="boonstra",
+    authors="Boonstra, A.",
+    place=FAKE,
+    pp="195-209",
+    entrytype="article",
+    volume="12",
+    number="3",
+    doi="10.1057/palgrave.ejis.3000461",
+    note="cited By 37",
+    ID="Boonstra2003195",
+    placex="European Journal of Information Systems",
+))
+
 bruin2003a = DB(WorkUnrelated(
     2003, "Food process engineering: the last 25 years and challenges ahead",
     display="bruin",
@@ -355,6 +370,17 @@ rasmusson2003a = DB(WorkUnrelated(
     note="cited By 54",
     ID="Rasmusson200321",
     placex="IEEE Software",
+))
+
+saunders2003a = DB(WorkUnrelated(
+    2003, "Research Methods for Business Students",
+    display="saunders",
+    authors="Saunders, M. and Lewis, P. and Thornhill, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 3106",
+    ID="Saunders2003",
+    placex="",
 ))
 
 siebel2003a = DB(WorkUnrelated(

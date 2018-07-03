@@ -52,6 +52,15 @@ nick2000a = DB(WorkUnrelated(
     placex="Proc. 3rd European Software Measurement Conference (FESMA-AEMES 2000), Madrid, Spain",
 ))
 
+wang2000a = DB(WorkUnrelated(
+    2000, "Software  Engineering",
+    display="wang",
+    authors="Wang,  Y.X.,  King,  G.",
+    place=FAKE,
+    other1="CRC Press LLC",
+    placex="Processes-  Principles  and  Applications",
+))
+
 wimmer2000a = DB(WorkUnrelated(
     2000, "Report for the activities within the RENOIR exchange programme",
     display="wimmer",

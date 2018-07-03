@@ -31,6 +31,22 @@ kaner2004a = DB(WorkUnrelated(
     placex="Information Knowledge Systems Management",
 ))
 
+liao2004a = DB(WorkUnrelated(
+    2004, "Automated  Support  of  Quality  Improvement",
+    display="liao",
+    authors="Liao,  L.,  Leung,  H.K.N.,  Qu,  Y.Z.",
+    place=FAKE,
+    placex="proceedings     of     The     8th     IASTED     International     Conference     on     SOFTWARE ENGINEERING AND APPLICATIONS",
+))
+
+patel2004a = DB(WorkUnrelated(
+    2004, "OWL:  Web  Ontology  Language  Semantics and Abstract Syntax",
+    display="patel",
+    authors="Patel-Schneider,  P.F.,  Hayes,  P.,  Horrocks,  I.  (eds.)",
+    place=FAKE,
+    placex="W3C Recommendation",
+))
+
 ruiz2004a = DB(WorkUnrelated(
     2004, "An ontology for the management of software maintenance projects",
     display="ruiz",

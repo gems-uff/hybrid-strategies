@@ -78,6 +78,21 @@ arthur2007a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+baltacioglu2007a = DB(WorkUnrelated(
+    2007, "A new framework for service supply chains",
+    display="baltacioglu",
+    authors="Baltacioglu, T. and Ada, E. and Kaplan, M.D. and Yurt, O. and Kaplan, Y.C.",
+    place=FAKE,
+    pp="105-124",
+    entrytype="article",
+    volume="27",
+    number="2",
+    doi="10.1080/02642060601122629",
+    note="cited By 144",
+    ID="Baltacioglu2007105",
+    placex="Service Industries Journal",
+))
+
 bartlett2007a = DB(WorkUnrelated(
     2007, "Improving supply chain performance through improved visibility",
     display="bartlett",
@@ -743,6 +758,17 @@ schwaber2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     note="cited By 2",
+    ID="Schwaber2007",
+    placex="",
+))
+
+schwaber2007b = DB(WorkUnrelated(
+    2007, "The Enterprise and Scrum",
+    display="schwaber b",
+    authors="Schwaber, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 68",
     ID="Schwaber2007",
     placex="",
 ))

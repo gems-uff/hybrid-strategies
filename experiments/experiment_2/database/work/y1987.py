@@ -16,3 +16,13 @@ benbasat1987a = DB(WorkUnrelated(
     ID="Benbasat1987369",
     placex="MIS Quarterly: Management Information Systems",
 ))
+
+wegner1987a = DB(WorkUnrelated(
+    1987, "Transactive Memory: A Contemporary Analysis of the Group Mind Theories of Group Behavior",
+    display="wegner",
+    authors="D.M. Wegner",
+    place=FAKE,
+    entrytype="conference",
+    ID="Wegner1987",
+    placex="Springer",
+))

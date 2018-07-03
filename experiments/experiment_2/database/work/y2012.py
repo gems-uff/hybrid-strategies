@@ -33,6 +33,17 @@ al2012a = DB(WorkUnrelated(
     placex="Journal of Product Innovation Management",
 ))
 
+ambler2012a = DB(WorkUnrelated(
+    2012, "Agility at Scale Survey Results",
+    display="ambler",
+    authors="Ambler, S.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Ambler2012",
+    placex="Summer",
+))
+
 anewalt2012a = DB(WorkUnrelated(
     2012, "Exploring agile processes",
     display="anewalt",
@@ -75,6 +86,20 @@ bachmann2012a = DB(WorkUnrelated(
     note="cited By 12",
     ID="Bachmann201220",
     placex="CrossTalk",
+))
+
+bannerman2012a = DB(WorkUnrelated(
+    2012, "Scrum practice mitigation of global software development coordination challenges: A distinctive advantage?",
+    display="bannerman",
+    authors="Bannerman, P.L. and Hossain, E. and Jeffery, R.",
+    place=FAKE,
+    pp="5309-5318",
+    entrytype="conference",
+    doi="10.1109/HICSS.2012.512",
+    art_number="6149537",
+    note="cited By 24",
+    ID="Bannerman20125309",
+    placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
 ))
 
 ben2012a = DB(WorkUnrelated(
@@ -658,6 +683,8 @@ jalali2012a = DB(WorkUnrelated(
     ID="jalali2012global",
     wiley2016="1",
     placex="Journal of software: Evolution and Process",
+    doi="10.1002/smr.561",
+    note="cited By 50",
 ))
 
 jan2012a = DB(WorkUnrelated(
@@ -1190,6 +1217,7 @@ rubin2012a = DB(WorkUnrelated(
 
 saddington2012a = DB(WorkSnowball(
     2012, "Scaling Agile Product Ownership through Team Alignment and Optimization: A Story of Epic Proportions",
+    alias=(2012,"Scaling product ownership through team alignment and optimization", ),
     display="saddington",
     authors="Saddington, Peter",
     pp="123--130",
@@ -1204,6 +1232,7 @@ saddington2012a = DB(WorkSnowball(
     selected_order="19",
     final_selected="1",
 ))
+
 
 salinas2012a = DB(WorkUnrelated(
     2012, "A scrum-based approach to CMMI maturity level 2 in web development environments",
@@ -1337,6 +1366,17 @@ sirén2012a = DB(WorkUnrelated(
     ID="siren2012exploration",
     wiley2016="1",
     placex="Strategic Entrepreneurship Journal",
+))
+
+soundararajan2012a = DB(WorkUnrelated(
+    2012, "A soft-structured agile framework for larger scale systems development",
+    display="soundararajan",
+    authors="S. Soundararajan, J.D. Arthur",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Soundararajan2012",
+    placex="6th Annual IEEE International Conference and Workshop on the Engineering of Computer Based Systems",
 ))
 
 squires2012a = DB(WorkUnrelated(
@@ -1541,6 +1581,16 @@ vinodh2012a = DB(WorkUnrelated(
     cluster_id="11215948160088088302",
     scholar="http://scholar.google.com/scholar?cites=11215948160088088302&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+waardenburg2012a = DB(WorkUnrelated(
+    2012, "When agile meets the enterprise",
+    display="waardenburg",
+    authors="G. Waardenburg, H. van Vliet",
+    place=FAKE,
+    entrytype="article",
+    ID="Waardenburg2012",
+    placex="Inf. Softw.Technol",
 ))
 
 wallace2012a = DB(WorkUnrelated(

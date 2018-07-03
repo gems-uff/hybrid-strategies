@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+conradi1994a = DB(WorkUnrelated(
+    1994, "EPOS:  Object-oriented  cooperative  process  modeling",
+    display="conradi1994a",
+    authors="Conradi  R.,  Hagaseth  M.,  Larsen  J.O.,  et  al.",
+    place=FAKE,
+    placex="Software Process Modeling and Technology",
+))
+
+haase1994a = DB(WorkUnrelated(
+    1994, "Bootstrap: Fine-Tuning Process Assessment.",
+    display="haase",
+    authors="Haase, V., Messnarz, R., Koch, G.,et al",
+    place=IEEES,
+    placex="IEEE Software",
+))
+
 nuseibeh1994a = DB(WorkUnrelated(
     1994, "A multi-perspective framework for method integration",
     display="nuseibeh",

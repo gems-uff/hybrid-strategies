@@ -28,6 +28,24 @@ bennetts2002a = DB(WorkUnrelated(
     placex="AMCIS 2002 Proceedings",
 ))
 
+cmusei2002a = DB(WorkUnrelated(
+    2002, "Capability Maturity Model",
+    display="cmu sei",
+    authors="CMU SEI",
+    place=FAKE,
+    other1="Version 1.1",
+    other2="CMMI SM for Software Engineering (CMMI-SW/SE/IPPD/SS, V1.1) Continuous Representation",
+    placex="Integration (CMMISM)",
+))
+
+conradi2002a = DB(WorkUnrelated(
+    2002, "Improving software process improvement",
+    display="conradi",
+    authors="Conradi, R., Fuggetta, A.",
+    place=IEEES,
+    placex="IEEE Software",
+))
+
 dolado2002a = DB(WorkUnrelated(
     2002, "Apoyo a la decisión en Ingeniería del Software.",
     display="dolado",

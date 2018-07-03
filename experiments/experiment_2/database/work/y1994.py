@@ -3,6 +3,17 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bazerman1994a = DB(WorkUnrelated(
+    1994, "Judgment in Managerial Decision Making",
+    display="bazerman",
+    authors="Bazerman, M.H.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1305",
+    ID="Bazerman1994",
+    placex="John Wiley",
+))
+
 krueger1994a = DB(WorkUnrelated(
     1994, "Focus Groups: A Practical Guide for Applied Research",
     display="krueger",

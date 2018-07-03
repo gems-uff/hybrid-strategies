@@ -32,6 +32,20 @@ iyer1997a = DB(WorkUnrelated(
     placex="IIE transactions",
 ))
 
+mentzer1997a = DB(WorkUnrelated(
+    1997, "Validity in logistics research",
+    display="mentzer",
+    authors="Mentzer, J.T. and Flint, D.J.",
+    place=FAKE,
+    pp="199-216",
+    entrytype="article",
+    volume="18",
+    number="1",
+    note="cited By 198",
+    ID="Mentzer1997199",
+    placex="Journal of Business Logistics",
+))
+
 myers1997a = DB(WorkUnrelated(
     1997, "Qualitative research in information systems",
     display="myers",

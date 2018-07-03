@@ -3,6 +3,14 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+chandrasekaran1999a = DB(WorkUnrelated(
+    1999, "What Are Ontologies, and Why Do we Need Them?",
+    display="chandrasekaran",
+    authors="Chandrasekaran, B., Josephson, J.R., Benjamins, V.R.",
+    place=FAKE,
+    placex="IEEE Intelligent Systems Vol. 14, Issue 1",
+))
+
 gasston1999a = DB(WorkUnrelated(
     1999, "The Role of the Client-Supplier Relationship in Achieving Software Quality",
     display="gasston",

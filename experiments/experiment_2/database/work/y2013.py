@@ -429,6 +429,31 @@ davis2013b = DB(WorkUnrelated(
     placex="Medical Device Summit, May 22, 2013",
 ))
 
+dingsøyr2013a = DB(WorkUnrelated(
+    2013, "Research challenges in large-scale agile software development",
+    display="dingsøyr",
+    authors="Dingsøyr, T. and Moe, N.B.",
+    place=FAKE,
+    pp="38-39",
+    entrytype="article",
+    volume="38",
+    number="5",
+    note="cited By 37",
+    ID="Dingsøyr201338",
+    placex="ACM SIGSOFT Software Engineering Notes",
+))
+
+dingyr2013a = DB(WorkUnrelated(
+    2013, "An overview of research on large-scale agile software development",
+    display="½yr",
+    authors="Dingsï¿½yr, T. and Itkonen, J. and Fï¿½gri, T.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="dingsï¿½yr2013",
+    placex="Proceedings of the 1st Workshop on Research Challenges in Large-Scale Agile Development",
+))
+
 elmoselhy2013a = DB(WorkUnrelated(
     2013, "Hybrid lean--agile manufacturing system technical facet, in automotive sector",
     display="elmoselhy",
@@ -510,6 +535,17 @@ escalona2013a = DB(WorkUnrelated(
     ID="escalona2013detecting",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+feitelson2013a = DB(WorkUnrelated(
+    2013, "Development and Deployment at Facebook",
+    display="feitelson",
+    authors="Feitelson, D. and Frachtenberg, E. and Beck, K.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 2",
+    ID="Feitelson2013",
+    placex="",
 ))
 
 fitzgerald2013a = DB(WorkUnrelated(
@@ -642,6 +678,17 @@ hamraz2013a = DB(WorkUnrelated(
     ID="hamraz2013holistic",
     wiley2016="1",
     placex="Systems Engineering",
+))
+
+hardion2013a = DB(WorkUnrelated(
+    2013, "Configuration Management of the Control System",
+    display="hardion",
+    authors="Hardion, V. and Spruce, D.P. and Lindberg, M. and Otero, A.M. and Lidon-Simon, J. and Jamroz, J.J. and Persson, A.",
+    place=FAKE,
+    entrytype="article",
+    note="cited By 1",
+    ID="Hardion2013",
+    placex="",
 ))
 
 heck2013a = DB(WorkUnrelated(
@@ -1104,6 +1151,19 @@ msft2013a = DB(WorkUnrelated(
     note="cited By 1",
     ID="MSFT2013",
     placex="",
+))
+
+muşlu2013a = DB(WorkUnrelated(
+    2013, "Data debugging with continuous testing",
+    display="muşlu",
+    authors="Muşlu, K. and Brun, Y. and Meliou, A.",
+    place=FAKE,
+    pp="631-634",
+    entrytype="conference",
+    doi="10.1145/2491411.2494580",
+    note="cited By 9",
+    ID="Muşlu2013631",
+    placex="2013 9th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, ESEC/FSE 2013 - Proceedings",
 ))
 
 neely2013a = DB(WorkUnrelated(
@@ -1689,6 +1749,16 @@ versionone2013b = DB(WorkUnrelated(
     note="cited By 1",
     ID="versionone2013",
     placex="",
+))
+
+vlietland2013a = DB(WorkUnrelated(
+    2013, "Information Sharing for Effective IT Incident Resolving in IT Service Provider Networks: A Financial Service Case Study",
+    display="vlietland",
+    authors="J. Vlietland, H. van Vliet",
+    place=FAKE,
+    entrytype="conference",
+    ID="Vlietland2013",
+    placex="Proceedings of the 2009 ICSE Workshop on Cooperative and Human Aspects on Software Engineering, CHASE 2009",
 ))
 
 waardenburg2013a = DB(WorkSnowball(
