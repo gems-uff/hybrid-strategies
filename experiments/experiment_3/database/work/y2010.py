@@ -45,7 +45,7 @@ anneliheimbürgera2010a = DB(WorkUnrelated(
 ))
 
 barcellos2010a = DB(WorkUnrelated(
-    2010, "A Well-Founded Software Measurement Ontology.",
+    2010, "A Well-Founded Software Measurement Ontology",
     display="barcellos",
     authors="Barcellos, Monalessa Perini and de Almeida Falbo, Ricardo and Dal Moro, Rodrigo",
     place=FAKE,
@@ -60,7 +60,7 @@ barcellos2010a = DB(WorkUnrelated(
 ))
 
 basri2010a = DB(WorkUnrelated(
-    2010, "Software Process Improvement in Very Small Entities: An investigation of Software Development Knowledge Management and Team issues in maintaining and evolving software process and process improvement.",
+    2010, "Software Process Improvement in Very Small Entities: An investigation of Software Development Knowledge Management and Team issues in maintaining and evolving software process and process improvement",
     display="basri",
     authors="Basri, Shuib",
     place=Thesis,
@@ -84,7 +84,7 @@ bowman2010a = DB(WorkUnrelated(
 ))
 
 cancian2010a = DB(WorkUnrelated(
-    2010, "Supporting Software Services’ Trustworthiness in Collaborative Networks",
+    2010, "Supporting Software Services Trustworthiness in Collaborative Networks",
     display="cancian",
     authors="Cancian, Maiara Heil and Rabelo, Ricardo J and Von Wangenheim, Christiane Gresse",
     place=FAKE,
@@ -95,6 +95,15 @@ cancian2010a = DB(WorkUnrelated(
     gs2016="1",
     placex="Working Conference on Virtual Enterprises",
     springer2016="1",
+))
+
+cmmi2010a = DB(WorkUnrelated(
+    2010, "CMMI for Development Version 1.3",
+    display="CMMI",
+    authors="CMMI Product Team",
+    place=FAKE,
+    other1="Carnegie Mellon University,",
+    placex="Software Engineering Institute,",
 ))
 
 cornford2010a = DB(WorkUnrelated(
@@ -113,7 +122,7 @@ cornford2010a = DB(WorkUnrelated(
 cuadrado2010a = DB(WorkUnrelated(
     2010, "Framework of Quality Measurement in CASE Tool Based Software Development",
     display="cuadrado",
-    authors="Cuadrado-Gallego, Juan José",
+    authors="Cuadrado Gallego, Juan José",
     place=FAKE,
     entrytype="article",
     ID="cuadradoframework",
@@ -166,7 +175,7 @@ georgieva2010a = DB(WorkUnrelated(
 henderson2010a = DB(WorkUnrelated(
     2010, "Situational method engineering: state-of-the-art review",
     display="henderson",
-    authors="Henderson-Sellers, Brian and Ralyté, Jolita",
+    authors="Henderson Sellers, Brian and Ralyté, Jolita",
     place=JCS,
     entrytype="article",
     publisher="Graz University of Technology",
@@ -228,7 +237,7 @@ keto2010a = DB(WorkUnrelated(
 ko2010a = DB(WorkUnrelated(
     2010, "Know How and Know What for Software Processes",
     display="ko",
-    authors="Ko{ž}usznik, Jan and {Š}tolfa, Svatopluk and Du{ž}í, Marie and Ko{š}inár, Michal and {Č}íhalová, Martina",
+    authors="Kozusznik, Jan and Stolfa, Svatopluk and Duzí, Marie and Kosinár, Michal and Cíhalová, Martina",
     place=FAKE,
     pp="178--192",
     entrytype="inproceedings",
@@ -430,7 +439,7 @@ sousa2010b = DB(WorkUnrelated(
 stolfa2010a = DB(WorkSnowball(
     2010, "Building process definition with ontology background",
     display="stolfa",
-    authors="Stolfa, Svatopluk and Ko{ž}usznik, Jan and Ko{š}inár, Michal and Du{ž}í, Marie and {Č}íhalová, Martina and Vondrák, Ivo",
+    authors="Stolfa, Svatopluk and KoZusznik, Jan and Kosinár, Michal and Duzí, Marie and Cíhalová, Martina and Vondrák, Ivo",
     place=FAKE,
     pp="328--334",
     entrytype="inproceedings",
@@ -551,8 +560,8 @@ yurchyshyna2010b = DB(WorkUnrelated(
 
 喇度史2010a = DB(WorkUnrelated(
     2010, "Erwin Grosspietsch, Konrad Klöckner (eds.)",
-    display="喇度史",
-    authors="喇度史",
+    display="Japan",
+    authors="Japan",
     place=FAKE,
     entrytype="article",
     ID="喇度史2010erwin",

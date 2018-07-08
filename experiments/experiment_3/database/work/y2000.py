@@ -30,6 +30,14 @@ iivari2000a = DB(WorkUnrelated(
     placex="Journal of management information systems",
 ))
 
+iso2000a = DB(WorkUnrelated(
+    2000, "ISO 9001:2000 Quality Management Systems -- Requirement",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="accessed site",
+))
+
 mair2000a = DB(WorkUnrelated(
     2000, "Agent-based Process Model Integration in Virtual Software Corporations",
     display="mair",
@@ -59,6 +67,14 @@ wang2000a = DB(WorkUnrelated(
     place=FAKE,
     other1="CRC Press LLC",
     placex="Processes-  Principles  and  Applications",
+))
+
+wang2000b = DB(WorkUnrelated(
+    2000, "Software  Engineering  Processes-Principles  and  Applications,",
+    display="wang b",
+    authors="Y.X. Wang,  G.  King,",
+    place=FAKE,
+    placex="2000,  CRC Press LLC",
 ))
 
 wimmer2000a = DB(WorkUnrelated(

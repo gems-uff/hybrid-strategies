@@ -278,7 +278,7 @@ gonzalez2016a = DB(WorkUnrelated(
 ))
 
 kabaale2016a = DB(WorkSnowball(
-    2016, "Representing Software Process in Description Logics: n Ontology pproach for Software Process Reasoning and Verification",
+    2016, "Representing Software Process in Description Logics: An Ontology pproach for Software Process Reasoning and Verification",
     display="kabaale",
     authors="Kabaale, Edward and Wen, Lian and Wang, Zhe and Rout, Terry",
     place=ICSPICD,

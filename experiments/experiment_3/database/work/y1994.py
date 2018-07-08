@@ -3,6 +3,14 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+basili1994a = DB(WorkUnrelated(
+    1994, "The goal question metric approach",
+    display="basili",
+    authors="V.R. Basili, V.R.B.G. Caldiera, and H.D. Rombach,",
+    place=FAKE,
+    placex="Encycl. of SW Eng., 2, 1994, pp. 528-532",
+))
+
 conradi1994a = DB(WorkUnrelated(
     1994, "EPOS:  Object-oriented  cooperative  process  modeling",
     display="conradi1994a",

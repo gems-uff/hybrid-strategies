@@ -36,7 +36,7 @@ andrade2008a = DB(WorkUnrelated(
 ba2008a = DB(WorkUnrelated(
     2008, "Information Quality Management Capability Maturity Model",
     display="ba",
-    authors="Ba{š}karada, Sa{š}a",
+    authors="Baskarada, Sasa",
     place=FAKE,
     entrytype="article",
     publisher="Springer",
@@ -153,13 +153,22 @@ cerioli2008a = DB(WorkUnrelated(
 claxton2008a = DB(WorkUnrelated(
     2008, "THIS THESIS IS OPEN",
     display="claxton",
-    authors="Guðmundur Claxton",
+    authors="Guomundur Claxton",
     place=Thesis,
     entrytype="phdthesis",
     place2="MANAGING SOFTWARE DEVELOPMENT KNOWLEDGE IN SMALL COMPANIES A case study conducted in a small software development & consultancy division",
     ID="guomundur2008this",
     gs2016="1",
     placex="Cand.it - IT, Communication & Organization – Aarhus School of Business (ASB)",
+))
+
+consultants2008a = DB(WorkUnrelated(
+    2008, "CMMiPal 1.0",
+    display="consultants",
+    authors="Chemuturi Consultants",
+    place=FAKE,
+    other1="http://www.softpedia.com/get/Others/Finances-Business/CMMiPal.shtml",
+    placex="CMMiPal Description,",
 ))
 
 cuadrado2008a = DB(WorkUnrelated(
@@ -213,6 +222,14 @@ feltus2008a = DB(WorkUnrelated(
     ID="feltus2008definition",
     gs2016="1",
     placex="",
+))
+
+ferchichi2008a = DB(WorkUnrelated(
+    2008, "An ontology for quality standards integration in software collaborative projects",
+    display="ferchichi",
+    authors="A. Ferchichi, M. Bigand, and H. Lefebvre,",
+    place=FAKE,
+    placex="Proc. 1st Int'l Workshop on Model Driven Interoperability for Sustainable Information Systems",
 ))
 
 gonzalez2008a = DB(WorkUnrelated(
@@ -281,6 +298,56 @@ henderson2008a = DB(WorkUnrelated(
     placex="Dagstuhl Seminar Proceedings",
 ))
 
+horák2008a = DB(WorkUnrelated(
+    2008, "Transparent Intensional Logic in Knowledge Based Multiagent Systems",
+    display="horák",
+    authors="T. Frydrych O. Kohut M. KosAsinár P. Sojka A. Horák",
+    place=FAKE,
+    placex="in RASLAN 2008 Brno:MasarykUniversity",
+))
+
+institute2008a = DB(WorkUnrelated(
+    2008, "The Appraisal Assistant Beta 3,",
+    display="institute",
+    authors="Software Quality Institute",
+    place=FAKE,
+    other1="http://www.sqi.gu.edu.au/AppraisalAssistant/about.html",
+    placex="Griffith University",
+))
+
+iso2008a = DB(WorkUnrelated(
+    2008, "ISO IEC 12207:2008 - Software life cycle processes",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="iso iec",
+))
+
+iso2008b = DB(WorkUnrelated(
+    2008, "ISO IEC 15504 Information Technology -- Process Assessment",
+    display="iso b",
+    authors="ISO",
+    place=FAKE,
+    other1="2003-2008",
+    placex="",
+))
+
+iso2008c = DB(WorkUnrelated(
+    2008, "ISO IEC 12207: Systems and software eng. -- Software life cycle processes",
+    display="iso c",
+    authors="ISO,",
+    place=FAKE,
+    placex="site",
+))
+
+iso2008d = DB(WorkUnrelated(
+    2008, "ISO IEC 15288: Systems and software eng. -- System life cycle processes",
+    display="iso d",
+    authors="ISO,",
+    place=FAKE,
+    placex="site",
+))
+
 jacobson2008a = DB(WorkUnrelated(
     2008, "Software development a la mode",
     display="jacobson",
@@ -304,6 +371,14 @@ jubileu2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+karkoška2008a = DB(WorkUnrelated(
+    2008, "Vytvo Åeni nástroje pro podporu tvorby ontologií v multi-agentním prost Åedí",
+    display="karkoška",
+    authors="T Karkoska",
+    place=FAKE,
+    placex="Diploma thesis VÅ B-TUO Czech Republic Ostrava",
+))
+
 keefer2008a = DB(WorkUnrelated(
     2008, "The cmmi considered harmful for quality improvement and supplier selection",
     display="keefer",
@@ -313,6 +388,14 @@ keefer2008a = DB(WorkUnrelated(
     ID="keefer2008cmmi",
     gs2016="1",
     placex="AVOCA GmbH",
+))
+
+košâšinár2008a = DB(WorkUnrelated(
+    2008, "The TIL-Script language",
+    display="košâšinár",
+    authors="N. Ciprich M. Duzi M. KosAsinar",
+    place=FAKE,
+    placex="the Proceedings of the 18th European Japanese Conference on Information Modelling and Knowledge Bases (EJC 2008)",
 ))
 
 lee2008a = DB(WorkSnowball(
@@ -373,7 +456,7 @@ luzuriaga2008a = DB(WorkUnrelated(
 ))
 
 medina2008a = DB(WorkUnrelated(
-    2008, "A Collaborative Framework to Support Software Process Improvement Based on the Reuse of Process Assets.",
+    2008, "A Collaborative Framework to Support Software Process Improvement Based on the Reuse of Process Assets",
     display="medina",
     authors="Medina-Domínguez, Fuensanta and Ramos, Javier Saldaña and Mora-Soto, Arturo and Sanz-Esteban, Ana and Segura, Maria Isabel Sánchez",
     place=FAKE,
@@ -406,6 +489,24 @@ moro2008a = DB(WorkUnrelated(
     placex="III Workshop on Ontologies and Metamodeling Software and Data Engineering, XXII Simpósio Brasileiro de Engenharia de Software--SBES",
 ))
 
+omg2008a = DB(WorkUnrelated(
+    2008, "Software & Systems Process Engineering Metamodel Specification (SPEM),",
+    display="omg",
+    authors="OMG",
+    place=FAKE,
+    other1="OMG Document Number: formal/2008-04-01,",
+    other2="Object Management Group (OMG),",
+    placex="version 2.0,",
+))
+
+ontology2008a = DB(WorkUnrelated(
+    2008, "Ontology",
+    display="ontology",
+    authors="wikipedia",
+    place=FAKE,
+    placex="http://en.wikipedia.org/wiki/Ontology",
+))
+
 pino2008a = DB(WorkUnrelated(
     2008, "Software process improvement in small and medium software enterprises: a systematic review",
     display="pino",
@@ -421,6 +522,14 @@ pino2008a = DB(WorkUnrelated(
     placex="Software Quality Journal",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-42149144165&doi=10.1007%2fs11219-007-9038-z&partnerID=40&md5=7873c84ff0384db40b1ebab2db030ae3",
     scopus2016_duplicate_removed="1",
+))
+
+protégé2008a = DB(WorkUnrelated(
+    2008, "Ontology Editor and Knowledge Acquisition Systems",
+    display="protégé",
+    authors="The Protégé",
+    place=FAKE,
+    placex="http://protege.stanford.edu/",
 ))
 
 rifaut2008a = DB(WorkUnrelated(
@@ -439,7 +548,7 @@ rifaut2008a = DB(WorkUnrelated(
 ))
 
 rifaut2008b = DB(WorkUnrelated(
-    2008, "ISO/IEC 15504, a Basis for Generally Accepted Sound Process Models in Financial Institutions: A Case Study about Venture Capital Fund Management",
+    2008, "ISO IEC 15504, a Basis for Generally Accepted Sound Process Models in Financial Institutions: A Case Study about Venture Capital Fund Management",
     display="rifaut b",
     authors="Rifaut, André and Di Renzo, B and Picard, M",
     place=FAKE,
@@ -526,6 +635,14 @@ santos2008a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+sharifloo2008a = DB(WorkUnrelated(
+    2008, "An Ontology for CMMI-ACQ Model",
+    display="sharifloo",
+    authors="A.A.Sharifloo, Y.Motazedi, M.Shamsfard, R.Dehkharghani",
+    place=FAKE,
+    placex="3rd International Conference on Information and Communication Technologies: From Theory to Applications (ICTTA), April",
+))
+
 soto2008a = DB(WorkUnrelated(
     2008, "Using model comparison to maintain model-to-standard compliance",
     display="soto",
@@ -553,4 +670,21 @@ tripathi2008a = DB(WorkUnrelated(
     ID="tripathi2008life",
     gs2016="1",
     placex="JCP",
+))
+
+varkoi2008a = DB(WorkUnrelated(
+    2008, "Implementation of a software process standard as an electronic process guide",
+    display="varkoi",
+    authors="S. Alexandre T. Makinen T. Varkoi",
+    place=FAKE,
+    other1="26--28 May",
+    placex="proceedings of SPICE 2008 Conference (Software Process Improvement and Capability dEtermination)",
+))
+
+varkoi2008b = DB(WorkUnrelated(
+    2008, "Assessment Driven Process Modeling for Software Process Improvement",
+    display="varkoi b",
+    authors="T. Makinen T. Varkoi",
+    place=FAKE,
+    placex="proceeding of PICMET'08 Conference 27–31 July",
 ))

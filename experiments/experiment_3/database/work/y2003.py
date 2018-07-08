@@ -4,7 +4,7 @@ from snowballing.models import *
 from ..places import *
 
 ambriola2003a = DB(WorkUnrelated(
-    2003, "A Framework for Comparing Software Processes off the Shelf (SPOTS)",
+    2003, "A Framework for Comparing Software Processes off the Shelf",
     display="ambriola",
     authors="Ambriola, Vincenzo and Cignoni, Giovanni A and Conradi, Reidar and Jaccheri, Letizia",
     place=FAKE,
@@ -14,12 +14,29 @@ ambriola2003a = DB(WorkUnrelated(
     placex="article",
 ))
 
-deng2003a = DB(WorkUnrelated(
-    2003, "Multimedia  Software Engineering",
-    display="deng",
-    authors="Deng, D., Wang, T., Sheu, P.C.-Y., Maezawa, H., Tsunoda, F., Onoma, A.K.: DPSSEE: a distributed  proactive  semantic software  engineering  environment",
+berauer2003a = DB(WorkUnrelated(
+    2003, "The Use of Tailored Practice Implementation indicators for Process Definition and Assessment Preparation.",
+    display="berauer",
+    authors="Berauer, R.",
     place=FAKE,
-    placex="proceedings of the Fifth International Symposium",
+    other1="Google Scholar",
+    placex="National Defense Industrial Association 3rd Annual CMMI Technology Conference and User Group Denver, Colorado (2003)",
+))
+
+damiani2003a = DB(WorkUnrelated(
+    2003, "A ontology-based process modeling for XP",
+    display="f.",
+    authors="Ceravolo P. Damiani E. Marchesi M. Pinna S. Zavatarelli F.",
+    place=FAKE,
+    placex="APSEC2003 December 2003 pp. 236-242",
+))
+
+deng2003a = DB(WorkUnrelated(
+    2003, "DPSSEE: a distributed  proactive  semantic software  engineering  environment",
+    display="deng",
+    authors="Deng, D., Wang, T., Sheu, P.C.Y., aezawa, H., Tsunoda, F., Onoma, A.K.",
+    place=FAKE,
+    placex="proceedings of the Fifth International Symposium Multimedia  Software Engineering",
 ))
 
 dolado2003a = DB(WorkUnrelated(
@@ -62,6 +79,31 @@ hayes2003a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+iso2003a = DB(WorkUnrelated(
+    2003, "ISO IEC 15504 2 - Part 2: Performing an assessment",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="accessed site",
+))
+
+kulpa2003a = DB(WorkUnrelated(
+    2003, "Interpreting the CMMI: A Process Improvement Approach",
+    display="kulpa",
+    authors="Kulpa, K., Johnson, A.",
+    place=FAKE,
+    other1="Google Scholar",
+    placex="Taylor & Francis, Abington (2003)",
+))
+
+miller2003a = DB(WorkUnrelated(
+    2003, "MDA   Guide   Version   1.0.1",
+    display="miller",
+    authors="J. Miller,J. Mukerji,",
+    place=FAKE,
+    placex="http://www.omg.org/docs/omg/ 03-06-01.pdf,2003 -06 -12",
+))
+
 ruiz2003a = DB(WorkUnrelated(
     2003, "Environment for Managing Software Maintenance Projects",
     display="ruiz",
@@ -84,4 +126,12 @@ staalhane2003a = DB(WorkUnrelated(
     ID="staalhane2003kandidatens",
     gs2016="1",
     placex="NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET FAKULTET FOR INFORMASJONSTEKNOLOGI, MATEMATIKK OG ELEKTROTEKNIKK",
+))
+
+w3c2003a = DB(WorkUnrelated(
+    2003, "OWL Overview",
+    display="w3c",
+    authors="W3C",
+    place=FAKE,
+    placex="http://www.w3.org/TR/2003/CR-owl-features- 20030818/.",
 ))

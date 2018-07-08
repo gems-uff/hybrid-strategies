@@ -19,7 +19,7 @@ april2009a = DB(WorkUnrelated(
 ))
 
 armbrust2009a = DB(WorkUnrelated(
-    2009, "Verfolgbarkeit in großen Prozessstandards am Beispiel der Raumfahrtindustrie.",
+    2009, "Verfolgbarkeit in großen Prozessstandards am Beispiel der Raumfahrtindustrie",
     display="armbrust",
     authors="Armbrust, Ove and Ocampo, Alexis and Soto, Martín and Münch, Jürgen and Katahira, Masafumi and Koishi, Yumi and Miyamoto, Yuko",
     place=FAKE,
@@ -142,6 +142,22 @@ chroust2009a = DB(WorkUnrelated(
     placex="Designing Software-Intensive Systems: Methods and Principles",
 ))
 
+cmmi2009a = DB(WorkUnrelated(
+    2009, "The CMMI-Dev Ontology",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    placex="http://web.cs.hacettepe.edu.tr/~atarhan/cmmi-owl/",
+))
+
+cmusei2009a = DB(WorkUnrelated(
+    2009, "CMMI Product Team: CMMI for Services",
+    display="cmusei",
+    authors="CMUSEI",
+    place=FAKE,
+    placex="CMMI-SVC V1.2, CMU/SEI-2009-TR-001, February",
+))
+
 cornut2009a = DB(WorkUnrelated(
     2009, "The discursive constitution of software development",
     display="cornut",
@@ -167,6 +183,22 @@ correia2009a = DB(WorkUnrelated(
     placex="Software Engineering Advances, 2009. ICSEA'09. Fourth International Conference on",
 ))
 
+dadam2009a = DB(WorkUnrelated(
+    2009, "The ADEPT project: a decade of research and development for robust and flexible process support",
+    display="dadam",
+    authors="P. Dadam and M. Reichert,",
+    place=FAKE,
+    placex="Computer Science-Research & Development",
+))
+
+dpans2009a = DB(WorkUnrelated(
+    2009, "Knowledge Interchange Format draft proposed American National Standard (dpANS)",
+    display="dpans",
+    authors="dpANS",
+    place=FAKE,
+    placex="NCITS.T2/98-004, Ed.",
+))
+
 dumke2009a = DB(WorkUnrelated(
     2009, "Quality assurance of agent-based and self-managed systems",
     display="dumke",
@@ -177,6 +209,22 @@ dumke2009a = DB(WorkUnrelated(
     ID="dumke2009quality",
     gs2016="1",
     placex="",
+))
+
+eclipse2009a = DB(WorkUnrelated(
+    2009, "Eclipse",
+    display="eclipse",
+    authors="Eclipse",
+    place=FAKE,
+    placex="http://www.eclipse.org/ accessed site",
+))
+
+epf2009a = DB(WorkUnrelated(
+    2009, "Eclipse Process Framework Project",
+    display="epf",
+    authors="EPF",
+    place=FAKE,
+    placex="http://www.eclipse.org/epf/",
 ))
 
 falbo2009a = DB(WorkUnrelated(
@@ -212,7 +260,7 @@ falbo2009b = DB(WorkUnrelated(
 gazel2009a = DB(WorkSnowball(
     2009, "A CMMI Ontology for An Ontology-Based Software Process Assessment Tool",
     display="gazel",
-    authors="Gazel, Sema and Tarhan, Ay{ç}a and Sezer, Ebru",
+    authors="Gazel, Sema and Tarhan, Ayca and Sezer, Ebru",
     place=FAKE,
     entrytype="inproceedings",
     volume="9",
@@ -404,7 +452,7 @@ mora2009a = DB(WorkUnrelated(
 ))
 
 no2009a = DB(WorkUnrelated(
-    2009, "ANNA UNIVERSITY CHENNAI:: CHENNAI 600 025 UNIVERSITY DEPARTMENTS CURRICULUM--R 2009 BE (PART TIME) COMPUTER SCIENCE AND ENGINEERING SEMESTER I",
+    2009, "ANNA UNIVERSITY CHENNAI  CHENNAI 600 025 UNIVERSITY DEPARTMENTS CURRICULUM R 2009 BE PART TIME COMPUTER SCIENCE AND ENGINEERING SEMESTER I",
     display="no",
     authors="NO, S",
     place=FAKE,
@@ -425,6 +473,14 @@ oh2009a = DB(WorkUnrelated(
     ID="oh2009high",
     gs2016="1",
     placex="Model-Driven Software Development: Integrating Quality Assurance",
+))
+
+protégé2009a = DB(WorkUnrelated(
+    2009, "Protégé-OWL Ontology Editor Version : 3.3.1",
+    display="protégé",
+    authors="Protégé",
+    place=FAKE,
+    placex="http://protege.stanford.edu/overview/protege-owl.html",
 ))
 
 riel2009a = DB(WorkUnrelated(
@@ -486,6 +542,14 @@ shvaiko2009a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+sumo2009a = DB(WorkUnrelated(
+    2009, "Suggested Upper Merged Ontology (SUMO)",
+    display="sumo",
+    authors="SUMO",
+    place=FAKE,
+    placex="www.ontologyportal.org",
+))
+
 szyszka2009a = DB(WorkUnrelated(
     2009, "Analysis and classification of maturity models in enterprise architecture management",
     display="szyszka",
@@ -534,7 +598,7 @@ weerd2009a = DB(WorkUnrelated(
 ))
 
 xia2009a = DB(WorkUnrelated(
-    2009, "A Reliable Message Transfer Mechanism [J]",
+    2009, "A Reliable Message Transfer Mechanism",
     display="xia",
     authors="XIA, Sheng-ming and YIN, Bao-lin",
     place=FAKE,

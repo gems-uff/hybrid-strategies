@@ -15,6 +15,14 @@ bennetts2001a = DB(WorkUnrelated(
     placex="AMCIS 2001 Proceedings",
 ))
 
+berners2001a = DB(WorkUnrelated(
+    2001, "The semantic web",
+    display="berners",
+    authors="T. Berners-Lee, J. Hendler, and O. Lassila,",
+    place=FAKE,
+    placex="Scientific American",
+))
+
 borgen2001a = DB(WorkUnrelated(
     2001, "A Maturity Framework for the Enterprise Modeling and Engineering Process",
     display="borgen",
@@ -86,6 +94,23 @@ lopez2001a = DB(WorkUnrelated(
     placex="Proceedings  of  World  Multi  conference  on  Systemics",
 ))
 
+mcguinness2001a = DB(WorkUnrelated(
+    2001, "Ontology Development 101 : A Guide to Creating Your First Ontology",
+    display="mcguinness",
+    authors="Natalya Fridman Noy Deborah L. McGuinness",
+    place=FAKE,
+    placex="Stanford Knowledge Systems Laboratory Technical Report KSL-01-05 March",
+))
+
+musen2001a = DB(WorkUnrelated(
+    2001, "Creating semantic web contents with protégé-2000",
+    display="musen",
+    authors="N. F. Noy M. Sintek S. Decker M. Crubézy R. W. Fergerson M. A. Musen",
+    place=FAKE,
+    other1="60-71",
+    placex="IEEE Intelligent Systems vol. 16 no. 2 pp",
+))
+
 niessink2001a = DB(WorkUnrelated(
     2001, "Perspectives on improving software maintenance",
     display="niessink",
@@ -97,4 +122,20 @@ niessink2001a = DB(WorkUnrelated(
     ID="niessink2001perspectives",
     gs2016="1",
     placex="Software Maintenance, 2001. Proceedings. IEEE International Conference on",
+))
+
+w32001a = DB(WorkUnrelated(
+    2001, "BestPractices/SE/ODA",
+    display="w3",
+    authors="w3",
+    place=FAKE,
+    placex="http://www.w3.org/2001/sw/BestPractices/SE/ODA/",
+))
+
+w32001b = DB(WorkUnrelated(
+    2001, "BestPractices/SE",
+    display="w3 b",
+    authors="w3",
+    place=FAKE,
+    placex="http://www.w3.org/2001/sw/BestPractices/SE",
 ))

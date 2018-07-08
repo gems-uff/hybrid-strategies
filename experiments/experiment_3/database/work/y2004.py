@@ -3,8 +3,40 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bamford2004a = DB(WorkUnrelated(
+    2004, "ISO 9001 2000 for software and systems providers an engineering approach",
+    display="bamford",
+    authors="R. Bamford, and W. J. Deibler,",
+    place=FAKE,
+    placex="CRC-Press",
+))
+
+bertollo2004a = DB(WorkUnrelated(
+    2004, "Knowledge based Support to Process Integration in ODE",
+    display="bertollo",
+    authors="Fabiano Borges Ruy Gleidson Bertollo and Ricardo de Almeida Falbo",
+    place=FAKE,
+    placex="CLEI Electron. J 7(1)",
+))
+
+bourque2004a = DB(WorkUnrelated(
+    2004, "Guide to the Software Engineering",
+    display="bourque",
+    authors="P. Bourque and R. Dupuis",
+    place=FAKE,
+    placex="IEEE Computer Society Body of Knowledge”,",
+))
+
+consortium2004a = DB(WorkUnrelated(
+    2004, "OWL Web Ontology Language Semantics and Abstract Syntax",
+    display="consortium",
+    authors="World Wide Web Consortium",
+    place=FAKE,
+    placex="",
+))
+
 díaz2004a = DB(WorkUnrelated(
-    2004, "Una Aproximación Lingüística de Ingeniería de Requisitos para OO-Method",
+    2004, "Una Aproximación Lingüística de Ingeniería de Requisitos para OO Method",
     display="díaz",
     authors="Díaz, Isabel and Pastor, Oscar and Moreno, Lidia and Matteo, Alfredo",
     place=FAKE,
@@ -17,7 +49,7 @@ díaz2004a = DB(WorkUnrelated(
 ))
 
 kaner2004a = DB(WorkUnrelated(
-    2004, "A capability maturity model for knowledge-based decisionmaking",
+    2004, "A capability maturity model for knowledge based decision making",
     display="kaner",
     authors="Kaner, Maya and Karni, Reuven",
     place=FAKE,
@@ -31,6 +63,15 @@ kaner2004a = DB(WorkUnrelated(
     placex="Information Knowledge Systems Management",
 ))
 
+levesque2004a = DB(WorkUnrelated(
+    2004, "Knowledge Representation and Reasoning",
+    display="levesque",
+    authors="R. Brachman H. Levesque",
+    place=MK,
+    other1="Morgan Kaufmann May",
+    placex="(The Morgan Kaufmann Series in Artificial Intelligence)",
+))
+
 liao2004a = DB(WorkUnrelated(
     2004, "Automated  Support  of  Quality  Improvement",
     display="liao",
@@ -39,10 +80,45 @@ liao2004a = DB(WorkUnrelated(
     placex="proceedings     of     The     8th     IASTED     International     Conference     on     SOFTWARE ENGINEERING AND APPLICATIONS",
 ))
 
+liao2004b = DB(WorkUnrelated(
+    2004, "Automated Support of Quality Improvement,",
+    display="liao b",
+    authors="L.Liao,  H.K.  N.  Leung,  Y.  Z.Qu,",
+    place=FAKE,
+    placex="Proceedings  of The  8th  IASTED  International  Conference  onSOFTWARE  ENGINEERING  AND  APPLICATIONS(SEA 2004), 9-11 Nov.",
+))
+
+loon2004a = DB(WorkUnrelated(
+    2004, "Process Assessment and ISO IEC 15504",
+    display="loon",
+    authors="Loon, H.",
+    place=FAKE,
+    other1="Google Scholar",
+    placex="A Reference Book. Springer, Heidelberg (2004)",
+))
+
+mendes2004a = DB(WorkUnrelated(
+    2004, "Software engineering ontology: A development methodology",
+    display="mendes",
+    authors="O. Mendes and A. Abran.",
+    place=FAKE,
+    other1="9:68–76,",
+    placex="Metrics News,",
+))
+
+pan2004a = DB(WorkUnrelated(
+    2004, "An Intelligent Fuzzy Agent for Meeting Scheduling Decision Support System",
+    display="pan",
+    authors="C. S. Lee C. Y. Pan",
+    place=FAKE,
+    other1="vol. 142 no. 3 pp. 467-488",
+    placex="Fuzzy Sets and Systems",
+))
+
 patel2004a = DB(WorkUnrelated(
     2004, "OWL:  Web  Ontology  Language  Semantics and Abstract Syntax",
     display="patel",
-    authors="Patel-Schneider,  P.F.,  Hayes,  P.,  Horrocks,  I.  (eds.)",
+    authors="Patel-Schneider,  P.F.,  Hayes,  P.,  Horrocks,  I.",
     place=FAKE,
     placex="W3C Recommendation",
 ))
@@ -66,10 +142,52 @@ ruiz2004a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+tague2004a = DB(WorkUnrelated(
+    2004, "N.R. The Quality Toolbox",
+    display="tague",
+    authors="Tague",
+    place=FAKE,
+    other1="2004, pp. 390-392, ISBN 978-0-87389-639-9.",
+    placex="2nd Ed., ASQ Quality Press,",
+))
+
+vondrak2004a = DB(WorkUnrelated(
+    2004, "HDA and resources modeling in business process",
+    display="vondrak",
+    authors="D. Jezek I. Vondrak",
+    place=FAKE,
+    placex="in ECEC 2004 Ghent Belgium:Ghent University",
+))
+
+w3c2004a = DB(WorkUnrelated(
+    2004, "OWL  Web  Ontology  Language  Reference",
+    display="W3C",
+    authors="W3C",
+    place=FAKE,
+    placex="http://www.w3.org/TR/2004/REC-owl-ref-20040210/",
+))
+
+w3c2004ab = DB(WorkUnrelated(
+    2004, "Web Ontology Language OWL",
+    display="w3c",
+    authors="The World Wide Web Consortium",
+    place=FAKE,
+    placex="http://www.w3.org/2004/OWL",
+))
+
+w3c2004c = DB(WorkUnrelated(
+    2004, "Web Ontology Language Reference OWL",
+    display="w3c c",
+    authors="W3C",
+    place=FAKE,
+    other1="http://www.w3.org/2004/OWL/",
+    placex="accessed site",
+))
+
 weber2004a = DB(WorkUnrelated(
     2004, "Modelo de Referência para Melhoria de Processo de Software: uma abordagem brasileira",
     display="weber",
-    authors="Weber, Kival C and Rocha, Ana Regina and Alves, Ângela and Ayala, Arnaldo M and Gon{ç}alves, Austregésilo and Paret, Benito and Salviano, Clênio and Machado, Cristina F and Scalet, Danilo and Petit, Djalma and others",
+    authors="Weber, Kival C and Rocha, Ana Regina and Alves, Ângela and Ayala, Arnaldo M and Goncalves, Austregésilo and Paret, Benito and Salviano, Clênio and Machado, Cristina F and Scalet, Danilo and Petit, Djalma and others",
     place=FAKE,
     pp="20--10",
     entrytype="inproceedings",

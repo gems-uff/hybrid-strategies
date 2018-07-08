@@ -6,7 +6,7 @@ from ..places import *
 adedjouma2012a = DB(WorkUnrelated(
     2012, "An experiment on merging quality assessment in automotive domain",
     display="adedjouma",
-    authors="Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{ç}ois and Kitouni, Tarek",
+    authors="Adedjouma, Morayo and Dubois, Hubert and Terrier, Francois and Kitouni, Tarek",
     place=ICSPICD,
     pp="107--117",
     entrytype="inproceedings",
@@ -20,7 +20,7 @@ adedjouma2012a = DB(WorkUnrelated(
 adedjouma2012b = DB(WorkUnrelated(
     2012, "Merging the quality assessment of processes and products in automotive domain",
     display="adedjouma b",
-    authors="Adedjouma, Morayo and Dubois, Hubert and Terrier, Fran{ç}ois and Kitouni, Tarek",
+    authors="Adedjouma, Morayo and Dubois, Hubert and Terrier, Francois and Kitouni, Tarek",
     place=ICPFSPI,
     pp="275--289",
     entrytype="inproceedings",
@@ -72,6 +72,14 @@ april2012a = DB(WorkUnrelated(
     page_count="312",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891582161&doi=10.1002%2f9780470258033&partnerID=40&md5=e72c8ee52270b4c068b6ad5861c91691",
     scopus2016_duplicate_removed="1",
+))
+
+assistant2012a = DB(WorkUnrelated(
+    2012, "Appraisal Assistant SQI",
+    display="assistant",
+    authors="Appraisal Assistant",
+    place=FAKE,
+    placex="http://www.sqi.gu.edu.au/AppraisalAssistant/about.html [July 2012]",
 ))
 
 barcellos2012a = DB(WorkUnrelated(
@@ -182,7 +190,7 @@ dash2012a = DB(WorkUnrelated(
 domínguez2012a = DB(WorkUnrelated(
     2012, "Quality evaluation for model-driven web engineering methodologies",
     display="domínguez",
-    authors="Domínguez-Mayo, FJ and Escalona, M José and Mejías, Manuel and Ross, Margaret and Staples, Geoff",
+    authors="Domínguez Mayo, FJ and Escalona, M José and Mejías, Manuel and Ross, Margaret and Staples, Geoff",
     place=IST,
     pp="1265--1282",
     entrytype="article",
@@ -265,7 +273,7 @@ fernández2012a = DB(WorkUnrelated(
 gazel2012a = DB(WorkSnowball(
     2012, "An ontology based infrastructure to support CMMI-based software process assessment",
     display="gazel",
-    authors="Gazel, Sema and Sezer, Ebru Ak{ç}apinar and Tarhan, Ayca",
+    authors="Gazel, Sema and Sezer, Ebru Akcpinar and Tarhan, Ayca",
     place=FAKE,
     pp="155--164",
     entrytype="article",
@@ -297,6 +305,14 @@ grambow2012a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="",
+))
+
+grambow2012b = DB(WorkUnrelated(
+    2012, "Knowledge Provisioning: A Context-Sensitive Process-Oriented Approach Applied to Software Engineering Environments",
+    display="grambow b",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    placex="Proc. 7th Int’l Conf. on Software and Data Technologies",
 ))
 
 gruhn2012a = DB(WorkUnrelated(
@@ -331,7 +347,7 @@ he2012a = DB(WorkUnrelated(
 henderson2012a = DB(WorkUnrelated(
     2012, "Position Statement for SEMAT",
     display="henderson",
-    authors="Henderson-Sellers, Brian and FIMA, FIEAust",
+    authors="Henderson Sellers, Brian and FIMA, FIEAust",
     place=FAKE,
     entrytype="article",
     ID="hendersonposition",
@@ -342,7 +358,7 @@ henderson2012a = DB(WorkUnrelated(
 henderson2012b = DB(WorkUnrelated(
     2012, "Standards harmonization: theory and practice",
     display="henderson b",
-    authors="Henderson-Sellers, Brian",
+    authors="Henderson Sellers, Brian",
     place=FAKE,
     pp="153--161",
     entrytype="article",
@@ -367,8 +383,16 @@ hundley2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+iso2012a = DB(WorkUnrelated(
+    2012, "ISO IEC 15504 5 2012 Part 5: An exemplar software life cycle process assessment model",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="iso iec",
+))
+
 kelemen2012a = DB(WorkUnrelated(
-    2012, "Identifying criteria for multimodel software process improvement solutions--based on a review of current problems and initiatives",
+    2012, "Identifying criteria for multimodel software process improvement solutions based on a review of current problems and initiatives",
     display="kelemen",
     authors="Kelemen, Zádor Dániel and Kusters, Rob and Trienekens, Jos",
     place=JSEP,
@@ -446,7 +470,7 @@ leal2012a = DB(WorkUnrelated(
 li2012a = DB(WorkUnrelated(
     2012, "Circumstantial-evidence-based effort judgement for web service composition-based SOA implementations",
     display="li",
-    authors="Li, Zheng and O’Brien, Liam and Zhang, He",
+    authors="Li, Zheng and O Brien, Liam and Zhang, He",
     place=FAKE,
     pp="31--44",
     entrytype="article",
@@ -503,6 +527,14 @@ rahman2012a = DB(WorkUnrelated(
     placex="18th International Working Conference on Requirements Engineering: Foundation for Software Quality",
 ))
 
+reichert2012a = DB(WorkUnrelated(
+    2012, "Enabling Flexibility in Process-aware Information Systems – Challenges, Methods, Technologies",
+    display="reichert",
+    authors="M. Reichert and B. Weber",
+    place=FAKE,
+    placex="Springer,",
+))
+
 rensburg2012a = DB(WorkUnrelated(
     2012, "The relationship between process maturity models and the use and effectiveness of systems development methodologies",
     display="rensburg",
@@ -528,9 +560,9 @@ rifaut2012a = DB(WorkUnrelated(
 ))
 
 ruiz2012a = DB(WorkUnrelated(
-    2012, "Uses and applications of spem process models. a systematic mapping study",
+    2012, "Uses and applications of spem process models a systematic mapping study",
     display="ruiz",
-    authors="Ruiz-Rube, Iván and Dodero, Juan Manuel and Palomo-Duarte, Manuel and Ruiz, Mercedes and Gawn, David",
+    authors="Ruiz Rube, Iván and Dodero, Juan Manuel and Palomo Duarte, Manuel and Ruiz, Mercedes and Gawn, David",
     place=FAKE,
     pp="999--1025",
     entrytype="article",
@@ -593,7 +625,7 @@ soydan2012a = DB(WorkSnowball(
 ))
 
 tech2012a = DB(WorkUnrelated(
-    2012, "COURSE STRUCTURE AND DETAILED SYLLABUS (MR12Regulations)",
+    2012, "COURSE STRUCTURE AND DETAILED SYLLABUS MR12Regulations",
     display="tech",
     authors="Tech, M",
     place=FAKE,

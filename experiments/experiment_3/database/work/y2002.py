@@ -6,7 +6,7 @@ from ..places import *
 althoff2002a = DB(WorkUnrelated(
     2002, "The indiGo project: enhancement of experience management and process learning with moderated discourses",
     display="althoff",
-    authors="Althoff, Klaus-Dieter and Becker-Kornstaedt, Ulrike and Decker, Björn and Klotz, Andreas and Leopold, Edda and Rech, Jörg and Voss, Angi",
+    authors="Althoff, Klaus Dieter and Becker Kornstaedt, Ulrike and Decker, Björn and Klotz, Andreas and Leopold, Edda and Rech, Jörg and Voss, Angi",
     place=FAKE,
     pp="53--79",
     entrytype="incollection",
@@ -14,6 +14,14 @@ althoff2002a = DB(WorkUnrelated(
     ID="althoff2002indigo",
     springer2016="1",
     placex="Advances in Data Mining",
+))
+
+benes2002a = DB(WorkUnrelated(
+    2002, "Unified Environment for Business Process Modeling and Workflow Enactment",
+    display="benes",
+    authors="I. Vondrak M Kruzel R. Szturc M. Benes",
+    place=FAKE,
+    placex="Proceedings of the ECEC 2002 Conference",
 ))
 
 bennetts2002a = DB(WorkUnrelated(
@@ -28,6 +36,27 @@ bennetts2002a = DB(WorkUnrelated(
     placex="AMCIS 2002 Proceedings",
 ))
 
+cmmi2002a = DB(WorkUnrelated(
+    2002, "CMMI staged-version 1.1",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    placex="CMMI",
+))
+
+cmmi2002ab = DB(WorkUnrelated(
+    2002, "Capability maturity model integration version 1.1 cmmism for software",
+    display="cmmi",
+    authors="cmmi",
+    place=FAKE,
+    other1="Technical Report CMU/SEI2002-TR-029,",
+    other2="ESC/TR-2002-029,",
+    other3="Carnegie Mellon,",
+    other4="Software Engineering Institute,",
+    other5="Pittsburgh,",
+    placex="engineering (cmmi-sw, v1.1) staged representation.",
+))
+
 cmusei2002a = DB(WorkUnrelated(
     2002, "Capability Maturity Model",
     display="cmu sei",
@@ -36,6 +65,14 @@ cmusei2002a = DB(WorkUnrelated(
     other1="Version 1.1",
     other2="CMMI SM for Software Engineering (CMMI-SW/SE/IPPD/SS, V1.1) Continuous Representation",
     placex="Integration (CMMISM)",
+))
+
+cmusei2002ab = DB(WorkUnrelated(
+    2002, "Capability Maturity Model Integration (CMMI) Version 1.1 - Staged Representation",
+    display="cmusei",
+    authors="CMU SEI",
+    place=FAKE,
+    placex="Carnegie Mellon University Software Engineering Institute Pittsburgh",
 ))
 
 conradi2002a = DB(WorkUnrelated(

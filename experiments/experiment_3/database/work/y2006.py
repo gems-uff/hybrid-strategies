@@ -113,6 +113,14 @@ canfora2006a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+carnegie2006a = DB(WorkUnrelated(
+    2006, "cmmi appraisals",
+    display="Carnegie b",
+    authors="Carnegie mellon software engineering institute",
+    place=FAKE,
+    placex="http://www.sei.cmu.edu/cmmi/appraisals.",
+))
+
 domínguez2006a = DB(WorkUnrelated(
     2006, "Quality in Development Process for Software Factories According to ISO 15504",
     display="domínguez",
@@ -171,6 +179,15 @@ fujita2006a = DB(WorkUnrelated(
     placex="Proceedings of the Fifth SoMeT_06",
 ))
 
+gandon2006a = DB(WorkUnrelated(
+    2006, "Searching the Semantic Web: Approximate Query Processing Based on Ontologies",
+    display="gandon",
+    authors="O. Corby R. D. Kuntz C. F. Zucker F. Gandon",
+    place=FAKE,
+    other1="vol. 21 no. 1 pp. 20-27",
+    placex="IEEE Intelligent Systems",
+))
+
 garcía2006a = DB(WorkUnrelated(
     2006, "Towards a consistent terminology for software measurement",
     display="garcía",
@@ -188,7 +205,7 @@ garcía2006a = DB(WorkUnrelated(
 ))
 
 gervasi2006a = DB(WorkUnrelated(
-    2006, "Computational Science and Its Applications-ICCSA 2006: International Conference, Glasgow, UK, May 8-11, 2006, Proceedings",
+    2006, "Computational Science and Its Applications",
     display="gervasi",
     authors="Gervasi, Osvaldo and Kumar, Vipin and Tan, CJ Kenneth and Taniar, David and Laganà, Antonio and Mun, Youngsong and Choo, Hyunseung",
     place=Book,
@@ -197,7 +214,7 @@ gervasi2006a = DB(WorkUnrelated(
     publisher="Springer",
     ID="gervasi2006computational",
     gs2016="1",
-    placex="",
+    placex="ICCSA 2006: International Conference, Glasgow, UK, May 8-11, 2006, Proceedings",
 ))
 
 gonzalez2006a = DB(WorkUnrelated(
@@ -228,6 +245,50 @@ halloran2006a = DB(WorkUnrelated(
     placex="",
 ))
 
+hamdi2006a = DB(WorkUnrelated(
+    2006, "MASACAD: A Multigent Based Approach to Information Customization",
+    display="hamdi",
+    authors="M. S. Hamdi",
+    place=FAKE,
+    other1="vol. 21 no. 1 pp. 60-67",
+    placex="IEEE Intelligent System",
+))
+
+han2006a = DB(WorkUnrelated(
+    2006, "Selection Priority of Process areas based on CMMI continuous Representation",
+    display="han",
+    authors="S. J. Huang W. M. Han",
+    place=FAKE,
+    other1="vol. 43 no. 3 pp. 297-307 Apr.",
+    placex="Information &amp; Management",
+))
+
+happel2006a = DB(WorkUnrelated(
+    2006, "Applications of Ontologies in Software Engineering",
+    display="happel",
+    authors="Hans-Jörg Happel and Stefan Seedorf",
+    place=FAKE,
+    placex="SWESE 2006",
+))
+
+hsieh2006a = DB(WorkUnrelated(
+    2006, "A genetic agent using ontology model for meeting scheduling system",
+    display="hsieh",
+    authors="C. S. Lee C. C J. T. C. Hsieh",
+    place=IC,
+    other1="vol. 176 no. 9 pp. 1131-1155 May.",
+    placex="Information Sciences",
+))
+
+lee2006a = DB(WorkUnrelated(
+    2006, "Ontology-based Intelligent Decision Support Agent for CMMI Project Monitoring and Control",
+    display="lee",
+    authors="Lee, C., Wang, M., Cheng, J., Hsu, C.",
+    place=FAKE,
+    other1="Google Scholar",
+    placex="Fuzzy Information Processing Society (NAFIPS 2006), IEEE Press, Canada (2006)",
+))
+
 lehner2006a = DB(WorkUnrelated(
     2006, "ASG Development Process--Application and Service Engineering",
     display="lehner",
@@ -254,6 +315,15 @@ leppänen2006a = DB(WorkUnrelated(
     gs2016="1",
     placex="Software Process: Improvement and Practice",
     wiley2016="1",
+))
+
+li2006a = DB(WorkUnrelated(
+    2006, "A Multilayer Perceptron-basedMedical Decision Support System for Heart Disease Diagnosis",
+    display="li",
+    authors="H. Yan Y. Jiang J. Zheng C. Pend Q. Li",
+    place=FAKE,
+    other1="vol. 30 no. 3 pp. 272-281 Feb.",
+    placex="Expert Systems with Applications",
 ))
 
 mei2006a = DB(WorkUnrelated(
@@ -284,7 +354,7 @@ montoni2006a = DB(WorkUnrelated(
 ))
 
 montoni2006b = DB(WorkUnrelated(
-    2006, "Taba workstation: Supporting software process deployment based on CMMI and MR-MPS. BR",
+    2006, "Taba workstation: Supporting software process deployment based on CMMI and MR-MPS BR",
     display="montoni b",
     authors="Montoni, Mariano and Santos, Gleison and Rocha, Ana Regina and Figueiredo, Sávio and Cabral, Reinaldo and Barcellos, Rafael and Barreto, Ahilton and Soares, Andréa and Cerdeiral, Cristina and Lupo, Peter",
     place=ICPFSPI,
@@ -311,7 +381,7 @@ oliveira2006a = DB(WorkUnrelated(
 ))
 
 palomäki2006a = DB(WorkUnrelated(
-    2006, "A Process-Ontological Model for Software Engineering.",
+    2006, "A Process-Ontological Model for Software Engineering",
     display="palomäki",
     authors="Palomäki, Jari and Keto, Harri",
     place=FAKE,
@@ -321,6 +391,15 @@ palomäki2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10442752466228455842&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="PhiSE",
+))
+
+pratt2006a = DB(WorkUnrelated(
+    2006, "An Integrated and Intelligent DSS for Manufacturing Systems",
+    display="pratt",
+    authors="D. Delen D. B. Pratt",
+    place=FAKE,
+    other1="vol. 30 no. 2 pp. 325-336 Feb.",
+    placex="Expert Systems with Applications",
 ))
 
 rittgen2006a = DB(WorkUnrelated(
@@ -333,6 +412,23 @@ rittgen2006a = DB(WorkUnrelated(
     ID="rittgen2006enterprise",
     gs2016="1",
     placex="booksgoogle",
+))
+
+russo2006a = DB(WorkUnrelated(
+    2006, "Early Estimation of Software Size in Object-Oriented Environments a Case Study in a CMM Level 3 Software Firm",
+    display="russo",
+    authors="M. Ronchetti G. Succi W. Pedrycz B. Russo",
+    place=IC,
+    other1="vol. 175 no. 56 pp. 475-489 Mar.",
+    placex="Information Science",
+))
+
+sei2006a = DB(WorkUnrelated(
+    2006, "CMMI Product Team: CMMI for Development",
+    display="sei",
+    authors="CMU SEI",
+    place=FAKE,
+    placex="CMMI-SE/SW V1.2, CMU/SEI-2006-TR-008,",
 ))
 
 siemieniuch2006a = DB(WorkUnrelated(
@@ -377,6 +473,16 @@ soydan2006a = DB(WorkSnowball(
     selected_order="12",
     final_selected="1",
     placex="Workshop on Semantic Web Enabled Software Engineering (SWESE)",
+    other1="Google Scholar",
+))
+
+team2006a = DB(WorkUnrelated(
+    2006, "CMMI for Development Version 1.2: Improvement Processes for Better Products.",
+    display="team",
+    authors="CMMI Product Team",
+    place=FAKE,
+    other1="Google Scholar",
+    placex="Carnegie Mellon. Software Engineering Institute, USA (2006)",
 ))
 
 vandenabeele2006a = DB(WorkUnrelated(
@@ -399,4 +505,12 @@ vasconcelos2006a = DB(WorkUnrelated(
     ID="deprocess",
     gs2016="1",
     placex="Proceedings on The First International Workshop on Metamodelling--Utilization in Software Engineering--MUSE, Setúbal-Portugal",
+))
+
+wu2006a = DB(WorkUnrelated(
+    2006, "A Unified Model for the Implementation of both ISO 9001:2000 and CMMI byISO-certified Organizations",
+    display="wu",
+    authors="C. Yoo j. Yoon B. Lee C. Lee J. Lee S. Hyun C. Wu",
+    place=JSS,
+    placex="The Journal of Systems and Software press",
 ))

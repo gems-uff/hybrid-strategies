@@ -23,3 +23,11 @@ marttiin1998a = DB(WorkUnrelated(
     gs2016="1",
     placex="Effective Utilization and Management of Emerging Information Technologies",
 ))
+
+musen1998a = DB(WorkUnrelated(
+    1998, "Domain Ontologies in Software Engineering: Use of protégé with the EON Architecture",
+    display="musen",
+    authors="M. A. Musen",
+    place=FAKE,
+    placex="Methods of Information in Medicine 37 1998 pp. 540-550",
+))

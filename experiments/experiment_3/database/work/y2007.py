@@ -58,7 +58,7 @@ braungarten2007a = DB(WorkUnrelated(
 bultan2007a = DB(WorkUnrelated(
     2007, "Int. l Conference on Web Engineering 2007",
     display="bultan",
-    authors="Bultan, Tevfik and Calero, Coral and Marchetto, Alessandro and Moraga, M{	extordfeminine} Ángeles and Trentini, Andrea and Abrahão, Silvia and Bellettini, Carlo and Boldyreff, Cornelia and Cachero, Cristina and Díaz, Oscar and others",
+    authors="Bultan, Tevfik and Calero, Coral and Marchetto, Alessandro and Moraga, M Ángeles and Trentini, Andrea and Abrahão, Silvia and Bellettini, Carlo and Boldyreff, Cornelia and Cachero, Cristina and Díaz, Oscar and others",
     place=FAKE,
     pp="315",
     entrytype="inproceedings",
@@ -67,10 +67,26 @@ bultan2007a = DB(WorkUnrelated(
     placex="ICWE 2007 Workshops",
 ))
 
+chrissis2007a = DB(WorkUnrelated(
+    2007, "CMMI:Guidelines for Process Integration and Product Improvement",
+    display="chrissis",
+    authors="Chrissis, M., Konrad, M., Shrum, S.",
+    place=FAKE,
+    placex="Google Scholar Addison-Wesley, New York (2007)",
+))
+
+cmusei2007a = DB(WorkUnrelated(
+    2007, "CMMI Product Team: CMMI for Acquisition",
+    display="cmusei",
+    authors="CMUSEI",
+    place=FAKE,
+    placex="CMMI-ACQ V1.2, CMU/SEI-2007-TR-017, November",
+))
+
 coallier2007a = DB(WorkUnrelated(
     2007, "A vision for international standardization in software and systems engineering",
     display="coallier",
-    authors="Coallier, Fran{ç}ois",
+    authors="Coallier, Francois",
     place=ICQICT,
     pp="3--11",
     entrytype="inproceedings",
@@ -179,6 +195,15 @@ hagge2007a = DB(WorkUnrelated(
     placex="Rationale Management in Software Engineering",
 ))
 
+horák2007a = DB(WorkUnrelated(
+    2007, "TIL-Script: Functional Programming Based on Transparent Intensional Logic",
+    display="horák",
+    authors="N. Ciprich M. Duzi M. KošÂšinár P. Sojka A. Horák",
+    place=FAKE,
+    other1="37-42",
+    placex="in RASLAN 2007 Brno:MasarykUniversity pp.",
+))
+
 ikram2007a = DB(WorkUnrelated(
     2007, "Requirements change management process models: an evaluation",
     display="ikram",
@@ -194,6 +219,14 @@ ikram2007a = DB(WorkUnrelated(
     placex="Proceedings of the 25th conference on IASTED International Multi-Conference: Software Engineering",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-56149112595&partnerID=40&md5=7542547954c95115ebcb624e1854db28",
     scopus2016_duplicate_removed="1",
+))
+
+johnson2007a = DB(WorkUnrelated(
+    2007, "Requirement and design trade-offs in Hackystat: An in-process software engineering measurement and analysis system",
+    display="johnson",
+    authors="P.M. Johnson,",
+    place=FAKE,
+    placex="Proc. 1st Int. Symp. on Empirical Software Engineering and Measurement, 2007, pp. 81-90",
 ))
 
 kaschek2007a = DB(WorkUnrelated(
@@ -232,7 +265,7 @@ keto2007a = DB(WorkUnrelated(
 ))
 
 kumarapeli2007a = DB(WorkUnrelated(
-    2007, "Using Unified Modelling Language (UML) as a process-modelling technique for clinical-research process improvement",
+    2007, "Using Unified Modelling Language UML as a process-modelling technique for clinical-research process improvement",
     display="kumarapeli",
     authors="Kumarapeli, Pushpa and De Lusignan, Simon and Ellis, Timothy and Jones, Beryl",
     place=FAKE,
@@ -249,7 +282,7 @@ kumarapeli2007a = DB(WorkUnrelated(
 ))
 
 kumarapeli2007b = DB(WorkUnrelated(
-    2007, "The feasibility of using ML to compare the impact of different brands of computer system on the clinical consultation.",
+    2007, "The feasibility of using ML to compare the impact of different brands of computer system on the clinical consultation",
     display="kumarapeli b",
     authors="Kumarapeli, Pushpa and de Lusignan, Simon and Koczan, Phil and Jones, Beryl and Sheeler, Ian",
     place=FAKE,
@@ -296,6 +329,14 @@ lee2007b = DB(WorkUnrelated(
     placex="Communications of the Association for Information Systems",
 ))
 
+lee2007c = DB(WorkUnrelated(
+    2007, "Ontology-based Computational Intelligent Multi-agent and Its Application to CMMI Assessment",
+    display="lee c",
+    authors="C.S. Lee, M.H. Wang.",
+    place=FAKE,
+    placex="Springer Science+Business Media, LLC",
+))
+
 leung2007a = DB(WorkUnrelated(
     2007, "Automated support of software quality improvement",
     display="leung",
@@ -339,8 +380,16 @@ montoni2007a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+oberhauser2007a = DB(WorkUnrelated(
+    2007, "Towards a Holistic Integration of Software Lifecycle Processes using the Semantic Web",
+    display="oberhauser",
+    authors="R. Oberhauser and R. Schmidt,",
+    place=FAKE,
+    placex="Proc. 2nd Int. Conf. on Software and Data Technologies",
+))
+
 pawlak2007a = DB(WorkUnrelated(
-    2007, "A Reference Model for Free/Open Source Software (F/OSS) process management",
+    2007, "A Reference Model for Free Open Source Software process management",
     display="pawlak",
     authors="Pawlak, Michel",
     place=Thesis,
@@ -380,7 +429,7 @@ ribaud2007a = DB(WorkUnrelated(
 ))
 
 rubin2007a = DB(WorkUnrelated(
-    2007, "A workflow mining approach for deriving software process models.",
+    2007, "A workflow mining approach for deriving software process models",
     display="rubin",
     authors="Rubin, Vladimir A",
     place=Thesis,
@@ -402,6 +451,14 @@ simos2007a = DB(WorkUnrelated(
     ID="simos2007international",
     gs2016="1",
     placex="",
+))
+
+sirin2007a = DB(WorkUnrelated(
+    2007, "Pellet: A practical owl-dl reasoner",
+    display="sirin",
+    authors="E. Sirin, , B. Parsia, B. C. Grau, A. Kalyanpur, and Y. Katz,",
+    place=FAKE,
+    placex="Web Semantics: Science, Services and Agents on the World Wide Web",
 ))
 
 taipale2007a = DB(WorkUnrelated(
@@ -429,7 +486,7 @@ taipale2007b = DB(WorkUnrelated(
 terävä2007a = DB(WorkUnrelated(
     2007, "Software Process Modeling with Eclipse Process Framework",
     display="terävä",
-    authors="Terävä, Henrik and others",
+    authors="Terava, Henrik and others",
     place=FAKE,
     entrytype="article",
     publisher="fi= Turun yliopisto| en= University of Turku|",

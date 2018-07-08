@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+dorfmann1997a = DB(WorkUnrelated(
+    1997, "Software System Engineering: An Engineering Process",
+    display="dorfmann",
+    authors="R.H. Thayer R.H. Thayer M. Dorfmann",
+    place=FAKE,
+    placex="in Software Requirements Engineering Los Alamitos CA:IEEE Press",
+))
+
+ericson1997a = DB(WorkUnrelated(
+    1997, "TIM-A Test Improvement Model",
+    display="Ursing",
+    authors="Ericson T. Subotic A. Ursing S.",
+    place=FAKE,
+    placex="Software Testing Verification and Reliability 7(4) 1997 pp. 229-246",
+))
+
 hellens1997a = DB(WorkUnrelated(
     1997, "Information systems quality versus software quality a discussion from a managerial, an organisational and an engineering viewpoint",
     display="hellens",

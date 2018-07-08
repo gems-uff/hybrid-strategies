@@ -49,6 +49,22 @@ burgués2005a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+carnegie2005a = DB(WorkUnrelated(
+    2005, "List of published scampi appraisal results",
+    display="Carnegie",
+    authors="Carnegie mellon software engineering institute",
+    place=FAKE,
+    placex="http://seir.sei.cmu.edu/pars/pars list iframe.asp",
+))
+
+cmmi2005a = DB(WorkUnrelated(
+    2005, "CMMI Guidelines for Process Integration and Product Improvement New York",
+    display="cmmi",
+    authors="M. B. Chrissis M. Konrad S. Shrum",
+    place=FAKE,
+    placex="Addison-Wesley",
+))
+
 falbo2005a = DB(WorkUnrelated(
     2005, "Establishing a common vocabulary for software organizations understand software processes",
     display="falbo",
@@ -106,6 +122,16 @@ garcía2005a = DB(WorkUnrelated(
 ))
 
 
+huang2005a = DB(WorkUnrelated(
+    2005, "A fuzzy ontology and its application to news summarization",
+    display="huang",
+    authors="C. S. Lee Z. W. Jian L. K. Huang",
+    place=FAKE,
+    other1="Cybernetics vol. 35 no. 5",
+    other2="pp. 859-880 Oct.",
+    placex="IEEE Transactions on Systems Man and Cybernetics Part B:",
+))
+
 kindler2005a = DB(WorkUnrelated(
     2005, "Incremental workflow mining based on document versioning information",
     display="kindler",
@@ -134,6 +160,7 @@ liao2005a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="ISWC2005 Workshop on Semantic Web Enabled Software Engineering",
+    other1="Software Engineering, 2005, pp. 6–10.",
 ))
 
 liao2005b = DB(WorkSnowball(
@@ -167,6 +194,14 @@ ning2005a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+qu2005a = DB(WorkUnrelated(
+    2005, "A Software Process Ontology and its Application",
+    display="qu",
+    authors="Li Liao Yuzhong Qu and Hareton K. N. Leung",
+    place=FAKE,
+    placex="ISWC 2005 November",
+))
+
 rocha2005a = DB(WorkUnrelated(
     2005, "Estação TABA: Uma infra-estrutura para Implantação do Modelo de referência para Melhoria de Processo de Software",
     display="rocha",
@@ -190,8 +225,16 @@ scacchi2005a = DB(WorkUnrelated(
     placex="Institute for Software Research",
 ))
 
+seyyedi2005a = DB(WorkUnrelated(
+    2005, "Measuring software processes performance based on the fuzzy multi agent measurements",
+    display="seyyedi",
+    authors="M.A. Seyyedi, M. Teshnehlab, and F. Shams,",
+    place=FAKE,
+    placex="Proc. Intl Conf. on Information Technology: Coding and Computing (ITCC'05) – Vol. II, IEEE CS",
+))
+
 shangteng2005a = DB(WorkUnrelated(
-    2005, "TEST PROCESS MODEL AND MANAGEMENT IN SOFTWARE DEVELOPMENT [J]",
+    2005, "TEST PROCESS MODEL AND MANAGEMENT IN SOFTWARE DEVELOPMENT",
     display="shangteng",
     authors="Shangteng, Zhang Xifang Huang",
     place=FAKE,
@@ -203,4 +246,12 @@ shangteng2005a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=8335136981908585814&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Computer Applications and Software",
+))
+
+strasunskas2005a = DB(WorkUnrelated(
+    2005, "Ontology-based Semantic Annotation of Process Templates for Reuse",
+    display="Lin",
+    authors="Lin Y. Strasunskas D.",
+    place=FAKE,
+    placex="MMSAD'05 June",
 ))

@@ -46,7 +46,7 @@ azimi2011a = DB(WorkUnrelated(
 ))
 
 bajec2011a = DB(WorkUnrelated(
-    2011, "METHOD ENGINEERING--ME’11",
+    2011, "METHOD ENGINEERING ME 11",
     display="bajec",
     authors="Bajec, Marko and Elvesæter, Brian and Session, V and Session, I and Session, IV and Session, VI and Session, II",
     place=FAKE,
@@ -135,8 +135,24 @@ espindola2011a = DB(WorkUnrelated(
     placex="",
 ))
 
+grambow2011a = DB(WorkUnrelated(
+    2011, "Towards Dynamic Knowledge Support in Software Engineering Processes",
+    display="grambow",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    placex="6th Int l Workshop Applications of Semantic Technologies",
+))
+
+grambow2011b = DB(WorkUnrelated(
+    2011, "Contextual Injection of Quality Measures into Software Engineering Processes",
+    display="grambow b",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert",
+    place=FAKE,
+    placex="Int'l Journal on Advances in Software",
+))
+
 hauck2011a = DB(WorkUnrelated(
-    2011, "Proposing an ISO/IEC 15504-2 compliant method for process capability/maturity models customization",
+    2011, "Proposing an ISO IEC 15504-2 compliant method for process capability maturity models customization",
     display="hauck",
     authors="Hauck, Jean Carlo Rossa and Von Wangenheim, Christiane Gresse and Mc Caffery, Fergal and Buglione, Luigi",
     place=ICPFSPI,
@@ -157,7 +173,7 @@ hauck2011a = DB(WorkUnrelated(
 henderson2011a = DB(WorkUnrelated(
     2011, "Random thoughts on multi-level conceptual modelling",
     display="henderson",
-    authors="Henderson-Sellers, Brian",
+    authors="Henderson Sellers, Brian",
     place=FAKE,
     pp="93--116",
     entrytype="incollection",
@@ -169,6 +185,14 @@ henderson2011a = DB(WorkUnrelated(
     volume="6520",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956074927&doi=10.1007%2f978-3-642-17505-3_5&partnerID=40&md5=cc45fd7b7914d2c5a7fe35bf052f6110",
     scopus2016_duplicate_removed="1",
+))
+
+iso2011a = DB(WorkUnrelated(
+    2011, "ISO 19011 - Guidelines for auditing management systems",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="iso",
 ))
 
 jr2011a = DB(WorkUnrelated(
@@ -210,7 +234,7 @@ klotins2011a = DB(WorkUnrelated(
 ko2011a = DB(WorkUnrelated(
     2011, "Comparison of System Dynamics and BPM for Software Process Simulation",
     display="ko",
-    authors="Ko{ž}usznik, Jan and {Š}tolfa, Svatopluk and Je{ž}ek, David and Kucha{ř}, {Š}t{ě}pán",
+    authors="Kozusznik, Jan and Stolfa, Svatopluk and Jezek, David and Kuchar, Stepán",
     place=FAKE,
     pp="1--15",
     entrytype="incollection",
@@ -265,7 +289,7 @@ lund2011a = DB(WorkUnrelated(
 lí2011a = DB(WorkUnrelated(
     2011, "SPEM Ontology as the Semantic Notation for Method and Process Definition in the Context of SWEBOK",
     display="lí",
-    authors="Lí{š}ka, Miroslav and Navrat, Pavol",
+    authors="Líska, Miroslav and Navrat, Pavol",
     place=FAKE,
     pp="299--315",
     entrytype="article",
@@ -363,6 +387,14 @@ santos2011a = DB(WorkUnrelated(
     placex="Advances in computers",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79955638767&doi=10.1016%2fB978-0-12-385510-7.00005-9&partnerID=40&md5=9485bac9d34f169320ea6d93066d7712",
     scopus2016_duplicate_removed="1",
+))
+
+scampi2011a = DB(WorkUnrelated(
+    2011, "Standard CMMI Appraisal Method for Process Improvement (SCAMPI) A v. 1.3",
+    display="team",
+    authors="SCAMPI Upgrade Team",
+    place=FAKE,
+    placex="Software Engineering Institute",
 ))
 
 sharma2011a = DB(WorkUnrelated(
