@@ -19,6 +19,14 @@ bertollo2004a = DB(WorkUnrelated(
     placex="CLEI Electron. J 7(1)",
 ))
 
+biegel2004a = DB(WorkUnrelated(
+    2004, "A framework for developing mobile, context-aware applications",
+    display="biegel.",
+    authors="G. Biegel and V. Cahill",
+    place=FAKE,
+    placex="Proc. 2nd IEEE Conference on Pervasive Computing and Communication",
+))
+
 bourque2004a = DB(WorkUnrelated(
     2004, "Guide to the Software Engineering",
     display="bourque",
@@ -27,12 +35,44 @@ bourque2004a = DB(WorkUnrelated(
     placex="IEEE Computer Society Body of Knowledge”,",
 ))
 
+bourque2004b = DB(WorkUnrelated(
+    2004, "Guide to the Software Engineering Body of Knowledge",
+    display="bourque b",
+    authors="P. Bourque and R. Dupuis",
+    place=FAKE,
+    placex="IEEE Computer Society",
+))
+
+burstein2004a = DB(WorkUnrelated(
+    2004, "Dynamic Invocation of Semantic Web Services That Use Unfamiliar Ontologies",
+    display="burstein",
+    authors="Mark H. Burstein",
+    place=FAKE,
+    placex="IEEE Intelligent Systems",
+))
+
 consortium2004a = DB(WorkUnrelated(
     2004, "OWL Web Ontology Language Semantics and Abstract Syntax",
     display="consortium",
     authors="World Wide Web Consortium",
     place=FAKE,
     placex="",
+))
+
+cook2004a = DB(WorkUnrelated(
+    2004, "Towards synchronous collaborative software engineering",
+    display="cook",
+    authors="C. Cook, N. Churcher, and W. Irwin,",
+    place=SEC,
+    placex="Proc. 11th Asia-Pacific Software Engineering Conference",
+))
+
+dustdar2004a = DB(WorkUnrelated(
+    2004, "Caramba - a process-aware collaboration system supporting ad hoc and collaborative processes in virtual teams",
+    display="dustdar",
+    authors="S. Dustdar,",
+    place=FAKE,
+    placex="Distributed and parallel databases",
 ))
 
 díaz2004a = DB(WorkUnrelated(
@@ -46,6 +86,30 @@ díaz2004a = DB(WorkUnrelated(
     ID="diaz2004aproximacion",
     gs2016="1",
     placex="Proc. IDEAS'2004: IIV Workshop Iberoamericano de Ingeniería de Requisitos y Desarrollo de Ambientes de Software",
+))
+
+fahy2004a = DB(WorkUnrelated(
+    2004, "CASS - a middleware for mobile contextaware applications",
+    display="fahy",
+    authors="P. Fahy and S. Clarke,",
+    place=FAKE,
+    placex="Proc. Workshop on Context-awareness (held in connection with MobiSys’04)",
+))
+
+gu2004a = DB(WorkUnrelated(
+    2004, "A middleware for building context-aware mobile services",
+    display="",
+    authors="T. Gu., H.K. Pung, and D.Q. Zhang,",
+    place=FAKE,
+    placex="Proc. IEEE Vehicular Technology Conference",
+))
+
+heflin2004a = DB(WorkUnrelated(
+    2004, "OWL Web Ontology Language Use Cases and Requirements",
+    display="heflin",
+    authors="J. Heflin",
+    place=FAKE,
+    placex="http://www.w3.org/TR/webont-req/",
 ))
 
 kaner2004a = DB(WorkUnrelated(
@@ -151,6 +215,14 @@ tague2004a = DB(WorkUnrelated(
     placex="2nd Ed., ASQ Quality Press,",
 ))
 
+tague2004b = DB(WorkUnrelated(
+    2004, "The Quality Toolbox",
+    display="tague b",
+    authors="Tague, N.R.,",
+    place=FAKE,
+    placex="ASQ Quality Press",
+))
+
 vondrak2004a = DB(WorkUnrelated(
     2004, "HDA and resources modeling in business process",
     display="vondrak",
@@ -184,6 +256,14 @@ w3c2004c = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+w3c2004d = DB(WorkUnrelated(
+    2004, "Owl Web Ontology Language Reference",
+    display="w3c d",
+    authors="W3C",
+    place=FAKE,
+    placex="Technical Report, February",
+))
+
 weber2004a = DB(WorkUnrelated(
     2004, "Modelo de Referência para Melhoria de Processo de Software: uma abordagem brasileira",
     display="weber",
@@ -195,4 +275,12 @@ weber2004a = DB(WorkUnrelated(
     ID="weber2004modelo",
     gs2016="1",
     placex="XXX Conferencia Latinoamericana de Informatica (CLEI2004), Sesión",
+))
+
+wen2004a = DB(WorkUnrelated(
+    2004, "From Requirements Change to Design Change: A Formal Path",
+    display="wen",
+    authors="Wen, L., Dromey, R.G.:",
+    place=FAKE,
+    placex="In: Proceedings of the 2nd IEEE International Conference on SEFM",
 ))

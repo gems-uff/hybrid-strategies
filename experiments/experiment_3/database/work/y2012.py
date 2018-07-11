@@ -99,7 +99,7 @@ barcellos2012a = DB(WorkUnrelated(
 ))
 
 bauer2012a = DB(WorkUnrelated(
-    2012, "A Literature Review on Operational IT Risks and Regulations of Institutions in the Financial Service Sector.",
+    2012, "A Literature Review on Operational IT Risks and Regulations of Institutions in the Financial Service Sector",
     display="bauer",
     authors="Bauer, Stefan",
     place=FAKE,
@@ -137,6 +137,14 @@ calvache2012a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+calvanese2012a = DB(WorkUnrelated(
+    2012, "Description Logics for Conceptual Modeling",
+    display="calvanese",
+    authors="Calvanese, D.:",
+    place=FAKE,
+    placex="EPCL Basic Training Camp Dresden, Germany",
+))
+
 casare2012a = DB(WorkUnrelated(
     2012, "Medee: A method framework for multiagent systems",
     display="casare",
@@ -147,6 +155,14 @@ casare2012a = DB(WorkUnrelated(
     local="Ph. D. Thesis, Universidade de São Paulo, São Paulo, Brazil. Retrieved February 22, 2013 from http://www. teses. usp. br/teses/disponiveis/3/3141/tde-05032012-162517/en. php",
     gs2016="1",
     placex="phdthesis",
+))
+
+chemuturi2012a = DB(WorkUnrelated(
+    2012, "http://www.chemuturi.com/cmmipaldtls.html",
+    display="chemuturi",
+    authors="chemuturi",
+    place=FAKE,
+    placex="accessed site",
 ))
 
 chouseinoglou2012a = DB(WorkUnrelated(
@@ -170,6 +186,14 @@ clarke2012a = DB(WorkUnrelated(
     local="Dublin City University",
     gs2016="1",
     placex="",
+))
+
+cmm2012a = DB(WorkUnrelated(
+    2012, "http://www.cmm-quest.com",
+    display="cmm",
+    authors="cmm",
+    place=FAKE,
+    placex="accessed site",
 ))
 
 dash2012a = DB(WorkUnrelated(
@@ -202,6 +226,15 @@ domínguez2012a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+dpans2012a = DB(WorkUnrelated(
+    2012, "Knowledge Interchange Format, draft proposed",
+    display="dpans",
+    authors="dpANS",
+    place=FAKE,
+    other1="NCITS.T2/98-004, Ed.",
+    placex="American National Standard (dpANS)",
+))
+
 dubois2012a = DB(WorkUnrelated(
     2012, "Capturing and aligning assurance requirements for business services systems",
     display="dubois",
@@ -214,6 +247,14 @@ dubois2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="Business System Management and Engineering",
     springer2016="1",
+))
+
+eclipse2012a = DB(WorkUnrelated(
+    2012, "Eclipse Foundation",
+    display="eclipse",
+    authors="Eclipse",
+    place=FAKE,
+    placex="http://www.eclipse.org",
 ))
 
 edberg2012a = DB(WorkUnrelated(
@@ -289,6 +330,16 @@ gazel2012a = DB(WorkSnowball(
     placex="Gazi University Journal of Science",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856582312&partnerID=40&md5=24199db94642a73441b99d423ad616be",
     scopus2016_duplicate_removed="1",
+    scholar_ok=True,
+))
+
+gazel2012b = DB(WorkUnrelated(
+    2012, "An Ontology Based Infrastructure to Support Ontology-Based Software Process Assessment",
+    display="gazel b",
+    authors="A. T. S. Gazel and E. Sezer,",
+    place=FAKE,
+    other1="No. 1, pp. 155-164",
+    placex="Gazi University Journal of Science, Vol. 25,",
 ))
 
 grambow2012a = DB(WorkSnowball(
@@ -305,6 +356,7 @@ grambow2012a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="",
+    scholar_ok=True,
 ))
 
 grambow2012b = DB(WorkUnrelated(
@@ -315,8 +367,35 @@ grambow2012b = DB(WorkUnrelated(
     placex="Proc. 7th Int’l Conf. on Software and Data Technologies",
 ))
 
+grambow2012c = DB(WorkUnrelated(
+    2012, "Knowledge Provisioning: A Context-Sensitive Process-Oriented Approach",
+    display="grambow c",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    other1="Proc. 7th Int’l Conf. on Software and Data Technologies,",
+    placex="Applied to Software Engineering Environments",
+))
+
+grambow2012d = DB(WorkUnrelated(
+    2012, "Enabling Automatic Process-aware Collaboration Support in Software Engineering Projects",
+    display="grambow d",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    other1="Communications in Computer and Information Science (CCIS) 303,",
+    other2="pp. 73-89,",
+    placex="Selected Papers of the ICSOFT'11 Conference",
+))
+
+grambow2012e = DB(WorkUnrelated(
+    2012, "Contextual Generation of Declarative Workflows and their Application to Software Engineering Processes",
+    display="grambow e",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    placex="Int'l Journal On Advances in Intelligent Systems",
+))
+
 gruhn2012a = DB(WorkUnrelated(
-    2012, "Using Wikis as Software Development Environments.",
+    2012, "Using Wikis as Software Development Environments",
     display="gruhn",
     authors="Gruhn, Volker and Hannebauer, Christoph",
     place=FAKE,
@@ -383,12 +462,28 @@ hundley2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+infosystems2012a = DB(WorkUnrelated(
+    2012, "http://www.man-infosystems.com/index_files/FreeTools.htm",
+    display="infosystems",
+    authors="infosystems",
+    place=FAKE,
+    placex="accessed site",
+))
+
 iso2012a = DB(WorkUnrelated(
     2012, "ISO IEC 15504 5 2012 Part 5: An exemplar software life cycle process assessment model",
     display="iso",
     authors="ISO",
     place=FAKE,
     placex="iso iec",
+))
+
+jena2012a = DB(WorkUnrelated(
+    2012, "http://jena.sourceforge.net",
+    display="jena",
+    authors="Jena",
+    place=FAKE,
+    placex="accessed site",
 ))
 
 kelemen2012a = DB(WorkUnrelated(
@@ -499,6 +594,14 @@ miler2012a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+omg2012a = DB(WorkUnrelated(
+    2012, "Object Management Group",
+    display="omg",
+    authors="OMG",
+    place=FAKE,
+    placex="http://www.omg.org",
+))
+
 peldzius2012a = DB(WorkUnrelated(
     2012, "Framework for usage of multiple software process models",
     display="peldzius",
@@ -513,6 +616,14 @@ peldzius2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+))
+
+protégé2012a = DB(WorkUnrelated(
+    2012, "http://protege.stanford.edu",
+    display="protégé",
+    authors="Protégé",
+    place=FAKE,
+    placex="accessed site",
 ))
 
 rahman2012a = DB(WorkUnrelated(
@@ -587,7 +698,7 @@ rungratri2012a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=18206382962446305705&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Convergence Information Technology",
-    pp="127-137",
+    pp="127--137",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869213144&doi=10.4156%2fjcit.vol7.issue20.16&partnerID=40&md5=194456f0d15b007ce7cf32f589e36968",
     scopus2016_duplicate_removed="1",
 ))
@@ -622,6 +733,31 @@ soydan2012a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Journal of Software Engineering and Applications",
+    scholar_ok=True,
+))
+
+spice2012a = DB(WorkUnrelated(
+    2012, "http://www.spice121.com",
+    display="spice",
+    authors="spice",
+    place=FAKE,
+    placex="accessed site",
+))
+
+spicelite2012a = DB(WorkUnrelated(
+    2012, "http://www.spicelite.com",
+    display="spicelite",
+    authors="spicelite",
+    place=FAKE,
+    placex="accessed site",
+))
+
+sumo2012a = DB(WorkUnrelated(
+    2012, "Suggested Upper Merged Ontology (SUMO)",
+    display="sumo",
+    authors="SUMO",
+    place=FAKE,
+    placex="http://www.ontologyportal.org",
 ))
 
 tech2012a = DB(WorkUnrelated(
@@ -694,6 +830,15 @@ wang2012a = DB(WorkUnrelated(
     placex="7th International Conference on Object-Oriented Information Systems 27--29 August 2001, Calgary, Canada",
 ))
 
+wen2012a = DB(WorkUnrelated(
+    2012, "Using composition trees to validate an entry profile of software engineering lifecycle profiles for very small entities (VSEs)",
+    display="wen",
+    authors="Wen, L., Rout, T.:",
+    place=FAKE,
+    other1="PICE 2012. CCIS, vol. 290, pp. 38–50. Springer, Heidelberg",
+    placex="In: Mas, A., Mesquida, A., Rout, T., O’Connor, R.V., Dorling, A. (eds.) S",
+))
+
 wendler2012a = DB(WorkUnrelated(
     2012, "The maturity of maturity model research: A systematic mapping study",
     display="wendler",
@@ -708,6 +853,22 @@ wendler2012a = DB(WorkUnrelated(
     gs2016="1",
     placex="Information and software technology",
     sciencedirect2016="1",
+))
+
+wizard2012a = DB(WorkUnrelated(
+    2012, "http://isdinc.com/tools.modelWizard",
+    display="wizard",
+    authors="Model Wizard",
+    place=FAKE,
+    placex="accessed site",
+))
+
+wizard2012b = DB(WorkUnrelated(
+    2012, "http://isdinc.com/tools.appraisalWizard",
+    display="wizard b",
+    authors="Appraisal Wizard",
+    place=FAKE,
+    placex="accessed site",
 ))
 
 yahaya2012a = DB(WorkUnrelated(

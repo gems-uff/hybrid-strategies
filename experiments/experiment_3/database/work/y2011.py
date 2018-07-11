@@ -107,6 +107,14 @@ chrissis2011a = DB(WorkUnrelated(
     placex="",
 ))
 
+chrissis2011b = DB(WorkUnrelated(
+    2011, "CMMI: Guidelines for Process Integration and Product Improvement",
+    display="chrissis b",
+    authors="M. B. Chrissis, M. Konrad and S. Shrum",
+    place=FAKE,
+    placex="3rd Edition, Addison-Wesley, Boston,",
+))
+
 chroust2011a = DB(WorkUnrelated(
     2011, "Improving resilience of critical human systems in CBRN emergencies: challenges for first responders",
     display="chroust",
@@ -135,6 +143,23 @@ espindola2011a = DB(WorkUnrelated(
     placex="",
 ))
 
+forrester2011a = DB(WorkUnrelated(
+    2011, "CMMI for Services: Guidelines for Superior Service",
+    display="forrester",
+    authors="E. Forrester, B. Buteau and S. Shrum",
+    place=FAKE,
+    other1="Boston,",
+    placex="2nd Edition, Addison-Wesley,",
+))
+
+gallagher2011a = DB(WorkUnrelated(
+    2011, "CMMI-ACQ: Guidelines for Improving the Acquisition of Products and Services",
+    display="gallagher",
+    authors="B. Gallagher, M. Phillipsand, K. Richter and S. Shrum",
+    place=FAKE,
+    placex="2nd Edition, Addison-Wesley, Boston,",
+))
+
 grambow2011a = DB(WorkUnrelated(
     2011, "Towards Dynamic Knowledge Support in Software Engineering Processes",
     display="grambow",
@@ -149,6 +174,15 @@ grambow2011b = DB(WorkUnrelated(
     authors="G. Grambow, R. Oberhauser, and M. Reichert",
     place=FAKE,
     placex="Int'l Journal on Advances in Software",
+))
+
+grambow2011c = DB(WorkUnrelated(
+    2011, "Event-driven Exception Handling for Software Engineering Processes",
+    display="grambow c",
+    authors="G. Grambow, R. Oberhauser, and M. Reichert,",
+    place=FAKE,
+    other1="99,",
+    placex="5th Int’l Workshop on event-driven Business Process Management, LNBIP",
 ))
 
 hauck2011a = DB(WorkUnrelated(
@@ -193,6 +227,14 @@ iso2011a = DB(WorkUnrelated(
     authors="ISO",
     place=FAKE,
     placex="iso",
+))
+
+iso2011b = DB(WorkUnrelated(
+    2011, "ISO/IEC TR 29110-5-1-2 Software engineering – Lifecycle profiles for Very Small Entities (VSEs): Management and engineering guide: Generic profile group: Basic profile",
+    display="iso b",
+    authors="ISO",
+    place=FAKE,
+    placex="",
 ))
 
 jr2011a = DB(WorkUnrelated(
@@ -319,7 +361,7 @@ manjula2011a = DB(WorkUnrelated(
 ))
 
 martoglia2011a = DB(WorkUnrelated(
-    2011, "Facilitate IT-Providing SMEs in Software Development: a Semantic Helper for Filtering and Searching Knowledge.",
+    2011, "Facilitate IT-Providing SMEs in Software Development: a Semantic Helper for Filtering and Searching Knowledge",
     display="martoglia",
     authors="Martoglia, Riccardo",
     place=FAKE,
@@ -345,7 +387,7 @@ ribaud2011a = DB(WorkUnrelated(
 ))
 
 rifaut2011a = DB(WorkUnrelated(
-    2011, "Intentional Models based on Measurement Theory.",
+    2011, "Intentional Models based on Measurement Theory",
     display="rifaut",
     authors="Rifaut, Andre",
     place=FAKE,
@@ -409,6 +451,14 @@ sharma2011a = DB(WorkUnrelated(
     placex="thesis",
 ))
 
+siegemund2011a = DB(WorkUnrelated(
+    2011, "Towards ontology-driven requirements engineering",
+    display="siegemund",
+    authors="Siegemund, K., Thomas, E., Zhao, Y., Pan, J., Assmann, U.",
+    place=FAKE,
+    placex="In: The 10th International Semantic Web Conference (ISWC2011)",
+))
+
 thalheim2011a = DB(WorkUnrelated(
     2011, "The science of conceptual modelling",
     display="thalheim",
@@ -446,6 +496,14 @@ weinberger2011a = DB(WorkUnrelated(
     ID="weinberger2011semi",
     gs2016="1",
     placex="",
+))
+
+wen2011a = DB(WorkUnrelated(
+    2011, "Using composition trees to model and compare software process",
+    display="wen",
+    authors="Wen, L., Tuffley, D., Rout, T.:",
+    place=FAKE,
+    placex="In: O’Connor, R.V., Rout, T., McCaffery, F., Dorling, A. (eds.) SPICE 2011. CCIS, vol. 155, pp. 1–15. Springer, Heidelberg",
 ))
 
 zowghi2011a = DB(WorkUnrelated(

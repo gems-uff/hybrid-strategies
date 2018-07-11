@@ -94,6 +94,15 @@ lopez2001a = DB(WorkUnrelated(
     placex="Proceedings  of  World  Multi  conference  on  Systemics",
 ))
 
+luckham2001a = DB(WorkUnrelated(
+    2001, "The power of events: an introduction to complex event processing in distributed enterprise systems",
+    display="luckham",
+    authors="D.C. Luckham,",
+    place=FAKE,
+    other1="Longman Publishing Co., Inc. Boston, MA, USA,",
+    placex="Addison-Wesley",
+))
+
 mcguinness2001a = DB(WorkUnrelated(
     2001, "Ontology Development 101 : A Guide to Creating Your First Ontology",
     display="mcguinness",
@@ -138,4 +147,12 @@ w32001b = DB(WorkUnrelated(
     authors="w3",
     place=FAKE,
     placex="http://www.w3.org/2001/sw/BestPractices/SE",
+))
+
+woolridge2001a = DB(WorkUnrelated(
+    2001, "Introduction to Multiagent Systems",
+    display="",
+    authors="Michael Woolridge , Michael J.",
+    place=FAKE,
+    placex="John Wiley & Sons, Inc., New York, NY,",
 ))

@@ -38,6 +38,14 @@ iso2000a = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+iso2000b = DB(WorkUnrelated(
+    2000, "Quality Management Systems – Requirement",
+    display="iso b",
+    authors="ISO",
+    place=FAKE,
+    placex="ISO 9001:2000",
+))
+
 mair2000a = DB(WorkUnrelated(
     2000, "Agent-based Process Model Integration in Virtual Software Corporations",
     display="mair",

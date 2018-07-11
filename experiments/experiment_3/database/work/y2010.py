@@ -106,6 +106,15 @@ cmmi2010a = DB(WorkUnrelated(
     placex="Software Engineering Institute,",
 ))
 
+cmmi2010ab = DB(WorkUnrelated(
+    2010, "CMMI-DEV V1.3 CMMI for Development",
+    display="cmmi",
+    authors="cmmi",
+    place=FAKE,
+    other1="Pittsburgh,",
+    placex="Technical Report, Software Engineering Institute,",
+))
+
 cornford2010a = DB(WorkUnrelated(
     2010, "Ecosystem value stream optimization system, method and device",
     display="cornford",
@@ -182,7 +191,7 @@ henderson2010a = DB(WorkUnrelated(
     ID="henderson2010situational",
     gs2016="1",
     placex="Journal of Universal Computer Science",
-    pp="424-478",
+    pp="424--478",
     volume="16",
     number="3",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951085619&partnerID=40&md5=0e9527893daf591f4103ac72d9fbef21",
@@ -386,6 +395,14 @@ rodríguez2010a = DB(WorkUnrelated(
     placex="International Journal of Software Engineering and Knowledge Engineering",
 ))
 
+roedler2010a = DB(WorkUnrelated(
+    2010, "An Overview of ISO/IEC/IEEE 15288",
+    display="roedler",
+    authors="Roedler, G.:",
+    place=FAKE,
+    placex="System Life Cycle Processes. Asian Pacific Council on Systems Engineering (APCOSE) Conference",
+))
+
 shvaiko2010a = DB(WorkUnrelated(
     2010, "E-government interoperability framework: A case study in a developing country",
     display="shvaiko",
@@ -452,6 +469,7 @@ stolfa2010a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Computer Information Systems and Industrial Management Applications (CISIM), 2010 International Conference on",
+    scholar_ok=True,
 ))
 
 succar2010a = DB(WorkUnrelated(
@@ -529,6 +547,22 @@ unterkalmsteiner2010a = DB(WorkUnrelated(
     ID="unterkalmsteiner2010extended",
     gs2016="1",
     placex="",
+))
+
+wang2010a = DB(WorkUnrelated(
+    2010, "Apply Fuzzy Ontology to CMMI-Based ASAP Assessment System",
+    display="",
+    authors="M.-H. Wang, Z.-R. Yan, C.-S. Lee, P.-H. Huang, Y.-L. Kuo, H.-M. Wang and B.-H. Lin",
+    place=FAKE,
+    placex="IEEE World Congress on Computational Intelligence, Barcelona",
+))
+
+yatapanage2010a = DB(WorkUnrelated(
+    2010, "Slicing behavior tree models for verification",
+    display="yatapanage",
+    authors="Yatapanage, N., Winter, K., Zafar, S.:",
+    place=FAKE,
+    placex="In: Calude, C.S., Sassone, V. (eds.) TCS 2010. IFIP AICT, vol. 323, pp. 125–139. Springer, Heidelberg",
 ))
 
 yurchyshyna2010a = DB(WorkUnrelated(

@@ -3,6 +3,14 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+chen1996a = DB(WorkUnrelated(
+    1996, "Toward Intelligent Meeting Agents",
+    display="Chen",
+    authors="Hsinchun Chen, Andrea Houston , Jay Nunamaker , Jerome Yen,",
+    place=FAKE,
+    placex="Computer",
+))
+
 doheny1996a = DB(WorkUnrelated(
     1996, "A Framework and Tool for Modelling and Assessing Software Development Processes",
     display="doheny",
@@ -15,6 +23,7 @@ doheny1996a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=16164347461171448111&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="TECHNICAL REPORT-UNIVERSITY OF EDINBURGH ARTIFICIAL INTELLIGENCE APPLICATIONS INSTITUTE AIAI TR",
+    other1="Wilmslow, May",
 ))
 
 doheny1996b = DB(WorkUnrelated(

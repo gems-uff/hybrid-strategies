@@ -3,6 +3,15 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+iso1998a = DB(WorkUnrelated(
+    1998, "Information technology — Software process assessment",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    other1="ISO/IEC, 15504-9, (1998-08-15).",
+    placex="Part 9 Vocabulary, First edition,",
+))
+
 isoiec1998a = DB(WorkUnrelated(
     1998, "Standard  For  Software  Process  Assessment  (Parts  1-9)",
     display="isoiec1998a",
@@ -30,4 +39,12 @@ musen1998a = DB(WorkUnrelated(
     authors="M. A. Musen",
     place=FAKE,
     placex="Methods of Information in Medicine 37 1998 pp. 540-550",
+))
+
+obrien1998a = DB(WorkUnrelated(
+    1998, "FIPA - Towards a Standard for Software Agents",
+    display="obrien",
+    authors="P.D. O'Brien and R.C. Nicol,",
+    place=FAKE,
+    placex="BT Technology Journal, 16 (3):51-59,",
 ))

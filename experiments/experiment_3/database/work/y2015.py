@@ -455,7 +455,6 @@ ruy2015a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=1555528468121159175&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Proceedings of the 30th Annual ACM Symposium on Applied Computing",
-    volume="13-17-April-2015",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955504362&doi=10.1145%2f2695664.2695796&partnerID=40&md5=4f0a7151062ea9513be1238bd75bddac",
     scopus2016_duplicate_removed="1",
 ))

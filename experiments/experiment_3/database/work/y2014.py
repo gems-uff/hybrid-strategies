@@ -69,7 +69,7 @@ ayalew2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=12238272806795589375&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Software Engineering & Its Applications",
-    pp="121-138",
+    pp="121--138",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902595454&doi=10.14257%2fijseia.2014.8.6.10&partnerID=40&md5=7ec4ccdf54215c0d54381f65eb333a6c",
     scopus2016_duplicate_removed="1",
 ))
@@ -106,7 +106,7 @@ bibi2014a = DB(WorkUnrelated(
 ))
 
 bontcheva2014a = DB(WorkUnrelated(
-    2014, "Learning Ontologies from Software Artifacts: Exploring and Combining Multiple Choices.",
+    2014, "Learning Ontologies from Software Artifacts: Exploring and Combining Multiple Choices",
     display="bontcheva",
     authors="Bontcheva, Kalina",
     place=FAKE,
@@ -324,6 +324,14 @@ henderson2014e = DB(WorkUnrelated(
     ID="henderson2014processes",
     gs2016="1",
     placex="Situational Method Engineering",
+))
+
+iso2014a = DB(WorkUnrelated(
+    2014, "ISO/IEC IEEE 12207 CD1 - revision of 12207:2008 Systems and software engineering Software life cycle processes",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="",
 ))
 
 kaufmann2014a = DB(WorkUnrelated(

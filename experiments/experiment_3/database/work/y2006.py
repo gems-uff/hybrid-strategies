@@ -93,6 +93,15 @@ biffl2006a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+calero2006a = DB(WorkUnrelated(
+    2006, "Ontologies for Software Engineering and Software Technology",
+    display="calero",
+    authors="C. Calero, F. Ruiz and M. Piattini",
+    place=FAKE,
+    other1="Dodrecht,",
+    placex="Springer,",
+))
+
 canfora2006a = DB(WorkUnrelated(
     2006, "Applying a framework for the improvement of software process maturity",
     display="canfora",
@@ -119,6 +128,15 @@ carnegie2006a = DB(WorkUnrelated(
     authors="Carnegie mellon software engineering institute",
     place=FAKE,
     placex="http://www.sei.cmu.edu/cmmi/appraisals.",
+))
+
+cmmi2006a = DB(WorkUnrelated(
+    2006, "Carnegie Mellon Software Engineering Institute,",
+    display="cmmi",
+    authors="CMMI",
+    place=FAKE,
+    other1="http://www.sei.cmu.edu/cmmi/appraisals",
+    placex="CMMI Appraisals",
 ))
 
 domínguez2006a = DB(WorkUnrelated(
@@ -204,6 +222,14 @@ garcía2006a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+garcía2006b = DB(WorkUnrelated(
+    2006, "FMESP: Framework for the Modeling and Evaluation of Software Processes",
+    display="garcía b",
+    authors="García, F., Piattini, M., Ruiz, F., Canfora, G., Visaggio C. A.,",
+    place=FAKE,
+    placex="Journal of Systems Architecture: the EUROMICRO Journal, 52 (11) : 627–639,November",
+))
+
 gervasi2006a = DB(WorkUnrelated(
     2006, "Computational Science and Its Applications",
     display="gervasi",
@@ -231,6 +257,30 @@ gonzalez2006a = DB(WorkUnrelated(
     springer2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049024468&doi=10.1007%2f3-540-34518-3_4&partnerID=40&md5=8c1b21f719c1878e19b4cbb962ad1da3",
     scopus2016_duplicate_removed="1",
+))
+
+greif2006a = DB(WorkUnrelated(
+    2006, "Software testing and preventive quality assurance for metrology",
+    display="greif",
+    authors="Norbert Greif,",
+    place=CSI,
+    placex="Computer Standards & Interfaces",
+))
+
+grossklags2006a = DB(WorkUnrelated(
+    2006, "Software agents and market (in) efficiency: a human trader experiment",
+    display="",
+    authors="J. Grossklags , C. Schmidt,",
+    place=FAKE,
+    placex="IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications and Reviews, v.36 n.1, p.56-67, January",
+))
+
+gs2006a = DB(WorkUnrelated(
+    2006, "An ontology-based intelligent system for recruitment",
+    display="gs",
+    authors="Francisco GS, Rodrigo MB, Leonardo C, Jesualdo TFB, Dagoberto CN",
+    place=FAKE,
+    placex="Expert Syst Appl",
 ))
 
 halloran2006a = DB(WorkUnrelated(
@@ -271,6 +321,23 @@ happel2006a = DB(WorkUnrelated(
     placex="SWESE 2006",
 ))
 
+haumer2006a = DB(WorkUnrelated(
+    2006, "Introducing the Eclipse Process Framework",
+    display="haumer",
+    authors="Haumer, P.",
+    place=FAKE,
+    placex="Eclipse Con",
+))
+
+horrocks2006a = DB(WorkUnrelated(
+    2006, "The even more irresistible SROIQ",
+    display="horrocks",
+    authors="Horrocks, I., Kutz, O., Sattler, U.",
+    place=FAKE,
+    other1="",
+    placex="In: Doherty, P., Mylopoulos, J.,Welty, C. (eds.) Proceedings of the 10th International Conference on the Principles of Knowledge Representation and Reasoning KR, pp. 57–67. AAAI Press",
+))
+
 hsieh2006a = DB(WorkUnrelated(
     2006, "A genetic agent using ontology model for meeting scheduling system",
     display="hsieh",
@@ -282,7 +349,7 @@ hsieh2006a = DB(WorkUnrelated(
 
 lee2006a = DB(WorkUnrelated(
     2006, "Ontology-based Intelligent Decision Support Agent for CMMI Project Monitoring and Control",
-    display="lee",
+    display="lee 2006 a",
     authors="Lee, C., Wang, M., Cheng, J., Hsu, C.",
     place=FAKE,
     other1="Google Scholar",
@@ -326,6 +393,16 @@ li2006a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+matheus2006a = DB(WorkUnrelated(
+    2006, "A Triples-Based Inference Engine Outfitted to Process RuleML & R-Entailment Rules",
+    display="matheus",
+    authors="C. J. Matheus, K. Baclawski and M. M. Kokar, “BaseVISor",
+    place=FAKE,
+    other1="Markup Languages for the Semantic Web, Washington,",
+    other2="November 10-11, 2006, pp. 67-74.",
+    placex="Proceedings of the Second International Conference on Rules and Rule",
+))
+
 mei2006a = DB(WorkUnrelated(
     2006, "Development of software engineering: A research perspective",
     display="mei",
@@ -367,6 +444,15 @@ montoni2006b = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+moor2006a = DB(WorkUnrelated(
+    2006, "Software process validation: comparing process and practice models",
+    display="moor",
+    authors="Moor, A., Delugach, H.",
+    place=FAKE,
+    other1="",
+    placex="In: Eleventh International Workshop on Exploring Modeling Methods in Systems Analysis and Design (EMMSAD 2006) Conjunction with 18th Conference on Advanced Information Systems Engineering, Luxembourg.",
+))
+
 oliveira2006a = DB(WorkUnrelated(
     2006, "A Process Meta-Model in a Gradual Software Process Implementation Environment",
     display="oliveira",
@@ -400,6 +486,14 @@ pratt2006a = DB(WorkUnrelated(
     place=FAKE,
     other1="vol. 30 no. 2 pp. 325-336 Feb.",
     placex="Expert Systems with Applications",
+))
+
+pulido2006a = DB(WorkUnrelated(
+    2006, "Ontology languages for the semantic web: A never completely updated review",
+    display="pulido",
+    authors="Pulido, J.R.G., Ruiz, M.A.G., Herrera, R., Cabello, E., Legrand, S., Elliman, D.,",
+    place=FAKE,
+    placex="Knowledge-Based Systems",
 ))
 
 rittgen2006a = DB(WorkUnrelated(
@@ -459,6 +553,14 @@ silva2006a = DB(WorkUnrelated(
     placex="",
 ))
 
+sirin2006a = DB(WorkUnrelated(
+    2006, "Pellet system description",
+    display="sirin",
+    authors="Sirin, E., Parsia, B.",
+    place=FAKE,
+    placex="In: Parsia, B., Sattler, U., Toman, D. (eds.), Description Logics. CEUR Workshop Proceedings, vol. 189. CEUR-WS.org",
+))
+
 soydan2006a = DB(WorkSnowball(
     2006, "An OWL ontology for representing the CMMI-SW model",
     display="soydan",
@@ -474,15 +576,60 @@ soydan2006a = DB(WorkSnowball(
     final_selected="1",
     placex="Workshop on Semantic Web Enabled Software Engineering (SWESE)",
     other1="Google Scholar",
+    scholar_ok=True,
+))
+
+soydan2006b = DB(WorkUnrelated(
+    2006, "An OWL ontology for representing the CMMI-SW model (thesis)",
+    display="soydan",
+    authors="Soydan, Gokhan Halit",
+    place=FAKE,
+    entrytype="Thesis",
+    organization="Citeseer",
+    ID="soydan2006b",
+    placex="M.S. Thesis, Northeastern University, Boston",
 ))
 
 team2006a = DB(WorkUnrelated(
-    2006, "CMMI for Development Version 1.2: Improvement Processes for Better Products.",
+    2006, "CMMI for Development Version 1.2: Improvement Processes for Better Products",
     display="team",
     authors="CMMI Product Team",
     place=FAKE,
     other1="Google Scholar",
     placex="Carnegie Mellon. Software Engineering Institute, USA (2006)",
+))
+
+team2006b = DB(WorkUnrelated(
+    2006, "CMMI for Development",
+    display="team b",
+    authors="CMMI Product Team",
+    place=FAKE,
+    other1="ESC-TR-2006-008, August",
+    placex="CMU/SEI CMMI-SE/SW V1.2, CMU/SEI2006-TR-008",
+))
+
+team2006c = DB(WorkUnrelated(
+    2006, "Standard CMMI Appraisal Method for Process Improvement (SCAMPI) A, Version 1.2",
+    display="team c",
+    authors="SCAMPI Upgrade Team",
+    place=FAKE,
+    placex="Method Definition Document, Handbook",
+))
+
+thaddeus2006a = DB(WorkUnrelated(
+    2006, "Ontology for software Engineering Process Automation",
+    display="thaddeus",
+    authors="Thaddeus, S., Kasmir Raja, K.",
+    place=FAKE,
+    placex="Http://www.researchgate.net/publication/278241783",
+))
+
+tsarkov2006a = DB(WorkUnrelated(
+    2006, "FaCT ++ description logic reasoner: System description",
+    display="tsarkov",
+    authors="Tsarkov, D., Horrocks, I.",
+    place=FAKE,
+    placex="In: Proceedings of the 3rd International Joint Conference on Automated Reasoning (IJCAR 2006), 2006. FaCT ++ download page http://owl.man.ac.uk/factplusplus/",
 ))
 
 vandenabeele2006a = DB(WorkUnrelated(
@@ -497,7 +644,7 @@ vandenabeele2006a = DB(WorkUnrelated(
 ))
 
 vasconcelos2006a = DB(WorkUnrelated(
-    2006, "A process meta-model in a gradual software process implementation environment process meta-model for a software process definition and improvement.",
+    2006, "A process meta-model in a gradual software process implementation environment process meta-model for a software process definition and improvement",
     display="vasconcelos",
     authors="de Vasconcelos, Alexandre Marcos Lins",
     place=FAKE,
@@ -507,10 +654,50 @@ vasconcelos2006a = DB(WorkUnrelated(
     placex="Proceedings on The First International Workshop on Metamodelling--Utilization in Software Engineering--MUSE, Setúbal-Portugal",
 ))
 
+vw2006a = DB(WorkUnrelated(
+    2006, "A cooperative multi-agent platform for invention based on patent document analysis and ontology",
+    display="vw",
+    authors="Soo VW, Lin SY, Yang SY, Lin SN, Cheng SL",
+    place=FAKE,
+    placex="Expert Syst Appl",
+))
+
+w3c2006a = DB(WorkUnrelated(
+    2006, "Semantic Web Activity",
+    display="w3c",
+    authors="W3C",
+    place=FAKE,
+    placex="http://www.w3.org/2001/sw/",
+))
+
+wang2006a = DB(WorkUnrelated(
+    2006, "Represent software process engneering metamodel in description logic",
+    display="wang",
+    authors="Wang, S., Jin, L., Jin, C.",
+    place=FAKE,
+    placex="In: Proceedings of World Academy of Science, Engineering and Technology. 11 ISSN 1307-6884",
+))
+
 wu2006a = DB(WorkUnrelated(
     2006, "A Unified Model for the Implementation of both ISO 9001:2000 and CMMI byISO-certified Organizations",
     display="wu",
     authors="C. Yoo j. Yoon B. Lee C. Lee J. Lee S. Hyun C. Wu",
     place=JSS,
     placex="The Journal of Systems and Software press",
+))
+
+x2006a = DB(WorkUnrelated(
+    2006, "An intelligent early warning system for software quality improvement and project management",
+    display="x",
+    authors="Liu X, Kane G, Bambroo M",
+    place=FAKE,
+    placex="J Syst Softw",
+))
+
+yan2006a = DB(WorkUnrelated(
+    2006, "A multilayer perceptron-based medical decision support system for heart disease diagnosis",
+    display="Hongmei Yan",
+    authors="Hongmei Yan , Yingtao Jiang , Jun Zheng , Chenglin Peng , Qinghui Li,",
+    place=FAKE,
+    placex="Expert Systems with Applications: An International Journal",
 ))

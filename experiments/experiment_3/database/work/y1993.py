@@ -44,6 +44,15 @@ gruber1993a = DB(WorkUnrelated(
     placex="Technical Report KSL-93-04.",
 ))
 
+gruber1993b = DB(WorkUnrelated(
+    1993, "A Translation Approach to Portable Ontology Specifications",
+    display="gruber b",
+    authors="T. R. Gruber",
+    place=FAKE,
+    other1="No. 2, 1993, pp. 199-220. doi:10.1006/knac.1993.1008",
+    placex="Knowledge Acquisition, Vol. 5,",
+))
+
 paulk1993a = DB(WorkUnrelated(
     1993, "CMM  Capability  Maturity Model SM for Software. Version 1.1",
     display="Paulk",

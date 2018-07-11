@@ -3,6 +3,14 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acuna2005a = DB(WorkUnrelated(
+    2005, "A Software Process Model Handbook for Incorporating People’s Capabilities",
+    display="acuna",
+    authors="Acuna, S.T., Jusristo, N., Moreno, A.M.",
+    place=FAKE,
+    placex="XXVIII, 324 p. 90",
+))
+
 april2005a = DB(WorkUnrelated(
     2005, "Software Maintenance Maturity Model (SMmm): the software maintenance process model",
     display="april",
@@ -23,6 +31,14 @@ april2005a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+berardi2005a = DB(WorkUnrelated(
+    2005, "Reasoning on UML class diagrams",
+    display="berardi",
+    authors="Berardi, D., Calvanese, D., Giacomo, G.D.:",
+    place=FAKE,
+    placex="Artif. Intell. 168, 70–118",
+))
+
 bourque2005a = DB(WorkUnrelated(
     2005, "Contributions to the Maturation of Software Engineering as a Discipline and a Recognised Profession",
     display="bourque",
@@ -33,6 +49,15 @@ bourque2005a = DB(WorkUnrelated(
     local="Citeseer",
     gs2016="1",
     placex="",
+))
+
+bourque2005b = DB(WorkUnrelated(
+    2005, "Guide to Software Engineering Body of Knowledge",
+    display="bourque b",
+    authors="P. Bourque and R. Dupris,",
+    place=FAKE,
+    other1="Washington,",
+    placex="IEEE Computer Society Press,",
 ))
 
 burgués2005a = DB(WorkUnrelated(
@@ -65,6 +90,15 @@ cmmi2005a = DB(WorkUnrelated(
     placex="Addison-Wesley",
 ))
 
+dromey2005a = DB(WorkUnrelated(
+    2005, "Constructive Support for the Analysis and Design of Large Systems",
+    display="dromey",
+    authors="Dromey, R.G.: System Composition:",
+    place=FAKE,
+    other1="Brisbane, Australia",
+    placex="SETE, Systems Engineering Conference,",
+))
+
 falbo2005a = DB(WorkUnrelated(
     2005, "Establishing a common vocabulary for software organizations understand software processes",
     display="falbo",
@@ -76,6 +110,8 @@ falbo2005a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10791151148097120245&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Workshop on Vocabularies, Ontologies and Rules for the Enterprise, Enschede, The Netherlands",
+    other1="Ontologies and Rules for the Enterprise, VORTE’,",
+    other2="The Netherlands, 20 September 2005, pp. 25-32.",
 ))
 
 falbo2005b = DB(WorkUnrelated(
@@ -90,6 +126,14 @@ falbo2005b = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=11390306800747435130&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Foundational Ontologies",
+))
+
+falbo2005c = DB(WorkUnrelated(
+    2005, "Using Ontologies to Add Semantics to a Software Engineering Environment",
+    display="falbo c",
+    authors="R. A. Falbo, F. B. Ruy and R. D. Moro,",
+    place=ICSE,
+    placex="17th International Conference on Software Engineering and Knowledge Engineering",
 ))
 
 frenzel2005a = DB(WorkUnrelated(
@@ -122,6 +166,14 @@ garcía2005a = DB(WorkUnrelated(
 ))
 
 
+haarslev2005a = DB(WorkUnrelated(
+    2005, "Racer",
+    display="haarslev",
+    authors="V. Haarslev, R. Miller and M. Wessel",
+    place=FAKE,
+    placex="http://www.sts.tu-harburg.de/ r.f.moeller/racer/",
+))
+
 huang2005a = DB(WorkUnrelated(
     2005, "A fuzzy ontology and its application to news summarization",
     display="huang",
@@ -130,6 +182,14 @@ huang2005a = DB(WorkUnrelated(
     other1="Cybernetics vol. 35 no. 5",
     other2="pp. 859-880 Oct.",
     placex="IEEE Transactions on Systems Man and Cybernetics Part B:",
+))
+
+institute2005a = DB(WorkUnrelated(
+    2005, "List of Published SCAMPI Appraisal Results",
+    display="institute",
+    authors="Carnegie Mellon Software Engineering Institute,",
+    place=FAKE,
+    placex="http://seir.sei.cmu.edu/pars/pars_list_iframe.asp",
 ))
 
 kindler2005a = DB(WorkUnrelated(
@@ -143,6 +203,22 @@ kindler2005a = DB(WorkUnrelated(
     ID="kindler2005incremental",
     springer2016="1",
     placex="Software Process Workshop",
+))
+
+kiryakov2005a = DB(WorkUnrelated(
+    2005, "WISE Workshop",
+    display="kiryakov",
+    authors="A. Kiryakov, D. Ognyanov and D. Manov",
+    place=FAKE,
+    placex="Springer, Dodrecht",
+))
+
+koschmider2005a = DB(WorkUnrelated(
+    2005, "Ontology based Business Process Description",
+    display="koschmider",
+    authors="A. Koschmider and A. Oberweis,",
+    place=FAKE,
+    placex="Proc. CAiSE´05 Workshops",
 ))
 
 liao2005a = DB(WorkSnowball(
@@ -161,10 +237,11 @@ liao2005a = DB(WorkSnowball(
     gs2016="1",
     placex="ISWC2005 Workshop on Semantic Web Enabled Software Engineering",
     other1="Software Engineering, 2005, pp. 6–10.",
+    scholar_ok=True,
 ))
 
 liao2005b = DB(WorkSnowball(
-    2005, "An Ontology-based Approach to Express Software Processes",
+    2005, "An ontology-based approach to express software processes",
     display="liao b",
     authors="Liao, Li and Qu, Yuzhong and Leung, H",
     place=FAKE,
@@ -178,6 +255,15 @@ liao2005b = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="",
+    scholar_ok=True,
+))
+
+lin2005a = DB(WorkUnrelated(
+    2005, "Ontology-based Semantic Annotation of Process Templates for Reuse",
+    display="lin",
+    authors="Y. Lin and D. Strasunskas,",
+    place=FAKE,
+    placex="Proc.10th Int’l Workshop on Exploring Modeling Methods for Systems Analysis and Design",
 ))
 
 ning2005a = DB(WorkUnrelated(
@@ -231,6 +317,7 @@ seyyedi2005a = DB(WorkUnrelated(
     authors="M.A. Seyyedi, M. Teshnehlab, and F. Shams,",
     place=FAKE,
     placex="Proc. Intl Conf. on Information Technology: Coding and Computing (ITCC'05) – Vol. II, IEEE CS",
+    other1="Proc. Intl Conf. on Information Technology: Coding and Computing",
 ))
 
 shangteng2005a = DB(WorkUnrelated(
@@ -248,10 +335,42 @@ shangteng2005a = DB(WorkUnrelated(
     placex="Computer Applications and Software",
 ))
 
+sirin2005a = DB(WorkUnrelated(
+    2005, "Pellet",
+    display="sirin",
+    authors="E. Sirin, B. Parsia, B. C. Grau, A. Kalyanpur and Y. Katz",
+    place=FAKE,
+    placex="http://pellet.owldl.com/",
+))
+
 strasunskas2005a = DB(WorkUnrelated(
     2005, "Ontology-based Semantic Annotation of Process Templates for Reuse",
     display="Lin",
     authors="Lin Y. Strasunskas D.",
     place=FAKE,
     placex="MMSAD'05 June",
+))
+
+thomas2005a = DB(WorkUnrelated(
+    2005, "A Semantic Approach to Monitor Business Process Performance",
+    display="thomas",
+    authors="M. Thomas, R. Redmond, V. Yoon, and R. Singh,",
+    place=CACM,
+    placex="Communications of the ACM",
+))
+
+wang2005a = DB(WorkUnrelated(
+    2005, "Agent-Based Control for Networked Traffic Management Systems",
+    display="wang",
+    authors="Fei-Yue Wang",
+    place=FAKE,
+    placex="IEEE Intelligent Systems",
+))
+
+zhang2005a = DB(WorkUnrelated(
+    2005, "Ontology Query Languages For The Semantic Web: A Performance Evaluation",
+    display="zhang",
+    authors="Z. Zhang",
+    place=FAKE,
+    placex="A Master of Science Degree Thesis, The University Of Georgia, Athens,",
 ))

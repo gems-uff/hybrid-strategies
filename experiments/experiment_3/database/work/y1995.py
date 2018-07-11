@@ -12,6 +12,14 @@ alonso1995a = DB(WorkUnrelated(
     placex="Real-Time Systems",
 ))
 
+conradi1995a = DB(WorkUnrelated(
+    1995, "Planning support for cooperating transactions in EPOS",
+    display="conradi",
+    authors="R. Conradi, C. Liu, and M. Hagaseth",
+    place=FAKE,
+    placex="Information Systems",
+))
+
 humphrey1995a = DB(WorkUnrelated(
     1995, "A Discipline for Software Engineering",
     display="humphrey",

@@ -3,12 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+bellifemine1999a = DB(WorkUnrelated(
+    1999, "JADE - A FIPAcompliant Agent Framework",
+    display="bellifemine",
+    authors="F. Bellifemine, A. Poggi, and G. Rimassa,",
+    place=FAKE,
+    other1="London",
+    placex="Proc. 4th Int’l Conf. and Exhibition on the Practical Application of Intelligent Agents and Multi-Agents",
+))
+
 chandrasekaran1999a = DB(WorkUnrelated(
     1999, "What Are Ontologies, and Why Do we Need Them?",
     display="chandrasekaran",
     authors="Chandrasekaran, B., Josephson, J.R., Benjamins, V.R.",
     place=FAKE,
     placex="IEEE Intelligent Systems Vol. 14, Issue 1",
+    other1="14(1):20-26",
 ))
 
 gasston1999a = DB(WorkUnrelated(
@@ -31,6 +41,15 @@ grom1999a = DB(WorkUnrelated(
     authors="I. Burnstein A. Homyen A. Suwanassart G. Saxena R. Grom",
     place=FAKE,
     placex="Software Quality Professional September 1999 pp. 8-21",
+))
+
+j1999a = DB(WorkUnrelated(
+    1999, "Multi-agent systems",
+    display="j",
+    authors="Ferber J",
+    place=FAKE,
+    other1="Addison-Wesley",
+    placex="New York,",
 ))
 
 management1999a = DB(WorkUnrelated(
@@ -63,7 +82,7 @@ zelkowitz1999a = DB(WorkUnrelated(
     display="zelkowitz",
     authors="Marvin V. Zelkowitz",
     place=FAKE,
-    pp="1 - 420",
+    pp="1 -- 420",
     entrytype="incollection",
     editor="Marvin V. Zelkowitz",
     series="Advances in Computers",

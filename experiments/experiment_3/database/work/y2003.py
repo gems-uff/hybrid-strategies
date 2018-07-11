@@ -3,6 +3,14 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+alani2003a = DB(WorkUnrelated(
+    2003, "Automatic Ontology-Based Knowledge Extraction from Web Documents",
+    display="Harith Alani",
+    authors="Harith Alani , Sanghee Kim , David E. Millard , Mark J. Weal , Wendy Hall , Paul H. Lewis , Nigel R. Shadbolt,",
+    place=FAKE,
+    placex="EEE Intelligent Systems",
+))
+
 ambriola2003a = DB(WorkUnrelated(
     2003, "A Framework for Comparing Software Processes off the Shelf",
     display="ambriola",
@@ -14,13 +22,37 @@ ambriola2003a = DB(WorkUnrelated(
     placex="article",
 ))
 
+baader2003a = DB(WorkUnrelated(
+    2003, "The Description Logic Handbook: Theory, Implementation and Applications",
+    display="baader",
+    authors="Baader, F., Calvanese, D., McGuinness, D., Nardi, D., Patel-Schneider, P.F.",
+    place=FAKE,
+    placex="Cambridge University Press, Cambridge",
+))
+
 berauer2003a = DB(WorkUnrelated(
-    2003, "The Use of Tailored Practice Implementation indicators for Process Definition and Assessment Preparation.",
+    2003, "The Use of Tailored Practice Implementation indicators for Process Definition and Assessment Preparation",
     display="berauer",
     authors="Berauer, R.",
     place=FAKE,
     other1="Google Scholar",
     placex="National Defense Industrial Association 3rd Annual CMMI Technology Conference and User Group Denver, Colorado (2003)",
+))
+
+borgida2003a = DB(WorkUnrelated(
+    2003, "Description logics for databases",
+    display="borgida",
+    authors="Borgida, A., Lenzerini, M., Rosati, R.:",
+    place=FAKE,
+    placex="In: [5], pp. 462– 484. Cambridge University Press",
+))
+
+chrissis2003a = DB(WorkUnrelated(
+    2003, "CMMI Guidlines for Process Integration and Product Improvement",
+    display="Mary Beth Chrissis",
+    authors="Mary Beth Chrissis , Mike Konrad , Sandy Shrum,",
+    place=FAKE,
+    placex="Addison-Wesley Longman Publishing Co.",
 ))
 
 damiani2003a = DB(WorkUnrelated(
@@ -87,6 +119,14 @@ iso2003a = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+korpipipää2003a = DB(WorkUnrelated(
+    2003, "Managing context information in mobile devices",
+    display="korpipipää",
+    authors="P. Korpipipää, J. Mantyjarvi, J. Kela, H. Keranen, and E.J. Malm,",
+    place=FAKE,
+    placex="IEEE Pervasive Computing",
+))
+
 kulpa2003a = DB(WorkUnrelated(
     2003, "Interpreting the CMMI: A Process Improvement Approach",
     display="kulpa",
@@ -102,6 +142,14 @@ miller2003a = DB(WorkUnrelated(
     authors="J. Miller,J. Mukerji,",
     place=FAKE,
     placex="http://www.omg.org/docs/omg/ 03-06-01.pdf,2003 -06 -12",
+))
+
+navigli2003a = DB(WorkUnrelated(
+    2003, "Ontology Learning and Its Application to Automated Terminology Translation",
+    display="",
+    authors="Roberto Navigli , Paola Velardi , Aldo Gangemi,",
+    place=FAKE,
+    placex="IEEE Intelligent Systems",
 ))
 
 ruiz2003a = DB(WorkUnrelated(
@@ -126,6 +174,14 @@ staalhane2003a = DB(WorkUnrelated(
     ID="staalhane2003kandidatens",
     gs2016="1",
     placex="NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET FAKULTET FOR INFORMASJONSTEKNOLOGI, MATEMATIKK OG ELEKTROTEKNIKK",
+))
+
+voas2003a = DB(WorkUnrelated(
+    2003, "Guest Editor's Introduction: Assuring Software Quality Assurance",
+    display="voas",
+    authors="Jeffrey Voas,",
+    place=IEEES,
+    placex="IEEE Software",
 ))
 
 w3c2003a = DB(WorkUnrelated(

@@ -67,6 +67,22 @@ bultan2007a = DB(WorkUnrelated(
     placex="ICWE 2007 Workshops",
 ))
 
+chang2007a = DB(WorkUnrelated(
+    2007, "Automated ontology construction for unstructured text documents",
+    display="chang",
+    authors="Chang-Shing Lee , Yuan-Fang Kao , Yau-Hwang Kuo , Mei-Hui Wang,",
+    place=FAKE,
+    placex="Data & Knowledge Engineering",
+))
+
+chau2007a = DB(WorkUnrelated(
+    2007, "An ontology-based knowledge management system for flow and water quality modeling",
+    display="chau",
+    authors="K. W. Chau,",
+    place=FAKE,
+    placex="Advances in Engineering Software",
+))
+
 chrissis2007a = DB(WorkUnrelated(
     2007, "CMMI:Guidelines for Process Integration and Product Improvement",
     display="chrissis",
@@ -130,6 +146,14 @@ dolado2007a = DB(WorkUnrelated(
     ID="doladotin2004",
     gs2016="1",
     placex="Jornadas de Seguimiento de Proyectos Programa Nacional de Tecnolog´ıas Inform´aticas",
+))
+
+dorn2007a = DB(WorkUnrelated(
+    2007, "Sharing Hierarchical Context for Mobile Web services",
+    display="dorn",
+    authors="C. Dorn, S. Dustdar",
+    place=FAKE,
+    placex="Distributed and Parallel Databases",
 ))
 
 eberlein2007a = DB(WorkUnrelated(
@@ -221,12 +245,37 @@ ikram2007a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+iso2007a = DB(WorkUnrelated(
+    2007, "ISO/IEC TR 24774 Software and systems engineering – Life cycle management – Guidelines for process description",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="",
+))
+
+jiang2007a = DB(WorkUnrelated(
+    2007, "CASDE: An Environment for Collaborative Software Development",
+    display="jiang",
+    authors="T. Jiang, J. Ying, and M, Wu,",
+    place=FAKE,
+    other1="LNCS, 4402,",
+    placex="Computer Supported Cooperative Work in Design III",
+))
+
 johnson2007a = DB(WorkUnrelated(
     2007, "Requirement and design trade-offs in Hackystat: An in-process software engineering measurement and analysis system",
     display="johnson",
     authors="P.M. Johnson,",
     place=FAKE,
     placex="Proc. 1st Int. Symp. on Empirical Software Engineering and Measurement, 2007, pp. 81-90",
+))
+
+johnson2007b = DB(WorkUnrelated(
+    2007, "Requirement and design trade-offs in Hackystat: An in-process software engineering measurement and analysis system",
+    display="johnson b",
+    authors="P.M. Johnson,",
+    place=FAKE,
+    placex="Proc. 1st Int. Symp. on Empirical Software Engineering and Measurement",
 ))
 
 kaschek2007a = DB(WorkUnrelated(
@@ -292,7 +341,7 @@ kumarapeli2007b = DB(WorkUnrelated(
     ID="kumarapeli2007feasibility",
     gs2016="1",
     placex="Informatics in primary care",
-    pp="245-253",
+    pp="245--253",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-39149138671&partnerID=40&md5=f666bd36c4dd36fa4fe57d97acd93100",
     scopus2016_duplicate_removed="1",
 ))
@@ -315,6 +364,14 @@ lee2007a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+lee2007ab = DB(WorkUnrelated(
+    2007, "CRM Ontology Based on CMMI Project Planning for Business Applications",
+    display="",
+    authors="C.-S. Lee, Y.-C. Wang, W.-M. Liu and Y.-C. Lin,",
+    place=FAKE,
+    placex="Proceedings of the 6th International Conference on Machine Learning and Cybernetics",
+))
+
 lee2007b = DB(WorkUnrelated(
     2007, "The Information Systems Academic Discipline in Korea: A Focus on Leading Universities",
     display="lee b",
@@ -335,6 +392,7 @@ lee2007c = DB(WorkUnrelated(
     authors="C.S. Lee, M.H. Wang.",
     place=FAKE,
     placex="Springer Science+Business Media, LLC",
+    other1="pp. 203-219. doi:10.1007/s10489-007-0071-1",
 ))
 
 leung2007a = DB(WorkUnrelated(
@@ -352,6 +410,7 @@ leung2007a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=6600957259000167204&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="International Journal of Quality & Reliability Management",
+    other1="24:(3):230-243",
 ))
 
 loconsole2007a = DB(WorkUnrelated(
@@ -366,6 +425,14 @@ loconsole2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+ma2007a = DB(WorkUnrelated(
+    2007, "Semantic Business Process Repository",
+    display="ma",
+    authors="Z. Ma, B. Wetzstein, D. Anicic, S. Heymans, and F. Leymann,",
+    place=FAKE,
+    placex="Proc. Workshop on Semantic Business Process and Product Lifecycle Management",
+))
+
 montoni2007a = DB(WorkUnrelated(
     2007, "A methodology for identifying critical success factors that influence software process improvement initiatives: an application in the Brazilian software industry",
     display="montoni",
@@ -378,6 +445,31 @@ montoni2007a = DB(WorkUnrelated(
     gs2016="1",
     placex="European Conference on Software Process Improvement",
     springer2016="1",
+))
+
+morbach2007a = DB(WorkUnrelated(
+    2007, "OntoCAPE-A large-scale ontology for chemical process engineering",
+    display="",
+    authors="Jan Morbach , Aidong Yang , Wolfgang Marquardt,",
+    place=FAKE,
+    placex="Engineering Applications of Artificial Intelligence",
+))
+
+motik2007a = DB(WorkUnrelated(
+    2007, "A hypertableau calculus for SHIQ",
+    display="motik",
+    authors="Motik, B., Shearer, R., Horrocks, I.:",
+    place=FAKE,
+    other1="",
+    placex="In: Calvanese, D., Franconi, E., Haarslev, V., Lembo, D., Motik, B., Tessaris, S., Turhan, A.-Y. (eds.) Proceedings of the 2007 Description Logic Workshop",
+))
+
+motik2007b = DB(WorkUnrelated(
+    2007, "Optimized reasoning in description logics using hypertableaux",
+    display="motik b",
+    authors="Motik, B., Shearer, R., Horrocks, I.:",
+    place=FAKE,
+    placex="In: Pfenning, F. (ed.) CADE 2007. LNCS (LNAI), vol. 4603, pp. 67–83. Springer, Heidelberg",
 ))
 
 oberhauser2007a = DB(WorkUnrelated(
@@ -453,12 +545,36 @@ simos2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+singarayan2007a = DB(WorkUnrelated(
+    2007, "A Framework for Semantic-Enabled Software Engineering",
+    display="singarayan",
+    authors="T. Singarayan,",
+    place=FAKE,
+    placex="www.semantic-conference.com/2007/conferenceglance.html",
+))
+
 sirin2007a = DB(WorkUnrelated(
     2007, "Pellet: A practical owl-dl reasoner",
     display="sirin",
     authors="E. Sirin, , B. Parsia, B. C. Grau, A. Kalyanpur, and Y. Katz,",
     place=FAKE,
     placex="Web Semantics: Science, Services and Agents on the World Wide Web",
+))
+
+sommerville2007a = DB(WorkUnrelated(
+    2007, "Software Engineering",
+    display="sommerville",
+    authors="Ian Sommerville",
+    place=FAKE,
+    placex="Addison-Wesley Publishing Company",
+))
+
+staples2007a = DB(WorkUnrelated(
+    2007, "An exploratory study of why organizations do not adopt CMMI",
+    display="Mark Staples",
+    authors="Mark Staples , Mahmood Niazi , Ross Jeffery , Alan Abrahams , Paul Byatt , Russell Murphy,",
+    place=JSS,
+    placex="Journal of Systems and Software",
 ))
 
 taipale2007a = DB(WorkUnrelated(
@@ -481,6 +597,15 @@ taipale2007b = DB(WorkUnrelated(
     ID="taipale2007observations",
     gs2016="1",
     placex="Acta Universitatis Lappeenrantaensis",
+))
+
+team2007a = DB(WorkUnrelated(
+    2007, "CMMI for Acquisition",
+    display="team",
+    authors="CMMI Product Team",
+    place=FAKE,
+    other1="TR-017, ESC-TR-2007-017, November",
+    placex="CMU/SEI CMMI-ACQ V1.2, CMU/SEI-2007-",
 ))
 
 terävä2007a = DB(WorkUnrelated(

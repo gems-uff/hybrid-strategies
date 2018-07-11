@@ -41,6 +41,14 @@ angelkov2013a = DB(WorkUnrelated(
     placex="Controlling Computer Games through Web Camera with Motion Detection",
 ))
 
+assistant2013a = DB(WorkUnrelated(
+    2013, "http://www.sqi.gu.edu.au/AppraisalAssistant/about.html",
+    display="assistant",
+    authors="Appraisal Assistant,",
+    place=FAKE,
+    placex="accessed site",
+))
+
 authosserre2013a = DB(WorkUnrelated(
     2013, "Ingénierie dirigée par les modèles: quels supports à l'interopérabilité des systèmes d'information?",
     display="authosserre",
@@ -180,6 +188,14 @@ eito2013a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+esper2013a = DB(WorkUnrelated(
+    2013, "http://esper.codehaus.org/",
+    display="esper",
+    authors="Esper",
+    place=FAKE,
+    placex="accessed site",
+))
+
 garcía2013a = DB(WorkUnrelated(
     2013, "A process reference model for managing living labs for ICT innovation: A proposal based on ISO/IEC 15504",
     display="garcía",
@@ -240,6 +256,7 @@ grambow2013a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="Int'l Journal on Advances in Software",
+    scholar_ok=True,
 ))
 
 honke2013a = DB(WorkUnrelated(
@@ -281,7 +298,7 @@ jeners2013b = DB(WorkUnrelated(
     ID="jeners2013efficient",
     gs2016="1",
     placex="e-Informatica Software Engineering Journal",
-    pp="15-24",
+    pp="15--24",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885167609&doi=10.5277%2fe-Inf130102&partnerID=40&md5=e598a86aa4e3b753315a644f5e023dd3",
     scopus2016_duplicate_removed="1",
 ))
@@ -306,6 +323,14 @@ kozina2013a = DB(WorkUnrelated(
     ID="kozina2013customizing",
     gs2016="1",
     placex="24rd Central European Conference on Information and Intelligent Systems",
+))
+
+krotzsch2013a = DB(WorkUnrelated(
+    2013, "A Description Logic Primer",
+    display="krotzsch",
+    authors="Krotzsch, M., Simancik, F., Horrocks, I.",
+    place=FAKE,
+    placex="University of Oxford, Oxford",
 ))
 
 lee2013a = DB(WorkUnrelated(

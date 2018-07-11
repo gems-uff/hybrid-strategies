@@ -65,6 +65,15 @@ baskerville2009a = DB(WorkUnrelated(
     placex="Proceedings of the 4th international conference on design science research in information systems and technology",
 ))
 
+bergman2009a = DB(WorkUnrelated(
+    2009, "The Fundamental importance of keeping an ABox and TBox Split",
+    display="bergman",
+    authors="Bergman, M.:",
+    place=FAKE,
+    other1="http://www.mkbergman.com",
+    placex="AI3 Adaptive Information",
+))
+
 bermón2009a = DB(WorkUnrelated(
     2009, "Software Process Asset Libraries Using Knowledge Repositories",
     display="bermón",
@@ -90,6 +99,14 @@ bonazzi2009a = DB(WorkUnrelated(
     gs2016="1",
     placex="Information systems: People, organizations, institutions, and technologies",
     springer2016="1",
+))
+
+browne2009a = DB(WorkUnrelated(
+    2009, "JBoss Drools Business Rules",
+    display="browne",
+    authors="P. Browne",
+    place=FAKE,
+    placex="Packt Publishing",
 ))
 
 casteleyn2009a = DB(WorkUnrelated(
@@ -273,6 +290,7 @@ gazel2009a = DB(WorkSnowball(
     scopus2016="1",
     placex="proceedings of the 16th EuroSPI2 Conference",
     gs2016="1",
+    scholar_ok=True,
 ))
 
 husnain2009a = DB(WorkUnrelated(
@@ -424,6 +442,23 @@ lee2009a = DB(WorkSnowball(
     selected_order="13",
     final_selected="1",    
     placex="Applied Intelligence",
+    scholar_ok=True,
+))
+
+lee2009b = DB(WorkUnrelated(
+    2009, "Ontology-Based Computational Intelligent Multi-Agent and Its Application to CMMI Assessment",
+    display="lee b",
+    authors="C.-S. Lee and M.-H. Wang,",
+    place=FAKE,
+    placex="Applied Intelligence",
+))
+
+lee2009c = DB(WorkUnrelated(
+    2009, "Analysis of Ontology Development Methodology Based on OTK and CMMI Level 4",
+    display="lee c",
+    authors="S. H. Lee, H.-J. Choi and S. Kim,",
+    place=FAKE,
+    placex="International Conference on Advanced Communication Technology",
 ))
 
 lincke2009a = DB(WorkUnrelated(
@@ -436,6 +471,14 @@ lincke2009a = DB(WorkUnrelated(
     ID="lincke2009validation",
     gs2016="1",
     placex="",
+))
+
+meier2009a = DB(WorkUnrelated(
+    2009, "eXist: An open source native XML database",
+    display="meier",
+    authors="W. Meier,",
+    place=FAKE,
+    placex="Web, WebServices, and Database Systems, LNCS, 2593",
 ))
 
 mora2009a = DB(WorkUnrelated(
@@ -559,6 +602,15 @@ szyszka2009a = DB(WorkUnrelated(
     ID="szyszka2009analysis",
     gs2016="1",
     placex="Unpublished Bachelor Thesis, Fakultät für Informatik der Technischen Universität Munchën",
+))
+
+team2009a = DB(WorkUnrelated(
+    2009, "CMMI for Services",
+    display="team",
+    authors="CMMI Product Team",
+    place=FAKE,
+    other1="ESC-TR-2009-01, February",
+    placex="CMU/SEI CMMI-SVC V1.2, CMU/SEI-2009-TR001,",
 ))
 
 tuffley2009a = DB(WorkUnrelated(

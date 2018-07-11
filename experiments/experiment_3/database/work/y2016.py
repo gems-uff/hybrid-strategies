@@ -173,6 +173,14 @@ diazvasquez2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+engineering2016a = DB(WorkUnrelated(
+    2016, "Behavior Engineering Web Site",
+    display="engineering",
+    authors="Behavior Engineering",
+    place=FAKE,
+    placex="http://www.behaviorengineering.org/",
+))
+
 falbo2016a = DB(WorkUnrelated(
     2016, "Ontology pattern languages",
     display="falbo",
@@ -277,8 +285,16 @@ gonzalez2016a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+iso2016a = DB(WorkUnrelated(
+    2016, "ISO/IEC 33053",
+    display="iso",
+    authors="ISO",
+    place=FAKE,
+    placex="PDTS1 Information Technology — Process Assessment — Process reference model for quality management",
+))
+
 kabaale2016a = DB(WorkSnowball(
-    2016, "Representing Software Process in Description Logics: An Ontology pproach for Software Process Reasoning and Verification",
+    2016, "Representing Software Process in Description Logics: n Ontology pproach for Software Process Reasoning and Verification",
     display="kabaale",
     authors="Kabaale, Edward and Wen, Lian and Wang, Zhe and Rout, Terry",
     place=ICSPICD,
@@ -293,6 +309,7 @@ kabaale2016a = DB(WorkSnowball(
     final_selected="1",
     gs2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
+    scholar_ok=True,
 ))
 
 kreiner2016a = DB(WorkUnrelated(
@@ -399,7 +416,7 @@ prabu2016a = DB(WorkUnrelated(
     ID="prabu2016asoftware",
     gs2016="1",
     placex="International Journal of Control Theory and Applications",
-    pp="11-17",
+    pp="11--17",
     volume="9",
     number="27",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007106919&partnerID=40&md5=7f9c976b937a4bcc1f7034e3ba6e9683",

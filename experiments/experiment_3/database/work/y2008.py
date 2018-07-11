@@ -33,6 +33,15 @@ andrade2008a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+assistant2008a = DB(WorkUnrelated(
+    2008, "Griffith University",
+    display="assistant",
+    authors="Appraisal Assistant,",
+    place=FAKE,
+    other1="http://www.sqi.gu.edu.au/AppraisalAssistant/about.html",
+    placex="Software Quality Institute",
+))
+
 ba2008a = DB(WorkUnrelated(
     2008, "Information Quality Management Capability Maturity Model",
     display="ba",
@@ -121,7 +130,7 @@ burgués2008a = DB(WorkUnrelated(
 ))
 
 caballero2008a = DB(WorkUnrelated(
-    2008, "IQM3: Information Quality Management Maturity Model.",
+    2008, "IQM3: Information Quality Management Maturity Model",
     display="caballero",
     authors="Caballero, Ismael and Caro, Angélica and Calero, Coral and Piattini, Mario",
     place=FAKE,
@@ -160,6 +169,15 @@ claxton2008a = DB(WorkUnrelated(
     ID="guomundur2008this",
     gs2016="1",
     placex="Cand.it - IT, Communication & Organization – Aarhus School of Business (ASB)",
+))
+
+cmmi2008a = DB(WorkUnrelated(
+    2008, "The CMMI Version 1.2 Overview presentation",
+    display="cmmi",
+    authors="Carnegie Mellon Software Engineering Institute",
+    place=FAKE,
+    other1="http://www.sei.cmu.edu/cmmi/adoption/pdf/cmmi-overview07.pdf",
+    placex="",
 ))
 
 consultants2008a = DB(WorkUnrelated(
@@ -230,6 +248,7 @@ ferchichi2008a = DB(WorkUnrelated(
     authors="A. Ferchichi, M. Bigand, and H. Lefebvre,",
     place=FAKE,
     placex="Proc. 1st Int'l Workshop on Model Driven Interoperability for Sustainable Information Systems",
+    other1="Information Systems,",
 ))
 
 gonzalez2008a = DB(WorkUnrelated(
@@ -248,7 +267,7 @@ gonzalez2008a = DB(WorkUnrelated(
 ))
 
 gruhn2008a = DB(WorkUnrelated(
-    2008, "Runtime Properties of Mobile Systems-Gaining Insight by Architecture Simulation.",
+    2008, "Runtime Properties of Mobile Systems-Gaining Insight by Architecture Simulation",
     display="gruhn",
     authors="Gruhn, Volker and Schäfer, Clemens",
     place=FAKE,
@@ -315,6 +334,14 @@ institute2008a = DB(WorkUnrelated(
     placex="Griffith University",
 ))
 
+institute2008b = DB(WorkUnrelated(
+    2008, "What Is CMMI?",
+    display="institute b",
+    authors="Carnegie Mellon Software Engineering Institute",
+    place=FAKE,
+    placex="http://www.sei.cmu.edu/cmmi/general/",
+))
+
 iso2008a = DB(WorkUnrelated(
     2008, "ISO IEC 12207:2008 - Software life cycle processes",
     display="iso",
@@ -346,6 +373,23 @@ iso2008d = DB(WorkUnrelated(
     authors="ISO,",
     place=FAKE,
     placex="site",
+))
+
+iso2008e = DB(WorkUnrelated(
+    2008, "Information Technology - Process Assessment",
+    display="iso e",
+    authors="ISO",
+    place=FAKE,
+    placex="ISO/IEC 15504 (2003-2008)",
+))
+
+iso2008f = DB(WorkUnrelated(
+    2008, "Systems And Software Engineering",
+    display="iso f",
+    authors="ISO",
+    place=FAKE,
+    other1="Second Edition, ISO/IEC 12207 (01-02-2008)",
+    placex="Software Life Cycle Processes, IEEE Std 12207-2008,",
 ))
 
 jacobson2008a = DB(WorkUnrelated(
@@ -400,7 +444,7 @@ košâšinár2008a = DB(WorkUnrelated(
 
 lee2008a = DB(WorkSnowball(
     2008, "Ontology-based intelligent decision support agent for CMMI project monitoring and control",
-    display="lee",
+    display="lee 2008 a",
     authors="Lee, Chang-Shing and Wang, Mei-Hui and Chen, Jui-Jen",
     place=FAKE,
     pp="62--76",
@@ -415,6 +459,30 @@ lee2008a = DB(WorkSnowball(
     selected_order="14",
     final_selected="1",
     placex="International Journal of Approximate Reasoning",
+    scholar_ok=True,
+))
+
+lee2008b = DB(WorkUnrelated(
+    2008, "Ontology-based intelligent decision support agent for CMMI project monitoring and control (see authors)",
+    display="lee 2008 b",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Chen, Jui-Jen and C.-Y. Hsu",
+    place=FAKE,
+    pp="62--76",
+    entrytype="article",
+    volume="48",
+    number="1",
+    publisher="Elsevier",
+    ID="leeb2008b",
+    placex="International Journal of Approximate Reasoning",
+))
+
+
+lee2008c = DB(WorkUnrelated(
+    2008, "Intelligent Estimation Agent Based on CMMI Ontology for Project Planning",
+    display="lee c",
+    authors="C.-S. Lee, M.-H. Wanga, Z.-R. Yana, C.-F. Lob, H.-H. Chuangb and Y.-C. Linb,",
+    place=FAKE,
+    placex="Proceeding of the 2008 IEEE International Conference on Systems, Man and Cybernetics",
 ))
 
 li2008a = DB(WorkUnrelated(
@@ -507,6 +575,14 @@ ontology2008a = DB(WorkUnrelated(
     placex="http://en.wikipedia.org/wiki/Ontology",
 ))
 
+pedrinaci2008a = DB(WorkUnrelated(
+    2008, "A Core Ontology for Business Process Analysis",
+    display="pedrinaci",
+    authors="C. Pedrinaci, J. Domingue, and A. Alves de Medeiros",
+    place=FAKE,
+    placex="LNCS 5021",
+))
+
 pino2008a = DB(WorkUnrelated(
     2008, "Software process improvement in small and medium software enterprises: a systematic review",
     display="pino",
@@ -587,6 +663,15 @@ rungratri2008a = DB(WorkSnowball(
     springer2016="1",
     placex="International Conference on Software Process",
     gs2016="1",
+    scholar_ok=True,
+))
+
+rungratri2008b = DB(WorkUnrelated(
+    2008, "Project Assets Ontology (PAO) to Support Gap Analysis for Organization Process Improvement Based on CMMI",
+    display="rungratri b",
+    authors="Rungratri, S., Usanavasin, S.,",
+    place=FAKE,
+    placex="Making Globally Distributed Software Development a Success Story Springer Berlin / Heidelberg, May 76-87",
 ))
 
 ryu2008a = DB(WorkSnowball(
@@ -608,6 +693,7 @@ ryu2008a = DB(WorkSnowball(
     art_number="4529877",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-51349137132&doi=10.1109%2fICIS.2008.78&partnerID=40&md5=e419e7dfc224fa8cd3bf08b6e5b47108",
     scopus2016_duplicate_removed="1",
+    scholar_ok=True,
 ))
 
 safonov2008a = DB(WorkUnrelated(
@@ -659,7 +745,7 @@ soto2008a = DB(WorkUnrelated(
 ))
 
 tripathi2008a = DB(WorkUnrelated(
-    2008, "Life cycle for change management in business processes using semantic technologies.",
+    2008, "Life cycle for change management in business processes using semantic technologies",
     display="tripathi",
     authors="Tripathi, Uttam Kumar and Hinkelmann, Knut and Feldkamp, Daniela",
     place=JCP,
@@ -687,4 +773,20 @@ varkoi2008b = DB(WorkUnrelated(
     authors="T. Makinen T. Varkoi",
     place=FAKE,
     placex="proceeding of PICMET'08 Conference 27–31 July",
+))
+
+wang2008a = DB(WorkUnrelated(
+    2008, "A Novel Fuzzy CMMI Ontology and Its Application to Project Estimation",
+    display="",
+    authors="M.-H. Wang, C.-S. Lee, Z.-R. Yan, H.-H. Chuang, C.-F. Lo and Y.-C. Lin",
+    place=FAKE,
+    placex="Journal of Internet Technology, Vol. 9, No. 4, , pp. 317-325.",
+))
+
+wikipedia2008a = DB(WorkUnrelated(
+    2008, "Wikipedia Capability Maturity Model",
+    display="wikipedia",
+    authors="Wikipedia",
+    place=FAKE,
+    placex="http://en.wikipedia.org/wiki/Capability_maturity_model",
 ))

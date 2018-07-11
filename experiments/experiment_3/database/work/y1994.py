@@ -20,7 +20,7 @@ conradi1994a = DB(WorkUnrelated(
 ))
 
 haase1994a = DB(WorkUnrelated(
-    1994, "Bootstrap: Fine-Tuning Process Assessment.",
+    1994, "Bootstrap: Fine-Tuning Process Assessment",
     display="haase",
     authors="Haase, V., Messnarz, R., Koch, G.,et al",
     place=IEEES,

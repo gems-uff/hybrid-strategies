@@ -16,6 +16,15 @@ althoff2002a = DB(WorkUnrelated(
     placex="Advances in Data Mining",
 ))
 
+baclawski2002a = DB(WorkUnrelated(
+    2002, "Kogut",
+    display="baclawski",
+    authors="K. Baclawski, M. M. Kokar, R. Waldinger and P. A.",
+    place=FAKE,
+    other1="Lecture Notes in Computer Science, Vol. 2342,pp. 454-459.",
+    placex="Consistency Checking of Semantic Web Ontologies",
+))
+
 benes2002a = DB(WorkUnrelated(
     2002, "Unified Environment for Business Process Modeling and Workflow Enactment",
     display="benes",
@@ -57,6 +66,16 @@ cmmi2002ab = DB(WorkUnrelated(
     placex="engineering (cmmi-sw, v1.1) staged representation.",
 ))
 
+cmmi2002c = DB(WorkUnrelated(
+    2002, "CMMI for Software Engineering,",
+    display="cmmi c",
+    authors="CMMI",
+    place=FAKE,
+    other1="Technical Report, Software",
+    other2="Engineering Institute, Pittsburgh,",
+    placex="Staged Representation, (CMMI-SW V1.1, Staged)",
+))
+
 cmusei2002a = DB(WorkUnrelated(
     2002, "Capability Maturity Model",
     display="cmu sei",
@@ -84,7 +103,7 @@ conradi2002a = DB(WorkUnrelated(
 ))
 
 dolado2002a = DB(WorkUnrelated(
-    2002, "Apoyo a la decisión en Ingeniería del Software.",
+    2002, "Apoyo a la decisión en Ingeniería del Software",
     display="dolado",
     authors="Dolado, José Javier and Cuadrado, JJ and García, D Rodríguez",
     place=FAKE,
@@ -121,6 +140,14 @@ middleton2002a = DB(WorkUnrelated(
     ID="middleton2002information",
     gs2016="1",
     placex="Information Management: A Consolidation of Operations, Analysis and Strategy",
+))
+
+ontoweb2002a = DB(WorkUnrelated(
+    2002, "A survey on ontology tools. OntoWeb Ontology-based information exchange for knowledge management and electronic commerce",
+    display="ontoweb",
+    authors="OntoWeb Consortium",
+    place=FAKE,
+    placex="IST-2000-29243. May",
 ))
 
 ruiz2002a = DB(WorkUnrelated(
