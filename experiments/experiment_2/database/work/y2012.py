@@ -946,6 +946,15 @@ microsoft2012a = DB(WorkUnrelated(
     placex="Microsoft",
 ))
 
+myai2012a = DB(WorkUnrelated(
+    2012, "The Action & Influence Solution",
+    display="org",
+    authors="myai org",
+    place=FAKE,
+    other1="http://myai.org/services/assessment-tool/team-matrix/ and http://myai.org. April 2011. Accessed January",
+    placex="[Online] Available",
+))
+
 neill2012a = DB(WorkUnrelated(
     2012, "9.1. 2 Antipatterns in Systems Engineering: An Opening Trio",
     display="neill",
@@ -1625,6 +1634,8 @@ wang2012a = DB(WorkUnrelated(
     doi="https://doi.org/10.1016/j.jss.2012.01.061",
     link="https://www.sciencedirect.com/science/article/pii/S0164121212000404",
     keyword="Experience report",
+    cluster_id="10937000903738965061",
+    scholar="http://scholar.google.com/scholar?cites=10937000903738965061&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 wang2012b = DB(WorkUnrelated(

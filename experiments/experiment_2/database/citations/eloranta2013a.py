@@ -20,6 +20,17 @@ from ..work.y2011 import schwaber2011a
 from ..work.y2012 import veli2012a
 from ..work.y2012 import versionone2012a
 from ..work.y2013 import eloranta2013a
+from ..work.y2014 import järvinen2014a
+from ..work.y2015 import khelladi2015a
+from ..work.y2015 import koski2015a
+from ..work.y2015 import eloranta2015b
+from ..work.y2016 import eloranta2016a
+from ..work.y2016 import lópez2016a
+from ..work.y2016 import sharma2016a
+from ..work.y2016 import ramirez2016a
+from ..work.y2017 import hoda2017a
+from ..work.y2017 import lópez2017a
+from ..work.y2017 import carew2017a
 
 DB(Citation(
     eloranta2013a, alliance2001a, ref="",
@@ -128,6 +139,83 @@ DB(Citation(
 
 DB(Citation(
     eloranta2013a, versionone2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    järvinen2014a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    eloranta2016a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2016a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hoda2017a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sharma2016a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ramirez2016a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    khelladi2015a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    koski2015a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    eloranta2015b, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lópez2017a, eloranta2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    carew2017a, eloranta2013a, ref="",
     contexts=[
 
     ],

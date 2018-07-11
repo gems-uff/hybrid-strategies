@@ -13,6 +13,13 @@ from ..work.y2005 import mitra2005a
 from ..work.y2006 import werner2006a
 from ..work.y2006 import bullinger2006a
 from ..work.y2007 import mitra2007a
+from ..work.y2008 import connolly2008a
+from ..work.y2010 import abrahams2010a
+from ..work.y2010 import abrahams2010b
+from ..work.y2010 import burns2010a
+from ..work.y2011 import abrahams2011a
+from ..work.y2013 import abrahams2013a
+from ..work.y2014 import ghosh2014a
 
 DB(Citation(
     mitra2007a, poger2005a, ref="",
@@ -72,6 +79,55 @@ DB(Citation(
 
 DB(Citation(
     mitra2007a, larman2002a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abrahams2010a, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abrahams2010b, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abrahams2013a, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ghosh2014a, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abrahams2011a, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    burns2010a, mitra2007a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    connolly2008a, mitra2007a, ref="",
     contexts=[
 
     ],

@@ -85,6 +85,75 @@ from ..work.y2013 import brown2013a
 from ..work.y2013 import hoda2013a
 from ..work.y2013 import kruchten2013a
 from ..work.y2013 import matavire2013a
+from ..work.y2014 import tarhan2014a
+from ..work.y2014 import bass2014a
+from ..work.y2014 import manen2014a
+from ..work.y2014 import morken2014a
+from ..work.y2014 import cornelius2014a
+from ..work.y2014 import campanelli2014a
+from ..work.y2014 import haaster2014a
+from ..work.y2014 import bass2014b
+from ..work.y2014 import salopaasi2014a
+from ..work.y2015 import campanelli2015a
+from ..work.y2015 import vlietland2015a
+from ..work.y2015 import bass2015a
+from ..work.y2015 import gregory2015a
+from ..work.y2015 import heikkilä2015a
+from ..work.y2015 import tomanek2015a
+from ..work.y2015 import berger2015a
+from ..work.y2015 import singh2015a
+from ..work.y2015 import baseer2015a
+from ..work.y2015 import darnell2015a
+from ..work.y2015 import behm2015a
+from ..work.y2015 import petrik2015a
+from ..work.y2015 import felipe2015a
+from ..work.y2015 import homrich2015a
+from ..work.y2015 import felipe2015b
+from ..work.y2015 import vlietland2015b
+from ..work.y2015 import luger2015a
+from ..work.y2015 import haaster2015a
+from ..work.y2015 import roslund2015a
+from ..work.y2016 import gregory2016a
+from ..work.y2016 import kuusinen2016a
+from ..work.y2016 import fitriani2016a
+from ..work.y2016 import laukkanen2016a
+from ..work.y2016 import bishop2016a
+from ..work.y2016 import diebold2016a
+from ..work.y2016 import zhang2016a
+from ..work.y2016 import joseph2016a
+from ..work.y2016 import haaster2016a
+from ..work.y2016 import alzoubi2016b
+from ..work.y2016 import confidential2016
+from ..work.y2016 import chassart2016a
+from ..work.y2016 import vrhovec2016a
+from ..work.y2016 import norberg2016a
+from ..work.y2016 import leur2016a
+from ..work.y2016 import norberg2016b
+from ..work.y2017 import joseph2017a
+from ..work.y2017 import jovanovi2017a
+from ..work.y2017 import kusters2017a
+from ..work.y2017 import deley2017a
+from ..work.y2017 import kalliamvakou2017a
+from ..work.y2017 import patel2017a
+from ..work.y2017 import haines2017a
+from ..work.y2017 import östman2017a
+from ..work.y2017 import musura2017a
+from ..work.y2017 import alkema2017a
+from ..work.y2017 import garbulho2017a
+from ..work.y2017 import assis2017a
+from ..work.y2017 import gencer2017a
+from ..work.y2017 import almeida2017a
+from ..work.y2017 import garcia2017b
+from ..work.y2017 import jovanovi2017b
+from ..work.y2017 import assis2017b
+from ..work.y2018 import barroca2018a
+from ..work.y2018 import hron2018a
+from ..work.y2018 import campanelli2018a
+from ..work.y2018 import theobald2018a
+from ..work.y2018 import laukkanen2018a
+from ..work.y2018 import sulaiman2018a
+from ..work.y2018 import kinnunen2018a
+from ..work.y2018 import järvi2018a
 
 DB(Citation(
     waardenburg2013a, abrahamsson2003a, ref="",
@@ -648,6 +717,489 @@ DB(Citation(
 
 DB(Citation(
     waardenburg2013a, vinekar2006a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    campanelli2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gregory2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vlietland2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bass2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bass2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gregory2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    heikkilä2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tomanek2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barroca2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kuusinen2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fitriani2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    berger2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    singh2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    laukkanen2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    baseer2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    manen2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bishop2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    morken2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    joseph2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    darnell2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jovanovi2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cornelius2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kusters2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hron2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    campanelli2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    behm2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    petrik2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    diebold2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    campanelli2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    deley2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    theobald2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    laukkanen2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haaster2014a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kalliamvakou2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    patel2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    felipe2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    zhang2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    joseph2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bass2014b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haaster2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    homrich2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alzoubi2016b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haines2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    confidential2016, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    östman2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    felipe2015b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    musura2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chassart2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vlietland2015b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sulaiman2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vrhovec2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    luger2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alkema2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haaster2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kinnunen2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    garbulho2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    norberg2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    leur2016a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    assis2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roslund2015a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    järvi2018a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gencer2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    norberg2016b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    almeida2017a, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    garcia2017b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jovanovi2017b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    assis2017b, waardenburg2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    salopaasi2014a, waardenburg2013a, ref="",
     contexts=[
 
     ],

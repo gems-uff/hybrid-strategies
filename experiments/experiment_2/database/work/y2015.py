@@ -52,6 +52,21 @@ al2015b = DB(WorkUnrelated(
     placex="Proceedings of the International Conference on Intelligent Information Processing, Security and Advanced Communication",
 ))
 
+almutairi2015a = DB(WorkUnrelated(
+    2015, "The Proposal of Scaling the Roles in Scrum of Scrums for Distributed Large Projects",
+    display="almutairi",
+    authors="AlMutairi, Abeer M and Qureshi, M Rizwan Jameel",
+    place=FAKE,
+    pp="68",
+    entrytype="article",
+    volume="7",
+    number="8",
+    ID="almutairi2015proposal",
+    cluster_id="18052467262610511536",
+    scholar="http://scholar.google.com/scholar?cites=18052467262610511536&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Information Technology and Computer Science (IJITCS)",
+))
+
 ampatzoglou2015a = DB(WorkUnrelated(
     2015, "The financial aspect of managing technical debt: A systematic literature review",
     display="ampatzoglou",
@@ -64,6 +79,17 @@ ampatzoglou2015a = DB(WorkUnrelated(
     ID="ampatzoglou2015financial",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+andreassen2015a = DB(WorkUnrelated(
+    2015, "Inter-team Coordination in Large-scale Agile Software Development-An Exploratory Case Study",
+    display="andreassen",
+    authors="Andreassen, Espen",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="andreassen2015inter",
+    local="NTNU",
+    placex="",
 ))
 
 baars2015a = DB(WorkUnrelated(
@@ -99,6 +125,36 @@ bano2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+baseer2015a = DB(WorkUnrelated(
+    2015, "A SYSTEMATIC SURVEY ON WATERFALL VS. AGILE VS. LEAN PROCESS PARADIGMS.",
+    display="baseer",
+    authors="Baseer, KK and REDDY, MOHAN and RAMA, A and BINDU, C SHOBA",
+    place=FAKE,
+    entrytype="article",
+    volume="9",
+    number="3",
+    ID="baseer2015systematic",
+    cluster_id="10786553598646598397",
+    scholar="http://scholar.google.com/scholar?cites=10786553598646598397&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal on Software Engineering",
+))
+
+bass2015a = DB(WorkUnrelated(
+    2015, "How product owner teams scale agile methods to large distributed enterprises",
+    display="bass",
+    authors="Bass, Julian M",
+    place=ESE,
+    pp="1525--1557",
+    entrytype="article",
+    volume="20",
+    number="6",
+    publisher="Springer",
+    ID="bass2015product",
+    cluster_id="8529927982038244699",
+    scholar="http://scholar.google.com/scholar?cites=8529927982038244699&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Empirical Software Engineering",
+))
+
 becker2015a = DB(WorkUnrelated(
     2015, "Besouro: A framework for exploring compliance rules in automatic TDD behavior assessment",
     display="becker",
@@ -111,6 +167,32 @@ becker2015a = DB(WorkUnrelated(
     ID="becker2015besouro",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+behm2015a = DB(WorkUnrelated(
+    2015, "Large-Scale Agile and Lean Transformation in a Globally Distributed Organization-Case Ericsson",
+    display="behm",
+    authors="Behm, Benjamin and others",
+    place=FAKE,
+    entrytype="article",
+    ID="behm2015large",
+    cluster_id="5866102055231781579",
+    scholar="http://scholar.google.com/scholar?cites=5866102055231781579&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+berger2015a = DB(WorkUnrelated(
+    2015, "Expectations and challenges from scaling agile in mechatronics-driven companies--a comparative case study",
+    display="berger",
+    authors="Berger, Christian and Eklund, Ulrik",
+    place=FAKE,
+    pp="15--26",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="berger2015expectations",
+    cluster_id="8687966993743691146",
+    scholar="http://scholar.google.com/scholar?cites=8687966993743691146&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
 ))
 
 bider2015a = DB(WorkUnrelated(
@@ -221,6 +303,8 @@ campanelli2015a = DB(WorkUnrelated(
     ID="campanelli2015agile",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    cluster_id="13608389524893719267",
+    scholar="http://scholar.google.com/scholar?cites=13608389524893719267&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 carson2015a = DB(WorkUnrelated(
@@ -298,6 +382,19 @@ corral2015a = DB(WorkUnrelated(
     ID="Corral2015",
     springer2016="1",
     placex="Computing",
+))
+
+darnell2015a = DB(WorkUnrelated(
+    2015, "Implicit and explicit measures of coordination effectiveness as predictors of agile software development project success: A regression approach",
+    display="darnell",
+    authors="Darnell, Ronald C",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="darnell2015implicit",
+    cluster_id="4675437515676136685",
+    scholar="http://scholar.google.com/scholar?cites=4675437515676136685&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Capella University",
+    placex="",
 ))
 
 devaney2015a = DB(WorkUnrelated(
@@ -400,6 +497,18 @@ eloranta2015a = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+eloranta2015b = DB(WorkUnrelated(
+    2015, "Techniques and Practices for Software Architecture Work in Agile Software Development",
+    display="eloranta b",
+    authors="Eloranta, Veli-Pekka",
+    place=FAKE,
+    entrytype="article",
+    ID="eloranta2015techniques",
+    cluster_id="10262039169322393873",
+    scholar="http://scholar.google.com/scholar?cites=10262039169322393873&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Tampereen teknillinen yliopisto. Julkaisu-Tampere University of Technology. Publication; 1293",
+))
+
 elverum2015a = DB(WorkUnrelated(
     2015, "On the use of directional and incremental prototyping in the development of high novelty products: Two case studies in the automotive industry",
     display="elverum",
@@ -454,6 +563,26 @@ fehlmann2015a = DB(WorkUnrelated(
     placex="Proceedings of the ASWEC 2015 24th Australasian Software Engineering Conference",
 ))
 
+felipe2015a = DB(WorkUnrelated(
+    2015, "TELECOMMUNICATION SERVICE DEPLOYMENT: PROJECT MANAGEMENT OPTIMIZATION BY USING DIFFERENT",
+    display="felipe",
+    authors="San Felipe, Patricia de Andrés",
+    place=FAKE,
+    entrytype="article",
+    ID="san2015telecommunication",
+    placex="",
+))
+
+felipe2015b = DB(WorkUnrelated(
+    2015, "Telecommunication service deployment: project management optimization by using different methodologies",
+    display="felipe b",
+    authors="San Felipe, Andrés and others",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="san2015telecommunication",
+    placex="",
+))
+
 fontana2015a = DB(WorkUnrelated(
     2015, "Progressive Outcomes: A framework for maturing in agile software development",
     display="fontana",
@@ -466,6 +595,8 @@ fontana2015a = DB(WorkUnrelated(
     ID="fontana2015progressive",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    cluster_id="15348358077280970025",
+    scholar="http://scholar.google.com/scholar?cites=15348358077280970025&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 franken2015a = DB(WorkUnrelated(
@@ -583,6 +714,30 @@ grapenthin2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+gregory2015a = DB(WorkUnrelated(
+    2015, "Agile challenges in practice: a thematic analysis",
+    display="gregory",
+    authors="Gregory, Peggy and Barroca, Leonor and Taylor, Katie and Salah, Dina and Sharp, Helen",
+    place=FAKE,
+    pp="64--80",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="gregory2015agile",
+    cluster_id="15108618829411172300",
+    scholar="http://scholar.google.com/scholar?cites=15108618829411172300&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
+haaster2015a = DB(WorkUnrelated(
+    2015, "Search This Blog",
+    display="haaster",
+    authors="van Haaster, Kelsey",
+    place=FAKE,
+    entrytype="article",
+    ID="vansearch",
+    placex="",
+))
+
 hamdan2015a = DB(WorkUnrelated(
     2015, "A quality framework for software continuous integration",
     display="hamdan",
@@ -647,6 +802,18 @@ heikkilä2015a = DB(WorkUnrelated(
     ID="heikkila2015operational",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+    cluster_id="4179055402446188439",
+    scholar="http://scholar.google.com/scholar?cites=4179055402446188439&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+homrich2015a = DB(WorkUnrelated(
+    2015, "Difficulties and possibilities of traditional and agile approaches in EPC project management: Case study in a Brazilian hydropower plants Implantation Company",
+    display="homrich",
+    authors="Homrich, Aline Sacchi and de Carvalho, Marly Monteiro and de Queiroz, Abelardo Alves",
+    place=FAKE,
+    entrytype="article",
+    ID="homrichdifficulties",
+    placex="",
 ))
 
 huijgens2015a = DB(WorkUnrelated(
@@ -695,6 +862,20 @@ inayat2015a = DB(WorkUnrelated(
     placex="Scientific Workshop Proceedings of the XP2015",
 ))
 
+itsuda2015a = DB(WorkUnrelated(
+    2015, "Fu-Rin-Ka-Zan: Quantitative Analysis of Developers' Characteristics Based on Project Historical Data",
+    display="itsuda",
+    authors="Itsuda, Atsushi and Fujiwara, Shin and Yamasaki, Nao and Tamada, Haruaki and Hata, Hideaki and Tsunoda, Masateru and Igaki, Hiroshi",
+    place=FAKE,
+    pp="14--19",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="itsuda2015fu",
+    cluster_id="15951837223782893187",
+    scholar="http://scholar.google.com/scholar?cites=15951837223782893187&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Computing and Information Technology/2nd International Conference on Computational Science and Intelligence (ACIT-CSI), 2015 3rd International Conference on",
+))
+
 jackson2015a = DB(WorkUnrelated(
     2015, "Supporting HFOSS using scrum in a capstone course",
     display="jackson",
@@ -725,6 +906,48 @@ jankowski2015a = DB(WorkUnrelated(
     placex="Computer Graphics Forum",
 ))
 
+japan2015a = DB(WorkUnrelated(
+    2015, "敏捷开发中软件架构设计与实践",
+    display="李声威",
+    authors="李声威 and 王爱景 and 谭红星",
+    place=FAKE,
+    pp="1--4",
+    entrytype="article",
+    volume="23",
+    number="3",
+    ID="李声威2015敏捷开发中软件架构设计与实践",
+    placex="电脑与信息技术",
+))
+
+japan2015b = DB(WorkUnrelated(
+    2015, "アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案",
+    display="井垣宏",
+    authors="井垣宏 and 福安直樹 and 佐伯幸郎 and 柗本真佑 and 楠本真二 and others",
+    place=FAKE,
+    pp="701--713",
+    entrytype="article",
+    volume="56",
+    number="2",
+    ID="井垣宏2015アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案",
+    cluster_id="3600153707626173954",
+    scholar="http://scholar.google.com/scholar?cites=3600153707626173954&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="情報処理学会論文誌",
+))
+
+jigeesh2015a = DB(WorkUnrelated(
+    2015, "An Empirical Study of Agile Testing Attributes for Higher Customer Satisfaction in IT Projects in India",
+    display="jigeesh",
+    authors="Jigeesh, Nasina and Chakraborty, Samyadip and Chakravorty, Tulika",
+    place=FAKE,
+    entrytype="article",
+    volume="10",
+    number="3",
+    ID="jigeesh2015empirical",
+    cluster_id="8232023684316327050",
+    scholar="http://scholar.google.com/scholar?cites=8232023684316327050&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Business and Information",
+))
+
 jimenez2015a = DB(WorkUnrelated(
     2015, "The pursuit of responsiveness in production environments: From flexibility to reconfigurability",
     display="jimenez",
@@ -751,6 +974,16 @@ joubert2015a = DB(WorkUnrelated(
     ID="joubert2015accelerated",
     sciencedirect2016="1",
     placex="Computers & Electrical Engineering",
+))
+
+jr2015a = DB(WorkUnrelated(
+    2015, "Apoio Automatizado ao Planejamento de Sprints em Projetos Scrum",
+    display="jr",
+    authors="Santos Jr, Paulo S and Costa, Rodrigo F Calhau Mateus Barcellos",
+    place=FAKE,
+    entrytype="article",
+    ID="santos2015apoio",
+    placex="",
 ))
 
 kakar2015a = DB(WorkUnrelated(
@@ -780,6 +1013,20 @@ kelle2015a = DB(WorkUnrelated(
     placex="Proceedings of the Eighth International Workshop on Cooperative and Human Aspects of Software Engineering",
 ))
 
+khelladi2015a = DB(WorkUnrelated(
+    2015, "A framework to formally verify conformance of a software process to a software method",
+    display="khelladi",
+    authors="Khelladi, Djamel-Eddine and Bendraou, Reda and Baarir, Souheib and Laurent, Yoann and Gervais, Marie-Pierre",
+    place=FAKE,
+    pp="1518--1525",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="khelladi2015framework",
+    cluster_id="14742276102718885794",
+    scholar="http://scholar.google.com/scholar?cites=14742276102718885794&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 30th Annual ACM Symposium on Applied Computing",
+))
+
 kobylinski2015a = DB(WorkUnrelated(
     2015, "Agile software development for Bluemix with IBM DevOps services",
     display="kobylinski",
@@ -791,6 +1038,45 @@ kobylinski2015a = DB(WorkUnrelated(
     ID="kobylinski2015agile",
     acm2016="1",
     placex="Proceedings of the 25th Annual International Conference on Computer Science and Software Engineering",
+))
+
+koski2015a = DB(WorkUnrelated(
+    2015, "Rolling out a mission critical system in an agilish way: Reflections on building a large-scale dependable information system for public sector",
+    display="koski",
+    authors="Koski, Aapo and Mikkonen, Tommi",
+    place=FAKE,
+    pp="41--44",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="koski2015rolling",
+    cluster_id="11239219267186365239",
+    scholar="http://scholar.google.com/scholar?cites=11239219267186365239&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the Second International Workshop on Rapid Continuous Software Engineering",
+))
+
+krimpmann2015a = DB(WorkUnrelated(
+    2015, "IT/IS organisation design in the digital age--a literature review",
+    display="krimpmann",
+    authors="Krimpmann, Dominik",
+    place=FAKE,
+    pp="1208--1218",
+    entrytype="article",
+    volume="9",
+    number="4",
+    ID="krimpmann2015organisation",
+    cluster_id="1713653451666214918",
+    scholar="http://scholar.google.com/scholar?cites=1713653451666214918&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="World Academy of Science, Engineering and Technology, International Journal of Social, Behavioral, Educational, Economic, Business and Industrial Engineering",
+))
+
+krimpmann2015b = DB(WorkUnrelated(
+    2015, "IT/IS Organisation Design in the Digital Age--A",
+    display="krimpmann b",
+    authors="Krimpmann, Dominik",
+    place=FAKE,
+    entrytype="article",
+    ID="krimpmann2015borganisation",
+    placex="",
 ))
 
 kupiainen2015a = DB(WorkUnrelated(
@@ -805,6 +1091,20 @@ kupiainen2015a = DB(WorkUnrelated(
     ID="kupiainen2015using",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+kuusinen2015a = DB(WorkUnrelated(
+    2015, "Task allocation between UX specialists and developers in agile software development projects",
+    display="kuusinen",
+    authors="Kuusinen, Kati",
+    place=FAKE,
+    pp="27--44",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kuusinen2015task",
+    cluster_id="14699951843726472806",
+    scholar="http://scholar.google.com/scholar?cites=14699951843726472806&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Human-Computer Interaction",
 ))
 
 laanti2015a = DB(WorkUnrelated(
@@ -833,6 +1133,22 @@ laporte2015a = DB(WorkUnrelated(
     ID="laporte2015open",
     wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+law2015a = DB(WorkUnrelated(
+    2015, "Whose experience do we care about? Analysis of the fitness of scrum and kanban to user experience",
+    display="law",
+    authors="Law, Effie Lai-Chong and Lárusdóttir, Marta Kristín",
+    place=FAKE,
+    pp="584--602",
+    entrytype="article",
+    volume="31",
+    number="9",
+    publisher="Taylor & Francis",
+    ID="law2015whose",
+    cluster_id="3641667091627006975",
+    scholar="http://scholar.google.com/scholar?cites=3641667091627006975&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Human-Computer Interaction",
 ))
 
 lenarduzzi2015a = DB(WorkUnrelated(
@@ -924,6 +1240,17 @@ lowry2015a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+luger2015a = DB(WorkUnrelated(
+    2015, "Designing an open innovation practice for a low/medium tech SME platform",
+    display="luger",
+    authors="Luger, NJ Nils",
+    place=FAKE,
+    entrytype="article",
+    publisher="Technische Universiteit Eindhoven",
+    ID="luger2015designing",
+    placex="",
+))
+
 machado2015a = DB(WorkUnrelated(
     2015, "Project management aided by verbal decision analysis approaches: a case study for the selection of the best SCRUM practices",
     display="machado",
@@ -937,6 +1264,21 @@ machado2015a = DB(WorkUnrelated(
     ID="machado2015project",
     wiley2016="1",
     placex="International Transactions in Operational Research",
+))
+
+mahni2015a = DB(WorkUnrelated(
+    2015, "Scrum in software engineering courses: an outline of the literature",
+    display="mahni",
+    authors="Mahni{č}, Viljan",
+    place=FAKE,
+    pp="77--83",
+    entrytype="article",
+    volume="17",
+    number="2",
+    ID="mahnivc2015scrum",
+    cluster_id="7055267029190356846",
+    scholar="http://scholar.google.com/scholar?cites=7055267029190356846&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Global Journal of Engineering Education",
 ))
 
 man2015a = DB(WorkUnrelated(
@@ -969,6 +1311,16 @@ mandal2015a = DB(WorkUnrelated(
     cluster_id="6832511343846728822",
     scholar="http://scholar.google.com/scholar?cites=6832511343846728822&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+mansouri2015a = DB(WorkUnrelated(
+    2015, "Managing Software Development Efficiency",
+    display="mansouri",
+    authors="Mansouri, Ziaeddin",
+    place=FAKE,
+    entrytype="article",
+    ID="mansouri2015managing",
+    placex="",
 ))
 
 marbach2015a = DB(WorkUnrelated(
@@ -1264,6 +1616,19 @@ perkusich2015a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+petrik2015a = DB(WorkUnrelated(
+    2015, "Hybride Vorgehensmodelle in der Versionserstellung-ein Praxisbeitrag",
+    display="petrik",
+    authors="Petrik, Dimitri",
+    place=FAKE,
+    entrytype="article",
+    publisher="Gesellschaft für Informatik eV",
+    ID="petrik2015hybride",
+    cluster_id="13811697631276263880",
+    scholar="http://scholar.google.com/scholar?cites=13811697631276263880&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Projektmanagement und Vorgehensmodelle 2015",
+))
+
 pilcher2015a = DB(WorkUnrelated(
     2015, "The Definition of Ready",
     display="pilcher",
@@ -1273,6 +1638,16 @@ pilcher2015a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Pilcher2015",
     placex="accessed site",
+))
+
+pitkänen2015a = DB(WorkUnrelated(
+    2015, "Agile Transformation: A case study",
+    display="pitkänen",
+    authors="Pitkänen, Antti and others",
+    place=FAKE,
+    entrytype="article",
+    ID="pitkanen2015agile",
+    placex="",
 ))
 
 plonka2015a = DB(WorkUnrelated(
@@ -1300,6 +1675,16 @@ power2015a = DB(WorkUnrelated(
     ID="power2015metric",
     acm2016="1",
     placex="Proceedings of the Second International Workshop on Software Architecture and Metrics",
+))
+
+power2015b = DB(WorkUnrelated(
+    2015, "Organization and Business Agility: Managing the Portfolio Backlog in Large Organizations",
+    display="power b",
+    authors="POWER, KEN",
+    place=FAKE,
+    entrytype="article",
+    ID="power2015organization",
+    placex="",
 ))
 
 prause2015a = DB(WorkUnrelated(
@@ -1445,6 +1830,16 @@ rolland2015a = DB(WorkUnrelated(
     placex="Scientific Workshop Proceedings of the XP2015",
 ))
 
+roslund2015a = DB(WorkUnrelated(
+    2015, "Organisaation sisäisten tilannetekijöiden vaikutukset tietojärjestelmien kehitysmenetelmien valintaan",
+    display="roslund",
+    authors="Roslund, Markus",
+    place=FAKE,
+    entrytype="article",
+    ID="roslund2015organisaation",
+    placex="",
+))
+
 rosser2015a = DB(WorkUnrelated(
     2015, "The Role of Requirements In Agile System Realization",
     display="rosser",
@@ -1504,6 +1899,16 @@ salado2015a = DB(WorkUnrelated(
     ID="salado2015adaptive",
     wiley2016="1",
     placex="Systems Engineering",
+))
+
+salin2015a = DB(WorkUnrelated(
+    2015, "Front-end design and implementation of a Web-based Streaming Platform: A User Centered Approach",
+    display="salin",
+    authors="Salin, Fredrik",
+    place=FAKE,
+    entrytype="misc",
+    ID="salin2015front",
+    placex="",
 ))
 
 santos2015a = DB(WorkUnrelated(
@@ -1697,6 +2102,18 @@ simpson2015a = DB(WorkUnrelated(
     placex="Lecture Notes in Business Information Processing",
 ))
 
+singh2015a = DB(WorkUnrelated(
+    2015, "Program management practices in context of Scrum: A case study of two South African software development SMMEs",
+    display="singh",
+    authors="Singh, Alveen",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="singh2015program",
+    cluster_id="15677258855495849362",
+    scholar="http://scholar.google.com/scholar?cites=15677258855495849362&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 sobiech2015a = DB(WorkUnrelated(
     2015, "A heuristic approach to solve the elementary sprint optimization problem for non-cross-functional teams in Scrum",
     display="sobiech",
@@ -1710,6 +2127,16 @@ sobiech2015a = DB(WorkUnrelated(
     ID="sobiech2015heuristic",
     acm2016="1",
     placex="ACM SIGAPP Applied Computing Review",
+))
+
+sousa2015a = DB(WorkUnrelated(
+    2015, "Automated Support for Scrum Projects Sprint Planning",
+    display="sousa",
+    authors="Sousa, Hanna Tátila and Silva, Thanner Soares and Junior, Paulo Sérgio Santos and Calhau, Rodrigo Fernandes and Costa, Mateus Barcellos",
+    place=FAKE,
+    entrytype="article",
+    ID="sousa2015automated",
+    placex="",
 ))
 
 srivastava2015a = DB(WorkUnrelated(
@@ -1742,6 +2169,17 @@ stettina2015a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
     doi="10.1016/j.ijproman.2014.03.008",
     note="cited By 27",
+))
+
+stettina2015b = DB(WorkUnrelated(
+    2015, "Governance of innovation project management: necessary and neglected",
+    display="stettina b",
+    authors="Stettina, Christoph Johann and others",
+    place=Book,
+    entrytype="book",
+    publisher="Leiden Institute of Advanced Computer Science (LIACS), Faculty of Science & Centre for Innovation The Hague, Campus the Hague, Leiden University",
+    ID="stettina2015governance",
+    placex="",
 ))
 
 stevens2015a = DB(WorkUnrelated(
@@ -1777,6 +2215,30 @@ tamburri2015a = DB(WorkUnrelated(
     ID="Tamburri2015",
     springer2016="1",
     placex="Journal of Internet Services and Applications",
+))
+
+texel2015a = DB(WorkUnrelated(
+    2015, "Exploring government contractor experiences assessing and reporting software development status",
+    display="texel",
+    authors="Texel, Putnam P",
+    place=FAKE,
+    entrytype="article",
+    ID="texel2015exploring",
+    cluster_id="4396393316286090896",
+    scholar="http://scholar.google.com/scholar?cites=4396393316286090896&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+tomanek2015a = DB(WorkUnrelated(
+    2015, "A conceptual framework for web development projects based on project management and agile development principles",
+    display="tomanek",
+    authors="Tomanek, Martin and Cermak, Radim and Smutny, Zdenek",
+    place=FAKE,
+    entrytype="article",
+    ID="tomanek2015conceptual",
+    cluster_id="6648750671095976240",
+    scholar="http://scholar.google.com/scholar?cites=6648750671095976240&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1502.04297",
 ))
 
 torrecilla2015a = DB(WorkUnrelated(
@@ -1866,6 +2328,17 @@ vlietland2015a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+vlietland2015b = DB(WorkUnrelated(
+    2015, "Improving the agility of IT service networks",
+    display="vlietland b",
+    authors="Vlietland, Jan",
+    place=FAKE,
+    entrytype="article",
+    publisher="Amsterdam: Vrije Universiteit",
+    ID="vlietland2015improving",
+    placex="",
+))
+
 wale2015a = DB(WorkSnowball(
     2015, "Integrating usability work into a large inter-organisational agile development project: Tactics developed by usability designers",
     display="wale",
@@ -1897,6 +2370,20 @@ walk2015a = DB(WorkUnrelated(
     ID="walk2015apply",
     sciencedirect2016="1",
     placex="International Journal of Human-Computer Studies",
+))
+
+walter2015a = DB(WorkUnrelated(
+    2015, "From Sprints to Lean Flow: Management Strategies for Agile Improvement",
+    display="walter",
+    authors="Walter, Marcelo and Tramontini, Ramon and Fontana, Rafaela Mantovani and Reinehr, Sheila and Malucelli, Andreia",
+    place=FAKE,
+    pp="310--318",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="walter2015sprints",
+    cluster_id="6851431838913719542",
+    scholar="http://scholar.google.com/scholar?cites=6851431838913719542&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
 ))
 
 weilemann2015a = DB(WorkUnrelated(

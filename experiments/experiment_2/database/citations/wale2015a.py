@@ -70,6 +70,20 @@ from ..work.y2013 import silva2013b
 from ..work.y2013 import wale2013a
 from ..work.y2013 import vallon2013a
 from ..work.y2015 import wale2015a
+from ..work.y2015 import law2015a
+from ..work.y2015 import kuusinen2015a
+from ..work.y2015 import salin2015a
+from ..work.y2016 import eshet2016a
+from ..work.y2016 import fitriani2016a
+from ..work.y2016 import lárusdóttir2016a
+from ..work.y2016 import yusuf2016a
+from ..work.y2016 import martínez2016a
+from ..work.y2017 import mateen2017a
+from ..work.y2017 import hernández2017a
+from ..work.y2017 import garcia2017a
+from ..work.y2017 import sagar2017a
+from ..work.y2017 import hernández2017b
+from ..work.y2017 import silva2017b
 
 DB(Citation(
     wale2015a, abrahamsson2003a, ref="",
@@ -528,6 +542,104 @@ DB(Citation(
 
 DB(Citation(
     wale2015a, ågerfalk2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    law2015a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kuusinen2015a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    eshet2016a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fitriani2016a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mateen2017a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hernández2017a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    garcia2017a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sagar2017a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lárusdóttir2016a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    salin2015a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hernández2017b, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    yusuf2016a, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    silva2017b, wale2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    martínez2016a, wale2015a, ref="",
     contexts=[
 
     ],

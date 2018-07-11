@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aaltonen2014a = DB(WorkUnrelated(
+    2014, "Challenges in managing large-scale agile software development transformation",
+    display="aaltonen",
+    authors="Aaltonen, Jenni and others",
+    place=FAKE,
+    entrytype="article",
+    ID="aaltonen2014challenges",
+    placex="",
+))
+
 alegría2014a = DB(WorkUnrelated(
     2014, "MDE-based process tailoring strategy",
     display="alegría",
@@ -30,6 +40,32 @@ ali2014a = DB(WorkUnrelated(
     ID="ali2014systematic",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+alotaibi2014a = DB(WorkUnrelated(
+    2014, "Scrum and Temporal Distance-Based Global Software Development",
+    display="alotaibi",
+    authors="Alotaibi, Asmaa Fowzi and Qureshi, M Rizwan Jameel",
+    place=FAKE,
+    pp="48",
+    entrytype="article",
+    volume="6",
+    number="6",
+    publisher="Modern Education and Computer Science Press",
+    ID="alotaibi2014scrum",
+    cluster_id="8019624915188604569",
+    scholar="http://scholar.google.com/scholar?cites=8019624915188604569&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Computer Network and Information Security",
+))
+
+alotaibi2014b = DB(WorkUnrelated(
+    2014, "International Journal of Computer Network and Information Security (IJCNIS)",
+    display="alotaibi",
+    authors="Alotaibi, Asmaa Fowzi and Qureshi, M Rizwan Jameel",
+    place=FAKE,
+    entrytype="article",
+    ID="alotaibibinternational",
+    placex="",
 ))
 
 amrute2014a = DB(WorkUnrelated(
@@ -117,6 +153,30 @@ barney2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+bass2014a = DB(WorkUnrelated(
+    2014, "Scrum master activities: process tailoring in large enterprise projects",
+    display="bass",
+    authors="Bass, Julian M",
+    place=ICSE,
+    pp="6--15",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="bass2014scrum",
+    cluster_id="1261430823360013273",
+    scholar="http://scholar.google.com/scholar?cites=1261430823360013273&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Global Software Engineering (ICGSE), 2014 IEEE 9th International Conference on",
+))
+
+bass2014b = DB(WorkUnrelated(
+    2014, "Activities in Scrum Master Teams: Process Tailoring in Large Enterprise Projects",
+    display="bass b",
+    authors="Bass, Julian M",
+    place=FAKE,
+    entrytype="article",
+    ID="bassbactivities",
+    placex="",
+))
+
 becheru2014a = DB(WorkUnrelated(
     2014, "Agile development methods through the eyes of organisational network analysis",
     display="becheru",
@@ -178,6 +238,18 @@ browning2014a = DB(WorkUnrelated(
     ID="Browning2014583",
     scopus2016="1",
     placex="IEEE Transactions on Engineering Management",
+))
+
+campanelli2014a = DB(WorkUnrelated(
+    2014, "A Model for Agile Method Tailoring",
+    display="campanelli",
+    authors="Campanelli, Amadeu Silveira",
+    place=FAKE,
+    entrytype="article",
+    volume="3",
+    number="2",
+    ID="campanelli2014model",
+    placex="Projetos e Disserta{ç}ões em Sistemas de Informa{ç}ão e Gestão do Conhecimento",
 ))
 
 carlo2014a = DB(WorkUnrelated(
@@ -284,6 +356,19 @@ conforto2014a = DB(WorkUnrelated(
     ID="conforto2014can",
     wiley2016="1",
     placex="Project Management Journal",
+))
+
+cornelius2014a = DB(WorkUnrelated(
+    2014, "The value of Scrum to organizations: A case study",
+    display="cornelius",
+    authors="Cornelius, Dave A",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="cornelius2014value",
+    cluster_id="2580786038412248149",
+    scholar="http://scholar.google.com/scholar?cites=2580786038412248149&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Phoenix",
+    placex="",
 ))
 
 corrêa2014a = DB(WorkUnrelated(
@@ -611,6 +696,22 @@ gholami2014a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+ghosh2014a = DB(WorkUnrelated(
+    2014, "IS Course Success in Liberal Arts Institutions-What's the Formula?",
+    display="ghosh",
+    authors="Ghosh, Suvankar and Naik, Bijayananda and Li, Xiaolin",
+    place=FAKE,
+    pp="189",
+    entrytype="article",
+    volume="25",
+    number="3",
+    publisher="EDSIG",
+    ID="ghosh2014course",
+    cluster_id="17346914620844070572",
+    scholar="http://scholar.google.com/scholar?cites=17346914620844070572&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Information Systems Education",
+))
+
 griffith2014a = DB(WorkUnrelated(
     2014, "A simulation study of practical methods for technical debt management in agile software development",
     display="griffith",
@@ -637,6 +738,16 @@ gustavsson2014a = DB(WorkUnrelated(
     ID="gustavsson2014rethinking",
     sciencedirect2016="1",
     placex="International Journal of Project Management",
+))
+
+haaster2014a = DB(WorkUnrelated(
+    2014, "Agile in-the-large: Getting from Paradox to Paradigm",
+    display="haaster",
+    authors="van Haaster, Kelsey",
+    place=FAKE,
+    entrytype="article",
+    ID="vanagile",
+    placex="",
 ))
 
 haley2014a = DB(WorkUnrelated(
@@ -908,6 +1019,20 @@ jrad2014a = DB(WorkUnrelated(
     placex="Proceedings - International Conference on Research Challenges in Information Science",
 ))
 
+järvinen2014a = DB(WorkUnrelated(
+    2014, "From agile software development to mercury business",
+    display="järvinen",
+    authors="Järvinen, Janne and Huomo, Tua and Mikkonen, Tommi and Tyrväinen, Pasi",
+    place=ICSE,
+    pp="58--71",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="jarvinen2014agile",
+    cluster_id="13723492667667231382",
+    scholar="http://scholar.google.com/scholar?cites=13723492667667231382&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference of Software Business",
+))
+
 kalinowski2014a = DB(WorkUnrelated(
     2014, "From project-oriented to service-oriented software development: an industrial experience guided by a service reference model",
     display="kalinowski",
@@ -1080,6 +1205,30 @@ lucae2014a = DB(WorkUnrelated(
     placex="Procedia Computer Science",
 ))
 
+mai2014a = DB(WorkUnrelated(
+    2014, "Recent Posts",
+    display="mai",
+    authors="Mai, Daniel",
+    place=FAKE,
+    entrytype="article",
+    ID="mai2014recent",
+    placex="Month",
+))
+
+manen2014a = DB(WorkUnrelated(
+    2014, "Organization-wide agile expansion requires an organization-wide agile mindset",
+    display="manen",
+    authors="van Manen, Hidde and van Vliet, Hans",
+    place=ICPFSPI,
+    pp="48--62",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="van2014organization",
+    cluster_id="8857801761346487861",
+    scholar="http://scholar.google.com/scholar?cites=8857801761346487861&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
 marsillac2014a = DB(WorkUnrelated(
     2014, "Connecting product design, process and supply chain decisions to strengthen global supply chain capabilities",
     display="marsillac",
@@ -1210,6 +1359,19 @@ moreland2014a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+morken2014a = DB(WorkUnrelated(
+    2014, "Coordination in Large-Scale Agile Development",
+    display="morken",
+    authors="Morken, Ragnar Alexander T",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="morken2014coordination",
+    cluster_id="15885196425721331118",
+    scholar="http://scholar.google.com/scholar?cites=15885196425721331118&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Institutt for datateknikk og informasjonsvitenskap",
+    placex="",
+))
+
 munir2014a = DB(WorkUnrelated(
     2014, "Considering rigor and relevance when evaluating test driven development: A systematic review",
     display="munir",
@@ -1315,6 +1477,16 @@ paasivaara2014b = DB(WorkUnrelated(
     ID="paasivaara2014communities",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+pages2014a = DB(WorkUnrelated(
+    2014, "Language Switch",
+    display="pages",
+    authors="Pages, All",
+    place=FAKE,
+    entrytype="article",
+    ID="pageslanguage",
+    placex="",
 ))
 
 parsons2014a = DB(WorkUnrelated(
@@ -1462,6 +1634,32 @@ power2014b = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+power2014c = DB(WorkUnrelated(
+    2014, "Metrics for Understanding Flow",
+    display="power c",
+    authors="Power, Ken",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="power2014metrics",
+    cluster_id="3636852851199283319",
+    scholar="http://scholar.google.com/scholar?cites=3636852851199283319&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Agile Software Development Conference (Agile 2014)",
+))
+
+power2014d = DB(WorkUnrelated(
+    2014, "A model for understanding when scaling agile is appropriate in large organizations",
+    display="power d",
+    authors="Power, Ken",
+    place=FAKE,
+    pp="83--92",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="power2014model",
+    cluster_id="13665698389105828128",
+    scholar="http://scholar.google.com/scholar?cites=13665698389105828128&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
 ramos2014a = DB(WorkUnrelated(
     2014, "eXtreme enterprise architecture planning",
     display="ramos",
@@ -1575,6 +1773,16 @@ salleh2014a = DB(WorkUnrelated(
     ID="salleh2014investigating",
     springer2016="1",
     placex="Empirical Software Engineering",
+))
+
+salopaasi2014a = DB(WorkUnrelated(
+    2014, "THE ROLE OF CONTINUOUS INTEGRATION IN SOFTWARE BUSINESS",
+    display="salopaasi",
+    authors="Salopaasi, Hanna",
+    place=FAKE,
+    entrytype="article",
+    ID="salopaasirole",
+    placex="",
 ))
 
 scheerer2014a = DB(WorkUnrelated(
@@ -1858,6 +2066,8 @@ tarhan2014a = DB(WorkUnrelated(
     ID="tarhan2014systematic",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+    cluster_id="2337597272527902453",
+    scholar="http://scholar.google.com/scholar?cites=2337597272527902453&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 teodorov2014a = DB(WorkUnrelated(

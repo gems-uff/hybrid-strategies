@@ -102,7 +102,36 @@ from ..work.y2014 import scheerer2014a
 from ..work.y2014 import ståhl2014b
 from ..work.y2014 import vlietland2014a
 from ..work.y2014 import vlietland2014b
+from ..work.y2014 import pages2014a
 from ..work.y2015 import vlietland2015a
+from ..work.y2015 import krimpmann2015a
+from ..work.y2015 import almutairi2015a
+from ..work.y2015 import jigeesh2015a
+from ..work.y2015 import stettina2015b
+from ..work.y2015 import mansouri2015a
+from ..work.y2015 import krimpmann2015b
+from ..work.y2015 import vlietland2015b
+from ..work.y2015 import andreassen2015a
+from ..work.y2015 import jr2015a
+from ..work.y2015 import sousa2015a
+from ..work.y2016 import bass2016a
+from ..work.y2016 import batra2016a
+from ..work.y2016 import aintila2016a
+from ..work.y2016 import bonassa2016a
+from ..work.y2016 import haaster2016a
+from ..work.y2016 import syversen2016a
+from ..work.y2017 import moe2017a
+from ..work.y2017 import sensuse2017a
+from ..work.y2017 import aamir2017a
+from ..work.y2017 import patel2017a
+from ..work.y2017 import oomen2017a
+from ..work.y2017 import noll2017a
+from ..work.y2017 import musa2017a
+from ..work.y2017 import arango2017a
+from ..work.y2018 import dingsøyr2018a
+from ..work.y2018 import dingsøyr2018b
+from ..work.y2018 import bjørnson2018a
+from ..work.y2018 import imani2018a
 
 DB(Citation(
     vlietland2015a, ågerfalk2005a, ref="",
@@ -792,6 +821,209 @@ DB(Citation(
 
 DB(Citation(
     vlietland2015a, yin2009a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bass2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dingsøyr2018a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    krimpmann2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    batra2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    moe2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    almutairi2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dingsøyr2018b, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jigeesh2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    stettina2015b, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aintila2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bjørnson2018a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sensuse2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    imani2018a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    aamir2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mansouri2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    patel2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pages2014a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bonassa2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    krimpmann2015b, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    haaster2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oomen2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vlietland2015b, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    noll2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    syversen2016a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    musa2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    andreassen2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    arango2017a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jr2015a, vlietland2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sousa2015a, vlietland2015a, ref="",
     contexts=[
 
     ],

@@ -24,6 +24,20 @@ from ..work.y2013 import paasivaara2013a
 from ..work.y2013 import rocha2013a
 from ..work.y2013 import scrum2013a
 from ..work.y2014 import igaki2014a
+from ..work.y2015 import mahni2015a
+from ..work.y2015 import itsuda2015a
+from ..work.y2015 import japan2015b
+from ..work.y2016 import matthies2016b
+from ..work.y2016 import matthies2016a
+from ..work.y2016 import melo2016a
+from ..work.y2017 import herrmann2017a
+from ..work.y2017 import ju2017a
+from ..work.y2017 import japan2017a
+from ..work.y2017 import japan2017b
+from ..work.y2017 import japan2017c
+from ..work.y2018 import ju2018a
+from ..work.y2018 import chishiro2018a
+from ..work.y2018 import japan2018a
 
 DB(Citation(
     igaki2014a, bang2013a, ref="",
@@ -160,6 +174,104 @@ DB(Citation(
 
 DB(Citation(
     igaki2014a, yamin2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mahni2015a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    matthies2016b, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    matthies2016a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    itsuda2015a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    herrmann2017a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2015b, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ju2017a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ju2018a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    chishiro2018a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2018a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2017a, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2017b, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2017c, igaki2014a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    melo2016a, igaki2014a, ref="",
     contexts=[
 
     ],

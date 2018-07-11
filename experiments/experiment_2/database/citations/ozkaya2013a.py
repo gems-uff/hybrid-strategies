@@ -10,6 +10,8 @@ from ..work.y2011 import lapham2011a
 from ..work.y2012 import grant2012a
 from ..work.y2012 import bachmann2012a
 from ..work.y2013 import ozkaya2013a
+from ..work.y2013 import gagliardi2013a
+from ..work.y2015 import japan2015a
 
 DB(Citation(
     ozkaya2013a, grant2012a, ref="",
@@ -48,6 +50,20 @@ DB(Citation(
 
 DB(Citation(
     ozkaya2013a, bass1998a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gagliardi2013a, ozkaya2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    japan2015a, ozkaya2013a, ref="",
     contexts=[
 
     ],

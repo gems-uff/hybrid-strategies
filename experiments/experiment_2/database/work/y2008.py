@@ -282,6 +282,19 @@ cockburn2008a = DB(WorkUnrelated(
     placex="Blog",
 ))
 
+connolly2008a = DB(WorkUnrelated(
+    2008, "Complecto mutatio: teaching software design best practices using multi-platform development.",
+    display="connolly",
+    authors="Connolly, Randy W",
+    place=FAKE,
+    pp="345--345",
+    entrytype="inproceedings",
+    volume="8",
+    organization="Citeseer",
+    ID="connolly2008complecto",
+    placex="ITiCSE",
+))
+
 cooper2008a = DB(WorkUnrelated(
     2008, "Perspective: The stage-gate	extregistered idea-to-launch process—update, what's new, and nexgen systems",
     display="cooper",

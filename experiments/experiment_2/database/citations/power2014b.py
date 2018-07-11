@@ -29,6 +29,9 @@ from ..work.y2013 import eoyang2013b
 from ..work.y2014 import power2014b
 from ..work.y2014 import wikipedia2014a
 from ..work.y2014 import power2014a
+from ..work.y2014 import power2014d
+from ..work.y2015 import fontana2015a
+from ..work.y2015 import walter2015a
 
 DB(Citation(
     power2014b, qvortrup2003a, ref="",
@@ -200,6 +203,27 @@ DB(Citation(
 
 DB(Citation(
     power2014b, derby2006a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fontana2015a, power2014b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    power2014d, power2014b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    walter2015a, power2014b, ref="",
     contexts=[
 
     ],

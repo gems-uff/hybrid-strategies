@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahams2011a = DB(WorkUnrelated(
+    2011, "A ‘Rainmaker’Process for Developing Internet-based Retail Businesses",
+    display="abrahams",
+    authors="Abrahams, Alan Samuel and Singh, Tirna",
+    place=FAKE,
+    pp="14",
+    entrytype="article",
+    volume="9",
+    number="2",
+    ID="abrahams2011rainmaker",
+    cluster_id="11543951962031750459",
+    scholar="http://scholar.google.com/scholar?cites=11543951962031750459&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems Education Journal",
+))
+
 adolph2011a = DB(WorkUnrelated(
     2011, "Using grounded theory to study the experience of software development",
     display="adolph",
@@ -482,6 +497,20 @@ fernando2011a = DB(WorkUnrelated(
     ID="fernando2011impact",
     acm2016="1",
     placex="Proceedings of the 49th SIGMIS annual conference on Computer personnel research",
+))
+
+fernández2011a = DB(WorkUnrelated(
+    2011, "Towards estimating the value of an idea",
+    display="fernández",
+    authors="Fernández, Carlos and López, Daniel and Yagüe, Agustín and Garbajosa, Juan",
+    place=ICPFSPI,
+    pp="62--67",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="fernandez2011towards",
+    cluster_id="17693145959023060061",
+    scholar="http://scholar.google.com/scholar?cites=17693145959023060061&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 12th International Conference on Product Focused Software Development and Process Improvement",
 ))
 
 ferreira2011a = DB(WorkUnrelated(
@@ -1113,6 +1142,20 @@ nord2011a = DB(WorkUnrelated(
     placex="Proceedings of the 6th International Workshop on SHAring and Reusing Architectural Knowledge",
 ))
 
+oconnor2011a = DB(WorkUnrelated(
+    2011, "Anatomy and physiology of an Agile Transition",
+    display="oconnor ",
+    authors="O'Connor, Christopher P",
+    place=FAKE,
+    pp="302--306",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="o2011anatomy",
+    cluster_id="13383982021315346377",
+    scholar="http://scholar.google.com/scholar?cites=13383982021315346377&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Agile Conference (AGILE), 2011",
+))
+
 oppenheim2011a = DB(WorkUnrelated(
     2011, "Lean enablers for systems engineering",
     display="oppenheim",
@@ -1529,6 +1572,20 @@ vlaanderen2011a = DB(WorkUnrelated(
     placex="Information and software technology",
     doi="10.1016/j.infsof.2010.08.004",
     note="cited By 57",
+))
+
+wang2011a = DB(WorkUnrelated(
+    2011, "The combination of agile and lean in software development: An experience report analysis",
+    display="wang",
+    authors="Wang, Xiaofeng",
+    place=FAKE,
+    pp="1--9",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2011combination",
+    cluster_id="892652813484983493",
+    scholar="http://scholar.google.com/scholar?cites=892652813484983493&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Agile Conference (AGILE), 2011",
 ))
 
 watcharapanyawong2011a = DB(WorkUnrelated(

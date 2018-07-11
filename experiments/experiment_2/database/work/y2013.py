@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahams2013a = DB(WorkUnrelated(
+    2013, "Expeditionary learning in information systems: Definition, implementation, and assessment",
+    display="abrahams",
+    authors="Abrahams, Alan S and Singh, Tirna",
+    place=FAKE,
+    pp="47--75",
+    entrytype="article",
+    volume="11",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="abrahams2013expeditionary",
+    cluster_id="12272228934092077786",
+    scholar="http://scholar.google.com/scholar?cites=12272228934092077786&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Decision Sciences Journal of Innovative Education",
+))
+
 agile2013a = DB(WorkUnrelated(
     2013, "Scaled Agile Framework",
     display="agile",
@@ -562,6 +578,16 @@ fitzgerald2013a = DB(WorkUnrelated(
     note="cited By 54",
     ID="Fitzgerald2013863",
     placex="Proceedings - International Conference on Software Engineering",
+))
+
+gagliardi2013a = DB(WorkUnrelated(
+    2013, "Agile Architecting Methods for Large Scale Agile Software Development",
+    display="gagliardi",
+    authors="Gagliardi, Michael and Nord, Robert and Ozkaya, Ipek",
+    place=FAKE,
+    entrytype="article",
+    ID="gagliardi2013agile",
+    placex="",
 ))
 
 garvey2013a = DB(WorkUnrelated(

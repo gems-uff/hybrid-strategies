@@ -3,6 +3,38 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abrahams2010a = DB(WorkUnrelated(
+    2010, "An active, reflective learning cycle for e-commerce classes: Learning about e-commerce by doing and teaching",
+    display="abrahams",
+    authors="Abrahams, Alan S and Singh, Tirna",
+    place=FAKE,
+    pp="383",
+    entrytype="article",
+    volume="21",
+    number="4",
+    publisher="Citeseer",
+    ID="abrahams2010active",
+    cluster_id="5838204933513781554",
+    scholar="http://scholar.google.com/scholar?cites=5838204933513781554&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Information Systems Education",
+))
+
+abrahams2010b = DB(WorkUnrelated(
+    2010, "Creating E-Commerce Start-Ups with Information Systems Students: Lessons Learned from New Venture Successes and Failures.",
+    display="abrahams b",
+    authors="Abrahams, Alan",
+    place=FAKE,
+    pp="n35",
+    entrytype="article",
+    volume="8",
+    number="35",
+    publisher="ERIC",
+    ID="abrahams2010creating",
+    cluster_id="18275150054450995563",
+    scholar="http://scholar.google.com/scholar?cites=18275150054450995563&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Systems Education Journal",
+))
+
 abrahão2010a = DB(WorkUnrelated(
     2010, "Interplay between usability and software development",
     display="abrahão",
@@ -153,6 +185,19 @@ bottani2010a = DB(WorkUnrelated(
     ID="bottani2010profile",
     sciencedirect2016="1",
     placex="International Journal of Production Economics",
+))
+
+burns2010a = DB(WorkUnrelated(
+    2010, "An investigation of multiple integration techniques for information systems: A model for integrating data warehousing, ERP, and SOA in practice",
+    display="burns",
+    authors="Burns, Jessie L",
+    place=Book,
+    entrytype="book",
+    publisher="Nova Southeastern University",
+    ID="burns2010investigation",
+    cluster_id="2927858817279044988",
+    scholar="http://scholar.google.com/scholar?cites=2927858817279044988&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 bygstad2010a = DB(WorkUnrelated(
@@ -821,6 +866,7 @@ oconnor2010b = DB(WorkSnowball(
     place=FAKE,
     placex="Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion",
     entrytype="inproceedings",
+    scholar='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Better+planning+via+tasking+as+a+team%22&btnG=',
     organization="ACM",
     ID="oconnor2010better",
     seed_set="1",
@@ -947,6 +993,16 @@ ramesh2010a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+rundqvist2010a = DB(WorkUnrelated(
+    2010, "Lövsta skolhem: Ett förbättrat samarbete genom strukturförändring",
+    display="rundqvist",
+    authors="Rundqvist, Desislava",
+    place=FAKE,
+    entrytype="misc",
+    ID="rundqvist2010lovsta",
+    placex="",
+))
+
 salleh2010a = DB(WorkUnrelated(
     2010, "The effects of neuroticism on pair programming: an empirical study in the higher education context",
     display="salleh",
@@ -988,6 +1044,19 @@ scharff2010a = DB(WorkUnrelated(
     placex="Proceedings of the 2010 ICSE Workshop on Cooperative and Human Aspects of Software Engineering",
     doi="10.1145/1833310.1833315",
     note="cited By 23",
+))
+
+seikola2010a = DB(WorkUnrelated(
+    2010, "The Scrum Product Backlog as a Tool for Steering the Product Development in a Large-Scale Organization",
+    display="seikola",
+    authors="Seikola, Marko and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Aalto University",
+    ID="seikola2010scrum",
+    cluster_id="4941010836290463387",
+    scholar="http://scholar.google.com/scholar?cites=4941010836290463387&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 sharp2010a = DB(WorkUnrelated(
@@ -1145,6 +1214,19 @@ vinodh2010a = DB(WorkUnrelated(
     cluster_id="17372528132094673544",
     scholar="http://scholar.google.com/scholar?cites=17372528132094673544&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+walczak2010a = DB(WorkUnrelated(
+    2010, "Zarz{ą}dzanie ryzykiem w zwinnych metodykach zarz{ą}dzania projektami",
+    display="walczak",
+    authors="Walczak, Wojciech",
+    place=FAKE,
+    pp="241--255",
+    entrytype="article",
+    ID="walczak2010zarzkadzanie",
+    cluster_id="17779658499943188458",
+    scholar="http://scholar.google.com/scholar?cites=17779658499943188458&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Prace Naukowe/Akademia Ekonomiczna w Katowicach",
 ))
 
 wei2010a = DB(WorkUnrelated(

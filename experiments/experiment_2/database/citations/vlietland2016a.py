@@ -75,6 +75,14 @@ from ..work.y2014 import vlietland2014b
 from ..work.y2015 import stettina2015a
 from ..work.y2015 import vlietland2015a
 from ..work.y2016 import vlietland2016a
+from ..work.y2016 import bass2016a
+from ..work.y2016 import buul2016a
+from ..work.y2016 import syversen2016a
+from ..work.y2016 import ziebell2016a
+from ..work.y2016 import ziebell2016b
+from ..work.y2017 import lappi2017a
+from ..work.y2017 import perkusich2017b
+from ..work.y2018 import ziebell2018a
 
 DB(Citation(
     vlietland2016a, akbar2011a, ref="",
@@ -568,6 +576,62 @@ DB(Citation(
 
 DB(Citation(
     vlietland2016a, yamakami2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bass2016a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    lappi2017a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    perkusich2017b, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    buul2016a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    syversen2016a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ziebell2016a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ziebell2018a, vlietland2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ziebell2016b, vlietland2016a, ref="",
     contexts=[
 
     ],

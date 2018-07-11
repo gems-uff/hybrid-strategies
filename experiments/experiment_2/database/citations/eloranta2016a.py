@@ -24,6 +24,19 @@ from ..work.y2013 import eloranta2013b
 from ..work.y2015 import eloranta2015a
 from ..work.y2015 import org2015a
 from ..work.y2016 import eloranta2016a
+from ..work.y2016 import fitriani2016a
+from ..work.y2016 import rahayu2016a
+from ..work.y2017 import silva2017a
+from ..work.y2017 import perkusich2017a
+from ..work.y2017 import przybyłek2017a
+from ..work.y2017 import helwerda122017a
+from ..work.y2017 import carew2017a
+from ..work.y2017 import perkusich2017b
+from ..work.y2017 import totten2017a
+from ..work.y2017 import erukulapati2017a
+from ..work.y2018 import smiari2018a
+from ..work.y2018 import george2018a
+from ..work.y2018 import karkimo2018a
 
 DB(Citation(
     eloranta2016a, manifesto2001a, ref="",
@@ -160,6 +173,97 @@ DB(Citation(
 
 DB(Citation(
     eloranta2016a, cockburn2004a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fitriani2016a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rahayu2016a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    silva2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    perkusich2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    smiari2018a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    przybyłek2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    helwerda122017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    carew2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    perkusich2017b, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    totten2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    george2018a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    erukulapati2017a, eloranta2016a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    karkimo2018a, eloranta2016a, ref="",
     contexts=[
 
     ],

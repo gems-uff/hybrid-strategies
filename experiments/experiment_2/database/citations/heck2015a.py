@@ -22,6 +22,13 @@ from ..work.y2014 import heck2014a
 from ..work.y2014 import heck2014ab
 from ..work.y2014 import power2014a
 from ..work.y2015 import heck2015a
+from ..work.y2016 import heck2016a
+from ..work.y2017 import oliveira2017a
+from ..work.y2017 import do2017a
+from ..work.y2017 import hollis2017a
+from ..work.y2018 import reddivari2018a
+from ..work.y2018 import bhowmik2018a
+from ..work.y2018 import abdou2018a
 
 DB(Citation(
     heck2015a, iiba2009a, ref="",
@@ -144,6 +151,55 @@ DB(Citation(
 
 DB(Citation(
     heck2015a, adzic2011a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oliveira2017a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    do2017a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    reddivari2018a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    heck2016a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    bhowmik2018a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hollis2017a, heck2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    abdou2018a, heck2015a, ref="",
     contexts=[
 
     ],

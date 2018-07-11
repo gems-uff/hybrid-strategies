@@ -25,6 +25,9 @@ from ..work.y2015 import bsimm2015a
 from ..work.y2015 import vahtiohje2015b
 from ..work.y2015 import rindell2015b
 from ..work.y2016 import solinski2016a
+from ..work.y2016 import rindell2016a
+from ..work.y2017 import rindell2017a
+from ..work.y2017 import rindell2017b
 
 DB(Citation(
     rindell2015a, vahtiohje2015a, ref="",
@@ -161,6 +164,27 @@ DB(Citation(
 
 DB(Citation(
     rindell2015a, williams2003a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rindell2016a, rindell2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rindell2017a, rindell2015a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rindell2017b, rindell2015a, ref="",
     contexts=[
 
     ],

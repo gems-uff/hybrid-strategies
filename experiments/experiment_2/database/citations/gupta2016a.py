@@ -38,6 +38,7 @@ from ..work.y2016 import campwood2016a
 from ..work.y2016 import shore2016a
 from ..work.y2016 import feathers2016a
 from ..work.y2016 import li2016b
+from ..work.y2016 import gupta2016b
 
 DB(Citation(
     gupta2016a, andansare2014a, ref="",
@@ -272,6 +273,13 @@ DB(Citation(
 
 DB(Citation(
     gupta2016a, li2016b, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    gupta2016b, gupta2016a, ref="",
     contexts=[
 
     ],
