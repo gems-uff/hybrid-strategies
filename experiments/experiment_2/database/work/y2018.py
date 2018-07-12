@@ -48,6 +48,37 @@ barroca2018a = DB(WorkUnrelated(
     placex="International Journal of System Assurance Engineering and Management",
 ))
 
+bass2018a = DB(WorkUnrelated(
+    2018, "Poster: An empirical study of the product owner role in scrum",
+    display="bass",
+    authors="Bass, Julian M and Beecham, Sarah and Razzak, Mohammad Abdur and Nic Canna, Clodagh and Noll, John",
+    place=FAKE,
+    entrytype="article",
+    publisher="Association for Computing Machinery",
+    ID="bass2018poster",
+    placex="",
+))
+
+bass2018b = DB(WorkUnrelated(
+    2018, "AnEmpiricalStudyoftheProductOwnerRoleinScrum",
+    display="bass",
+    authors="Bass, Julian M and Beecham, Sarah and Razzak, Mohammad Abdur and Canna, Clodagh Nic and Noll, John",
+    place=FAKE,
+    entrytype="article",
+    ID="bassBnempiricalstudyoftheproductownerroleinscrum",
+    placex="",
+))
+
+bass2018b = DB(WorkUnrelated(
+    2018, "A Large Empirical Study of the Product Owner Role in Scrum",
+    display="bass b",
+    authors="Bass, Julian M and Beecham, Sarah and Canna, Clodagh Nic and Noll, John and Razzak, Mohammad Abdur",
+    place=FAKE,
+    entrytype="article",
+    ID="bass2018large",
+    placex="",
+))
+
 bhowmik2018a = DB(WorkUnrelated(
     2018, "Refinement and resolution of just-in-time requirements in open source software and a closer look into non-functional requirements",
     display="bhowmik",
@@ -148,6 +179,35 @@ dingsøyr2018b = DB(WorkUnrelated(
     cluster_id="4075828335744779195",
     scholar="http://scholar.google.com/scholar?cites=4075828335744779195&as_sdt=2005&sciodt=0,5&hl=en",
     placex="arXiv preprint arXiv:1801.08764",
+))
+
+dönmez2018a = DB(WorkUnrelated(
+    2018, "Two sides of the same coin--how agile software development teams approach uncertainty as threats and opportunities",
+    display="dönmez",
+    authors="Dönmez, Denniz and Grote, Gudela",
+    place=IST,
+    pp="94--111",
+    entrytype="article",
+    volume="93",
+    publisher="Elsevier",
+    ID="donmez2018two",
+    cluster_id="12235641924534303104",
+    scholar="http://scholar.google.com/scholar?cites=12235641924534303104&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
+eichhorn2018a = DB(WorkUnrelated(
+    2018, "Business user impact on information system projects",
+    display="eichhorn",
+    authors="Eichhorn, Bradford and Tukel, Oya",
+    place=FAKE,
+    pp="289--316",
+    entrytype="article",
+    volume="11",
+    number="2",
+    publisher="Emerald Publishing Limited",
+    ID="eichhorn2018business",
+    placex="International Journal of Managing Projects in Business",
 ))
 
 george2018a = DB(WorkUnrelated(
@@ -263,6 +323,18 @@ järvi2018a = DB(WorkUnrelated(
     placex="",
 ))
 
+kakar2018a = DB(WorkUnrelated(
+    2018, "Investigating the Motivating Potential of Software Development Methods: Insights from a Work Design Perspective",
+    display="kakar",
+    authors="Kakar, Adarsh Kumar",
+    place=FAKE,
+    entrytype="article",
+    volume="9",
+    number="4",
+    ID="kakar2018investigating",
+    placex="Pacific Asia Journal of the Association for Information Systems",
+))
+
 kalenda2018a = DB(WorkUnrelated(
     2018, "Scaling agile in large organizations: Practices, challenges, and success factors",
     display="kalenda",
@@ -295,6 +367,17 @@ kinnunen2018a = DB(WorkUnrelated(
     organization="University of Hawai'i at Manoa",
     ID="kinnunen2018towards",
     placex="Proceedings of the Annual Hawaii International Conference on System Sciences;",
+))
+
+kråkevik2018a = DB(WorkUnrelated(
+    2018, "Method Tailoring in Agile Software Development Projects-An Exploratory Case Study",
+    display="kråkevik",
+    authors="Kråkevik, Lars",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="kraakevik2018method",
+    local="NTNU",
+    placex="",
 ))
 
 kyheröinen2018a = DB(WorkUnrelated(
@@ -343,6 +426,30 @@ reddivari2018a = DB(WorkUnrelated(
     placex="Journal of Industrial Information Integration",
 ))
 
+rodríguez2018a = DB(WorkUnrelated(
+    2018, "Advances in Using Agile and Lean Processes for Software Development",
+    display="rodríguez",
+    authors="Rodríguez, Pilar and Mäntylä, Mika and Oivo, Markku and Lwakatare, Lucy Ellen and Seppänen, Pertti and Kuvaja, Pasi",
+    place=FAKE,
+    entrytype="article",
+    publisher="Elsevier",
+    ID="rodriguez2018advances",
+    placex="",
+))
+
+salleh2018a = DB(WorkUnrelated(
+    2018, "Recruitment, engagement and feedback in empirical software engineering studies in industrial contexts",
+    display="salleh",
+    authors="Salleh, Norsaremah and Hoda, Rashina and Su, Moon Ting and Kanij, Tanjila and Grundy, John",
+    place=IST,
+    pp="161--172",
+    entrytype="article",
+    volume="98",
+    publisher="Elsevier",
+    ID="salleh2018recruitment",
+    placex="Information and Software Technology",
+))
+
 smiari2018a = DB(WorkUnrelated(
     2018, "Knowledge acquisition during software development: Modeling with anti-patterns",
     display="smiari",
@@ -381,6 +488,18 @@ theobald2018a = DB(WorkUnrelated(
     organization="Springer",
     ID="theobald2018interface",
     placex="International Conference on Agile Software Development",
+))
+
+tolfo2018a = DB(WorkUnrelated(
+    2018, "Agile practices and the promotion of entrepreneurial skills in software development",
+    display="tolfo",
+    authors="Tolfo, Cristiano and Wazlawick, Raul Sidnei and Ferreira, Marcelo Gitirana Gomes and Forcellini, Fernando Antonio",
+    place=JSEP,
+    pp="e1945",
+    entrytype="article",
+    publisher="Wiley Online Library",
+    ID="tolfo2018agile",
+    placex="Journal of Software: Evolution and Process",
 ))
 
 ziebell2018a = DB(WorkUnrelated(

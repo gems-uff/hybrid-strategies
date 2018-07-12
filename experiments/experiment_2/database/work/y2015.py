@@ -155,6 +155,18 @@ bass2015a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
 ))
 
+baumgart2015a = DB(WorkUnrelated(
+    2015, "Personality Traits of Scrum Roles in Agile Software Development Teams-A Qualitative Analysis.",
+    display="baumgart",
+    authors="Baumgart, Ruth and Hummel, Markus and Holten, Roland",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="baumgart2015personality",
+    cluster_id="4566202064665686865",
+    scholar="http://scholar.google.com/scholar?cites=4566202064665686865&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ECIS",
+))
+
 becker2015a = DB(WorkUnrelated(
     2015, "Besouro: A framework for exploring compliance rules in automatic TDD behavior assessment",
     display="becker",
@@ -412,6 +424,20 @@ devaney2015a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+diebold2015a = DB(WorkUnrelated(
+    2015, "The agile practices impact model: idea, concept, and application scenario",
+    display="diebold",
+    authors="Diebold, Philipp and Zehler, Thomas",
+    place=FAKE,
+    pp="92--96",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="diebold2015agile",
+    cluster_id="12517295431993776094",
+    scholar="http://scholar.google.com/scholar?cites=12517295431993776094&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2015 International Conference on Software and System Process",
+))
+
 dobrzykowski2015a = DB(WorkUnrelated(
     2015, "Examining absorptive capacity in supply chains: Linking responsive strategy and firm performance",
     display="dobrzykowski",
@@ -484,6 +510,22 @@ edison2015a = DB(WorkUnrelated(
     ID="edison2015lean",
     acm2016="1",
     placex="Scientific Workshop Proceedings of the XP2015",
+))
+
+eichhorn2015a = DB(WorkUnrelated(
+    2015, "A review of user involvement in information system projects",
+    display="eichhorn",
+    authors="Eichhorn, Bradford R and Tukel, Oya I",
+    place=FAKE,
+    pp="26--53",
+    entrytype="article",
+    volume="6",
+    number="1",
+    publisher="IGI Global",
+    ID="eichhorn2015review",
+    cluster_id="1524401851449276560",
+    scholar="http://scholar.google.com/scholar?cites=1524401851449276560&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Information Technology Project Management (IJITPM)",
 ))
 
 eloranta2015a = DB(WorkUnrelated(
@@ -642,6 +684,46 @@ fucci2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+gandomani2015a = DB(WorkUnrelated(
+    2015, "An empirically-developed framework for Agile transition and adoption: A Grounded Theory approach",
+    display="gandomani",
+    authors="Gandomani, Taghi Javdani and Nafchi, Mina Ziaei",
+    place=JSS,
+    pp="204--219",
+    entrytype="article",
+    volume="107",
+    publisher="Elsevier",
+    ID="gandomani2015empirically",
+    cluster_id="13918611438861194491",
+    scholar="http://scholar.google.com/scholar?cites=13918611438861194491&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
+))
+
+gandomani2015b = DB(WorkUnrelated(
+    2015, "The impact of inadequate and dysfunctional training on Agile transformation process: a Grounded Theory study",
+    display="gandomani b",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Ghani, Abdul Azim Abdul and Sultan, Abu Bakar Md and Parizi, Reza Meimandi",
+    place=IST,
+    pp="295--309",
+    entrytype="article",
+    volume="57",
+    publisher="Elsevier",
+    ID="gandomani2015impact",
+    cluster_id="14859434157968281975",
+    scholar="http://scholar.google.com/scholar?cites=14859434157968281975&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information and Software Technology",
+))
+
+gandomania2015a = DB(WorkUnrelated(
+    2015, "AGILE TRANSFORMATION: Amulti-DIMENSIONAL",
+    display="gandomania",
+    authors="Gandomania, Taghi Javdani and Zulzalilb, Hazura and Nafchia, Mina Ziaei",
+    place=FAKE,
+    entrytype="article",
+    ID="gandomania2015agile",
+    placex="",
+))
+
 garza2015a = DB(WorkUnrelated(
     2015, "Lean and green--a systematic review of the state of the art literature",
     display="garza",
@@ -698,6 +780,20 @@ glinz2015a = DB(WorkUnrelated(
     ID="glinz2015shared",
     springer2016="1",
     placex="Computer Science-Research and Development",
+))
+
+gonzález2015a = DB(WorkUnrelated(
+    2015, "Revisión sistemática acerca de la implementación de metodologías ágiles y otros modelos en micro, pequeñas y medianas empresas de software",
+    display="gonzález",
+    authors="González, Juan David Yepes and Calvache, César Jesús Pardo and Gómez, Omar Salvador Gómez",
+    place=FAKE,
+    entrytype="article",
+    volume="28",
+    number="5",
+    ID="gonzalez2015revision",
+    cluster_id="15403500639226573188",
+    scholar="http://scholar.google.com/scholar?cites=15403500639226573188&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Revista Tecnológica-ESPOL",
 ))
 
 grapenthin2015a = DB(WorkUnrelated(
@@ -835,6 +931,19 @@ huijgens2015a = DB(WorkUnrelated(
     placex="International Symposium on Empirical Software Engineering and Measurement",
 ))
 
+hutten2015a = DB(WorkUnrelated(
+    2015, "Organizational design and agile software development: The effects of modularity on effective communication and collaboration",
+    display="hutten",
+    authors="Hutten, Elody",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="hutten2015organizational",
+    cluster_id="3819251421814185228",
+    scholar="http://scholar.google.com/scholar?cites=3819251421814185228&as_sdt=2005&sciodt=0,5&hl=en",
+    local="University of Twente",
+    placex="",
+))
+
 hwang2015a = DB(WorkUnrelated(
     2015, "Mediating effect of IT-enabled capabilities on competitive performance outcomes: An empirical investigation of ERP implementation",
     display="hwang",
@@ -849,6 +958,28 @@ hwang2015a = DB(WorkUnrelated(
     placex="Journal of Engineering and Technology Management",
 ))
 
+idea2015a = DB(WorkUnrelated(
+    2015, "The Agile Practices Impact Model",
+    display="idea",
+    authors="Idea, Concept",
+    place=FAKE,
+    entrytype="article",
+    ID="idea2015agile",
+    placex="",
+))
+
+ikram2015a = DB(WorkUnrelated(
+    2015, "Extreme Requirements Engineering (XRE)",
+    display="ikram",
+    authors="Ikram, Naveed and Naz, Sonia",
+    place=FAKE,
+    pp="95--108",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="ikram2015extreme",
+    placex="Requirements Engineering in the Big Data Era",
+))
+
 inayat2015a = DB(WorkUnrelated(
     2015, "A reflection on agile requirements engineering: solutions brought and challenges posed",
     display="inayat",
@@ -860,6 +991,21 @@ inayat2015a = DB(WorkUnrelated(
     ID="inayat2015reflection",
     acm2016="1",
     placex="Scientific Workshop Proceedings of the XP2015",
+))
+
+inayat2015b = DB(WorkUnrelated(
+    2015, "A systematic literature review on agile requirements engineering practices and challenges",
+    display="inayat b",
+    authors="Inayat, Irum and Salim, Siti Salwah and Marczak, Sabrina and Daneva, Maya and Shamshirband, Shahaboddin",
+    place=FAKE,
+    pp="915--929",
+    entrytype="article",
+    volume="51",
+    publisher="Elsevier",
+    ID="inayat2015systematic",
+    cluster_id="5956057057542021753",
+    scholar="http://scholar.google.com/scholar?cites=5956057057542021753&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computers in human behavior",
 ))
 
 itsuda2015a = DB(WorkUnrelated(
@@ -1381,6 +1527,19 @@ matharu2015a = DB(WorkUnrelated(
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
+mckinley2015a = DB(WorkUnrelated(
+    2015, "The influence of transactive memory systems on software development agility: A quantitative study of agility in teams",
+    display="mckinley",
+    authors="McKinley, Joe Bryan",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mckinley2015influence",
+    cluster_id="10683577310108016330",
+    scholar="http://scholar.google.com/scholar?cites=10683577310108016330&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Capella University",
+    placex="",
+))
+
 mckinney2015a = DB(WorkUnrelated(
     2015, "Change Agency for Systems Engineers",
     display="mckinney",
@@ -1412,6 +1571,17 @@ mello2015a = DB(WorkUnrelated(
     ID="deMello2015",
     springer2016="1",
     placex="Journal of Software Engineering Research and Development",
+))
+
+mohamed2015a = DB(WorkUnrelated(
+    2015, "A process based approach software certification model for agile and secure environment",
+    display="mohamed",
+    authors="Mohamed, Shafinah Farvin Packeer",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mohamed2015process",
+    local="Universiti Utara Malaysia",
+    placex="",
 ))
 
 moses2015a = DB(WorkUnrelated(
@@ -1474,6 +1644,18 @@ ntabe2015a = DB(WorkUnrelated(
     ID="ntabe2015systematic",
     sciencedirect2016="1",
     placex="International Journal of Production Economics",
+))
+
+ojastu2015a = DB(WorkUnrelated(
+    2015, "The Most Prominent Software Development Concepts Cited in IT Professionals’ Blogs",
+    display="ojastu",
+    authors="Ojastu, Deniss and Robal, Tarmo and Kalja, Ahto",
+    place=FAKE,
+    pp="197--212",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="ojastu2015most",
+    placex="International Conference on Business Informatics Research",
 ))
 
 olsson2015a = DB(WorkUnrelated(
@@ -1700,6 +1882,18 @@ prause2015a = DB(WorkUnrelated(
     placex="Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
 ))
 
+ramadani2015a = DB(WorkUnrelated(
+    2015, "Preliminary Investigation",
+    display="ramadani",
+    authors="Ramadani, Luthfi and Utama, Nur Ichsan",
+    place=FAKE,
+    pp="134--139",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ramadani2015preliminary",
+    placex="Computing Technology and Information Management (ICCTIM), 2015 Second International Conference on",
+))
+
 ramakrishnan2015a = DB(WorkUnrelated(
     2015, "A Business Process view of Software: An effective measurement model to assess the operations readiness of software under construction",
     display="ramakrishnan",
@@ -1743,6 +1937,28 @@ rasool2015a = DB(WorkUnrelated(
     ID="rasool2015review",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+read2015a = DB(WorkUnrelated(
+    2015, "Technology Frame Disruption during Short-Term Agile ISD Projects",
+    display="read",
+    authors="Read, Aaron and Clark, Joseph C",
+    place=FAKE,
+    pp="5114--5123",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="read2015technology",
+    placex="System Sciences (HICSS), 2015 48th Hawaii International Conference on",
+))
+
+reljanovic2015a = DB(WorkUnrelated(
+    2015, "Utveckling av skärmlocks koncept med alternativ skärmning samt fästnings till ett kretskort: Utvärdering av Lean produktutvecklings metoder effekt på kunskap och värde skapande för det utvecklade konceptet i en FoU miljö",
+    display="reljanovic",
+    authors="Reljanovic, Sandra",
+    place=FAKE,
+    entrytype="misc",
+    ID="reljanovic2015utveckling",
+    placex="",
 ))
 
 rindell2015a = DB(WorkSnowball(
@@ -2024,6 +2240,21 @@ sharma2015a = DB(WorkUnrelated(
     placex="InfoQ",
 ))
 
+shirouyehzad112015a = DB(WorkUnrelated(
+    2015, "Applied research on industrial engineering",
+    display="shirouyehzad11",
+    authors="Shirouyehzad11, Hadi and Shahin, Arash and Dayani, Mina",
+    place=FAKE,
+    pp="1--14",
+    entrytype="article",
+    volume="2",
+    number="1",
+    ID="shirouyehzad112015applied",
+    cluster_id="16348976404996428411",
+    scholar="http://scholar.google.com/scholar?cites=16348976404996428411&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Applied Research on Industrial Engineering",
+))
+
 shuaibu2015a = DB(WorkUnrelated(
     2015, "Systematic review of web application security development model",
     display="shuaibu",
@@ -2255,6 +2486,17 @@ torrecilla2015a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+torstensen2015a = DB(WorkUnrelated(
+    2015, "Developer and Customer Collaboration in Agile Software Development",
+    display="torstensen",
+    authors="Torstensen, Aleksander",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="torstensen2015developer",
+    local="NTNU",
+    placex="",
+))
+
 trier2015a = DB(WorkUnrelated(
     2015, "The deep structure of organizational online networking--an actor-oriented case study",
     display="trier",
@@ -2397,6 +2639,16 @@ weilemann2015a = DB(WorkUnrelated(
     ID="weilemann2015less",
     acm2016="1",
     placex="Proceedings of the ASWEC 2015 24th Australasian Software Engineering Conference",
+))
+
+widell2015a = DB(WorkUnrelated(
+    2015, "Hur kvalitetssäkring påverkas av agila arbetsmetoder",
+    display="widell",
+    authors="Widell, Christopher and Barr, Jonathan and Odell, Axel",
+    place=FAKE,
+    entrytype="article",
+    ID="widell2015hur",
+    placex="",
 ))
 
 wijnhoven2015a = DB(WorkUnrelated(

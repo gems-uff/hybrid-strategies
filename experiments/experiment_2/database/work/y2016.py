@@ -153,6 +153,16 @@ bass2016a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+bass2016b = DB(WorkUnrelated(
+    2016, "All Hands to the Pumps: The Product Owner Role in Small Companies Lero Technical Report: 2017_1",
+    display="bass b",
+    authors="Bass, Julian M and Beecham, Sarah and Noll, John and Razzak, Mohammad Abdur",
+    place=FAKE,
+    entrytype="article",
+    ID="bass2016all",
+    placex="",
+))
+
 batra2016a = DB(WorkUnrelated(
     2016, "Agility facilitators for contemporary software development",
     display="batra",
@@ -373,7 +383,7 @@ chassart2016a = DB(WorkUnrelated(
 ))
 
 confidential2016 = DB(WorkUnrelated(
-    2016, "Visual Thinking in an agile environment",
+    2016, "Visual Thinking in an agile environment (thesis)",
     display="confidential",
     authors="CONFIDENTIAL, NON",
     place=FAKE,
@@ -395,6 +405,8 @@ conforto2016a = DB(WorkUnrelated(
     ID="conforto2016agility",
     sciencedirect2016="1",
     placex="International Journal of Project Management",
+    cluster_id="3915765658746908302",
+    scholar="http://scholar.google.com/scholar?cites=3915765658746908302&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 conforto2016b = DB(WorkUnrelated(
@@ -715,6 +727,33 @@ floricel2016a = DB(WorkUnrelated(
     placex="International Journal of Project Management",
 ))
 
+gandomani2016a = DB(WorkUnrelated(
+    2016, "Agile transition and adoption human-related challenges and issues: A Grounded Theory approach",
+    display="gandomani",
+    authors="Gandomani, Taghi Javdani and Nafchi, Mina Ziaei",
+    place=FAKE,
+    pp="257--266",
+    entrytype="article",
+    volume="62",
+    publisher="Elsevier",
+    ID="gandomani2016agile",
+    cluster_id="3963252649813172239",
+    scholar="http://scholar.google.com/scholar?cites=3963252649813172239&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computers in Human Behavior",
+))
+
+gandomani2016b = DB(WorkUnrelated(
+    2016, "Agile Coaches and Champions: Two Hidden Facilitators of Agile Transition",
+    display="gandomani b",
+    authors="Gandomani, Taghi Javdani and Nafchi, Mina Ziaei",
+    place=FAKE,
+    pp="24--36",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="gandomani2016agile",
+    placex="Emerging Innovations in Agile Software Development",
+))
+
 garcía2016a = DB(WorkUnrelated(
     2016, "The Impact of Demand and Supplier on Wine's Supply Chain Performance",
     display="garcía",
@@ -795,6 +834,16 @@ gestwicki2016a = DB(WorkUnrelated(
     placex="ACM Transactions on Computing Education (TOCE)",
 ))
 
+ghimire2016a = DB(WorkUnrelated(
+    2016, "Software Development Team Views of Success Factors in Agile projects",
+    display="ghimire",
+    authors="Ghimire, Dipendra and Gibbs, Shirley and Charters, Stuart",
+    place=FAKE,
+    entrytype="article",
+    ID="ghimiresoftware",
+    placex="",
+))
+
 ghobadi2016a = DB(WorkUnrelated(
     2016, "Perceived barriers to effective knowledge sharing in agile software teams",
     display="ghobadi",
@@ -808,6 +857,19 @@ ghobadi2016a = DB(WorkUnrelated(
     ID="ghobadi2016perceived",
     wiley2016="1",
     placex="Information Systems Journal",
+))
+
+gonzález2016a = DB(WorkUnrelated(
+    2016, "Estado del Arte de la Utilización de Metodologías Ágiles y Otros Modelos en Pymes de Software",
+    display="gonzález",
+    authors="González, JD Yepes and Calvache, CJ Pardo and Gómez, Omar S",
+    place=FAKE,
+    entrytype="article",
+    volume="206",
+    ID="gonzalez2016estado",
+    cluster_id="6607839260526763732",
+    scholar="http://scholar.google.com/scholar?cites=6607839260526763732&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informática-XVI Convensión y Feria Internacional",
 ))
 
 gregory2016a = DB(WorkUnrelated(
@@ -917,6 +979,16 @@ haaster2016a = DB(WorkUnrelated(
     placex="International Conference on Agile Software Development",
 ))
 
+hall2016a = DB(WorkUnrelated(
+    2016, "Creative Collaboration for the Agile Process",
+    display="hall",
+    authors="Hall, JA and Weiss, BL",
+    place=FAKE,
+    entrytype="article",
+    ID="hallcreative",
+    placex="",
+))
+
 hanssen2016a = DB(WorkUnrelated(
     2016, "Proceedings on the 1st Workshop on Agile Methods Applied to Development and Certification of Safety-critical Software",
     display="hanssen",
@@ -997,6 +1069,8 @@ hoda2016a = DB(WorkUnrelated(
     ID="hoda2016multi",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    cluster_id="9144481005591034690",
+    scholar="http://scholar.google.com/scholar?cites=9144481005591034690&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 hussain2016a = DB(WorkUnrelated(
@@ -1044,6 +1118,20 @@ iqbal2016a = DB(WorkUnrelated(
     cluster_id="5484260551104493123",
     scholar="http://scholar.google.com/scholar?cites=5484260551104493123&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+iyawa2016a = DB(WorkUnrelated(
+    2016, "Customer Interaction in Software Development: A Comparison of Software Methodologies Deployed in Namibian Software Firms",
+    display="iyawa",
+    authors="Iyawa, Gloria E and Herselman, Marlien E and Coleman, Alfred",
+    place=FAKE,
+    pp="1--13",
+    entrytype="article",
+    volume="77",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="iyawa2016customer",
+    placex="The Electronic Journal of Information Systems in Developing Countries",
 ))
 
 jabangwe2016a = DB(WorkUnrelated(
@@ -1133,6 +1221,20 @@ kranz2016a = DB(WorkUnrelated(
     ID="kranz2016understanding",
     wiley2016="1",
     placex="Information Systems Journal",
+))
+
+kristinsdottir2016a = DB(WorkUnrelated(
+    2016, "Responsibilities and Challenges of Product Owners at Spotify-An Exploratory Case Study",
+    display="kristinsdottir",
+    authors="Kristinsdottir, Sigurhanna and Larusdottir, Marta and Cajander, Åsa",
+    place=FAKE,
+    pp="3--16",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="kristinsdottir2016responsibilities",
+    cluster_id="8576608461648475524",
+    scholar="http://scholar.google.com/scholar?cites=8576608461648475524&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Human-Centered and Error-Resilient Systems Development",
 ))
 
 kuchta2016a = DB(WorkUnrelated(
@@ -1245,6 +1347,17 @@ li2016b = DB(WorkUnrelated(
     placex="",
 ))
 
+litchmore2016a = DB(WorkUnrelated(
+    2016, "A comparative study of agile methods, people factors, and process factors in relation to project success",
+    display="litchmore",
+    authors="Litchmore, Kondo AH",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="litchmore2016comparative",
+    local="Capella University",
+    placex="",
+))
+
 liu2016a = DB(WorkUnrelated(
     2016, "Major motivations for extract method refactorings: analysis based on interviews and change histories",
     display="liu",
@@ -1316,6 +1429,19 @@ marshall2016a = DB(WorkUnrelated(
     ID="marshall2016outcomes",
     acm2016="1",
     placex="Proceedings of the 1st International Workshop on Emotion Awareness in Software Engineering",
+))
+
+marshall2016b = DB(WorkUnrelated(
+    2016, "Tool support for systematic reviews in software engineering",
+    display="marshall b",
+    authors="Marshall, Christopher and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="marshall2016tool",
+    cluster_id="17231927683222443087",
+    scholar="http://scholar.google.com/scholar?cites=17231927683222443087&as_sdt=2005&sciodt=0,5&hl=en",
+    local="Keele University",
+    placex="",
 ))
 
 martini2016a = DB(WorkUnrelated(
@@ -1433,6 +1559,31 @@ misra2016a = DB(WorkUnrelated(
     ID="misra2016modeling",
     wiley2016="1",
     placex="International Journal of Communication Systems",
+))
+
+moran2016a = DB(WorkUnrelated(
+    2016, "MANAGING AGILE.",
+    display="moran",
+    authors="Moran, Alan",
+    place=Book,
+    entrytype="book",
+    publisher="Springer",
+    ID="moran2016managing",
+    cluster_id="14156602713369852932",
+    scholar="http://scholar.google.com/scholar?cites=14156602713369852932&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+murugesan2016a = DB(WorkUnrelated(
+    2016, "Overcoming challenges in self-organizing agile software teams",
+    display="murugesan",
+    authors="Murugesan, Latha Karthigaa",
+    place=FAKE,
+    pp="1--4",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="murugesan2016overcoming",
+    placex="Computational Intelligence and Computing Research (ICCIC), 2016 IEEE International Conference on",
 ))
 
 ncover2016a = DB(WorkUnrelated(
@@ -1579,6 +1730,19 @@ perfmon2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+persson2016a = DB(WorkUnrelated(
+    2016, "Improving ISD Agility in Fast-Moving Software Organizations.",
+    display="persson",
+    authors="Persson, John Stouby and Nørbjerg, Jacob and Nielsen, Peter Axel",
+    place=FAKE,
+    pp="ResearchPaper96",
+    entrytype="inproceedings",
+    ID="persson2016improving",
+    cluster_id="13388204961172966525",
+    scholar="http://scholar.google.com/scholar?cites=13388204961172966525&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ECIS",
+))
+
 prause2016a = DB(WorkUnrelated(
     2016, "Software product assurance at the German space agency",
     display="prause",
@@ -1634,6 +1798,26 @@ rana2016a = DB(WorkUnrelated(
     ID="rana2016analyzing",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+rathor2016a = DB(WorkUnrelated(
+    2016, "What Constitutes Software Development Agility?",
+    display="rathor",
+    authors="Rathor, Shekhar and Batra, Dinesh and Xia, Weidong and others",
+    place=FAKE,
+    entrytype="article",
+    ID="rathor2016constitutes",
+    placex="",
+))
+
+rathor2016ab = DB(WorkUnrelated(
+    2016, "Tradeoffs between Delivery Capability and Agility in Software Development",
+    display="rathor",
+    authors="Rathor, Shekhar and Batra, Dinesh and Xia, Weidong",
+    place=FAKE,
+    entrytype="article",
+    ID="rathortradeoffs",
+    placex="",
 ))
 
 razavian2016a = DB(WorkUnrelated(
@@ -1710,6 +1894,22 @@ romero2016a = DB(WorkUnrelated(
     ID="Romero20163",
     scopus2016="1",
     placex="Computers in Industry",
+))
+
+roses2016a = DB(WorkUnrelated(
+    2016, "Favorability conditions in the adoption of agile method practices for software development in a public banking",
+    display="roses",
+    authors="Roses, Luís Kalb and Windmöller, Arno and Carmo, Eliana Almeida do",
+    place=FAKE,
+    pp="439--458",
+    entrytype="article",
+    volume="13",
+    number="3",
+    publisher="SciELO Brasil",
+    ID="roses2016favorability",
+    cluster_id="13039310563188143731",
+    scholar="http://scholar.google.com/scholar?cites=13039310563188143731&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="JISTEM-Journal of Information Systems and Technology Management",
 ))
 
 ryan2016a = DB(WorkUnrelated(
@@ -1794,6 +1994,19 @@ singh2016a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+singh2016b = DB(WorkUnrelated(
+    2016, "Impact Analysis of Software Processes for SPI in Indian SMEs",
+    display="singh b",
+    authors="Singh, Ashima and Aggarwal, Himanshu",
+    place=FAKE,
+    pp="3004--3011",
+    entrytype="article",
+    volume="11",
+    number="5",
+    ID="singh2016impact",
+    placex="International Journal of Applied Engineering Research",
+))
+
 solinski2016a = DB(WorkUnrelated(
     2016, "Prioritizing agile benefits and limitations in relation to practice usage",
     display="solinski",
@@ -1838,6 +2051,22 @@ spiegel2016a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+stanica2016a = DB(WorkUnrelated(
+    2016, "How does the employee cross-training lean tool affect the knowledge transfer in product development processes?",
+    display="stanica",
+    authors="Stanica, Stefan and Peydro, Jorge",
+    place=FAKE,
+    pp="371--385",
+    entrytype="article",
+    volume="46",
+    number="3",
+    publisher="Emerald Group Publishing Limited",
+    ID="stanica2016does",
+    cluster_id="13927357861255720933",
+    scholar="http://scholar.google.com/scholar?cites=13927357861255720933&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="VINE Journal of Information and Knowledge Management Systems",
+))
+
 staron2016a = DB(WorkUnrelated(
     2016, "Mesram--a method for assessing robustness of measurement programs in large software development organizations and its industrial evaluation",
     display="staron",
@@ -1865,6 +2094,20 @@ steghöfer2016a = DB(WorkUnrelated(
     placex="Proceedings of the 38th International Conference on Software Engineering Companion",
 ))
 
+stol2016a = DB(WorkUnrelated(
+    2016, "Grounded theory in software engineering research: a critical review and guidelines",
+    display="stol",
+    authors="Stol, Klaas-Jan and Ralph, Paul and Fitzgerald, Brian",
+    place=ICSE,
+    pp="120--131",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="stol2016grounded",
+    cluster_id="7869790692478709936",
+    scholar="http://scholar.google.com/scholar?cites=7869790692478709936&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering (ICSE), 2016 IEEE/ACM 38th International Conference on",
+))
+
 strode2016a = DB(WorkUnrelated(
     2016, "A dependency taxonomy for agile software development projects",
     display="strode",
@@ -1882,6 +2125,19 @@ strode2016a = DB(WorkUnrelated(
     placex="Information Systems Frontiers",
 ))
 
+sunner2016a = DB(WorkUnrelated(
+    2016, "Classification of Functional and Non-functional Requirements in Agile by Cluster Neuro-Genetic Approach",
+    display="sunner",
+    authors="Sunner, Daminderjit and Bajaj, Harpreet",
+    place=ICASEA,
+    pp="129--138",
+    entrytype="article",
+    volume="10",
+    number="10",
+    ID="sunner2016classification",
+    placex="International Journal of Software Engineering and Its Applications",
+))
+
 syversen2016a = DB(WorkUnrelated(
     2016, "Whole Team Thinking and Success Factors in Large Scale Agile Development-An Exploratory Case Study",
     display="syversen",
@@ -1890,6 +2146,28 @@ syversen2016a = DB(WorkUnrelated(
     entrytype="mastersthesis",
     ID="syversen2016whole",
     local="NTNU",
+    placex="",
+))
+
+tareq2016a = DB(WorkUnrelated(
+    2016, "Avoiding the Most Common ERP Challenges with Agile Methodologies",
+    display="tareq",
+    authors="Tareq, Qawaf",
+    place=FAKE,
+    entrytype="misc",
+    ID="tareq2016avoiding",
+    cluster_id="11980517711982597202",
+    scholar="http://scholar.google.com/scholar?cites=11980517711982597202&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+tootoonchi2016a = DB(WorkUnrelated(
+    2016, "JOURNAL OF INTERDISCIPLINARY RESEARCH",
+    display="tootoonchi",
+    authors="Tootoonchi, Ahmad and Ashe, Carolyn and Morris, Jill A",
+    place=FAKE,
+    entrytype="article",
+    ID="tootoonchijournal",
     placex="",
 ))
 
@@ -1924,6 +2202,16 @@ trammell2016a = DB(WorkUnrelated(
     ID="Trammell201671",
     scopus2016="1",
     placex="EMJ - Engineering Management Journal",
+))
+
+truszczynski2016a = DB(WorkUnrelated(
+    2016, "Identifying Solutions for Customer--Supplier Communication Problems in Agile Software Projects",
+    display="truszczynski",
+    authors="Truszczynski, Mateusz",
+    place=FAKE,
+    entrytype="misc",
+    ID="truszczynski2016identifying",
+    placex="",
 ))
 
 vining2016a = DB(WorkUnrelated(
@@ -1986,6 +2274,17 @@ wang2016a = DB(WorkUnrelated(
     placex="Computer Networks",
 ))
 
+werder2016a = DB(WorkUnrelated(
+    2016, "Team Agility and Team Performance-the Moderating effect of User Involvement.",
+    display="werder",
+    authors="Werder, Karl",
+    place=FAKE,
+    pp="Research--in",
+    entrytype="inproceedings",
+    ID="werder2016team",
+    placex="ECIS",
+))
+
 winter2016a = DB(WorkUnrelated(
     2016, "The Continuous Learning Journey of a Certified Performance Technologist",
     display="winter",
@@ -1999,6 +2298,21 @@ winter2016a = DB(WorkUnrelated(
     ID="winter2016continuous",
     wiley2016="1",
     placex="Performance Improvement",
+))
+
+yagüe2016a = DB(WorkUnrelated(
+    2016, "An exploratory study in communication in Agile Global Software Development",
+    display="yagüe",
+    authors="Yagüe, Agustin and Garbajosa, Juan and Díaz, Jessica and González, Eloy",
+    place=CSI,
+    pp="184--197",
+    entrytype="article",
+    volume="48",
+    publisher="Elsevier",
+    ID="yague2016exploratory",
+    cluster_id="7239322801299242531",
+    scholar="http://scholar.google.com/scholar?cites=7239322801299242531&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Standards & Interfaces",
 ))
 
 yang2016a = DB(WorkUnrelated(
@@ -2041,6 +2355,17 @@ yusuf2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+zaitsev2016a = DB(WorkUnrelated(
+    2016, "Collaboration Amidst volatility: the Evolving Nature of boundary Objects in Agile Software Development.",
+    display="zaitsev",
+    authors="Zaitsev, Anna and Tan, Barney and Gal, Uri",
+    place=FAKE,
+    pp="ResearchPaper172",
+    entrytype="inproceedings",
+    ID="zaitsev2016collaboration",
+    placex="ECIS",
+))
+
 zhang2016a = DB(WorkUnrelated(
     2016, "Introducing Domain Specific Language for Modeling Scrum Projects",
     display="zhang",
@@ -2049,6 +2374,22 @@ zhang2016a = DB(WorkUnrelated(
     entrytype="misc",
     ID="zhang2016introducing",
     placex="",
+))
+
+zhang2016b = DB(WorkUnrelated(
+    2016, "A study of key success factors of service enterprises in China",
+    display="zhang b",
+    authors="Zhang, Min and Jin, Biying and Wang, G Alan and Goh, Thong Ngee and He, Zhen",
+    place=FAKE,
+    pp="1--14",
+    entrytype="article",
+    volume="134",
+    number="1",
+    publisher="Springer",
+    ID="zhang2016study",
+    cluster_id="1946995276930360527",
+    scholar="http://scholar.google.com/scholar?cites=1946995276930360527&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of business ethics",
 ))
 
 ziebell2016a = DB(WorkUnrelated(

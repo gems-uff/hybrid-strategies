@@ -72,6 +72,16 @@ akbar2011a = DB(WorkUnrelated(
     placex="Communications in Computer and Information Science",
 ))
 
+almeida2011a = DB(WorkUnrelated(
+    2011, "Fatores moderadores da agilidade do processo de gerenciamento de projetos de novos produtos",
+    display="almeida",
+    authors="de Almeida, Luís Fernando Magnanini and Carlos, Edivandro and Amaral, Daniel Capaldo",
+    place=FAKE,
+    entrytype="article",
+    ID="defatores",
+    placex="",
+))
+
 amiri2011a = DB(WorkUnrelated(
     2011, "Programming as design: The role of programming in interactive media curriculum in art and design",
     display="amiri",
@@ -739,6 +749,47 @@ hoda2011a = DB(WorkSnowball(
     scholar_ok=True,
 ))
 
+hoda2011b = DB(WorkUnrelated(
+    2011, "Self-organizing agile teams: A grounded theory",
+    display="hoda b",
+    authors="Hoda, Rashina",
+    place=FAKE,
+    entrytype="article",
+    publisher="Victoria University of Wellington",
+    ID="hoda2011self",
+    cluster_id="8151193671828544399",
+    scholar="http://scholar.google.com/scholar?cites=8151193671828544399&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+hoda2011c = DB(WorkUnrelated(
+    2011, "Grounded theory for geeks",
+    display="hoda c",
+    authors="Hoda, Rashina and Noble, James and Marshall, Stuart",
+    place=FAKE,
+    pp="24",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="hoda2011grounded",
+    cluster_id="2838198241015448845",
+    scholar="http://scholar.google.com/scholar?cites=2838198241015448845&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 18th conference on pattern languages of programs",
+))
+
+hoda2011d = DB(WorkUnrelated(
+    2011, "Supporting self-organizing agile teams",
+    display="hoda d",
+    authors="Hoda, Rashina and Noble, James and Marshall, Stuart",
+    place=FAKE,
+    pp="73--87",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="hoda2011supporting",
+    cluster_id="12220840253679859582",
+    scholar="http://scholar.google.com/scholar?cites=12220840253679859582&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
 hope2011a = DB(WorkUnrelated(
     2011, "Configuring designers? Using one agile project management methodology to achieve user participation",
     display="hope",
@@ -1054,6 +1105,18 @@ martin2011b = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+mchugh2011a = DB(WorkUnrelated(
+    2011, "A study of clan control in agile software development teams",
+    display="mchugh",
+    authors="McHugh, Orla",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="mchugh2011study",
+    cluster_id="3672801160089223871",
+    scholar="http://scholar.google.com/scholar?cites=3672801160089223871&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 mishra2011a = DB(WorkUnrelated(
     2011, "Complex software project development: agile methods adoption",
     display="mishra",
@@ -1313,6 +1376,22 @@ rohn2011a = DB(WorkUnrelated(
     placex="CHI'11 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
+saleh2011a = DB(WorkUnrelated(
+    2011, "An agile software development framework",
+    display="saleh",
+    authors="Saleh, Malik F",
+    place=ICSE,
+    pp="97--106",
+    entrytype="article",
+    volume="2",
+    number="5",
+    publisher="Citeseer",
+    ID="saleh2011agile",
+    cluster_id="11639489787654161809",
+    scholar="http://scholar.google.com/scholar?cites=11639489787654161809&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Software Engineering",
+))
+
 schar2011a = DB(WorkUnrelated(
     2011, "Guiding global software development projects using scrum and agile with quality assurance",
     display="schar",
@@ -1473,6 +1552,20 @@ staats2011a = DB(WorkUnrelated(
     placex="Journal of operations management",
 ))
 
+stojanov2011a = DB(WorkUnrelated(
+    2011, "Identifying properties of software change request process: Qualitative investigation in very small software companies",
+    display="stojanov",
+    authors="Stojanov, Zeljko and Dobrilovic, Dalibor and Jevtic, Vesna",
+    place=FAKE,
+    pp="47--52",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="stojanov2011identifying",
+    cluster_id="17317525661576658692",
+    scholar="http://scholar.google.com/scholar?cites=17317525661576658692&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Intelligent Systems and Informatics (SISY), 2011 IEEE 9th International Symposium on",
+))
+
 suomalainen2011a = DB(WorkUnrelated(
     2011, "Software product roadmapping in a volatile business environment",
     display="suomalainen",
@@ -1501,6 +1594,16 @@ sz2011a = DB(WorkUnrelated(
     ID="szHoke2011conceptual",
     sciencedirect2016="1",
     placex="Information and software technology",
+))
+
+tahir2011a = DB(WorkUnrelated(
+    2011, "INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING (IJSE)",
+    display="tahir",
+    authors="TAHIR, DR NABEEL",
+    place=FAKE,
+    entrytype="article",
+    ID="tahirinternational",
+    placex="",
 ))
 
 tfsc2011a = DB(WorkUnrelated(
@@ -1572,6 +1675,16 @@ vlaanderen2011a = DB(WorkUnrelated(
     placex="Information and software technology",
     doi="10.1016/j.infsof.2010.08.004",
     note="cited By 57",
+))
+
+waardenburg2011a = DB(WorkUnrelated(
+    2011, "ENABLING AGILE PRACTICES IN TRADITIONAL ENVIRONMENTS",
+    display="waardenburg",
+    authors="VAN WAARDENBURG, GUUS",
+    place=FAKE,
+    entrytype="article",
+    ID="van2011enabling",
+    placex="",
 ))
 
 wang2011a = DB(WorkUnrelated(

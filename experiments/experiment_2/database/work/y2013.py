@@ -113,6 +113,20 @@ bang2013a = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+bass2013a = DB(WorkUnrelated(
+    2013, "Agile method tailoring in distributed enterprises: Product owner teams",
+    display="bass",
+    authors="Bass, Julian M",
+    place=ICSE,
+    pp="154--163",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="bass2013agile",
+    cluster_id="17646905796494820791",
+    scholar="http://scholar.google.com/scholar?cites=17646905796494820791&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Global Software Engineering (ICGSE), 2013 IEEE 8th International Conference on",
+))
+
 beedle2013a = DB(WorkUnrelated(
     2013, "Principles behind the Agile Manifesto",
     display="beedle",
@@ -139,6 +153,17 @@ behrouzi2013a = DB(WorkUnrelated(
     cluster_id="10854013659743711834",
     scholar="http://scholar.google.com/scholar?cites=10854013659743711834&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+benassi2013a = DB(WorkUnrelated(
+    2013, "Proposta de método para a cria{ç}ão da visão no gerenciamento ágil de projetos de desenvolvimento de produtos",
+    display="benassi",
+    authors="Benassi, João Luís Guilherme",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="benassiproposta",
+    local="Universidade de São Paulo",
+    placex="",
 ))
 
 bijan2013a = DB(WorkUnrelated(
@@ -590,6 +615,47 @@ gagliardi2013a = DB(WorkUnrelated(
     placex="",
 ))
 
+gandomani2013a = DB(WorkUnrelated(
+    2013, "Exploring key factors of pilot projects in agile transformation process using a grounded theory study",
+    display="gandomani",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Ghani, Abdul Azim Abd and Sultan, Abu Bakar Md and Sharif, Khaironi Yatim",
+    place=FAKE,
+    pp="146--158",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="gandomani2013exploring",
+    cluster_id="2649290914650691987",
+    scholar="http://scholar.google.com/scholar?cites=2649290914650691987&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Information and Software Technologies",
+))
+
+gandomani2013b = DB(WorkUnrelated(
+    2013, "How pre-start up assessment helps software companies in Agile transition",
+    display="gandomani b",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Javanmardi, Ali and Ghani, Abdul Azim Abdul and Sultan, Abu Bakar Md and Nafchi, Mina Ziaei",
+    place=FAKE,
+    pp="1125--1130",
+    entrytype="article",
+    volume="25",
+    ID="gandomani2013pre",
+    cluster_id="17846523137424552975",
+    scholar="http://scholar.google.com/scholar?cites=17846523137424552975&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Science International",
+))
+
+gandomani2013c = DB(WorkUnrelated(
+    2013, "HOW GROUNDED CAN FACILITATE RESEARCH STUDIES IN CONTEXT OF AGILE SOFTWARE DEVELOPMENT",
+    display="gandomani c",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Ghani, Abdul Azim Abdul and Sultan, Abu Bakar Md and Sharif, Khaironi and Sharif, Yatim",
+    place=FAKE,
+    entrytype="article",
+    volume="25",
+    number="4",
+    publisher="Asianet-Pakistan",
+    ID="gandomani2013grounded",
+    placex="Science International",
+))
+
 garvey2013a = DB(WorkUnrelated(
     2013, "Agile game development with scrum in game lab I",
     display="garvey",
@@ -1039,6 +1105,16 @@ larman2013a = DB(WorkUnrelated(
     placex="CrossTalk",
 ))
 
+liebel2013a = DB(WorkUnrelated(
+    2013, "Structuring GUI Acceptance Tests based on Usage Scenarios",
+    display="liebel",
+    authors="LIEBEL, GRISCHA",
+    place=FAKE,
+    entrytype="article",
+    ID="liebelstructuring",
+    placex="",
+))
+
 macduffie2013a = DB(WorkUnrelated(
     2013, "Modularity-as-property, modularization-as-process, and ‘modularity'-as-frame: Lessons from product architecture initiatives in the global automotive industry",
     display="macduffie",
@@ -1435,6 +1511,16 @@ raison2013a = DB(WorkUnrelated(
     note="cited By 9",
     ID="Raison2013573",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+rajadurai2013a = DB(WorkUnrelated(
+    2013, "USING SELF ORGANIZING TEAM IN AGILE SOFTWARE DEVELOPMENT",
+    display="rajadurai",
+    authors="Rajadurai, R and Nandhini, S",
+    place=FAKE,
+    entrytype="article",
+    ID="rajadurai2013using",
+    placex="",
 ))
 
 raninen2013a = DB(WorkUnrelated(

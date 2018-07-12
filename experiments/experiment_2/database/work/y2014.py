@@ -68,6 +68,16 @@ alotaibi2014b = DB(WorkUnrelated(
     placex="",
 ))
 
+amaral2014a = DB(WorkUnrelated(
+    2014, "Can Agile Project Management Be Adopted by Industries Other than Software Development?",
+    display="amaral",
+    authors="Amaral, Daniel C",
+    place=FAKE,
+    entrytype="article",
+    ID="amaralcan",
+    placex="",
+))
+
 amrute2014a = DB(WorkUnrelated(
     2014, "Proprietary freedoms in an IT office: how Indian IT workers negotiate code and cultural branding",
     display="amrute",
@@ -124,6 +134,20 @@ ayed2014a = DB(WorkUnrelated(
     placex="Proceedings of the 1st International Workshop on Rapid Continuous Software Engineering",
 ))
 
+babb2014a = DB(WorkUnrelated(
+    2014, "XP in a small software development business: adapting to local constraints",
+    display="babb",
+    authors="Babb, Jeffry S and Hoda, Rashina and Nørbjerg, Jacob",
+    place=FAKE,
+    pp="14--29",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="babb2014xp",
+    cluster_id="972197590286434843",
+    scholar="http://scholar.google.com/scholar?cites=972197590286434843&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Scandinavian Conference on Information Systems",
+))
+
 bach2014a = DB(WorkUnrelated(
     2014, "Optimization Model of Agile Team's Cohesion",
     display="bach",
@@ -167,6 +191,16 @@ bass2014a = DB(WorkUnrelated(
     placex="Global Software Engineering (ICGSE), 2014 IEEE 9th International Conference on",
 ))
 
+bass2014ab = DB(WorkUnrelated(
+    2014, "Activities in Scrum Master Teams: Process Tailoring in Large Enterprise Projects",
+    display="bass",
+    authors="Bass, Julian M",
+    place=FAKE,
+    entrytype="article",
+    ID="bassactivities",
+    placex="",
+))
+
 bass2014b = DB(WorkUnrelated(
     2014, "Activities in Scrum Master Teams: Process Tailoring in Large Enterprise Projects",
     display="bass b",
@@ -188,6 +222,20 @@ becheru2014a = DB(WorkUnrelated(
     ID="becheru2014agile",
     acm2016="1",
     placex="Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14)",
+))
+
+beranek2014a = DB(WorkUnrelated(
+    2014, "Building user engagement for successful software projects: meaningfulness, safety, and availability",
+    display="beranek",
+    authors="Beranek, Peggy and Klein, Gary and Jiang, James J",
+    place=FAKE,
+    entrytype="article",
+    volume="6",
+    number="3",
+    ID="beranek2014building",
+    cluster_id="9391681634614367219",
+    scholar="http://scholar.google.com/scholar?cites=9391681634614367219&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Pacific Asia Journal of the Association for Information Systems",
 ))
 
 binder2014a = DB(WorkUnrelated(
@@ -356,6 +404,8 @@ conforto2014a = DB(WorkUnrelated(
     ID="conforto2014can",
     wiley2016="1",
     placex="Project Management Journal",
+    cluster_id="14328700619638202363",
+    scholar="http://scholar.google.com/scholar?cites=14328700619638202363&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 cornelius2014a = DB(WorkUnrelated(
@@ -518,6 +568,18 @@ díaz2014a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+eichhorn2014a = DB(WorkUnrelated(
+    2014, "The impact of user involvement on information system projects",
+    display="eichhorn",
+    authors="Eichhorn, Bradford Reese",
+    place=FAKE,
+    entrytype="article",
+    ID="eichhorn2014impact",
+    cluster_id="3132263239780298220",
+    scholar="http://scholar.google.com/scholar?cites=3132263239780298220&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 estler2014a = DB(WorkUnrelated(
     2014, "Agile vs. structured distributed software development: A case study",
     display="estler",
@@ -662,6 +724,35 @@ fran2014a = DB(WorkUnrelated(
     ID="francca2014motivation",
     sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+gandomani2014a = DB(WorkUnrelated(
+    2014, "How human aspects impress Agile software development transition and adoption",
+    display="gandomani",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Ghani, AA Abdul and Sultan, Abu Bakar Md and Sharif, Khaironi Yatim",
+    place=ICASEA,
+    pp="129--148",
+    entrytype="article",
+    volume="8",
+    number="1",
+    ID="gandomani2014human",
+    cluster_id="17333346367430439640",
+    scholar="http://scholar.google.com/scholar?cites=17333346367430439640&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Software Engineering and its Applications",
+))
+
+gandomani2014b = DB(WorkUnrelated(
+    2014, "Agile Transformation: What is it about?",
+    display="gandomani b",
+    authors="Gandomani, Taghi Javdani and Zulzalil, Hazura and Nafchi, Mina Ziaei",
+    place=SEC,
+    pp="240--245",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="gandomani2014agile",
+    cluster_id="10987941009512731014",
+    scholar="http://scholar.google.com/scholar?cites=10987941009512731014&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference (MySEC), 2014 8th Malaysian",
 ))
 
 ghannem2014a = DB(WorkUnrelated(
@@ -845,6 +936,16 @@ hegarty2014a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
 ))
 
+hellemond2014a = DB(WorkUnrelated(
+    2014, "Firefighting in an embedded systems context",
+    display="hellemond",
+    authors="van Hellemond, S",
+    place=FAKE,
+    entrytype="article",
+    ID="vanfirefighting",
+    placex="",
+))
+
 heredia2014a = DB(WorkUnrelated(
     2014, "Agile practices adapted to mass-market application development",
     display="heredia",
@@ -899,6 +1000,20 @@ huijgens2014a = DB(WorkUnrelated(
     ID="huijgens2014build",
     acm2016="1",
     placex="Companion Proceedings of the 36th International Conference on Software Engineering",
+))
+
+hummel2014a = DB(WorkUnrelated(
+    2014, "State-of-the-art: A systematic literature review on agile information systems development",
+    display="hummel",
+    authors="Hummel, Markus",
+    place=FAKE,
+    pp="4712--4721",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="hummel2014state",
+    cluster_id="2706363175986919374",
+    scholar="http://scholar.google.com/scholar?cites=2706363175986919374&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
 ))
 
 igaki2014a = DB(WorkSnowball(
@@ -1033,6 +1148,17 @@ järvinen2014a = DB(WorkUnrelated(
     placex="International Conference of Software Business",
 ))
 
+júnior2014a = DB(WorkUnrelated(
+    2014, "Factors and Effects of Communication in Distributed Software Development",
+    display="júnior",
+    authors="de Farias Júnior, Ivaldir Honório and Dos Santos, Alinne Correa and Mendon{ç}a Teixeira, Marcelo and Espínola Ferreira, Tiago Alessandro",
+    place=FAKE,
+    entrytype="article",
+    publisher="Federal Rural University of Pernambuco Recife/PE, Brazil",
+    ID="de2014factors",
+    placex="",
+))
+
 kalinowski2014a = DB(WorkUnrelated(
     2014, "From project-oriented to service-oriented software development: an industrial experience guided by a service reference model",
     display="kalinowski",
@@ -1048,6 +1174,21 @@ kalinowski2014a = DB(WorkUnrelated(
     cluster_id="6248315456048130362",
     scholar="http://scholar.google.com/scholar?cites=6248315456048130362&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+kanwal2014a = DB(WorkUnrelated(
+    2014, "Documentation practices for offshore agile software development",
+    display="kanwal",
+    authors="Kanwal, Faria and Bashir, Komal and Ali, Ayesha Haider",
+    place=FAKE,
+    pp="70--73",
+    entrytype="article",
+    volume="10",
+    number="11",
+    ID="kanwal2014documentation",
+    cluster_id="9784282727292223470",
+    scholar="http://scholar.google.com/scholar?cites=9784282727292223470&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Life Science Journal",
 ))
 
 khurum2014a = DB(WorkUnrelated(
@@ -1095,6 +1236,29 @@ kristianto2014a = DB(WorkUnrelated(
     placex="Expert Systems with Applications",
 ))
 
+kristinsdóttir2014a = DB(WorkUnrelated(
+    2014, "Responsibilities and challenges of product owners in practice",
+    display="kristinsdóttir",
+    authors="Kristinsdóttir, Sigurhanna and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="kristinsdottir2014responsibilities",
+    cluster_id="4605427066742710360",
+    scholar="http://scholar.google.com/scholar?cites=4605427066742710360&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+krogh2014a = DB(WorkUnrelated(
+    2014, "Smidig systemutviklingsmetode i praksis: Et case studie av Scrum",
+    display="krogh",
+    authors="Krogh, Kenneth",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="krogh2014smidig",
+    local="Institutt for datateknikk og informasjonsvitenskap",
+    placex="",
+))
+
 krusche2014a = DB(WorkUnrelated(
     2014, "User feedback in mobile development",
     display="krusche",
@@ -1132,6 +1296,17 @@ kuranuki2014a = DB(WorkUnrelated(
     ID="kuranuki2014new",
     acm2016="1",
     placex="Proceedings of the International Workshop on Innovative Software Development Methodologies and Practices",
+))
+
+lang2014a = DB(WorkUnrelated(
+    2014, "lang russo",
+    display="",
+    authors="lang",
+    place=FAKE,
+    entrytype="article",
+    publisher="lang",
+    ID="lang",
+    placex="",
 ))
 
 lapham2014a = DB(WorkUnrelated(
@@ -1271,6 +1446,16 @@ mchugh2014a = DB(WorkUnrelated(
     ID="mchugh2014adopting",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+mehmeti2014a = DB(WorkUnrelated(
+    2014, "Behavioral Competences of Agile Project Managers: A Case Study of R&D Projects in the Swedish Biotechnology Sector",
+    display="mehmeti",
+    authors="Mehmeti, Betim and Sanchez Molina, Edgar Fernando",
+    place=FAKE,
+    entrytype="misc",
+    ID="mehmeti2014behavioral",
+    placex="",
 ))
 
 mierlo2014a = DB(WorkUnrelated(
@@ -1415,6 +1600,20 @@ ng2014a = DB(WorkUnrelated(
     placex="Proceedings of the 3rd SEMAT Workshop on General Theories of Software Engineering",
 ))
 
+ng2014b = DB(WorkUnrelated(
+    2014, "Step-by-step guide to designing effective wellness apps",
+    display="ng b",
+    authors="Ng, Sandy and Vuong, Lucia",
+    place=FAKE,
+    pp="105--122",
+    entrytype="incollection",
+    publisher="CRC Press",
+    ID="ng2014step",
+    cluster_id="15754382489914502452",
+    scholar="http://scholar.google.com/scholar?cites=15754382489914502452&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="mHealth Multidisciplinary Verticals",
+))
+
 nguyen2014a = DB(WorkUnrelated(
     2014, "GUITAR: an innovative tool for automated testing of GUI-driven software",
     display="nguyen",
@@ -1487,6 +1686,20 @@ pages2014a = DB(WorkUnrelated(
     entrytype="article",
     ID="pageslanguage",
     placex="",
+))
+
+parizi2014a = DB(WorkUnrelated(
+    2014, "Hidden facilitators of agile transition: Agile coaches and agile champions",
+    display="parizi",
+    authors="Parizi, Reza Meimandi and Gandomani, Taghi Javdani and Nafchi, Mina Ziaei",
+    place=SEC,
+    pp="246--250",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="parizi2014hidden",
+    cluster_id="12672892721489616325",
+    scholar="http://scholar.google.com/scholar?cites=12672892721489616325&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference (MySEC), 2014 8th Malaysian",
 ))
 
 parsons2014a = DB(WorkUnrelated(
@@ -1873,6 +2086,34 @@ shao2014a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+sharif2014a = DB(WorkUnrelated(
+    2014, "Exploring facilitators of transition and adoption to agile methods: a grounded theory study",
+    display="sharif",
+    authors="Sharif, Yatim",
+    place=FAKE,
+    entrytype="article",
+    volume="9",
+    number="7",
+    ID="sharif2014exploring",
+    cluster_id="2631812611918887061",
+    scholar="http://scholar.google.com/scholar?cites=2631812611918887061&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Software",
+))
+
+shawky2014a = DB(WorkUnrelated(
+    2014, "The impact of agile approaches on software quality attributes an empirical study",
+    display="shawky",
+    authors="Shawky, Doaa M and Abd-El-Hafiz, Salwa K",
+    place=FAKE,
+    pp="49--57",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="shawky2014impact",
+    cluster_id="16992821043912822611",
+    scholar="http://scholar.google.com/scholar?cites=16992821043912822611&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Paradigm Trends (ICSOFT-PT), 2014 9th International Conference on",
+))
+
 shrivastava2014a = DB(WorkUnrelated(
     2014, "Risks in distributed agile development: A review",
     display="shrivastava",
@@ -2053,6 +2294,21 @@ suryanarayana2014a = DB(WorkUnrelated(
     placex="Refactoring for Software Design Smells: Managing Technical Debt",
 ))
 
+sverrisdottir2014a = DB(WorkUnrelated(
+    2014, "The role of the product owner in scrum-comparison between theory and practices",
+    display="sverrisdottir",
+    authors="Sverrisdottir, Hrafnhildur Sif and Ingason, Helgi Thor and Jonasson, Haukur Ingi",
+    place=FAKE,
+    pp="257--267",
+    entrytype="article",
+    volume="119",
+    publisher="Elsevier",
+    ID="sverrisdottir2014role",
+    cluster_id="15649252812172018234",
+    scholar="http://scholar.google.com/scholar?cites=15649252812172018234&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Procedia-Social and Behavioral Sciences",
+))
+
 tarhan2014a = DB(WorkUnrelated(
     2014, "Systematic analyses and comparison of development performance and product quality of Incremental Process and Agile Process",
     display="tarhan",
@@ -2137,6 +2393,19 @@ vacanti2014a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Vacanti2014",
     placex="",
+))
+
+vanathi2014a = DB(WorkUnrelated(
+    2014, "Agile Software Development Teams on Autopoiesies Aspects",
+    display="vanathi",
+    authors="Vanathi, A and Sravan Kumar, K Raja",
+    place=FAKE,
+    pp="1637--1641",
+    entrytype="article",
+    volume="3",
+    number="11",
+    ID="vanathi2014agile",
+    placex="IJRCCT",
 ))
 
 verner2014a = DB(WorkUnrelated(

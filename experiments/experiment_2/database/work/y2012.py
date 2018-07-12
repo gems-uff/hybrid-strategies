@@ -602,6 +602,19 @@ hoda2012a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
 ))
 
+hoda2012b = DB(WorkUnrelated(
+    2012, "Self-organizing roles on agile software development teams",
+    display="hoda b",
+    authors="Hoda, Rashina and Noble, James and Marshall, Stuart",
+    place=ToSE,
+    entrytype="article",
+    publisher="IEEE",
+    ID="hoda2012self",
+    cluster_id="1997176471712690110",
+    scholar="http://scholar.google.com/scholar?cites=1997176471712690110&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Software Engineering",
+))
+
 hofman2012a = DB(WorkUnrelated(
     2012, "Domain specific feature modeling for software product lines",
     display="hofman",
@@ -717,6 +730,17 @@ janus2012a = DB(WorkUnrelated(
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
+junior2012a = DB(WorkUnrelated(
+    2012, "Sistema de Engenharia Kansei para apoiar a descri{ç}ão da visão do produto no contexto do Gerenciamento Ágil de Projetos de produtos manufaturados",
+    display="junior",
+    authors="Junior, Ferreira and Dias, Lucelindo",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="juniorsistema",
+    local="Universidade de São Paulo",
+    placex="",
+))
+
 kelemen2012a = DB(WorkUnrelated(
     2012, "Identifying criteria for multimodel software process improvement solutions--based on a review of current problems and initiatives",
     display="kelemen",
@@ -772,6 +796,8 @@ kirk2012a = DB(WorkUnrelated(
     ID="kirk2012lightweight",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    cluster_id="13486413099497026164",
+    scholar="http://scholar.google.com/scholar?cites=13486413099497026164&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 klendauer2012a = DB(WorkUnrelated(
@@ -994,6 +1020,16 @@ nielsen2012a = DB(WorkUnrelated(
     placex="NordiCHI 2012: Making Sense Through Design - Proceedings of the 7th Nordic Conference on Human-Computer Interaction",
 ))
 
+nielsen2012b = DB(WorkUnrelated(
+    2012, "Introducing the Concept of Micro Participation in Agile Development",
+    display="nielsen B",
+    authors="Nielsen, Lene and Madsen, Sabine",
+    place=FAKE,
+    entrytype="article",
+    ID="nielsenBintroducing",
+    placex="",
+))
+
 niinimäki2012a = DB(WorkUnrelated(
     2012, "Reflecting the choice and usage of communication tools in global software development projects with media synchronicity theory",
     display="niinimäki",
@@ -1127,6 +1163,17 @@ pino2012a = DB(WorkUnrelated(
     ID="pino2012software",
     wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+porrawatpreyakorn2012a = DB(WorkUnrelated(
+    2012, "A framework for transferring software project management approaches into the Thai telecommunications industry",
+    display="porrawatpreyakorn",
+    authors="Porrawatpreyakorn, Nalinpat",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="porrawatpreyakorn2012framework",
+    local="uniwien",
+    placex="",
 ))
 
 portillo2012a = DB(WorkUnrelated(
@@ -1331,6 +1378,8 @@ senapathi2012a = DB(WorkUnrelated(
     ID="senapathi2012understanding",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+    cluster_id="11631276056993930805",
+    scholar="http://scholar.google.com/scholar?cites=11631276056993930805&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 silva2012a = DB(WorkUnrelated(
@@ -1417,6 +1466,21 @@ stoica2012a = DB(WorkUnrelated(
     ID="stoica20125",
     wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+stojanov2012a = DB(WorkUnrelated(
+    2012, "Using qualitative research to explore automation level of software change request process: A study on very small software companies",
+    display="stojanov",
+    authors="Stojanov, Zeljko",
+    place=FAKE,
+    pp="1",
+    entrytype="article",
+    volume="57",
+    number="71",
+    ID="stojanov2012using",
+    cluster_id="9018855380577155293",
+    scholar="http://scholar.google.com/scholar?cites=9018855380577155293&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Scientific Bulletin of The Politehnica University of Timisoara, Transactions on Automatic Control and Computer Science",
 ))
 
 strode2012a = DB(WorkUnrelated(

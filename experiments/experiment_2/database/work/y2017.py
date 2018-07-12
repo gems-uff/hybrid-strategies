@@ -17,6 +17,16 @@ aamir2017a = DB(WorkUnrelated(
     placex="S{̄a}dhan{̄a}",
 ))
 
+abdul2017a = DB(WorkUnrelated(
+    2017, "Product innovation with Scrum: a longitudinal case study",
+    display="abdul",
+    authors="Abdul, Adeniyi and Bass, Julian M and Ghavimi, Hossein and Adam, Peter",
+    place=FAKE,
+    entrytype="article",
+    ID="abdul2017product",
+    placex="Collated By",
+))
+
 abidin2017a = DB(WorkUnrelated(
     2017, "Agile Transition Model Based on Human Factors",
     display="abidin",
@@ -29,6 +39,21 @@ abidin2017a = DB(WorkUnrelated(
     cluster_id="12154563114844446219",
     scholar="http://scholar.google.com/scholar?cites=12154563114844446219&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Innovative Computing",
+))
+
+alahyari2017a = DB(WorkUnrelated(
+    2017, "A study of value in agile software development organizations",
+    display="alahyari",
+    authors="Alahyari, Hiva and Svensson, Richard Berntsson and Gorschek, Tony",
+    place=JSS,
+    pp="271--288",
+    entrytype="article",
+    volume="125",
+    publisher="Elsevier",
+    ID="alahyari2017study",
+    cluster_id="13534911479449146831",
+    scholar="http://scholar.google.com/scholar?cites=13534911479449146831&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
 ))
 
 alkema2017a = DB(WorkUnrelated(
@@ -52,6 +77,33 @@ almeida2017a = DB(WorkUnrelated(
     publisher="Universidade Estadual Paulista (UNESP)",
     ID="almeida2017proposta",
     placex="",
+))
+
+alqudah2017a = DB(WorkUnrelated(
+    2017, "Key factors for selecting an Agile method: A systematic literature review",
+    display="alqudah",
+    authors="Alqudah, Mashal Kasem and Razali, Rozilawati",
+    place=FAKE,
+    pp="526--537",
+    entrytype="article",
+    volume="7",
+    number="2",
+    ID="alqudah2017key",
+    cluster_id="6562404224206235717",
+    scholar="http://scholar.google.com/scholar?cites=6562404224206235717&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal on Advanced Science, Engineering and Information Technology",
+))
+
+amrit2017a = DB(WorkUnrelated(
+    2017, "The Effects of Modularity on Effective Communication and Collaboration:[Best Paper Nominee]",
+    display="amrit",
+    authors="Amrit, Chintan and Hutten, Elody",
+    place=FAKE,
+    pp="33--40",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="amrit2017effects",
+    placex="Proceedings of the 2017 ACM SIGMIS Conference on Computers and People Research",
 ))
 
 arango2017a = DB(WorkUnrelated(
@@ -91,6 +143,33 @@ assis2017b = DB(WorkUnrelated(
     placex="Revista de Gestão e Projetos",
 ))
 
+babb2017a = DB(WorkUnrelated(
+    2017, "The Empire Strikes Back: The end of Agile as we know it?",
+    display="babb",
+    authors="Babb, Jeffry S and Nørbjerg, Jacob and Yates, David J and Waguespack, Leslie J",
+    place=FAKE,
+    pp="44--59",
+    entrytype="inproceedings",
+    volume="8",
+    ID="babb2017empire",
+    placex="The 40th Information Systems Research Conference in Scandinavia, IRIS 2017",
+))
+
+batra2017a = DB(WorkUnrelated(
+    2017, "Collaboration in Agile Software Development: Concept and Dimensions",
+    display="batra",
+    authors="Batra, Dinesh and Xia, Weidong and Zhang, Mingyu",
+    place=FAKE,
+    pp="20",
+    entrytype="article",
+    volume="41",
+    number="1",
+    ID="batra2017collaboration",
+    cluster_id="15697597369111561987",
+    scholar="http://scholar.google.com/scholar?cites=15697597369111561987&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Communications of the Association for Information Systems",
+))
+
 bjarnason2017a = DB(WorkUnrelated(
     2017, "The role of distances in requirements communication: a case study",
     display="bjarnason",
@@ -106,6 +185,31 @@ bjarnason2017a = DB(WorkUnrelated(
     cluster_id="4394912325701008308",
     scholar="http://scholar.google.com/scholar?cites=4394912325701008308&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+))
+
+bordin2017a = DB(WorkUnrelated(
+    2017, "Inoculating an Agile Company with User-Centred Design: An Empirical Study",
+    display="bordin",
+    authors="Bordin, Silvia and De Angeli, Antonella",
+    place=FAKE,
+    pp="235--242",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="bordin2017inoculating",
+    cluster_id="10936990231432069385",
+    scholar="http://scholar.google.com/scholar?cites=10936990231432069385&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Agile Software Development",
+))
+
+bordin2017b = DB(WorkUnrelated(
+    2017, "A framework for integrating user-centred Design and agile Development in small Companies",
+    display="bordin b",
+    authors="Bordin, Silvia",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="bordin2017framework",
+    local="University of Trento",
+    placex="",
 ))
 
 bulej2017a = DB(WorkUnrelated(
@@ -135,6 +239,26 @@ carew2017a = DB(WorkUnrelated(
     publisher="Springer",
     ID="carew2017anti",
     placex="Global Journal of Flexible Systems Management",
+))
+
+cengiz2017a = DB(WorkUnrelated(
+    2017, "Styrformers spridning och översättning: En studie om agila metoder i litteratur och i praktiken",
+    display="cengiz",
+    authors="Cengiz, Alex and Danho, Markus",
+    place=FAKE,
+    entrytype="misc",
+    ID="cengiz2017styrformers",
+    placex="",
+))
+
+combler2017a = DB(WorkUnrelated(
+    2017, "Agil utveckling av webbapplikation för konkurrentanalys",
+    display="combler",
+    authors="Combler, Adam and Friberg, Philip and Jokinen, Jani and Larsson, Elin and Mansén, Erik and Martinsson, Tobias and Pettersson, Albin",
+    place=FAKE,
+    entrytype="misc",
+    ID="combler2017agil",
+    placex="",
 ))
 
 connor2017a = DB(WorkUnrelated(
@@ -201,6 +325,17 @@ do2017a = DB(WorkUnrelated(
     cluster_id="18427584262803350068",
     scholar="http://scholar.google.com/scholar?cites=18427584262803350068&as_sdt=2005&sciodt=0,5&hl=en",
     placex="2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)",
+))
+
+ejaz2017a = DB(WorkUnrelated(
+    2017, "Embedding Quality in Scrum: Study and Evaluation of Quality Management in Scrum in Pakistan",
+    display="ejaz",
+    authors="Ejaz, Amna",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ejaz2017embedding",
+    local="Capital University",
+    placex="",
 ))
 
 engström2017a = DB(WorkUnrelated(
@@ -335,6 +470,27 @@ gencer2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+gichuki2017a = DB(WorkUnrelated(
+    2017, "Effect Of Supply Chain Collaboration On The Supply Chain Performance Of Petroleum Companies In Nairobi",
+    display="gichuki",
+    authors="Gichuki, Prisca W",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="gichuki2017effect",
+    local="KCA University",
+    placex="",
+))
+
+gjøystdal2017a = DB(WorkUnrelated(
+    2017, "The impact of having inadequate self-organizing teams in agile projects",
+    display="gjøystdal",
+    authors="Gjøystdal, Sindre",
+    place=FAKE,
+    entrytype="article",
+    ID="gjoystdalimpact",
+    placex="",
+))
+
 gong2017a = DB(WorkUnrelated(
     2017, "Technical debt management in a large-scale distributed project: An Ericsson case study",
     display="gong",
@@ -342,6 +498,17 @@ gong2017a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="misc",
     ID="gong2017technical",
+    placex="",
+))
+
+gonzález2017a = DB(WorkUnrelated(
+    2017, "AgileFM: Modelo de desarrollo ágil formal basado en la ISO/IEC 29110 para las micro, pequeñas y medianas empresas",
+    display="gonzález",
+    authors="Yépes González, Juan David and others",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="yepes2017agilefm",
+    local="Universidad EAFIT",
     placex="",
 ))
 
@@ -556,6 +723,16 @@ ju2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+kakar2017a = DB(WorkUnrelated(
+    2017, "Investigating the Motivating Potential of Methods of Software",
+    display="kakar",
+    authors="Kakar, AK",
+    place=FAKE,
+    entrytype="article",
+    ID="kakar2017investigating",
+    placex="",
+))
+
 kalliamvakou2017a = DB(WorkUnrelated(
     2017, "Collaboration via aligned autonomy for commercial software teams",
     display="kalliamvakou",
@@ -564,6 +741,29 @@ kalliamvakou2017a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="kalliamvakou2017collaboration",
     placex="",
+))
+
+kimawati2017a = DB(WorkUnrelated(
+    2017, "Modeling consumer insight strategy in product development process: a decision and implementation framework for product managers",
+    display="kimawati",
+    authors="Kimawati, Lenni",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="kimawati2017modeling",
+    local="Massachusetts Institute of Technology",
+    placex="",
+))
+
+klünder2017a = DB(WorkUnrelated(
+    2017, "Different Views on Project Success",
+    display="klünder",
+    authors="Klünder, Jil and Karras, Oliver and Kortum, Fabian and Casselt, Mathias and Schneider, Kurt",
+    place=ICPFSPI,
+    pp="497--507",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="klunder2017different",
+    placex="International Conference on Product-Focused Software Process Improvement",
 ))
 
 kusters2017a = DB(WorkUnrelated(
@@ -576,6 +776,18 @@ kusters2017a = DB(WorkUnrelated(
     cluster_id="11406758010007839166",
     scholar="http://scholar.google.com/scholar?cites=11406758010007839166&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+kuusinen2017a = DB(WorkUnrelated(
+    2017, "Value Creation and Delivery in Agile Software Development: Overcoming Stakeholder Conflicts",
+    display="kuusinen",
+    authors="Kuusinen, Kati",
+    place=FAKE,
+    pp="123--129",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="kuusinen2017value",
+    placex="IFIP Conference on Human-Computer Interaction",
 ))
 
 lappi2017a = DB(WorkUnrelated(
@@ -606,6 +818,16 @@ larusdottir2017a = DB(WorkUnrelated(
     ID="larusdottir2017license",
     sciencedirect2016="1",
     placex="Journal of Systems and Software",
+))
+
+li2017a = DB(WorkUnrelated(
+    2017, "A Comparative Study of Value in Agile Software Development Organizations",
+    display="li",
+    authors="Li, Xian and Cao, Qian",
+    place=FAKE,
+    entrytype="misc",
+    ID="li2017comparative",
+    placex="",
 ))
 
 lópez2017a = DB(WorkUnrelated(
@@ -706,6 +928,19 @@ noll2017a = DB(WorkUnrelated(
     placex="International Conference on Product-Focused Software Process Improvement",
 ))
 
+obrutsky2017a = DB(WorkUnrelated(
+    2017, "The Agile Transition in Software Development Companies: The Most Common Barriers and How to Overcome Them",
+    display="obrutsky",
+    authors="Obrutsky, Santiago and Erturk, Emre",
+    place=FAKE,
+    pp="40",
+    entrytype="article",
+    volume="6",
+    number="4",
+    ID="obrutsky2017agile",
+    placex="Business and Management Research",
+))
+
 oliveira2017a = DB(WorkUnrelated(
     2017, "On the empirical evaluation of BDD scenarios quality: preliminary findings of an empirical study",
     display="oliveira",
@@ -730,6 +965,21 @@ oomen2017a = DB(WorkUnrelated(
     cluster_id="10232207114841199964",
     scholar="http://scholar.google.com/scholar?cites=10232207114841199964&as_sdt=2005&sciodt=0,5&hl=en",
     placex="",
+))
+
+otaduy2017a = DB(WorkUnrelated(
+    2017, "User acceptance testing for Agile-developed web-based applications: Empowering customers through wikis and mind maps",
+    display="otaduy",
+    authors="Otaduy, I and Diaz, O",
+    place=JSS,
+    pp="212--229",
+    entrytype="article",
+    volume="133",
+    publisher="Elsevier",
+    ID="otaduy2017user",
+    cluster_id="1948346307251516504",
+    scholar="http://scholar.google.com/scholar?cites=1948346307251516504&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Systems and Software",
 ))
 
 patel2017a = DB(WorkUnrelated(
@@ -776,6 +1026,30 @@ przybyłek2017a = DB(WorkUnrelated(
     entrytype="article",
     ID="przybylek2017making",
     placex="",
+))
+
+razzak2017a = DB(WorkUnrelated(
+    2017, "Transition from Plan Driven to SAFe{	extregistered}: Periodic Team Self-Assessment",
+    display="razzak",
+    authors="Razzak, Mohammad Abdur and Noll, John and Richardson, Ita and Canna, Clodagh Nic and Beecham, Sarah",
+    place=ICPFSPI,
+    pp="573--585",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="razzak2017transition",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
+regassa2017a = DB(WorkUnrelated(
+    2017, "Agile methods in Ethiopia: an empirical study",
+    display="regassa",
+    authors="Regassa, Zelalem and Bass, Julian M and Midekso, Dida",
+    place=FAKE,
+    pp="367--378",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="regassa2017agile",
+    placex="International Conference on Social Implications of Computers in Developing Countries",
 ))
 
 rindell2017a = DB(WorkUnrelated(
@@ -848,6 +1122,34 @@ sensuse2017a = DB(WorkUnrelated(
     placex="Information Technology Systems and Innovation (ICITSI), 2017 International Conference on",
 ))
 
+shameem2017a = DB(WorkUnrelated(
+    2017, "Systematic Review of Success Factors for Scaling Agile Methods in Global Software Development Environment: A Client-Vendor Perspective",
+    display="shameem",
+    authors="Shameem, Mohammad and Kumar, Chiranjeev and Chandra, Bibhas and Khan, Arif Ali",
+    place=SEC,
+    pp="17--24",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="shameem2017systematic",
+    cluster_id="7529220698190068245",
+    scholar="http://scholar.google.com/scholar?cites=7529220698190068245&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference Workshops (APSECW), 2017 24th Asia-Pacific",
+))
+
+shastri2017a = DB(WorkUnrelated(
+    2017, "Understanding the roles of the manager in agile project management",
+    display="shastri",
+    authors="Shastri, Yogeshwar and Hoda, Rashina and Amor, Robert",
+    place=IEEE,
+    pp="45--55",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="shastri2017understanding",
+    cluster_id="14375419757635180889",
+    scholar="http://scholar.google.com/scholar?cites=14375419757635180889&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 10th Innovations in Software Engineering Conference",
+))
+
 silva2017a = DB(WorkUnrelated(
     2017, "A systematic review on the use of Definition of Done on agile software development projects",
     display="silva",
@@ -869,6 +1171,31 @@ silva2017b = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="silva2017matematicas",
+    placex="",
+))
+
+singh2017a = DB(WorkUnrelated(
+    2017, "Ruling out key enablers for software process reengineering in Indian small and medium enterprises",
+    display="singh",
+    authors="Singh, Ashima and Aggarwal, Himanshu",
+    place=FAKE,
+    pp="487--517",
+    entrytype="article",
+    volume="7",
+    number="4",
+    publisher="Inderscience Publishers (IEL)",
+    ID="singh2017ruling",
+    placex="International Journal of Process Management and Benchmarking",
+))
+
+slater2017a = DB(WorkUnrelated(
+    2017, "National Culture's Relationship to Project Team Performance",
+    display="slater",
+    authors="Slater, Lori",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="slater2017national",
+    local="Capella University",
     placex="",
 ))
 
@@ -901,6 +1228,19 @@ teoi2017a = DB(WorkUnrelated(
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
+tessem2017a = DB(WorkUnrelated(
+    2017, "The customer effect in agile system development projects. A process tracing case study",
+    display="tessem",
+    authors="Tessem, Bjørnar",
+    place=FAKE,
+    pp="244--251",
+    entrytype="article",
+    volume="121",
+    publisher="Elsevier",
+    ID="tessem2017customer",
+    placex="Procedia Computer Science",
+))
+
 thakurta2017a = DB(WorkUnrelated(
     2017, "Understanding requirement prioritization artifacts: a systematic mapping study",
     display="thakurta",
@@ -925,6 +1265,16 @@ totten2017a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="totten2017critical",
+    placex="",
+))
+
+werder2017a = DB(WorkUnrelated(
+    2017, "Teams in agile software development: Design principles and examination of human factors",
+    display="werder",
+    authors="Werder, Karl",
+    place=FAKE,
+    entrytype="article",
+    ID="werder2017teams",
     placex="",
 ))
 
