@@ -28,6 +28,15 @@ from ..work.y2012 import reichert2012a
 from ..work.y2012 import iso2012a
 from ..work.y2012 import grambow2012b
 from ..work.y2012 import assistant2012a
+from ..work.y2013 import grambow2013a
+from ..work.y2016 import grambow2016a
+from ..work.y2016 import pícha2016a
+from ..work.y2017 import tarhan2017a
+from ..work.y2017 import oberhauser2017a
+from ..work.y2017 import roongsangjan2017a
+from ..work.y2017 import pícha2017a
+
+
 
 DB(Citation(
     grambow2012a, bourque2004a, ref="[1]",
@@ -196,3 +205,57 @@ DB(Citation(
 
     ],
 ))
+
+DB(Citation(
+    grambow2013a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    grambow2016a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pícha2016a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oberhauser2017a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roongsangjan2017a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    pícha2017a, grambow2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+
+
+

@@ -13,6 +13,7 @@ from ..work.y2003 import miller2003a
 from ..work.y2004 import w3c2004a
 from ..work.y2004 import liao2004b
 from ..work.y2005 import liao2005b
+from ..work.y2017 import tarhan2017a
 
 DB(Citation(
     liao2005b, conradi2002a, ref="[1]",
@@ -86,6 +87,13 @@ DB(Citation(
 
 DB(Citation(
     liao2005b, liao2004b, ref="[11]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, liao2005b, ref="",
     contexts=[
 
     ],

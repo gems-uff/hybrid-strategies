@@ -44,6 +44,16 @@ from ..work.y2011 import gallagher2011a
 from ..work.y2011 import forrester2011a
 from ..work.y2012 import soydan2012a
 from ..work.y2012 import gazel2012b
+from ..work.y2015 import umar2015a
+from ..work.y2014 import miranda2014a
+from ..work.y2014 import forero2014a
+from ..work.y2017 import sukmandhani2017a
+from ..work.y2017 import roongsangjan2017a
+from ..work.y2016 import dévora2016a
+from ..work.y2015 import peld2015a
+from ..work.y2013 import dévora2013a
+from ..work.y2015 import shia2015a
+from ..work.y2016 import solís2016a
 
 
 DB(Citation(
@@ -322,6 +332,76 @@ DB(Citation(
 
 DB(Citation(
     soydan2012a, singarayan2007a, ref="[40]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    umar2015a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    miranda2014a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    forero2014a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    sukmandhani2017a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roongsangjan2017a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dévora2016a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    peld2015a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    dévora2013a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    shia2015a, soydan2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    solís2016a, soydan2012a, ref="",
     contexts=[
 
     ],

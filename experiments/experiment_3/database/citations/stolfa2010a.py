@@ -18,6 +18,11 @@ from ..work.y2008 import horák2008a
 from ..work.y2008 import karkoška2008a
 from ..work.y2008 import varkoi2008b
 from ..work.y2010 import stolfa2010a
+from ..work.y2011 import ko2011a
+from ..work.y2011 import jezek2011a
+from ..work.y2016 import mejia2016a
+from ..work.y2017 import tarhan2017a
+from ..work.y2011 import ko2011b
 
 DB(Citation(
     stolfa2010a, varkoi2008a, ref="[1]",
@@ -112,6 +117,41 @@ DB(Citation(
 
 DB(Citation(
     stolfa2010a, dorfmann1997a, ref="[14]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    mejia2016a, stolfa2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, stolfa2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ko2011a, stolfa2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ko2011b, stolfa2010a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    jezek2011a, stolfa2010a, ref="",
     contexts=[
 
     ],

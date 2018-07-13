@@ -3,6 +3,18 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+achi2016a = DB(WorkUnrelated(
+    2016, "Information systems for innovation: A comparative analysis of maturity models’ characteristics",
+    display="achi",
+    authors="Achi, Abdelkader and Salinesi, Camille and Viscusi, Gianluigi",
+    place=FAKE,
+    pp="78--90",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="achi2016information",
+    placex="International Conference on Advanced Information Systems Engineering",
+))
+
 afzal2016a = DB(WorkUnrelated(
     2016, "Software test process improvement approaches: A systematic literature review and an industrial case study",
     display="afzal",
@@ -16,6 +28,8 @@ afzal2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of Systems and Software",
     sciencedirect2016="1",
+    cluster_id="10208998632106106709",
+    scholar="http://scholar.google.com/scholar?cites=10208998632106106709&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 aleem2016a = DB(WorkUnrelated(
@@ -151,6 +165,17 @@ colomo2016a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+costa2016a = DB(WorkUnrelated(
+    2016, "Avalia{ç}ão de processos de Teste pelo Modelo de Maturidade TMMi em pequenas empresas",
+    display="costa",
+    authors="Costa, Daniella de Oliveira and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Goiás",
+    ID="costa2016avaliaccao",
+    placex="",
+))
+
 delhi2016a = DB(WorkUnrelated(
     2016, "SYLLABI OF COMPULSORY FOUNDATION COURSES",
     display="delhi",
@@ -171,6 +196,18 @@ diazvasquez2016a = DB(WorkUnrelated(
     ID="diazvasquez2016datagauge",
     gs2016="1",
     placex="",
+))
+
+dévora2016a = DB(WorkUnrelated(
+    2016, "Identificando Hallazgos de Mejora en Pymes de TI Utilizando un Modelo Ontológico para CMMI-DEV v1. 3",
+    display="dévora",
+    authors="Dévora, J Guadalupe Uribe and Rayas, Edgar Felipe Uribe and del Real, Jorge Alexis Márquez and Alvarado, Claudia Valtierra",
+    place=FAKE,
+    entrytype="article",
+    volume="2",
+    number="3",
+    ID="devora2016identificando",
+    placex="ReCIBE",
 ))
 
 engineering2016a = DB(WorkUnrelated(
@@ -283,6 +320,17 @@ gonzalez2016a = DB(WorkUnrelated(
     gs2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+))
+
+grambow2016a = DB(WorkUnrelated(
+    2016, "Context-aware process management for the software engineering domain",
+    display="grambow",
+    authors="Grambow, Gregor",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="grambow2016context",
+    local="Ulm University",
+    placex="",
 ))
 
 iso2016a = DB(WorkUnrelated(
@@ -497,6 +545,28 @@ silva2016a = DB(WorkUnrelated(
     volume="465",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964734943&doi=10.1007%2f978-3-319-33622-0_27&partnerID=40&md5=ab32c36560a0f8679c43354523cfbd80",
     scopus2016_duplicate_removed="1",
+))
+
+solís2016a = DB(WorkUnrelated(
+    2016, "Herramienta de gestión de Modelos Ontológicos aplicados a la Mejora de Procesos Software",
+    display="solís",
+    authors="Solís, José Eduardo Guadalupe Gaytán and Saldívar, Ricardo González and Mata, Edrisi Muñoz",
+    place=FAKE,
+    entrytype="article",
+    volume="2",
+    number="3",
+    ID="solis2016herramienta",
+    placex="ReCIBE",
+))
+
+srikanth2016a = DB(WorkUnrelated(
+    2016, "A Top-Domain Ontology for Software testing.",
+    display="srikanth",
+    authors="Srikanth, Rakesh and Ahmad, Asman",
+    place=FAKE,
+    entrytype="misc",
+    ID="srikanth2016top",
+    placex="",
 ))
 
 stojanov2016a = DB(WorkUnrelated(

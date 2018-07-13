@@ -44,6 +44,20 @@ from ..work.y2012 import jena2012a
 from ..work.y2012 import omg2012a
 from ..work.y2012 import sumo2012a
 from ..work.y2012 import dpans2012a
+from ..work.y2012 import soydan2012a
+from ..work.y2012 import rungratri2012a
+from ..work.y2014 import fitsilis2014a
+from ..work.y2015 import tarhan2015a
+from ..work.y2015 import hamri2015a
+from ..work.y2015 import feloni2015a
+from ..work.y2015 import tarhan2015ab
+from ..work.y2015 import fitsilis2015a
+from ..work.y2015 import peld2015a
+from ..work.y2017 import yurum2017a
+from ..work.y2017 import tarhan2017a
+from ..work.y2017 import roongsangjan2017a
+from ..work.y2017 import eito2017a
+from ..work.y2018 import cadavid2018a
 
 DB(Citation(
     gazel2012a, tague2004b, ref="[1]",
@@ -320,6 +334,104 @@ DB(Citation(
 
 DB(Citation(
     gazel2012a, gazel2009a, ref="[40]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fitsilis2014a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    soydan2012a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rungratri2012a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2015a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hamri2015a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    yurum2017a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    feloni2015a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2015ab, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    roongsangjan2017a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    eito2017a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    fitsilis2015a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    cadavid2018a, gazel2012a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    peld2015a, gazel2012a, ref="",
     contexts=[
 
     ],

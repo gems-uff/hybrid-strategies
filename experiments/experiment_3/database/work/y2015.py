@@ -12,6 +12,8 @@ alone2015a = DB(WorkUnrelated(
     ID="alone2015evaluation",
     gs2016="1",
     placex="masterthesis",
+    cluster_id="4375838871988825142",
+    scholar="http://scholar.google.com/scholar?cites=4375838871988825142&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 alves2015a = DB(WorkUnrelated(
@@ -169,6 +171,8 @@ feloni2015a = DB(WorkUnrelated(
     placex="XVIII Ibero-American Conference on Software Engineering (CIbSE)",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84936132896&partnerID=40&md5=05f39184c82e863f80cb931f777ad80c",
     scopus2016_duplicate_removed="1",
+    cluster_id="2680070986207223990",
+    scholar="http://scholar.google.com/scholar?cites=2680070986207223990&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 fernandes2015a = DB(WorkUnrelated(
@@ -290,6 +294,17 @@ hamri2015a = DB(WorkUnrelated(
     placex="International Journal of Modern Education and Computer Science",
 ))
 
+hipp2015a = DB(WorkUnrelated(
+    2015, "Navigating in complex process model collections",
+    display="hipp",
+    authors="Hipp, Markus",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hipp2015navigating",
+    local="Ulm University",
+    placex="",
+))
+
 kerzazi2015a = DB(WorkUnrelated(
     2015, "Conceptual alignment between SPEM-based processes and CMMI",
     display="kerzazi",
@@ -404,6 +419,17 @@ pardo2015a = DB(WorkUnrelated(
     placex="Revista Facultad de Ingeniería Universidad de Antioquia",
 ))
 
+peld2015a = DB(WorkUnrelated(
+    2015, "Program{ų} k{̄u}rimo proces{ų} vertinimas naudojant kelet{ą} proces{ų} vertinimo modeli{ų}.",
+    display="peld",
+    authors="Peld{ž}ius, Stasys and Ragai{š}is, Saulius",
+    place=IC,
+    entrytype="article",
+    volume="73",
+    ID="peldvzius2015programku",
+    placex="Informacijos Mokslai/Information Sciences",
+))
+
 raki2015a = DB(WorkUnrelated(
     2015, "Extendable and Adaptable Framework for Input Language Independent Static Analysis",
     display="raki",
@@ -505,6 +531,17 @@ shekhovtsov2015a = DB(WorkUnrelated(
     placex="Relating System Quality and Software Architecture",
 ))
 
+shia2015a = DB(WorkUnrelated(
+    2015, "Sistema multiagente para análise de aderência e melhoria do processo de desenvolvimento ágil FDD baseado no modelo de qualidade CMMI",
+    display="shia",
+    authors="Shia, Khaohun and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Presbiteriana Mackenzie",
+    ID="shia2015sistema",
+    placex="",
+))
+
 shrestha2015a = DB(WorkUnrelated(
     2015, "Development and evaluation of a software-mediated process assessment approach in IT service managment",
     display="shrestha",
@@ -549,6 +586,29 @@ tarhan2015a = DB(WorkUnrelated(
     art_number="7302485",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958260485&doi=10.1109%2fSEAA.2015.50&partnerID=40&md5=50674d3611ae7cb05eb82200b1bd33b3",
     scopus2016_duplicate_removed="1",
+))
+
+tarhan2015ab = DB(WorkUnrelated(
+    2015, "Business Process Maturity Assessment",
+    display="tarhan",
+    authors="Tarhan, Ayca and Turetken, Oktay and Ilisulu, Fadime",
+    place=FAKE,
+    entrytype="article",
+    ID="tarhanbusiness",
+    placex="",
+))
+
+umar2015a = DB(WorkUnrelated(
+    2015, "A survey on state-of-the-art knowledge-based system development and issues",
+    display="umar",
+    authors="Umar, Muhammad Muneer and Mehmood, Amjad and Song, Houbing",
+    place=FAKE,
+    pp="498--509",
+    entrytype="article",
+    volume="5",
+    number="6",
+    ID="umar2015survey",
+    placex="SmartCR",
 ))
 
 yatsko2015a = DB(WorkUnrelated(

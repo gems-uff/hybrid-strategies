@@ -22,6 +22,25 @@ from ..work.y2006 import happel2006a
 from ..work.y2006 import palomäki2006a
 from ..work.y2008 import ryu2008a
 from ..work.y2008 import protégé2008a
+from ..work.y2009 import srivastava2009a
+from ..work.y2009 import rodrigues2009a
+from ..work.y2010 import rodrigues2010a
+from ..work.y2010 import junior2010a
+from ..work.y2011 import ferreira2011a
+from ..work.y2011 import barbosa2011a
+from ..work.y2013 import souza2013a
+from ..work.y2013 import souza2013b
+from ..work.y2014 import freitas2014a
+from ..work.y2015 import alone2015a
+from ..work.y2016 import afzal2016a
+from ..work.y2016 import srikanth2016a
+from ..work.y2016 import costa2016a
+from ..work.y2017 import garousi2017a
+from ..work.y2017 import tarhan2017a
+from ..work.y2017 import souza2017a
+from ..work.y2017 import vasanthapriyan2017a
+from ..work.y2017 import ögren2017a
+from ..work.y2018 import vukovic2018a
 
 DB(Citation(
     ryu2008a, paulk1993a, ref="1.",
@@ -144,6 +163,139 @@ DB(Citation(
 
 DB(Citation(
     ryu2008a, protégé2008a, ref="18.",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    afzal2016a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    souza2013a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    freitas2014a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    garousi2017a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rodrigues2010a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    souza2013b, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    srivastava2009a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    alone2015a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    souza2017a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ferreira2011a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vukovic2018a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    vasanthapriyan2017a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    srikanth2016a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    rodrigues2009a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    barbosa2011a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    costa2016a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ögren2017a, ryu2008a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    junior2010a, ryu2008a, ref="",
     contexts=[
 
     ],

@@ -227,6 +227,17 @@ jaakkola2010a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+junior2010a = DB(WorkUnrelated(
+    2010, "Uma proposta de uso do TMMi para melhoria da capacidade nas áreas de Verifica{ç}ão e Valida{ç}ão do CMMI",
+    display="júnior",
+    authors="Cândido de Oliveira Júnior, Nielso",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Pernambuco",
+    ID="candido2010proposta",
+    placex="",
+))
+
 keto2010a = DB(WorkUnrelated(
     2010, "Towards the process-ontological modelling",
     display="keto",
@@ -376,6 +387,20 @@ riel2010a = DB(WorkUnrelated(
     ID="riel2010qualification",
     gs2016="1",
     placex="CIRP Journal of Manufacturing Science and Technology",
+))
+
+rodrigues2010a = DB(WorkUnrelated(
+    2010, "Barriers to implement test process in small-sized companies",
+    display="rodrigues",
+    authors="Rodrigues, Andreia and Bessa, Adriano and Pinheiro, Plácido Rogério",
+    place=FAKE,
+    pp="233--242",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="rodrigues2010barriers",
+    cluster_id="5632496731020374587",
+    scholar="http://scholar.google.com/scholar?cites=5632496731020374587&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="World Summit on Knowledge Society",
 ))
 
 rodríguez2010a = DB(WorkUnrelated(

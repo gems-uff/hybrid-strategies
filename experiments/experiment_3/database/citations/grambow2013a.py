@@ -53,6 +53,15 @@ from ..work.y2012 import grambow2012e
 from ..work.y2013 import grambow2013a
 from ..work.y2013 import esper2013a
 from ..work.y2013 import assistant2013a
+from ..work.y2016 import grambow2016a
+from ..work.y2015 import hipp2015a
+from ..work.y2017 import tarhan2017a
+from ..work.y2017 import oberhauser2017a
+from ..work.y2014 import ayalew2014b
+from ..work.y2017 import gasca2017a
+from ..work.y2017 import gasca2017b
+from ..work.y2014 import rothmaier2014a
+
 
 DB(Citation(
     grambow2013a, grambow2012a, ref="[1]",
@@ -392,6 +401,65 @@ DB(Citation(
 
 DB(Citation(
     grambow2013a, assistant2013a, ref="[49]",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    grambow2016a, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    hipp2015a, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    oberhauser2017a, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    ayalew2014b, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    gasca2017a, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    gasca2017b, grambow2013a, ref="",
+    contexts=[
+
+    ],
+))
+
+
+DB(Citation(
+    rothmaier2014a, grambow2013a, ref="",
     contexts=[
 
     ],

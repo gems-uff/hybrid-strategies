@@ -58,6 +58,17 @@ bajec2011a = DB(WorkUnrelated(
     placex="Foundations",
 ))
 
+barbosa2011a = DB(WorkUnrelated(
+    2011, "Estudo e Defini{ç}ão de uma Metodologia de Teste de Software no Contexto de Sistemas Embarcados Críticos",
+    display="barbosa",
+    authors="BARBOSA, Jacson Rodrigues and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal de Goiás",
+    ID="barbosa2011estudo",
+    placex="",
+))
+
 carvalho2011a = DB(WorkUnrelated(
     2011, "Apoio à Reutilização de Processos de Software em um Ambiente de Engenharia de Software Centrado em Processo",
     display="carvalho",
@@ -141,6 +152,20 @@ espindola2011a = DB(WorkUnrelated(
     ID="espindola2011integraccao",
     gs2016="1",
     placex="",
+))
+
+ferreira2011a = DB(WorkUnrelated(
+    2011, "9.1. 2 An Ontology for Unmanned and Autonomous Systems of Systems Test and Evaluation",
+    display="ferreira",
+    authors="Ferreira, Susan and Tejeda, Jenny",
+    place=FAKE,
+    pp="1082--1091",
+    entrytype="inproceedings",
+    volume="21",
+    number="1",
+    organization="Wiley Online Library",
+    ID="ferreira20119",
+    placex="INCOSE International Symposium",
 ))
 
 forrester2011a = DB(WorkUnrelated(
@@ -237,6 +262,20 @@ iso2011b = DB(WorkUnrelated(
     placex="",
 ))
 
+jezek2011a = DB(WorkUnrelated(
+    2011, "Using the BPM Method and System Dynamics for Simulation of Software Processes",
+    display="jezek",
+    authors="Jezek, David and Kozusznik, Jan and others",
+    place=FAKE,
+    pp="346--365",
+    entrytype="article",
+    volume="1",
+    number="2",
+    publisher="The Society of Digital Information and Wireless Communication",
+    ID="jezek2011using",
+    placex="International Journal of Digital Information and Wireless Communications (IJDIWC)",
+))
+
 jr2011a = DB(WorkUnrelated(
     2011, "Requirements Analysis and Security Standards/Guidelines Criteria",
     display="jr",
@@ -285,6 +324,24 @@ ko2011a = DB(WorkUnrelated(
     gs2016="1",
     placex="Digital Information Processing and Communications",
     springer2016="1",
+    cluster_id="859020768479873972",
+    scholar="http://scholar.google.com/scholar?cites=859020768479873972&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+ko2011b = DB(WorkUnrelated(
+    2011, "Comparison of System Dynamics and BPM for Software Process Simulation (citation)",
+    display="ko",
+    authors="Kozusznik, Jan and Stolfa, Svatopluk and Jezek, David and Kuchar, Stepán",
+    place=FAKE,
+    pp="1--15",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="kovzusznik2011b",
+    gs2016="1",
+    placex="Digital Information Processing and Communications",
+    springer2016="1",
+    cluster_id="859020768479873972",
+    scholar="http://scholar.google.com/scholar?cites=859020768479873972&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 kreimeyer2011a = DB(WorkUnrelated(

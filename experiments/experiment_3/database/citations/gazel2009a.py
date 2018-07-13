@@ -28,6 +28,8 @@ from ..work.y2009 import cmusei2009a
 from ..work.y2009 import sumo2009a
 from ..work.y2009 import dpans2009a
 from ..work.y2009 import cmmi2009a
+from ..work.y2012 import gazel2012a
+from ..work.y2017 import tarhan2017a
 
 DB(Citation(
     gazel2009a, humphrey1995a, ref="1.",
@@ -196,3 +198,19 @@ DB(Citation(
 
     ],
 ))
+
+DB(Citation(
+    gazel2012a, gazel2009a, ref="24.",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, gazel2009a, ref="24.",
+    contexts=[
+
+    ],
+))
+
+

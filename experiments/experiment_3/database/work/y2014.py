@@ -74,6 +74,18 @@ ayalew2014a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+ayalew2014b = DB(WorkUnrelated(
+    2014, "Software process practices in small software companies in Botswana",
+    display="ayalew b",
+    authors="Ayalew, Yirsaw and Motlhala, Kris",
+    place=FAKE,
+    pp="49--57",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ayalew2014software",
+    placex="Computational Science and Its Applications (ICCSA), 2014 14th International Conference on",
+))
+
 barafort2014a = DB(WorkUnrelated(
     2014, "How to design an innovative framework for process improvement? The TIPA for ITIL case",
     display="barafort",
@@ -239,6 +251,31 @@ fitsilis2014a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=14766235994233967444&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Journal of Software Engineering and Applications",
+))
+
+forero2014a = DB(WorkUnrelated(
+    2014, "Propuesta de diseño de un modelo de gestion basado en la integración de herramientas de tecnologia de informacion (it) a partir del analisis del estado de madurez de procesos (CMMI) para micro, pequeñas y medianas empresas (mipymes) en bogota, caso de estudio",
+    display="forero",
+    authors="Peña Forero, John Eduardo",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="pena2014propuesta",
+    local="Facultad de Ingeniería",
+    placex="",
+))
+
+freitas2014a = DB(WorkUnrelated(
+    2014, "An ontology for guiding performance testing",
+    display="freitas",
+    authors="Freitas, Artur and Vieira, Renata",
+    place=FAKE,
+    pp="400--407",
+    entrytype="inproceedings",
+    organization="IEEE Computer Society",
+    ID="freitas2014ontology",
+    cluster_id="11264529177933759581",
+    scholar="http://scholar.google.com/scholar?cites=11264529177933759581&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)-Volume 01",
 ))
 
 geffert2014a = DB(WorkUnrelated(
@@ -421,6 +458,18 @@ mesquida2014a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+miranda2014a = DB(WorkUnrelated(
+    2014, "Identifying improvement findings in IT SMEs through an ontological model for CMMI-DEV v1. 3",
+    display="miranda",
+    authors="Miranda, Jezreel Mejia and Muñoz, Mirna and Uribe, Guadalupe and Uribe, Edgar and Márquez, Jorge and Valtierra, Claudia",
+    place=FAKE,
+    pp="421--429",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="miranda2014identifying",
+    placex="New Perspectives in Information Systems and Technologies, Volume 1",
+))
+
 mireles2014a = DB(WorkUnrelated(
     2014, "A Process Framework for Managing Interactions between Sotware Quality Charateristics",
     display="mireles",
@@ -555,6 +604,17 @@ rosing2014a = DB(WorkUnrelated(
     publisher="Morgan Kaufmann Publishers Inc.",
     ID="rosing2014complete",
     gs2016="1",
+    placex="",
+))
+
+rothmaier2014a = DB(WorkUnrelated(
+    2014, "Analyse zur Eignung verschiedener Prozessmodellierungsnotationen zur Realisierung von iterativen Softwareprozessmodellen",
+    display="rothmaier",
+    authors="Rothmaier, David",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="rothmaier2014analyse",
+    local="Ulm University",
     placex="",
 ))
 

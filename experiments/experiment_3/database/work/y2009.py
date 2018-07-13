@@ -538,6 +538,16 @@ riel2009a = DB(WorkUnrelated(
     placex="Proceedings of the 19th CIRP Design Conference--Competitive Design",
 ))
 
+rodrigues2009a = DB(WorkUnrelated(
+    2009, "Fatores que dificultam a ado{ç}ão de um processo de teste",
+    display="rodrigues",
+    authors="Rodrigues, Andréia and Albuquerque, Adriano Bessa and Rogério, Plácido and Pinheiro, Diego Amorim and Christian, Thiago",
+    place=FAKE,
+    entrytype="article",
+    ID="rodriguesfatores",
+    placex="",
+))
+
 rodríguez2009a = DB(WorkUnrelated(
     2009, "Defining spem 2 process constraints with semantic rules using swrl",
     display="rodríguez",
@@ -583,6 +593,19 @@ shvaiko2009a = DB(WorkUnrelated(
     volume="5693 LNCS",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-70349326297&doi=10.1007%2f978-3-642-03516-6_28&partnerID=40&md5=e22cb74dc689dc39bd56175f3651716f",
     scopus2016_duplicate_removed="1",
+))
+
+srivastava2009a = DB(WorkUnrelated(
+    2009, "Multi-attribute Comparison of Automated Functional and Regression Testing Tools using Fuzzy AHP.",
+    display="srivastava",
+    authors="Srivastava, Praveen Ranjan and Ray, Mahesh Prasad",
+    place=FAKE,
+    pp="1030--1043",
+    entrytype="inproceedings",
+    ID="srivastava2009multi",
+    cluster_id="13722726897607982",
+    scholar="http://scholar.google.com/scholar?cites=13722726897607982&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IICAI",
 ))
 
 sumo2009a = DB(WorkUnrelated(

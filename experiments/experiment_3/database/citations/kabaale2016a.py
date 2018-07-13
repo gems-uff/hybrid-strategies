@@ -34,6 +34,8 @@ from ..work.y2014 import iso2014a
 from ..work.y2016 import kabaale2016a
 from ..work.y2016 import engineering2016a
 from ..work.y2016 import iso2016a
+from ..work.y2017 import tarhan2017a
+from ..work.y2017 import kabaale2017a
 
 DB(Citation(
     kabaale2016a, feiler1993a, ref="1.",
@@ -240,6 +242,20 @@ DB(Citation(
 
 DB(Citation(
     kabaale2016a, wang2006a, ref="30.",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    tarhan2017a, kabaale2016a, ref="30.",
+    contexts=[
+
+    ],
+))
+
+DB(Citation(
+    kabaale2017a, kabaale2016a, ref="30.",
     contexts=[
 
     ],

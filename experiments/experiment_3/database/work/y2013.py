@@ -169,6 +169,18 @@ chouseinoglou2013a = DB(WorkUnrelated(
     placex="Information and Software Technology",
 ))
 
+dévora2013a = DB(WorkUnrelated(
+    2013, "Identificando Hallazgos de Mejora en Pymes de TI Utilizando un Modelo Ontológico para CMMI-DEV v1. 3",
+    display="dévora",
+    authors="Uribe Dévora, J Guadalupe and Uribe Rayas, Edgar Felipe and Márquez del Real, Jorge Alexis and Valtierra Alvarado, Claudia",
+    place=FAKE,
+    entrytype="article",
+    number="3",
+    publisher="Universidad de Guadalajara",
+    ID="uribe2013identificando",
+    placex="ReCIBE. Revista electrónica de Computación, Informática Biomédica y Electrónica",
+))
+
 eito2013a = DB(WorkUnrelated(
     2013, "Comparing SPICE for space (S4S) and CMMI-DEV: identifying sources of risk from improvement models",
     display="eito",
@@ -506,6 +518,33 @@ ruiz2013a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+))
+
+souza2013a = DB(WorkUnrelated(
+    2013, "Using ontology patterns for building a reference software testing ontology",
+    display="souza",
+    authors="Souza, EF and Falbo, RA and Vijaykumar, Nandamudi L",
+    place=FAKE,
+    pp="21--30",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="souza2013using",
+    cluster_id="15266126754048241651",
+    scholar="http://scholar.google.com/scholar?cites=15266126754048241651&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Enterprise Distributed Object Computing Conference Workshops (EDOCW), 2013 17th IEEE International",
+))
+
+souza2013b = DB(WorkUnrelated(
+    2013, "Ontologies in software testing: a systematic",
+    display="souza b",
+    authors="Souza, Érica F and Falbo, Ricardo A and Vijaykumar, NL",
+    place=FAKE,
+    pp="71",
+    entrytype="inproceedings",
+    ID="souza2013ontologies",
+    cluster_id="7845582957003794355",
+    scholar="http://scholar.google.com/scholar?cites=7845582957003794355&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="VI Seminar on Ontology Research in Brazil",
 ))
 
 stallinger2013a = DB(WorkUnrelated(
