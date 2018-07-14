@@ -44,6 +44,16 @@ ali2014b = DB(WorkUnrelated(
     placex="Faculty of Engineering and Physical Sciences",
 ))
 
+aoussat2014a = DB(WorkUnrelated(
+    2014, "A Domain Ontology for Software Process Architecture",
+    display="aoussat",
+    authors="Aoussat, Fadila and Oussalah, Mourad Chabane and Ahmed-Nacer, Mohamed",
+    place=FAKE,
+    entrytype="article",
+    ID="aoussatdomain",
+    placex="",
+))
+
 araujo2014a = DB(WorkUnrelated(
     2014, "Mapeamento do MPS. SW com os modelos MPT. BR e CERTICS",
     display="araujo",
@@ -169,6 +179,26 @@ cholez2014a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+colomo2014a = DB(WorkUnrelated(
+    2014, "Social Global Repository: Software Project Knowledge Management using Semantic Annotation and Social Web",
+    display="colomo",
+    authors="Colomo-Palacios, Ricardo and Gómez-Berbís, Juan Miguel and García-Crespo, Ángel and Puebla-Sánchez, Inmaculada",
+    place=FAKE,
+    entrytype="article",
+    ID="colomosocial",
+    placex="",
+))
+
+damjanovic2014a = DB(WorkUnrelated(
+    2014, "Business Intelligence Seeker-User Agent",
+    display="damjanovic",
+    authors="Damjanovic, Violeta",
+    place=FAKE,
+    entrytype="article",
+    ID="damjanovicbusiness",
+    placex="",
+))
+
 dewitte2014a = DB(WorkUnrelated(
     2014, "Development and Reuse of Engineering Automation",
     display="dewitte",
@@ -291,6 +321,22 @@ geffert2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+grzybek2014a = DB(WorkUnrelated(
+    2014, "Considering the feasibility of semantic model design in the built-environment",
+    display="grzybek",
+    authors="Grzybek, Hubert and Xu, Shen and Gulliver, Stephen and Fillingham, Victoria",
+    place=FAKE,
+    pp="849--879",
+    entrytype="article",
+    volume="4",
+    number="4",
+    publisher="Multidisciplinary Digital Publishing Institute",
+    ID="grzybek2014considering",
+    cluster_id="15625021187911031479",
+    scholar="http://scholar.google.com/scholar?cites=15625021187911031479&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Buildings",
+))
+
 henderson2014a = DB(WorkUnrelated(
     2014, "An ontology for ISO software engineering standards: 1) Creating the infrastructure",
     display="henderson",
@@ -363,6 +409,22 @@ henderson2014e = DB(WorkUnrelated(
     placex="Situational Method Engineering",
 ))
 
+huang2014a = DB(WorkUnrelated(
+    2014, "IT2FS-based ontology with soft-computing mechanism for malware behavior analysis",
+    display="huang",
+    authors="Huang, Hsien-De and Lee, Chang-Shing and Wang, Mei-Hui and Kao, Hung-Yu",
+    place=FAKE,
+    pp="267--284",
+    entrytype="article",
+    volume="18",
+    number="2",
+    publisher="Springer",
+    ID="huang2014it2fs",
+    cluster_id="9032091689475006471",
+    scholar="http://scholar.google.com/scholar?cites=9032091689475006471&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Soft Computing",
+))
+
 iso2014a = DB(WorkUnrelated(
     2014, "ISO/IEC IEEE 12207 CD1 - revision of 12207:2008 Systems and software engineering Software life cycle processes",
     display="iso",
@@ -397,6 +459,31 @@ kroeger2014a = DB(WorkUnrelated(
     gs2016="1",
     placex="Information and Software Technology",
     sciencedirect2016="1",
+))
+
+lang2014a = DB(WorkUnrelated(
+    2014, "Lang",
+    display="lang",
+    authors="lang",
+    place=FAKE,
+    entrytype="article",
+    number="2 (193)",
+    publisher="",
+    ID="lang2014a",
+    placex="",
+))
+
+li2014a = DB(WorkUnrelated(
+    2014, "Air Materiel Supply Intelligent Collaborative Decision-making Mode Based on Ontology and Multi-Agent",
+    display="li",
+    authors="Li, Xiong and Liu, Chang-xin and Bing, Fang and Li, Xiongyi",
+    place=FAKE,
+    pp="170--182",
+    entrytype="article",
+    volume="14",
+    number="2",
+    ID="li2014air",
+    placex="Advances in Systems Science and Applications",
 ))
 
 mata2014a = DB(WorkUnrelated(
@@ -541,6 +628,33 @@ oconnor2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+pardo2014a = DB(WorkUnrelated(
+    2014, "A reference ontology for harmonizing process-reference models",
+    display="pardo",
+    authors="Pardo-Calvache, César Jesús and García-Rubio, Félix Oscar and Piattini-Velthuis, Mario and Pino-Correa, Francisco José and Baldassarre, María Teresa",
+    place=FAKE,
+    pp="29--42",
+    entrytype="article",
+    number="73",
+    publisher="Universidad de Antioquia",
+    ID="pardo2014reference",
+    cluster_id="8968056758844660381",
+    scholar="http://scholar.google.com/scholar?cites=8968056758844660381&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Revista Facultad de Ingeniería Universidad de Antioquia",
+))
+
+pardo2014ab = DB(WorkUnrelated(
+    2014, "A reference ontology for harmonizing process-reference models Una ontología de referencia para la armonización de modelos de referencia de procesos",
+    display="pardo",
+    authors="Pardo-Calvache, César Jesús and García-Rubio, Félix Oscar and Piattini-Velthuis, Mario and Pino-Correa, Francisco José and Baldassarre, María Teresa",
+    place=FAKE,
+    entrytype="article",
+    ID="pardoreference",
+    cluster_id="8155878680096464202",
+    scholar="http://scholar.google.com/scholar?cites=8155878680096464202&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 peldzius2014a = DB(WorkUnrelated(
     2014, "Tool for Usage of Multiple Process Assessment Models",
     display="peldzius",
@@ -651,6 +765,30 @@ stallinger2014b = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+teixeira2014a = DB(WorkUnrelated(
+    2014, "Desenvolvimento de um módulo de web semântica para um sistema de suporte à inspe{ç}ão de software",
+    display="teixeira",
+    authors="Teixeira, Helison Réus",
+    place=FAKE,
+    entrytype="article",
+    publisher="Universidade Federal do Pampa",
+    ID="teixeira2014desenvolvimento",
+    placex="",
+))
+
+xua2014a = DB(WorkUnrelated(
+    2014, "Module Extraction for Efficient Object Query over Ontologies with Large ABoxes",
+    display="xua",
+    authors="Xua, Jia and Shironoshitaa, Patrick and Visserb, Ubbo and Johna, Nigel and Kabukaa, Mansur",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="xua2014module",
+    cluster_id="7661077791684493144",
+    scholar="http://scholar.google.com/scholar?cites=7661077791684493144&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
 yoshidome2014a = DB(WorkUnrelated(
     2014, "Uma Ontologia que Estabelece os Relacionamentos de Dependência entre as Práticas de Gerência de Projetos constantes nos modelos CMMI-DEV e MR-MPS-SW",
     display="yoshidome",
@@ -660,5 +798,15 @@ yoshidome2014a = DB(WorkUnrelated(
     publisher="SBQS",
     ID="yoshidome2014ontologia",
     gs2016="1",
+    placex="",
+))
+
+yoshidome2014b = DB(WorkUnrelated(
+    2014, "UMA ONTOLOGIA QUE ESTABELECE OS RELACIONAMENTOS DE DEPENDÊNCIA ENTRE AS PRÁTICAS DE GERÊNCIA DE REQUISITOS E GERÊNCIA DE PROJETOS CONSTANTES NOS MODELOS MR-MPS-SW E CMMI-DEV",
+    display="yoshidome2014b",
+    authors="Yoshidome, Ewelton Yoshio Chiba",
+    place=FAKE,
+    entrytype="article",
+    ID="yoshidome2014b",
     placex="",
 ))

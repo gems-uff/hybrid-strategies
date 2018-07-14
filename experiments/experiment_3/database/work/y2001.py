@@ -133,6 +133,16 @@ niessink2001a = DB(WorkUnrelated(
     placex="Software Maintenance, 2001. Proceedings. IEEE International Conference on",
 ))
 
+ratnaraj2001a = DB(WorkUnrelated(
+    2001, "A Fuzzy based Framework for Compliance Assessments",
+    display="ratnaraj",
+    authors="RATNARAJ, JOSEPH",
+    place=FAKE,
+    entrytype="article",
+    ID="ratnarajfuzzy",
+    placex="",
+))
+
 w32001a = DB(WorkUnrelated(
     2001, "BestPractices/SE/ODA",
     display="w3",

@@ -33,6 +33,20 @@ andrade2008a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+andrade2008b = DB(WorkUnrelated(
+    2008, "A knowledge-based system for CMM evaluation",
+    display="andrade b",
+    authors="Andrade, Javier and Ares, Juan and García, Rafael and Rodríguez, Santiago and Seoane, María and Suárez, Sonia",
+    place=FAKE,
+    pp="183--191",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="andrade2008knowledge",
+    cluster_id="7028486373640493935",
+    scholar="http://scholar.google.com/scholar?cites=7028486373640493935&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="New Challenges in Applied Intelligence Technologies",
+))
+
 assistant2008a = DB(WorkUnrelated(
     2008, "Griffith University",
     display="assistant",
@@ -180,6 +194,46 @@ cmmi2008a = DB(WorkUnrelated(
     placex="",
 ))
 
+colomo2008a = DB(WorkUnrelated(
+    2008, "Social Global Repository: using semantics and social web in software projects",
+    display="colomo",
+    authors="Colomo-Palacios, Ricardo and Gomez-Berbis, Juan Miguel and Garcia-Crespo, Angel and Puebla-Sanchez, Inmaculada",
+    place=FAKE,
+    pp="452--464",
+    entrytype="article",
+    volume="4",
+    number="5",
+    publisher="Inderscience Publishers",
+    ID="colomo2008social",
+    placex="International Journal of Knowledge and Learning",
+    cluster_id="12593983614751690232",
+    scholar="http://scholar.google.com/scholar?cites=12593983614751690232&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+colomo2008ab = DB(WorkUnrelated(
+    2008, "Social Global Repository: Software Project Knowledge Management using Semantic Annotation and Social Web",
+    display="colomo",
+    authors="Colomo-Palacios, Ricardo and Gómez-Berbís, Juan Miguel and García-Crespo, Ángel and Puebla-Sánchez, Inmaculada",
+    place=FAKE,
+    entrytype="article",
+    ID="colomosocial",
+    placex="",
+))
+
+colomo2008b = DB(WorkUnrelated(
+    2008, "Software engineering 2.0: a social global repository based on semantic annotation and social web for knowledge management",
+    display="colomo b",
+    authors="Colomo-Palacios, Ricardo and Gómez-Berbís, Juan Miguel and García-Crespo, Ángel and Puebla-Sánchez, Inmaculada",
+    place=FAKE,
+    pp="468--475",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="colomo2008software",
+    placex="World Summit on Knowledge Society",
+    cluster_id="16677440282761574479",
+    scholar="http://scholar.google.com/scholar?cites=16677440282761574479&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 consultants2008a = DB(WorkUnrelated(
     2008, "CMMiPal 1.0",
     display="consultants",
@@ -187,6 +241,20 @@ consultants2008a = DB(WorkUnrelated(
     place=FAKE,
     other1="http://www.softpedia.com/get/Others/Finances-Business/CMMiPal.shtml",
     placex="CMMiPal Description,",
+))
+
+cristani2008a = DB(WorkUnrelated(
+    2008, "Ontology-driven approximate duplicate elimination of postal addresses",
+    display="cristani",
+    authors="Cristani, Matteo and Gugole, Alessio",
+    place=FAKE,
+    pp="415--424",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cristani2008ontology",
+    cluster_id="11745237451073076785",
+    scholar="http://scholar.google.com/scholar?cites=11745237451073076785&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
 ))
 
 cuadrado2008a = DB(WorkUnrelated(
@@ -323,6 +391,30 @@ horák2008a = DB(WorkUnrelated(
     authors="T. Frydrych O. Kohut M. KosAsinár P. Sojka A. Horák",
     place=FAKE,
     placex="in RASLAN 2008 Brno:MasarykUniversity",
+))
+
+hyland2008a = DB(WorkUnrelated(
+    2008, "Towards a software maintenance methodology using Semantic Web techniques and paradigmatic documentation modelling",
+    display="hyland",
+    authors="Hyland-Wood, David and Carrington, David and Kaplan, Simon",
+    place=IEEES,
+    pp="337--347",
+    entrytype="article",
+    volume="2",
+    number="4",
+    publisher="IET",
+    ID="hyland2008towards",
+    placex="IET software",
+))
+
+hyland2008b = DB(WorkUnrelated(
+    2008, "Metadata foundations for the life cycle management of software systems",
+    display="hyland b",
+    authors="Hyland-Wood, David",
+    place=FAKE,
+    entrytype="article",
+    ID="hyland2008metadata",
+    placex="",
 ))
 
 institute2008a = DB(WorkUnrelated(
@@ -483,6 +575,40 @@ lee2008c = DB(WorkUnrelated(
     authors="C.-S. Lee, M.-H. Wanga, Z.-R. Yana, C.-F. Lob, H.-H. Chuangb and Y.-C. Linb,",
     place=FAKE,
     placex="Proceeding of the 2008 IEEE International Conference on Systems, Man and Cybernetics",
+    pp="228--233",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2008intelligent",
+    cluster_id="8488834033557915846",
+    scholar="http://scholar.google.com/scholar?cites=8488834033557915846&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+lee2008d = DB(WorkUnrelated(
+    2008, "Intelligent ontological agent for diabetic food recommendation",
+    display="lee d",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Li, Huan-Chung and Chen, Wen-Hui",
+    place=FAKE,
+    pp="1803--1810",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2008intelligent",
+    cluster_id="15694235008800235854",
+    scholar="http://scholar.google.com/scholar?cites=15694235008800235854&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems, 2008. FUZZ-IEEE 2008.(IEEE World Congress on Computational Intelligence). IEEE International Conference on",
+))
+
+lee2008e = DB(WorkUnrelated(
+    2008, "Intelligent healthcare agent for food recommendation at Tainan City",
+    display="lee e",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Sun, Wei-Chun and Chang, Young-Chung",
+    place=FAKE,
+    pp="1465--1470",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2008intelligent",
+    cluster_id="3683644630644321396",
+    scholar="http://scholar.google.com/scholar?cites=3683644630644321396&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on",
 ))
 
 li2008a = DB(WorkUnrelated(
@@ -555,6 +681,31 @@ moro2008a = DB(WorkUnrelated(
     ID="dal2008ontologia",
     gs2016="1",
     placex="III Workshop on Ontologies and Metamodeling Software and Data Engineering, XXII Simpósio Brasileiro de Engenharia de Software--SBES",
+))
+
+nasir2008a = DB(WorkUnrelated(
+    2008, "An empirical study of barriers in the implementation of software process improvement project in Malaysia",
+    display="nasir",
+    authors="Nasir, MHNM and Ahmad, R and Hassan, NH",
+    place=FAKE,
+    pp="4362--4368",
+    entrytype="article",
+    volume="8",
+    number="23",
+    ID="nasir2008empirical",
+    cluster_id="16037734390032403275",
+    scholar="http://scholar.google.com/scholar?cites=16037734390032403275&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Applied Sciences",
+))
+
+nielsen2008a = DB(WorkUnrelated(
+    2008, "Project title: Knowledge in a Wiki",
+    display="nielsen",
+    authors="Nielsen, Peter Axel and Dolog, Peter and Blumauer, Reviewers Andreas and Smrz, Pavel",
+    place=FAKE,
+    entrytype="article",
+    ID="nielsenproject",
+    placex="",
 ))
 
 omg2008a = DB(WorkUnrelated(
@@ -632,6 +783,44 @@ rifaut2008b = DB(WorkUnrelated(
     ID="rifaut2008iso",
     gs2016="1",
     placex="Proc. Conf. SPICE",
+))
+
+rilling2008a = DB(WorkUnrelated(
+    2008, "Beyond information silos—an omnipresent approach to software evolution",
+    display="rilling",
+    authors="Rilling, Juergen and Witte, René and Schuegerl, Philipp and Charland, Philippe",
+    place=FAKE,
+    pp="431--468",
+    entrytype="article",
+    volume="2",
+    number="04",
+    publisher="World Scientific",
+    ID="rilling2008beyond",
+    placex="International Journal of Semantic Computing",
+))
+
+rilling2008b = DB(WorkUnrelated(
+    2008, "Story-driven approach to software evolution",
+    display="rilling b",
+    authors="Rilling, Juergen and Meng, Wen Jun and Witte, René and Charland, Philippe",
+    place=IEEES,
+    pp="304--320",
+    entrytype="article",
+    volume="2",
+    number="4",
+    publisher="IET",
+    ID="rilling2008story",
+    placex="IET software",
+))
+
+rilling2008c = DB(WorkUnrelated(
+    2008, "Component Substitution Process Model",
+    display="rilling c",
+    authors="Rilling, J",
+    place=FAKE,
+    entrytype="article",
+    ID="rilling2008component",
+    placex="",
 ))
 
 rose2008a = DB(WorkUnrelated(
@@ -729,6 +918,20 @@ sharifloo2008a = DB(WorkUnrelated(
     placex="3rd International Conference on Information and Communication Technologies: From Theory to Applications (ICTTA), April",
 ))
 
+sharifloo2008b = DB(WorkUnrelated(
+    2008, "An ontology for cmmi-acq model",
+    display="sharifloo b",
+    authors="Sharifloo, Amir Azim and Shamsfard, Mehrnoush and Motazedi, Yasaman and Dehkharghani, Rahim",
+    place=FAKE,
+    pp="1--6",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="sharifloo2008ontology",
+    placex="Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on",
+    cluster_id="3433542082699857601",
+    scholar="http://scholar.google.com/scholar?cites=3433542082699857601&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
 soto2008a = DB(WorkUnrelated(
     2008, "Using model comparison to maintain model-to-standard compliance",
     display="soto",
@@ -781,6 +984,36 @@ wang2008a = DB(WorkUnrelated(
     authors="M.-H. Wang, C.-S. Lee, Z.-R. Yan, H.-H. Chuang, C.-F. Lo and Y.-C. Lin",
     place=FAKE,
     placex="Journal of Internet Technology, Vol. 9, No. 4, , pp. 317-325.",
+))
+
+wang2008b = DB(WorkUnrelated(
+    2008, "An intelligent ppqa web services for cmmi assessment",
+    display="wang b",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing",
+    place=FAKE,
+    pp="229--234",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2008intelligent",
+    cluster_id="4763469328418345782",
+    scholar="http://scholar.google.com/scholar?cites=4763469328418345782&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Eighth International Conference on Intelligent Systems Design and Applications",
+))
+
+wang2008c = DB(WorkUnrelated(
+    2008, "A novel fuzzy CMMI ontology and its application to project estimation",
+    display="wang c",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing and Yan, Zhi-Rong and Chuang, Hao-Han and Lo, Chi-Fang and Lin, Yi-Chen",
+    place=FAKE,
+    pp="323--331",
+    entrytype="article",
+    volume="9",
+    number="4",
+    publisher="臺灣學術網路管理委員會 & Airiti Press",
+    ID="wang2008novel",
+    cluster_id="3398708781331755220",
+    scholar="http://scholar.google.com/scholar?cites=3398708781331755220&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="網際網路技術學刊",
 ))
 
 wikipedia2008a = DB(WorkUnrelated(

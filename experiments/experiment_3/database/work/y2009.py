@@ -3,6 +3,27 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aau2009a = DB(WorkUnrelated(
+    2009, "Project title: Knowledge in a Wiki",
+    display="aau",
+    authors="AAU, Karsten Jahn and AAU, Peter Axel Nielsen and AAU, Andreas Munk-Madsen and Pedersen, Keld and AAU, Logica",
+    place=FAKE,
+    entrytype="article",
+    ID="aauproject",
+    placex="",
+))
+
+ahmad2009a = DB(WorkUnrelated(
+    2009, "Towards an Ontology for Requirements Engineering Process in E-Government Applications",
+    display="ahmad",
+    authors="Ahmad, Mohammad Nizar",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ahmad2009towards",
+    local="Fahad Bin Sultan University",
+    placex="",
+))
+
 april2009a = DB(WorkUnrelated(
     2009, "An overview of software engineering process and its improvement",
     display="april",
@@ -28,6 +49,22 @@ armbrust2009a = DB(WorkUnrelated(
     ID="armbrust2009verfolgbarkeit",
     gs2016="1",
     placex="GI Jahrestagung",
+))
+
+bajo2009a = DB(WorkUnrelated(
+    2009, "SHOMAS: Intelligent guidance and suggestions in shopping centres",
+    display="bajo",
+    authors="Bajo, Javier and Corchado, Juan M and De Paz, Yanira and De Paz, Juan F and Rodríguez, Sara and Martín, Quintín and Abraham, Ajith",
+    place=FAKE,
+    pp="851--862",
+    entrytype="article",
+    volume="9",
+    number="2",
+    publisher="Elsevier",
+    ID="bajo2009shomas",
+    cluster_id="13552171455086929315",
+    scholar="http://scholar.google.com/scholar?cites=13552171455086929315&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Soft Computing",
 ))
 
 barcellos2009a = DB(WorkUnrelated(
@@ -135,6 +172,20 @@ casteleyn2009b = DB(WorkUnrelated(
     placex="",
 ))
 
+chang2009a = DB(WorkUnrelated(
+    2009, "Ontology-based intelligent web mining agent for Taiwan travel",
+    display="chang",
+    authors="Chang, Yung-Chun and Yang, Pei-Ching and Chiang, Jung-Hsien",
+    place=FAKE,
+    pp="421--424",
+    entrytype="inproceedings",
+    organization="IEEE Computer Society",
+    ID="chang2009ontology",
+    cluster_id="11789664238787743099",
+    scholar="http://scholar.google.com/scholar?cites=11789664238787743099&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology-Volume 03",
+))
+
 cheng2009a = DB(WorkUnrelated(
     2009, "Towards an Evaluation Framework for Software Process Improvement",
     display="cheng",
@@ -144,6 +195,20 @@ cheng2009a = DB(WorkUnrelated(
     ID="cheng2009towards",
     gs2016="1",
     placex="",
+))
+
+cheng2009b = DB(WorkUnrelated(
+    2009, "A fuzzy quantitative integrated metric model for cmmi appraisal",
+    display="cheng b",
+    authors="Cheng, Ching-Hsue and Chang, Jing-Rong and Kuo, Chen-Yi and Liao, Shu-Ying",
+    place=FAKE,
+    pp="219--226",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cheng2009fuzzy",
+    cluster_id="9882914269998046023",
+    scholar="http://scholar.google.com/scholar?cites=9882914269998046023&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Hybrid Artificial Intelligence Systems",
 ))
 
 chroust2009a = DB(WorkUnrelated(
@@ -244,6 +309,20 @@ epf2009a = DB(WorkUnrelated(
     placex="http://www.eclipse.org/epf/",
 ))
 
+fadila2009a = DB(WorkUnrelated(
+    2009, "Reusing heterogeneous software process models",
+    display="fadila",
+    authors="Fadila, Aoussat and Mohamed, Ahmed Nacer",
+    place=FAKE,
+    pp="291--294",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="fadila2009reusing",
+    cluster_id="5790307187200934112",
+    scholar="http://scholar.google.com/scholar?cites=5790307187200934112&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computers and Communications, 2009. ISCC 2009. IEEE Symposium on",
+))
+
 falbo2009a = DB(WorkUnrelated(
     2009, "A software process ontology as a common vocabulary about software processes",
     display="falbo",
@@ -317,6 +396,22 @@ hussami2009a = DB(WorkUnrelated(
     ID="hussami2009decision",
     gs2016="1",
     placex="CAISE-DC'09 Proceedings",
+))
+
+japan2009a = DB(WorkUnrelated(
+    2009, "應用人工智慧建構法規制定決策支援系統-以某大學教育行政法規制定為例",
+    display="蘇國瑋",
+    authors="蘇國瑋 and 許蒞彥 and 吳旻霙 and 黃博信 and others",
+    place=FAKE,
+    pp="111--141",
+    entrytype="article",
+    volume="16",
+    number="3",
+    publisher="中華民國資訊管理學會",
+    ID="蘇國瑋2009應用人工智慧建構法規制定決策支援系統",
+    cluster_id="13237646109164755345",
+    scholar="http://scholar.google.com/scholar?cites=13237646109164755345&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="資訊管理學報",
 ))
 
 kang2009a = DB(WorkUnrelated(
@@ -461,6 +556,52 @@ lee2009c = DB(WorkUnrelated(
     placex="International Conference on Advanced Communication Technology",
 ))
 
+lee2009d = DB(WorkUnrelated(
+    2009, "The computational intelligence of MoGo revealed in Taiwan's computer Go tournaments",
+    display="lee d",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Chaslot, Guillaume and Hoock, Jean-Baptiste and Rimmel, Arpad and Teytaud, Olivier and Tsai, Shang-Rong and Hsu, Shun-Chin and Hong, Tzung-Pei",
+    place=FAKE,
+    pp="73--89",
+    entrytype="article",
+    volume="1",
+    number="1",
+    publisher="IEEE",
+    ID="lee2009computational",
+    cluster_id="15252685824197353783",
+    scholar="http://scholar.google.com/scholar?cites=15252685824197353783&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Computational Intelligence and AI in games",
+))
+
+lee2009e = DB(WorkUnrelated(
+    2009, "A novel ontology for computer Go knowledge management",
+    display="lee e",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Hong, Tzung-Pei and Chaslot, Guillaume and Hoock, Jean-Baptiste and Rimmel, Arpad and Teytaud, Olivier and Kuo, Yau-Hwang",
+    place=FAKE,
+    pp="1056--1061",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2009novel",
+    cluster_id="13560193369407801435",
+    scholar="http://scholar.google.com/scholar?cites=13560193369407801435&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems, 2009. FUZZ-IEEE 2009. IEEE International Conference on",
+))
+
+lee2009f = DB(WorkUnrelated(
+    2009, "Ontological recommendation multi-agent for Tainan City travel",
+    display="lee f",
+    authors="Lee, Chang-Shing and Chang, Young-Chung and Wang, Mei-Hui",
+    place=FAKE,
+    pp="6740--6753",
+    entrytype="article",
+    volume="36",
+    number="3",
+    publisher="Elsevier",
+    ID="lee2009ontological",
+    cluster_id="16758854360124124343",
+    scholar="http://scholar.google.com/scholar?cites=16758854360124124343&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Expert Systems with Applications",
+))
+
 lincke2009a = DB(WorkUnrelated(
     2009, "Validation of a standard-and metric-based software quality model",
     display="lincke",
@@ -518,6 +659,36 @@ oh2009a = DB(WorkUnrelated(
     placex="Model-Driven Software Development: Integrating Quality Assurance",
 ))
 
+ping2009a = DB(WorkUnrelated(
+    2009, "Building place name ontology to assist in geographic information retrieval",
+    display="ping",
+    authors="Ping, Du and Yong, Liu",
+    place=FAKE,
+    pp="306--309",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ping2009building",
+    cluster_id="17335806157245825180",
+    scholar="http://scholar.google.com/scholar?cites=17335806157245825180&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="2009 International Forum on Computer Science-Technology and Applications",
+))
+
+plaza2009a = DB(WorkUnrelated(
+    2009, "A model-based DSS for integrating the impact of learning in project control",
+    display="plaza",
+    authors="Plaza, Malgorzata and Turetken, Ozgur",
+    place=FAKE,
+    pp="488--499",
+    entrytype="article",
+    volume="47",
+    number="4",
+    publisher="Elsevier",
+    ID="plaza2009model",
+    cluster_id="7774315375330896275",
+    scholar="http://scholar.google.com/scholar?cites=7774315375330896275&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Decision Support Systems",
+))
+
 protégé2009a = DB(WorkUnrelated(
     2009, "Protégé-OWL Ontology Editor Version : 3.3.1",
     display="protégé",
@@ -560,6 +731,18 @@ rodríguez2009a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=6294738835291260114&as_sdt=2005&sciodt=0,5&hl=en",
     gs2016="1",
     placex="Proceedings of ONTOSE",
+))
+
+schugerl2009a = DB(WorkUnrelated(
+    2009, "A quality perspective of software evolvability using semantic analysis",
+    display="schugerl",
+    authors="Schugerl, Philipp and Rilling, Juergen and Witte, René and Charland, Philippe",
+    place=FAKE,
+    pp="420--427",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="schugerl2009quality",
+    placex="2009 IEEE International Conference on Semantic Computing",
 ))
 
 seigerroth2009a = DB(WorkUnrelated(
@@ -636,6 +819,19 @@ team2009a = DB(WorkUnrelated(
     placex="CMU/SEI CMMI-SVC V1.2, CMU/SEI-2009-TR001,",
 ))
 
+teuteberg2009a = DB(WorkUnrelated(
+    2009, "Semantic Benchmarking of Process Models-An Ontology-Based Approach",
+    display="teuteberg",
+    authors="Teuteberg, Frank and Kluth, Martin and Smolnik, Stefan and Ahlemann, Frederik",
+    place=FAKE,
+    pp="89",
+    entrytype="article",
+    ID="teuteberg2009semantic",
+    cluster_id="8053286025892286771",
+    scholar="http://scholar.google.com/scholar?cites=8053286025892286771&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ICIS 2009 Proceedings",
+))
+
 tuffley2009a = DB(WorkUnrelated(
     2009, "Applying Design Research in Software Engineering to Develop a Process Reference Model",
     display="tuffley",
@@ -696,4 +892,32 @@ yard2009a = DB(WorkUnrelated(
     ID="washington2009software",
     gs2016="1",
     placex="Mar",
+))
+
+ying2009a = DB(WorkUnrelated(
+    2009, "Software Artifacts Management Based on Dataspace",
+    display="ying",
+    authors="Ying, Pan and Yong, Tang and Xiaoping, Ye",
+    place=ICSE,
+    pp="214--217",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ying2009software",
+    placex="2009 WASE International Conference on Information Engineering",
+))
+
+zhao2009a = DB(WorkUnrelated(
+    2009, "Ontology classification for semantic-web-based software engineering",
+    display="zhao",
+    authors="Zhao, Yajing and Dong, Jing and Peng, Tu",
+    place=FAKE,
+    pp="303--317",
+    entrytype="article",
+    volume="2",
+    number="4",
+    publisher="IEEE",
+    ID="zhao2009ontology",
+    cluster_id="13508885251814813078",
+    scholar="http://scholar.google.com/scholar?cites=13508885251814813078&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Services Computing",
 ))

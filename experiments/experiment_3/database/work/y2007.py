@@ -83,6 +83,17 @@ chau2007a = DB(WorkUnrelated(
     placex="Advances in Engineering Software",
 ))
 
+chen2007a = DB(WorkUnrelated(
+    2007, "IT capabilities development for efficient services provision",
+    display="chen",
+    authors="Chen, Chun-Feng Jessica",
+    place=FAKE,
+    entrytype="article",
+    publisher="Cranfield University",
+    ID="chen2007capabilities",
+    placex="",
+))
+
 chrissis2007a = DB(WorkUnrelated(
     2007, "CMMI:Guidelines for Process Integration and Product Improvement",
     display="chrissis",
@@ -253,6 +264,18 @@ iso2007a = DB(WorkUnrelated(
     placex="",
 ))
 
+japan2007a = DB(WorkUnrelated(
+    2007, "以多重觀點本體論驅策之系統發展方法",
+    display="張景堯",
+    authors="張景堯",
+    place=FAKE,
+    pp="1--81",
+    entrytype="article",
+    publisher="政治大學",
+    ID="張景堯2007以多重觀點本體論驅策之系統發展方法",
+    placex="政治大學資訊管理研究所學位論文",
+))
+
 jiang2007a = DB(WorkUnrelated(
     2007, "CASDE: An Environment for Collaborative Software Development",
     display="jiang",
@@ -370,6 +393,10 @@ lee2007ab = DB(WorkUnrelated(
     authors="C.-S. Lee, Y.-C. Wang, W.-M. Liu and Y.-C. Lin,",
     place=FAKE,
     placex="Proceedings of the 6th International Conference on Machine Learning and Cybernetics",
+    entrytype="article",
+    ID="lee2007crm",
+    cluster_id="2472348907551542906",
+    scholar="http://scholar.google.com/scholar?cites=2472348907551542906&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 lee2007b = DB(WorkUnrelated(
@@ -395,6 +422,19 @@ lee2007c = DB(WorkUnrelated(
     other1="pp. 203-219. doi:10.1007/s10489-007-0071-1",
 ))
 
+lee2007d = DB(WorkUnrelated(
+    2007, "Recent Research on Ontology Applications",
+    display="lee d",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui",
+    place=FAKE,
+    pp="47--50",
+    entrytype="article",
+    ID="lee2007recent",
+    cluster_id="306918260915901926",
+    scholar="http://scholar.google.com/scholar?cites=306918260915901926&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="한국지능시스템학회 국제학술대회 발표논문집",
+))
+
 leung2007a = DB(WorkUnrelated(
     2007, "Automated support of software quality improvement",
     display="leung",
@@ -411,6 +451,31 @@ leung2007a = DB(WorkUnrelated(
     gs2016="1",
     placex="International Journal of Quality & Reliability Management",
     other1="24:(3):230-243",
+))
+
+liu2007a = DB(WorkUnrelated(
+    2007, "Semantic matching of ontology instances",
+    display="liu",
+    authors="Liu, Miao and Guo, He-Qing and Su, Jin-Dian",
+    place=FAKE,
+    pp="2959--2963",
+    entrytype="inproceedings",
+    volume="5",
+    organization="IEEE",
+    ID="liu2007semantic",
+    cluster_id="7022754799046332706",
+    scholar="http://scholar.google.com/scholar?cites=7022754799046332706&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Machine Learning and Cybernetics, 2007 International Conference on",
+))
+
+liu2007ab = DB(WorkUnrelated(
+    2007, "A Framework of Ontology-supported Knowledge Representation in Software Process",
+    display="liu",
+    authors="Liu, Jianying He Haihua Yan Chao and Jin, Maozhong",
+    place=FAKE,
+    entrytype="article",
+    ID="liuframework",
+    placex="",
 ))
 
 loconsole2007a = DB(WorkUnrelated(

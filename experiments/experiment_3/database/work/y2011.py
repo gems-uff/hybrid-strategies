@@ -3,6 +3,52 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acampora2011a = DB(WorkUnrelated(
+    2011, "Hierarchical optimization of personalized experiences for e-Learning systems through evolutionary models",
+    display="acampora",
+    authors="Acampora, Giovanni and Gaeta, Matteo and Loia, Vincenzo",
+    place=FAKE,
+    pp="641--657",
+    entrytype="article",
+    volume="20",
+    number="5",
+    publisher="Springer",
+    ID="acampora2011hierarchical",
+    cluster_id="17574565669687468922",
+    scholar="http://scholar.google.com/scholar?cites=17574565669687468922&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Neural Computing and Applications",
+))
+
+acampora2011b = DB(WorkUnrelated(
+    2011, "Combining multi-agent paradigm and memetic computing for personalized and adaptive learning experiences",
+    display="acampora b",
+    authors="Acampora, Giovanni and Gaeta, Matteo and Loia, Vincenzo",
+    place=FAKE,
+    pp="141--165",
+    entrytype="article",
+    volume="27",
+    number="2",
+    publisher="Wiley Online Library",
+    ID="acampora2011combining",
+    cluster_id="2576671662958526148",
+    scholar="http://scholar.google.com/scholar?cites=2576671662958526148&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computational Intelligence",
+))
+
+al2011a = DB(WorkUnrelated(
+    2011, "Ontbot: Ontology based chatbot",
+    display="al",
+    authors="Al-Zubaide, Hadeel and Issa, Ayman A",
+    place=FAKE,
+    pp="7--12",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="al2011ontbot",
+    cluster_id="15289076355529015466",
+    scholar="http://scholar.google.com/scholar?cites=15289076355529015466&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Innovation in Information & Communication Technology (ISIICT), 2011 Fourth International Symposium on",
+))
+
 alfaraj2011a = DB(WorkUnrelated(
     2011, "Operationalising CMMI: integrating CMMI and CoBIT perspective",
     display="alfaraj",
@@ -16,6 +62,8 @@ alfaraj2011a = DB(WorkUnrelated(
     ID="alfaraj2011operationalising",
     gs2016="1",
     placex="Journal of Engineering, Design and Technology",
+    cluster_id="10336207753589924678",
+    scholar="http://scholar.google.com/scholar?cites=10336207753589924678&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 ariely2011a = DB(WorkUnrelated(
@@ -69,6 +117,37 @@ barbosa2011a = DB(WorkUnrelated(
     placex="",
 ))
 
+bobillo2011a = DB(WorkUnrelated(
+    2011, "Fuzzy ontology representation using OWL 2",
+    display="bobillo",
+    authors="Bobillo, Fernando and Straccia, Umberto",
+    place=FAKE,
+    pp="1073--1094",
+    entrytype="article",
+    volume="52",
+    number="7",
+    publisher="Elsevier",
+    ID="bobillo2011fuzzy",
+    cluster_id="6439418896882035184",
+    scholar="http://scholar.google.com/scholar?cites=6439418896882035184&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Approximate Reasoning",
+))
+
+bringuente2011a = DB(WorkUnrelated(
+    2011, "Using a foundational ontology for reengineering a software process ontology",
+    display="bringuente",
+    authors="de Oliveira Bringuente, Ana Christina and de Almeida Falbo, Ricardo and Guizzardi, Giancarlo",
+    place=FAKE,
+    pp="511",
+    entrytype="article",
+    volume="2",
+    number="3",
+    ID="de2011using",
+    cluster_id="5589480453900321277",
+    scholar="http://scholar.google.com/scholar?cites=5589480453900321277&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Information and Data Management",
+))
+
 carvalho2011a = DB(WorkUnrelated(
     2011, "Apoio à Reutilização de Processos de Software em um Ambiente de Engenharia de Software Centrado em Processo",
     display="carvalho",
@@ -91,6 +170,53 @@ chen2011a = DB(WorkUnrelated(
     ID="chen2011analyzing",
     gs2016="1",
     placex="Modern Software Engineering Concepts and Practices: Advanced Approaches",
+))
+
+chen2011b = DB(WorkUnrelated(
+    2011, "Merging domain ontologies based on the WordNet system and Fuzzy Formal Concept Analysis techniques",
+    display="chen b",
+    authors="Chen, Rung-Ching and Bau, Cho-Tscan and Yeh, Chun-Ju",
+    place=FAKE,
+    pp="1908--1923",
+    entrytype="article",
+    volume="11",
+    number="2",
+    publisher="Elsevier",
+    ID="chen2011merging",
+    cluster_id="4256487933455130750",
+    scholar="http://scholar.google.com/scholar?cites=4256487933455130750&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Soft Computing",
+))
+
+chen2011c = DB(WorkUnrelated(
+    2011, "The recommendation of medicines based on multiple criteria decision making and domain ontology—An example of anti-diabetic medicines",
+    display="chen c",
+    authors="Chen, Rung-Ching and Chiu, Jiun Yao and Batj, Cho Tsan",
+    place=FAKE,
+    pp="27--32",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="chen2011recommendation",
+    cluster_id="6958433013734576057",
+    scholar="http://scholar.google.com/scholar?cites=6958433013734576057&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Machine Learning and Cybernetics (ICMLC), 2011 International Conference on",
+))
+
+cheng2011a = DB(WorkUnrelated(
+    2011, "A CMMI appraisal support system based on a fuzzy quantitative benchmarks model",
+    display="cheng",
+    authors="Cheng, Ching-Hsue and Chang, Jing-Rong and Kuo, Chen-Yi",
+    place=FAKE,
+    pp="4550--4558",
+    entrytype="article",
+    volume="38",
+    number="4",
+    publisher="Elsevier",
+    ID="cheng2011cmmi",
+    cluster_id="4317085097901003691",
+    scholar="http://scholar.google.com/scholar?cites=4317085097901003691&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Expert Systems with Applications",
 ))
 
 choi2011a = DB(WorkUnrelated(
@@ -142,6 +268,16 @@ chroust2011a = DB(WorkUnrelated(
     wiley2016="1",
 ))
 
+crespo2011a = DB(WorkUnrelated(
+    2011, "Soporte a la toma de decisiones y optimización en el proceso de planificación de un proyecto software basado en CMMI usando un modelo hıbrido de simulación",
+    display="crespo",
+    authors="Crespo, Daniel and Ruiz, Mercedes",
+    place=FAKE,
+    entrytype="article",
+    ID="cresposoporte",
+    placex="",
+))
+
 espindola2011a = DB(WorkUnrelated(
     2011, "Integração de padrões de qualidade na área de melhoria de processo de software",
     display="espindola",
@@ -185,6 +321,35 @@ gallagher2011a = DB(WorkUnrelated(
     placex="2nd Edition, Addison-Wesley, Boston,",
 ))
 
+garcía2011a = DB(WorkUnrelated(
+    2011, "SemSEDoc: Utilización de tecnologías semánticas en el aprovechamiento de los repositorios documentales de los proyectos de desarrollo de software",
+    display="garcía",
+    authors="García-Peñalvo, Francisco J and Colomo-Palacios, Ricardo and Soto-Acosta, Pedro and Martínez-Conesa, Isabel and Serradell-López, Enric",
+    place=FAKE,
+    entrytype="article",
+    publisher="Information Research",
+    ID="garcia2011semsedoc",
+    cluster_id="2718579613078970034",
+    scholar="http://scholar.google.com/scholar?cites=2718579613078970034&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+gonzalez2011a = DB(WorkUnrelated(
+    2011, "Using contexts to supervise a collaborative process",
+    display="gonzalez",
+    authors="Gonzalez, Avelino J and Tsuruta, Setsuo and Sakurai, Yoshitaka and Nguyen, Johann and Takada, Kouhei and Uchida, Ken",
+    place=FAKE,
+    pp="25--40",
+    entrytype="article",
+    volume="25",
+    number="1",
+    publisher="Cambridge University Press",
+    ID="gonzalez2011using",
+    cluster_id="17865654492177289342",
+    scholar="http://scholar.google.com/scholar?cites=17865654492177289342&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="AI EDAM",
+))
+
 grambow2011a = DB(WorkUnrelated(
     2011, "Towards Dynamic Knowledge Support in Software Engineering Processes",
     display="grambow",
@@ -208,6 +373,33 @@ grambow2011c = DB(WorkUnrelated(
     place=FAKE,
     other1="99,",
     placex="5th Int’l Workshop on event-driven Business Process Management, LNBIP",
+))
+
+grambow2011d = DB(WorkUnrelated(
+    2011, "Towards automatic process-aware coordination in collaborative software engineering",
+    display="grambow d",
+    authors="Grambow, Gregor and Oberhauser, Roy and Reichert, Manfred",
+    place=FAKE,
+    entrytype="article",
+    publisher="SciTePress",
+    ID="grambow2011towards",
+    placex="",
+    cluster_id="3120571127729214407",
+    scholar="http://scholar.google.com/scholar?cites=3120571127729214407&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+grambow2011e = DB(WorkUnrelated(
+    2011, "Enabling automatic process-aware collaboration support in software engineering projects",
+    display="grambow e",
+    authors="Grambow, Gregor and Oberhauser, Roy and Reichert, Manfred",
+    place=FAKE,
+    pp="73--88",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="grambow2011enabling",
+    placex="International Conference on Software and Data Technologies",
+    cluster_id="4157040334923710652",
+    scholar="http://scholar.google.com/scholar?cites=4157040334923710652&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 hauck2011a = DB(WorkUnrelated(
@@ -244,6 +436,38 @@ henderson2011a = DB(WorkUnrelated(
     volume="6520",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956074927&doi=10.1007%2f978-3-642-17505-3_5&partnerID=40&md5=cc45fd7b7914d2c5a7fe35bf052f6110",
     scopus2016_duplicate_removed="1",
+))
+
+hung2011a = DB(WorkUnrelated(
+    2011, "Using emotional classification model for travel information system",
+    display="hung",
+    authors="Hung, Jason C and Wang, Yu-Bing and Lee, Min-Feng",
+    place=FAKE,
+    pp="283--293",
+    entrytype="article",
+    volume="6",
+    number="4",
+    publisher="Inderscience Publishers",
+    ID="hung2011using",
+    cluster_id="9132510032836988735",
+    scholar="http://scholar.google.com/scholar?cites=9132510032836988735&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Computational Science and Engineering",
+))
+
+isern2011a = DB(WorkUnrelated(
+    2011, "Agent-based execution of personalised home care treatments",
+    display="isern",
+    authors="Isern, David and Moreno, Antonio and Sánchez, David and Hajnal, Ákos and Pedone, Gianfranco and Varga, László Z",
+    place=FAKE,
+    pp="155--180",
+    entrytype="article",
+    volume="34",
+    number="2",
+    publisher="Springer",
+    ID="isern2011agent",
+    cluster_id="11382125412961971083",
+    scholar="http://scholar.google.com/scholar?cites=11382125412961971083&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Intelligence",
 ))
 
 iso2011a = DB(WorkUnrelated(
@@ -287,6 +511,38 @@ jr2011a = DB(WorkUnrelated(
     ID="batie2011requirements",
     gs2016="1",
     placex="Official (ISC) 2{	extregistered} Guide to the ISSAP{	extregistered} CBK",
+))
+
+kalpana2011a = DB(WorkUnrelated(
+    2011, "Fuzzy expert system for diabetes using fuzzy verdict mechanism",
+    display="kalpana",
+    authors="Kalpana, M and Kumar, AV Senthil",
+    place=FAKE,
+    pp="1128",
+    entrytype="article",
+    volume="3",
+    number="2",
+    publisher="Eswar Publications",
+    ID="kalpana2011fuzzy",
+    cluster_id="11136681165333666560",
+    scholar="http://scholar.google.com/scholar?cites=11136681165333666560&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Advanced Networking and Applications",
+))
+
+kazemifard2011a = DB(WorkUnrelated(
+    2011, "Fuzzy emotional COCOMO II software cost estimation (FECSCE) using multi-agent systems",
+    display="kazemifard",
+    authors="Kazemifard, Mohammad and Zaeri, A and Ghasem-Aghaee, Nasser and Nematbakhsh, Mohammad Ali and Mardukhi, F",
+    place=FAKE,
+    pp="2260--2270",
+    entrytype="article",
+    volume="11",
+    number="2",
+    publisher="Elsevier",
+    ID="kazemifard2011fuzzy",
+    cluster_id="4817374005871638621",
+    scholar="http://scholar.google.com/scholar?cites=4817374005871638621&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Soft Computing",
 ))
 
 khurum2011a = DB(WorkUnrelated(
@@ -357,6 +613,18 @@ kreimeyer2011a = DB(WorkUnrelated(
     placex="Complexity Metrics in Engineering Design",
 ))
 
+kuo2011a = DB(WorkUnrelated(
+    2011, "Giving awareness of maturity by capability assessment",
+    display="kuo",
+    authors="Kuo, Yi-Ling and Nakamura, Yu and Lee, Chang-Shing",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="kuo2011giving",
+    cluster_id="2138771512570721590",
+    scholar="http://scholar.google.com/scholar?cites=2138771512570721590&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="2011 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2011)",
+))
+
 lane2011a = DB(WorkUnrelated(
     2011, "Process models for service-based applications: A systematic literature review",
     display="lane",
@@ -370,6 +638,36 @@ lane2011a = DB(WorkUnrelated(
     ID="lane2011process",
     gs2016="1",
     placex="Information and Software Technology",
+))
+
+lee2011a = DB(WorkUnrelated(
+    2011, "A fuzzy expert system for diabetes decision support application",
+    display="lee",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui",
+    place=FAKE,
+    pp="139--153",
+    entrytype="article",
+    volume="41",
+    number="1",
+    publisher="Institute of Electrical and Electronics Engineers, Inc., 345 E. 47 th St. NY NY 10017-2394 United States",
+    ID="lee2011fuzzy",
+    cluster_id="5314206404051718295",
+    scholar="http://scholar.google.com/scholar?cites=5314206404051718295&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Systems, Man and Cybernetics, Part B: Cybernetics",
+))
+
+lee2011b = DB(WorkUnrelated(
+    2011, "Fuzzy markup language for university assessment",
+    display="lee b",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Su, Ming-Kai and Wu, Nai-Yun and Liu, Che-Hung and Tseng, Yu-Yang and Wang, Yuan-Liang and Wang, Hui-Ming",
+    place=FAKE,
+    pp="954--959",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2011fuzzy",
+    cluster_id="8273966741798990715",
+    scholar="http://scholar.google.com/scholar?cites=8273966741798990715&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Systems, Man, and Cybernetics (SMC), 2011 IEEE International Conference on",
 ))
 
 lund2011a = DB(WorkUnrelated(
@@ -427,6 +725,47 @@ martoglia2011a = DB(WorkUnrelated(
     ID="martoglia2011facilitate",
     gs2016="1",
     placex="SEKE",
+    cluster_id="2880934005880957929",
+    scholar="http://scholar.google.com/scholar?cites=2880934005880957929&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+nojima2011a = DB(WorkUnrelated(
+    2011, "A meta-fuzzy classifier for specifying appropriate fuzzy partitions by genetic fuzzy rule selection with data complexity measures",
+    display="nojima",
+    authors="Nojima, Yusuke and Nishikawa, Shinya and Ishibuchi, Hisao",
+    place=FAKE,
+    pp="264--271",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="nojima2011meta",
+    cluster_id="4198466778241820728",
+    scholar="http://scholar.google.com/scholar?cites=4198466778241820728&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems (FUZZ), 2011 IEEE International Conference on",
+))
+
+ontolojilerin2011a = DB(WorkUnrelated(
+    2011, "Ontolojilerin otomatik olarak e{ş}le{ş}tirilmesi",
+    display="",
+    authors="{Ç}olak, Ali Alperen",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ccolak2011ontolojilerin",
+    local="YTÜ Fen Bilimleri Enstitüsü",
+    placex="",
+))
+
+pricope2011a = DB(WorkUnrelated(
+    2011, "A model based integration approach for reference models",
+    display="pricope",
+    authors="Pricope, Simona and Lichter, Horst",
+    place=ICPFSPI,
+    pp="6--9",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="pricope2011model",
+    cluster_id="3413232230112502304",
+    scholar="http://scholar.google.com/scholar?cites=3413232230112502304&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the 12th International Conference on Product Focused Software Development and Process Improvement",
 ))
 
 ribaud2011a = DB(WorkUnrelated(
@@ -516,6 +855,16 @@ siegemund2011a = DB(WorkUnrelated(
     placex="In: The 10th International Semantic Web Conference (ISWC2011)",
 ))
 
+su2011a = DB(WorkUnrelated(
+    2011, "Fuzzy Markup Language for University Assessment",
+    display="su",
+    authors="Su, Ming-Kai and Tseng, Yu-Yang and Jheng, Fu-Ze and Hu, Jing-Chun and Wang, Yuan-Liang",
+    place=FAKE,
+    entrytype="article",
+    ID="sufuzzy",
+    placex="",
+))
+
 thalheim2011a = DB(WorkUnrelated(
     2011, "The science of conceptual modelling",
     display="thalheim",
@@ -541,6 +890,30 @@ wall2011a = DB(WorkUnrelated(
     ID="wall2011staying",
     gs2016="1",
     placex="Information Systems and New Applications in the Service Sector: Models and Methods",
+))
+
+wang2011a = DB(WorkUnrelated(
+    2011, "Research on the model of knowledge representation ontology based on framework in intelligent learning system",
+    display="wang",
+    authors="Wang, Hua",
+    place=FAKE,
+    pp="6757--6760",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2011research",
+    cluster_id="17626056877395760386",
+    scholar="http://scholar.google.com/scholar?cites=17626056877395760386&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Electrical and Control Engineering (ICECE), 2011 International Conference on",
+))
+
+wang2011ab = DB(WorkUnrelated(
+    2011, "Fuzzy Markup Language for University Assessment",
+    display="wang",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing and Su, Ming-Kai and Wu, Nai-Yun and Liu, Che-Hung and Tseng, Yu-Yang and Wang, Yuan-Liang and Wang, Hui-Ming",
+    place=FAKE,
+    entrytype="article",
+    ID="wangfuzzy",
+    placex="",
 ))
 
 weinberger2011a = DB(WorkUnrelated(

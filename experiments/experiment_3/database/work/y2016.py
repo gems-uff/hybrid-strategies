@@ -46,6 +46,21 @@ aleem2016a = DB(WorkUnrelated(
     placex="Entertainment Computing",
 ))
 
+ali2016a = DB(WorkUnrelated(
+    2016, "Opinion mining based on fuzzy domain ontology and support vector machine: a proposal to automate online review classification",
+    display="ali",
+    authors="Ali, Farman and Kwak, Kyung-Sup and Kim, Yong-Gi",
+    place=FAKE,
+    pp="235--250",
+    entrytype="article",
+    volume="47",
+    publisher="Elsevier",
+    ID="ali2016opinion",
+    cluster_id="211170016391323488",
+    scholar="http://scholar.google.com/scholar?cites=211170016391323488&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied Soft Computing",
+))
+
 aversano2016a = DB(WorkUnrelated(
     2016, "Managing the alignment between business processes and software systems",
     display="aversano",
@@ -60,6 +75,18 @@ aversano2016a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958658482&doi=10.1016%2fj.infsof.2015.12.009&partnerID=40&md5=ca93cbbdd644a50aeb0c0216d4f35a7c",
     scopus2016_duplicate_removed="1",
+))
+
+baldassarre2016a = DB(WorkUnrelated(
+    2016, "A 360-degree process improvement approach based on multiple models",
+    display="baldassarre",
+    authors="Baldassarre, Maria Teresa",
+    place=FAKE,
+    entrytype="article",
+    volume="30",
+    number="4",
+    ID="baldassarre2016360",
+    placex="Revista de la Facultad de Ingeniería",
 ))
 
 cervantes2016a = DB(WorkUnrelated(
@@ -198,6 +225,20 @@ diazvasquez2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+donzelli2016a = DB(WorkUnrelated(
+    2016, "Onto2MAS: An Ontology-Based Framework for Automatic Multi-Agent System Generation",
+    display="donzelli",
+    authors="Donzelli, Corentin and Kidanu, Solomon Asres and Chbeir, Richard and Cardinale, Yudith",
+    place=FAKE,
+    pp="381--388",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="donzelli2016onto2mas",
+    cluster_id="15975224695649320300",
+    scholar="http://scholar.google.com/scholar?cites=15975224695649320300&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Signal-Image Technology & Internet-Based Systems (SITIS), 2016 12th International Conference on",
+))
+
 dévora2016a = DB(WorkUnrelated(
     2016, "Identificando Hallazgos de Mejora en Pymes de TI Utilizando un Modelo Ontológico para CMMI-DEV v1. 3",
     display="dévora",
@@ -240,6 +281,20 @@ feloni2016a = DB(WorkUnrelated(
     local="Universidade de São Paulo",
     gs2016="1",
     placex="phdthesis",
+))
+
+fraihat2016a = DB(WorkUnrelated(
+    2016, "A Semantic Multi-Agent Architecture for Multilingual Machine Translation",
+    display="fraihat",
+    authors="Fraihat, Salam and Shambour, Qusai and Hourani, Mou'ath",
+    place=FAKE,
+    pp="624",
+    entrytype="article",
+    volume="14",
+    number="7",
+    publisher="LJS Publishing",
+    ID="fraihat2016semantic",
+    placex="International Journal of Computer Science and Information Security",
 ))
 
 fujita2016a = DB(WorkUnrelated(
@@ -339,6 +394,20 @@ iso2016a = DB(WorkUnrelated(
     authors="ISO",
     place=FAKE,
     placex="PDTS1 Information Technology — Process Assessment — Process reference model for quality management",
+))
+
+japan2016a = DB(WorkUnrelated(
+    2016, "運用詞彙重組方法改善中文斷詞",
+    display="樓逸軒",
+    authors="樓逸軒",
+    place=FAKE,
+    pp="1--81",
+    entrytype="article",
+    publisher="中原大學",
+    ID="樓逸軒2016運用詞彙重組方法改善中文斷詞",
+    cluster_id="9538444638949179267",
+    scholar="http://scholar.google.com/scholar?cites=9538444638949179267&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="中原大學資訊管理研究所學位論文",
 ))
 
 kabaale2016a = DB(WorkSnowball(
@@ -454,6 +523,49 @@ mejia2016a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+ngwenya2016a = DB(WorkUnrelated(
+    2016, "Ontology Development and the Role of Knowledge in E-Government Project Management: A Lesson for Developing Countries",
+    display="ngwenya",
+    authors="Ngwenya, Bongani",
+    place=FAKE,
+    pp="289--310",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="ngwenya2016ontology",
+    placex="Politics and Social Activism: Concepts, Methodologies, Tools, and Applications",
+))
+
+pakdeetrakulwong2016a = DB(WorkUnrelated(
+    2016, "An ontology-based multi-agent system for active software engineering ontology",
+    display="pakdeetrakulwong",
+    authors="Pakdeetrakulwong, Udsanee and Wongthongtham, Pornpit and Siricharoen, Waralak V and Khan, Naveed",
+    place=FAKE,
+    pp="65--88",
+    entrytype="article",
+    volume="21",
+    number="1",
+    publisher="Springer",
+    ID="pakdeetrakulwong2016ontology",
+    cluster_id="14084334071364975655",
+    scholar="http://scholar.google.com/scholar?cites=14084334071364975655&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Mobile Networks and Applications",
+))
+
+plaza2016a = DB(WorkUnrelated(
+    2016, "Balancing the costs of human resources on an ERP Project",
+    display="plaza",
+    authors="Plaza, Malgorzata",
+    place=FAKE,
+    pp="171--183",
+    entrytype="article",
+    volume="59",
+    publisher="Elsevier",
+    ID="plaza2016balancing",
+    cluster_id="10783455155766488749",
+    scholar="http://scholar.google.com/scholar?cites=10783455155766488749&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Omega",
+))
+
 prabu2016a = DB(WorkUnrelated(
     2016, "Software Measurement Linkage for CMMI Implementation",
     display="prabu",
@@ -469,6 +581,18 @@ prabu2016a = DB(WorkUnrelated(
     number="27",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007106919&partnerID=40&md5=7f9c976b937a4bcc1f7034e3ba6e9683",
     scopus2016_duplicate_removed="1",
+))
+
+proen2016a = DB(WorkUnrelated(
+    2016, "Methods and techniques for maturity assessment",
+    display="proen",
+    authors="Proen{ç}a, Diogo",
+    place=FAKE,
+    pp="1--4",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="proencca2016methods",
+    placex="Information Systems and Technologies (CISTI), 2016 11th Iberian Conference on",
 ))
 
 pícha2016a = DB(WorkUnrelated(
@@ -600,4 +724,14 @@ tochtermann2016a = DB(WorkUnrelated(
     ID="tochtermann2009econstor",
     gs2016="1",
     placex="Proceedings of I-KNOW '09: 9th international conference on knowledge management and knowledge technologies ; Proceedings of I-SEMANTICS '09: 5th international conference on semanticsystemss",
+))
+
+zemaitytė2016a = DB(WorkUnrelated(
+    2016, "THE RESEARCH ON MODEL TRANSFORMATIONS, BASED ON DOMAIN METAMODEL, FOR DESIGNING REQUIREMENTS SPECIFICATIONS",
+    display="zemaitytė2016a",
+    authors="Zemaitytė, Neringa",
+    place=FAKE,
+    entrytype="article",
+    ID="vzemaityte2016research",
+    placex="",
 ))

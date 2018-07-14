@@ -3,6 +3,21 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+ali2015a = DB(WorkUnrelated(
+    2015, "Type-2 fuzzy ontology-based semantic knowledge for collision avoidance of autonomous underwater vehicles",
+    display="ali",
+    authors="Ali, Farman and Kim, Eun Kyoung and Kim, Yong-Gi",
+    place=IC,
+    pp="441--464",
+    entrytype="article",
+    volume="295",
+    publisher="Elsevier",
+    ID="ali2015type",
+    cluster_id="1009437491891545990",
+    scholar="http://scholar.google.com/scholar?cites=1009437491891545990&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Sciences",
+))
+
 alone2015a = DB(WorkUnrelated(
     2015, "Evaluation of Test Process Improvement approaches: An industrial case study",
     display="alone",
@@ -142,6 +157,16 @@ buglione2015a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+butka2015a = DB(WorkUnrelated(
+    2015, "Knowledge-based Representation for Modeling of Selected Software Development Methodology",
+    display="butka",
+    authors="Butka, Peter",
+    place=FAKE,
+    entrytype="article",
+    ID="butkaknowledge",
+    placex="",
+))
+
 carpio2015a = DB(WorkUnrelated(
     2015, "Towards the development of a framework for encouraging the learning of SPICE model by using knowledge graphs",
     display="carpio",
@@ -210,6 +235,16 @@ garcía2015a = DB(WorkUnrelated(
     ID="garcia2015approaches",
     gs2016="1",
     placex="Journal of Systems and Software",
+))
+
+garcía2015ab = DB(WorkUnrelated(
+    2015, "Modelo para el control de la ejecución de proyectos basado en soft computing",
+    display="garcía",
+    authors="GARCÍA, JOSÉ ALEJANDRO LUGO",
+    place=FAKE,
+    entrytype="article",
+    ID="garciamodelo",
+    placex="",
 ))
 
 garousi2015a = DB(WorkUnrelated(
@@ -302,6 +337,17 @@ hipp2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="hipp2015navigating",
     local="Ulm University",
+    placex="",
+))
+
+hou2015a = DB(WorkUnrelated(
+    2015, "An ontology-based holistic approach for multi-objective sustainable structural design",
+    display="hou",
+    authors="Hou, Shangjie",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="hou2015ontology",
+    local="Cardiff University",
     placex="",
 ))
 
@@ -405,6 +451,17 @@ moreta2015a = DB(WorkUnrelated(
     placex="",
 ))
 
+pakdeetrakulwong2015a = DB(WorkUnrelated(
+    2015, "Use and Design of Ontology-based Multi-agent System for Multi-site Software Development Environment",
+    display="pakdeetrakulwong",
+    authors="Pakdeetrakulwong, Udsanee and Wongthongtham, Pornpit",
+    place=FAKE,
+    entrytype="inproceedings",
+    organization="unknown",
+    ID="pakdeetrakulwong2015use",
+    placex="Use and Design of Ontology-based Multi-agent System for Multi-site Software Development Environment",
+))
+
 pardo2015a = DB(WorkUnrelated(
     2015, "A 360-degree process improvement approach based on multiple models",
     display="pardo",
@@ -428,6 +485,36 @@ peld2015a = DB(WorkUnrelated(
     volume="73",
     ID="peldvzius2015programku",
     placex="Informacijos Mokslai/Information Sciences",
+))
+
+pyshkin2015a = DB(WorkUnrelated(
+    2015, "Understanding software provisioning: An ontological view",
+    display="pyshkin",
+    authors="Pyshkin, Evgeny and Kuznetsov, Andrey and Klyuev, Vitaly",
+    place=FAKE,
+    pp="84--111",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="pyshkin2015understanding",
+    cluster_id="12283829846865123271",
+    scholar="http://scholar.google.com/scholar?cites=12283829846865123271&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Workshop on Databases in Networked Information Systems",
+))
+
+quevedo2015a = DB(WorkUnrelated(
+    2015, "BiomaSoft: sistema informático para el monitoreo y evaluación de la producción de alimentos y energía. Parte I",
+    display="quevedo",
+    authors="Quevedo, JR and Suárez, J",
+    place=FAKE,
+    pp="209--215",
+    entrytype="article",
+    volume="38",
+    number="3",
+    publisher="EEPFIH 2007",
+    ID="quevedo2015biomasoft",
+    cluster_id="3098775918528091527",
+    scholar="http://scholar.google.com/scholar?cites=3098775918528091527&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Pastos y Forrajes",
 ))
 
 raki2015a = DB(WorkUnrelated(
@@ -554,6 +641,20 @@ shrestha2015a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+silva2015a = DB(WorkUnrelated(
+    2015, "OntoQAI: an ontology to support quality assurance inspections",
+    display="silva",
+    authors="Da Silva, João Pablo Silva and DallOglio, Pablo and Pinto, Sérgio Crespo Coelho Da Silva and Bittencourt, Ig Ibert and Mergen, Sérgio Luis Sardi",
+    place=FAKE,
+    pp="11--20",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="da2015ontoqai",
+    cluster_id="6428379262302075260",
+    scholar="http://scholar.google.com/scholar?cites=6428379262302075260&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering (SBES), 2015 29th Brazilian Symposium on",
+))
+
 tanrıöver2015a = DB(WorkUnrelated(
     2015, "A process capability based assessment model for software workforce in emergent software organizations",
     display="tanrıöver",
@@ -611,6 +712,33 @@ umar2015a = DB(WorkUnrelated(
     placex="SmartCR",
 ))
 
+xu2015a = DB(WorkUnrelated(
+    2015, "Module extraction for efficient object queries over ontologies with large ABoxes",
+    display="xu",
+    authors="Xu, Jia and Shironoshita, Patrick and Visser, Ubbo and John, Nigel and Kabuka, Mansur",
+    place=FAKE,
+    pp="8",
+    entrytype="article",
+    volume="2",
+    number="1",
+    publisher="NIH Public Access",
+    ID="xu2015module",
+    cluster_id="3893865497641245217",
+    scholar="http://scholar.google.com/scholar?cites=3893865497641245217&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Artificial intelligence and applications (Commerce, Calif.)",
+))
+
+xu2015b = DB(WorkUnrelated(
+    2015, "Improving ABox reasoning for efficient and scalable object queries over large ontologies",
+    display="xu b",
+    authors="Xu, Jia",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="xu2015improving",
+    local="University of Miami",
+    placex="",
+))
+
 yatsko2015a = DB(WorkUnrelated(
     2015, "Insight Into Theoretical and Applied Informatics: Introduction to Information Technologies and Computer Science",
     display="yatsko",
@@ -635,6 +763,22 @@ yoshidome2015a = DB(WorkUnrelated(
     ID="yoshidome2015proposta",
     gs2016="1",
     placex="Abakós",
+))
+
+zhou2015a = DB(WorkUnrelated(
+    2015, "A research on intelligent fault diagnosis of wind turbines based on ontology and FMECA",
+    display="zhou",
+    authors="Zhou, Anmei and Yu, Dejie and Zhang, Wenyi",
+    place=FAKE,
+    pp="115--125",
+    entrytype="article",
+    volume="29",
+    number="1",
+    publisher="Elsevier",
+    ID="zhou2015research",
+    cluster_id="17733886225195676032",
+    scholar="http://scholar.google.com/scholar?cites=17733886225195676032&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Advanced Engineering Informatics",
 ))
 
 ΣΗ2015a = DB(WorkUnrelated(

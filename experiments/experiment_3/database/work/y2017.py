@@ -3,6 +3,16 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+albuquerque2017a = DB(WorkUnrelated(
+    2017, "Arcabouço de arquitetura da informação para ciclo de vida de projeto de vocabulário controlado: uma aplicação em Engenharia de Software",
+    display="albuquerque",
+    authors="Albuquerque, Fernando Antônio de Araújo Chacon and others",
+    place=FAKE,
+    entrytype="article",
+    ID="albuquerquearcaboucco",
+    placex="",
+))
+
 barafort2017a = DB(WorkUnrelated(
     2017, "Integrating risk management in IT settings from ISO standards and management systems perspectives",
     display="barafort",
@@ -18,6 +28,37 @@ barafort2017a = DB(WorkUnrelated(
     sciencedirect2016="1",
 ))
 
+computa2017a = DB(WorkUnrelated(
+    2017, "THIAGO FERNANDES DIAS",
+    display="computa",
+    authors="DE COMPUTA{Ç}ÃO, SE{Ç}ÃO DE ENGENHARIA",
+    place=FAKE,
+    entrytype="article",
+    ID="dethiago",
+    placex="",
+))
+
+ding2017a = DB(WorkUnrelated(
+    2017, "Apply the linked data principles to a decision support system for accessible travelling",
+    display="ding",
+    authors="Ding, Chaohai",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ding2017apply",
+    local="University of Southampton",
+    placex="",
+))
+
+díaz2017a = DB(WorkUnrelated(
+    2017, "Ejecución de una Revisión Sistemática sobre Gestión de Calidad para Sistemas Multiagente",
+    display="díaz",
+    authors="Díaz, Nathal Dawson and Zepeda, Vianca Vega",
+    place=FAKE,
+    entrytype="article",
+    ID="diazejecucion",
+    placex="",
+))
+
 eito2017a = DB(WorkUnrelated(
     2017, "Dealing with software process requirements complexity: an information access proposal based on semantic technologies",
     display="eito",
@@ -31,6 +72,36 @@ eito2017a = DB(WorkUnrelated(
     ID="eito2017dealing",
     gs2016="1",
     placex="Requirements Engineering",
+))
+
+freitas2017a = DB(WorkUnrelated(
+    2017, "Applying ontologies to the development and execution of Multi-Agent Systems",
+    display="freitas",
+    authors="Freitas, Artur and Panisson, Alison R and Hilgert, Lucas and Meneguzzi, Felipe and Vieira, Renata and Bordini, Rafael H",
+    place=FAKE,
+    pp="291--302",
+    entrytype="inproceedings",
+    volume="15",
+    number="4",
+    organization="IOS Press",
+    ID="freitas2017applying",
+    cluster_id="6383058559692582312",
+    scholar="http://scholar.google.com/scholar?cites=6383058559692582312&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Web Intelligence",
+))
+
+garcía2017a = DB(WorkUnrelated(
+    2017, "Project Control and Computational Intelligence: Trends and Challenges",
+    display="garcía",
+    authors="García, José Alejandro Lugo and Peña, Anié Bermudez and Pérez, Pedro Yobanis Piñero and Pérez, Rafael Bello",
+    place=FAKE,
+    pp="320--335",
+    entrytype="article",
+    volume="10",
+    number="1",
+    publisher="Directory of Open Access Journals",
+    ID="garcia2017project",
+    placex="International Journal of Computational Intelligence Systems",
 ))
 
 garousi2017a = DB(WorkUnrelated(
@@ -84,6 +155,21 @@ hauck2017a = DB(WorkUnrelated(
     placex="",
 ))
 
+heinzle2017a = DB(WorkUnrelated(
+    2017, "Semântica nos sistemas de apoio a decisão: o estado da arte",
+    display="heinzle",
+    authors="Heinzle, Roberto and Gauthier, Fernando Alvaro Ostuni and Fialho, Francisco Antonio Pereira",
+    place=FAKE,
+    pp="225--248",
+    entrytype="article",
+    volume="1",
+    number="8",
+    ID="heinzle2017semantica",
+    cluster_id="15657153437850648483",
+    scholar="http://scholar.google.com/scholar?cites=15657153437850648483&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Revista da UNIFEBE",
+))
+
 kabaale2017a = DB(WorkUnrelated(
     2017, "An Axiom Based Metamodel for Software Process Formalisation: An Ontology Approach",
     display="kabaale",
@@ -94,6 +180,60 @@ kabaale2017a = DB(WorkUnrelated(
     organization="Springer",
     ID="kabaale2017axiom",
     placex="International Conference on Software Process Improvement and Capability Determination",
+))
+
+keshta2017a = DB(WorkUnrelated(
+    2017, "Towards Implementation of Requirements Management Specific Practices (SP1. 3 and SP1. 4) for Saudi Arabian Small and Medium Sized Software Development Organizations",
+    display="keshta",
+    authors="Keshta, Ismail and Niazi, Mahmood and Alshayeb, Mohammad",
+    place=FAKE,
+    pp="24162--24183",
+    entrytype="article",
+    volume="5",
+    publisher="IEEE",
+    ID="keshta2017towards",
+    placex="IEEE Access",
+))
+
+lagos2017a = DB(WorkUnrelated(
+    2017, "An ontology-based decision support system for the diagnosis of plant diseases",
+    display="lagos",
+    authors="Lagos-Ortiz, Katty and Medina-Moreira, José and Paredes-Valverde, Mario Andrés and Espinoza-Morán, Winston and Valencia-García, Rafael",
+    place=FAKE,
+    pp="42--55",
+    entrytype="article",
+    volume="10",
+    number="4",
+    publisher="IGI Global",
+    ID="lagos2017ontology",
+    cluster_id="18261320480765191140",
+    scholar="http://scholar.google.com/scholar?cites=18261320480765191140&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Journal of Information Technology Research (JITR)",
+))
+
+lang2017a = DB(WorkUnrelated(
+    2017, "Lang",
+    display="lang",
+    authors="Мартиненко, ОС and Гусєва, ЮЮ and Чумаченко, ІВ",
+    place=FAKE,
+    pp="87--92",
+    entrytype="article",
+    number="3 (83)",
+    publisher="",
+    ID="lang",
+    placex="lang",
+))
+
+lourinho2017a = DB(WorkUnrelated(
+    2017, "Mapping of Enterprise Governance of IT Practices Metamodels",
+    display="lourinho",
+    authors="Lourinho, Renato and Almeida, Rafael and da Silva, Miguel Mira and Pinto, Pedro and Barafort, Beatrix",
+    place=FAKE,
+    pp="492--505",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lourinho2017mapping",
+    placex="European, Mediterranean, and Middle Eastern Conference on Information Systems",
 ))
 
 oberhauser2017a = DB(WorkUnrelated(
@@ -121,6 +261,20 @@ palomares2017a = DB(WorkUnrelated(
     ID="palomares2017requirements",
     gs2016="1",
     placex="Empirical Software Engineering",
+))
+
+poulos2017a = DB(WorkUnrelated(
+    2017, "The development of a biological ontology based on a possible connection between EEG and breast cancer using bibliographic reasoning",
+    display="poulos",
+    authors="Poulos, Marios",
+    place=FAKE,
+    pp="103--109",
+    entrytype="article",
+    volume="12",
+    number="2-3",
+    publisher="Inderscience Publishers (IEL)",
+    ID="poulos2017development",
+    placex="International Journal of Metadata, Semantics and Ontologies",
 ))
 
 pícha2017a = DB(WorkUnrelated(
@@ -211,6 +365,36 @@ vasanthapriyan2017a = DB(WorkUnrelated(
     organization="Springer",
     ID="vasanthapriyan2017ontology",
     placex="International Symposium on Knowledge and Systems Sciences",
+))
+
+wang2017a = DB(WorkUnrelated(
+    2017, "Using ontologies to perform threat analysis and develop defensive strategies for mobile security",
+    display="wang",
+    authors="Wang, Ping and Chao, Kuo-Ming and Lo, Chi-Chun and Wang, Yu-Shih",
+    place=FAKE,
+    pp="1--25",
+    entrytype="article",
+    volume="18",
+    number="1",
+    publisher="Springer",
+    ID="wang2017using",
+    cluster_id="8967609640590856218",
+    scholar="http://scholar.google.com/scholar?cites=8967609640590856218&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Information Technology and Management",
+))
+
+wongthongtham2017a = DB(WorkUnrelated(
+    2017, "Ontology annotation for software engineering project management in multisite distributed software development environments",
+    display="wongthongtham",
+    authors="Wongthongtham, Pornpit and Pakdeetrakulwong, Udsanee and Marzooq, Syed Hassan",
+    place=FAKE,
+    pp="315--343",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wongthongtham2017ontology",
+    cluster_id="3122508493747981080",
+    scholar="http://scholar.google.com/scholar?cites=3122508493747981080&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Project Management for Distributed Computing",
 ))
 
 yurum2017a = DB(WorkUnrelated(

@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acampora2012a = DB(WorkUnrelated(
+    2012, "Evaluating cardiac health through semantic soft computing techniques",
+    display="acampora",
+    authors="Acampora, Giovanni and Lee, Chang-Shing and Vitiello, Autilia and Wang, Mei-Hui",
+    place=FAKE,
+    pp="1165--1181",
+    entrytype="article",
+    volume="16",
+    number="7",
+    publisher="Springer",
+    ID="acampora2012evaluating",
+    cluster_id="2177808401185113358",
+    scholar="http://scholar.google.com/scholar?cites=2177808401185113358&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Soft Computing",
+))
+
 adedjouma2012a = DB(WorkUnrelated(
     2012, "An experiment on merging quality assessment in automotive domain",
     display="adedjouma",
@@ -56,6 +72,29 @@ alves2012a = DB(WorkUnrelated(
     placex="Quality of Information and Communications Technology (QUATIC), 2012 Eighth International Conference on the",
 ))
 
+aoussat2012a = DB(WorkUnrelated(
+    2012, "Réutilisation des procédés logiciels: Une approche à base d'architectures logicielles",
+    display="aoussat",
+    authors="Aoussat, Fadila",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="aoussat2012reutilisation",
+    local="Université de Nantes",
+    placex="",
+))
+
+aoussat2012b = DB(WorkUnrelated(
+    2012, "A Domain Ontology for Software Process Architecture Description",
+    display="aoussat b",
+    authors="Aoussat, Fadila and Oussalah, Mourad Chabane and Ahmed-Nacer, Mohamed",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="aoussat2012domain",
+    cluster_id="9252632439277354033",
+    scholar="http://scholar.google.com/scholar?cites=9252632439277354033&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="7th International Conference on Evaluation of Novel Software Approaches to Software Engineering",
+))
+
 april2012a = DB(WorkUnrelated(
     2012, "Software maintenance management: evaluation and continuous improvement",
     alias=(2012, "References", ),
@@ -80,6 +119,17 @@ assistant2012a = DB(WorkUnrelated(
     authors="Appraisal Assistant",
     place=FAKE,
     placex="http://www.sqi.gu.edu.au/AppraisalAssistant/about.html [July 2012]",
+))
+
+balaji2012a = DB(WorkUnrelated(
+    2012, "Ontology Concepts for Requirements Engineering Process In E-Government Applications",
+    display="balaji",
+    authors="Balaji, GN",
+    place=FAKE,
+    entrytype="article",
+    publisher="SRM University",
+    ID="balaji2012ontology",
+    placex="",
 ))
 
 barcellos2012a = DB(WorkUnrelated(
@@ -124,6 +174,8 @@ caffery2012a = DB(WorkUnrelated(
     volume="9781447122395",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922033804&doi=10.1007%2f978-1-4471-2239-5_15&partnerID=40&md5=ba4312b79ed72606b80ff052ba9d919a",
     scopus2016_duplicate_removed="1",
+    cluster_id="14764446644820109668",
+    scholar="http://scholar.google.com/scholar?cites=14764446644820109668&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 calvache2012a = DB(WorkUnrelated(
@@ -143,6 +195,18 @@ calvanese2012a = DB(WorkUnrelated(
     authors="Calvanese, D.:",
     place=FAKE,
     placex="EPCL Basic Training Camp Dresden, Germany",
+))
+
+cao2012a = DB(WorkUnrelated(
+    2012, "CMMI Based Multi-agent Software Process Control and Improvement Model",
+    display="cao",
+    authors="Cao, Jing and Zhang, Zijian and Zhang, Li and Rao, Guozheng and Liu, Ruiguang",
+    place=FAKE,
+    pp="682--695",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="cao2012cmmi",
+    placex="Contemporary Research on E-business Technology and Strategy",
 ))
 
 casare2012a = DB(WorkUnrelated(
@@ -176,6 +240,20 @@ chouseinoglou2012a = DB(WorkUnrelated(
     placex="Teknik Rapor: METU/II-TR-2012-02, Enformatik Enstitüsü, Orta Do{ğ}u Teknik Üniversitesi, Ankara, Türkiye",
 ))
 
+cimitile2012a = DB(WorkUnrelated(
+    2012, "An ontological multi-criteria optimization system for workforce management",
+    display="cimitile",
+    authors="Cimitile, Marta and Gaeta, Matteo and Loia, Vincenzo",
+    place=FAKE,
+    pp="1--7",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="cimitile2012ontological",
+    cluster_id="16420859450454234333",
+    scholar="http://scholar.google.com/scholar?cites=16420859450454234333&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Evolutionary Computation (CEC), 2012 IEEE Congress on",
+))
+
 clarke2012a = DB(WorkUnrelated(
     2012, "Investigating the relationship between software process improvement, situational change, and business success in software SMEs",
     display="clarke",
@@ -194,6 +272,20 @@ cmm2012a = DB(WorkUnrelated(
     authors="cmm",
     place=FAKE,
     placex="accessed site",
+))
+
+crespo2012a = DB(WorkUnrelated(
+    2012, "Decision making support in CMMI process areas using multiparadigm simulation modeling",
+    display="crespo",
+    authors="Crespo, Daniel and Ruiz, Mercedes",
+    place=FAKE,
+    pp="1--12",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="crespo2012decision",
+    cluster_id="11958110561321317011",
+    scholar="http://scholar.google.com/scholar?cites=11958110561321317011&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Simulation Conference (WSC), Proceedings of the 2012 Winter",
 ))
 
 dash2012a = DB(WorkUnrelated(
@@ -406,6 +498,35 @@ gruhn2012a = DB(WorkUnrelated(
     placex="SoMeT",
 ))
 
+haghighi2012a = DB(WorkUnrelated(
+    2012, "Using Ontology for IT-enabled Comprehensive Management of Mass Gatherings.",
+    display="haghighi",
+    authors="Haghighi, Pari Delir and Burstein, Frada and Arbon, Paul and Zaslavsky, Arkady B",
+    place=FAKE,
+    pp="303--314",
+    entrytype="inproceedings",
+    ID="haghighi2012using",
+    cluster_id="16762557952832481346",
+    scholar="http://scholar.google.com/scholar?cites=16762557952832481346&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="DSS",
+))
+
+han2012a = DB(WorkUnrelated(
+    2012, "Application of CMMI in software product development process",
+    display="han",
+    authors="Han, Bing and Fang, Yinglan",
+    place=FAKE,
+    pp="44--47",
+    entrytype="article",
+    volume="88",
+    number="1b",
+    publisher="Citeseer",
+    ID="han2012application",
+    cluster_id="13902011312673036791",
+    scholar="http://scholar.google.com/scholar?cites=13902011312673036791&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Przegl{ą}d Elektrotechniczny",
+))
+
 he2012a = DB(WorkUnrelated(
     2012, "Software Process Management Assessment Towards CMM a Systematic Approach to Optimize Internal Process Improvement",
     display="he",
@@ -478,12 +599,96 @@ iso2012a = DB(WorkUnrelated(
     placex="iso iec",
 ))
 
+japan2012a = DB(WorkUnrelated(
+    2012, "项目监控过程域的研究与应用",
+    display="王瑞民",
+    authors="王瑞民 and 李娜",
+    place=FAKE,
+    pp="73--76",
+    entrytype="article",
+    volume="33",
+    number="4",
+    ID="王瑞民2012项目监控过程域的研究与应用",
+    placex="郑州大学学报: 工学版",
+))
+
 jena2012a = DB(WorkUnrelated(
     2012, "http://jena.sourceforge.net",
     display="jena",
     authors="Jena",
     place=FAKE,
     placex="accessed site",
+))
+
+jeners2012a = DB(WorkUnrelated(
+    2012, "Towards an integration of multiple process improvement reference models based on automated concept extraction",
+    display="jeners",
+    authors="Jeners, Simona and Lichter, Horst and Dragomir, Ana",
+    place=FAKE,
+    pp="205--216",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="jeners2012towards",
+    cluster_id="6463976076108020868",
+    scholar="http://scholar.google.com/scholar?cites=6463976076108020868&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="European Conference on Software Process Improvement",
+))
+
+jeners2012b = DB(WorkUnrelated(
+    2012, "Automated comparison of process improvement reference models based on similarity metrics",
+    display="jeners b",
+    authors="Jeners, Simona and Lichter, Horst and Pyatkova, Elena",
+    place=SEC,
+    pp="743--748",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="jeners2012automated",
+    cluster_id="12188169562251783527",
+    scholar="http://scholar.google.com/scholar?cites=12188169562251783527&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Software Engineering Conference (APSEC), 2012 19th Asia-Pacific",
+))
+
+jeners2012c = DB(WorkUnrelated(
+    2012, "Metric based comparison of reference models based on similarity",
+    display="jeners c",
+    authors="Jeners, Simona and Lichter, Horst and Pyatkova, Elena",
+    place=FAKE,
+    pp="50",
+    entrytype="article",
+    volume="6",
+    number="21",
+    publisher="Advanced Institutes of Convergence Information Technology",
+    ID="jeners2012metric",
+    cluster_id="17446627162210613106",
+    scholar="http://scholar.google.com/scholar?cites=17446627162210613106&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Digital Content Technology and its Applications",
+))
+
+jia2012a = DB(WorkUnrelated(
+    2012, "Semantic Enhanced Argumentation Based Group Decision Making for Complex Problems",
+    display="jia",
+    authors="Jia, Haibo",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="jia2012semantic",
+    local="Glasgow Caledonian University",
+    placex="",
+))
+
+kang2012a = DB(WorkUnrelated(
+    2012, "Research on domain ontology in different granulations based on concept lattice",
+    display="kang",
+    authors="Kang, Xiangping and Li, Deyu and Wang, Suge",
+    place=FAKE,
+    pp="152--161",
+    entrytype="article",
+    volume="27",
+    publisher="Elsevier",
+    ID="kang2012research",
+    cluster_id="14190443148685852232",
+    scholar="http://scholar.google.com/scholar?cites=14190443148685852232&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Knowledge-Based Systems",
 ))
 
 kelemen2012a = DB(WorkUnrelated(
@@ -546,6 +751,16 @@ laporte2012b = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+laroque2012a = DB(WorkUnrelated(
+    2012, "DECISION MAKING SUPPORT IN CMMI PROCESS AREAS USING MULTIPARADIGM SIMULATION MODELING",
+    display="laroque",
+    authors="Laroque, C and Himmelspach, J and Pasupathy, R and Rose, O and Uhrmacher, AM",
+    place=FAKE,
+    entrytype="article",
+    ID="laroquedecision",
+    placex="",
+))
+
 leal2012a = DB(WorkUnrelated(
     2012, "Ontology based software development good practices selection for adoption in micro-enterprises",
     display="leal",
@@ -562,6 +777,22 @@ leal2012a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+lee2012a = DB(WorkUnrelated(
+    2012, "A novel genetic fuzzy markup language and its application to healthy diet assessment",
+    display="lee",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Hagras, Hani and Chen, Zhi-Wei and Lan, Shun-Teng and Hsu, Chin-Yuan and Kuo, Su-E and Kuo, Hui-Ching and Cheng, Hui-Hua",
+    place=FAKE,
+    pp="247--278",
+    entrytype="article",
+    volume="20",
+    number="supp02",
+    publisher="World Scientific",
+    ID="lee2012novel",
+    cluster_id="10524298051731570971",
+    scholar="http://scholar.google.com/scholar?cites=10524298051731570971&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",
+))
+
 li2012a = DB(WorkUnrelated(
     2012, "Circumstantial-evidence-based effort judgement for web service composition-based SOA implementations",
     display="li",
@@ -575,6 +806,22 @@ li2012a = DB(WorkUnrelated(
     ID="li2012circumstantial",
     gs2016="1",
     placex="International Journal of Space-Based and Situated Computing 25",
+))
+
+milea2012a = DB(WorkUnrelated(
+    2012, "tOWL: a temporal web ontology language",
+    display="milea",
+    authors="Milea, Viorel and Frasincar, Flavius and Kaymak, Uzay",
+    place=FAKE,
+    pp="268--281",
+    entrytype="article",
+    volume="42",
+    number="1",
+    publisher="IEEE",
+    ID="milea2012towl",
+    cluster_id="15518359558847704128",
+    scholar="http://scholar.google.com/scholar?cites=15518359558847704128&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)",
 ))
 
 miler2012a = DB(WorkUnrelated(
@@ -594,12 +841,40 @@ miler2012a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+noroozi2012a = DB(WorkUnrelated(
+    2012, "SRAD: a semantic rapid method for software development",
+    display="noroozi",
+    authors="Noroozi, Morteza and Saedi, Shima and Taherian, Mohsen and Ghadipasha, Khosro",
+    place=FAKE,
+    pp="104--108",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="noroozi2012srad",
+    placex="Proceedings of the Fifth International C* Conference on Computer Science and Software Engineering",
+))
+
 omg2012a = DB(WorkUnrelated(
     2012, "Object Management Group",
     display="omg",
     authors="OMG",
     place=FAKE,
     placex="http://www.omg.org",
+))
+
+pardo2012a = DB(WorkUnrelated(
+    2012, "An ontology for the harmonization of multiple standards and models",
+    display="pardo",
+    authors="Pardo, César and Pino, Francisco J and García, Félix and Piattini, Mario and Baldassarre, Maria Teresa",
+    place=CSI,
+    pp="48--59",
+    entrytype="article",
+    volume="34",
+    number="1",
+    publisher="Elsevier",
+    ID="pardo2012ontology",
+    placex="Computer Standards & Interfaces",
+    cluster_id="8530178978366712465",
+    scholar="http://scholar.google.com/scholar?cites=8530178978366712465&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 peldzius2012a = DB(WorkUnrelated(
@@ -715,6 +990,20 @@ slooten2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+souza2012a = DB(WorkUnrelated(
+    2012, "Inferring activities of an actor by means of context ontologies",
+    display="souza",
+    authors="de Souza, Josivan Pereira and Lugo, Gustavo Alberto Giménez and Tacla, Cesar Augusto",
+    place=FAKE,
+    pp="1--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="de2012inferring",
+    cluster_id="7290910045591846252",
+    scholar="http://scholar.google.com/scholar?cites=7290910045591846252&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En",
+))
+
 soydan2012a = DB(WorkSnowball(
     2012, "A partial formalization of the CMMI-DEV—A capability maturity model for development",
     display="soydan",
@@ -828,6 +1117,34 @@ wang2012a = DB(WorkUnrelated(
     ID="wang2012oois",
     gs2016="1",
     placex="7th International Conference on Object-Oriented Information Systems 27--29 August 2001, Calgary, Canada",
+))
+
+wang2012b = DB(WorkUnrelated(
+    2012, "Electrocardiogram application based on heart rate variability ontology and fuzzy markup language",
+    display="wang b",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing and Acampora, Giovanni and Loia, Vincenzo",
+    place=FAKE,
+    pp="155--178",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wang2012electrocardiogram",
+    cluster_id="18426653540065331912",
+    scholar="http://scholar.google.com/scholar?cites=18426653540065331912&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="ECG Signal Processing, Classification and Interpretation",
+))
+
+wang2012c = DB(WorkUnrelated(
+    2012, "Research on and Application of Project Monitoring and Control Process",
+    display="wang c",
+    authors="Wang, Rui-Min and Li, Na",
+    place=FAKE,
+    pp="73--76",
+    entrytype="article",
+    volume="33",
+    number="4",
+    publisher="Zhengzhou University of Technology",
+    ID="wang2012research",
+    placex="Journal of Zhengzhou University(Engineering Science)",
 ))
 
 wen2012a = DB(WorkUnrelated(

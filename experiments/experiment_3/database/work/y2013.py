@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+abanda2013a = DB(WorkUnrelated(
+    2013, "Trends in built environment semantic Web applications: Where are we today?",
+    display="abanda",
+    authors="Abanda, F Henry and Tah, Joseph HM and Keivani, Ramin",
+    place=FAKE,
+    pp="5563--5577",
+    entrytype="article",
+    volume="40",
+    number="14",
+    publisher="Elsevier",
+    ID="abanda2013trends",
+    cluster_id="8283972159973416937",
+    scholar="http://scholar.google.com/scholar?cites=8283972159973416937&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Expert Systems with Applications",
+))
+
 adedjouma2013a = DB(WorkUnrelated(
     2013, "Requirements Engineering Process according to Automotive Standards in a Model-Driven Framework",
     display="adedjouma",
@@ -28,6 +44,18 @@ alshammari2013a = DB(WorkUnrelated(
     local="University of Malaya",
     gs2016="1",
     placex="phdthesis",
+))
+
+amid2013a = DB(WorkUnrelated(
+    2013, "A Framework for Software Quality Assessment",
+    display="amid",
+    authors="Amid, Amin and Moradi, Somaye",
+    place=FAKE,
+    entrytype="article",
+    ID="amid2013framework",
+    cluster_id="12008582152506577965",
+    scholar="http://scholar.google.com/scholar?cites=12008582152506577965&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Technical Journal of Engineering and Applied Sciences",
 ))
 
 angelkov2013a = DB(WorkUnrelated(
@@ -142,6 +170,22 @@ buglione2013a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+bukhari2013a = DB(WorkUnrelated(
+    2013, "A research on an intelligent multipurpose fuzzy semantic enhanced 3D virtual reality simulator for complex maritime missions",
+    display="bukhari",
+    authors="Bukhari, Ahmad C and Kim, Yong-Gi",
+    place=FAKE,
+    pp="193--209",
+    entrytype="article",
+    volume="38",
+    number="2",
+    publisher="Springer",
+    ID="bukhari2013research",
+    cluster_id="12510517361035216059",
+    scholar="http://scholar.google.com/scholar?cites=12510517361035216059&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Applied intelligence",
+))
+
 cawley2013a = DB(WorkUnrelated(
     2013, "The application of a lean software development methodology within the regulated domain of medical device software",
     display="cawley",
@@ -167,6 +211,30 @@ chouseinoglou2013a = DB(WorkUnrelated(
     ID="chouseinoglou2013aiolos",
     gs2016="1",
     placex="Information and Software Technology",
+))
+
+demirsoy2013a = DB(WorkUnrelated(
+    2013, "Using Semantic Knowledge Management Systems to Overcome Information Overload Problems in Software Engineering",
+    display="demirsoy",
+    authors="Demirsoy, Ali",
+    place=FAKE,
+    entrytype="misc",
+    ID="demirsoy2013using",
+    cluster_id="11227727110217133106",
+    scholar="http://scholar.google.com/scholar?cites=11227727110217133106&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+dias2013a = DB(WorkUnrelated(
+    2013, "A Semantic Platform of Support Decision to Manage Dengue Epidemics",
+    display="dias",
+    authors="Dias, Thiago and Pinheiro, Wallace and Salles, Ronaldo",
+    place=FAKE,
+    pp="687--692",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="dias2013semantic",
+    placex="Computational Intelligence and 11th Brazilian Congress on Computational Intelligence (BRICS-CCI & CBIC), 2013 BRICS Congress on",
 ))
 
 dévora2013a = DB(WorkUnrelated(
@@ -313,6 +381,21 @@ jeners2013b = DB(WorkUnrelated(
     pp="15--24",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885167609&doi=10.5277%2fe-Inf130102&partnerID=40&md5=e598a86aa4e3b753315a644f5e023dd3",
     scopus2016_duplicate_removed="1",
+    cluster_id="4474367423729862691",
+    scholar="http://scholar.google.com/scholar?cites=4474367423729862691&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+kluth2013a = DB(WorkUnrelated(
+    2013, "Semantisches Benchmarking von Geschäftsprozessen: Konzeption, Evaluation und Anwendungspotenziale",
+    display="kluth",
+    authors="Kluth, Martin",
+    place=Book,
+    entrytype="book",
+    publisher="BoD--Books on Demand",
+    ID="kluth2013semantisches",
+    cluster_id="17251178440561123087",
+    scholar="http://scholar.google.com/scholar?cites=17251178440561123087&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
 ))
 
 kotevski2013a = DB(WorkUnrelated(
@@ -360,6 +443,42 @@ lee2013a = DB(WorkUnrelated(
     placex="Journal of Information Processing Systems",
 ))
 
+lee2013b = DB(WorkUnrelated(
+    2013, "Apply Fuzzy Markup Language to ASAP Assessment System",
+    display="lee b",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Hung, Pi-Hsia and Kuo, Yi-Ling and Wang, Hui-Min and Lin, Bort-Hung",
+    place=FAKE,
+    pp="73--93",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="lee2013apply",
+    placex="On the Power of Fuzzy Markup Language",
+))
+
+lee2013c = DB(WorkUnrelated(
+    2013, "Apply Fuzzy Markup Language to Knowledge Representation for Game of Computer Go",
+    display="lee c",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Chen, Yu-Jen and Yen, Shi-Jim",
+    place=FAKE,
+    pp="95--112",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="lee2013apply",
+    placex="On the Power of Fuzzy Markup Language",
+))
+
+lee2013d = DB(WorkUnrelated(
+    2013, "Adaptive fuzzy ontology for student assessment",
+    display="lee d",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Chen, I-Hsiang and Lin, Su-Wei and Hung, Pi-Hsia",
+    place=FAKE,
+    pp="1--5",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2013adaptive",
+    placex="Information, Communications and Signal Processing (ICICS) 2013 9th International Conference on",
+))
+
 menolli2013a = DB(WorkUnrelated(
     2013, "Organizational learning applied to software engineering: a systematic review",
     display="menolli",
@@ -390,6 +509,35 @@ meth2013a = DB(WorkUnrelated(
     ID="meth2013state",
     gs2016="1",
     placex="Information and Software Technology",
+))
+
+milea2013a = DB(WorkUnrelated(
+    2013, "News analytics for financial decision support",
+    display="milea",
+    authors="Milea, Viorel",
+    place=Book,
+    entrytype="book",
+    number="EPS-2013-275-LIS",
+    ID="milea2013news",
+    cluster_id="3785466094642259728",
+    scholar="http://scholar.google.com/scholar?cites=3785466094642259728&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="",
+))
+
+mora2013a = DB(WorkUnrelated(
+    2013, "Design, build and evaluation of an ontology-based KMS for supporting CMMI-DEV understanding: Benefits and limitations",
+    display="mora",
+    authors="Mora, Manuel and O'CONNOR, RORY V and Raisinghani, Mahesh and Gelman, Ovsei",
+    place=FAKE,
+    pp="999--1032",
+    entrytype="article",
+    volume="23",
+    number="07",
+    publisher="World Scientific",
+    ID="mora2013design",
+    placex="International Journal of Software Engineering and Knowledge Engineering",
+    cluster_id="8499533338521044732",
+    scholar="http://scholar.google.com/scholar?cites=8499533338521044732&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
 moser2013a = DB(WorkUnrelated(
@@ -430,6 +578,34 @@ nijem2013a = DB(WorkUnrelated(
     ID="nijemsoftware",
     gs2016="1",
     placex="International Journal of Computing Academic Research (IJCAR) ISSN",
+))
+
+pakdeetrakulwong2013a = DB(WorkUnrelated(
+    2013, "State of the art of a multi-agent based recommender system for active software engineering ontology",
+    display="pakdeetrakulwong",
+    authors="Pakdeetrakulwong, Udsanee and Wongthongtham, Pornpit",
+    place=FAKE,
+    pp="363--376",
+    entrytype="article",
+    volume="3",
+    number="4",
+    publisher="The Society of Digital Information and Wireless Communication",
+    ID="pakdeetrakulwong2013state",
+    cluster_id="12094856582864182119",
+    scholar="http://scholar.google.com/scholar?cites=12094856582864182119&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Digital Information and Wireless Communications (IJDIWC)",
+))
+
+pakdeetrakulwong2013b = DB(WorkUnrelated(
+    2013, "Towards Active Software Engineering Ontology",
+    display="pakdeetrakulwong b",
+    authors="Pakdeetrakulwong, Udsanee and Wongthongtham, Pornpit",
+    place=FAKE,
+    pp="206--211",
+    entrytype="inproceedings",
+    organization="The Society of Digital Information and Wireless Communication",
+    ID="pakdeetrakulwong2013towards",
+    placex="The International Conference on E-Technologies and Business on the Web (EBW2013)",
 ))
 
 parsons2013a = DB(WorkUnrelated(
@@ -489,6 +665,17 @@ ralph2013a = DB(WorkUnrelated(
     placex="arXiv preprint arXiv:1307.1019",
 ))
 
+ramadhan2013a = DB(WorkUnrelated(
+    2013, "Hybrid Fuzzy Based Decision Model: A Case Study of Web Development Platforms Selection and Evaluation",
+    display="ramadhan",
+    authors="Ramadhan, Bwambale Rashid",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ramadhan2013hybrid",
+    local="Universiti Teknologi Malaysia",
+    placex="",
+))
+
 rocha2013a = DB(WorkUnrelated(
     2013, "The use of software product lines for business process management: A systematic literature review",
     display="rocha",
@@ -518,6 +705,35 @@ ruiz2013a = DB(WorkUnrelated(
     gs2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+))
+
+shanthini2013a = DB(WorkUnrelated(
+    2013, "GENE ONTOLOGY SIMILARITY METRIC BASED ON DAG USING DIABETIC GENE",
+    display="shanthini",
+    authors="Shanthini, S Booma and Bhuvaneswari, V",
+    place=FAKE,
+    pp="108",
+    entrytype="article",
+    volume="2",
+    number="5",
+    publisher="COMPUSOFT, An International Journal of Advanced Computer Technology",
+    ID="shanthini2013gene",
+    placex="Compusoft",
+))
+
+silva2013a = DB(WorkUnrelated(
+    2013, "Um sistema para inspe{ç}ões de garantia da qualidade baseado em ontologias e agentes",
+    display="silva",
+    authors="da Silva, João Pablo Silva and Dall'Oglio, Pablo and da Silva Pinto, Sérgio Crespo Coelho and Bittencourt, Ig Ibert",
+    place=FAKE,
+    pp="13--30",
+    entrytype="article",
+    volume="20",
+    number="3",
+    ID="da2013sistema",
+    cluster_id="14485807488094124527",
+    scholar="http://scholar.google.com/scholar?cites=14485807488094124527&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Revista de Informática Teórica e Aplicada",
 ))
 
 souza2013a = DB(WorkUnrelated(
@@ -564,6 +780,22 @@ stallinger2013a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+teuteberg2013a = DB(WorkUnrelated(
+    2013, "Semantic process benchmarking to improve process performance",
+    display="teuteberg",
+    authors="Teuteberg, Frank and Kluth, Martin and Ahlemann, Frederik and Smolnik, Stefan",
+    place=FAKE,
+    pp="484--511",
+    entrytype="article",
+    volume="20",
+    number="4",
+    publisher="Emerald Group Publishing Limited",
+    ID="teuteberg2013semantic",
+    cluster_id="1424051811508157959",
+    scholar="http://scholar.google.com/scholar?cites=1424051811508157959&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Benchmarking: An International Journal",
+))
+
 velkoski2013a = DB(WorkUnrelated(
     2013, "Analyzing Web Server Access Log Files Using Data Mining Techniques",
     display="velkoski",
@@ -573,4 +805,44 @@ velkoski2013a = DB(WorkUnrelated(
     ID="velkoski2013analyzing",
     gs2016="1",
     placex="",
+))
+
+wang2013a = DB(WorkUnrelated(
+    2013, "FML-based decision support system for solar energy supply and demand analysis",
+    display="wang",
+    authors="Wang, Mei-Hui and Tsai, Yu-Ti and Lin, Koun-Hong and Lee, Chang-Shing and Liu, Che-Hung",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2013fml",
+    cluster_id="14477526129573821179",
+    scholar="http://scholar.google.com/scholar?cites=14477526129573821179&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems (FUZZ), 2013 IEEE International Conference on",
+))
+
+wang2013b = DB(WorkUnrelated(
+    2013, "Applying fml-based fuzzy ontology to university assessment",
+    display="wang b",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing and Hagras, Hani and Su, Ming-Kai and Tseng, Yu-Yang and Wang, Hui-Min and Wang, Yuan-Liang and Liu, Che-Hung",
+    place=FAKE,
+    pp="133--147",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="wang2013applying",
+    cluster_id="7030554389700227016",
+    scholar="http://scholar.google.com/scholar?cites=7030554389700227016&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="On the Power of Fuzzy Markup Language",
+))
+
+xu2013a = DB(WorkUnrelated(
+    2013, "Extract ABox modules for efficient ontology querying",
+    display="xu",
+    authors="Xu, Jia and Shironoshita, Patrick and Visser, Ubbo and John, Nigel and Kabuka, Mansur",
+    place=FAKE,
+    entrytype="article",
+    ID="xu2013extract",
+    cluster_id="17304182031957306729",
+    scholar="http://scholar.google.com/scholar?cites=17304182031957306729&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="arXiv preprint arXiv:1305.4859",
 ))

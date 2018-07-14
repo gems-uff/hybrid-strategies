@@ -3,6 +3,22 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+acampora2010a = DB(WorkUnrelated(
+    2010, "Exploring e-learning knowledge through ontological memetic agents",
+    display="acampora",
+    authors="Acampora, Giovanni and Loia, Vincenzo and Gaeta, Matteo",
+    place=FAKE,
+    pp="66--77",
+    entrytype="article",
+    volume="5",
+    number="2",
+    publisher="IEEE",
+    ID="acampora2010exploring",
+    cluster_id="3502110441744824060",
+    scholar="http://scholar.google.com/scholar?cites=3502110441744824060&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Computational Intelligence Magazine",
+))
+
 ali2010a = DB(WorkUnrelated(
     2010, "Towards innovation measurement in software industry",
     display="ali",
@@ -44,6 +60,22 @@ anneliheimbürgera2010a = DB(WorkUnrelated(
     placex="Information Modelling and Knowledge Bases XXI",
 ))
 
+balaji2010a = DB(WorkUnrelated(
+    2010, "Multi-agent system in urban traffic signal control",
+    display="balaji",
+    authors="Balaji, PG and Srinivasan, Dipti",
+    place=FAKE,
+    pp="43--51",
+    entrytype="article",
+    volume="5",
+    number="4",
+    publisher="IEEE",
+    ID="balaji2010multi",
+    cluster_id="16399055440952245211",
+    scholar="http://scholar.google.com/scholar?cites=16399055440952245211&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Computational Intelligence Magazine",
+))
+
 barcellos2010a = DB(WorkUnrelated(
     2010, "A Well-Founded Software Measurement Ontology",
     display="barcellos",
@@ -71,6 +103,16 @@ basri2010a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+bilgehan2010a = DB(WorkUnrelated(
+    2010, "A Conceptual Framework for Effective Management of Turkish R&D Processes as a Multi Agent System Approach",
+    display="bilgehan",
+    authors="Bilgehan, Mehmet and Erdem, HarunTa{ş}kın Berna Köksal Zekiye",
+    place=FAKE,
+    entrytype="article",
+    ID="bilgehanconceptual",
+    placex="",
+))
+
 bowman2010a = DB(WorkUnrelated(
     2010, "Engineering resource management solutions by leveraging dual data fusion solutions",
     display="bowman",
@@ -95,6 +137,20 @@ cancian2010a = DB(WorkUnrelated(
     gs2016="1",
     placex="Working Conference on Virtual Enterprises",
     springer2016="1",
+))
+
+chen2010a = DB(WorkUnrelated(
+    2010, "Intelligent mobile safety system to educational organization",
+    display="chen",
+    authors="Chen, Li-Shan",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="chen2010intelligent",
+    cluster_id="13513781455175142084",
+    scholar="http://scholar.google.com/scholar?cites=13513781455175142084&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="e-Business (ICE-B), Proceedings of the 2010 International Conference on",
 ))
 
 cmmi2010a = DB(WorkUnrelated(
@@ -126,6 +182,20 @@ cornford2010a = DB(WorkUnrelated(
     ID="cornford2010ecosystem",
     gs2016="1",
     placex="Google",
+))
+
+cristani2010a = DB(WorkUnrelated(
+    2010, "An intelligent system for gathering rates of local taxes on the web",
+    display="cristani",
+    authors="Cristani, Matteo and Gabrielli, Nicoletta",
+    place=FAKE,
+    pp="195--204",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="cristani2010intelligent",
+    cluster_id="6561404733687404520",
+    scholar="http://scholar.google.com/scholar?cites=6561404733687404520&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
 ))
 
 cuadrado2010a = DB(WorkUnrelated(
@@ -169,6 +239,32 @@ ellis2010a = DB(WorkUnrelated(
     placex="Roadmap Enabling Vision and Strategy for ICT-enabled Energy Efficiency",
 ))
 
+erdem2010a = DB(WorkUnrelated(
+    2010, "A conceptual framework for effective management of Turkish R&D processes as a Multi Agent system approach",
+    display="erdem",
+    authors="Erdem, Mehmet Bilgehan and Ta{ş}kin, Harun and Köksal, Berna and Erdem, Zekiye",
+    place=FAKE,
+    pp="3657--3663",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="erdem2010conceptual",
+    placex="Systems Man and Cybernetics (SMC), 2010 IEEE International Conference on",
+))
+
+garrido2010a = DB(WorkUnrelated(
+    2010, "Adding semantic web knowledge to intelligent personal assistant agents",
+    display="garrido",
+    authors="Garrido, Piedad and Martinez, F and Guetl, Christian",
+    place=FAKE,
+    pp="1--12",
+    entrytype="inproceedings",
+    organization="Philippe Cudre-Mauroux",
+    ID="garrido2010adding",
+    cluster_id="5710344049707876049",
+    scholar="http://scholar.google.com/scholar?cites=5710344049707876049&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Proceedings of the ISWC 2010 Workshops",
+))
+
 georgieva2010a = DB(WorkUnrelated(
     2010, "Software Quality Standards and Approaches from Ontological Point of View",
     display="georgieva",
@@ -179,6 +275,22 @@ georgieva2010a = DB(WorkUnrelated(
     ID="georgieva2010software",
     gs2016="1",
     placex="SOFTWARE MEASUREMENT EUROPEAN FORUM",
+))
+
+guo2010a = DB(WorkUnrelated(
+    2010, "A novel approach for question answering and automatic diagnosis based on pervasive agent ontology in medicine",
+    display="guo",
+    authors="Guo, Qing-lin",
+    place=FAKE,
+    pp="655--682",
+    entrytype="article",
+    volume="25",
+    number="7",
+    publisher="Wiley Online Library",
+    ID="guo2010novel",
+    cluster_id="12831708900443878387",
+    scholar="http://scholar.google.com/scholar?cites=12831708900443878387&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Intelligent Systems",
 ))
 
 henderson2010a = DB(WorkUnrelated(
@@ -196,6 +308,42 @@ henderson2010a = DB(WorkUnrelated(
     number="3",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951085619&partnerID=40&md5=0e9527893daf591f4103ac72d9fbef21",
     scopus2016_duplicate_removed="1",
+))
+
+hmood2010a = DB(WorkUnrelated(
+    2010, "OntEQAM: A methodology for assessing evolvability as a quality factor in software ecosystems",
+    display="hmood",
+    authors="Hmood, Aseel and Schugerl, Philipp and Rilling, Juergen and Charland, Philippe",
+    place=FAKE,
+    entrytype="article",
+    ID="hmood2010onteqam",
+    placex="IEEE Industrial Software Evolution and Maintenance Processes WISEMP10",
+))
+
+hoock2010a = DB(WorkUnrelated(
+    2010, "Intelligent agents for the game of Go",
+    display="hoock",
+    authors="Hoock, Jean-Baptiste and Lee, Chang-Shing and Rimmel, Arpad and Teytaud, Fabien and Teytaud, Olivier and Wang, Mei-Hui",
+    place=FAKE,
+    entrytype="article",
+    ID="hoock2010intelligent",
+    cluster_id="5985252762832680932",
+    scholar="http://scholar.google.com/scholar?cites=5985252762832680932&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="IEEE Computational Intelligence Magazine",
+))
+
+huang2010a = DB(WorkUnrelated(
+    2010, "Ontology-based intelligent system for malware behavioral analysis",
+    display="huang",
+    authors="Huang, Hsien-Der and Chuang, Tsung-Yen and Tsai, Yi-Lang and Lee, Chang-Shing",
+    place=FAKE,
+    pp="1--6",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="huang2010ontology",
+    cluster_id="10729472604983765601",
+    scholar="http://scholar.google.com/scholar?cites=10729472604983765601&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Fuzzy Systems (FUZZ), 2010 IEEE International Conference on",
 ))
 
 irrazabal2010a = DB(WorkUnrelated(
@@ -227,6 +375,38 @@ jaakkola2010a = DB(WorkUnrelated(
     scopus2016_duplicate_removed="1",
 ))
 
+japan2010a = DB(WorkUnrelated(
+    2010, "CMMI 組織流程定義知識管理之研究-以南大電算中心爲例",
+    display="羅啟芳",
+    authors="羅啟芳 and 王美慧 and 王元良 and 李健興 and 林明達 and 林懿貞",
+    place=FAKE,
+    pp="51--74",
+    entrytype="article",
+    volume="44",
+    number="1",
+    publisher="臺南大學",
+    ID="羅啟芳2010cmmi",
+    cluster_id="15179184865448067983",
+    scholar="http://scholar.google.com/scholar?cites=15179184865448067983&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="理工研究學報",
+))
+
+japan2010ab = DB(WorkUnrelated(
+    2010, "基于后悔值的多蚁协作关联强化学习模型",
+    display="柴毅",
+    authors="柴毅 and 利节 and 王嘉骐",
+    place=FAKE,
+    pp="64--67",
+    entrytype="article",
+    volume="28",
+    number="4",
+    publisher="系統工程編輯部",
+    ID="柴毅2010基于后悔值的多蚁协作关联强化学习模型",
+    cluster_id="450123225689460533",
+    scholar="http://scholar.google.com/scholar?cites=450123225689460533&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="系統工程",
+))
+
 junior2010a = DB(WorkUnrelated(
     2010, "Uma proposta de uso do TMMi para melhoria da capacidade nas áreas de Verifica{ç}ão e Valida{ç}ão do CMMI",
     display="júnior",
@@ -236,6 +416,20 @@ junior2010a = DB(WorkUnrelated(
     publisher="Universidade Federal de Pernambuco",
     ID="candido2010proposta",
     placex="",
+))
+
+kayed2010a = DB(WorkUnrelated(
+    2010, "Ontology concepts for requirements engineering process in e-government applications",
+    display="kayed",
+    authors="Kayed, Ahmad and Nizar, Mohammad and Alfayoumi, Mohammed",
+    place=FAKE,
+    pp="396--400",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kayed2010ontology",
+    cluster_id="17146592028311166029",
+    scholar="http://scholar.google.com/scholar?cites=17146592028311166029&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Internet and Web Applications and Services (ICIW), 2010 Fifth International Conference on",
 ))
 
 keto2010a = DB(WorkUnrelated(
@@ -282,6 +476,52 @@ laplante2010a = DB(WorkUnrelated(
     placex="Encyclopedia of Software Engineering Three-Volume Set (Print)",
 ))
 
+lee2010a = DB(WorkUnrelated(
+    2010, "Diet assessment based on type-2 fuzzy ontology and fuzzy markup language",
+    display="lee",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Acampora, Giovanni and Hsu, Chin-Yuan and Hagras, Hani",
+    place=FAKE,
+    pp="1187--1216",
+    entrytype="article",
+    volume="25",
+    number="12",
+    publisher="Wiley Online Library",
+    ID="lee2010diet",
+    cluster_id="3973916072041088811",
+    scholar="http://scholar.google.com/scholar?cites=3973916072041088811&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Intelligent Systems",
+))
+
+lee2010b = DB(WorkUnrelated(
+    2010, "An ontology-based fuzzy inference system for computer Go applications",
+    display="lee b",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Yen, Shi-Jim and Chen, Yu-Jen and Chou, Cheng-Wei and Chaslot, Guillaume and Hoock, Jean-Baptiste and Rimmel, Arpad and Doghmen, Hassen",
+    place=FAKE,
+    pp="103--115",
+    entrytype="article",
+    volume="12",
+    number="2",
+    publisher="Chinese Fuzzy Systems Association, Department of Mechanical Engineering National Taiwan University Taipei Taiwan 10674 People's Republic of China,",
+    ID="lee2010ontology",
+    cluster_id="18377996082628257585",
+    scholar="http://scholar.google.com/scholar?cites=18377996082628257585&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Fuzzy Systems",
+))
+
+lee2010c = DB(WorkUnrelated(
+    2010, "FML-based type-2 fuzzy ontology for computer Go knowledge representation",
+    display="lee c",
+    authors="Lee, Chang-Shing and Wang, Mei-Hui and Yan, Zhi-Rong and Chen, Yu-Jen and Doghmen, Hassen and Teytaud, Olivier",
+    place=FAKE,
+    pp="63--68",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lee2010fml",
+    cluster_id="8111607868429350782",
+    scholar="http://scholar.google.com/scholar?cites=8111607868429350782&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="System Science and Engineering (ICSSE), 2010 International Conference on",
+))
+
 mehmood2010a = DB(WorkUnrelated(
     2010, "Conception des Systèmes d'Information: une approche centrée sur les Patrons de Gestion de la Qualité",
     display="mehmood",
@@ -319,6 +559,32 @@ minhas2010a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+mora2010a = DB(WorkUnrelated(
+    2010, "On KM, KMS and ontology-based KMS in the domain of SwE standards and models of processes: A conceptual survey",
+    display="mora",
+    authors="Mora, Manuel and Cervantes-Pérez, Francisco and Garrido, Leonardo and Wang, Fen and Angel-Sicilia, Miguel",
+    place=FAKE,
+    pp="75--98",
+    entrytype="article",
+    volume="4",
+    number="1",
+    publisher="IOS Press",
+    ID="mora2010km",
+    placex="Intelligent Decision Technologies",
+    cluster_id="4496775671656115637",
+    scholar="http://scholar.google.com/scholar?cites=4496775671656115637&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+moraa2010a = DB(WorkUnrelated(
+    2010, "On ontology-based KMS for a better and faster understanding of service-oriented standards and models of processes in the domain of SE, SwE and IT: A conceptual survey",
+    display="moraa",
+    authors="Moraa, Manuel and Cervantes-Pérezb, Francisco and Garridoc, Leonardo and Wangd, Fen and Angel-Siciliae, Miguel",
+    place=FAKE,
+    entrytype="article",
+    ID="moraaontology",
+    placex="",
+))
+
 moser2010a = DB(WorkUnrelated(
     2010, "Integrating production automation expert knowledge across engineering stakeholder domains",
     display="moser",
@@ -330,6 +596,16 @@ moser2010a = DB(WorkUnrelated(
     ID="moser2010integrating",
     gs2016="1",
     placex="Complex, Intelligent and Software Intensive Systems (CISIS), 2010 International Conference on",
+))
+
+nizar2010a = DB(WorkUnrelated(
+    2010, "An Ontology for Requirements Engineering Process in E-Government Applications",
+    display="nizar",
+    authors="Nizar, Mohammad",
+    place=FAKE,
+    entrytype="article",
+    ID="nizarontology",
+    placex="",
 ))
 
 otte2010a = DB(WorkUnrelated(
@@ -426,6 +702,35 @@ roedler2010a = DB(WorkUnrelated(
     authors="Roedler, G.:",
     place=FAKE,
     placex="System Life Cycle Processes. Asian Pacific Council on Systems Engineering (APCOSE) Conference",
+))
+
+sarantis2010a = DB(WorkUnrelated(
+    2010, "Knowledge exploitation via ontology development in e-government project management",
+    display="sarantis",
+    authors="Sarantis, Demetrios and Askounis, Dimitris",
+    place=FAKE,
+    pp="246--55",
+    entrytype="article",
+    volume="1",
+    number="4",
+    ID="sarantis2010knowledge",
+    cluster_id="17633945482365111096",
+    scholar="http://scholar.google.com/scholar?cites=17633945482365111096&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="International Journal of Digital Society (IJDS)",
+))
+
+shoaib2010a = DB(WorkUnrelated(
+    2010, "Semantic web based integrated agriculture information framework",
+    display="shoaib",
+    authors="Shoaib, Muhammad and Basharat, Amna",
+    place=FAKE,
+    pp="285--289",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="shoaib2010semantic",
+    cluster_id="716699751266052324",
+    scholar="http://scholar.google.com/scholar?cites=716699751266052324&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="Computer Research and Development, 2010 Second International Conference on",
 ))
 
 shvaiko2010a = DB(WorkUnrelated(
@@ -580,6 +885,39 @@ wang2010a = DB(WorkUnrelated(
     authors="M.-H. Wang, Z.-R. Yan, C.-S. Lee, P.-H. Huang, Y.-L. Kuo, H.-M. Wang and B.-H. Lin",
     place=FAKE,
     placex="IEEE World Congress on Computational Intelligence, Barcelona",
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2010apply",
+    cluster_id="10567022934791816133",
+    scholar="http://scholar.google.com/scholar?cites=10567022934791816133&as_sdt=2005&sciodt=0,5&hl=en",
+))
+
+wang2010b = DB(WorkUnrelated(
+    2010, "Ontology-based Intelligent Agent for Game of Go",
+    display="wang b",
+    authors="Wang, Mei-Hui and Lee, Chang-Shing and Wu, Li-Wen and Cheng, Ming-Chi and Teytaud, Olivier",
+    place=FAKE,
+    pp="485--490",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="wang2010ontology",
+    placex="Technologies and Applications of Artificial Intelligence (TAAI), 2010 International Conference on",
+))
+
+yang2010a = DB(WorkUnrelated(
+    2010, "Feature-based Product Review Summarization Utilizing User Score.",
+    display="yang",
+    authors="Yang, Jung-Yeon and Kim, Han-joon and Lee, Sang-goo",
+    place=FAKE,
+    pp="1973--1990",
+    entrytype="article",
+    volume="26",
+    number="6",
+    ID="yang2010feature",
+    cluster_id="2283447648362292255",
+    scholar="http://scholar.google.com/scholar?cites=2283447648362292255&as_sdt=2005&sciodt=0,5&hl=en",
+    placex="J. Inf. Sci. Eng.",
 ))
 
 yatapanage2010a = DB(WorkUnrelated(
