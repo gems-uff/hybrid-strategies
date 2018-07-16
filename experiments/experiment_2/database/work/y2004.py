@@ -15,6 +15,7 @@ assmann2004a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="assmann2004towards",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Computers in industry",
 ))
 
@@ -30,6 +31,7 @@ baskerville2004a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="baskerville2004short",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Information Systems Journal",
 ))
 
@@ -58,6 +60,7 @@ berki2004a = DB(WorkUnrelated(
     doi="10.1023/B:SQJO.0000034711.87241.f0",
     ID="Berki2004",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Quality Journal",
 ))
 
@@ -73,6 +76,7 @@ boehm2004a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="boehm20042",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -99,6 +103,7 @@ clark2004a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="clark2004selecting",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -165,6 +170,7 @@ greer2004a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="greer2004software",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and software technology",
 ))
 
@@ -218,6 +224,7 @@ iivari2004a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="iivari2004towards",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Information systems journal",
 ))
 
@@ -273,6 +280,7 @@ kim2004a = DB(WorkUnrelated(
     publisher="Springer",
     ID="kim2004testing",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Quality Journal",
 ))
 
@@ -288,6 +296,7 @@ lee2004a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="lee2004multi",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Software Process: Improvement and Practice",
 ))
 
@@ -344,6 +353,7 @@ sahraoui2004a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="sahraoui20047",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -362,6 +372,7 @@ sampaio2004a = DB(WorkUnrelated(
     doi="10.1007/BF03192357",
     ID="Sampaio2004",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Journal of the Brazilian Computer Society",
 ))
 
@@ -388,6 +399,7 @@ sheard2004a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="sheard20042",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -403,6 +415,7 @@ stenzel2004a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="stenzel2004cost",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Corporate Accounting & Finance",
 ))
 
@@ -418,6 +431,7 @@ wang2004a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="wang2004product",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International journal of production economics",
 ))
 
@@ -436,5 +450,6 @@ zambonelli2004a = DB(WorkUnrelated(
     doi="10.1023/B:AGNT.0000038028.66672.1e",
     ID="Zambonelli2004",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Autonomous Agents and Multi-Agent Systems",
 ))

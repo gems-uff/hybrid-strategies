@@ -92,6 +92,7 @@ ohara2002a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="ohara2002critical",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="International Transactions in Operational Research",
 ))
 
@@ -129,6 +130,7 @@ webster2002a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="webster2002supply",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="International Journal of Management Reviews",
 ))
 
@@ -154,5 +156,6 @@ worren2002a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="worren2002modularity",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Strategic management journal",
 ))

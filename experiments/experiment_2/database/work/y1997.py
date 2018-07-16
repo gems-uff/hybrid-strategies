@@ -29,6 +29,7 @@ iyer1997a = DB(WorkUnrelated(
     publisher="Taylor & Francis",
     ID="iyer1997automated",
     springer2016="1",
+    planilha_springer2016="1",
     placex="IIE transactions",
 ))
 
@@ -71,6 +72,7 @@ parunak1997a = DB(WorkUnrelated(
     publisher="Springer",
     ID="van1997go",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Annals of Operations Research",
 ))
 

@@ -40,6 +40,7 @@ ahalt2013a = DB(WorkUnrelated(
     organization="IEEE",
     ID="ahalt2013water",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Software Engineering for Computational Science and Engineering (SE-CSE), 2013 5th International Workshop on",
 ))
 
@@ -69,6 +70,7 @@ andrade2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="andrade2013architectural",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -84,6 +86,7 @@ atherton2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="atherton20139",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -99,6 +102,7 @@ baca2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="baca2013countermeasure",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -153,6 +157,7 @@ behrouzi2013a = DB(WorkUnrelated(
     cluster_id="10854013659743711834",
     scholar="http://scholar.google.com/scholar?cites=10854013659743711834&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 benassi2013a = DB(WorkUnrelated(
@@ -178,6 +183,7 @@ bijan2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="bijan2013systems",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Systems Engineering",
 ))
 
@@ -208,6 +214,7 @@ boehm2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="boehm2013clarifying",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -223,6 +230,7 @@ briggs2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="briggs2013terrestrial",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Geophysical Research: Space Physics",
 ))
 
@@ -255,6 +263,7 @@ bustard2013a = DB(WorkUnrelated(
     doi="10.1007/s11334-013-0216-9",
     ID="Bustard2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Innovations in Systems and Software Engineering",
 ))
 
@@ -288,6 +297,7 @@ cao2013a = DB(WorkUnrelated(
     doi="10.1057/ejis.2012.9",
     ID="Cao2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="European Journal of Information Systems",
 ))
 
@@ -303,6 +313,7 @@ carson2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="carson20134",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -318,6 +329,7 @@ cañete2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="canete2013influential",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -336,6 +348,7 @@ cil2013a = DB(WorkUnrelated(
     cluster_id="485689962718607841",
     scholar="http://scholar.google.com/scholar?cites=485689962718607841&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 clarke2013a = DB(WorkUnrelated(
@@ -363,6 +376,7 @@ codabux2013a = DB(WorkUnrelated(
     organization="IEEE",
     ID="codabux2013managing",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Managing Technical Debt (MTD), 2013 4th International Workshop on",
 ))
 
@@ -378,6 +392,7 @@ concas2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="concas2013simulation",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -393,6 +408,7 @@ cram2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="cram2013controlling",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Information Systems Journal",
 ))
 
@@ -406,6 +422,7 @@ dahmann2013a = DB(WorkUnrelated(
     organization="IEEE",
     ID="dahmann2013systems",
     webofscience2016="1",
+    planilha_webofscience2016="1",
     placex="Systems Conference (SysCon), 2013 IEEE International",
     doi="10.1109/SysCon.2013.6549905",
     art_number="6549905",
@@ -413,11 +430,11 @@ dahmann2013a = DB(WorkUnrelated(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883024391&doi=10.1109%2fSysCon.2013.6549905&partnerID=40&md5=d42f7833bd9a25ebd3187f6035910bdb",
     document_type="Conference Paper",
     source="Scopus",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
     language="English",
     copyright="Compendex",
     address="Orlando, FL, United states",
-    elcompendex2016_duplicate_removed="1",
+    elcompendex2016="1",
 ))
 
 daneva2013a = DB(WorkUnrelated(
@@ -432,6 +449,7 @@ daneva2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="daneva2013agile",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of systems and software",
 ))
 
@@ -457,6 +475,7 @@ davis2013a = DB(WorkSnowball(
     document_type="Conference Paper",
     source="Scopus",
     scopus2016="1",
+    planilha_scopus2016="1",
     scholar_ok=True,
 ))
 
@@ -508,6 +527,7 @@ elmoselhy2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="elmoselhy2013hybrid",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Manufacturing Systems",
 ))
 
@@ -577,6 +597,7 @@ escalona2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="escalona2013detecting",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -668,6 +689,7 @@ garvey2013a = DB(WorkUnrelated(
     publisher="Consortium for Computing Sciences in Colleges",
     ID="garvey2013agile",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Journal of Computing Sciences in Colleges",
 ))
 
@@ -683,6 +705,7 @@ garzás2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="garzas2013case",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -698,6 +721,7 @@ gencel2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="gencel2013decision",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -713,6 +737,7 @@ gligor2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="gligor2013multidisciplinary",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Business Logistics",
 ))
 
@@ -728,6 +753,7 @@ golfarelli2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="golfarelli2013multi",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of systems and software",
 ))
 
@@ -741,6 +767,7 @@ gonzález2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="gonzalez2013inclusive",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the First International Conference on Technological Ecosystem for Enhancing Multiculturality",
 ))
 
@@ -756,6 +783,7 @@ gupta2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="gupta2013usage",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International Journal of Information Management",
 ))
 
@@ -771,6 +799,7 @@ hamraz2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="hamraz2013holistic",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Systems Engineering",
 ))
 
@@ -810,6 +839,7 @@ heesch2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="van2013does",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -841,6 +871,7 @@ hsu2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="hsu2013antecedents",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Project Management Journal",
 ))
 
@@ -867,6 +898,7 @@ hurtado2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="hurtado2013mde",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -885,6 +917,7 @@ iacob2013a = DB(WorkUnrelated(
     cluster_id="14863547012484912400",
     scholar="http://scholar.google.com/scholar?cites=14863547012484912400&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 ihme2013a = DB(WorkUnrelated(
@@ -902,6 +935,7 @@ ihme2013a = DB(WorkUnrelated(
     doi="10.1007/s13173-012-0096-0",
     ID="Ihme2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Journal of the Brazilian Computer Society",
 ))
 
@@ -915,6 +949,7 @@ ingold2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="ingold2013model",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2013 International Conference on Software and System Process",
 ))
 
@@ -930,6 +965,7 @@ janes2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="janes2013managing",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of software: evolution and process",
 ))
 
@@ -948,6 +984,7 @@ kaisti2013a = DB(WorkUnrelated(
     doi="10.1186/1687-3963-2013-15",
     ID="Kaisti2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="EURASIP Journal on Embedded Systems",
 ))
 
@@ -963,6 +1000,7 @@ kapsali2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="kapsali2013equifinality",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Systems Research and Behavioral Science",
 ))
 
@@ -981,6 +1019,7 @@ khalili2013a = DB(WorkUnrelated(
     cluster_id="12244037295700311578",
     scholar="http://scholar.google.com/scholar?cites=12244037295700311578&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 korhonen2013a = DB(WorkUnrelated(
@@ -998,6 +1037,7 @@ korhonen2013a = DB(WorkUnrelated(
     doi="10.1007/s11219-012-9189-4",
     ID="Korhonen2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Quality Journal",
 ))
 
@@ -1013,6 +1053,7 @@ kramer2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="kramer2013automotive",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -1028,6 +1069,7 @@ kruchten2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="kruchten2013contextualizing",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
     doi="10.1002/smr.572",
     note="cited By 45",
@@ -1043,6 +1085,7 @@ kuhrmann2013a = DB(WorkUnrelated(
     organization="IEEE Press",
     ID="kuhrmann2013teaching",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2013 International Conference on Software Engineering",
 ))
 
@@ -1058,6 +1101,7 @@ lagerström2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="lagerstrom2013increasing",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -1073,6 +1117,7 @@ laguna2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="laguna2013systematic",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Science of Computer Programming",
 ))
 
@@ -1088,6 +1133,7 @@ lane2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="lane20134",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -1127,6 +1173,7 @@ macduffie2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="macduffie2013modularity",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Global Strategy Journal",
 ))
 
@@ -1141,6 +1188,7 @@ mansor2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="mansor2013empirical",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Procedia-Social and Behavioral Sciences",
 ))
 
@@ -1156,6 +1204,7 @@ masood2013a = DB(WorkUnrelated(
     publisher="Springer",
     ID="masood2013model",
     springer2016="1",
+    planilha_springer2016="1",
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
@@ -1186,6 +1235,7 @@ mcavoy2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="mcavoy2013using",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Information Systems Journal",
 ))
 
@@ -1217,6 +1267,7 @@ melo2013a = DB(WorkUnrelated(
     doi="10.1007/s13173-013-0114-x",
     ID="deO.Melo2013",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Journal of the Brazilian Computer Society",
 ))
 
@@ -1232,6 +1283,7 @@ melo2013b = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="melo2013interpretative",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -1296,6 +1348,7 @@ neto2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="neto2013design",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -1314,6 +1367,7 @@ newman2013a = DB(WorkUnrelated(
     source="Scopus",
     ID="Newman2013215",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="Johns Hopkins APL Technical Digest (Applied Physics Laboratory)",
 ))
 
@@ -1329,6 +1383,7 @@ oellgaard2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="jensen2013performance",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Project Management Journal",
 ))
 
@@ -1347,6 +1402,7 @@ ozkaya2013a = DB(WorkSnowball(
     document_type="Article",
     source="Scopus",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="CrossTalk",
     scholar_ok=True,
 ))
@@ -1378,6 +1434,7 @@ papke2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="papke20131",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -1393,6 +1450,7 @@ pardo2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="pardo2013chaos",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -1410,6 +1468,7 @@ peled2013a = DB(WorkUnrelated(
     source="Scopus",
     ID="Peled20131774",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="2013 Proceedings of PICMET 2013: Technology Management in the IT-Driven Services",
 ))
 
@@ -1425,6 +1484,7 @@ peng2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="peng2013relationships",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Supply Chain Management",
 ))
 
@@ -1438,6 +1498,7 @@ perkusich2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="perkusich2013model",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 28th Annual ACM Symposium on Applied Computing",
 ))
 
@@ -1453,6 +1514,7 @@ pernstål2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="pernstaal2013lean",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -1467,6 +1529,7 @@ pinheiro2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="pinheiro2013dealing",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Procedia Computer Science",
 ))
 
@@ -1480,6 +1543,7 @@ porrawatpreyakorn2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="porrawatpreyakorn2013knowledge",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of International Conference on Information Integration and Web-based Applications & Services",
 ))
 
@@ -1495,6 +1559,7 @@ qusef2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="qusef2013evaluating",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -1535,6 +1600,7 @@ raninen2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="raninen2013lappi",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -1562,6 +1628,7 @@ rodríguez2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="rodriguez2013building",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2013 international conference on software and system process",
 ))
 
@@ -1580,6 +1647,7 @@ rosenkranz2013a = DB(WorkUnrelated(
     cluster_id="15939323447531693473",
     scholar="http://scholar.google.com/scholar?cites=15939323447531693473&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 ruiz2013a = DB(WorkUnrelated(
@@ -1594,6 +1662,7 @@ ruiz2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="ruiz2013uses",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -1609,6 +1678,7 @@ ryan2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="ryan2013acquiring",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -1627,6 +1697,7 @@ samantra2013a = DB(WorkUnrelated(
     cluster_id="5712250685902060989",
     scholar="http://scholar.google.com/scholar?cites=5712250685902060989&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 santos2013a = DB(WorkUnrelated(
@@ -1653,6 +1724,7 @@ scharlau2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="scharlau2013games",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 18th ACM conference on Innovation and technology in computer science education",
 ))
 
@@ -1668,6 +1740,7 @@ schneider2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="schneider2013solutions",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International Journal of Information Management",
 ))
 
@@ -1716,6 +1789,7 @@ sheffield2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="sheffield2013factors",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International Journal of Project Management",
 ))
 
@@ -1731,6 +1805,7 @@ silva2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="da2013team",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -1771,6 +1846,7 @@ stankovic2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="stankovic2013survey",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -1786,6 +1862,7 @@ stegaru2013a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="stegaru2013quality",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="IFAC Proceedings Volumes",
 ))
 
@@ -1801,6 +1878,7 @@ sukwadi2013a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="sukwadi2013supply",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Small Business Management",
 ))
 
@@ -1816,6 +1894,7 @@ turner2013a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="turner20135",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -1892,6 +1971,7 @@ waardenburg2013a = DB(WorkSnowball(
     selected_snowballing="1",
     selected_order="20",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Information and software technology",
     scholar_ok=True,
 ))
@@ -1918,6 +1998,7 @@ wasserman2013a = DB(WorkUnrelated(
     organization="ACM",
     ID="wasserman2013low",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2013 International Conference on Software and System Process",
 ))
 
@@ -1931,6 +2012,7 @@ wiklund2013a = DB(WorkUnrelated(
     organization="IEEE Press",
     ID="wiklund2013can",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 1st international workshop on conducting empirical studies in industry",
 ))
 

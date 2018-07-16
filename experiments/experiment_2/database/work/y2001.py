@@ -150,6 +150,7 @@ kroemer2001a = DB(WorkUnrelated(
     cluster_id="830220169728379893",
     scholar="http://scholar.google.com/scholar?cites=830220169728379893&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 manifesto2001a = DB(WorkUnrelated(
@@ -200,6 +201,7 @@ ring2001a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="ring20013",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 

@@ -29,6 +29,7 @@ ali2006a = DB(WorkUnrelated(
     publisher="ACM",
     ID="ali2006imparting",
     acm2016="1",
+    planilha_acm2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
@@ -58,6 +59,7 @@ barnard2006a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="barnard20064",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -71,6 +73,7 @@ bergin2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="bergin2006patterns",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 conference on Pattern languages of programs",
 ))
 
@@ -85,6 +88,7 @@ bichou2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="bichou2006review",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Research in Transportation Economics",
 ))
 
@@ -100,6 +104,7 @@ biddle2006a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="biddle20061",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -115,13 +120,14 @@ boehm2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="boehm2006some",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Systems Engineering",
     doi="10.1002/sys.20044",
     note="cited By 105",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644684772&doi=10.1002%2fsys.20044&partnerID=40&md5=300d1e31b0a13e9ccac17d5fac1aee2e",
     document_type="Review",
     source="Scopus",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 boehm2006b = DB(WorkUnrelated(
@@ -136,6 +142,7 @@ boehm2006b = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="boehm20066",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -177,6 +184,7 @@ boström2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="bostrom2006extending",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 international workshop on Software engineering for secure systems",
 ))
 
@@ -192,13 +200,14 @@ browning2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="browning2006key",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Systems Engineering",
     doi="10.1002/sys.20047",
     note="cited By 155",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33744490407&doi=10.1002%2fsys.20047&partnerID=40&md5=85d3d6dbc275b8edcaf8f311b9ba8edc",
     document_type="Article",
     source="Scopus",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 bullinger2006a = DB(WorkUnrelated(
@@ -232,6 +241,7 @@ carlsson2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="carlsson2006eunit",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 ACM SIGPLAN workshop on Erlang",
 ))
 
@@ -260,6 +270,7 @@ christov2006a = DB(WorkUnrelated(
     publisher="Consortium for Computing Sciences in Colleges",
     ID="christov2006examining",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Journal of Computing Sciences in Colleges",
 ))
 
@@ -275,6 +286,7 @@ ciborra2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="ciborra2006imbrication",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Management Studies",
 ))
 
@@ -290,6 +302,7 @@ cicmil2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="cicmil2006rethinking",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International journal of project management",
 ))
 
@@ -316,6 +329,7 @@ cook2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="cook2006evolution",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -331,6 +345,7 @@ damm2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="damm2006results",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -344,6 +359,7 @@ datta2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="datta2006agility",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 44th annual Southeast regional conference",
 ))
 
@@ -357,6 +373,7 @@ davies2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="davies2006creating",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications",
 ))
 
@@ -383,6 +400,7 @@ dowlatshahi2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="dowlatshahi2006relationships",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="European journal of operational research",
 ))
 
@@ -401,6 +419,7 @@ fitzgerald2006a = DB(WorkUnrelated(
     doi="10.1057/palgrave.ejis.3000605",
     ID="Fitzgerald2006",
     springer2016="1",
+    planilha_springer2016="1",
     placex="European Journal of Information Systems",
     note="cited By 176",
 ))
@@ -415,6 +434,7 @@ fraser2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="fraser2006fishbowl",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications",
 ))
 
@@ -428,6 +448,7 @@ ge2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="ge2006agile",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 6th international conference on Web engineering",
 ))
 
@@ -454,6 +475,7 @@ goldsby2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="goldsby2006modeling",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of business logistics",
 ))
 
@@ -469,6 +491,7 @@ gunasekaran2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="gunasekaran2006information",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="European Journal of Operational Research",
 ))
 
@@ -498,6 +521,7 @@ hansson2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="hansson2006agile",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -511,6 +535,7 @@ hazzan2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="hazzan2006cognitive",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 international workshop on Workshop on interdisciplinary software engineering research",
 ))
 
@@ -524,6 +549,7 @@ hazzan2006b = DB(WorkUnrelated(
     organization="ACM",
     ID="hazzan2006concept",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 international workshop on Software technology transfer in software engineering",
 ))
 
@@ -569,6 +595,7 @@ kazman2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="kazman2006essential",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -584,6 +611,7 @@ keenan2006a = DB(WorkUnrelated(
     publisher="ACM",
     ID="keenan2006learning",
     acm2016="1",
+    planilha_acm2016="1",
     placex="ACM SIGCSE Bulletin",
 ))
 
@@ -599,6 +627,7 @@ kolb2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="kolb2006refactoring",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -632,6 +661,7 @@ lavrishcheva2006a = DB(WorkUnrelated(
     doi="10.1007/s10559-006-0115-2",
     ID="Lavrishcheva2006",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Cybernetics and Systems Analysis",
 ))
 
@@ -645,6 +675,7 @@ lee2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="lee2006embracing",
     acm2016="1",
+    planilha_acm2016="1",
     placex="CHI'06 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
@@ -686,6 +717,7 @@ mackertich2006a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="mackertich20061",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -699,6 +731,7 @@ martin2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="martin2006programmers",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 conference on Pattern languages of programs",
 ))
 
@@ -712,6 +745,7 @@ maurer2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="maurer2006agile",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 28th international conference on Software engineering",
 ))
 
@@ -727,6 +761,7 @@ mckinney2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="mckinney2006developing",
     acm2016="1",
+    planilha_acm2016="1",
     placex="ACM SIGCSE Bulletin",
 ))
 
@@ -746,6 +781,7 @@ melnik2006a = DB(WorkUnrelated(
     source="Scopus",
     ID="Melnik200635",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="Proceedings - AGILE Conference, 2006",
 ))
 
@@ -761,6 +797,7 @@ mulebeke2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="mulebeke2006analytical",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Engineering and Technology Management",
 ))
 
@@ -774,6 +811,7 @@ navoraphan2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="navoraphan2006next",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Proceedings of the 2006 OOPSLA workshop on eclipse technology eXchange",
 ))
 
@@ -804,6 +842,7 @@ olague2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="olague2006assessing",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -822,6 +861,7 @@ oosterhout2006a = DB(WorkUnrelated(
     cluster_id="2057640044435590455",
     scholar="http://scholar.google.com/scholar?cites=2057640044435590455&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 poole2006a = DB(WorkUnrelated(
@@ -835,6 +875,7 @@ poole2006a = DB(WorkUnrelated(
     number="8",
     ID="poole2006breaking",
     acm2016="1",
+    planilha_acm2016="1",
     placex="ACM Queue",
 ))
 
@@ -850,6 +891,7 @@ porter2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="porter2006techniques",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Software Process: Improvement and Practice",
 ))
 
@@ -868,6 +910,7 @@ post2006a = DB(WorkUnrelated(
     source="Scopus",
     ID="Post2006239",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="Advances in Computers",
 ))
 
@@ -883,6 +926,7 @@ rosso2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="del2006continuous",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -898,6 +942,7 @@ scacchi2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="scacchi2006understanding",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Software Process: Improvement and Practice",
 ))
 
@@ -915,6 +960,7 @@ sfetsos2006a = DB(WorkUnrelated(
     doi="10.1007/s10664-006-6404-6",
     ID="Sfetsos2006",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Empirical Software Engineering",
 ))
 
@@ -928,6 +974,7 @@ sharp2006a = DB(WorkUnrelated(
     organization="ACM",
     ID="sharp2006agile",
     acm2016="1",
+    planilha_acm2016="1",
     placex="CHI'06 Extended Abstracts on Human Factors in Computing Systems",
 ))
 
@@ -943,6 +990,7 @@ sherrell2006a = DB(WorkUnrelated(
     publisher="Consortium for Computing Sciences in Colleges",
     ID="sherrell2006pair",
     acm2016="1",
+    planilha_acm2016="1",
     placex="Journal of Computing Sciences in Colleges",
 ))
 
@@ -958,6 +1006,7 @@ simons2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="simons2006theory",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Software Testing, Verification and Reliability",
 ))
 
@@ -976,6 +1025,7 @@ solingen2006a = DB(WorkUnrelated(
     source="Scopus",
     ID="vanSolingen20061",
     scopus2016="1",
+    planilha_scopus2016="1",
     placex="Advances in Computers",
 ))
 
@@ -994,6 +1044,7 @@ syed2006a = DB(WorkUnrelated(
     doi="10.1007/s10664-006-5968-5",
     ID="Syed-Abdullah2006",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Empirical Software Engineering",
 ))
 
@@ -1043,6 +1094,7 @@ wang2006a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="wang20062",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -1058,6 +1110,7 @@ ward2006a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="ward2006impact",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Decision Sciences",
 ))
 
@@ -1083,6 +1136,7 @@ xie2006a = DB(WorkUnrelated(
     publisher="Springer",
     ID="xie2006tool",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Automated Software Engineering",
 ))
 
@@ -1098,5 +1152,6 @@ xie2006b = DB(WorkUnrelated(
     publisher="Springer",
     ID="xie2006rapid",
     springer2016="1",
+    planilha_springer2016="1",
     placex="The International Journal of Advanced Manufacturing Technology",
 ))

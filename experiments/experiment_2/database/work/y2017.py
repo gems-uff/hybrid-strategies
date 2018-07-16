@@ -185,6 +185,7 @@ bjarnason2017a = DB(WorkUnrelated(
     cluster_id="4394912325701008308",
     scholar="http://scholar.google.com/scholar?cites=4394912325701008308&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 bordin2017a = DB(WorkUnrelated(
@@ -224,6 +225,7 @@ bulej2017a = DB(WorkUnrelated(
     publisher="Springer",
     ID="bulej2017unit",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Automated Software Engineering",
 ))
 
@@ -310,6 +312,7 @@ dias2017a = DB(WorkUnrelated(
     publisher="Springer",
     ID="dias2017toward",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Quality Journal",
 ))
 
@@ -353,6 +356,7 @@ engström2017a = DB(WorkUnrelated(
     doi="10.1007/s11219-016-9322-x",
     ID="Engström2017",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Quality Journal",
 ))
 
@@ -378,6 +382,7 @@ fagerholm2017a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="fagerholm2017right",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -393,6 +398,7 @@ fayezi2017a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="fayezi2017understanding",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="International Journal of Management Reviews",
 ))
 
@@ -407,6 +413,7 @@ femmer2017a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="femmer2017rapid",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -458,6 +465,7 @@ garousi2017a = DB(WorkUnrelated(
     cluster_id="9895204744097567070",
     scholar="http://scholar.google.com/scholar?cites=9895204744097567070&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 gencer2017a = DB(WorkUnrelated(
@@ -541,6 +549,7 @@ heck2017a = DB(WorkUnrelated(
     cluster_id="7378503874710448224",
     scholar="http://scholar.google.com/scholar?cites=7378503874710448224&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 heck2017b = DB(WorkUnrelated(
@@ -817,6 +826,7 @@ larusdottir2017a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="larusdottir2017license",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -868,6 +878,7 @@ mkaouer2017a = DB(WorkUnrelated(
     cluster_id="10664094280108626514",
     scholar="http://scholar.google.com/scholar?cites=10664094280108626514&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 moe2017a = DB(WorkUnrelated(
@@ -1093,6 +1104,7 @@ rodríguez2017a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="rodriguez2017continuous",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -1225,6 +1237,7 @@ teoi2017a = DB(WorkUnrelated(
     doi="10.1007/s00170-016-8824-9",
     ID="Teoi2017",
     springer2016="1",
+    planilha_springer2016="1",
     placex="The International Journal of Advanced Manufacturing Technology",
 ))
 
@@ -1255,6 +1268,7 @@ thakurta2017a = DB(WorkUnrelated(
     doi="10.1007/s00766-016-0253-7",
     ID="Thakurta2017",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Requirements Engineering",
 ))
 
@@ -1293,6 +1307,7 @@ wynn2017a = DB(WorkUnrelated(
     cluster_id="587390715215312131",
     scholar="http://scholar.google.com/scholar?cites=587390715215312131&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 östman2017a = DB(WorkUnrelated(

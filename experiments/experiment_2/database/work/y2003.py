@@ -54,6 +54,7 @@ beckley2003a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="beckley20032",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -97,6 +98,7 @@ bruin2003a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="bruin2003food",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Comprehensive Reviews in Food Science and Food Safety",
 ))
 
@@ -149,6 +151,7 @@ currie2003a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="currie2003knowledge",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="International Journal of Project Management",
 ))
 
@@ -202,6 +205,7 @@ georgiadou2003a = DB(WorkUnrelated(
     cluster_id="15583823123386965549",
     scholar="http://scholar.google.com/scholar?cites=15583823123386965549&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 hayes2003a = DB(WorkUnrelated(
@@ -216,6 +220,7 @@ hayes2003a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="huffman2003observe",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -242,6 +247,7 @@ joglekar2003a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="joglekar2003coordination",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Product Innovation Management",
 ))
 
@@ -257,6 +263,7 @@ kovács2003a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="kovacs2003planning",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Computers in Industry",
 ))
 
@@ -298,6 +305,7 @@ mcdaniel2003a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="mcdaniel20032",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -313,6 +321,7 @@ mroczek2003a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="mroczek20032",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
 
@@ -343,6 +352,7 @@ pierreval2003a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="pierreval2003evolutionary",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Computers & Industrial Engineering",
 ))
 
@@ -395,6 +405,7 @@ siebel2003a = DB(WorkUnrelated(
     publisher="Wiley Online Library",
     ID="siebel2003latitudinal",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
 ))
 
@@ -436,5 +447,6 @@ wilson2003a = DB(WorkUnrelated(
     organization="Wiley Online Library",
     ID="wilson20037",
     wiley2016="1",
+    planilha_wiley2016="1",
     placex="INCOSE International Symposium",
 ))
