@@ -1,0 +1,36 @@
+digraph G {
+  rankdir="RL";
+
+  s0 [label="s0\n visited: 935\n selected: 17"];
+  s0 -> scopus2016 [label="union"];
+  s0 -> springer2016 [label="union"];
+  s0 -> acm2016 [label="union"];
+  s0 -> sciencedirect2016 [label="union"];
+  s0 -> wiley2016 [label="union"];
+  s0 -> webofscience2016 [label="union"];
+  s0 -> elcompendex2016 [label="union"];
+  s0 -> scopus2016_duplicate_removed [label="union"];
+  s0 -> elcompendex2016_duplicate_removed [label="union"];
+  s0 -> sciencedirect2016_duplicate_removed [label="union"];
+
+  scopus2016 [label="scopus2016\n visited: 68\n selected: 7"];
+
+  springer2016 [label="springer2016\n visited: 115\n selected: 0"];
+
+  acm2016 [label="acm2016\n visited: 210\n selected: 5"];
+
+  sciencedirect2016 [label="sciencedirect2016\n visited: 245\n selected: 5"];
+
+  wiley2016 [label="wiley2016\n visited: 294\n selected: 0"];
+
+  webofscience2016 [label="webofscience2016\n visited: 3\n selected: 0"];
+
+  elcompendex2016 [label="elcompendex2016\n visited: 1\n selected: 0"];
+
+  scopus2016_duplicate_removed [label="scopus2016_duplicate_removed\n visited: 9\n selected: 0"];
+
+  elcompendex2016_duplicate_removed [label="elcompendex2016_duplicate_removed\n visited: 8\n selected: 3"];
+
+  sciencedirect2016_duplicate_removed [label="sciencedirect2016_duplicate_removed\n visited: 4\n selected: 1"];
+
+}

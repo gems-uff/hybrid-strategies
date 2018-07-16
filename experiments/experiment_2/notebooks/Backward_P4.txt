@@ -1,0 +1,171 @@
+﻿Scopus
+EXPORT DATE: 29 June 2018
+
+@ARTICLE{NoAuthor2009,
+title={A guide to the business analysis body of knowledge (BABOK Guide)},
+journal={International Institute of Business Analysis (IIBA)},
+year={2009},
+note={cited By 1},
+}
+
+@ARTICLE{Robertson2000,
+author={Robertson, J. and Robertson, S.},
+title={Volere requirements specification template},
+journal={Volere Requirements Specification Template},
+year={2000},
+note={cited By 41},
+}
+
+@ARTICLE{NoAuthor1998,
+title={IEEE recommended practice for software requirements specifications},
+journal={IEEE Std},
+year={1998},
+volume={830},
+number={1998},
+note={cited By 1},
+}
+
+@CONFERENCE{Ernst201225,
+author={Ernst, N.A. and Murphy, G.C.},
+title={Case studies in just-in-time requirements analysis},
+journal={2012 2nd IEEE International Workshop on Empirical Requirements Engineering, EmpiRE 2012 - Proceedings},
+year={2012},
+pages={25-32},
+doi={10.1109/EmpiRE.2012.6347678},
+art_number={6347678},
+note={cited By 33},
+}
+
+@ARTICLE{Inayat2014,
+author={Inayat, I. and Salim, S.S. and Marczak, S. and Daneva, M. and Shamshirband, S.},
+title={A systematic literature review on agile requirements engineering practices and challenges},
+journal={Computers in Human Behavior},
+year={2014},
+note={cited By 12},
+}
+
+@CONFERENCE{Heck201343,
+author={Heck, P. and Zaidman, A.},
+title={An analysis of requirements evolution in open source projects: Recommendations for issue trackers},
+journal={International Workshop on Principles of Software Evolution (IWPSE)},
+year={2013},
+pages={43-52},
+doi={10.1145/2501543.2501550},
+note={cited By 6},
+}
+
+@ARTICLE{Heck20141280,
+author={Heck, P. and Zaidman, A.},
+title={Horizontal traceability for just-in-time requirements: The case for open source feature requests},
+journal={Journal of Software: Evolution and Process},
+year={2014},
+volume={26},
+number={12},
+pages={1280-1296},
+note={cited By 7},
+}
+
+@ARTICLE{Herzig2012,
+author={Herzig, K. and Just, S. and Zeller, A.},
+title={Its not a bug, its a feature: How misclassification impacts bug prediction},
+journal={Universitt des Saarlandes},
+year={2012},
+note={cited By 3},
+}
+
+@CONFERENCE{Bettenburg2008308,
+author={Bettenburg, N. and Just, S. and Schröter, A. and Weiss, C. and Premraj, R. and Zimmermann, T.},
+title={What makes a good bug report?},
+journal={Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering},
+year={2008},
+pages={308-318},
+doi={10.1145/1453101.1453146},
+note={cited By 228},
+}
+
+@ARTICLE{Heck00002014,
+author={Heck, P. and Zaidman, A.},
+title={A quality framework for agile requirements: A practitioners perspective},
+journal={Software Engineering Research Group, Delft University of Technology, Tech. Rep. TUD-SERG},
+year={0000},
+pages={2014-3006},
+note={cited By 1},
+}
+
+@ARTICLE{Leffingwell2011,
+author={Leffingwell, D.},
+journal={Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise},
+year={2011},
+note={cited By 144},
+}
+
+@ARTICLE{Doran198135,
+author={Doran, G.T.},
+title={There's a S.M.A.R.T. way to write management's goals and objectives},
+journal={Management Review},
+year={1981},
+volume={70},
+number={11},
+pages={35-36},
+note={cited By 415},
+}
+
+@ARTICLE{Wake2003,
+author={Wake, B.},
+journal={INVEST in Good Stories, and SMART Tasks},
+year={2003},
+note={cited By 21},
+}
+
+@ARTICLE{Heck200937,
+author={Heck, P. and Klabbers, M. and van Eekelen, M.},
+title={A software product certification model},
+journal={Software Quality Journal},
+year={2009},
+volume={18},
+number={1},
+pages={37-55},
+doi={10.1007/s11219-009-9080-0},
+note={cited By 17},
+}
+
+@ARTICLE{Power2014312,
+author={Power, K.},
+title={Definition of ready: An experience report from teams at Cisco},
+journal={Lecture Notes in Business Information Processing},
+year={2014},
+volume={179 LNBIP},
+pages={312-319},
+doi={10.1007/978-3-319-06862-6},
+note={cited By 10},
+}
+
+@CONFERENCE{Alspaugh2013165,
+author={Alspaugh, T.A. and Scacchi, W.},
+title={Ongoing software development without classical requirements},
+journal={2013 21st IEEE International Requirements Engineering Conference, RE 2013 - Proceedings},
+year={2013},
+pages={165-174},
+doi={10.1109/RE.2013.6636716},
+art_number={6636716},
+note={cited By 19},
+}
+
+@ARTICLE{Fitzgerald2012117,
+author={Fitzgerald, C. and Letier, E. and Finkelstein, A.},
+title={Early failure prediction in feature request management systems: An extended study},
+journal={Requirements Engineering},
+year={2012},
+volume={17},
+number={2},
+pages={117-132},
+doi={10.1007/s00766-012-0150-7},
+note={cited By 5},
+}
+
+@ARTICLE{Adzic2011,
+author={Adzic, G.},
+journal={Specification by Example: How Successful Teams Deliver the Right Software},
+year={2011},
+note={cited By 31},
+}

@@ -448,6 +448,8 @@ cotugno2014a = DB(WorkUnrelated(
     organization="Springer",
     ID="cotugno2014adapting",
     webofscience2016="1",
+    scopus2016_duplicate_removed="1",
+    elcompendex2016_duplicate_removed="1",
     placex="IFIP International Conference on Open Source Systems",
 ))
 
