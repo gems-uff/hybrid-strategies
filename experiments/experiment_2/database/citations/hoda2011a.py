@@ -202,7 +202,7 @@ from ..work.y2018 import bass2018b
 from ..work.y2018 import tolfo2018a
 from ..work.y2018 import rodríguez2018a
 from ..work.y2018 import ochodek2018a
-from ..work.y2018 import bass2018b
+from ..work.y2018 import bass2018c
 from ..work.y2018 import eichhorn2018a
 
 DB(Citation(
@@ -1291,7 +1291,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    bass2018b, hoda2011a, ref="",
+    bass2018c, hoda2011a, ref="",
     contexts=[
 
     ],

@@ -20,7 +20,7 @@ from ..work.y2010 import coplien2010a
 from ..work.y2010 import sutherland2010a
 from ..work.y2011 import schwaber2011a
 from ..work.y2012 import versionone2012a
-from ..work.y2013 import eloranta2013b
+from ..work.y2013 import eloranta2013a
 from ..work.y2015 import eloranta2015a
 from ..work.y2015 import org2015a
 from ..work.y2016 import eloranta2016a
@@ -151,7 +151,7 @@ DB(Citation(
 ))
 
 DB(Citation(
-    eloranta2016a, eloranta2013b, ref="",
+    eloranta2016a, eloranta2013a, ref="",
     contexts=[
 
     ],

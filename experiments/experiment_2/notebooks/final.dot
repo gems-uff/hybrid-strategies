@@ -1,5 +1,9 @@
 digraph G {
-  rankdir="RL";
+  //edge [fontsize=32]
+  rankdir="BT";
+  //node [shape=box]
+  
+
 
   s0 [label="s0\n visited: 935\n selected: 17"];
   s0 -> scopus2016 [label="union"];
@@ -24,4 +28,6 @@ digraph G {
 
   elcompendex2016 [label="elcompendex2016\n visited: 9\n selected: 3\n planilha: 1\n planilha selected: 0\n duplicados: 8"];
 
+  {rank=same scopus2016 elcompendex2016 springer2016 s0}
+  scopus2016 -> s0 [style=invis]
 }

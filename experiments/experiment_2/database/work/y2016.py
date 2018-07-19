@@ -540,7 +540,8 @@ designtool2016b = DB(WorkUnrelated(
 ))
 
 diebold2016a = DB(WorkUnrelated(
-    2016, "Prozessverbesserung durch fragmentierte Anwendung von Scrum$ackslash$& Co",
+    2016, "Prozessverbesserung durch fragmentierte Anwendung von Scrum & Co",
+    alias=(2016, "Prozessverbesserung durch fragmentierte Anwendung von Scrum$ackslash$& Co",),
     display="diebold",
     authors="Diebold, Philipp and Zehler, Thomas and Schmitt, Anna and Simon, Frank and Kruse, Birger",
     place=FAKE,

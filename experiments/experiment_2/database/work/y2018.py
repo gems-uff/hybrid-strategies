@@ -69,7 +69,7 @@ bass2018b = DB(WorkUnrelated(
     placex="",
 ))
 
-bass2018b = DB(WorkUnrelated(
+bass2018c = DB(WorkUnrelated(
     2018, "A Large Empirical Study of the Product Owner Role in Scrum",
     display="bass b",
     authors="Bass, Julian M and Beecham, Sarah and Canna, Clodagh Nic and Noll, John and Razzak, Mohammad Abdur",

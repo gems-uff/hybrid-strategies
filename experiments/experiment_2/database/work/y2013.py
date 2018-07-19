@@ -533,6 +533,7 @@ elmoselhy2013a = DB(WorkUnrelated(
 
 eloranta2013a = DB(WorkSnowball(
     2013, "Scrum Anti-Patterns--An Empirical Study",
+    alias=(2013, "Scrum ANTI-patterns - An empirical study", "Eloranta, V.-P. and Koskimies, K. and Mikkonen, T. and Vuorinen, J."),
     display="eloranta",
     authors="Eloranta, Veli-Pekka and Koskimies, Kai and Mikkonen, Tommi and Vuorinen, Jyri",
     place=SEC,
@@ -546,21 +547,6 @@ eloranta2013a = DB(WorkSnowball(
     selected_snowballing="1",
     selected_order="17",
     scholar_ok=True,
-))
-
-eloranta2013b = DB(WorkUnrelated(
-    2013, "Scrum ANTI-patterns - An empirical study",
-    display="eloranta b",
-    authors="Eloranta, V.-P. and Koskimies, K. and Mikkonen, T. and Vuorinen, J.",
-    place=FAKE,
-    pp="503--510",
-    entrytype="conference",
-    volume="1",
-    doi="10.1109/APSEC.2013.72",
-    art_number="6805443",
-    note="cited By 9",
-    ID="Eloranta2013503",
-    placex="Proceedings - Asia-Pacific Software Engineering Conference, APSEC",
 ))
 
 eoyang2013a = DB(WorkUnrelated(
