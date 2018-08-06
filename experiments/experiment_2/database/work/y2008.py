@@ -19,6 +19,7 @@ aaen2008a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Lecture Notes in Business Information Processing",
+    springer2016="1",
 ))
 
 acuña2008a = DB(WorkUnrelated(

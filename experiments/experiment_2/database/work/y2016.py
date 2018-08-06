@@ -386,6 +386,7 @@ chang2016a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Communications in Computer and Information Science",
+    springer2016="1",
 ))
 
 

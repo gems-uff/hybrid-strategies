@@ -471,6 +471,7 @@ cotugno2014a = DB(WorkUnrelated(
     scopus2016="1",
     elcompendex2016="1",
     placex="IFIP International Conference on Open Source Systems",
+    springer2016="1",
 ))
 
 cummings2014a = DB(WorkUnrelated(
@@ -1730,6 +1731,7 @@ nilsson2014a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Lecture Notes in Business Information Processing",
+    springer2016="1",
 ))
 
 paasivaara2014a = DB(WorkUnrelated(
@@ -1906,6 +1908,7 @@ power2014a = DB(WorkSnowball(
     address="Rome, Italy",
     elcompendex2016="1",
     scholar_ok=True,
+    springer2016="1",
 ))
 
 power2014b = DB(WorkSnowball(

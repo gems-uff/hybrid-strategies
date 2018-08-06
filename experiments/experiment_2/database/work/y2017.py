@@ -1017,6 +1017,8 @@ perkusich2017a = DB(WorkUnrelated(
     cluster_id="2890759943334064518",
     scholar="http://scholar.google.com/scholar?cites=2890759943334064518&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Software: Evolution and Process",
+    other1="29: e1835",
+    other2="https://doi.org/10.1002/smr.1835",
 ))
 
 perkusich2017b = DB(WorkUnrelated(

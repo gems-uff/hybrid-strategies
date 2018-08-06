@@ -327,6 +327,7 @@ boehm2011a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="The Future of Software Engineering",
+    springer2016="1",
 ))
 
 bowen2011a = DB(WorkUnrelated(
@@ -743,6 +744,8 @@ haskins2011a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="21st Annual International Symposium of the International Council on Systems Engineering, INCOSE 2011",
+    other1="21: 493-509. doi:10.1002/j.2334-5837.2011.tb01220.x",
+    wiley2016="1",
 ))
 
 heusser2011a = DB(WorkUnrelated(

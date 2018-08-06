@@ -692,6 +692,7 @@ kerr2010a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Studies in Computational Intelligence",
+    springer2016="1",
 ))
 
 kou2010a = DB(WorkUnrelated(
