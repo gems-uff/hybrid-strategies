@@ -18,7 +18,8 @@ ambriola2003a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="ambriola2003framework",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="article",
 ))
 
@@ -78,7 +79,8 @@ dolado2003a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="doladotic2001",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Jornada de Seguimiento de Proyectos en Tecnologıas Informaticas, Programa Nacional de Tecnologıas de la Informacion y las Comunicaciones",
 ))
 
@@ -92,6 +94,7 @@ edwards2003a = DB(WorkUnrelated(
     publisher="Springer",
     ID="edwards2003managing",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Managing software engineering knowledge",
 ))
 
@@ -106,9 +109,11 @@ hayes2003a = DB(WorkUnrelated(
     number="5",
     publisher="Wiley Online Library",
     ID="huffman2003observe",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 iso2003a = DB(WorkUnrelated(
@@ -161,7 +166,8 @@ ruiz2003a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="IGI Global",
     ID="ruiz2003environment",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Advances in software maintenance management: technologies and solutions",
 ))
 
@@ -172,7 +178,8 @@ staalhane2003a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="staalhane2003kandidatens",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET FAKULTET FOR INFORMASJONSTEKNOLOGI, MATEMATIKK OG ELEKTROTEKNIKK",
 ))
 

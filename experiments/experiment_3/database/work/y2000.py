@@ -10,7 +10,8 @@ dutton2000a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="dutton2000trust",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Bachelor's thesis, Griffith university, School of Computing and Information Technology",
 ))
 
@@ -26,7 +27,8 @@ iivari2000a = DB(WorkUnrelated(
     number="3",
     publisher="Taylor & Francis",
     ID="iivari2000dynamic",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of management information systems",
 ))
 
@@ -53,7 +55,8 @@ mair2000a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="quentin2000agent",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of the ECAI 2000 Workshop 13 Agent Technologies and Their Application Scenarios in Logistics",
 ))
 
@@ -64,7 +67,8 @@ nick2000a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="inproceedings",
     ID="nick2000guidelines",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proc. 3rd European Software Measurement Conference (FESMA-AEMES 2000), Madrid, Spain",
 ))
 
@@ -92,6 +96,7 @@ wimmer2000a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="wimmerreport",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Requirements Engineering Network Of International cooperating Research groups",
 ))

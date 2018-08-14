@@ -60,7 +60,8 @@ alfaraj2011a = DB(WorkUnrelated(
     number="3",
     publisher="Emerald Group Publishing Limited",
     ID="alfaraj2011operationalising",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Engineering, Design and Technology",
     cluster_id="10336207753589924678",
     scholar="http://scholar.google.com/scholar?cites=10336207753589924678&as_sdt=2005&sciodt=0,5&hl=en",
@@ -77,7 +78,8 @@ ariely2011a = DB(WorkUnrelated(
     number="3",
     publisher="IGI Global",
     ID="ariely2011boundaries",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal of Sociotechnology and Knowledge Development (IJSKD)",
 ))
 
@@ -89,7 +91,8 @@ azimi2011a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Citeseer",
     ID="azimi2011intelligent",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal on Advances in Software Volume 4, Number 1 & 2, 2011",
 ))
 
@@ -102,7 +105,8 @@ bajec2011a = DB(WorkUnrelated(
     entrytype="article",
     volume="13",
     ID="bajec13method",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Foundations",
 ))
 
@@ -155,7 +159,8 @@ carvalho2011a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="carvalho2011apoio",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="X Simpósio Brasileiro de Qualidade de Software-SBQS",
 ))
 
@@ -168,7 +173,8 @@ chen2011a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="IGI Global",
     ID="chen2011analyzing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Modern Software Engineering Concepts and Practices: Advanced Approaches",
 ))
 
@@ -228,7 +234,8 @@ choi2011a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="choi2011semantic",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Ubiquitous Computing and Multimedia Applications (UCMA), 2011 International Conference on",
 ))
 
@@ -240,7 +247,8 @@ chrissis2011a = DB(WorkUnrelated(
     entrytype="book",
     publisher="Pearson Education",
     ID="chrissis2011cmmi",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -263,9 +271,11 @@ chroust2011a = DB(WorkUnrelated(
     number="5",
     publisher="Wiley Online Library",
     ID="chroust2011improving",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Systems Research and Behavioral Science",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 crespo2011a = DB(WorkUnrelated(
@@ -286,7 +296,8 @@ espindola2011a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Pontifícia Universidade Católica do Rio Grande do Sul",
     ID="espindola2011integraccao",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -413,12 +424,14 @@ hauck2011a = DB(WorkUnrelated(
     ID="hauck2011proposing",
     cluster_id="13928810847676269616",
     scholar="http://scholar.google.com/scholar?cites=13928810847676269616&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
     volume="6759 LNCS",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960302722&doi=10.1007%2f978-3-642-21843-9_6&partnerID=40&md5=17ba14e3e1a5ba3176ce99210f7abcf8",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 henderson2011a = DB(WorkUnrelated(
@@ -430,12 +443,14 @@ henderson2011a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="henderson2011random",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="The evolution of conceptual modeling",
     springer2016="1",
+    planilha_springer2016="1",
     volume="6520",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956074927&doi=10.1007%2f978-3-642-17505-3_5&partnerID=40&md5=cc45fd7b7914d2c5a7fe35bf052f6110",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 hung2011a = DB(WorkUnrelated(
@@ -509,7 +524,8 @@ jr2011a = DB(WorkUnrelated(
     entrytype="article",
     publisher="CRC Press",
     ID="batie2011requirements",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Official (ISC) 2{	extregistered} Guide to the ISSAP{	extregistered} CBK",
 ))
 
@@ -553,7 +569,8 @@ khurum2011a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="khurum2011decision",
     local="Blekinge Institute of Technology",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -564,7 +581,8 @@ klotins2011a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="misc",
     ID="klotins2011usability",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Blekinge Institute of Technology, School of Computing - thesis",
 ))
 
@@ -577,9 +595,11 @@ ko2011a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="kovzusznik2011comparison",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Digital Information Processing and Communications",
     springer2016="1",
+    planilha_springer2016="1",
     cluster_id="859020768479873972",
     scholar="http://scholar.google.com/scholar?cites=859020768479873972&as_sdt=2005&sciodt=0,5&hl=en",
 ))
@@ -593,9 +613,11 @@ ko2011b = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="kovzusznik2011b",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Digital Information Processing and Communications",
     springer2016="1",
+    planilha_springer2016="1",
     cluster_id="859020768479873972",
     scholar="http://scholar.google.com/scholar?cites=859020768479873972&as_sdt=2005&sciodt=0,5&hl=en",
 ))
@@ -610,6 +632,7 @@ kreimeyer2011a = DB(WorkUnrelated(
     publisher="Springer",
     ID="kreimeyer2011foundations",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Complexity Metrics in Engineering Design",
 ))
 
@@ -636,7 +659,8 @@ lane2011a = DB(WorkUnrelated(
     number="5",
     publisher="Elsevier",
     ID="lane2011process",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information and Software Technology",
 ))
 
@@ -680,6 +704,7 @@ lund2011a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="lund2011user",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="",
 ))
 
@@ -695,10 +720,11 @@ lí2011a = DB(WorkUnrelated(
     ID="livska2011spem",
     cluster_id="8973194731755662092",
     scholar="http://scholar.google.com/scholar?cites=8973194731755662092&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computer Science and Information Systems",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80755163671&doi=10.2298%2fCSIS101230011L&partnerID=40&md5=fc496989d69409ee01afac9ccd02f9c2",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 manjula2011a = DB(WorkUnrelated(
@@ -711,7 +737,8 @@ manjula2011a = DB(WorkUnrelated(
     volume="2",
     number="1",
     ID="manjula2011new",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal of Software Engineering & Applications",
 ))
 
@@ -723,7 +750,8 @@ martoglia2011a = DB(WorkUnrelated(
     pp="130--136",
     entrytype="inproceedings",
     ID="martoglia2011facilitate",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="SEKE",
     cluster_id="2880934005880957929",
     scholar="http://scholar.google.com/scholar?cites=2880934005880957929&as_sdt=2005&sciodt=0,5&hl=en",
@@ -778,7 +806,8 @@ ribaud2011a = DB(WorkUnrelated(
     volume="4",
     number="1",
     ID="ribaud2011towards",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal On Advances in Software",
 ))
 
@@ -791,7 +820,8 @@ rifaut2011a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Citeseer",
     ID="rifaut2011intentional",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IStar",
 ))
 
@@ -804,11 +834,12 @@ rifaut2011b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="rifaut2011compliance",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Requirements Engineering and Law (RELAW), 2011 Fourth International Workshop on",
     art_number="6050268",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80855129511&doi=10.1109%2fRELAW.2011.6050268&partnerID=40&md5=8f60903ff4f41ec9220329afd96fc989",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 santos2011a = DB(WorkUnrelated(
@@ -821,10 +852,11 @@ santos2011a = DB(WorkUnrelated(
     volume="83",
     publisher="Elsevier",
     ID="dos2011action",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Advances in computers",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79955638767&doi=10.1016%2fB978-0-12-385510-7.00005-9&partnerID=40&md5=9485bac9d34f169320ea6d93066d7712",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 scampi2011a = DB(WorkUnrelated(
@@ -843,7 +875,8 @@ sharma2011a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Patiala",
     ID="sharma2011design",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="thesis",
 ))
 
@@ -874,9 +907,11 @@ thalheim2011a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="thalheim2011science",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Database and Expert Systems Applications",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 wall2011a = DB(WorkUnrelated(
@@ -888,7 +923,8 @@ wall2011a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="IGI Global",
     ID="wall2011staying",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information Systems and New Applications in the Service Sector: Models and Methods",
 ))
 
@@ -924,7 +960,8 @@ weinberger2011a = DB(WorkUnrelated(
     entrytype="book",
     publisher="na",
     ID="weinberger2011semi",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -944,7 +981,8 @@ zowghi2011a = DB(WorkUnrelated(
     pp="3--4",
     entrytype="inproceedings",
     ID="zowghi2011requirements",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="SoMeT",
 ))
 
@@ -959,6 +997,7 @@ zowghi2011a = DB(WorkUnrelated(
     number="1",
     publisher="中華民國課程與教學學會",
     ID="陳仲儼2011教學能力成熟度模式的設計與建立",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="課程與教學",
 ))

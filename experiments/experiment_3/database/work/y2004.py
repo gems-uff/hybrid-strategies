@@ -84,7 +84,8 @@ díaz2004a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Citeseer",
     ID="diaz2004aproximacion",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proc. IDEAS'2004: IIV Workshop Iberoamericano de Ingeniería de Requisitos y Desarrollo de Ambientes de Software",
 ))
 
@@ -123,7 +124,8 @@ kaner2004a = DB(WorkUnrelated(
     number="4",
     publisher="IOS Press",
     ID="kaner2004capability",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information Knowledge Systems Management",
 ))
 
@@ -200,10 +202,11 @@ ruiz2004a = DB(WorkUnrelated(
     ID="ruiz2004ontology",
     cluster_id="15123460243312094937",
     scholar="http://scholar.google.com/scholar?cites=15123460243312094937&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-4043164955&doi=10.1142%2fS0218194004001646&partnerID=40&md5=682d9f1939381c32380bd6f7119c3e73",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 tague2004a = DB(WorkUnrelated(
@@ -273,7 +276,8 @@ weber2004a = DB(WorkUnrelated(
     entrytype="inproceedings",
     volume="13",
     ID="weber2004modelo",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="XXX Conferencia Latinoamericana de Informatica (CLEI2004), Sesión",
 ))
 

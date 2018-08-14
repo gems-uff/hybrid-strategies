@@ -12,12 +12,14 @@ ahonen2006a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="ahonen2006defining",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
     volume="4034 LNCS",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33746217458&partnerID=40&md5=c3f690652c1b2f954dd23a4ee611849f",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 bella2006a = DB(WorkUnrelated(
@@ -28,7 +30,8 @@ bella2006a = DB(WorkUnrelated(
     entrytype="article",
     volume="6",
     ID="bella2006asg",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Adaptive Services Grid Deliverable D",
 ))
 
@@ -43,11 +46,13 @@ bertoa2006a = DB(WorkUnrelated(
     ID="bertoa2006ontology",
     cluster_id="4535880459485815052",
     scholar="http://scholar.google.com/scholar?cites=4535880459485815052&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
     springer2016="1",
+    planilha_springer2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892350864&doi=10.1007%2f3-540-34518-3_6&partnerID=40&md5=b7914b5773fa235c26d99a2d2237f3b4",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 bertollo2006a = DB(WorkUnrelated(
@@ -59,7 +64,8 @@ bertollo2006a = DB(WorkUnrelated(
     entrytype="article",
     volume="6",
     ID="bertollo2006definiccao",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="V Simpósio Brasileiro de Qualidade de Software, SBQS",
 ))
 
@@ -71,7 +77,8 @@ bertollo2006b = DB(WorkUnrelated(
     entrytype="article",
     publisher="Universidade Federal do Espírito Santo",
     ID="bertollo2006definiccao",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -88,9 +95,11 @@ biffl2006a = DB(WorkUnrelated(
     ID="biffl2006software",
     cluster_id="8376441572406504250",
     scholar="http://scholar.google.com/scholar?cites=8376441572406504250&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Process: Improvement and Practice",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 calero2006a = DB(WorkUnrelated(
@@ -115,11 +124,13 @@ canfora2006a = DB(WorkUnrelated(
     ID="canfora2006applying",
     cluster_id="1761052978994151267",
     scholar="http://scholar.google.com/scholar?cites=1761052978994151267&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software: Practice and Experience",
     wiley2016="1",
+    planilha_wiley2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644808059&doi=10.1002%2fspe.697&partnerID=40&md5=e849738eb749d1075b10d1a78bbaab7c",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 carnegie2006a = DB(WorkUnrelated(
@@ -150,7 +161,8 @@ domínguez2006a = DB(WorkUnrelated(
     ID="dominguez2006quality",
     cluster_id="11567115697997854788",
     scholar="http://scholar.google.com/scholar?cites=11567115697997854788&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="CLEI electronic journal",
 ))
 
@@ -163,7 +175,8 @@ dutoit2006a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="dutoit2006rationale",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Rationale management in software engineering",
 ))
 
@@ -176,12 +189,14 @@ ferreira2006a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="ferreira2006taba",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="European Conference on Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
     volume="4257 LNCS",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33845242534&partnerID=40&md5=3c33b417894c299c02bec7765e4f2862",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 fujita2006a = DB(WorkUnrelated(
@@ -193,7 +208,8 @@ fujita2006a = DB(WorkUnrelated(
     volume="147",
     publisher="Ios Press",
     ID="fujita2006new",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of the Fifth SoMeT_06",
 ))
 
@@ -217,9 +233,11 @@ garcía2006a = DB(WorkUnrelated(
     number="8",
     publisher="Elsevier",
     ID="garcia2006atowards",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information and Software Technology",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
 ))
 
 garcía2006b = DB(WorkUnrelated(
@@ -239,7 +257,8 @@ gervasi2006a = DB(WorkUnrelated(
     volume="3983",
     publisher="Springer",
     ID="gervasi2006computational",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ICCSA 2006: International Conference, Glasgow, UK, May 8-11, 2006, Proceedings",
 ))
 
@@ -252,11 +271,13 @@ gonzalez2006a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="gonzalez2006ontology",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Ontologies for Software Engineering and Software Technology",
     springer2016="1",
+    planilha_springer2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049024468&doi=10.1007%2f3-540-34518-3_4&partnerID=40&md5=8c1b21f719c1878e19b4cbb962ad1da3",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 greif2006a = DB(WorkUnrelated(
@@ -291,7 +312,8 @@ halloran2006a = DB(WorkUnrelated(
     entrytype="book",
     publisher="Griffith University",
     ID="halloran2006infrastructure",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -364,7 +386,8 @@ lehner2006a = DB(WorkUnrelated(
     entrytype="article",
     volume="6",
     ID="lehner2006asg",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Adaptive Services Grid Deliverable D",
 ))
 
@@ -379,9 +402,11 @@ leppänen2006a = DB(WorkUnrelated(
     number="5",
     publisher="Wiley Online Library",
     ID="leppanen2006conceptual",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Process: Improvement and Practice",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 li2006a = DB(WorkUnrelated(
@@ -414,7 +439,8 @@ mei2006a = DB(WorkUnrelated(
     number="5",
     publisher="Springer",
     ID="mei2006development",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Computer Science and Technology",
 ))
 
@@ -426,7 +452,8 @@ montoni2006a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Citeseer",
     ID="montoniprojeto",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="PROFES 2006",
 ))
 
@@ -439,9 +466,11 @@ montoni2006b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="montoni2006taba",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 moor2006a = DB(WorkUnrelated(
@@ -462,7 +491,8 @@ oliveira2006a = DB(WorkUnrelated(
     ID="oliveira2006process",
     cluster_id="12186349007393751064",
     scholar="http://scholar.google.com/scholar?cites=12186349007393751064&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings on The First International Workshop on Metamodelling--Utilization in Software Engineering--MUSE, Setúbal-Portugal",
 ))
 
@@ -475,7 +505,8 @@ palomäki2006a = DB(WorkUnrelated(
     ID="palomaki2006process",
     cluster_id="10442752466228455842",
     scholar="http://scholar.google.com/scholar?cites=10442752466228455842&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="PhiSE",
 ))
 
@@ -504,7 +535,8 @@ rittgen2006a = DB(WorkUnrelated(
     entrytype="book",
     publisher="IGI Global",
     ID="rittgen2006enterprise",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="booksgoogle",
 ))
 
@@ -537,8 +569,10 @@ siemieniuch2006a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="siemieniuch2006systems",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Applied ergonomics",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
 ))
 
 silva2006a = DB(WorkUnrelated(
@@ -549,7 +583,8 @@ silva2006a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Universidade Federal do Espírito Santo",
     ID="silva2006processos",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -639,7 +674,8 @@ vandenabeele2006a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="vandenabeele2006cop",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -650,7 +686,8 @@ vasconcelos2006a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="deprocess",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings on The First International Workshop on Metamodelling--Utilization in Software Engineering--MUSE, Setúbal-Portugal",
 ))
 

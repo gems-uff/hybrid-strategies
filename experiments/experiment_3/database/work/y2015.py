@@ -25,7 +25,8 @@ alone2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="alone2015evaluation",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="masterthesis",
     cluster_id="4375838871988825142",
     scholar="http://scholar.google.com/scholar?cites=4375838871988825142&as_sdt=2005&sciodt=0,5&hl=en",
@@ -42,7 +43,8 @@ alves2015a = DB(WorkUnrelated(
     number="1",
     publisher="Emerald Group Publishing Limited",
     ID="alves2015aproposal",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Business Process Management Journal",
 ))
 
@@ -57,7 +59,8 @@ alves2015b = DB(WorkUnrelated(
     number="1",
     publisher="ResearchGate - Emerald Group Publishing Limited",
     ID="alves2015bproposal",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ResearchGate - Business Process Management Journal",
 ))
 
@@ -72,7 +75,8 @@ andrade2015a = DB(WorkUnrelated(
     number="2",
     publisher="IEEE",
     ID="andrade2015game",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IEEE Transactions on Systems, Man, and Cybernetics: Systems",
 ))
 
@@ -86,7 +90,8 @@ araujo2015a = DB(WorkUnrelated(
     volume="8",
     number="2",
     ID="de2015mr",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="iSys-Revista Brasileira de Sistemas de Informa{ç}ão",
 ))
 
@@ -98,7 +103,8 @@ aweidah2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="aweidah2015holistic",
     local="Auckland University of Technology",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -113,9 +119,11 @@ bergamaschi2015a = DB(WorkUnrelated(
     number="2",
     publisher="Springer",
     ID="bergamaschi2015exploiting",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Knowledge and Information Systems",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 bodo2015a = DB(WorkUnrelated(
@@ -126,7 +134,8 @@ bodo2015a = DB(WorkUnrelated(
     pp="255--261",
     entrytype="inproceedings",
     ID="bodo2015semi",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Software Engineering Research and Practice (SERP 2015), Las Vegas, EUA",
 ))
 
@@ -137,7 +146,8 @@ braun2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="braun2015evaluation",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="masterthesis",
 ))
 
@@ -150,11 +160,12 @@ buglione2015a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="buglione2015software",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Measurement",
     volume="230",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951281712&doi=10.1007%2f978-3-319-24285-9_3&partnerID=40&md5=577db60b364aa6a5d38a01470e051bbd",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 butka2015a = DB(WorkUnrelated(
@@ -176,12 +187,14 @@ carpio2015a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="del2015towards",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
+    planilha_springer2016="1",
     volume="526",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937433656&doi=10.1007%2f978-3-319-19860-6_16&partnerID=40&md5=13bb2ab413376e3f33b6ce18e822b5b0",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 feloni2015a = DB(WorkUnrelated(
@@ -192,10 +205,11 @@ feloni2015a = DB(WorkUnrelated(
     pp="1--14",
     entrytype="inproceedings",
     ID="feloni2015methodologies",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="XVIII Ibero-American Conference on Software Engineering (CIbSE)",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84936132896&partnerID=40&md5=05f39184c82e863f80cb931f777ad80c",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
     cluster_id="2680070986207223990",
     scholar="http://scholar.google.com/scholar?cites=2680070986207223990&as_sdt=2005&sciodt=0,5&hl=en",
 ))
@@ -208,7 +222,8 @@ fernandes2015a = DB(WorkUnrelated(
     entrytype="mastersthesis",
     ID="fernandes2015adaptaccao",
     local="Universidade Tecnológica Federal do Paraná",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -219,7 +234,8 @@ fitsilis2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="fitsilis2015technological",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ΚΝΟWLEDGE MANAGEMENT for SOFTWARE PROJECT MANAGEMENT USING ONTOLOGIES AND SOCIAL NETWΟRKS",
 ))
 
@@ -233,7 +249,8 @@ garcía2015a = DB(WorkUnrelated(
     volume="103",
     publisher="Elsevier",
     ID="garcia2015approaches",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Systems and Software",
 ))
 
@@ -257,9 +274,11 @@ garousi2015a = DB(WorkUnrelated(
     volume="108",
     publisher="Elsevier",
     ID="garousi2015survey",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Systems and Software",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
 ))
 
 garretson2015a = DB(WorkUnrelated(
@@ -269,7 +288,8 @@ garretson2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="garretson2015unit",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="masterthesis",
 ))
 
@@ -281,7 +301,8 @@ gerogiannis2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="gerogiannishuman",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IEOM 2015",
 ))
 
@@ -294,7 +315,8 @@ gerogiannis2015b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="gerogiannis2015fuzzy",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Industrial Engineering and Operations Management (IEOM), 2015 International Conference on",
 ))
 
@@ -308,7 +330,8 @@ gerogiannis2015c = DB(WorkUnrelated(
     volume="2015",
     publisher="Hindawi Publishing Corp.",
     ID="gerogiannis2015using",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Advances in Software Engineering",
 ))
 
@@ -325,7 +348,8 @@ hamri2015a = DB(WorkUnrelated(
     ID="hamri2015building",
     cluster_id="3040706841921913114",
     scholar="http://scholar.google.com/scholar?cites=3040706841921913114&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal of Modern Education and Computer Science",
 ))
 
@@ -360,7 +384,8 @@ kerzazi2015a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="kerzazi2015conceptual",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Intelligent Systems: Theories and Applications (SITA), 2015 10th International Conference on",
 ))
 
@@ -372,7 +397,8 @@ lafta2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="lafta2015study",
     local="Universiti Utara Malaysia",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phd thesis",
 ))
 
@@ -387,11 +413,13 @@ lema2015a = DB(WorkUnrelated(
     number="8",
     publisher="Wiley Online Library",
     ID="lema2015itil",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+    planilha_wiley2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939494936&doi=10.1002%2fsmr.1727&partnerID=40&md5=5d0d6921a3ea07ca419dc126e4966092",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 mesquida2015a = DB(WorkUnrelated(
@@ -404,10 +432,11 @@ mesquida2015a = DB(WorkUnrelated(
     volume="48",
     publisher="Elsevier",
     ID="mesquida2015implementing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computers & Security",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908268449&doi=10.1016%2fj.cose.2014.09.003&partnerID=40&md5=7ed5c55b4de0d6fd658539028ba08f5c",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 messnarz2015a = DB(WorkUnrelated(
@@ -418,7 +447,8 @@ messnarz2015a = DB(WorkUnrelated(
     pp="77",
     entrytype="article",
     ID="messnarzintegrated",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Internal Financial Control Assessment Applying Multilingual Ontology Framework",
 ))
 
@@ -432,11 +462,13 @@ morales2015a = DB(WorkUnrelated(
     volume="42",
     publisher="Elsevier",
     ID="morales2015making",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937540473&doi=10.1016%2fj.csi.2015.05.001&partnerID=40&md5=bb25c52faa2fd1a026737e43b155af26",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 moreta2015a = DB(WorkUnrelated(
@@ -447,7 +479,8 @@ moreta2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="lema2015itil",
     local="ETSI_Informatica",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -472,7 +505,8 @@ pardo2015a = DB(WorkUnrelated(
     number="77",
     publisher="Universidad de Antioquia",
     ID="pardo2015360",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Revista Facultad de Ingeniería Universidad de Antioquia",
 ))
 
@@ -525,7 +559,8 @@ raki2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="rakic2015extendable",
     local="Faculty of Sciences, University of Novi Sad",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -536,7 +571,8 @@ rakic2015a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="rakicset",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -551,7 +587,8 @@ rose2015a = DB(WorkUnrelated(
     number="1",
     publisher="Springer",
     ID="rose2015improving",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Innovations in Systems and Software Engineering",
 ))
 
@@ -566,10 +603,11 @@ ruy2015a = DB(WorkUnrelated(
     ID="ruy2015towards",
     cluster_id="1555528468121159175",
     scholar="http://scholar.google.com/scholar?cites=1555528468121159175&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of the 30th Annual ACM Symposium on Applied Computing",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955504362&doi=10.1145%2f2695664.2695796&partnerID=40&md5=4f0a7151062ea9513be1238bd75bddac",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 ruy2015b = DB(WorkUnrelated(
@@ -583,7 +621,8 @@ ruy2015b = DB(WorkUnrelated(
     number="2",
     publisher="ACM",
     ID="ruy2015iso",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ACM SIGAPP Applied Computing Review",
 ))
 
@@ -598,11 +637,12 @@ samuel2015a = DB(WorkUnrelated(
     number="1",
     publisher="IEEE",
     ID="samuel2015customizing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IEEE Transactions on Software Engineering",
     art_number="6898868",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921342444&doi=10.1109%2fTSE.2014.2354043&partnerID=40&md5=217195e5f21d5712f572ec64c7054321",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 shekhovtsov2015a = DB(WorkUnrelated(
@@ -615,6 +655,7 @@ shekhovtsov2015a = DB(WorkUnrelated(
     publisher="Elsevier",
     ID="shekhovtsov2015harmonizing",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Relating System Quality and Software Architecture",
 ))
 
@@ -637,7 +678,8 @@ shrestha2015a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="shrestha2015development",
     local="University of Southern Queensland",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -665,10 +707,11 @@ tanrıöver2015a = DB(WorkUnrelated(
     volume="37",
     publisher="Elsevier",
     ID="tanriover2015process",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computer Standards & Interfaces",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908659446&doi=10.1016%2fj.csi.2014.05.003&partnerID=40&md5=1f25e0ff0cafbdfad353fb727ecb39e4",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 tarhan2015a = DB(WorkUnrelated(
@@ -682,11 +725,12 @@ tarhan2015a = DB(WorkUnrelated(
     ID="tarhan2015business",
     cluster_id="9696259495684213434",
     scholar="http://scholar.google.com/scholar?cites=9696259495684213434&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Engineering and Advanced Applications (SEAA), 2015 41st Euromicro Conference on",
     art_number="7302485",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958260485&doi=10.1109%2fSEAA.2015.50&partnerID=40&md5=50674d3611ae7cb05eb82200b1bd33b3",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 tarhan2015ab = DB(WorkUnrelated(
@@ -747,7 +791,8 @@ yatsko2015a = DB(WorkUnrelated(
     entrytype="book",
     publisher="Walter de Gruyter GmbH & Co KG",
     ID="yatsko2015insight",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -761,7 +806,8 @@ yoshidome2015a = DB(WorkUnrelated(
     volume="3",
     number="2",
     ID="yoshidome2015proposta",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Abakós",
 ))
 
@@ -788,6 +834,7 @@ zhou2015a = DB(WorkUnrelated(
     place=Thesis,
     entrytype="mastersthesis",
     ID="gammaalphatauacutevarepsilonalpha2015eta",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))

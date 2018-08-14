@@ -11,7 +11,8 @@ bennetts2001a = DB(WorkUnrelated(
     pp="395",
     entrytype="article",
     ID="bennetts2001churchman",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="AMCIS 2001 Proceedings",
 ))
 
@@ -32,9 +33,11 @@ borgen2001a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="borgen2001maturity",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Contemporary Trends in Systems Development",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 bowman2001a = DB(WorkUnrelated(
@@ -46,7 +49,8 @@ bowman2001a = DB(WorkUnrelated(
     volume="16",
     publisher="Chapter",
     ID="bowman2001systems",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Handbook of multisensor data fusion",
 ))
 
@@ -58,7 +62,8 @@ fuller2001a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="fuller2001factors",
     local="Citeseer",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -69,7 +74,8 @@ gayretli2001a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="inproceedings",
     ID="gayretli2001co",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of ICE2001: the 7th International Conference on Concurrent Enterprising",
 ))
 
@@ -80,7 +86,8 @@ iivari2001a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="iivari2001dynamic",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Management Information Systems",
 ))
 
@@ -129,7 +136,8 @@ niessink2001a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="niessink2001perspectives",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Maintenance, 2001. Proceedings. IEEE International Conference on",
 ))
 

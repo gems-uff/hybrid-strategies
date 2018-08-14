@@ -13,6 +13,7 @@ althoff2002a = DB(WorkUnrelated(
     publisher="Springer",
     ID="althoff2002indigo",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Advances in Data Mining",
 ))
 
@@ -41,7 +42,8 @@ bennetts2002a = DB(WorkUnrelated(
     pp="228",
     entrytype="article",
     ID="bennetts2002measurement",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="AMCIS 2002 Proceedings",
 ))
 
@@ -110,7 +112,8 @@ dolado2002a = DB(WorkUnrelated(
     pp="11",
     entrytype="inproceedings",
     ID="dolado2002apoyo",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="JISBD",
 ))
 
@@ -125,7 +128,8 @@ kitchenham2002a = DB(WorkUnrelated(
     number="8",
     publisher="IEEE",
     ID="kitchenham2002preliminary",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IEEE Transactions on software engineering",
 ))
 
@@ -138,7 +142,8 @@ middleton2002a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Charles Sturt University, Centre for Information Studies",
     ID="middleton2002information",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information Management: A Consolidation of Operations, Analysis and Strategy",
 ))
 
@@ -161,12 +166,14 @@ ruiz2002a = DB(WorkUnrelated(
     ID="ruiz2002xmi",
     cluster_id="15405828224327782001",
     scholar="http://scholar.google.com/scholar?cites=15405828224327782001&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Product Focused Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
     volume="2559",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949946857&partnerID=40&md5=2db3e294fb79fbbd65b6d2e14e09642c",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 schleicher2002a = DB(WorkUnrelated(
@@ -178,7 +185,9 @@ schleicher2002a = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="schleicher2002infering",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Management of Development Processes",
     springer2016="1",
+    planilha_springer2016="1",
 ))

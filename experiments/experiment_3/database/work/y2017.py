@@ -23,9 +23,11 @@ barafort2017a = DB(WorkUnrelated(
     volume="54",
     publisher="Elsevier",
     ID="barafort2017integrating",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computer Standards & Interfaces",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
 ))
 
 computa2017a = DB(WorkUnrelated(
@@ -70,7 +72,8 @@ eito2017a = DB(WorkUnrelated(
     number="4",
     publisher="Springer",
     ID="eito2017dealing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Requirements Engineering",
 ))
 
@@ -151,7 +154,8 @@ hauck2017a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="hauck2017proposing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -259,7 +263,8 @@ palomares2017a = DB(WorkUnrelated(
     number="6",
     publisher="Springer",
     ID="palomares2017requirements",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Empirical Software Engineering",
 ))
 

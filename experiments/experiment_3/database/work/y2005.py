@@ -24,11 +24,13 @@ april2005a = DB(WorkUnrelated(
     ID="april2005software",
     cluster_id="4698067354586756591",
     scholar="http://scholar.google.com/scholar?cites=4698067354586756591&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Journal of Software: Evolution and Process",
     wiley2016="1",
+    planilha_wiley2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-20444462361&doi=10.1002%2fsmr.311&partnerID=40&md5=0dcc2afc60607347df5b9f60e9301066",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 berardi2005a = DB(WorkUnrelated(
@@ -47,7 +49,8 @@ bourque2005a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="bourque2005contributions",
     local="Citeseer",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -69,9 +72,11 @@ burgués2005a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="burgues2005mof",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Conference on Conceptual Modeling",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 carnegie2005a = DB(WorkUnrelated(
@@ -108,7 +113,8 @@ falbo2005a = DB(WorkUnrelated(
     ID="falbo2005establishing",
     cluster_id="10791151148097120245",
     scholar="http://scholar.google.com/scholar?cites=10791151148097120245&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Workshop on Vocabularies, Ontologies and Rules for the Enterprise, Enschede, The Netherlands",
     other1="Ontologies and Rules for the Enterprise, VORTE’,",
     other2="The Netherlands, 20 September 2005, pp. 25-32.",
@@ -124,7 +130,8 @@ falbo2005b = DB(WorkUnrelated(
     ID="de2005establishing",
     cluster_id="11390306800747435130",
     scholar="http://scholar.google.com/scholar?cites=11390306800747435130&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Foundational Ontologies",
 ))
 
@@ -146,7 +153,8 @@ frenzel2005a = DB(WorkUnrelated(
     ID="frenzel2005ontology",
     cluster_id="2676882007378842137",
     scholar="http://scholar.google.com/scholar?cites=2676882007378842137&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -161,7 +169,8 @@ garcía2005a = DB(WorkUnrelated(
     number="8",
     publisher="Elsevier",
     ID="garcia2005atowards",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Preprint submitted to Information and Software Technology",
 ))
 
@@ -202,6 +211,7 @@ kindler2005a = DB(WorkUnrelated(
     organization="Springer",
     ID="kindler2005incremental",
     springer2016="1",
+    planilha_springer2016="1",
     placex="Software Process Workshop",
 ))
 
@@ -234,7 +244,8 @@ liao2005a = DB(WorkSnowball(
     seed_set="1",
     selected_order="1",
     final_selected="1",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ISWC2005 Workshop on Semantic Web Enabled Software Engineering",
     other1="Software Engineering, 2005, pp. 6–10.",
     scholar_ok=True,
@@ -253,7 +264,8 @@ liao2005b = DB(WorkSnowball(
     seed_set="1",
     selected_order="8",
     final_selected="1",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
     scholar_ok=True,
 ))
@@ -275,9 +287,11 @@ ning2005a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="ning2005requirements",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Process Workshop",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 qu2005a = DB(WorkUnrelated(
@@ -295,7 +309,8 @@ rocha2005a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="rocha2005estaccao",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="IV SBQS, Porto Alegre, Brasil",
 ))
 
@@ -307,7 +322,8 @@ scacchi2005a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Citeseer",
     ID="scacchi2005dynamic",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Institute for Software Research",
 ))
 
@@ -331,7 +347,8 @@ shangteng2005a = DB(WorkUnrelated(
     ID="shangteng2005test",
     cluster_id="8335136981908585814",
     scholar="http://scholar.google.com/scholar?cites=8335136981908585814&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Computer Applications and Software",
 ))
 

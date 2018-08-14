@@ -35,7 +35,8 @@ nuseibeh1994a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Citeseer",
     ID="nuseibeh1994multi",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Department of Computing",
 ))
 
@@ -48,6 +49,7 @@ ramakrishnan1994a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="ramakrishnan1994quality",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Testing, Reliability and Quality Assurance, 1994. Conference Proceedings., First International Conference on",
 ))

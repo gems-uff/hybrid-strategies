@@ -21,7 +21,8 @@ doheny1996a = DB(WorkUnrelated(
     ID="doheny1996aframework",
     cluster_id="16164347461171448111",
     scholar="http://scholar.google.com/scholar?cites=16164347461171448111&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="TECHNICAL REPORT-UNIVERSITY OF EDINBURGH ARTIFICIAL INTELLIGENCE APPLICATIONS INSTITUTE AIAI TR",
     other1="Wilmslow, May",
 ))
@@ -36,7 +37,8 @@ doheny1996b = DB(WorkUnrelated(
     ID="doheny1996bframework",
     cluster_id="2184567551688903067",
     scholar="http://scholar.google.com/scholar?cites=2184567551688903067&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="TECHNICAL REPORT-UNIVERSITY OF EDINBURGH ARTIFICIAL INTELLIGENCE APPLICATIONS INSTITUTE AIAI TR",
 ))
 
@@ -50,7 +52,8 @@ doheny1996c = DB(WorkUnrelated(
     ID="doheny1996modelling",
     cluster_id="15606324768416123047",
     scholar="http://scholar.google.com/scholar?cites=15606324768416123047&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="TECHNICAL REPORT-UNIVERSITY OF EDINBURGH ARTIFICIAL INTELLIGENCE APPLICATIONS INSTITUTE AIAI TR",
 ))
 
@@ -62,7 +65,8 @@ doheny1996d = DB(WorkUnrelated(
     entrytype="book",
     publisher="Artificial Intelligence Applications Institute, University of Edinburgh",
     ID="doheny1996aspen",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -77,7 +81,9 @@ gasston1996a = DB(WorkUnrelated(
     number="3",
     publisher="Springer",
     ID="gasston1996process",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Quality Journal",
     springer2016="1",
+    planilha_springer2016="1",
 ))

@@ -11,7 +11,8 @@ albertyn2007a = DB(WorkUnrelated(
     pp="34",
     entrytype="article",
     ID="albertyn2007hybrid",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ACIS 2007 Proceedings",
 ))
 
@@ -26,7 +27,8 @@ allison2007a = DB(WorkUnrelated(
     number="6",
     publisher="Elsevier",
     ID="allison2007software",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information and software technology",
 ))
 
@@ -40,7 +42,8 @@ biscoglio2007a = DB(WorkUnrelated(
     volume="1",
     publisher="Citeseer",
     ID="biscoglio2007establishing",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Institute of Science and technologies in Informatics, National Research Council), Via Moruzzi",
 ))
 
@@ -51,7 +54,8 @@ braungarten2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="braungarten2007smpi",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="dissertation",
 ))
 
@@ -63,7 +67,8 @@ bultan2007a = DB(WorkUnrelated(
     pp="315",
     entrytype="inproceedings",
     ID="bultan2007int",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ICWE 2007 Workshops",
 ))
 
@@ -119,7 +124,8 @@ coallier2007a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="coallier2007vision",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Quality of Information and Communications Technology, 2007. QUATIC 2007. 6th International Conference on the",
 ))
 
@@ -133,6 +139,7 @@ damiani2007a = DB(WorkUnrelated(
     organization="Springer",
     ID="damiani2007metamodel",
     springer2016="1",
+    planilha_springer2016="1",
     placex="International Conference on Extreme Programming and Agile Processes in Software Engineering",
 ))
 
@@ -144,7 +151,8 @@ davies2007a = DB(WorkUnrelated(
     entrytype="misc",
     publisher="Google Patents",
     ID="davies2007information",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="US Patent App. 10/570,381",
 ))
 
@@ -155,7 +163,8 @@ dolado2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="doladotin2004",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Jornadas de Seguimiento de Proyectos Programa Nacional de Tecnolog´ıas Inform´aticas",
 ))
 
@@ -178,9 +187,11 @@ eberlein2007a = DB(WorkUnrelated(
     number="1",
     publisher="Wiley Online Library",
     ID="eberlein2007description",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Process: Improvement and Practice",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 farooq2007a = DB(WorkUnrelated(
@@ -196,7 +207,8 @@ farooq2007a = DB(WorkUnrelated(
     ID="farooq2007research",
     cluster_id="373236104315609118",
     scholar="http://scholar.google.com/scholar?cites=373236104315609118&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="ACM SIGSOFT Software Engineering Notes",
 ))
 
@@ -213,7 +225,8 @@ garcia2007a = DB(WorkUnrelated(
     ID="garcia2007managing",
     cluster_id="10851134335619762630",
     scholar="http://scholar.google.com/scholar?cites=10851134335619762630&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information Sciences",
 ))
 
@@ -226,7 +239,8 @@ hagge2007a = DB(WorkUnrelated(
     entrytype="article",
     publisher="Springer",
     ID="hagge200720",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Rationale Management in Software Engineering",
 ))
 
@@ -250,10 +264,11 @@ ikram2007a = DB(WorkUnrelated(
     ID="ikram2007requirements",
     cluster_id="3807634414759117273",
     scholar="http://scholar.google.com/scholar?cites=3807634414759117273&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of the 25th conference on IASTED International Multi-Conference: Software Engineering",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-56149112595&partnerID=40&md5=7542547954c95115ebcb624e1854db28",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 iso2007a = DB(WorkUnrelated(
@@ -308,7 +323,8 @@ kaschek2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="kaschek2007formal",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Citation",
 ))
 
@@ -321,7 +337,8 @@ kaschek2007b = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Australian Computer Society, Inc.",
     ID="kaschek2007process",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Tutorials, posters, panels and industrial contributions at the 26th international conference on Conceptual modeling-Volume 83",
 ))
 
@@ -332,7 +349,8 @@ keto2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="keto2007applying",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Proceedings of ONTOSE",
 ))
 
@@ -347,10 +365,11 @@ kumarapeli2007a = DB(WorkUnrelated(
     number="1",
     publisher="Taylor & Francis",
     ID="kumarapeli2007using",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Medical Informatics and the Internet in Medicine",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-80051757603&doi=10.1080%2f14639230601097705&partnerID=40&md5=684cbd50f2b4ea319011a1973dc17603",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 kumarapeli2007b = DB(WorkUnrelated(
@@ -362,11 +381,12 @@ kumarapeli2007b = DB(WorkUnrelated(
     volume="15",
     number="4",
     ID="kumarapeli2007feasibility",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Informatics in primary care",
     pp="245--253",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-39149138671&partnerID=40&md5=f666bd36c4dd36fa4fe57d97acd93100",
-    scopus2016_duplicate_removed="1",
+    scopus2016="1",
 ))
 
 lee2007a = DB(WorkUnrelated(
@@ -382,9 +402,11 @@ lee2007a = DB(WorkUnrelated(
     ID="lee2007certification",
     cluster_id="2620046582451490877",
     scholar="http://scholar.google.com/scholar?cites=2620046582451490877&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Software Process: Improvement and Practice",
     wiley2016="1",
+    planilha_wiley2016="1",
 ))
 
 lee2007ab = DB(WorkUnrelated(
@@ -409,7 +431,8 @@ lee2007b = DB(WorkUnrelated(
     volume="21",
     number="1",
     ID="lee2007information",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Communications of the Association for Information Systems",
 ))
 
@@ -448,7 +471,8 @@ leung2007a = DB(WorkUnrelated(
     ID="leung2007automated",
     cluster_id="6600957259000167204",
     scholar="http://scholar.google.com/scholar?cites=6600957259000167204&as_sdt=2005&sciodt=0,5&hl=en",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="International Journal of Quality & Reliability Management",
     other1="24:(3):230-243",
 ))
@@ -486,7 +510,8 @@ loconsole2007a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="loconsole2007definition",
     local="Datavetenskap",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -507,9 +532,11 @@ montoni2007a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="Springer",
     ID="montoni2007methodology",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="European Conference on Software Process Improvement",
     springer2016="1",
+    planilha_springer2016="1",
 ))
 
 morbach2007a = DB(WorkUnrelated(
@@ -553,7 +580,8 @@ pawlak2007a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="pawlak2007reference",
     local="University of Geneva",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -566,7 +594,8 @@ pereira2007a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="pereira2007systematic",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Systems Engineering and Modeling, 2007. ICSEM'07. International Conference on",
 ))
 
@@ -581,7 +610,8 @@ ribaud2007a = DB(WorkUnrelated(
     number="3",
     publisher="Taylor & Francis",
     ID="ribaud2007towards",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Innovation in Teaching and Learning in Information and Computer Sciences",
 ))
 
@@ -593,7 +623,8 @@ rubin2007a = DB(WorkUnrelated(
     entrytype="phdthesis",
     ID="rubin2007workflow",
     local="Citeseer",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="phdthesis",
 ))
 
@@ -606,7 +637,8 @@ simos2007a = DB(WorkUnrelated(
     volume="8",
     publisher="CRC Press",
     ID="simos2007international",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -649,7 +681,8 @@ taipale2007a = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="taipaleresults",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Lappeenranta University of Technology",
 ))
 
@@ -660,7 +693,8 @@ taipale2007b = DB(WorkUnrelated(
     place=FAKE,
     entrytype="article",
     ID="taipale2007observations",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Acta Universitatis Lappeenrantaensis",
 ))
 
@@ -681,7 +715,8 @@ terävä2007a = DB(WorkUnrelated(
     entrytype="article",
     publisher="fi= Turun yliopisto| en= University of Turku|",
     ID="terava2007software",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))
 
@@ -694,7 +729,8 @@ tripathi2007a = DB(WorkUnrelated(
     entrytype="inproceedings",
     organization="IEEE",
     ID="tripathi2007change",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Autonomous Decentralized Systems, 2007. ISADS'07. Eighth International Symposium on",
 ))
 
@@ -707,6 +743,7 @@ tsoumas2007a = DB(WorkUnrelated(
     entrytype="article",
     volume="27",
     ID="tsoumas2007ontologies",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="",
 ))

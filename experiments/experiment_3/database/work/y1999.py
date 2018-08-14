@@ -31,7 +31,8 @@ gasston1999a = DB(WorkUnrelated(
     volume="195",
     organization="VTT; 1999",
     ID="gasston1999role",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="VTT SYMPOSIUM",
 ))
 
@@ -92,5 +93,6 @@ zelkowitz1999a = DB(WorkUnrelated(
     doi="https://doi.org/10.1016/S0065-2458(08)60717-2",
     ID="19991",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
     placex="Index Part I Subject Index Volumes 1-49",
 ))

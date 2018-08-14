@@ -29,7 +29,8 @@ marttiin1998a = DB(WorkUnrelated(
     pp="420--424",
     entrytype="article",
     ID="marttiin1998similarities",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Effective Utilization and Management of Emerging Information Technologies",
 ))
 

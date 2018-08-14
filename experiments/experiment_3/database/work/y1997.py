@@ -30,9 +30,11 @@ hellens1997a = DB(WorkUnrelated(
     number="12",
     publisher="Elsevier",
     ID="von1997information",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information and Software Technology",
     sciencedirect2016="1",
+    planilha_sciencedirect2016="1",
 ))
 
 panfilis1997a = DB(WorkUnrelated(
@@ -46,6 +48,7 @@ panfilis1997a = DB(WorkUnrelated(
     number="11",
     publisher="Elsevier",
     ID="de1997experiences",
-    gs2016="1",
+    googlescholar2016="1",
+    planilha_googlescholar2016="1",
     placex="Information and Software Technology",
 ))
