@@ -771,6 +771,19 @@ garza2015a = DB(WorkUnrelated(
     placex="Journal of Cleaner Production",
 ))
 
+ghani2015a = DB(WorkUnrelated(
+    2015, "Agile Adoption in IT Organizations.",
+    display="ghani",
+    authors="Ghani, Imran and Bello, Mannir",
+    place=FAKE,
+    entrytype="article",
+    volume="9",
+    number="8",
+    ID="ghani2015agile",
+    gs2016="1",
+    placex="KSII Transactions on Internet & Information Systems",
+))
+
 ghobadi2015a = DB(WorkUnrelated(
     2015, "What drives knowledge sharing in software development teams: A literature review and classification framework",
     display="ghobadi",
@@ -2074,7 +2087,6 @@ rindell2015a = DB(WorkSnowball(
     copyright="Compendex",
     issn="16130073",
     address="Tampere, Finland",
-    elcompendex2016="1",
     scholar_ok=True,
 ))
 
@@ -2109,6 +2121,17 @@ rizvi2015a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+rodríguez2015a = DB(WorkUnrelated(
+    2015, "Estudio comparativo entre las metodologías ágiles y las metodologías tradicionales para la gestión de proyectos software",
+    display="rodríguez",
+    authors="García Rodríguez, Manuel José",
+    place=FAKE,
+    entrytype="article",
+    ID="garcia2015estudio",
+    gs2016="1",
+    placex="",
 ))
 
 rojas2015a = DB(WorkUnrelated(

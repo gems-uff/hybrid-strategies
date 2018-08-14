@@ -1,4 +1,4 @@
-﻿# coding: utf-8
+# coding: utf-8
 from datetime import datetime
 from snowballing.models import *
 from ..places import *
@@ -924,6 +924,7 @@ gregory2016a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     cluster_id="15659749162823714613",
     scholar="http://scholar.google.com/scholar?cites=15659749162823714613&as_sdt=2005&sciodt=0,5&hl=en",
+    gs2016="1",
 ))
 
 gudas2016a = DB(WorkUnrelated(

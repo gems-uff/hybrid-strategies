@@ -1307,6 +1307,18 @@ oppenheim2011b = DB(WorkUnrelated(
     placex="Proceedings - 2011 Annual SRII Global Conference, SRII 2011",
 ))
 
+ozkaya2011a = DB(WorkUnrelated(
+    2011, "3 Communicating the Benefits of Architecting Within Agile Development",
+    display="ozkaya",
+    authors="Ozkaya, Ipek and Brown, Nanette and Nord, Robert",
+    place=FAKE,
+    pp="11",
+    entrytype="article",
+    ID="ozkaya20113",
+    gs2016="1",
+    placex="Results of SEI Independent Research and Development Projects",
+))
+
 pan2011a = DB(WorkUnrelated(
     2011, "Impact of test-driven development on productivity, code and tests: A controlled experiment",
     display="pan",
@@ -1401,6 +1413,18 @@ post2011a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Proceedings - 2010 DoD High Performance Computing Modernization Program Users Group Conference, HPCMP UGC 2010",
+))
+
+post2011b = DB(WorkUnrelated(
+    2011, "Computational Science and Engineering Software Development Challenges and Solutions",
+    display="post b",
+    authors="Post, Douglass",
+    place=FAKE,
+    entrytype="article",
+    volume="18",
+    ID="post2011computational",
+    gs2016="1",
+    placex="Department of Defense High Performance Computing Modernization Program HEC-IWG",
 ))
 
 power2011a = DB(WorkUnrelated(

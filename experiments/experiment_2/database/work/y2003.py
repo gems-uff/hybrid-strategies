@@ -139,6 +139,17 @@ cohn2003a = DB(WorkUnrelated(
     placex="Computer",
 ))
 
+costa2003a = DB(WorkUnrelated(
+    2003, "A New DACS State-of-the-Art Report on Agile Methods",
+    display="costa",
+    authors="Costa, Patricia and Cohen, David and Lindvail, Michael",
+    place=FAKE,
+    entrytype="article",
+    ID="costanew",
+    gs2016="1",
+    placex="",
+))
+
 currie2003a = DB(WorkUnrelated(
     2003, "A knowledge-based risk assessment framework for evaluating web-enabled application outsourcing projects",
     display="currie",
@@ -280,6 +291,17 @@ larman2003a = DB(WorkUnrelated(
     note="cited By 440",
     ID="Larman200347",
     placex="Computer",
+))
+
+luqi2003a = DB(WorkUnrelated(
+    2003, "L.: Documentation driven Agile development for systems of embedded systems",
+    display="luqi",
+    authors="Luqi, Zhang",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="luqi2003documentation",
+    gs2016="1",
+    placex="Monterey Workshop Series: Workshop on Software Engineering for Embedded Systems: From Requirement to Implementation, Chicago, IL (September 24-26, 2003)",
 ))
 
 martin2003a = DB(WorkUnrelated(

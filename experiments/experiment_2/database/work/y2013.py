@@ -1008,6 +1008,18 @@ khalili2013a = DB(WorkUnrelated(
     planilha_springer2016="1",
 ))
 
+koistinen2013a = DB(WorkUnrelated(
+    2013, "Security Model for Agile Software Development",
+    display="koistinen",
+    authors="Koistinen, Pasi and others",
+    place=FAKE,
+    entrytype="article",
+    publisher="Laurea-ammattikorkeakoulu",
+    ID="koistinen2013security",
+    gs2016="1",
+    placex="",
+))
+
 korhonen2013a = DB(WorkUnrelated(
     2013, "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context",
     display="korhonen",
@@ -1394,6 +1406,18 @@ ozkaya2013a = DB(WorkSnowball(
 ))
 
 
+ozkaya2013b = DB(WorkUnrelated(
+    2013, "Achieving Agility and Stability in Large-Scale Software Development",
+    display="ozkaya b",
+    authors="Ozkaya, Ipek",
+    place=TechReport,
+    entrytype="techreport",
+    institution="CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST",
+    ID="ozkaya2013achieving",
+    gs2016="1",
+    placex="",
+))
+
 paasivaara2013a = DB(WorkUnrelated(
     2013, "Teaching students global software engineering skills using distributed Scrum",
     display="paasivaara",
@@ -1531,6 +1555,17 @@ porrawatpreyakorn2013a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of International Conference on Information Integration and Web-based Applications & Services",
+))
+
+porto2013a = DB(WorkUnrelated(
+    2013, "DIFICULDADES NA IMPLANTAÇÃO DO SCRUM: ESTUDO DE CASOS MÚLTIPLOS",
+    display="porto",
+    authors="Karine Teixeira Porto, Leandro Antunes da Silva",
+    place=FAKE,
+    entrytype="article",
+    ID="karine",
+    gs2016="1",
+    placex="Produção de conteúdo do Curso de Bacharelado em Ciência da Computação da UNIFAL-MG",
 ))
 
 qusef2013a = DB(WorkUnrelated(

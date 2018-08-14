@@ -1029,6 +1029,18 @@ solingen2006a = DB(WorkUnrelated(
     placex="Advances in Computers",
 ))
 
+sutherland2006a = DB(WorkUnrelated(
+    2006, "Adaptive engineering of large software projects with distributed/outsourced teams",
+    display="sutherland",
+    authors="Sutherland, Jeff and Viktorov, Anton and Blount, Jack",
+    place=FAKE,
+    pp="25--30",
+    entrytype="inproceedings",
+    ID="sutherland2006adaptive",
+    gs2016="1",
+    placex="Proc. International Conference on Complex Systems, Boston, MA, USA",
+))
+
 syed2006a = DB(WorkUnrelated(
     2006, "The Impact of an Agile Methodology on the Well Being of Development Teams",
     display="syed",

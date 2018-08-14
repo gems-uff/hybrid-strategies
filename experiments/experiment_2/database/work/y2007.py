@@ -387,6 +387,18 @@ fornaro2007a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+ge2007a = DB(WorkUnrelated(
+    2007, "Agile security for Web applications",
+    display="ge",
+    authors="Ge, Xiaocheng",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="ge2007agile",
+    local="University of York",
+    gs2016="1",
+    placex="",
+))
+
 gorman2007a = DB(WorkUnrelated(
     2007, "Innovation",
     display="gorman",
@@ -904,6 +916,7 @@ sutherland2007a = DB(WorkUnrelated(
     note="cited By 125",
     ID="Sutherland2007",
     placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
+    gs2016="1",
 ))
 
 sutherland2007b = DB(WorkUnrelated(

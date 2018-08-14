@@ -795,6 +795,18 @@ gandomani2014b = DB(WorkUnrelated(
     placex="Software Engineering Conference (MySEC), 2014 8th Malaysian",
 ))
 
+garcia2014a = DB(WorkUnrelated(
+    2014, "Resource dependencies in parallel development of military systems: a comparison of waterfall and agile development methodologies",
+    display="garcia",
+    authors="Garcia, Erik Roberto",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="garcia2014resource",
+    local="Massachusetts Institute of Technology",
+    gs2016="1",
+    placex="",
+))
+
 ghannem2014a = DB(WorkUnrelated(
     2014, "Model refactoring using examples: a search-based approach",
     display="ghannem",
@@ -1363,6 +1375,18 @@ kuranuki2014a = DB(WorkUnrelated(
     placex="Proceedings of the International Workshop on Innovative Software Development Methodologies and Practices",
 ))
 
+kır2014a = DB(WorkUnrelated(
+    2014, "Scrum adoption in Kuveyt Turk IT",
+    display="kır",
+    authors="Kır, Gülname",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="kir2014scrum",
+    local="Do{ğ}u{ş} Üniversitesi Fen Bilimleri Enstitüsü",
+    gs2016="1",
+    placex="",
+))
+
 lang2014a = DB(WorkUnrelated(
     2014, "lang russo",
     display="",
@@ -1448,6 +1472,18 @@ lucae2014a = DB(WorkUnrelated(
     sciencedirect2016="1",
     planilha_sciencedirect2016="1",
     placex="Procedia Computer Science",
+))
+
+mahnic2014a = DB(WorkUnrelated(
+    2014, "Improving software development through combination of scrum and Kanban",
+    display="mahnic",
+    authors="Mahnic, Viljan",
+    place=FAKE,
+    pp="281--288",
+    entrytype="article",
+    ID="mahnic2014improving",
+    gs2016="1",
+    placex="Recent Advances in Computer Engineering, Communications and Information Technology, Espanha",
 ))
 
 mai2014a = DB(WorkUnrelated(
@@ -2130,6 +2166,20 @@ scheithauer2014a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+schoeni2014a = DB(WorkUnrelated(
+    2014, "Long on Rhetoric, Short on Results: Agile Methods and Cyber Acquisitions in the Department of Defense",
+    display="schoeni",
+    authors="Schoeni, Daniel E",
+    place=FAKE,
+    pp="385",
+    entrytype="article",
+    volume="31",
+    publisher="HeinOnline",
+    ID="schoeni2014long",
+    gs2016="1",
+    placex="Santa Clara Computer & High Tech. LJ",
+))
+
 schweigert2014a = DB(WorkUnrelated(
     2014, "Agile maturity model: analysing agile maturity characteristics from the SPICE perspective",
     display="schweigert",
@@ -2642,6 +2692,17 @@ winter2014a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Performance Improvement",
+))
+
+yoder2014a = DB(WorkUnrelated(
+    2014, "Patterns about transitioning from Quality Assurance to Agile Quality",
+    display="yoder",
+    authors="Yoder, Joseph W and Wirfs-Brock, Rebecca and Aguiar, Ademar",
+    place=FAKE,
+    entrytype="article",
+    ID="yoderpatterns",
+    gs2016="1",
+    placex="",
 ))
 
 yu2014a = DB(WorkUnrelated(

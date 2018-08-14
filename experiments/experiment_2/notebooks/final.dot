@@ -10,18 +10,18 @@ digraph G {
   s0 -> webofscience2016 [label="union"];
   s0 -> elcompendex2016 [label="union"];
 
-  scopus2016 [label="scopus2016\n visited: 77\n selected: 7\n planilha: 68\n planilha selected: 7\n duplicados: 9"];
+  scopus2016 [label="scopus2016\n visited: 77\n selected: 7"];
 
-  springer2016 [label="springer2016\n visited: 115\n selected: 0\n planilha: 115\n planilha selected: 0\n duplicados: 0"];
+  springer2016 [label="springer2016\n visited: 124\n selected: 1"];
 
-  acm2016 [label="acm2016\n visited: 210\n selected: 5\n planilha: 210\n planilha selected: 5\n duplicados: 0"];
+  acm2016 [label="acm2016\n visited: 210\n selected: 5"];
 
-  sciencedirect2016 [label="sciencedirect2016\n visited: 249\n selected: 6\n planilha: 245\n planilha selected: 5\n duplicados: 4"];
+  sciencedirect2016 [label="sciencedirect2016\n visited: 249\n selected: 6"];
 
-  wiley2016 [label="wiley2016\n visited: 294\n selected: 0\n planilha: 294\n planilha selected: 0\n duplicados: 0"];
+  wiley2016 [label="wiley2016\n visited: 295\n selected: 0"];
 
-  webofscience2016 [label="webofscience2016\n visited: 3\n selected: 0\n planilha: 3\n planilha selected: 0\n duplicados: 0"];
+  webofscience2016 [label="webofscience2016\n visited: 3\n selected: 0"];
 
-  elcompendex2016 [label="elcompendex2016\n visited: 9\n selected: 3\n planilha: 1\n planilha selected: 0\n duplicados: 8"];
+  elcompendex2016 [label="elcompendex2016\n visited: 8\n selected: 2"];
 
 }

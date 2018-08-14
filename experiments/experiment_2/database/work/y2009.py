@@ -571,6 +571,19 @@ heck2009a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+henry2009a = DB(WorkUnrelated(
+    2009, "Net-centric system development",
+    display="henry",
+    authors="Henry, Will and Stevens, Jeff",
+    place=FAKE,
+    pp="59--63",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="henry2009net",
+    gs2016="1",
+    placex="Systems Conference, 2009 3rd Annual IEEE",
+))
+
 herald2009a = DB(WorkUnrelated(
     2009, "An obsolescence management framework for system baseline evolution-perspectives through the system life cycle",
     display="herald",
@@ -994,6 +1007,18 @@ ricca2009a = DB(WorkUnrelated(
     sciencedirect2016="1",
     planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
+))
+
+rico2009a = DB(WorkUnrelated(
+    2009, "The business value of agile software methods: maximizing ROI with just-in-time processes and documentation",
+    display="rico",
+    authors="Rico, David F and Sayani, Hasan H and Sone, Saya",
+    place=Book,
+    entrytype="book",
+    publisher="J. Ross Publishing",
+    ID="rico2009business",
+    gs2016="1",
+    placex="",
 ))
 
 rosso2009a = DB(WorkUnrelated(
