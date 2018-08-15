@@ -165,6 +165,8 @@ casteleyn2009a = DB(WorkUnrelated(
     ID="Casteleyn2009",
     googlescholar2016="1",
     planilha_googlescholar2016="1",
+    springer2016="1",
+    planilha_springer2016="1",
     placex="Engineering Web Applications",
 ))
 
@@ -177,8 +179,6 @@ casteleyn2009b = DB(WorkUnrelated(
     volume="30",
     publisher="Springer",
     ID="casteleyn2009engineering",
-    springer2016="1",
-    planilha_springer2016="1",
     placex="",
 ))
 

@@ -1,7 +1,7 @@
 digraph G {
   rankdir="RL";
 
-  s0 [label="s0\n visited: 482\n selected: 11"];
+  s0 [label="s0\n visited: 480\n selected: 11"];
   s0 -> googlescholar2016 [label="union"];
   s0 -> scopus2016 [label="union"];
   s0 -> springer2016 [label="union"];
@@ -11,11 +11,11 @@ digraph G {
   s0 -> webofscience2016 [label="union"];
   s0 -> ieee2016 [label="union"];
 
-  googlescholar2016 [label="googlescholar2016\n visited: 467\n selected: 11"];
+  googlescholar2016 [label="googlescholar2016\n visited: 466\n selected: 11"];
 
   scopus2016 [label="scopus2016\n visited: 79\n selected: 3"];
 
-  springer2016 [label="springer2016\n visited: 66\n selected: 1"];
+  springer2016 [label="springer2016\n visited: 65\n selected: 1"];
 
   acm2016 [label="acm2016\n visited: 0\n selected: 0"];
 

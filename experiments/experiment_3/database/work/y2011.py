@@ -605,7 +605,7 @@ ko2011a = DB(WorkUnrelated(
 ))
 
 ko2011b = DB(WorkUnrelated(
-    2011, "Comparison of System Dynamics and BPM for Software Process Simulation (citation)",
+   2011, "Comparison of System Dynamics and BPM for Software Process Simulation (citation)",
     display="ko",
     authors="Kozusznik, Jan and Stolfa, Svatopluk and Jezek, David and Kuchar, Stepán",
     place=FAKE,
@@ -613,11 +613,7 @@ ko2011b = DB(WorkUnrelated(
     entrytype="incollection",
     publisher="Springer",
     ID="kovzusznik2011b",
-    googlescholar2016="1",
-    planilha_googlescholar2016="1",
     placex="Digital Information Processing and Communications",
-    springer2016="1",
-    planilha_springer2016="1",
     cluster_id="859020768479873972",
     scholar="http://scholar.google.com/scholar?cites=859020768479873972&as_sdt=2005&sciodt=0,5&hl=en",
 ))

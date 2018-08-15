@@ -13,14 +13,14 @@
 <g id="node1" class="node"><title>s0</title>
 <ellipse fill="none" stroke="black" cx="300.345" cy="-362.477" rx="60.623" ry="37.4533"/>
 <text text-anchor="middle" x="300.345" y="-373.777" font-family="Times New Roman,serif" font-size="14.00">s0</text>
-<text text-anchor="middle" x="300.345" y="-358.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 482</text>
+<text text-anchor="middle" x="300.345" y="-358.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 480</text>
 <text text-anchor="middle" x="300.345" y="-343.777" font-family="Times New Roman,serif" font-size="14.00"> selected: 11</text>
 </g>
 <!-- googlescholar2016 -->
 <g id="node2" class="node"><title>googlescholar2016</title>
 <ellipse fill="none" stroke="black" cx="86.267" cy="-688.477" rx="86.0347" ry="37.4533"/>
 <text text-anchor="middle" x="86.267" y="-699.777" font-family="Times New Roman,serif" font-size="14.00">googlescholar2016</text>
-<text text-anchor="middle" x="86.267" y="-684.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 467</text>
+<text text-anchor="middle" x="86.267" y="-684.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 466</text>
 <text text-anchor="middle" x="86.267" y="-669.777" font-family="Times New Roman,serif" font-size="14.00"> selected: 11</text>
 </g>
 <!-- s0&#45;&gt;googlescholar2016 -->
@@ -46,7 +46,7 @@
 <g id="node4" class="node"><title>springer2016</title>
 <ellipse fill="none" stroke="black" cx="86.267" cy="-502.477" rx="62.8651" ry="37.4533"/>
 <text text-anchor="middle" x="86.267" y="-513.777" font-family="Times New Roman,serif" font-size="14.00">springer2016</text>
-<text text-anchor="middle" x="86.267" y="-498.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 66</text>
+<text text-anchor="middle" x="86.267" y="-498.777" font-family="Times New Roman,serif" font-size="14.00"> visited: 65</text>
 <text text-anchor="middle" x="86.267" y="-483.777" font-family="Times New Roman,serif" font-size="14.00"> selected: 1</text>
 </g>
 <!-- s0&#45;&gt;springer2016 -->
