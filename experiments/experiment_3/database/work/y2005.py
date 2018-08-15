@@ -31,6 +31,7 @@ april2005a = DB(WorkUnrelated(
     planilha_wiley2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-20444462361&doi=10.1002%2fsmr.311&partnerID=40&md5=0dcc2afc60607347df5b9f60e9301066",
     scopus2016="1",
+    gs2016="1",
 ))
 
 berardi2005a = DB(WorkUnrelated(
@@ -249,6 +250,7 @@ liao2005a = DB(WorkSnowball(
     placex="ISWC2005 Workshop on Semantic Web Enabled Software Engineering",
     other1="Software Engineering, 2005, pp. 6–10.",
     scholar_ok=True,
+    gs2016="1",
 ))
 
 liao2005b = DB(WorkSnowball(

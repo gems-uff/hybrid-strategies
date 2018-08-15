@@ -356,6 +356,7 @@ grambow2013a = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="Int'l Journal on Advances in Software",
     scholar_ok=True,
+    gs2016="1",
 ))
 
 honke2013a = DB(WorkUnrelated(
@@ -386,6 +387,7 @@ jeners2013a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Software Quality Professional",
+    gs2016="1",
 ))
 
 jeners2013b = DB(WorkUnrelated(
@@ -668,6 +670,7 @@ peldzius2013a = DB(WorkUnrelated(
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
     planilha_springer2016="1",
+    gs2016="1",
 ))
 
 pernstål2013a = DB(WorkUnrelated(

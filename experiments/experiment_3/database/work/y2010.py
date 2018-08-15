@@ -726,6 +726,7 @@ rodríguez2010a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="International Journal of Software Engineering and Knowledge Engineering",
+    gs2016="1",
 ))
 
 roedler2010a = DB(WorkUnrelated(

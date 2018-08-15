@@ -131,6 +131,7 @@ canfora2006a = DB(WorkUnrelated(
     planilha_wiley2016="1",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644808059&doi=10.1002%2fspe.697&partnerID=40&md5=e849738eb749d1075b10d1a78bbaab7c",
     scopus2016="1",
+    gs2016="1",
 ))
 
 carnegie2006a = DB(WorkUnrelated(

@@ -356,6 +356,7 @@ falbo2009a = DB(WorkUnrelated(
     placex="International Journal of Business Process Integration and Management",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-77950250539&doi=10.1504%2fIJBPIM.2009.032281&partnerID=40&md5=df999f30d96002e2cf20af005a24424e",
     scopus2016="1",
+    gs2016="1",
 ))
 
 falbo2009b = DB(WorkUnrelated(

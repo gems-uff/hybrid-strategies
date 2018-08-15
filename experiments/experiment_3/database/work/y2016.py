@@ -172,6 +172,7 @@ clarke2016b = DB(WorkUnrelated(
     placex="International Conference on Software Process Improvement and Capability Determination",
     springer2016="1",
     planilha_springer2016="1",
+    gs2016="1",
 ))
 
 clarke2016c = DB(WorkUnrelated(

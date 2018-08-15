@@ -447,6 +447,7 @@ gazel2012a = DB(WorkSnowball(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856582312&partnerID=40&md5=24199db94642a73441b99d423ad616be",
     scopus2016="1",
     scholar_ok=True,
+    gs2016="1",
 ))
 
 gazel2012b = DB(WorkUnrelated(

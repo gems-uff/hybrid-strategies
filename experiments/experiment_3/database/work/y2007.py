@@ -228,6 +228,7 @@ garcia2007a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Information Sciences",
+    gs2016="1",
 ))
 
 hagge2007a = DB(WorkUnrelated(

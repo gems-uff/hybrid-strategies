@@ -926,6 +926,7 @@ ryu2008a = DB(WorkSnowball(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-51349137132&doi=10.1109%2fICIS.2008.78&partnerID=40&md5=e419e7dfc224fa8cd3bf08b6e5b47108",
     scopus2016="1",
     scholar_ok=True,
+    gs2016="1",
 ))
 
 safonov2008a = DB(WorkUnrelated(
