@@ -477,6 +477,9 @@ davis2013a = DB(WorkSnowball(
     scopus2016="1",
     planilha_scopus2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 davis2013b = DB(WorkUnrelated(
@@ -547,6 +550,9 @@ eloranta2013a = DB(WorkSnowball(
     selected_snowballing="1",
     selected_order="17",
     scholar_ok=True,
+    scopus_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 eoyang2013a = DB(WorkUnrelated(
@@ -1403,6 +1409,8 @@ ozkaya2013a = DB(WorkSnowball(
     planilha_scopus2016="1",
     placex="CrossTalk",
     scholar_ok=True,
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 
@@ -1995,6 +2003,10 @@ waardenburg2013a = DB(WorkSnowball(
     planilha_sciencedirect2016="1",
     placex="Information and software technology",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 wale2013a = DB(WorkUnrelated(

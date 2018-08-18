@@ -786,6 +786,10 @@ hoda2011a = DB(WorkSnowball(
     keyword="Agile Undercover",
     sciencedirect2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 hoda2011b = DB(WorkUnrelated(

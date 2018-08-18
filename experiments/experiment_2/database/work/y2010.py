@@ -894,6 +894,9 @@ oconnor2010a = DB(WorkSnowball(
     acm2016="1",
     planilha_acm2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 oconnor2010b = DB(WorkSnowball(
@@ -912,6 +915,9 @@ oconnor2010b = DB(WorkSnowball(
     acm2016="1",
     planilha_acm2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 omoronyia2010a = DB(WorkUnrelated(

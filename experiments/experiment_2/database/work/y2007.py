@@ -594,6 +594,7 @@ mitra2007a = DB(WorkSnowball(
     acm2016="1",
     planilha_acm2016="1",
     scholar_ok=True,
+    acm_search="1",
 ))
 
 morien2007a = DB(WorkUnrelated(

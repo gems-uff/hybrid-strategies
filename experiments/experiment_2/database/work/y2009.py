@@ -134,6 +134,8 @@ barton2009a = DB(WorkSnowball(
     art_number="4755763",
     note="cited By 5",
     scholar_ok=True,
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 begel2009a = DB(WorkUnrelated(

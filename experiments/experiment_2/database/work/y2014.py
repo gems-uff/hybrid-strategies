@@ -1098,6 +1098,10 @@ igaki2014a = DB(WorkSnowball(
     planilha_acm2016="1",
     placex="Companion Proceedings of the 36th International Conference on Software Engineering",
     scholar_ok=True,
+    scopus_search="1",
+    acm_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 ihme2014a = DB(WorkUnrelated(
@@ -1945,6 +1949,9 @@ power2014a = DB(WorkSnowball(
     elcompendex2016="1",
     scholar_ok=True,
     springer2016="1",
+    scopus_search="1",
+    springer_search="1",
+    elcompendex_search="1",
 ))
 
 power2014b = DB(WorkSnowball(
@@ -1975,6 +1982,9 @@ power2014b = DB(WorkSnowball(
     address="Rome, Italy",
     elcompendex2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    springer_search="1",
+    elcompendex_search="1",
 ))
 
 power2014c = DB(WorkUnrelated(

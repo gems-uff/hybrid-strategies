@@ -657,6 +657,10 @@ eloranta2016a = DB(WorkSnowball(
     planilha_sciencedirect2016="1",
     placex="Information and Software Technology",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 eshet2016a = DB(WorkUnrelated(
@@ -982,6 +986,10 @@ gupta2016a = DB(WorkSnowball(
     planilha_acm2016="1",
     placex="Proceedings of the 9th India Software Engineering Conference",
     scholar_ok=True,
+    scopus_search="1",
+    acm_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 gupta2016b = DB(WorkUnrelated(
@@ -2337,6 +2345,10 @@ vlietland2016a = DB(WorkSnowball(
     planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 vrhovec2016a = DB(WorkUnrelated(

@@ -937,6 +937,9 @@ heck2015a = DB(WorkSnowball(
     scopus2016="1",
     planilha_scopus2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 heikkilä2015a = DB(WorkUnrelated(
@@ -2088,6 +2091,8 @@ rindell2015a = DB(WorkSnowball(
     issn="16130073",
     address="Tampere, Finland",
     scholar_ok=True,
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 rindell2015b = DB(WorkUnrelated(
@@ -2709,6 +2714,10 @@ vlietland2015a = DB(WorkSnowball(
     doi="10.1016/j.infsof.2014.08.008",
     note="cited By 13",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",    
 ))
 
 vlietland2015b = DB(WorkUnrelated(
@@ -2740,6 +2749,10 @@ wale2015a = DB(WorkSnowball(
     planilha_sciencedirect2016="1",
     placex="Journal of Systems and Software",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 walk2015a = DB(WorkUnrelated(

@@ -1341,6 +1341,8 @@ saddington2012a = DB(WorkSnowball(
     selected_order="19",
     final_selected="1",
     scholar_ok=True,
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 
