@@ -811,6 +811,10 @@ murugappan2003a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="50",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 neiger2003a = DB(WorkUnrelated(

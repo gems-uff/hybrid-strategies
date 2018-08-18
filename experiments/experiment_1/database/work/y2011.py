@@ -304,6 +304,10 @@ birkhölzer2011a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="47",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 birkhölzer2011b = DB(WorkUnrelated(
@@ -620,6 +624,9 @@ esfahani2011a = DB(WorkSnowball(
     selected_order="18",
     acm2015="1",
     seed_set="1",
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 esfahani2011b = DB(WorkUnrelated(
@@ -1001,6 +1008,8 @@ kaneko2011a = DB(WorkSnowball( # 15
     ieee2015="1",
     scopus2015="1",
     seed_set="1",
+    scopus_search="1",
+    ieee_search="1",
 ))
 
 kannabiran2011a = DB(WorkUnrelated(
@@ -1582,6 +1591,10 @@ plösch2011a = DB(WorkSnowball(
     elcompendex2015="1",
     scopus2015="1",
     seed_set="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 ponisio2011a = DB(WorkUnrelated(
@@ -1962,6 +1975,9 @@ trendowicz2011a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="43",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    elcompendex_search="1",
 ))
 
 tsunoda2011a = DB(WorkUnrelated(

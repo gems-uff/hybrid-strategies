@@ -1149,6 +1149,9 @@ oConnor2015a = DB(WorkSnowball(
     selected_order="20",
     acm2015="1",
     seed_set="1",
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 papa2015a = DB(WorkUnrelated(
@@ -1222,6 +1225,9 @@ petersen2015a = DB(WorkSnowball( # 11
     selected_order="4",
     springer2015="1",
     seed_set="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
 ))
 
 ralph2015a = DB(WorkUnrelated(

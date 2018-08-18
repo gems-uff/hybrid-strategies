@@ -540,6 +540,10 @@ mccoy1998a = DB(WorkSnowball(
     final_selected="1",
     selected_order="37",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 mellis1998a = DB(WorkUnrelated(

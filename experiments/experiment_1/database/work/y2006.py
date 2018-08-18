@@ -813,6 +813,8 @@ liu2006a = DB(WorkSnowball(
     placex="Software Process Improvement and Practice",
     selected_order="46",
     selected_snowballing="1",
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 liu2006b = DB(WorkUnrelated(

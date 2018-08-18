@@ -496,6 +496,9 @@ kautz2000a = DB(WorkSnowball(
     selected_order="21",
     acm2015="1",
     seed_set="1",
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 kautz2000b = DB(WorkUnrelated(

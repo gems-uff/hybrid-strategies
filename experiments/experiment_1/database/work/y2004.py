@@ -1151,6 +1151,9 @@ trienekens2004a = DB(WorkSnowball(
     final_selected="1",
     selected_order="48",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
 ))
 
 turnu2004a = DB(WorkUnrelated(

@@ -429,6 +429,10 @@ reiblein1997a = DB(WorkSnowball(
     selected_order="15",
     scopus2015="1",
     seed_set="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 richardson1997a = DB(WorkUnrelated(

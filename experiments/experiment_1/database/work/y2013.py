@@ -1417,6 +1417,9 @@ münch2013c = DB(WorkSnowball(
     final_selected="1",
     selected_order="40",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    elcompendex_search="1",
 ))
 
 münch2013d = DB(WorkUnrelated(
@@ -1710,6 +1713,10 @@ stallinger2013a = DB(WorkSnowball(
     placex="International Conference on Software Quality",
     selected_order="28",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 strate2013a = DB(WorkUnrelated(

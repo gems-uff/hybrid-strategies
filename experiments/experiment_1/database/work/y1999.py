@@ -680,6 +680,10 @@ sommerville1999a = DB(WorkSnowball( # 56
     selected_order="10",
     ieee2015="1",
     seed_set="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 sytsma1999a = DB(WorkUnrelated(

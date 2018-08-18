@@ -214,6 +214,7 @@ hinley1995a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="29",
     selected_snowballing="1",
+    webofscience_search="1",
 ))
 
 humphrey1995a = DB(WorkUnrelated(

@@ -197,6 +197,8 @@ basili2007a = DB(WorkSnowball(
     final_selected="1",
     selected_order="38",
     selected_snowballing="1",
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 basili2007b = DB(WorkSnowball(
@@ -218,6 +220,8 @@ basili2007b = DB(WorkSnowball(
     final_selected="1",
     selected_order="42",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
 ))
 
 basili2007c = DB(WorkSnowball(
@@ -1663,6 +1667,8 @@ wilkie2007a = DB(WorkSnowball( # 10
     scholar_ok=True,
     scopus2015="1",
     seed_set="1",
+    scopus_search="1",
+    elcompendex_search="1",
 ))
 
 yang2007a = DB(WorkUnrelated(

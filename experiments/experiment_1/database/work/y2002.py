@@ -563,6 +563,9 @@ karlström2002a = DB(WorkSnowball(
     final_selected="1",
     selected_order="27",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    elcompendex_search="1",
 ))
 
 karlström2002b = DB(WorkUnrelated(

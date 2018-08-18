@@ -121,6 +121,10 @@ armbrust2010a = DB(WorkSnowball(
     final_selected="1",
     selected_order="31",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 armbrust2010b = DB(WorkSnowball(
@@ -206,6 +210,10 @@ barreto2010a = DB(WorkSnowball(  # 9
     selected_order="6",
     elcompendex2015="1",
     seed_set="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 barreto2010b = DB(WorkUnrelated(
@@ -252,6 +260,9 @@ basili2010a = DB(WorkSnowball( # 147
     selected_order="9",
     ieee2015="1",
     seed_set="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -876,6 +887,10 @@ guzmán2010a = DB(WorkSnowball( # 19
     webofscience2015="1",
     scopus2015="1",
     seed_set="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 haigh2010a = DB(WorkUnrelated(
@@ -1368,6 +1383,9 @@ mandić2010a = DB(WorkSnowball(
     selected_order="16",
     ieee2015="1",
     seed_set="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
 ))
 
 mandić2010b = DB(WorkSnowball(
@@ -1395,6 +1413,9 @@ mandić2010b = DB(WorkSnowball(
     selected_order="22",
     acm2015="1",
     seed_set="1",
+    scopus_search="1",
+    acm_search="1",
+    elcompendex_search="1",
 ))
 
 mandić2010c = DB(WorkUnrelated(
@@ -1432,6 +1453,9 @@ mandić2010d = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="24",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
 ))
 
 mandić2010e = DB(WorkUnrelated(
@@ -1538,6 +1562,10 @@ mcloughlin2010a = DB(WorkSnowball(
     final_selected="1",
     selected_order="34",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 mcloughlin2010b = DB(WorkSnowball(
@@ -1562,6 +1590,10 @@ mcloughlin2010b = DB(WorkSnowball(
     final_selected="1",
     selected_order="35",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 
@@ -2294,6 +2326,10 @@ sun2010a = DB(WorkSnowball(
     final_selected="1",
     selected_order="30",
     selected_snowballing="1",
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 suscheck2010a = DB(WorkUnrelated(

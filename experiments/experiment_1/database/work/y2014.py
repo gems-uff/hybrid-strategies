@@ -590,6 +590,9 @@ cocozza2014a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="25",
     selected_snowballing="1",
+    scopus_search="1",
+    springer_search="1",
+    elcompendex_search="1",
 ))
 
 costa2014a = DB(WorkUnrelated(
@@ -1466,6 +1469,10 @@ lepmets2014a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="33",
     selected_snowballing="1",
+    scopus_search="1",
+    ieee_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 lepmets2014b = DB(WorkUnrelated(
@@ -2130,6 +2137,7 @@ trendowicz2014a = DB(WorkSnowball(
     final_selected="1",
     selected_order="39",
     selected_snowballing="1",
+    springer_search="1",
 ))
 
 trendowicz2014b = DB(WorkUnrelated(
@@ -2174,6 +2182,9 @@ unterkalmsteiner2014a = DB(WorkSnowball(
     scholar_ok=True,
     selected_order="26",
     selected_snowballing="1",
+    scopus_search="1",
+    webofscience_search="1",
+    elcompendex_search="1",
 ))
 
 verner2014a = DB(WorkUnrelated(
