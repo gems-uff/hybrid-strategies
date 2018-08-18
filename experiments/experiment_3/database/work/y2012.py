@@ -448,6 +448,8 @@ gazel2012a = DB(WorkSnowball(
     scopus2016="1",
     scholar_ok=True,
     gs2016="1",
+    scopus_search="1",
+    googlescholar_search="1",
 ))
 
 gazel2012b = DB(WorkUnrelated(
@@ -475,6 +477,7 @@ grambow2012a = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="",
     scholar_ok=True,
+    googlescholar_search="1",
 ))
 
 grambow2012b = DB(WorkUnrelated(
@@ -1075,6 +1078,7 @@ soydan2012a = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="Journal of Software Engineering and Applications",
     scholar_ok=True,
+    googlescholar_search="1",
 ))
 
 spice2012a = DB(WorkUnrelated(

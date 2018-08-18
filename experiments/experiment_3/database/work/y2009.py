@@ -390,6 +390,7 @@ gazel2009a = DB(WorkSnowball(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     scholar_ok=True,
+    googlescholar_search="1",
 ))
 
 husnain2009a = DB(WorkUnrelated(
@@ -570,6 +571,10 @@ lee2009a = DB(WorkSnowball(
     final_selected="1",    
     placex="Applied Intelligence",
     scholar_ok=True,
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    googlescholar_search="1",
 ))
 
 lee2009b = DB(WorkUnrelated(

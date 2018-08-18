@@ -357,6 +357,7 @@ grambow2013a = DB(WorkSnowball(
     placex="Int'l Journal on Advances in Software",
     scholar_ok=True,
     gs2016="1",
+    googlescholar_search="1",
 ))
 
 honke2013a = DB(WorkUnrelated(

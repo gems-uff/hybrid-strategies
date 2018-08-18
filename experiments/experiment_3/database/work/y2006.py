@@ -613,6 +613,7 @@ soydan2006a = DB(WorkSnowball(
     placex="Workshop on Semantic Web Enabled Software Engineering (SWESE)",
     other1="Google Scholar",
     scholar_ok=True,
+    googlescholar_search="1",
 ))
 
 soydan2006b = DB(WorkUnrelated(

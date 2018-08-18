@@ -456,6 +456,10 @@ kabaale2016a = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="International Conference on Software Process Improvement and Capability Determination",
     scholar_ok=True,
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    googlescholar_search="1",
 ))
 
 kreiner2016a = DB(WorkUnrelated(

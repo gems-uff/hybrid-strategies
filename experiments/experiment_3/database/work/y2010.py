@@ -838,6 +838,9 @@ stolfa2010a = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="Computer Information Systems and Industrial Management Applications (CISIM), 2010 International Conference on",
     scholar_ok=True,
+    scopus_search="1",
+    ieee_search="1",
+    googlescholar_search="1",
 ))
 
 succar2010a = DB(WorkUnrelated(

@@ -581,6 +581,11 @@ lee2008a = DB(WorkSnowball(
     final_selected="1",
     placex="International Journal of Approximate Reasoning",
     scholar_ok=True,
+    scopus_search="1",
+    sciencedirect_search="1",
+    webofscience_search="1",
+    ieee_search="1",
+    googlescholar_search="1",
 ))
 
 lee2008b = DB(WorkUnrelated(
@@ -895,6 +900,10 @@ rungratri2008a = DB(WorkSnowball(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     scholar_ok=True,
+    scopus_search="1",
+    springer_search="1",
+    webofscience_search="1",
+    googlescholar_search="1",
 ))
 
 rungratri2008b = DB(WorkUnrelated(
@@ -927,6 +936,10 @@ ryu2008a = DB(WorkSnowball(
     scopus2016="1",
     scholar_ok=True,
     gs2016="1",
+    scopus_search="1",
+    webofscience_search="1",
+    ieee_search="1",
+    googlescholar_search="1",
 ))
 
 safonov2008a = DB(WorkUnrelated(

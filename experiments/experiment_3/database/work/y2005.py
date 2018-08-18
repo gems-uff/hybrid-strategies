@@ -251,6 +251,7 @@ liao2005a = DB(WorkSnowball(
     other1="Software Engineering, 2005, pp. 6–10.",
     scholar_ok=True,
     gs2016="1",
+    googlescholar_search="1",
 ))
 
 liao2005b = DB(WorkSnowball(
@@ -270,6 +271,7 @@ liao2005b = DB(WorkSnowball(
     planilha_googlescholar2016="1",
     placex="",
     scholar_ok=True,
+    googlescholar_search="1",
 ))
 
 lin2005a = DB(WorkUnrelated(
