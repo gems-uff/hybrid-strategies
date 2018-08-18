@@ -18,10 +18,10 @@ config.LINE_PARAMS = "{year_path}:{line}"
 ###   Graph node color
 ###   Graph node text color
 config.CLASSES = [
-    ("Work", "work", "display", "#FFD86E", "black"),
     ("WorkSnowball", "snowball", "display", "#6DCE9E", "white"),
+    ("WorkUnrelated", "unrelated", "hide", "#DE9BF9", "white"),
+    ("Work", "work", "hide", "#FFD86E", "black"),
     ("WorkOk", "ok", "hide", "#68BDF6", "white"),
-    ("WorkUnrelated", "unrelated", "display", "#DE9BF9", "white"),
     ("WorkNoFile", "nofile", "hide", "#A5ABB6", "white"),
     ("WorkLang", "lang", "hide", "#ff8040", "white"),
     ("Site", "site", "hide", "#000080", "white"),
@@ -49,7 +49,8 @@ config.WORK_FIELDS = [
     "scopus", "acm", "ieee", "gs", "sciencedirect", "elcompendex", "webofscience", "springer",
     "placex", "seed_set", "selected_snowballing", "final_selected", "selected_order", 
     "scopus2015", "acm2015", "ieee2015", "sciencedirect2015", "elcompendex2015", "webofscience2015", "springer2015",
-
+    "googlescholar2016", "scopus2016", "springer2016", "acm2016", "sciencedirect2016", "wiley2016", "webofscience2016", "ieee2016",
+    "gs2016",
     #seed_set = estudo que pertence ao seed set;
     #selected_snowballing = estudo selecionado durante o snowballing;
     #final_selected = estudo selecionado após aplicação do snowballing, segundo critério de exclusão do artigo reproduzido;
@@ -72,7 +73,12 @@ config.BIBTEX_IGNORE_FIELDS = [
     "summary", "star", "approach_name", "other1", "document_type", "source", "art_number",
     "keyword", "acmid", "artnumber", "location", "numpages", "series", "editor", "issue_date",
     "journal", "day", "key", "page_count", "articleno", "copyright", "language", "bookgroupauthor",
-    "uniqueid",
+    "uniqueid","scopus_search","springer_search", "wiley_search","sciencedirect_search",
+    "acm_search","webofscience_search","ieee_search", "googlescholar_search","planilha_googlescholar2016", 
+    "planilha_scopus2016", "planilha_springer2016", "planilha_acm2016", "planilha_sciencedirect2016", 
+    "planilha_wiley2016", "planilha_webofscience2016", "planilha_ieee2016",
+
+ 
 ]
 
 

@@ -18,10 +18,10 @@ config.LINE_PARAMS = "{year_path}:{line}"
 ###   Graph node color
 ###   Graph node text color
 config.CLASSES = [
-    ("Work", "work", "display", "#FFD86E", "black"),
     ("WorkSnowball", "snowball", "display", "#6DCE9E", "white"),
+    ("WorkUnrelated", "unrelated", "hide", "#DE9BF9", "white"),
+    ("Work", "work", "hide", "#FFD86E", "black"),
     ("WorkOk", "ok", "hide", "#68BDF6", "white"),
-    ("WorkUnrelated", "unrelated", "display", "#DE9BF9", "white"),
     ("WorkNoFile", "nofile", "hide", "#A5ABB6", "white"),
     ("WorkLang", "lang", "hide", "#ff8040", "white"),
     ("Site", "site", "hide", "#000080", "white"),
@@ -72,7 +72,10 @@ config.BIBTEX_IGNORE_FIELDS = [
     "summary", "star", "approach_name", "other1", "document_type", "source", "art_number",
     "keyword", "acmid", "artnumber", "location", "numpages", "series", "editor", "issue_date",
     "journal", "day", "key", "page_count", "articleno", "copyright", "language", "bookgroupauthor",
-    "uniqueid",
+    "uniqueid", "other2", "other3", "other4", "other5", "unique_id", "eissn", "orcidnumbers",
+    "cluster_id2", "scholar2", "unique_d", "researcheridnumbers", "scopus_search","springer_search", 
+    "ieee_search", "sciencedirect_search", "acm_search","webofscience_search", "elcompendex_search",
+  
 ]
 
 
