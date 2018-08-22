@@ -625,7 +625,7 @@ Eloranta, Veli-Pekka and Koskimies, Kai and Mikkonen, Tommi
   publisher = {Elsevier},
   sciencedirect2016 = {1},
   seed_set = {1},
-  selected_order = {1},
+  selected_order = {01},
   title = {{E}xploring {S}crum{B}ut\textemdash {A}n empirical study of {S}crum anti-patterns},
   volume = {74},
   year = {2016}
@@ -643,7 +643,7 @@ Eloranta, Veli-Pekka and Koskimies, Kai and Mikkonen, Tommi
   publisher = {Elsevier},
   sciencedirect2016 = {1},
   seed_set = {1},
-  selected_order = {1},
+  selected_order = {01},
   title = {{E}xploring {S}crum{B}ut\textemdash {A}n empirical study of {S}crum anti-patterns},
   volume = {74},
   year = {2016}
@@ -688,6 +688,7 @@ Vlietland, Jan and Van Solingen, Rini and van Vliet, Hans
 
 @article{vlietland2016a,
   author = {Vlietland, Jan and Van Solingen, Rini and van Vliet, Hans},
+  final_selected = {1},
   journal = {Journal of Systems and Software},
   pages = {418--429},
   placex = {Journal of Systems and Software},
@@ -705,6 +706,7 @@ Vlietland, Jan and Van Solingen, Rini and van Vliet, Hans
 
 @article{vlietland2016a,
   author = {Vlietland, Jan and Van Solingen, Rini and van Vliet, Hans},
+  final_selected = {1},
   journal = {Journal of Systems and Software},
   pages = {418--429},
   placex = {Journal of Systems and Software},
