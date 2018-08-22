@@ -1,30 +1,26 @@
 digraph G {
   rankdir="RL";
 
-  s0 [label="s0\n visited: 480\n selected: 11"];
-  s0 -> googlescholar [label="union"];
-  s0 -> scopus [label="union"];
-  s0 -> springer [label="union"];
-  s0 -> acm [label="union"];
-  s0 -> sciencedirect [label="union"];
-  s0 -> wiley [label="union"];
-  s0 -> webofscience [label="union"];
-  s0 -> ieee [label="union"];
+  s6 [label="s6\n visited: 442\n selected: 11"];
+  s6 -> s4 [label="union"];
+  s6 -> s5 [label="union"];
 
-  googlescholar [label="googlescholar\n visited: 466\n selected: 11"];
+  s4 [label="s4\n visited: 343\n selected: 11"];
+  s4 -> s3 [label="forward\n visited: 139\n selected: 0"];
 
-  scopus [label="scopus\n visited: 79\n selected: 3"];
+  s5 [label="s5\n visited: 306\n selected: 11"];
+  s5 -> s3 [label="backward\n visited: 102\n selected: 0"];
 
-  springer [label="springer\n visited: 65\n selected: 1"];
+  s3 [label="s3\n visited: 204\n selected: 11"];
+  s3 -> s1 [label="union"];
+  s3 -> s2 [label="union"];
 
-  acm [label="acm\n visited: 0\n selected: 0"];
+  s1 [label="s1\n visited: 90\n selected: 8"];
+  s1 -> googlescholar: s0 [label="forward\n visited: 76\n selected: 4"];
 
-  sciencedirect [label="sciencedirect\n visited: 21\n selected: 0"];
+  s2 [label="s2\n visited: 131\n selected: 10"];
+  s2 -> googlescholar: s0 [label="backward\n visited: 117\n selected: 6"];
 
-  wiley [label="wiley\n visited: 15\n selected: 0"];
-
-  webofscience [label="webofscience\n visited: 0\n selected: 0"];
-
-  ieee [label="ieee\n visited: 0\n selected: 0"];
+  googlescholar: s0 [label="googlescholar: s0\n visited: 14\n selected: 4"];
 
 }

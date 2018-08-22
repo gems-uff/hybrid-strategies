@@ -1,30 +1,18 @@
 digraph G {
   rankdir="RL";
 
-  s0 [label="s0\n visited: 480\n selected: 11"];
-  s0 -> googlescholar [label="union"];
-  s0 -> scopus [label="union"];
-  s0 -> springer [label="union"];
-  s0 -> acm [label="union"];
-  s0 -> sciencedirect [label="union"];
-  s0 -> wiley [label="union"];
-  s0 -> webofscience [label="union"];
-  s0 -> ieee [label="union"];
+  s4 [label="s4\n visited: 424\n selected: 11"];
+  s4 -> s3 [label="forward\n visited: 10\n selected: 0"];
 
-  googlescholar [label="googlescholar\n visited: 466\n selected: 11"];
+  s3 [label="s3\n visited: 414\n selected: 11"];
+  s3 -> s2 [label="forward\n visited: 198\n selected: 3"];
 
-  scopus [label="scopus\n visited: 79\n selected: 3"];
+  s2 [label="s2\n visited: 216\n selected: 8"];
+  s2 -> s1 [label="backward\n visited: 62\n selected: 0"];
 
-  springer [label="springer\n visited: 65\n selected: 1"];
+  s1 [label="s1\n visited: 154\n selected: 8"];
+  s1 -> scopus: s0 [label="backward\n visited: 75\n selected: 5"];
 
-  acm [label="acm\n visited: 0\n selected: 0"];
-
-  sciencedirect [label="sciencedirect\n visited: 21\n selected: 0"];
-
-  wiley [label="wiley\n visited: 15\n selected: 0"];
-
-  webofscience [label="webofscience\n visited: 0\n selected: 0"];
-
-  ieee [label="ieee\n visited: 0\n selected: 0"];
+  scopus: s0 [label="scopus: s0\n visited: 79\n selected: 3"];
 
 }

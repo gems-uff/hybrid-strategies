@@ -1,0 +1,18 @@
+digraph G {
+  rankdir="RL";
+
+  s4 [label="s4\n visited: 275\n selected: 9"];
+  s4 -> s3 [label="backward\n visited: 60\n selected: 0"];
+
+  s3 [label="s3\n visited: 215\n selected: 9"];
+  s3 -> s2 [label="backward\n visited: 110\n selected: 5"];
+
+  s2 [label="s2\n visited: 105\n selected: 4"];
+  s2 -> s1 [label="forward\n visited: 7\n selected: 0"];
+
+  s1 [label="s1\n visited: 98\n selected: 4"];
+  s1 -> s0 [label="forward\n visited: 19\n selected: 1"];
+
+  s0 [label="s0\n visited: 79\n selected: 3"];
+
+}
