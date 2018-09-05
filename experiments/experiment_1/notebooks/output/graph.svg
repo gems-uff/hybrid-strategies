@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="954" version="1.1" width="1410" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id2" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=751050437562579240&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect class="hinley1995a" fill="#6DCE9E" height="42" id="hinley1995a" stroke="black" width="42" x="0" y="38"><title>A goal-oriented approach for managing software process change
+<svg baseProfile="full" height="954" version="1.1" width="1410" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="id1" markerHeight="10" markerWidth="7" orient="auto" refY="5"><path d="M0,10 L7,5 0,0" fill="black" stroke="black" /></marker></defs><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=751050437562579240&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect class="hinley1995a" fill="#6DCE9E" height="42" id="hinley1995a" stroke="black" width="42" x="0" y="38"><title>A goal-oriented approach for managing software process change
 Hinley, DS and Reiblein, S
 
 @article{hinley1995a,
@@ -1742,7 +1742,7 @@ Lepmets, Marion and O Connor, Rory V and Cater-Steel, Aileen and Mesquida, Anton
 </title><tspan x="1313" y="129">lepme</tspan><tspan x="1313" y="141">ts</tspan></text></a><a target="_blank" xlink:href="http://scholar.google.com/scholar?cites=1570309116013095076&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en"><rect class="trendowicz2014a" fill="#6DCE9E" height="42" id="trendowicz2014a" stroke="black" width="42" x="1292" y="190"><title>Aligning Organizations Through Measurement
 Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M&#252;nch, Carolyn Seaman J&#252;rgen and Rombach, Dieter
 
-@Book{trendowicz2014a,
+@book{trendowicz2014a,
   author = {Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M{\"u}nch, Carolyn Seaman J{\"u}rgen and Rombach, Dieter},
   final_selected = {1},
   placex = {},
@@ -1756,7 +1756,7 @@ Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M&#252;nc
 </title></rect><text alignment-baseline="middle" class="wrap" fill="white" style="font-size:12px;font-family:monospace" text-anchor="middle" x="1313" y="211"><title>Aligning Organizations Through Measurement
 Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M&#252;nch, Carolyn Seaman J&#252;rgen and Rombach, Dieter
 
-@Book{trendowicz2014a,
+@book{trendowicz2014a,
   author = {Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M{\"u}nch, Carolyn Seaman J{\"u}rgen and Rombach, Dieter},
   final_selected = {1},
   placex = {},
@@ -1875,4 +1875,220 @@ Petersen, Kai and Gencel, Cigdem and Asghari, Negin and Betz, Stefanie
   year = {2015}
 }
 
-</title><tspan x="1389" y="129">peter</tspan><tspan x="1389" y="141">sen</tspan></text></a><text style="font-size:20px" text-anchor="middle" x="21" y="20">1995</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">1997</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">1998</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2000</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2001</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2002</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2003</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2004</text><text style="font-size:20px" text-anchor="middle" x="705" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="781" y="20">2006</text><text style="font-size:20px" text-anchor="middle" x="857" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="933" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="1009" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="1085" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="1161" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="1237" y="20">2013</text><text style="font-size:20px" text-anchor="middle" x="1313" y="20">2014</text><text style="font-size:20px" text-anchor="middle" x="1389" y="20">2015</text></svg>
+</title><tspan x="1389" y="129">peter</tspan><tspan x="1389" y="141">sen</tspan></text></a><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="988,59 965.5,59 965.5,287 885,287" stroke="black" stroke-opacity="0.3"><title>albuquerque2009 -&gt; martins b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,59 1038.8,59 1038.8,178.75 933,178.75 933,163" stroke="black" stroke-opacity="0.3"><title>armbrust2010 -&gt; becker2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,135 1040.6,135 1040.6,178.75 933,178.75 933,163" stroke="black" stroke-opacity="0.3"><title>armbrust2010 -&gt; becker2008
+
+ref: [16]
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,211 1042.4,211 1042.4,178.75 933,178.75 933,163" stroke="black" stroke-opacity="0.3"><title>barreto2010 -&gt; becker2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,211 1042.4,211 1042.4,181.0 857,181.0 857,163" stroke="black" stroke-opacity="0.3"><title>barreto2010 -&gt; basili b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,591 1051.4,591 1051.4,259.25 857,259.25 857,239" stroke="black" stroke-opacity="0.3"><title>mandi&#263; b2010 -&gt; basili c2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,667 1053.2,667 1053.2,259.25 857,259.25 857,239" stroke="black" stroke-opacity="0.3"><title>mandi&#263; d2010 -&gt; basili c2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,287 1044.2,287 1044.2,97.8 857,97.8 857,87" stroke="black" stroke-opacity="0.3"><title>basili2010 -&gt; basili2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1085" x2="1085" y1="342" y2="315"><title>guzm&#225;n2010 -&gt; basili2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="912,59 888.0,59 888.0,109.95 173,109.95 173,87" stroke="black" stroke-opacity="0.3"><title>becker b2008 -&gt; mccoy1998
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="912,59 888.0,59 888.0,100.5 705,100.5 705,87" stroke="black" stroke-opacity="0.3"><title>becker b2008 -&gt; liu2005
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="912,135 891.0,135 891.0,100.5 705,100.5 705,87" stroke="black" stroke-opacity="0.3"><title>becker2008 -&gt; liu2005
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="912,135 891.0,135 891.0,109.95 173,109.95 173,87" stroke="black" stroke-opacity="0.3"><title>becker2008 -&gt; mccoy1998
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,135 1040.6,135 1040.6,178.75 933,178.75 933,163" stroke="black" stroke-opacity="0.3"><title>armbrust2010 -&gt; becker2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1140" x2="1113" y1="59" y2="59"><title>birkh&#246;lzer2011 -&gt; armbrust2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,59 1268.375,59 1268.375,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>cocozza2014 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,59 1268.375,59 1268.375,591 1113,591" stroke="black" stroke-opacity="0.3"><title>cocozza2014 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,59 1268.375,59 1268.375,97.8 857,97.8 857,87" stroke="black" stroke-opacity="0.3"><title>cocozza2014 -&gt; basili2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,363 1046.0,363 1046.0,135 1037,135" stroke="black" stroke-opacity="0.3"><title>guzm&#225;n2010 -&gt; trienekens2009
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="76" x2="49" y1="59" y2="59"><title>reiblein1997 -&gt; hinley1995
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,211 1117.5,211 1117.5,181.0 857,181.0 857,163" stroke="black" stroke-opacity="0.3"><title>kaneko2011 -&gt; basili b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1140,211 1117.5,211 1117.5,439 1113,439" stroke="black" stroke-opacity="0.3"><title>kaneko2011 -&gt; kowalczyk2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="456,59 438.0,59 438.0,187.75 249,187.75 249,163" stroke="black" stroke-opacity="0.3"><title>karlstr&#246;m2002 -&gt; sommerville1999
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,439 1047.8,439 1047.8,181.0 857,181.0 857,163" stroke="black" stroke-opacity="0.3"><title>kowalczyk2010 -&gt; basili b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,439 1047.8,439 1047.8,259.25 857,259.25 857,239" stroke="black" stroke-opacity="0.3"><title>kowalczyk2010 -&gt; basili c2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,515 1049.6,515 1049.6,287 1057,287" stroke="black" stroke-opacity="0.3"><title>mandi&#263;2010 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1085" x2="1085" y1="536" y2="563"><title>mandi&#263;2010 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,591 1051.4,591 1051.4,97.8 857,97.8 857,87" stroke="black" stroke-opacity="0.3"><title>mandi&#263; b2010 -&gt; basili2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,591 1051.4,591 1051.4,181.0 857,181.0 857,163" stroke="black" stroke-opacity="0.3"><title>mandi&#263; b2010 -&gt; basili b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,591 1051.4,591 1051.4,287 1057,287" stroke="black" stroke-opacity="0.3"><title>mandi&#263; b2010 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,135 1195.0,135 1195.0,591 1113,591" stroke="black" stroke-opacity="0.3"><title>m&#252;nch c2013 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,59 1268.375,59 1268.375,591 1113,591" stroke="black" stroke-opacity="0.3"><title>cocozza2014 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1275.125,211 1275.125,591 1113,591" stroke="black" stroke-opacity="0.3"><title>trendowicz2014 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,667 1053.2,667 1053.2,97.8 857,97.8 857,87" stroke="black" stroke-opacity="0.3"><title>mandi&#263; d2010 -&gt; basili2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,667 1053.2,667 1053.2,287 1057,287" stroke="black" stroke-opacity="0.3"><title>mandi&#263; d2010 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="912" x2="885" y1="232" y2="259"><title>martins2008 -&gt; martins b2007
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,743 1055.0,743 1055.0,107.25 325,107.25 325,87" stroke="black" stroke-opacity="0.3"><title>mcloughlin2010 -&gt; debou2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,743 1055.0,743 1055.0,99.15 781,99.15 781,87" stroke="black" stroke-opacity="0.3"><title>mcloughlin2010 -&gt; liu2006
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1085" x2="1085" y1="798" y2="771"><title>mcloughlin b2010 -&gt; mcloughlin2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1085" x2="1085" y1="798" y2="771"><title>mcloughlin b2010 -&gt; mcloughlin2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="912,135 891.0,135 891.0,108.6 249,108.6 249,87" stroke="black" stroke-opacity="0.3"><title>becker2008 -&gt; messnarz1999
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,59 1192.0,59 1192.0,259.25 857,259.25 857,239" stroke="black" stroke-opacity="0.3"><title>m&#252;nch2013 -&gt; basili c2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,59 1192.0,59 1192.0,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>m&#252;nch2013 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1237" x2="1237" y1="80" y2="107"><title>m&#252;nch2013 -&gt; m&#252;nch c2013
+
+ref: [10]
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,135 1195.0,135 1195.0,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>m&#252;nch c2013 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,135 1195.0,135 1195.0,591 1113,591" stroke="black" stroke-opacity="0.3"><title>m&#252;nch c2013 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1216,135 1195.0,135 1195.0,439 1113,439" stroke="black" stroke-opacity="0.3"><title>m&#252;nch c2013 -&gt; kowalczyk2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1368" x2="1341" y1="80" y2="107"><title>oConnor2015 -&gt; lepmets2014
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,97.8 857,97.8 857,87" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; basili2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,91.05 1237,91.05 1237,87" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; m&#252;nch2013
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,169.75 1237,169.75 1237,163" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; m&#252;nch c2013
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,249.125 1161,249.125 1161,239" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; kaneko2011
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,591 1113,591" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; mandi&#263; b2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,667 1113,667" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; mandi&#263; d2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1368,135 1348.7142857142858,135 1348.7142857142858,363 1189,363" stroke="black" stroke-opacity="0.3"><title>petersen2015 -&gt; trendowicz2011
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1216" x2="1189" y1="232" y2="259"><title>stallinger2013 -&gt; pl&#246;sch2011
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,895 1058.6,895 1058.6,100.5 705,100.5 705,87" stroke="black" stroke-opacity="0.3"><title>sun2010 -&gt; liu2005
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,895 1058.6,895 1058.6,99.15 781,99.15 781,87" stroke="black" stroke-opacity="0.3"><title>sun2010 -&gt; liu2006
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1064,895 1058.6,895 1058.6,178.75 933,178.75 933,163" stroke="black" stroke-opacity="0.3"><title>sun2010 -&gt; becker2008
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><line marker-end="url(#id1)" stroke="black" stroke-opacity="0.3" x1="1140" x2="1113" y1="342" y2="315"><title>trendowicz2011 -&gt; basili2010
+
+ref: 
+contexts: []</title></line></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1275.125,211 1275.125,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>trendowicz2014 -&gt; basili2010
+
+ref: [16]
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1275.125,211 1275.125,515 1113,515" stroke="black" stroke-opacity="0.3"><title>trendowicz2014 -&gt; mandi&#263;2010
+
+ref: [50]
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1275.125,211 1275.125,591 1113,591" stroke="black" stroke-opacity="0.3"><title>trendowicz2014 -&gt; mandi&#263; b2010
+
+ref: [52]
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,211 1275.125,211 1275.125,363 1189,363" stroke="black" stroke-opacity="0.3"><title>trendowicz2014 -&gt; trendowicz2011
+
+ref: [69]
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="608,59 590.0,59 590.0,107.25 325,107.25 325,87" stroke="black" stroke-opacity="0.3"><title>trienekens2004 -&gt; debou2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="684,135 667.8,135 667.8,107.25 325,107.25 325,87" stroke="black" stroke-opacity="0.3"><title>trienekens2005 -&gt; debou2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,287 1278.5,287 1278.5,103.2 553,103.2 553,87" stroke="black" stroke-opacity="0.3"><title>unterkalmsteiner2014 -&gt; murugappan2003
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,287 1278.5,287 1278.5,107.25 325,107.25 325,87" stroke="black" stroke-opacity="0.3"><title>unterkalmsteiner2014 -&gt; debou2000
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,287 1278.5,287 1278.5,181.0 857,181.0 857,163" stroke="black" stroke-opacity="0.3"><title>unterkalmsteiner2014 -&gt; basili b2007
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="1292,287 1278.5,287 1278.5,331.2 1085,331.2 1085,315" stroke="black" stroke-opacity="0.3"><title>unterkalmsteiner2014 -&gt; basili2010
+
+ref: 
+contexts: []</title></polyline></g><g class="hoverable"><polyline fill="none" marker-end="url(#id1)" pointer-events="stroke" points="684,211 673.2,211 673.2,103.2 553,103.2 553,87" stroke="black" stroke-opacity="0.3"><title>wang2005 -&gt; murugappan2003
+
+ref: 
+contexts: []</title></polyline></g><text style="font-size:20px" text-anchor="middle" x="21" y="20">1995</text><text style="font-size:20px" text-anchor="middle" x="97" y="20">1997</text><text style="font-size:20px" text-anchor="middle" x="173" y="20">1998</text><text style="font-size:20px" text-anchor="middle" x="249" y="20">1999</text><text style="font-size:20px" text-anchor="middle" x="325" y="20">2000</text><text style="font-size:20px" text-anchor="middle" x="401" y="20">2001</text><text style="font-size:20px" text-anchor="middle" x="477" y="20">2002</text><text style="font-size:20px" text-anchor="middle" x="553" y="20">2003</text><text style="font-size:20px" text-anchor="middle" x="629" y="20">2004</text><text style="font-size:20px" text-anchor="middle" x="705" y="20">2005</text><text style="font-size:20px" text-anchor="middle" x="781" y="20">2006</text><text style="font-size:20px" text-anchor="middle" x="857" y="20">2007</text><text style="font-size:20px" text-anchor="middle" x="933" y="20">2008</text><text style="font-size:20px" text-anchor="middle" x="1009" y="20">2009</text><text style="font-size:20px" text-anchor="middle" x="1085" y="20">2010</text><text style="font-size:20px" text-anchor="middle" x="1161" y="20">2011</text><text style="font-size:20px" text-anchor="middle" x="1237" y="20">2013</text><text style="font-size:20px" text-anchor="middle" x="1313" y="20">2014</text><text style="font-size:20px" text-anchor="middle" x="1389" y="20">2015</text></svg>
