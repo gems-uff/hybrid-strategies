@@ -1,3 +1,0 @@
-ACM
-
-Searched for +("software process improvement" +("business goal" "strategic" "goal oriented" "business oriented" "business strategy") +("alignment" "in line with" "geared to" "aligned with" "linking") +("method" "approach" "framework" "methodology")) 

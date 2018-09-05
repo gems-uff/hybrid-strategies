@@ -1,6 +1,0 @@
-@book{messnarz1999better,
-  title={Better Software Practice for Business Benefit: Principles and Experiences},
-  author={Messnarz, Richard and Tully, Colin J},
-  year={1999},
-  publisher={IEEE Computer Society Press}
-}

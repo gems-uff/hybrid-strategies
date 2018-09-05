@@ -1,9 +1,0 @@
-Para a string de busca completa, foi aplicado o filtro de ano menor ou igual que 2015. Content type igual a Article. Com isso, chegamos a 130 retornados.
-
-Para a string adaptada, somente com o filtro do ano, mas com o content type igual a todos, temos o resultado igual a 140.
-
-
-Springer
-
-colocar a quantidade removida no excel e o motivo.
-olhar aquivo 2002 artigo oregans

@@ -1,6 +1,0 @@
-@article{munch2013effects,
-  title={The effects of gqm+ strategies on organizational alignment},
-  author={M{\"u}nch, J{\"u}rgen and Fagerholm, Fabian and Kettunen, Petri and Pagels, Max and Partanen, Jari},
-  journal={arXiv preprint arXiv:1311.6221},
-  year={2013}
-}

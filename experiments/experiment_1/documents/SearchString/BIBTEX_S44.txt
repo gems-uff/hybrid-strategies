@@ -1,6 +1,0 @@
-@inproceedings{martins2007propam,
-  title={ProPAM: SPI based on Process and Project Alignment},
-  author={Martins, Paula Ventura and Silva, AR},
-  booktitle={IRMA Internacional Conference, IGI Publishing, Vancouver},
-  year={2007}
-}

@@ -1,6 +1,0 @@
-@@article{basili2007gqm+,
-  title={GQM+ Strategies: A comprehensive methodology for aligning business strategies with software measurement},
-  author={Basili, Victor and Heidrich, Jens and Lindvall, Mikael and M{\"u}nch, J{\"u}rgen and Regardie, Myrna and Rombach, Dieter and Seaman, Carolyn and Trendowicz, Adam},
-  journal={arXiv preprint arXiv:1402.0292},
-  year={2007}
-}

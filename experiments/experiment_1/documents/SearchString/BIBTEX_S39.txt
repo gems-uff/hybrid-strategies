@@ -1,6 +1,0 @@
-@article{trendowiczaligning,
-  title={Aligning Organizations Through Measurement},
-  author={Trendowicz, Victor Basili Adam and Heidrich, Martin Kowalczyk Jens and M{\"u}nch, Carolyn Seaman J{\"u}rgen and Rombach, Dieter},
-  publisher={Springer},
-year={2014}
-}
