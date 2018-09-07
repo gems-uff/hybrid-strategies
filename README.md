@@ -1,17 +1,16 @@
 # Hybrid Strategies
 
 # About
-The hybrid search strategy is an approach that combines database search and snowballing to conduct the Systematic Literature Reviews (SLR) in software engineering.
 
-The goal of this work is to propose and evaluate hybrid search strategies combining searching in several database search or 
-in a specific digital library with parallel or sequential backward and forward snowballing. 
+The hybrid search strategy is an approach that combines database search and snowballing to conduct the Systematic Literature Reviews (SLR) in Software Engineering.
+
+The goal of this work is to propose and evaluate hybrid search strategies combining searching in several database search or in a specific digital library with parallel or sequential backward and forward snowballing. 
 
 The proposed hybrid search strategies was applied to three previously published SLRs that adopted database searches and snowballing. 
-For this, we used Snowballing Tool developed by Joao Felipe Pimentel (https://github.com/JoaoFelipe/snowballing) in Python language and we developed a new code to provide different simulations of hybrid search strategies. 
+For this, we used [Snowballing Tool](https://github.com/JoaoFelipe/snowballing) developed by Joao Felipe Pimentel in Python language and we developed a new code to provide different simulations of hybrid search strategies. 
 
 We evaluate whether the strategy is able to retrieve the selected papers with lower effort in terms of the number of analyzed papers 
-(Precision), if it is able to retrieve all papers that were selected in the published SLR that conducted searches on databases and snowballing
-(Recall) and we used the harmonic mean between Precision and Recall (F-measure) to analyses the results.
+(Precision), if it is able to retrieve all papers that were selected in the published SLR that conducted searches on databases and snowballing (Recall) and we used the harmonic mean between Precision and Recall (F-measure) to analyses the results.
 
 To improve understanding we represent the strategies flow, the citation matrix, citation graph, and the steps to find papers through 
 backward and forward snowballing providing visualization and data for analysis. 
