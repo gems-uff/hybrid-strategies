@@ -36,8 +36,6 @@ In summary, this work is part of Erica Mourao Master Science Thesis.
 - Erica Mourao (UFF)
 - Joao Felipe Pimentel (UFF)
 - Leonardo Murta (UFF)
-
-Collaborator
 - Marcos Kalinowski (PUC-Rio)
 
 
