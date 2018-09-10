@@ -30,7 +30,6 @@ In summary, this work is part of Erica Mourao Master Science Thesis.
 
 # Publications
 - [Investigating the Use of a Hybrid Search Strategy for Systematic Reviews](https://ieeexplore.ieee.org/document/8170102/)
-- [Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering](https://dl.acm.org/citation.cfm?id=2601268)
 
 
 # Team
@@ -40,6 +39,7 @@ In summary, this work is part of Erica Mourao Master Science Thesis.
 
 Collaborator
 - Marcos Kalinowski (PUC-Rio)
+
 
 # Software
 - [Snowballing Tool](https://github.com/JoaoFelipe/snowballing)
