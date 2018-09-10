@@ -1,5 +1,6 @@
 # Hybrid Strategies
 
+
 # About
 
 A hybrid search strategy is an approach that combines database search and snowballing to conduct the Systematic Literature Reviews (SLR) in Software Engineering.
@@ -27,17 +28,18 @@ In summary, this work is part of Erica Mourao Master Science Thesis.
 | [Report](https://github.com/gems-uff/hybrid-strategies/tree/master/experiments/experiment_1/documents) |[Report](https://github.com/gems-uff/hybrid-strategies/tree/master/experiments/experiment_2/documents) | [Report](https://github.com/gems-uff/hybrid-strategies/tree/master/experiments/experiment_3/documents)
 
 
-# Documentation
+# Publications
 - [Investigating the Use of a Hybrid Search Strategy for Systematic Reviews](https://ieeexplore.ieee.org/document/8170102/)
 - [Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering](https://dl.acm.org/citation.cfm?id=2601268)
 
 
 # Team
-- Erica Mourao
-- Joao Felipe Pimentel
-- Marcos Kalinowski
-- Leonardo Murta
+- Erica Mourao (UFF)
+- Joao Felipe Pimentel (UFF)
+- Leonardo Murta (UFF)
 
+Collaborator
+- Marcos Kalinowski (PUC-Rio)
 
 # Software
 - [Snowballing Tool](https://github.com/JoaoFelipe/snowballing)
