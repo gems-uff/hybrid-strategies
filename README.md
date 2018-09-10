@@ -32,16 +32,10 @@ In summary, this work is part of Erica Mourao Master Science Thesis.
 - [Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering](https://dl.acm.org/citation.cfm?id=2601268)
 
 
-# Author
-Erica Mourao
-
-
-# Additional Contributors
+# Team
+- Erica Mourao
 - Joao Felipe Pimentel
 - Marcos Kalinowski
-
-
-# Advisor 
 - Leonardo Murta
 
 
