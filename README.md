@@ -32,16 +32,17 @@ Publications
 
 - [Mourão, E., Kalinowski, M., Murta, L., Mendes, E., & Wohlin, C.. Investigating the use of a hybrid search strategy for systematic reviews. ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017 (pp. 193-198).](https://ieeexplore.ieee.org/document/8170102/)
 
-Main Team
----------
+Team
+----
+
+The main team is composed by researchers from Universidade Federal Fluminense (UFF) and Pontifical Catholic University of Rio de Janeiro (PUC-Rio) in Brazil:
 
 - Erica Mourao (UFF, Brazil)
 - Joao Felipe Pimentel (UFF, Brazil)
 - Leonardo Murta (UFF, Brazil)
 - Marcos Kalinowski (PUC-Rio, Brazil)
 
-Collaborators
--------------
+Collaborators:
 
 - Emilia Mendes (BTH, Sweden)
 - Claes Wohlin (BTH, Sweden)
