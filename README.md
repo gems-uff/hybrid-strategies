@@ -47,15 +47,11 @@ Collaborators:
 - Emilia Mendes (BTH, Sweden)
 - Claes Wohlin (BTH, Sweden)
 
-Included Software
------------------
-
-- [Snowballing Tool](https://github.com/JoaoFelipe/snowballing)
-
-Programming Language
---------------------
+Included/Used Software
+----------------------
 
 - Python
+- [Snowballing Tool](https://github.com/JoaoFelipe/snowballing)
 
 Acknowledgements
 ----------------
