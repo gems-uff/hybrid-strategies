@@ -293,6 +293,7 @@ conradi2002a = DB(WorkUnrelated(
     ID="Conradi200292",
     placex="IEEE Software",
     other1="19(4):9299",
+    scholar2015="1",
 ))
 
 dag2002a = DB(WorkUnrelated(
@@ -441,6 +442,21 @@ grembergen2002a = DB(WorkUnrelated(
     note="cited By 37",
     ID="VanGrembergen2002",
     placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
+))
+
+hammer2002a = DB(WorkUnrelated(
+    2002, "Process management and the future of six sigma: savvy companies have learned that their six-sigma initiatives must serve the larger endeavor of process management",
+    display="hammer",
+    authors="Hammer, Michael",
+    place=FAKE,
+    pp="26--33",
+    entrytype="article",
+    volume="43",
+    number="2",
+    publisher="Sloan Management Review",
+    ID="hammer2002process",
+    scholar2015="1",
+    placex="MIT Sloan management review",
 ))
 
 helokunnas2002a = DB(WorkUnrelated(

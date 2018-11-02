@@ -40,6 +40,18 @@ abb2006a = DB(WorkUnrelated(
     placex="ABB",
 ))
 
+alter2006a = DB(WorkUnrelated(
+    2006, "The work system method: connecting people, processes, and IT for business results",
+    display="alter",
+    authors="Alter, Steven",
+    place=Book,
+    entrytype="book",
+    publisher="Work System Method",
+    ID="alter2006work",
+    scholar2015="1",
+    placex="",
+))
+
 andersen2006a = DB(WorkUnrelated(
     2006, "E-government maturity models: Extension of the Layne and Lee model",
     display="andersen",
@@ -726,6 +738,7 @@ komuro2006a = DB(WorkUnrelated(
     gs="1",
     placex="Proceedings of the 28th international conference on Software engineering",
     acm2015="1",
+    scholar2015="1",
 ))
 
 kwak2006a = DB(WorkUnrelated(

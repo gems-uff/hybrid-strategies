@@ -30,6 +30,21 @@ barafort2017a = DB(WorkUnrelated(
     planilha_sciencedirect2016="1",
 ))
 
+boege2017a = DB(WorkUnrelated(
+    2017, "A dual role of caspase-8 in triggering and sensing proliferation-associated DNA damage, a key determinant of liver cancer development",
+    display="boege",
+    authors="Boege, Yannick and Malehmir, Mohsen and Healy, Marc E and Bettermann, Kira and Lorentzen, Anna and Vucur, Mihael and Ahuja, Akshay K and Böhm, Friederike and Mertens, Joachim C and Shimizu, Yutaka and others",
+    place=FAKE,
+    pp="342--359",
+    entrytype="article",
+    volume="32",
+    number="3",
+    publisher="Elsevier",
+    ID="boege2017dual",
+    gscholar2016="1",
+    placex="Cancer cell",
+))
+
 computa2017a = DB(WorkUnrelated(
     2017, "THIAGO FERNANDES DIAS",
     display="computa",
@@ -174,6 +189,19 @@ heinzle2017a = DB(WorkUnrelated(
     placex="Revista da UNIFEBE",
 ))
 
+hovorushchenko2017a = DB(WorkUnrelated(
+    2017, "Information Technology for Assurance of Veracity of Quality Information in the Software Requirements Specification",
+    display="hovorushchenko",
+    authors="Hovorushchenko, Tetiana",
+    place=FAKE,
+    pp="166--185",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="hovorushchenko2017information",
+    gscholar2016="1",
+    placex="Conference on Computer Science and Information Technologies",
+))
+
 kabaale2017a = DB(WorkUnrelated(
     2017, "An Axiom Based Metamodel for Software Process Formalisation: An Ontology Approach",
     display="kabaale",
@@ -316,6 +344,21 @@ roongsangjan2017b = DB(WorkUnrelated(
     organization="ACM",
     ID="roongsangjan2017using",
     placex="Proceedings of the 2017 International Conference on Management Engineering, Software Engineering and Service Sciences",
+))
+
+sidi2017a = DB(WorkUnrelated(
+    2017, "Towards an Enhancement of Organizational Information Security through Threat Factor Profiling (TFP) Model",
+    display="sidi",
+    authors="Sidi, Fatimah and Daud, Maslina and Ahmad, Sabariah and Zainuddin, Naqliyah and Abdullah, Syafiqa Anneisa and Jabar, Marzanah A and Affendey, Lilly Suriani and Ishak, Iskandar and Sharef, Nurfadhlina Mohd and Zolkepli, Maslina and others",
+    place=FAKE,
+    pp="012011",
+    entrytype="inproceedings",
+    volume="892",
+    number="1",
+    organization="IOP Publishing",
+    ID="sidi2017towards",
+    gscholar2016="1",
+    placex="Journal of Physics: Conference Series",
 ))
 
 souza2017a = DB(WorkUnrelated(

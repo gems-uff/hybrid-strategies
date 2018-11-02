@@ -397,6 +397,17 @@ esfahani2012a = DB(WorkUnrelated(
     placex="",
 ))
 
+fagerström2012a = DB(WorkUnrelated(
+    2012, "Quality IS: Next Most Important Research Project?",
+    display="fagerström",
+    authors="Fagerström, Birgitta and Löfstedt, Ulrica and Williamsson, Ia",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="fagerstrom2012quality",
+    gscholar2016="1",
+    placex="The 35th Information Systems Research Seminar in Scandinavia--IRIS 2012, August 17--20, 2012, Sigtuna, Sweden",
+))
+
 fernandes2012a = DB(WorkUnrelated(
     2012, "Melhoria contínua na gestão de projectos: desenvolvimento e aplicação da ferramenta MAPEA",
     display="fernandes",
@@ -450,6 +461,7 @@ gazel2012a = DB(WorkSnowball(
     gs2016="1",
     scopus_search="1",
     googlescholar_search="1",
+    scholar2016="1",
 ))
 
 gazel2012b = DB(WorkUnrelated(
@@ -852,6 +864,30 @@ li2012a = DB(WorkUnrelated(
     placex="International Journal of Space-Based and Situated Computing 25",
 ))
 
+matinnejad2012a = DB(WorkUnrelated(
+    2012, "An analytical review of process-centered software engineering environments",
+    display="matinnejad",
+    authors="Matinnejad, Reza and Ramsin, Raman",
+    place=FAKE,
+    pp="64--73",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="matinnejad2012analytical",
+    gscholar2016="1",
+    placex="Engineering of Computer Based Systems (ECBS), 2012 IEEE 19th International Conference and Workshops on",
+))
+
+meskh2012a = DB(WorkUnrelated(
+    2012, "Computers and Software",
+    display="meskh",
+    authors="Meskh, Abdelwadood and Abhishek, AK and Aneesh, MU and Arun, BV and Darshan Kumar, J Yaradoni and Whet, Milan J and Patel, Minal and Manikantän, K and Ramachandran, J",
+    place=FAKE,
+    entrytype="article",
+    ID="meskh2012computers",
+    gscholar2016="1",
+    placex="",
+))
+
 milea2012a = DB(WorkUnrelated(
     2012, "tOWL: a temporal web ontology language",
     display="milea",
@@ -1031,6 +1067,17 @@ rungratri2012a = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+sales2012a = DB(WorkUnrelated(
+    2012, "Identification of semantic anti-patterns in ontology-driven conceptual modeling via visual simulation",
+    display="sales",
+    authors="Sales, Tiago Prince and Barcelos, Pedro Paulo Favato and Guizzardi, Giancarlo",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="sales2012identification",
+    gscholar2016="1",
+    placex="4th International Workshop on Ontology-Driven Information Systems",
+))
+
 slooten2012a = DB(WorkUnrelated(
     2012, "Software release planning: Investigating the use of an advanced assessment instrument and evaluating a novel maturity framework",
     display="slooten",
@@ -1103,6 +1150,19 @@ sumo2012a = DB(WorkUnrelated(
     authors="SUMO",
     place=FAKE,
     placex="http://www.ontologyportal.org",
+))
+
+suárez2012a = DB(WorkUnrelated(
+    2012, "The NeOn methodology for ontology engineering",
+    display="suárez",
+    authors="Suárez-Figueroa, Mari Carmen and Gómez-Pérez, Asunción and Fernández-López, Mariano",
+    place=FAKE,
+    pp="9--34",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="suarez2012neon",
+    scholar2016="1",
+    placex="Ontology engineering in a networked world",
 ))
 
 tech2012a = DB(WorkUnrelated(
@@ -1234,6 +1294,19 @@ wendler2012a = DB(WorkUnrelated(
     placex="Information and software technology",
     sciencedirect2016="1",
     planilha_sciencedirect2016="1",
+))
+
+weske2012a = DB(WorkUnrelated(
+    2012, "Business process management architectures",
+    display="weske",
+    authors="Weske, Mathias",
+    place=FAKE,
+    pp="333--371",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="weske2012business",
+    scholar2016="1",
+    placex="Business Process Management",
 ))
 
 wizard2012a = DB(WorkUnrelated(

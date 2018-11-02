@@ -234,6 +234,18 @@ briggs2013a = DB(WorkUnrelated(
     placex="Journal of Geophysical Research: Space Physics",
 ))
 
+broadus2013a = DB(WorkUnrelated(
+    2013, "The challenges of being agile in DoD",
+    display="broadus",
+    authors="Broadus, William",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Defense Acquisition University Mid-Atlantic Region California United States",
+    ID="broadus2013challenges",
+    gscholar2016="1",
+    placex="",
+))
+
 brown2013a = DB(WorkUnrelated(
     2013, "Agility at scale: Economic governance, measured improvement, and disciplined delivery",
     display="brown",
@@ -480,6 +492,7 @@ davis2013a = DB(WorkSnowball(
     scopus_search="1",
     webofscience_search="1",
     elcompendex_search="1",
+    scholar2016="1",
 ))
 
 davis2013b = DB(WorkUnrelated(
@@ -616,6 +629,8 @@ fitzgerald2013a = DB(WorkUnrelated(
     note="cited By 54",
     ID="Fitzgerald2013863",
     placex="Proceedings - International Conference on Software Engineering",
+    gscholar2016="1",
+    scholar2016="1",
 ))
 
 gagliardi2013a = DB(WorkUnrelated(
@@ -945,6 +960,21 @@ ingold2013a = DB(WorkUnrelated(
     placex="Proceedings of the 2013 International Conference on Software and System Process",
 ))
 
+jacobson2013a = DB(WorkUnrelated(
+    2013, "Agile and SEMAT-perfect partners",
+    display="jacobson",
+    authors="Jacobson, Ivar and Spence, Ian and Ng, Pan-Wei",
+    place=FAKE,
+    pp="30",
+    entrytype="article",
+    volume="11",
+    number="9",
+    publisher="ACM",
+    ID="jacobson2013agile",
+    scholar2016="1",
+    placex="Queue",
+))
+
 janes2013a = DB(WorkUnrelated(
     2013, "Managing changes in requirements: an empirical investigation",
     display="janes",
@@ -1077,6 +1107,7 @@ kruchten2013a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
     doi="10.1002/smr.572",
     note="cited By 45",
+    scholar2016="1",
 ))
 
 kuhrmann2013a = DB(WorkUnrelated(
@@ -1153,6 +1184,7 @@ larman2013a = DB(WorkUnrelated(
     note="cited By 6",
     ID="Larman20138",
     placex="CrossTalk",
+    gscholar2016="1",
 ))
 
 liebel2013a = DB(WorkUnrelated(
@@ -1241,6 +1273,19 @@ mcavoy2013a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Information Systems Journal",
+))
+
+mchugh2013a = DB(WorkUnrelated(
+    2013, "An agile v-model for medical device software development to overcome the challenges with plan-driven software development lifecycles",
+    display="mchugh",
+    authors="McHugh, Martin and Cawley, Oisín and McCaffery, Fergal and Richardson, Ita and Wang, Xiaofeng",
+    place=FAKE,
+    pp="12--19",
+    entrytype="inproceedings",
+    organization="IEEE Press",
+    ID="mchugh2013agile",
+    gscholar2016="1",
+    placex="Proceedings of the 5th International Workshop on Software Engineering in Health Care",
 ))
 
 meingast2013a = DB(WorkUnrelated(
@@ -1659,6 +1704,7 @@ rodríguez2013a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of the 2013 international conference on software and system process",
+    gscholar2016="1",
 ))
 
 rosenkranz2013a = DB(WorkUnrelated(
@@ -1911,6 +1957,19 @@ sukwadi2013a = DB(WorkUnrelated(
     placex="Journal of Small Business Management",
 ))
 
+thiemich2013a = DB(WorkUnrelated(
+    2013, "An agile BPM project methodology",
+    display="thiemich",
+    authors="Thiemich, Christian and Puhlmann, Frank",
+    place=FAKE,
+    pp="291--306",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="thiemich2013agile",
+    scholar2016="1",
+    placex="Business Process Management",
+))
+
 turner2013a = DB(WorkUnrelated(
     2013, "5.6. 2 A Lean Approach to Improving SE Visibility in Large Operational Systems Evolution",
     display="turner",
@@ -2007,6 +2066,7 @@ waardenburg2013a = DB(WorkSnowball(
     sciencedirect_search="1",
     webofscience_search="1",
     elcompendex_search="1",
+    scholar2016="1",
 ))
 
 wale2013a = DB(WorkUnrelated(

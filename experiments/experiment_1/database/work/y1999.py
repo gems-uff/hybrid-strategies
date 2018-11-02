@@ -54,6 +54,7 @@ becker1999a = DB(WorkUnrelated(
     ID="Becker199946",
     placex="IEEE Software",
     other1="16(3):4651",
+    scholar2015="1",
 ))
 
 biro1999a = DB(WorkUnrelated(
@@ -451,6 +452,21 @@ linberg1999a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+luftman1999a = DB(WorkUnrelated(
+    1999, "Achieving and sustaining business-IT alignment",
+    display="luftman",
+    authors="Luftman, Jerry and Brier, Tom",
+    place=FAKE,
+    pp="109--122",
+    entrytype="article",
+    volume="42",
+    number="1",
+    publisher="SAGE Publications Sage CA: Los Angeles, CA",
+    ID="luftman1999achieving",
+    scholar2015="1",
+    placex="California management review",
+))
+
 martinsons1999a = DB(WorkUnrelated(
     1999, "The balanced scorecard: A foundation for the strategic management of information systems",
     display="martinsons",
@@ -753,4 +769,19 @@ yamamura1999a = DB(WorkUnrelated(
     note="cited By 21",
     ID="Yamamura199983",
     placex="IEEE Software",
+))
+
+zee1999a = DB(WorkUnrelated(
+    1999, "Alignment is not enough: integrating business and information technology management with the balanced business scorecard",
+    display="zee",
+    authors="Van Der Zee, JTM and De Jong, Berend",
+    place=FAKE,
+    pp="137--158",
+    entrytype="article",
+    volume="16",
+    number="2",
+    publisher="Taylor & Francis",
+    ID="van1999alignment",
+    scholar2015="1",
+    placex="Journal of management information systems",
 ))

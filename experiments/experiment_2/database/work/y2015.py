@@ -330,6 +330,7 @@ campanelli2015a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
     cluster_id="13608389524893719267",
     scholar="http://scholar.google.com/scholar?cites=13608389524893719267&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar2016="1",
 ))
 
 carson2015a = DB(WorkUnrelated(
@@ -455,6 +456,19 @@ diebold2015a = DB(WorkUnrelated(
     cluster_id="12517295431993776094",
     scholar="http://scholar.google.com/scholar?cites=12517295431993776094&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Proceedings of the 2015 International Conference on Software and System Process",
+))
+
+diebold2015b = DB(WorkUnrelated(
+    2015, "What do practitioners vary in using scrum?",
+    display="diebold b",
+    authors="Diebold, Philipp and Ostberg, Jan-Peter and Wagner, Stefan and Zendler, Ulrich",
+    place=FAKE,
+    pp="40--51",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="diebold2015practitioners",
+    scholar2016="1",
+    placex="International Conference on Agile Software Development",
 ))
 
 dobrzykowski2015a = DB(WorkUnrelated(
@@ -1943,6 +1957,17 @@ plonka2015a = DB(WorkUnrelated(
     sciencedirect2016="1",
     planilha_sciencedirect2016="1",
     placex="International journal of human-computer studies",
+))
+
+pohl2015a = DB(WorkUnrelated(
+    2015, "Secure scrum: Development of secure software with scrum",
+    display="pohl",
+    authors="Pohl, Christoph and Hof, Hans-Joachim",
+    place=FAKE,
+    entrytype="article",
+    ID="pohl2015secure",
+    gscholar2016="1",
+    placex="arXiv preprint arXiv:1507.02992",
 ))
 
 power2015a = DB(WorkUnrelated(

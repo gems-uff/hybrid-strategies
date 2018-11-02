@@ -199,6 +199,7 @@ basili2007a = DB(WorkSnowball(
     selected_snowballing="1",
     scopus_search="1",
     elcompendex_search="1",
+    scholar2015="1",
 ))
 
 basili2007b = DB(WorkSnowball(
@@ -1046,6 +1047,20 @@ neergaard2007a = DB(WorkUnrelated(
     placex="Handbook of Qualitative Research Methods in Entrepreneurship",
 ))
 
+oktaba2007a = DB(WorkUnrelated(
+    2007, "Software process improvement: The COMPETISOFT project",
+    display="oktaba",
+    authors="Oktaba, Hanna and García, Félix and Piattini, Mario and Ruiz, Francisco and Pino, Francisco J and Alquicira, Claudia",
+    place=C,
+    entrytype="article",
+    volume="40",
+    number="10",
+    publisher="IEEE",
+    ID="oktaba2007software",
+    scholar2015="1",
+    placex="Computer",
+))
+
 ordóñez2007a = DB(WorkUnrelated(
     2007, "Strategy Recommender Agents (ALEX) - the Methodology",
     display="ordóñez",
@@ -1100,6 +1115,18 @@ peng2007a = DB(WorkUnrelated(
     placex="Proceedings of the 6th European conference on research methods for business and management studies",
 ))
 
+pourshahid2007a = DB(WorkUnrelated(
+    2007, "Business Process Monitoring and Alignment: An Approach Based on the User Requirements Notation and Business Intelligence Tools.",
+    display="pourshahid",
+    authors="Pourshahid, Alireza and Amyot, Daniel and Chen, Pengfei and Weiss, Michael and Forster, Alan J",
+    place=FAKE,
+    pp="80--91",
+    entrytype="inproceedings",
+    ID="pourshahid2007business",
+    scholar2015="1",
+    placex="WER",
+))
+
 qi2007a = DB(WorkUnrelated(
     2007, "Motorola software groups china center: Value added by CMMI",
     display="qi",
@@ -1120,6 +1147,21 @@ rausch2007a = DB(WorkUnrelated(
     note="cited By 7",
     ID="Rausch2007",
     placex="Heidelberg: Springer",
+))
+
+richardson2007a = DB(WorkUnrelated(
+    2007, "Guest editors' introduction: Why are small software organizations different?",
+    display="richardson",
+    authors="Richardson, Ita and Von Wangenheim, Christiane Gresse",
+    place=IEEES,
+    pp="18--22",
+    entrytype="article",
+    volume="24",
+    number="1",
+    publisher="IEEE",
+    ID="richardson2007guest",
+    scholar2015="1",
+    placex="IEEE software",
 ))
 
 ruan2007a = DB(WorkUnrelated(

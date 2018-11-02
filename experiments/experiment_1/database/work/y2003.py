@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aaen2003a = DB(WorkUnrelated(
+    2003, "Software process improvement: Blueprints versus recipes",
+    display="aaen",
+    authors="Aaen, Ivan",
+    place=IEEES,
+    pp="86--93",
+    entrytype="article",
+    number="5",
+    publisher="IEEE",
+    ID="aaen2003software",
+    scholar2015="1",
+    placex="IEEE software",
+))
+
 abran2003a = DB(WorkUnrelated(
     2003, "A multidimensional performance model for consolidating Balanced Scorecards",
     display="abran",
@@ -47,6 +61,21 @@ aida2003a = DB(WorkUnrelated(
     organization="Springer",
     ID="aida2003program",
     placex="International Symposium on Methodologies for Intelligent Systems",
+))
+
+al2003a = DB(WorkUnrelated(
+    2003, "Enterprise resource planning: A taxonomy of critical factors",
+    display="al",
+    authors="Al-Mashari, Majed and Al-Mudimigh, Abdullah and Zairi, Mohamed",
+    place=FAKE,
+    pp="352--364",
+    entrytype="article",
+    volume="146",
+    number="2",
+    publisher="Elsevier",
+    ID="al2003enterprise",
+    scholar2015="1",
+    placex="European journal of operational research",
 ))
 
 alexandre2003a = DB(WorkUnrelated(
@@ -356,6 +385,7 @@ dybå2003b = DB(WorkUnrelated(
     note="cited By 51",
     ID="Dybå2003148",
     placex="Proceedings of the Joint European Software Engineering Conference (ESEC) and SIGSOFT Symposium on the Foundations of Software Engineering (FSE-11)",
+    scholar2015="1",
 ))
 
 ebert2003a = DB(WorkUnrelated(
@@ -532,6 +562,18 @@ halling2003a = DB(WorkUnrelated(
     placex="Requirements Engineering",
 ))
 
+harmon2003a = DB(WorkUnrelated(
+    2003, "Business process change: a manager's guide to improving, redesigning, and automating processes",
+    display="harmon",
+    authors="Harmon, Paul",
+    place=Book,
+    entrytype="book",
+    publisher="Morgan Kaufmann",
+    ID="harmon2003business",
+    scholar2015="1",
+    placex="",
+))
+
 heller2003a = DB(WorkUnrelated(
     2003, "A Management System for Evolving Development Processes",
     display="heller",
@@ -556,6 +598,18 @@ henninger2003a = DB(WorkUnrelated(
     ID="10.1007/978-3-540-40052-3_6",
     springer="1",
     placex="Advances in Learning Software Organizations",
+))
+
+iii2003a = DB(WorkUnrelated(
+    2003, "Implementing six sigma: smarter solutions using statistical methods",
+    display="iii",
+    authors="Breyfogle III, Forrest W",
+    place=Book,
+    entrytype="book",
+    publisher="John Wiley & Sons",
+    ID="breyfogle2003implementing",
+    scholar2015="1",
+    placex="",
 ))
 
 isoiec2003a = DB(WorkUnrelated(
@@ -676,6 +730,18 @@ kim2003a = DB(WorkUnrelated(
     note="cited By 153",
     ID="Kim20035",
     placex="Journal of Interactive Marketing",
+))
+
+kulpa2003a = DB(WorkUnrelated(
+    2003, "Interpreting the CMMI (R): A Process Improvement Approach",
+    display="kulpa",
+    authors="Kulpa, Margaret K and Johnson, Kent A",
+    place=Book,
+    entrytype="book",
+    publisher="Auerbach Publications",
+    ID="kulpa2003interpreting",
+    scholar2015="1",
+    placex="",
 ))
 
 kurtz2003a = DB(WorkUnrelated(

@@ -246,6 +246,7 @@ becker2008b = DB(WorkSnowball(
     scopus_search="1",
     acm_search="1",
     elcompendex_search="1",
+    scholar2015="1",
 ))
 
 beijun2008a = DB(WorkUnrelated(
@@ -1306,6 +1307,19 @@ nollen2008a = DB(WorkUnrelated(
     placex="INDIA in the Emerging Global Order",
 ))
 
+oktaba2008a = DB(WorkUnrelated(
+    2008, "MoProSoft	extregistered: A software process model for small enterprises",
+    display="oktaba",
+    authors="Oktaba, Hanna and Vázquez, Ana",
+    place=FAKE,
+    pp="170--176",
+    entrytype="incollection",
+    publisher="IGI Global",
+    ID="oktaba2008moprosoft",
+    scholar2015="1",
+    placex="Software Process Improvement for Small and Medium Enterprises: techniques and case studies",
+))
+
 osei2008a = DB(WorkUnrelated(
     2008, "Decision models for information systems management",
     display="osei",
@@ -1495,6 +1509,7 @@ qumer2008a = DB(WorkUnrelated(
     ID="Qumer20081899",
     sciencedirect="1",
     placex="Journal of Systems and Software",
+    scholar2015="1",
 ))
 
 ramsin2008a = DB(WorkUnrelated(

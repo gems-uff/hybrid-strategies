@@ -14,6 +14,21 @@ accenture2004a = DB(WorkUnrelated(
     placex="Strategic Information Technology Effectiveness (SITE)",
 ))
 
+albayrak2004a = DB(WorkUnrelated(
+    2004, "Using analytic hierarchy process (AHP) to improve human performance: An application of multiple criteria decision making problem",
+    display="albayrak",
+    authors="Albayrak, Esra and Erensal, Yasemin Claire",
+    place=FAKE,
+    pp="491--503",
+    entrytype="article",
+    volume="15",
+    number="4",
+    publisher="Springer",
+    ID="albayrak2004using",
+    scholar2015="1",
+    placex="Journal of Intelligent Manufacturing",
+))
+
 anacleto2004a = DB(WorkUnrelated(
     2004, "A method for process assessment in small software companies",
     display="anacleto",
@@ -385,6 +400,19 @@ grechenig2004a = DB(WorkUnrelated(
     ieee2015="1",
 ))
 
+grembergen2004a = DB(WorkUnrelated(
+    2004, "Structures, processes and relational mechanisms for IT governance",
+    display="grembergen",
+    authors="Van Grembergen, Wim and De Haes, Steven and Guldentops, Erik",
+    place=FAKE,
+    pp="1--36",
+    entrytype="incollection",
+    publisher="Igi Global",
+    ID="van2004structures",
+    scholar2015="1",
+    placex="Strategies for information technology governance",
+))
+
 guerrero2004a = DB(WorkUnrelated(
     2004, "Adopting the SW-CMM in a Small IT Organization",
     display="guerrero",
@@ -531,6 +559,21 @@ hyde2004a = DB(WorkUnrelated(
     note="cited By 21",
     ID="Hyde2004217",
     placex="Software Process Improvement and Practice",
+))
+
+iii2004a = DB(WorkUnrelated(
+    2004, "The development of a supply chain management process maturity model using the concepts of business process orientation",
+    display="iii",
+    authors="Lockamy III, Archie and McCormack, Kevin",
+    place=FAKE,
+    pp="272--278",
+    entrytype="article",
+    volume="9",
+    number="4",
+    publisher="Emerald Group Publishing Limited",
+    ID="lockamy2004development",
+    scholar2015="1",
+    placex="Supply Chain Management: An International Journal",
 ))
 
 isoiec2004a = DB(WorkUnrelated(
@@ -820,6 +863,19 @@ lowy2004a = DB(WorkUnrelated(
     placex="Jossey-Bass: San Francisco",
 ))
 
+luftman2004a = DB(WorkUnrelated(
+    2004, "Assessing Business-IT Allignment Maturity",
+    display="luftman",
+    authors="Luftman, Jerry",
+    place=FAKE,
+    pp="99--128",
+    entrytype="incollection",
+    publisher="Igi Global",
+    ID="luftman2004assessing",
+    scholar2015="1",
+    placex="Strategies for information technology governance",
+))
+
 makipaa2004a = DB(WorkUnrelated(
     2004, "Mass Customization and Beyond in Software Engineering--Developing a Framework for Mass Customized Adaptive Software",
     display="makipaa",
@@ -1077,6 +1133,7 @@ solingen2004a = DB(WorkUnrelated(
     ID="VanSolingen200432",
     placex="IEEE Software",
     publisher="IEEE",
+    scholar2015="1",
 ))
 
 sommerville2004a = DB(WorkUnrelated(

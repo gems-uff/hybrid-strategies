@@ -263,6 +263,7 @@ basili2010a = DB(WorkSnowball( # 147
     scopus_search="1",
     ieee_search="1",
     webofscience_search="1",
+    scholar2015="1",
 ))
 
 basili2010b = DB(WorkUnrelated(
@@ -915,6 +916,18 @@ hammer2010a = DB(WorkUnrelated(
     authors="M Hammer",
     place=FAKE,
     placex="vom Brocke J, Rosemann M (eds) Handbook on business process management, vol 1. Springer, Heidelberg",
+))
+
+harmon2010a = DB(WorkUnrelated(
+    2010, "Business process change: A guide for business managers and BPM and Six Sigma professionals",
+    display="harmon",
+    authors="Harmon, Paul and Trends, Business Process",
+    place=Book,
+    entrytype="book",
+    publisher="Elsevier",
+    ID="harmon2010business",
+    scholar2015="1",
+    placex="",
 ))
 
 hauge2010a = DB(WorkUnrelated(

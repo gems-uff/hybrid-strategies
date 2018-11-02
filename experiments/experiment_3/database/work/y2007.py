@@ -32,6 +32,34 @@ allison2007a = DB(WorkUnrelated(
     placex="Information and software technology",
 ))
 
+beale2007a = DB(WorkUnrelated(
+    2007, "An ontology-based model of clinical information",
+    display="beale",
+    authors="Beale, Thomas and Heard, Sam and others",
+    place=FAKE,
+    pp="760",
+    entrytype="inproceedings",
+    organization="IOS Press",
+    ID="beale2007ontology",
+    scholar2016="1",
+    placex="Medinfo 2007: Proceedings of the 12th World Congress on Health (Medical) Informatics; Building Sustainable Health Systems",
+))
+
+biolchini2007a = DB(WorkUnrelated(
+    2007, "Scientific research ontology to support systematic review in software engineering",
+    display="biolchini",
+    authors="de Almeida Biolchini, Jorge Calmon and Mian, Paula Gomes and Natali, Ana Candida Cruz and Conte, Tayana Uchôa and Travassos, Guilherme Horta",
+    place=FAKE,
+    pp="133--151",
+    entrytype="article",
+    volume="21",
+    number="2",
+    publisher="Elsevier",
+    ID="de2007scientific",
+    scholar2016="1",
+    placex="Advanced Engineering Informatics",
+))
+
 biscoglio2007a = DB(WorkUnrelated(
     2007, "Establishing a quality-model based evaluation process for websites",
     display="biscoglio",
@@ -355,6 +383,18 @@ keto2007a = DB(WorkUnrelated(
     placex="Proceedings of ONTOSE",
 ))
 
+kirk2007a = DB(WorkUnrelated(
+    2007, "Flexible software process model",
+    display="kirk",
+    authors="Kirk, Diana Caroline and others",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="kirk2007flexible",
+    local="ResearchSpace@ Auckland",
+    gscholar2016="1",
+    placex="",
+))
+
 kumarapeli2007a = DB(WorkUnrelated(
     2007, "Using Unified Modelling Language UML as a process-modelling technique for clinical-research process improvement",
     display="kumarapeli",
@@ -629,6 +669,21 @@ rubin2007a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+sia2007a = DB(WorkUnrelated(
+    2007, "An assessment of package--organisation misalignment: institutional and ontological structures",
+    display="sia",
+    authors="Sia, Siew Kien and Soh, Christina",
+    place=FAKE,
+    pp="568--583",
+    entrytype="article",
+    volume="16",
+    number="5",
+    publisher="Taylor & Francis",
+    ID="sia2007assessment",
+    scholar2016="1",
+    placex="European Journal of Information Systems",
+))
+
 simos2007a = DB(WorkUnrelated(
     2007, "International e-Conference of Computer Science 2006: Additional Papers from ICNAAM 2006 and ICCMSE 2006",
     display="simos",
@@ -747,4 +802,19 @@ tsoumas2007a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="",
+))
+
+vastrik2007a = DB(WorkUnrelated(
+    2007, "Reactome: a knowledge base of biologic pathways and processes",
+    display="vastrik",
+    authors="Vastrik, Imre and D'Eustachio, Peter and Schmidt, Esther and Joshi-Tope, Geeta and Gopinath, Gopal and Croft, David and de Bono, Bernard and Gillespie, Marc and Jassal, Bijay and Lewis, Suzanna and others",
+    place=FAKE,
+    pp="R39",
+    entrytype="article",
+    volume="8",
+    number="3",
+    publisher="BioMed Central",
+    ID="vastrik2007reactome",
+    scholar2016="1",
+    placex="Genome biology",
 ))

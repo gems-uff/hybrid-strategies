@@ -1318,6 +1318,19 @@ rose2015a = DB(WorkUnrelated(
     springer2015="1",
 ))
 
+rosemann2015a = DB(WorkUnrelated(
+    2015, "The six core elements of business process management",
+    display="rosemann",
+    authors="Rosemann, Michael and vom Brocke, Jan",
+    place=FAKE,
+    pp="105--122",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="rosemann2015six",
+    scholar2015="1",
+    placex="Handbook on business process management 1",
+))
+
 ruiz2015a = DB(WorkUnrelated(
     2015, "A framework for software process deployment and evaluation",
     display="ruiz",

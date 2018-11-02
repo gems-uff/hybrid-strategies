@@ -287,6 +287,18 @@ basili2013a = DB(WorkUnrelated(
     elcompendex2015="1",
 ))
 
+becker2013a = DB(WorkUnrelated(
+    2013, "Process management: a guide for the design of business processes",
+    display="becker",
+    authors="Becker, Jörg and Kugeler, Martin and Rosemann, Michael",
+    place=Book,
+    entrytype="book",
+    publisher="Springer Science & Business Media",
+    ID="becker2013process",
+    scholar2015="1",
+    placex="",
+))
+
 bjarnason2013a = DB(WorkUnrelated(
     2013, "Variations on the evidence-based timeline retrospective method: a comparison of two cases",
     display="bjarnason",
@@ -1023,6 +1035,21 @@ kasurinen2013a = DB(WorkUnrelated(
     cluster_id="3453124049012849813",
     scholar="http://scholar.google.com/scholar?cites=3453124049012849813&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Conference on Product Focused Software Process Improvement",
+))
+
+katoh2013a = DB(WorkUnrelated(
+    2013, "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    display="katoh",
+    authors="Katoh, Kazutaka and Standley, Daron M",
+    place=FAKE,
+    pp="772--780",
+    entrytype="article",
+    volume="30",
+    number="4",
+    publisher="Society for Molecular Biology and Evolution",
+    ID="katoh2013mafft",
+    scholar2015="1",
+    placex="Molecular biology and evolution",
 ))
 
 kazato2013a = DB(WorkUnrelated(

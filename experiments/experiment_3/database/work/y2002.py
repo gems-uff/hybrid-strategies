@@ -47,6 +47,20 @@ bennetts2002a = DB(WorkUnrelated(
     placex="AMCIS 2002 Proceedings",
 ))
 
+bernstein2002a = DB(WorkUnrelated(
+    2002, "Searching for services on the semantic web using process ontologies",
+    display="bernstein",
+    authors="Bernstein, Mark Klein Abraham",
+    place=FAKE,
+    pp="153",
+    entrytype="inproceedings",
+    volume="75",
+    organization="IOS press",
+    ID="bernstein2002searching",
+    scholar2016="1",
+    placex="The Emerging Semantic Web: Selected Papers from the First Semantic Web Working Symposium",
+))
+
 cmmi2002a = DB(WorkUnrelated(
     2002, "CMMI staged-version 1.1",
     display="cmmi",
@@ -117,6 +131,36 @@ dolado2002a = DB(WorkUnrelated(
     placex="JISBD",
 ))
 
+fernández2002a = DB(WorkUnrelated(
+    2002, "Overview and analysis of methodologies for building ontologies",
+    display="fernández",
+    authors="Fernández-López, Mariano and Gómez-Pérez, Asunción",
+    place=FAKE,
+    pp="129--156",
+    entrytype="article",
+    volume="17",
+    number="2",
+    publisher="Cambridge University Press",
+    ID="fernandez2002overview",
+    scholar2016="1",
+    placex="The Knowledge Engineering Review",
+))
+
+holsapple2002a = DB(WorkUnrelated(
+    2002, "A collaborative approach to ontology design",
+    display="holsapple",
+    authors="Holsapple, Clyde W and Joshi, Kshiti D",
+    place=CACM,
+    pp="42--47",
+    entrytype="article",
+    volume="45",
+    number="2",
+    publisher="ACM",
+    ID="holsapple2002collaborative",
+    scholar2016="1",
+    placex="Communications of the ACM",
+))
+
 kitchenham2002a = DB(WorkUnrelated(
     2002, "Preliminary guidelines for empirical research in software engineering",
     display="kitchenham",
@@ -155,6 +199,17 @@ ontoweb2002a = DB(WorkUnrelated(
     placex="IST-2000-29243. May",
 ))
 
+polo2002a = DB(WorkUnrelated(
+    2002, "Management: Technologies",
+    display="polo",
+    authors="Polo, Macario and Piattini, Mario and Ruiz, Francisco",
+    place=FAKE,
+    entrytype="article",
+    ID="polomanagement",
+    gscholar2016="1",
+    placex="",
+))
+
 ruiz2002a = DB(WorkUnrelated(
     2002, "An XMI-based repository for software process meta-modeling",
     display="ruiz",
@@ -190,4 +245,17 @@ schleicher2002a = DB(WorkUnrelated(
     placex="Management of Development Processes",
     springer2016="1",
     planilha_springer2016="1",
+))
+
+sure2002a = DB(WorkUnrelated(
+    2002, "OntoEdit: Guiding ontology development by methodology and inferencing",
+    display="sure",
+    authors="Sure, York and Angele, Jürgen and Staab, Steffen",
+    place=FAKE,
+    pp="1205--1222",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="sure2002ontoedit",
+    scholar2016="1",
+    placex="OTM Confederated International Conferences On the Move to Meaningful Internet System",
 ))

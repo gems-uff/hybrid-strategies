@@ -48,6 +48,19 @@ iso2000b = DB(WorkUnrelated(
     placex="ISO 9001:2000",
 ))
 
+lamsweerde2000a = DB(WorkUnrelated(
+    2000, "Requirements engineering in the year 00: a research perspective",
+    display="lamsweerde",
+    authors="Van Lamsweerde, Axel",
+    place=ICSE,
+    pp="5--19",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="van2000requirements",
+    gscholar2016="1",
+    placex="Proceedings of the 22nd international conference on Software engineering",
+))
+
 mair2000a = DB(WorkUnrelated(
     2000, "Agent-based Process Model Integration in Virtual Software Corporations",
     display="mair",
@@ -70,6 +83,30 @@ nick2000a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Proc. 3rd European Software Measurement Conference (FESMA-AEMES 2000), Madrid, Spain",
+))
+
+nuseibeh2000a = DB(WorkUnrelated(
+    2000, "Requirements engineering: a roadmap",
+    display="nuseibeh",
+    authors="Nuseibeh, Bashar and Easterbrook, Steve",
+    place=FAKE,
+    pp="35--46",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="nuseibeh2000requirements",
+    gscholar2016="1",
+    placex="Proceedings of the Conference on the Future of Software Engineering",
+))
+
+of2000a = DB(WorkUnrelated(
+    2000, "Rajiv Gandhi Technological University, Bhopal (MP)",
+    display="of",
+    authors="Of, Foundations",
+    place=FAKE,
+    entrytype="article",
+    ID="ofrajiv",
+    gscholar2016="1",
+    placex="",
 ))
 
 wang2000a = DB(WorkUnrelated(

@@ -255,6 +255,19 @@ barhorst2011a = DB(WorkUnrelated(
     elcompendex2016="1",
 ))
 
+bartsch2011a = DB(WorkUnrelated(
+    2011, "Practitioners' perspectives on security in agile development",
+    display="bartsch",
+    authors="Bartsch, Steffen",
+    place=FAKE,
+    pp="479--484",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="bartsch2011practitioners",
+    gscholar2016="1",
+    placex="Availability, Reliability and Security (ARES), 2011 Sixth International Conference on",
+))
+
 baskerville2011a = DB(WorkUnrelated(
     2011, "Post-agility: What follows a decade of agility?",
     display="baskerville",
@@ -371,6 +384,21 @@ bygstad2011a = DB(WorkUnrelated(
     note="cited By 19",
     ID="Bygstad201132",
     placex="Journal of Information Technology",
+))
+
+cervone2011a = DB(WorkUnrelated(
+    2011, "Understanding agile project management methods using Scrum",
+    display="cervone",
+    authors="Cervone, H Frank",
+    place=FAKE,
+    pp="18--22",
+    entrytype="article",
+    volume="27",
+    number="1",
+    publisher="Emerald Group Publishing Limited",
+    ID="cervone2011understanding",
+    scholar2016="1",
+    placex="OCLC Systems & Services: International digital library perspectives",
 ))
 
 cruzes2011a = DB(WorkUnrelated(
@@ -790,6 +818,8 @@ hoda2011a = DB(WorkSnowball(
     sciencedirect_search="1",
     webofscience_search="1",
     elcompendex_search="1",
+    gscholar2016="1",
+    scholar2016="1",
 ))
 
 hoda2011b = DB(WorkUnrelated(
@@ -1189,6 +1219,7 @@ mishra2011a = DB(WorkUnrelated(
     placex="Journal of Software: Evolution and Process",
     doi="10.1002/smr.528",
     note="cited By 22",
+    scholar2016="1",
 ))
 
 monteiro2011a = DB(WorkUnrelated(
@@ -1834,6 +1865,17 @@ yang2011a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Journal of Small Business Management",
+))
+
+ylimannela2011a = DB(WorkUnrelated(
+    2011, "A model for risk management in agile software development",
+    display="ylimannela",
+    authors="Ylimannela, Ville",
+    place=FAKE,
+    entrytype="article",
+    ID="ylimannela2011model",
+    gscholar2016="1",
+    placex="Tampere University of Technology",
 ))
 
 zheng2011a = DB(WorkUnrelated(

@@ -87,3 +87,31 @@ gasston1996a = DB(WorkUnrelated(
     springer2016="1",
     planilha_springer2016="1",
 ))
+
+riehle1996a = DB(WorkUnrelated(
+    1996, "Understanding and using patterns in software development",
+    display="riehle",
+    authors="Riehle, Dirk and Züllighoven, Heinz",
+    place=FAKE,
+    pp="3--13",
+    entrytype="article",
+    volume="2",
+    number="1",
+    publisher="Wiley Online Library",
+    ID="riehle1996understanding",
+    scholar2016="1",
+    placex="Theory and practice of object systems",
+))
+
+shaw1996a = DB(WorkUnrelated(
+    1996, "Software architecture",
+    display="shaw",
+    authors="Shaw, Mary and Garlan, David",
+    place=Book,
+    entrytype="book",
+    volume="101",
+    publisher="Prentice Hall Englewood Cliffs",
+    ID="shaw1996software",
+    scholar2016="1",
+    placex="",
+))

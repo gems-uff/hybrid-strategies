@@ -609,6 +609,18 @@ herald2009a = DB(WorkUnrelated(
     planilha_wiley2016="1",
 ))
 
+hibbs2009a = DB(WorkUnrelated(
+    2009, "The art of lean software development: a practical and incremental approach",
+    display="hibbs",
+    authors="Hibbs, Curt and Jewett, Steve and Sullivan, Mike",
+    place=Book,
+    entrytype="book",
+    publisher="O'Reilly Media, Inc.",
+    ID="hibbs2009art",
+    gscholar2016="1",
+    placex="",
+))
+
 hussain2009a = DB(WorkUnrelated(
     2009, "The use of domination and legitimation in information systems implementation",
     display="hussain",
@@ -710,6 +722,19 @@ khmelevsky2009a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of the 14th Western Canadian Conference on Computing Education",
+))
+
+kniberg2009a = DB(WorkUnrelated(
+    2009, "Kanban vs Scrum",
+    display="kniberg",
+    authors="Kniberg, Henrik",
+    place=FAKE,
+    pp="1--41",
+    entrytype="article",
+    volume="1",
+    ID="kniberg2009kanban",
+    gscholar2016="1",
+    placex="Crisp AB. Viitattu",
 ))
 
 kollmann2009a = DB(WorkUnrelated(
@@ -977,6 +1002,19 @@ port2009a = DB(WorkUnrelated(
     placex="European Journal of Information Systems",
 ))
 
+racheva2009a = DB(WorkUnrelated(
+    2009, "Value creation by agile projects: Methodology or mystery?",
+    display="racheva",
+    authors="Racheva, Zornitza and Daneva, Maya and Sikkel, Klaas",
+    place=ICPFSPI,
+    pp="141--155",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="racheva2009value",
+    scholar2016="1",
+    placex="International Conference on Product-Focused Software Process Improvement",
+))
+
 ren2009a = DB(WorkUnrelated(
     2009, "A decision-support framework for agile enterprise partnering",
     display="ren",
@@ -1021,6 +1059,20 @@ rico2009a = DB(WorkUnrelated(
     ID="rico2009business",
     gs2016="1",
     placex="",
+    gscholar2016="1",
+))
+
+rico2009b = DB(WorkUnrelated(
+    2009, "Use of agile methods in software engineering education",
+    display="rico b",
+    authors="Rico, David F and Sayani, Hasan H",
+    place=FAKE,
+    pp="174--179",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="rico2009use",
+    gscholar2016="1",
+    placex="Agile Conference, 2009. AGILE'09.",
 ))
 
 rosso2009a = DB(WorkUnrelated(
@@ -1218,6 +1270,32 @@ strode2009a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Strode20091",
     placex="IEEE Computer Society",
+))
+
+sutherland2009a = DB(WorkUnrelated(
+    2009, "Fully distributed scrum: Linear scalability of production between San Francisco and India",
+    display="sutherland",
+    authors="Sutherland, Jeff and Schoonheim, Guido and Kumar, Narinder and Pandey, V and Vishal, S",
+    place=FAKE,
+    pp="277--282",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="sutherland2009fully",
+    gscholar2016="1",
+    placex="Agile Conference, 2009. AGILE'09.",
+))
+
+sutherland2009b = DB(WorkUnrelated(
+    2009, "Fully distributed scrum: Replicating local productivity and quality with offshore teams",
+    display="sutherland b",
+    authors="Sutherland, Jeff and Schoonheim, Guido and Rijk, Mauritz",
+    place=FAKE,
+    pp="1--8",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="sutherland2009fully",
+    gscholar2016="1",
+    placex="2009 42nd Hawaii International Conference on System Sciences",
 ))
 
 talby2009a = DB(WorkUnrelated(

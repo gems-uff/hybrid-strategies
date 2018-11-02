@@ -233,6 +233,31 @@ coelho2005a = DB(WorkUnrelated(
     placex="Companion to the 20th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications",
 ))
 
+coram2005a = DB(WorkUnrelated(
+    2005, "The impact of agile methods on software project management",
+    display="coram",
+    authors="Coram, Michael and Bohner, Shawn",
+    place=FAKE,
+    pp="363--370",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="coram2005impact",
+    scholar2016="1",
+    placex="Engineering of Computer-Based Systems, 2005. ECBS'05. 12th IEEE International Conference and Workshops on the",
+))
+
+davis2005a = DB(WorkUnrelated(
+    2005, "Secure software development life cycle processes: A technology scouting report",
+    display="davis",
+    authors="Davis, Noopur",
+    place=TechReport,
+    entrytype="techreport",
+    institution="Carnegie-Mellon Univ Pittsburgh Pa Software Engineering Inst",
+    ID="davis2005secure",
+    gscholar2016="1",
+    placex="",
+))
+
 glaser2005a = DB(WorkUnrelated(
     2005, "The Grounded Theory Perspective III: Theoretical Coding",
     display="glaser",
@@ -676,6 +701,19 @@ pikkarainen2005a = DB(WorkUnrelated(
     note="cited By 15",
     ID="Pikkarainen200516",
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+))
+
+pikkarainen2005b = DB(WorkUnrelated(
+    2005, "An approach for assessing suitability of agile solutions: A case study",
+    display="pikkarainen b",
+    authors="Pikkarainen, Minna and Passoja, Ulla",
+    place=FAKE,
+    pp="171--179",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="pikkarainen2005approach",
+    scholar2016="1",
+    placex="International Conference on Extreme Programming and Agile Processes in Software Engineering",
 ))
 
 poger2005a = DB(WorkUnrelated(

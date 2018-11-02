@@ -53,6 +53,19 @@ armbrust2009a = DB(WorkUnrelated(
     placex="GI Jahrestagung",
 ))
 
+athanasiadis2009a = DB(WorkUnrelated(
+    2009, "Ontology for seamless integration of agricultural data and models",
+    display="athanasiadis",
+    authors="Athanasiadis, Ioannis N and Rizzoli, Andrea-Emilio and Janssen, Sander and Andersen, Erling and Villa, Ferdinando",
+    place=FAKE,
+    pp="282--293",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="athanasiadis2009ontology",
+    scholar2016="1",
+    placex="Research Conference on Metadata and Semantic Research",
+))
+
 bajo2009a = DB(WorkUnrelated(
     2009, "SHOMAS: Intelligent guidance and suggestions in shopping centres",
     display="bajo",
@@ -287,6 +300,19 @@ dadam2009a = DB(WorkUnrelated(
     placex="Computer Science-Research & Development",
 ))
 
+ding2009a = DB(WorkUnrelated(
+    2009, "Design and Implementation of Jess-based Intelligent Diagnosis System [J]",
+    display="ding",
+    authors="DING, Ding and ZHANG, Fan and ZHAO, Bin and YIN, Hong-zhi",
+    place=FAKE,
+    pp="052",
+    entrytype="article",
+    volume="12",
+    ID="ding2009design",
+    gscholar2016="1",
+    placex="Computer and Modernization",
+))
+
 dpans2009a = DB(WorkUnrelated(
     2009, "Knowledge Interchange Format draft proposed American National Standard (dpANS)",
     display="dpans",
@@ -421,6 +447,21 @@ hussami2009a = DB(WorkUnrelated(
     placex="CAISE-DC'09 Proceedings",
 ))
 
+janssen2009a = DB(WorkUnrelated(
+    2009, "Defining assessment projects and scenarios for policy support: use of ontology in integrated assessment and modelling",
+    display="janssen",
+    authors="Janssen, Sander and Ewert, Frank and Li, Hongtao and Athanasiadis, Ioannis N and Wien, JJF and Thérond, Olivier and Knapen, MJR and Bezlepkina, I and Alkan-Olsson, Johanna and Rizzoli, Andrea Emilio and others",
+    place=FAKE,
+    pp="1491--1500",
+    entrytype="article",
+    volume="24",
+    number="12",
+    publisher="Elsevier",
+    ID="janssen2009defining",
+    scholar2016="1",
+    placex="Environmental Modelling & Software",
+))
+
 japan2009a = DB(WorkUnrelated(
     2009, "應用人工智慧建構法規制定決策支援系統-以某大學教育行政法規制定為例",
     display="蘇國瑋",
@@ -435,6 +476,20 @@ japan2009a = DB(WorkUnrelated(
     cluster_id="13237646109164755345",
     scholar="http://scholar.google.com/scholar?cites=13237646109164755345&as_sdt=2005&sciodt=0,5&hl=en",
     placex="資訊管理學報",
+))
+
+jiménez2009a = DB(WorkUnrelated(
+    2009, "Challenges and improvements in distributed software development: A systematic review",
+    display="jiménez",
+    authors="Jiménez, Miguel and Piattini, Mario and Vizcaíno, Aurora",
+    place=FAKE,
+    pp="3",
+    entrytype="article",
+    volume="2009",
+    publisher="Hindawi Publishing Corp.",
+    ID="jimenez2009challenges",
+    scholar2016="1",
+    placex="Advances in Software Engineering",
 ))
 
 kang2009a = DB(WorkUnrelated(
@@ -510,6 +565,19 @@ kohlegger2009a = DB(WorkUnrelated(
     placex="thesis",
 ))
 
+lacouture2009a = DB(WorkUnrelated(
+    2009, "Self-Adaptation of semantic services based on a component/agent approach: application to e-training",
+    display="lacouture",
+    authors="Lacouture, Jérôme and Aniorte, Philippe",
+    place=FAKE,
+    pp="21--27",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="lacouture2009self",
+    gscholar2016="1",
+    placex="Adaptive and Intelligent Systems, 2009. ICAIS'09. International Conference on",
+))
+
 lavrischeva2009a = DB(WorkUnrelated(
     2009, "An approach to expert assessment in software engineering",
     display="lavrischeva",
@@ -575,6 +643,7 @@ lee2009a = DB(WorkSnowball(
     springer_search="1",
     webofscience_search="1",
     googlescholar_search="1",
+    scholar2016="1",
 ))
 
 lee2009b = DB(WorkUnrelated(
@@ -674,6 +743,21 @@ mora2009a = DB(WorkUnrelated(
     placex="Information Communication Technology Standardization for E-Business Sectors: Integrating Supply and Demand Factors: Integrating Supply and Demand Factors",
 ))
 
+nicola2009a = DB(WorkUnrelated(
+    2009, "A software engineering approach to ontology building",
+    display="nicola",
+    authors="De Nicola, Antonio and Missikoff, Michele and Navigli, Roberto",
+    place=FAKE,
+    pp="258--275",
+    entrytype="article",
+    volume="34",
+    number="2",
+    publisher="Elsevier",
+    ID="de2009software",
+    scholar2016="1",
+    placex="Information systems",
+))
+
 no2009a = DB(WorkUnrelated(
     2009, "ANNA UNIVERSITY CHENNAI  CHENNAI 600 025 UNIVERSITY DEPARTMENTS CURRICULUM R 2009 BE PART TIME COMPUTER SCIENCE AND ENGINEERING SEMESTER I",
     display="no",
@@ -728,6 +812,19 @@ plaza2009a = DB(WorkUnrelated(
     cluster_id="7774315375330896275",
     scholar="http://scholar.google.com/scholar?cites=7774315375330896275&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Decision Support Systems",
+))
+
+pokahr2009a = DB(WorkUnrelated(
+    2009, "A survey of agent-oriented development tools",
+    display="pokahr",
+    authors="Pokahr, Alexander and Braubach, Lars",
+    place=FAKE,
+    pp="289--329",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="pokahr2009survey",
+    gscholar2016="1",
+    placex="Multi-Agent Programming:",
 ))
 
 protégé2009a = DB(WorkUnrelated(
@@ -824,6 +921,21 @@ shvaiko2009a = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+simperl2009a = DB(WorkUnrelated(
+    2009, "Reusing ontologies on the Semantic Web: A feasibility study",
+    display="simperl",
+    authors="Simperl, Elena",
+    place=FAKE,
+    pp="905--925",
+    entrytype="article",
+    volume="68",
+    number="10",
+    publisher="Elsevier",
+    ID="simperl2009reusing",
+    scholar2016="1",
+    placex="Data & Knowledge Engineering",
+))
+
 srivastava2009a = DB(WorkUnrelated(
     2009, "Multi-attribute Comparison of Automated Functional and Regression Testing Tools using Fuzzy AHP.",
     display="srivastava",
@@ -835,6 +947,21 @@ srivastava2009a = DB(WorkUnrelated(
     cluster_id="13722726897607982",
     scholar="http://scholar.google.com/scholar?cites=13722726897607982&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IICAI",
+))
+
+succar2009a = DB(WorkUnrelated(
+    2009, "Building information modelling framework: A research and delivery foundation for industry stakeholders",
+    display="succar",
+    authors="Succar, Bilal",
+    place=FAKE,
+    pp="357--375",
+    entrytype="article",
+    volume="18",
+    number="3",
+    publisher="Elsevier",
+    ID="succar2009building",
+    scholar2016="1",
+    placex="Automation in construction",
 ))
 
 sumo2009a = DB(WorkUnrelated(
@@ -932,6 +1059,19 @@ xia2009a = DB(WorkUnrelated(
     placex="Computer Technology and Development",
 ))
 
+xiong2009a = DB(WorkUnrelated(
+    2009, "A model of open source software maintenance activities",
+    display="xiong",
+    authors="Xiong, CJ and Li, YF and Xie, M and Ng, SH and Goh, TN",
+    place=FAKE,
+    pp="267--271",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="xiong2009model",
+    gscholar2016="1",
+    placex="Industrial Engineering and Engineering Management, 2009. IEEM 2009. IEEE International Conference on",
+))
+
 yard2009a = DB(WorkUnrelated(
     2009, "Software security assessment tools review",
     display="yard",
@@ -972,4 +1112,5 @@ zhao2009a = DB(WorkUnrelated(
     cluster_id="13508885251814813078",
     scholar="http://scholar.google.com/scholar?cites=13508885251814813078&as_sdt=2005&sciodt=0,5&hl=en",
     placex="IEEE Transactions on Services Computing",
+    scholar2016="1",
 ))

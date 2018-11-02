@@ -19,6 +19,18 @@ ericson1997a = DB(WorkUnrelated(
     placex="Software Testing Verification and Reliability 7(4) 1997 pp. 229-246",
 ))
 
+fernández1997a = DB(WorkUnrelated(
+    1997, "Methontology: from ontological art towards ontological engineering",
+    display="fernández",
+    authors="Fernández-López, Mariano and Gómez-Pérez, Asunción and Juristo, Natalia",
+    place=FAKE,
+    entrytype="article",
+    publisher="American Asociation for Artificial Intelligence",
+    ID="fernandez1997methontology",
+    scholar2016="1",
+    placex="",
+))
+
 hellens1997a = DB(WorkUnrelated(
     1997, "Information systems quality versus software quality a discussion from a managerial, an organisational and an engineering viewpoint",
     display="hellens",

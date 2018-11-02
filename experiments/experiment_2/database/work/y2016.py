@@ -89,6 +89,20 @@ ali2016b = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+alqudah2016a = DB(WorkUnrelated(
+    2016, "A review of scaling agile methods in large software development",
+    display="alqudah",
+    authors="Alqudah, Mashal and Razali, Rozilawati",
+    place=FAKE,
+    pp="828--837",
+    entrytype="article",
+    volume="6",
+    number="6",
+    ID="alqudah2016review",
+    gscholar2016="1",
+    placex="International Journal on Advanced Science, Engineering and Information Technology",
+))
+
 alves2016a = DB(WorkUnrelated(
     2016, "Identification and management of technical debt: A systematic mapping study",
     display="alves",
@@ -457,6 +471,37 @@ cooper2016a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Journal of Product Innovation Management",
+    scholar2016="1",
+))
+
+cooper2016b = DB(WorkUnrelated(
+    2016, "Agile--Stage-Gate Hybrids: The Next Stage for Product Development Blending Agile and Stage-Gate methods can provide flexibility, speed, and improved communication in new-product development.",
+    display="cooper b",
+    authors="Cooper, Robert G",
+    place=FAKE,
+    pp="21--29",
+    entrytype="article",
+    volume="59",
+    number="1",
+    publisher="Taylor & Francis",
+    ID="cooper2016agile",
+    gscholar2016="1",
+    placex="Research-Technology Management",
+    scholar2016="1",
+))
+
+cooper2016c = DB(WorkUnrelated(
+    2016, "Agile-Stage-Gate: New idea-to-launch method for manufactured new products is faster, more responsive",
+    display="cooper c",
+    authors="Cooper, Robert G and Sommer, Anita F",
+    place=FAKE,
+    pp="167--180",
+    entrytype="article",
+    volume="59",
+    publisher="Elsevier",
+    ID="cooper2016agile",
+    scholar2016="1",
+    placex="Industrial Marketing Management",
 ))
 
 coverity2016a = DB(WorkUnrelated(
@@ -1948,6 +1993,21 @@ riccobono2016a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Production and Operations Management",
+))
+
+rigby2016a = DB(WorkUnrelated(
+    2016, "Embracing agile",
+    display="rigby",
+    authors="Rigby, Darrell K and Sutherland, Jeff and Takeuchi, Hirotaka",
+    place=FAKE,
+    pp="40--50",
+    entrytype="article",
+    volume="94",
+    number="5",
+    ID="rigby2016embracing",
+    gscholar2016="1",
+    placex="Harvard Business Review",
+    scholar2016="1",
 ))
 
 rindell2016a = DB(WorkUnrelated(

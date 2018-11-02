@@ -239,6 +239,20 @@ fitsilis2015a = DB(WorkUnrelated(
     placex="ΚΝΟWLEDGE MANAGEMENT for SOFTWARE PROJECT MANAGEMENT USING ONTOLOGIES AND SOCIAL NETWΟRKS",
 ))
 
+fox2015a = DB(WorkUnrelated(
+    2015, "System and method of providing real-time updates related to in-use artifacts in a software development environment",
+    display="fox",
+    authors="Fox, Brian Edward and Orlina, Joel",
+    place=FAKE,
+    entrytype="misc",
+    month="dec~8",
+    publisher="Google Patents",
+    note="US Patent 9,207,931",
+    ID="fox2015system",
+    gscholar2016="1",
+    placex="",
+))
+
 garcía2015a = DB(WorkUnrelated(
     2015, "Approaches to promote product quality within software process improvement initiatives: a mapping study",
     display="garcía",
@@ -645,6 +659,21 @@ samuel2015a = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+saripalle2015a = DB(WorkUnrelated(
+    2015, "HOD2MLC: hybrid ontology design and development model with lifecycle",
+    display="saripalle",
+    authors="Saripalle, Rishi Kanth and Demurjian, Steven A and Blechner, Michael and Agresta, Thomas",
+    place=FAKE,
+    pp="16--42",
+    entrytype="article",
+    volume="10",
+    number="2",
+    publisher="IGI Global",
+    ID="saripalle2015hod2mlc",
+    gscholar2016="1",
+    placex="International Journal of Information Technology and Web Engineering (IJITWE)",
+))
+
 shekhovtsov2015a = DB(WorkUnrelated(
     2015, "Harmonizing the quality view of stakeholders",
     display="shekhovtsov",
@@ -695,6 +724,19 @@ silva2015a = DB(WorkUnrelated(
     cluster_id="6428379262302075260",
     scholar="http://scholar.google.com/scholar?cites=6428379262302075260&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Software Engineering (SBES), 2015 29th Brazilian Symposium on",
+))
+
+souza2015a = DB(WorkUnrelated(
+    2015, "Using the findings of a mapping study to conduct a research project: a case in knowledge management in software testing",
+    display="souza",
+    authors="Souza, Érica F and Falbo, Ricardo A and Vijaykumar, Nandamudi L",
+    place=SEAA,
+    pp="208--215",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="souza2015using",
+    gscholar2016="1",
+    placex="Software Engineering and Advanced Applications (SEAA), 2015 41st Euromicro Conference on",
 ))
 
 tanrıöver2015a = DB(WorkUnrelated(

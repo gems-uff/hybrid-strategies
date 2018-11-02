@@ -219,6 +219,21 @@ harrison1997a = DB(WorkUnrelated(
     placex="Empirical Software Engineering",
 ))
 
+herbsleb1997a = DB(WorkUnrelated(
+    1997, "Software quality and the capability maturity model",
+    display="herbsleb",
+    authors="Herbsleb, James and Zubrow, David and Goldenson, Dennis and Hayes, Will and Paulk, Mark",
+    place=CACM,
+    pp="30--40",
+    entrytype="article",
+    volume="40",
+    number="6",
+    publisher="ACM",
+    ID="herbsleb1997software",
+    scholar2015="1",
+    placex="Communications of the ACM",
+))
+
 hinley1997a = DB(WorkUnrelated(
     1997, "A goal-oriented approach for managing software process change",
     display="hinley",
@@ -296,6 +311,19 @@ karlsson1997a = DB(WorkUnrelated(
     note="cited By 417",
     ID="Karlsson199767",
     placex="IEEE Software",
+))
+
+kettinger1997a = DB(WorkUnrelated(
+    1997, "Business process change: a study of methodologies, techniques, and tools",
+    display="kettinger",
+    authors="Kettinger, William J and Teng, James TC and Guha, Subashish",
+    place=FAKE,
+    pp="55--80",
+    entrytype="article",
+    publisher="JSTOR",
+    ID="kettinger1997business",
+    scholar2015="1",
+    placex="MIS quarterly",
 ))
 
 king1997a = DB(WorkUnrelated(

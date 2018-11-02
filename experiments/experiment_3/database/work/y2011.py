@@ -345,6 +345,33 @@ garcía2011a = DB(WorkUnrelated(
     placex="",
 ))
 
+garrido2011a = DB(WorkUnrelated(
+    2011, "Proposal of ontology for environmental impact assessment: An application with knowledge mobilization",
+    display="garrido",
+    authors="Garrido, Julián and Requena, Ignacio",
+    place=FAKE,
+    pp="2462--2472",
+    entrytype="article",
+    volume="38",
+    number="3",
+    publisher="Elsevier",
+    ID="garrido2011proposal",
+    scholar2016="1",
+    placex="Expert Systems with Applications",
+))
+
+genero2011a = DB(WorkUnrelated(
+    2011, "How to perform systematic reviews: Theory and examples",
+    display="genero",
+    authors="Genero, Marcela and Fernández, AM and Nelson, HJ and Piattini, M",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="genero2011perform",
+    gscholar2016="1",
+    placex="Metodologías y Técnicas de Investigación en Informática. Universidad Castilla-La Mancha: Ciudad Real, Spain",
+))
+
 gonzalez2011a = DB(WorkUnrelated(
     2011, "Using contexts to supervise a collaborative process",
     display="gonzalez",
@@ -453,6 +480,36 @@ henderson2011a = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+henderson2011b = DB(WorkUnrelated(
+    2011, "Bridging metamodels and ontologies in software engineering",
+    display="henderson b",
+    authors="Henderson-Sellers, Brian",
+    place=JSS,
+    pp="301--313",
+    entrytype="article",
+    volume="84",
+    number="2",
+    publisher="Elsevier",
+    ID="henderson2011bridging",
+    scholar2016="1",
+    placex="Journal of Systems and Software",
+))
+
+hsieh2011a = DB(WorkUnrelated(
+    2011, "Enabling the development of base domain ontology through extraction of knowledge from engineering domain handbooks",
+    display="hsieh",
+    authors="Hsieh, Shang-Hsien and Lin, Hsien-Tang and Chi, Nai-Wen and Chou, Kuang-Wu and Lin, Ken-Yu",
+    place=FAKE,
+    pp="288--296",
+    entrytype="article",
+    volume="25",
+    number="2",
+    publisher="Elsevier",
+    ID="hsieh2011enabling",
+    scholar2016="1",
+    placex="Advanced Engineering Informatics",
+))
+
 hung2011a = DB(WorkUnrelated(
     2011, "Using emotional classification model for travel information system",
     display="hung",
@@ -559,6 +616,19 @@ kazemifard2011a = DB(WorkUnrelated(
     cluster_id="4817374005871638621",
     scholar="http://scholar.google.com/scholar?cites=4817374005871638621&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Applied Soft Computing",
+))
+
+keet2011a = DB(WorkUnrelated(
+    2011, "The use of foundational ontologies in ontology development: an empirical assessment",
+    display="keet",
+    authors="Keet, C Maria",
+    place=FAKE,
+    pp="321--335",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="keet2011use",
+    scholar2016="1",
+    placex="Extended Semantic Web Conference",
 ))
 
 khurum2011a = DB(WorkUnrelated(
@@ -753,6 +823,32 @@ martoglia2011a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=2880934005880957929&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+mishra2011a = DB(WorkUnrelated(
+    2011, "Research trends in management issues of global software development: evaluating the past to envision the future",
+    display="mishra",
+    authors="Mishra, Deepti and Alok, Mishra",
+    place=FAKE,
+    pp="48--69",
+    entrytype="article",
+    volume="14",
+    number="4",
+    publisher="Taylor & Francis",
+    ID="mishra2011research",
+    gscholar2016="1",
+    placex="Journal of Global Information Technology Management",
+))
+
+mishra2011ab = DB(WorkUnrelated(
+    2011, "Development: Evaluating the Past to Envision the Future",
+    display="mishra",
+    authors="Mishra, Deepti and Mishra, Alok",
+    place=FAKE,
+    entrytype="article",
+    ID="mishradevelopment",
+    gscholar2016="1",
+    placex="",
+))
+
 nojima2011a = DB(WorkUnrelated(
     2011, "A meta-fuzzy classifier for specifying appropriate fuzzy partitions by genetic fuzzy rule selection with data complexity measures",
     display="nojima",
@@ -861,6 +957,19 @@ scampi2011a = DB(WorkUnrelated(
     authors="SCAMPI Upgrade Team",
     place=FAKE,
     placex="Software Engineering Institute",
+))
+
+settas2011a = DB(WorkUnrelated(
+    2011, "Detecting antipatterns using a Web-based collaborative antipattern ontology knowledge base",
+    display="settas",
+    authors="Settas, Dimitrios and Meditskos, Georgios and Bassiliades, Nick and Stamelos, Ioannis G",
+    place=FAKE,
+    pp="478--488",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="settas2011detecting",
+    gscholar2016="1",
+    placex="International Conference on Advanced Information Systems Engineering",
 ))
 
 sharma2011a = DB(WorkUnrelated(

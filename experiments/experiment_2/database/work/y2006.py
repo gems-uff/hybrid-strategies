@@ -157,6 +157,7 @@ boehm2006c = DB(WorkUnrelated(
     note="cited By 237",
     ID="Boehm200612",
     placex="Proceedings - International Conference on Software Engineering",
+    gscholar2016="1",
 ))
 
 boivie2006a = DB(WorkUnrelated(
@@ -422,6 +423,7 @@ fitzgerald2006a = DB(WorkUnrelated(
     planilha_springer2016="1",
     placex="European Journal of Information Systems",
     note="cited By 176",
+    scholar2016="1",
 ))
 
 fraser2006a = DB(WorkUnrelated(
@@ -436,6 +438,19 @@ fraser2006a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications",
+))
+
+fraser2006b = DB(WorkUnrelated(
+    2006, "How do Agile/XP development methods affect companies?",
+    display="fraser b",
+    authors="Fraser, Steven and Boehm, Barry and Järkvik, Jack and Lundh, Erik and Vilkki, Kati",
+    place=FAKE,
+    pp="225--228",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="fraser2006agile",
+    gscholar2016="1",
+    placex="International Conference on Extreme Programming and Agile Processes in Software Engineering",
 ))
 
 ge2006a = DB(WorkUnrelated(
@@ -785,6 +800,19 @@ melnik2006a = DB(WorkUnrelated(
     placex="Proceedings - AGILE Conference, 2006",
 ))
 
+mnkandla2006a = DB(WorkUnrelated(
+    2006, "Defining agile software quality assurance",
+    display="mnkandla",
+    authors="Mnkandla, Ernest and Dwolatzky, Barry",
+    place=ICSE,
+    pp="36--36",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="mnkandla2006defining",
+    scholar2016="1",
+    placex="Software Engineering Advances, International Conference on",
+))
+
 mulebeke2006a = DB(WorkUnrelated(
     2006, "Analytical network process for software selection in product development: A case study",
     display="mulebeke",
@@ -862,6 +890,17 @@ oosterhout2006a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=2057640044435590455&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
     planilha_springer2016="1",
+))
+
+pikkarainen2006a = DB(WorkUnrelated(
+    2006, "An approach for using CMMI in agile software development assessments: experiences from three case studies",
+    display="pikkarainen",
+    authors="Pikkarainen, Minna and Mantyniemi, Annukka",
+    place=FAKE,
+    entrytype="article",
+    ID="pikkarainen2006approach",
+    scholar2016="1",
+    placex="",
 ))
 
 poole2006a = DB(WorkUnrelated(

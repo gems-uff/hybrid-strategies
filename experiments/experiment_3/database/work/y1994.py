@@ -19,6 +19,18 @@ conradi1994a = DB(WorkUnrelated(
     placex="Software Process Modeling and Technology",
 ))
 
+gómez1994a = DB(WorkUnrelated(
+    1994, "From knowledge based systems to knowledge sharing technology: Evaluation and assessment",
+    display="gómez",
+    authors="Gómez-Pérez, Asunción",
+    place=FAKE,
+    entrytype="article",
+    publisher="Knowledge Systems Laboratory. Stanford University",
+    ID="gomez1994knowledge",
+    scholar2016="1",
+    placex="",
+))
+
 haase1994a = DB(WorkUnrelated(
     1994, "Bootstrap: Fine-Tuning Process Assessment",
     display="haase",
@@ -52,4 +64,19 @@ ramakrishnan1994a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Software Testing, Reliability and Quality Assurance, 1994. Conference Proceedings., First International Conference on",
+))
+
+schreiber1994a = DB(WorkUnrelated(
+    1994, "CommonKADS: A comprehensive methodology for KBS development",
+    display="schreiber",
+    authors="Schreiber, Guus and Wielinga, Bob and de Hoog, Robert and Akkermans, Hans and Van de Velde, Walter",
+    place=FAKE,
+    pp="28--37",
+    entrytype="article",
+    volume="9",
+    number="6",
+    publisher="IEEE",
+    ID="schreiber1994commonkads",
+    scholar2016="1",
+    placex="IEEE expert",
 ))

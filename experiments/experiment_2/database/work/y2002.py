@@ -54,6 +54,18 @@ cockburn2002a = DB(WorkUnrelated(
     placex="1st ed. Addison-Wesley Professional",
 ))
 
+eberlein2002a = DB(WorkUnrelated(
+    2002, "Agile requirements definition: A view from requirements engineering",
+    display="eberlein",
+    authors="Eberlein, Armin and Leite, JCSP",
+    place=FAKE,
+    pp="4--8",
+    entrytype="inproceedings",
+    ID="eberlein2002agile",
+    scholar2016="1",
+    placex="Proceedings of the International Workshop on Time-Constrained Requirements Engineering (TCRE’02)",
+))
+
 larman2002a = DB(WorkUnrelated(
     2002, "Applying UML and Patterns, 2nd  Edition",
     display="larman",
@@ -63,6 +75,19 @@ larman2002a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Larman2002",
     placex="",
+))
+
+lindvall2002a = DB(WorkUnrelated(
+    2002, "Empirical findings in agile methods",
+    display="lindvall",
+    authors="Lindvall, Mikael and Basili, Vic and Boehm, Barry and Costa, Patricia and Dangle, Kathleen and Shull, Forrest and Tesoriero, Roseanne and Williams, Laurie and Zelkowitz, Marvin",
+    place=FAKE,
+    pp="197--207",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="lindvall2002empirical",
+    scholar2016="1",
+    placex="Conference on extreme programming and agile methods",
 ))
 
 morgan2002a = DB(WorkUnrelated(
@@ -96,6 +121,19 @@ ohara2002a = DB(WorkUnrelated(
     placex="International Transactions in Operational Research",
 ))
 
+orr2002a = DB(WorkUnrelated(
+    2002, "CMM versus agile development: Religious Wars and Software Development",
+    display="orr",
+    authors="Orr, Ken",
+    place=FAKE,
+    entrytype="article",
+    volume="3",
+    number="7",
+    ID="orr2002cmm",
+    gscholar2016="1",
+    placex="Agile Project Management Executive Report",
+))
+
 palmer2002a = DB(WorkUnrelated(
     2002, "A Practical Guide to Feature-Driven Development",
     display="palmer",
@@ -107,6 +145,18 @@ palmer2002a = DB(WorkUnrelated(
     placex="A Practical Guide to Feature-Driven Development",
 ))
 
+paulk2002a = DB(WorkUnrelated(
+    2002, "Agile methodologies and process discipline",
+    display="paulk",
+    authors="Paulk, Mark C",
+    place=FAKE,
+    pp="15--18",
+    entrytype="article",
+    ID="paulk2002agile",
+    gscholar2016="1",
+    placex="Crosstalk",
+))
+
 schwaber2002a = DB(WorkUnrelated(
     2002, "Agile Software Development with Scrum",
     display="schwaber",
@@ -116,6 +166,19 @@ schwaber2002a = DB(WorkUnrelated(
     note="cited By 1487",
     ID="Schwaber2002",
     placex="Prentice Hall",
+))
+
+turner2002a = DB(WorkUnrelated(
+    2002, "Agile meets CMMI: Culture clash or common cause?",
+    display="turner",
+    authors="Turner, Richard and Jain, Apurva",
+    place=FAKE,
+    pp="153--165",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="turner2002agile",
+    scholar2016="1",
+    placex="Conference on Extreme Programming and Agile Methods",
 ))
 
 webster2002a = DB(WorkUnrelated(

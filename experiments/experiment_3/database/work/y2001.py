@@ -79,6 +79,21 @@ gayretli2001a = DB(WorkUnrelated(
     placex="Proceedings of ICE2001: the 7th International Conference on Concurrent Enterprising",
 ))
 
+gómez2001a = DB(WorkUnrelated(
+    2001, "Evaluation of ontologies",
+    display="gómez",
+    authors="Gómez-Pérez, Asunción",
+    place=FAKE,
+    pp="391--409",
+    entrytype="article",
+    volume="16",
+    number="3",
+    publisher="Wiley Online Library",
+    ID="gomez2001evaluation",
+    scholar2016="1",
+    placex="International Journal of intelligent systems",
+))
+
 iivari2001a = DB(WorkUnrelated(
     2001, "A Dynamic Framework for Classifying Information Systems Development",
     display="iivari",
@@ -89,6 +104,33 @@ iivari2001a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Journal of Management Information Systems",
+    gscholar2016="1",
+))
+
+iivari2001b = DB(WorkUnrelated(
+    2001, "Towards Nore Professional Information Systems Development: ISD as Knowledge Work",
+    display="iivari b",
+    authors="Iivari, Juhani and Hirschheim, Rudy and Klein, Heinz K",
+    place=FAKE,
+    pp="35",
+    entrytype="article",
+    ID="iivari2001towards",
+    gscholar2016="1",
+    placex="ECIS 2001 Proceedings",
+))
+
+jones2001a = DB(WorkUnrelated(
+    2001, "Method and system for dynamic risk assessment of software systems",
+    display="jones",
+    authors="Jones, Wendell Davis and Aud, Stephen J and Hudepohl, John P and Flournory, Martin L and Snipes, William B and Schutz, Eric C",
+    place=FAKE,
+    entrytype="misc",
+    month="apr~17",
+    publisher="Google Patents",
+    note="US Patent 6,219,805",
+    ID="jones2001method",
+    scholar2016="1",
+    placex="",
 ))
 
 lopez2001a = DB(WorkUnrelated(
@@ -116,6 +158,7 @@ mcguinness2001a = DB(WorkUnrelated(
     authors="Natalya Fridman Noy Deborah L. McGuinness",
     place=FAKE,
     placex="Stanford Knowledge Systems Laboratory Technical Report KSL-01-05 March",
+    scholar2016="1",
 ))
 
 musen2001a = DB(WorkUnrelated(

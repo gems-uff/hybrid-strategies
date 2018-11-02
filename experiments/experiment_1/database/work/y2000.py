@@ -180,6 +180,7 @@ buglione2000a = DB(WorkUnrelated(
     ID="Buglione200018",
     placex="Proc. 3rd European Software Measurement Conf.",
     other1="pp 1820",
+    scholar2015="1",
 ))
 
 butler2000a = DB(WorkUnrelated(
@@ -281,6 +282,7 @@ dybå2000a = DB(WorkUnrelated(
     ID="Dybå2000357",
     placex="Empirical Software Engineering",
     springer2015="1",
+    scholar2015="1",
 ))
 
 eisenhardt2000a = DB(WorkUnrelated(
@@ -352,6 +354,21 @@ emam2000b = DB(WorkUnrelated(
     sciencedirect="1",
     placex="Journal of Systems and Software",
     sciencedirect2015="1",
+))
+
+emiliani2000a = DB(WorkUnrelated(
+    2000, "Business-to-business online auctions: key issues for purchasing process improvement",
+    display="emiliani",
+    authors="Emiliani, Mario L",
+    place=FAKE,
+    pp="176--186",
+    entrytype="article",
+    volume="5",
+    number="4",
+    publisher="MCB UP Ltd",
+    ID="emiliani2000business",
+    scholar2015="1",
+    placex="Supply Chain Management: An International Journal",
 ))
 
 engelkamp2000a = DB(WorkUnrelated(
@@ -546,6 +563,21 @@ keeni2000b = DB(WorkUnrelated(
     note="cited By 1",
     ID="Keeni2000",
     placex="Proc. Software Process Improvement Conf.",
+))
+
+kueng2000a = DB(WorkUnrelated(
+    2000, "Process performance measurement system: a tool to support process-based organizations",
+    display="kueng",
+    authors="Kueng, Peter",
+    place=FAKE,
+    pp="67--85",
+    entrytype="article",
+    volume="11",
+    number="1",
+    publisher="Taylor & Francis",
+    ID="kueng2000process",
+    scholar2015="1",
+    placex="Total Quality Management",
 ))
 
 kuilboer2000a = DB(WorkUnrelated(
@@ -807,6 +839,19 @@ roggio2000a = DB(WorkUnrelated(
     cluster_id="11742444324059353993",
     scholar="http://scholar.google.com/scholar?cites=11742444324059353993&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Keynote Address--October 17",
+))
+
+scheer2000a = DB(WorkUnrelated(
+    2000, "ARIS architecture and reference models for business process management",
+    display="scheer",
+    authors="Scheer, August-Wilhelm and Nüttgens, Markus",
+    place=FAKE,
+    pp="376--389",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="scheer2000aris",
+    scholar2015="1",
+    placex="Business process management",
 ))
 
 schmid2000a = DB(WorkUnrelated(

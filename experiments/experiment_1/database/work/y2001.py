@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aaen2001a = DB(WorkUnrelated(
+    2001, "A conceptual MAP of software process improvement",
+    display="aaen",
+    authors="Aaen, Ivan and Arent, Jesper and Mathiassen, Lars and Ngwenyama, Ojelanki",
+    place=FAKE,
+    pp="8",
+    entrytype="article",
+    volume="13",
+    number="1",
+    ID="aaen2001conceptual",
+    scholar2015="1",
+    placex="Scandinavian journal of information systems",
+))
+
 abrahamsson2001a = DB(WorkUnrelated(
     2001, "Rethinking the concept of commitment in software process improvement",
     display="abrahamsson",
@@ -92,6 +106,7 @@ beck2001a = DB(WorkUnrelated(
     entrytype="article",
     ID="Beck2001)",
     placex="http://www.agilemanifesto.org/principles.html",
+    scholar2015="1",
 ))
 
 bergman2001a = DB(WorkUnrelated(
@@ -496,6 +511,21 @@ fröhlich2001a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=5007676971321054226&as_sdt=2005&sciodt=0,5&hl=en",
 ))
 
+fui2001a = DB(WorkUnrelated(
+    2001, "Critical factors for successful implementation of enterprise systems",
+    display="fui",
+    authors="Fui-Hoon Nah, Fiona and Lee-Shang Lau, Janet and Kuang, Jinghua",
+    place=FAKE,
+    pp="285--296",
+    entrytype="article",
+    volume="7",
+    number="3",
+    publisher="MCB UP Ltd",
+    ID="fui2001critical",
+    scholar2015="1",
+    placex="Business process management journal",
+))
+
 garmus2001a = DB(WorkUnrelated(
     2001, "Function Point Analysis: Measurement Practices for Successful Software Projects",
     display="garmus",
@@ -507,6 +537,21 @@ garmus2001a = DB(WorkUnrelated(
     placex="Addison-Wesley, Reading",
 ))
 
+giaglis2001a = DB(WorkUnrelated(
+    2001, "A taxonomy of business process modeling and information systems modeling techniques",
+    display="giaglis",
+    authors="Giaglis, George M",
+    place=FAKE,
+    pp="209--228",
+    entrytype="article",
+    volume="13",
+    number="2",
+    publisher="Springer",
+    ID="giaglis2001taxonomy",
+    scholar2015="1",
+    placex="International Journal of Flexible Manufacturing Systems",
+))
+
 goyal2001a = DB(WorkUnrelated(
     2001, "ROI for SPI: Lessons from initiatives at IBM global services India",
     display="goyal",
@@ -516,6 +561,19 @@ goyal2001a = DB(WorkUnrelated(
     note="cited By 1",
     ID="Goyal2001",
     placex="SEPG 2001",
+))
+
+grembergen2001a = DB(WorkUnrelated(
+    2001, "Aligning Business and Information Technology through the Balanced Scorecard at a Major Canadian Financial Group: It",
+    display="grembergen",
+    authors="Grembergen, W van and Saull, Ronald",
+    place=FAKE,
+    pp="8061",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="grembergen2001aligning",
+    scholar2015="1",
+    placex="hicss",
 ))
 
 hall2001a = DB(WorkUnrelated(

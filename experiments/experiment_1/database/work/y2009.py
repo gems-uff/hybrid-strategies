@@ -1076,6 +1076,21 @@ mulazzani2009c = DB(WorkUnrelated(
     placex="International Conference on Business Information Systems",
 ))
 
+müller2009a = DB(WorkUnrelated(
+    2009, "Managing cultural variation in software process improvement: A comparison of methods for subculture assessment",
+    display="müller",
+    authors="Müller, Sune Dueholm and Kræmmergaard, Pernille and Mathiassen, Lars",
+    place=FAKE,
+    pp="584--599",
+    entrytype="article",
+    volume="56",
+    number="4",
+    publisher="IEEE",
+    ID="muller2009managing",
+    scholar2015="1",
+    placex="IEEE Transactions on Engineering Management",
+))
+
 münch2009a = DB(WorkUnrelated(
     2009, "Business alignment: Measurement-based alignment of software strategies and business goals",
     display="münch",
@@ -1143,6 +1158,21 @@ napier2009a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
 ))
 
+neubauer2009a = DB(WorkUnrelated(
+    2009, "An empirical study about the status of business process management",
+    display="neubauer",
+    authors="Neubauer, Thomas",
+    place=FAKE,
+    pp="166--183",
+    entrytype="article",
+    volume="15",
+    number="2",
+    publisher="Emerald Group Publishing Limited",
+    ID="neubauer2009empirical",
+    scholar2015="1",
+    placex="Business Process Management Journal",
+))
+
 niazi2009a = DB(WorkUnrelated(
     2009, "Identifying high perceived value practices of CMMI level 2: An empirical study",
     display="niazi",
@@ -1197,6 +1227,21 @@ osterweil2009a = DB(WorkUnrelated(
     ID="Osterweil2009",
     springer2015="1",
     placex="Journal of Computer Science and Technology",
+))
+
+otto2009a = DB(WorkUnrelated(
+    2009, "Dynamics in IS Development: A Multi-Method Experiment to Measure the Effects of Disruptions during the Development Process",
+    display="otto",
+    authors="Otto, Peter and Belardo, Salvatore",
+    place=FAKE,
+    pp="1--19",
+    entrytype="article",
+    volume="1",
+    number="2",
+    publisher="IGI Global",
+    ID="otto2009dynamics",
+    scholar2015="1",
+    placex="International Journal of Decision Support System Technology (IJDSST)",
 ))
 
 paruchuri2009a = DB(WorkUnrelated(

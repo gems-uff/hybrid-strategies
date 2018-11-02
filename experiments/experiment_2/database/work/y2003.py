@@ -71,6 +71,31 @@ boehm2003a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+boehm2003b = DB(WorkUnrelated(
+    2003, "Balancing Agility and Discipline: A Guide for the Perplexed, Portable Documents",
+    display="boehm b",
+    authors="Boehm, Barry and Turner, Richard",
+    place=Book,
+    entrytype="book",
+    publisher="Addison-Wesley Professional",
+    ID="boehm2003balancing",
+    gscholar2016="1",
+    placex="",
+))
+
+boehm2003c = DB(WorkUnrelated(
+    2003, "Observations on balancing discipline and agility",
+    display="boehm c",
+    authors="Boehm, Barry and Turner, Richard",
+    place=FAKE,
+    pp="32",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="boehm2003observations",
+    gscholar2016="1",
+    placex="null",
+))
+
 boonstra2003a = DB(WorkUnrelated(
     2003, "Structure and analysis of IS decision-making processes",
     display="boonstra",
@@ -102,6 +127,19 @@ bruin2003a = DB(WorkUnrelated(
     placex="Comprehensive Reviews in Food Science and Food Safety",
 ))
 
+chau2003a = DB(WorkUnrelated(
+    2003, "Knowledge sharing: Agile methods vs. tayloristic methods",
+    display="chau",
+    authors="Chau, Thomas and Maurer, Frank and Melnik, Grigori",
+    place=FAKE,
+    pp="302--307",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="chau2003knowledge",
+    scholar2016="1",
+    placex="Enabling Technologies: Infrastructure for Collaborative Enterprises, 2003. WET ICE 2003. Proceedings. Twelfth IEEE International Workshops on",
+))
+
 cockburn2003a = DB(WorkUnrelated(
     2003, "People and methodologies in software development",
     display="cockburn",
@@ -122,6 +160,7 @@ cockburn2003b = DB(WorkUnrelated(
     note="cited By 1122",
     ID="Cockburn2003",
     placex="Addison-Wesley",
+    gscholar2016="1",
 ))
 
 cohn2003a = DB(WorkUnrelated(
@@ -291,6 +330,8 @@ larman2003a = DB(WorkUnrelated(
     note="cited By 440",
     ID="Larman200347",
     placex="Computer",
+    publisher="IEEE",
+    gscholar2016="1",
 ))
 
 luqi2003a = DB(WorkUnrelated(
@@ -360,6 +401,19 @@ paasivaara2003a = DB(WorkUnrelated(
     note="cited By 72",
     ID="Paasivaara2003183",
     placex="Software Process Improvement and Practice",
+))
+
+paetsch2003a = DB(WorkUnrelated(
+    2003, "Requirements engineering and agile software development",
+    display="paetsch",
+    authors="Paetsch, Frauke and Eberlein, Armin and Maurer, Frank",
+    place=FAKE,
+    pp="308--313",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="paetsch2003requirements",
+    scholar2016="1",
+    placex="Enabling Technologies: Infrastructure for Collaborative Enterprises, 2003. WET ICE 2003. Proceedings. Twelfth IEEE International Workshops on",
 ))
 
 pierreval2003a = DB(WorkUnrelated(
@@ -440,6 +494,18 @@ wake2003a = DB(WorkUnrelated(
     note="cited By 21",
     ID="Wake2003",
     placex="accessed site",
+))
+
+warsta2003a = DB(WorkUnrelated(
+    2003, "Is open source software development essentially an agile method",
+    display="warsta",
+    authors="Warsta, Juhani and Abrahamsson, Pekka",
+    place=FAKE,
+    pp="143--147",
+    entrytype="inproceedings",
+    ID="warsta2003open",
+    scholar2016="1",
+    placex="Proceedings of the 3rd Workshop on Open Source Software Engineering",
 ))
 
 williams2003a = DB(WorkUnrelated(

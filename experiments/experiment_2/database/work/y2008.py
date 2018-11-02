@@ -22,6 +22,19 @@ aaen2008a = DB(WorkUnrelated(
     springer2016="1",
 ))
 
+abbas2008a = DB(WorkUnrelated(
+    2008, "Historical roots of agile methods: Where did “Agile thinking” come from?",
+    display="abbas",
+    authors="Abbas, Noura and Gravell, Andrew M and Wills, Gary B",
+    place=FAKE,
+    pp="94--103",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="abbas2008historical",
+    scholar2016="1",
+    placex="International Conference on Agile Processes and Extreme Programming in Software Engineering",
+))
+
 acuña2008a = DB(WorkUnrelated(
     2008, "Towards understanding the relationship between team climate and software quality—a quasi-experimental study",
     display="acuña",
@@ -283,6 +296,7 @@ chow2008a = DB(WorkUnrelated(
     note="cited By 284",
     ID="Chow2008961",
     placex="Journal of Systems and Software",
+    scholar2016="1",
 ))
 
 cockburn2008a = DB(WorkUnrelated(
@@ -368,6 +382,7 @@ dybå2008a = DB(WorkUnrelated(
     placex="Information and software technology",
     doi="10.1016/j.infsof.2008.01.006",
     note="cited By 895",
+    scholar2016="1",
 ))
 
 easterbrook2008a = DB(WorkUnrelated(
@@ -445,6 +460,22 @@ federoff2008a = DB(WorkUnrelated(
     placex="CHI'08 extended abstracts on Human factors in computing systems",
 ))
 
+fernandez2008a = DB(WorkUnrelated(
+    2008, "Agile project management—agilism versus traditional approaches",
+    display="fernandez",
+    authors="Fernandez, Daniel J and Fernandez, John D",
+    place=FAKE,
+    pp="10--17",
+    entrytype="article",
+    volume="49",
+    number="2",
+    publisher="Taylor & Francis",
+    ID="fernandez2008agile",
+    gscholar2016="1",
+    placex="Journal of Computer Information Systems",
+    scholar2016="1",
+))
+
 fowler2008a = DB(WorkUnrelated(
     2008, "Estimated Interest",
     display="fowler",
@@ -482,6 +513,17 @@ georgieva2008a = DB(WorkUnrelated(
     note="cited By 28",
     ID="Georgieva200843",
     placex="Electronic Journal of Business Research Methods",
+))
+
+glazer2008a = DB(WorkUnrelated(
+    2008, "CMMI or agile: why not embrace both!",
+    display="glazer",
+    authors="Glazer, Hillel and Dalton, Jeff and Anderson, David and Konrad, Michael D and Shrum, Sandy",
+    place=FAKE,
+    entrytype="article",
+    ID="glazer2008cmmi",
+    gscholar2016="1",
+    placex="",
 ))
 
 gon2008a = DB(WorkUnrelated(
@@ -595,6 +637,20 @@ isoiec2008a = DB(WorkUnrelated(
     placex="iso/IEC 21817",
 ))
 
+jakobsen2008a = DB(WorkUnrelated(
+    2008, "Mature Agile with a twist of CMMI",
+    display="jakobsen",
+    authors="Jakobsen, Carsten Ruseng and Johnson, Kent Aaron",
+    place=FAKE,
+    pp="212--217",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="jakobsen2008mature",
+    gscholar2016="1",
+    placex="Agile, 2008. AGILE'08. Conference",
+    scholar2016="1",
+))
+
 judy2008a = DB(WorkUnrelated(
     2008, "Great scrums need great product owners: Unbounded collaboration and collective product ownership",
     display="judy",
@@ -624,6 +680,20 @@ jörges2008a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=10634212856705578239&as_sdt=2005&sciodt=0,5&hl=en",
     springer2016="1",
     planilha_springer2016="1",
+))
+
+kendall2008a = DB(WorkUnrelated(
+    2008, "Development of a weather forecasting code: A case study",
+    display="kendall",
+    authors="Kendall, Richard and Carver, Jeffrey C and Fisher, David and Henderson, Dale and Mark, Andrew and Post, Douglass and Rhoades Jr, Clifford E and Squires, Susan",
+    place=IEEES,
+    pp="59--65",
+    entrytype="article",
+    number="4",
+    publisher="IEEE",
+    ID="kendall2008development",
+    gscholar2016="1",
+    placex="IEEE software",
 ))
 
 kettunen2008a = DB(WorkUnrelated(
@@ -702,6 +772,31 @@ krasteva2008a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of the 2008 international workshop on Scrutinizing agile practices or shoot-out at the agile corral",
+))
+
+laanti2008a = DB(WorkUnrelated(
+    2008, "Implementing program model with agile principles in a large software development organization",
+    display="laanti",
+    authors="Laanti, Maarit",
+    place=FAKE,
+    pp="1383--1391",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="laanti2008implementing",
+    scholar2016="1",
+    placex="Computer Software and Applications, 2008. COMPSAC'08. 32nd Annual IEEE International",
+))
+
+larman2008a = DB(WorkUnrelated(
+    2008, "Scaling lean & agile development: thinking and organizational tools for large-scale Scrum",
+    display="larman",
+    authors="Larman, Craig",
+    place=Book,
+    entrytype="book",
+    publisher="Pearson Education India",
+    ID="larman2008scaling",
+    gscholar2016="1",
+    placex="",
 ))
 
 larrucea2008a = DB(WorkUnrelated(
@@ -1038,6 +1133,21 @@ qumer2008a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+qumer2008b = DB(WorkUnrelated(
+    2008, "An evaluation of the degree of agility in six agile methods and its applicability for method engineering",
+    display="qumer b",
+    authors="Qumer, Asif and Henderson-Sellers, Brian",
+    place=IST,
+    pp="280--295",
+    entrytype="article",
+    volume="50",
+    number="4",
+    publisher="Elsevier",
+    ID="qumer2008evaluation",
+    scholar2016="1",
+    placex="Information and software technology",
+))
+
 qureshi2008a = DB(WorkUnrelated(
     2008, "A reusable software component-based development process model",
     display="qureshi",
@@ -1291,6 +1401,20 @@ sutherland2008a = DB(WorkUnrelated(
     entrytype="article",
     ID="Sutherland2008",
     placex="AGILE’08",
+    gscholar2016="1",
+))
+
+sutherland2008b = DB(WorkUnrelated(
+    2008, "Scrum and CMMI level 5: The magic potion for code warriors",
+    display="sutherland b",
+    authors="Sutherland, Jeff and Jakobsen, Carsten Ruseng and Johnson, Kent",
+    place=FAKE,
+    pp="466--466",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="sutherland2008scrum",
+    scholar2016="1",
+    placex="Hawaii International Conference on System Sciences, Proceedings of the 41st Annual",
 ))
 
 tallon2008a = DB(WorkUnrelated(

@@ -172,6 +172,21 @@ boehm2007a = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+boehm2007b = DB(WorkUnrelated(
+    2007, "Using the incremental commitment model to integrate system acquisition, systems engineering, and software engineering",
+    display="boehm b",
+    authors="Boehm, Barry and Lane, Jo Ann",
+    place=FAKE,
+    pp="4--9",
+    entrytype="article",
+    volume="19",
+    number="10",
+    publisher="Citeseer",
+    ID="boehm2007using",
+    gscholar2016="1",
+    placex="CrossTalk",
+))
+
 bohner2007a = DB(WorkUnrelated(
     2007, "Model-based engineering for change-tolerant systems",
     display="bohner",
@@ -387,6 +402,32 @@ fornaro2007a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+fritzsche2007a = DB(WorkUnrelated(
+    2007, "Agile methods and CMMI: compatibility or conflict?",
+    display="fritzsche",
+    authors="Fritzsche, Martin and Keil, Patrick",
+    place=FAKE,
+    entrytype="article",
+    volume="1",
+    number="1",
+    ID="fritzsche2007agile",
+    scholar2016="1",
+    placex="e-Informatica Software Engineering Journal",
+))
+
+fry2007a = DB(WorkUnrelated(
+    2007, "Large scale agile transformation in an on-demand world",
+    display="fry",
+    authors="Fry, Chris and Greene, Steve",
+    place=FAKE,
+    pp="136--142",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="fry2007large",
+    scholar2016="1",
+    placex="Agile Conference (AGILE), 2007",
+))
+
 ge2007a = DB(WorkUnrelated(
     2007, "Agile security for Web applications",
     display="ge",
@@ -497,6 +538,7 @@ leffingwell2007a = DB(WorkUnrelated(
     note="cited By 143",
     ID="Leffingwell2007",
     placex="Pearson Education",
+    gscholar2016="1",
 ))
 
 lowery2007a = DB(WorkUnrelated(
@@ -918,6 +960,7 @@ sutherland2007a = DB(WorkUnrelated(
     ID="Sutherland2007",
     placex="Proceedings of the Annual Hawaii International Conference on System Sciences",
     gs2016="1",
+    gscholar2016="1",
 ))
 
 sutherland2007b = DB(WorkUnrelated(

@@ -137,6 +137,17 @@ deiters1998a = DB(WorkUnrelated(
     placex="Automated Software Engineering",
 ))
 
+diromauldo1998a = DB(WorkUnrelated(
+    1998, "Strategic intent for IT outsourcing",
+    display="diromauldo",
+    authors="DiRomauldo, Anthony and Gurbaxani, Viijay",
+    place=FAKE,
+    entrytype="article",
+    ID="diromauldo1998strategic",
+    scholar2015="1",
+    placex="",
+))
+
 dynsys1998a = DB(WorkUnrelated(
     1998, "IPT Learning Campus",
     display="dynsys",

@@ -3,6 +3,20 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+asproni2004a = DB(WorkUnrelated(
+    2004, "Motivation, teamwork, and agile development",
+    display="asproni",
+    authors="Asproni, Giovanni",
+    place=FAKE,
+    pp="8--15",
+    entrytype="article",
+    volume="4",
+    number="1",
+    ID="asproni2004motivation",
+    scholar2016="1",
+    placex="Agile Times",
+))
+
 assmann2004a = DB(WorkUnrelated(
     2004, "Towards partnership in software subcontracting",
     display="assmann",
@@ -64,6 +78,19 @@ berki2004a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+beyer2004a = DB(WorkUnrelated(
+    2004, "An agile customer-centered method: rapid contextual design",
+    display="beyer",
+    authors="Beyer, Hugh and Holtzblatt, Karen and Baker, Lisa",
+    place=FAKE,
+    pp="50--59",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="beyer2004agile",
+    scholar2016="1",
+    placex="Conference on Extreme Programming and Agile Methods",
+))
+
 boehm2004a = DB(WorkUnrelated(
     2004, "2.6. 1 The Schedule as Independent Variable (SAIV) Process for Acquisition of Software-Intensive Systems",
     display="boehm",
@@ -116,6 +143,32 @@ cockburn2004a = DB(WorkUnrelated(
     note="cited By 248",
     ID="Cockburn2004",
     placex="",
+))
+
+conboy2004a = DB(WorkUnrelated(
+    2004, "Toward a conceptual framework of agile methods: a study of agility in different disciplines",
+    display="conboy",
+    authors="Conboy, Kieran and Fitzgerald, Brian",
+    place=FAKE,
+    pp="37--44",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="conboy2004toward",
+    scholar2016="1",
+    placex="Proceedings of the 2004 ACM workshop on Interdisciplinary software engineering research",
+))
+
+conboy2004b = DB(WorkUnrelated(
+    2004, "Toward a conceptual framework of agile methods",
+    display="conboy b",
+    authors="Conboy, Kieran and Fitzgerald, Brian",
+    place=FAKE,
+    pp="105--116",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="conboy2004toward",
+    scholar2016="1",
+    placex="Conference on Extreme Programming and Agile Methods",
 ))
 
 drobka2004a = DB(WorkUnrelated(
@@ -212,6 +265,19 @@ holz2004a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+huo2004a = DB(WorkUnrelated(
+    2004, "Software quality and agile methods",
+    display="huo",
+    authors="Huo, Ming and Verner, June and Zhu, Liming and Babar, Muhammad Ali",
+    place=FAKE,
+    pp="520--525",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="huo2004software",
+    scholar2016="1",
+    placex="Computer Software and Applications Conference, 2004. COMPSAC 2004. Proceedings of the 28th Annual International",
+))
+
 iivari2004a = DB(WorkUnrelated(
     2004, "Towards a distinctive body of knowledge for Information Systems experts: coding ISD process knowledge in two IS journals",
     display="iivari",
@@ -253,6 +319,19 @@ jokela2004a = DB(WorkUnrelated(
     placex="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
 ))
 
+kahkonen2004a = DB(WorkUnrelated(
+    2004, "Agile methods for large organizations-building communities of practice",
+    display="kahkonen",
+    authors="Kahkonen, Tuomo",
+    place=FAKE,
+    pp="2--10",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kahkonen2004agile",
+    scholar2016="1",
+    placex="Agile Development Conference, 2004",
+))
+
 kan2004a = DB(WorkUnrelated(
     2004, "Identifying paradox: A grounded theory of leadership in overcoming resistance to change",
     display="kan",
@@ -282,6 +361,19 @@ kim2004a = DB(WorkUnrelated(
     springer2016="1",
     planilha_springer2016="1",
     placex="Software Quality Journal",
+))
+
+larman2004a = DB(WorkUnrelated(
+    2004, "Agile and iterative development: a manager's guide",
+    display="larman",
+    authors="Larman, Craig",
+    place=Book,
+    entrytype="book",
+    publisher="Addison-Wesley Professional",
+    ID="larman2004agile",
+    gscholar2016="1",
+    placex="",
+    scholar2016="1",
 ))
 
 lee2004a = DB(WorkUnrelated(
@@ -385,6 +477,7 @@ schwaber2004a = DB(WorkUnrelated(
     note="cited By 739",
     ID="Schwaber2004",
     placex="",
+    gscholar2016="1",
 ))
 
 sheard2004a = DB(WorkUnrelated(

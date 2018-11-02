@@ -109,6 +109,18 @@ brady2005a = DB(WorkUnrelated(
     placex="",
 ))
 
+bruin2005a = DB(WorkUnrelated(
+    2005, "Towards a business process management maturity model",
+    display="bruin",
+    authors="De Bruin, Tonia and Rosemann, Michael",
+    place=FAKE,
+    entrytype="article",
+    publisher="Verlag and the London School of Economics",
+    ID="de2005towards",
+    scholar2015="1",
+    placex="",
+))
+
 bühne2005a = DB(WorkUnrelated(
     2005, "Modelling requirements variability across product lines",
     display="bühne",
@@ -308,6 +320,7 @@ dyba2005a = DB(WorkUnrelated(
     placex="IEEE Transactions on Software Engineering",
     publisher="IEEE",
     scholar="http://scholar.google.com/scholar?cites=5825358352026707953&as_sdt=2005&sciodt=0,5&hl=en",
+    scholar2015="1",
 ))
 
 eckerson2005a = DB(WorkUnrelated(
@@ -402,6 +415,19 @@ gopal2005a = DB(WorkUnrelated(
     note="cited By 29",
     ID="Gopal2005679",
     placex="IEEE Transactions on Software Engineering",
+))
+
+hepp2005a = DB(WorkUnrelated(
+    2005, "Semantic business process management: A vision towards using semantic web services for business process management",
+    display="hepp",
+    authors="Hepp, Martin and Leymann, Frank and Domingue, John and Wahler, Alexander and Fensel, Dieter",
+    place=FAKE,
+    pp="535--540",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="hepp2005semantic",
+    scholar2015="1",
+    placex="e-Business Engineering, 2005. ICEBE 2005. IEEE International Conference on",
 ))
 
 hulkko2005a = DB(WorkUnrelated(
@@ -695,6 +721,19 @@ mas2005a = DB(WorkUnrelated(
     placex="REICIS. Revista Española de Innovación, Calidad e Ingeniería del Software",
 ))
 
+muehlen2005a = DB(WorkUnrelated(
+    2005, "Risk management in the BPM lifecycle",
+    display="muehlen",
+    authors="Zur Muehlen, Michael and Ho, Danny Ting-Yi",
+    place=FAKE,
+    pp="454--466",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="zur2005risk",
+    scholar2015="1",
+    placex="International Conference on Business Process Management",
+))
+
 münch2005a = DB(WorkUnrelated(
     2005, "Virtual Software Engineering Laboratories in Support of Trade-off Analyses",
     display="münch",
@@ -743,6 +782,20 @@ niazi2005b = DB(WorkUnrelated(
     cluster_id="2061213712552187512",
     scholar="http://scholar.google.com/scholar?cites=2061213712552187512&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Systems and Software",
+))
+
+osterwalder2005a = DB(WorkUnrelated(
+    2005, "Clarifying business models: Origins, present, and future of the concept",
+    display="osterwalder",
+    authors="Osterwalder, Alexander and Pigneur, Yves and Tucci, Christopher L",
+    place=FAKE,
+    pp="1",
+    entrytype="article",
+    volume="16",
+    number="1",
+    ID="osterwalder2005clarifying",
+    scholar2015="1",
+    placex="Communications of the association for Information Systems",
 ))
 
 procaccino2005a = DB(WorkUnrelated(
@@ -1092,6 +1145,7 @@ weber2005a = DB(WorkUnrelated(
     doi="10.1007/11569596_43",
     note="cited By 24",
     ID="Weber2005402",
+    scholar2015="1",
 ))
 
 wilkie2005a = DB(WorkUnrelated(

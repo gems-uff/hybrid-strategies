@@ -84,6 +84,19 @@ dolado2003a = DB(WorkUnrelated(
     placex="Jornada de Seguimiento de Proyectos en Tecnologıas Informaticas, Programa Nacional de Tecnologıas de la Informacion y las Comunicaciones",
 ))
 
+dougiamas2003a = DB(WorkUnrelated(
+    2003, "Moodle: Using learning communities to create an open source course management system",
+    display="dougiamas",
+    authors="Dougiamas, Martin and Taylor, Peter",
+    place=FAKE,
+    pp="171--178",
+    entrytype="inproceedings",
+    organization="Association for the Advancement of Computing in Education (AACE)",
+    ID="dougiamas2003moodle",
+    scholar2016="1",
+    placex="EdMedia: World Conference on Educational Media and Technology",
+))
+
 edwards2003a = DB(WorkUnrelated(
     2003, "Managing software engineers and their knowledge",
     display="edwards",
@@ -96,6 +109,17 @@ edwards2003a = DB(WorkUnrelated(
     springer2016="1",
     planilha_springer2016="1",
     placex="Managing software engineering knowledge",
+))
+
+francisco2003a = DB(WorkUnrelated(
+    2003, "333E3E33E33E: TIETETTI 2",
+    display="francisco",
+    authors="San Francisco, Ca",
+    place=FAKE,
+    entrytype="article",
+    ID="san2003333e3e33e33e",
+    gscholar2016="1",
+    placex="",
 ))
 
 hayes2003a = DB(WorkUnrelated(
@@ -169,6 +193,21 @@ ruiz2003a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Advances in software maintenance management: technologies and solutions",
+))
+
+shannon2003a = DB(WorkUnrelated(
+    2003, "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+    display="shannon",
+    authors="Shannon, Paul and Markiel, Andrew and Ozier, Owen and Baliga, Nitin S and Wang, Jonathan T and Ramage, Daniel and Amin, Nada and Schwikowski, Benno and Ideker, Trey",
+    place=FAKE,
+    pp="2498--2504",
+    entrytype="article",
+    volume="13",
+    number="11",
+    publisher="Cold Spring Harbor Lab",
+    ID="shannon2003cytoscape",
+    scholar2016="1",
+    placex="Genome research",
 ))
 
 staalhane2003a = DB(WorkUnrelated(

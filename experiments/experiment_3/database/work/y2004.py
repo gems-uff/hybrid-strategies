@@ -59,6 +59,21 @@ consortium2004a = DB(WorkUnrelated(
     placex="",
 ))
 
+consortium2004b = DB(WorkUnrelated(
+    2004, "The Gene Ontology (GO) database and informatics resource",
+    display="consortium b",
+    authors="Gene Ontology Consortium",
+    place=FAKE,
+    pp="D258--D261",
+    entrytype="article",
+    volume="32",
+    number="suppl_1",
+    publisher="Oxford University Press",
+    ID="gene2004gene",
+    scholar2016="1",
+    placex="Nucleic acids research",
+))
+
 cook2004a = DB(WorkUnrelated(
     2004, "Towards synchronous collaborative software engineering",
     display="cook",
@@ -97,6 +112,19 @@ fahy2004a = DB(WorkUnrelated(
     placex="Proc. Workshop on Context-awareness (held in connection with MobiSys’04)",
 ))
 
+gobbin2004a = DB(WorkUnrelated(
+    2004, "The application of intentional subjective properties and mediated communication tools to software agents in online disputes resolution environments",
+    display="gobbin",
+    authors="Gobbin, Renzo",
+    place=FAKE,
+    entrytype="article",
+    volume="12",
+    number="1",
+    ID="gobbin2004application",
+    gscholar2016="1",
+    placex="Australasian Journal of Information Systems",
+))
+
 gu2004a = DB(WorkUnrelated(
     2004, "A middleware for building context-aware mobile services",
     display="",
@@ -111,6 +139,18 @@ heflin2004a = DB(WorkUnrelated(
     authors="J. Heflin",
     place=FAKE,
     placex="http://www.w3.org/TR/webont-req/",
+))
+
+herrler2004a = DB(WorkUnrelated(
+    2004, "The ADAPT toolkit-supported Engineering process for agent based applications",
+    display="herrler",
+    authors="Herrler, Rainer and Heine, Christian",
+    place=FAKE,
+    pp="214",
+    entrytype="article",
+    ID="herrler2004adapt",
+    gscholar2016="1",
+    placex="AMCIS 2004 Proceedings",
 ))
 
 kaner2004a = DB(WorkUnrelated(
@@ -154,6 +194,30 @@ liao2004b = DB(WorkUnrelated(
     placex="Proceedings  of The  8th  IASTED  International  Conference  onSOFTWARE  ENGINEERING  AND  APPLICATIONS(SEA 2004), 9-11 Nov.",
 ))
 
+limbourg2004a = DB(WorkUnrelated(
+    2004, "Multi-path development of user interfaces",
+    display="limbourg",
+    authors="Limbourg, Quentin",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="limbourg2004multi",
+    local="Faculté des Sciences Économiques, Sociales et Politiques, Université Catholique de Louvain",
+    gscholar2016="1",
+    placex="",
+))
+
+llinas2004a = DB(WorkUnrelated(
+    2004, "Revisiting the JDL data fusion model II",
+    display="llinas",
+    authors="Llinas, James and Bowman, Christopher and Rogova, Galina and Steinberg, Alan and Waltz, Ed and White, Frank",
+    place=TechReport,
+    entrytype="techreport",
+    institution="SPACE AND NAVAL WARFARE SYSTEMS COMMAND SAN DIEGO CA",
+    ID="llinas2004revisiting",
+    scholar2016="1",
+    placex="",
+))
+
 loon2004a = DB(WorkUnrelated(
     2004, "Process Assessment and ISO IEC 15504",
     display="loon",
@@ -161,6 +225,21 @@ loon2004a = DB(WorkUnrelated(
     place=FAKE,
     other1="Google Scholar",
     placex="A Reference Book. Springer, Heidelberg (2004)",
+))
+
+lozano2004a = DB(WorkUnrelated(
+    2004, "Ontometric: A method to choose the appropriate ontology",
+    display="lozano",
+    authors="Lozano-Tello, Adolfo and Gómez-Pérez, Asunción",
+    place=FAKE,
+    pp="1--18",
+    entrytype="article",
+    volume="15",
+    number="2",
+    publisher="IGI Global",
+    ID="lozano2004ontometric",
+    scholar2016="1",
+    placex="Journal of Database Management (JDM)",
 ))
 
 mendes2004a = DB(WorkUnrelated(
@@ -189,6 +268,21 @@ patel2004a = DB(WorkUnrelated(
     placex="W3C Recommendation",
 ))
 
+pinto2004a = DB(WorkUnrelated(
+    2004, "Ontologies: How can they be built?",
+    display="pinto",
+    authors="Pinto, Helena Sofia and Martins, João P",
+    place=FAKE,
+    pp="441--464",
+    entrytype="article",
+    volume="6",
+    number="4",
+    publisher="Springer",
+    ID="pinto2004ontologies",
+    scholar2016="1",
+    placex="Knowledge and information systems",
+))
+
 ruiz2004a = DB(WorkUnrelated(
     2004, "An ontology for the management of software maintenance projects",
     display="ruiz",
@@ -208,6 +302,7 @@ ruiz2004a = DB(WorkUnrelated(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-4043164955&doi=10.1142%2fS0218194004001646&partnerID=40&md5=682d9f1939381c32380bd6f7119c3e73",
     scopus2016="1",
     gs2016="1",
+    scholar2016="1",
 ))
 
 tague2004a = DB(WorkUnrelated(

@@ -1488,6 +1488,7 @@ mahnic2014a = DB(WorkUnrelated(
     ID="mahnic2014improving",
     gs2016="1",
     placex="Recent Advances in Computer Engineering, Communications and Information Technology, Espanha",
+    gscholar2016="1",
 ))
 
 mai2014a = DB(WorkUnrelated(
@@ -2088,6 +2089,20 @@ robillard2014a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+rodríguez2014a = DB(WorkUnrelated(
+    2014, "Combining lean thinking and agile methods for software development: A case study of a finnish provider of wireless embedded systems detailed",
+    display="rodríguez",
+    authors="Rodríguez, Pilar and Partanen, Jari and Kuvaja, Pasi and Oivo, Markku",
+    place=FAKE,
+    pp="4770--4779",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="rodriguez2014combining",
+    gscholar2016="1",
+    placex="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
+    scholar2016="1",
 ))
 
 rosser2014a = DB(WorkUnrelated(

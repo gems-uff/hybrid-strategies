@@ -257,6 +257,18 @@ donzelli2016a = DB(WorkUnrelated(
     placex="Signal-Image Technology & Internet-Based Systems (SITIS), 2016 12th International Conference on",
 ))
 
+duarte2016a = DB(WorkUnrelated(
+    2016, "Towards an Ontology of Requirements at Runtime.",
+    display="duarte",
+    authors="Duarte, Bruno Borlini and Souza, Vítor E Silva and de Castro Leal, André Luiz and de Almeida Falbo, Ricardo and Guizzardi, Giancarlo and Guizzardi, Renata SS",
+    place=FAKE,
+    pp="255--268",
+    entrytype="inproceedings",
+    ID="duarte2016towards",
+    gscholar2016="1",
+    placex="FOIS",
+))
+
 dévora2016a = DB(WorkUnrelated(
     2016, "Identificando Hallazgos de Mejora en Pymes de TI Utilizando un Modelo Ontológico para CMMI-DEV v1. 3",
     display="dévora",
@@ -775,6 +787,17 @@ tochtermann2016a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Proceedings of I-KNOW '09: 9th international conference on knowledge management and knowledge technologies ; Proceedings of I-SEMANTICS '09: 5th international conference on semanticsystemss",
+))
+
+toma2016a = DB(WorkUnrelated(
+    2016, "IN VITRO MODEL SYSTEMS FOR INVESTIGATION OF MOTONEURON DEVELOPMENT AND DISEASE",
+    display="toma",
+    authors="Toma, Jeremy",
+    place=FAKE,
+    entrytype="article",
+    ID="toma2016vitro",
+    gscholar2016="1",
+    placex="",
 ))
 
 zemaitytė2016a = DB(WorkUnrelated(

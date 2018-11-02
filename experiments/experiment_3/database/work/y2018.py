@@ -47,3 +47,18 @@ vukovic2018a = DB(WorkUnrelated(
     ID="vukovic2018business",
     placex="International Journal of Software Engineering and Knowledge Engineering",
 ))
+
+xu2018a = DB(WorkUnrelated(
+    2018, "Transcriptomic characterization and potential marker development of contrasting sugarcane cultivars",
+    display="xu",
+    authors="Xu, Shiqiang and Wang, Jihua and Shang, Heyang and Huang, Youzong and Yao, Wei and Chen, Baoshan and Zhang, Muqing",
+    place=FAKE,
+    pp="1683",
+    entrytype="article",
+    volume="8",
+    number="1",
+    publisher="Nature Publishing Group",
+    ID="xu2018transcriptomic",
+    gscholar2016="1",
+    placex="Scientific reports",
+))

@@ -19,6 +19,19 @@ acampora2010a = DB(WorkUnrelated(
     placex="IEEE Computational Intelligence Magazine",
 ))
 
+al2010a = DB(WorkUnrelated(
+    2010, "Soa-based architecture for a generic and flexible e-assessment system",
+    display="al",
+    authors="Al-Smadi, Mohammad and Gütl, Christian",
+    place=FAKE,
+    pp="493--500",
+    entrytype="article",
+    publisher="IEEE Computer Society",
+    ID="al2010soa",
+    gscholar2016="1",
+    placex="Engineering education 2010: the future of global learning in engineering education",
+))
+
 ali2010a = DB(WorkUnrelated(
     2010, "Towards innovation measurement in software industry",
     display="ali",
@@ -62,6 +75,17 @@ anneliheimbürgera2010a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Information Modelling and Knowledge Bases XXI",
+))
+
+baba2010a = DB(WorkUnrelated(
+    2010, "Research Areas",
+    display="baba",
+    authors="Baba, Mohd Sapiyan and Zainuddin, Roziati",
+    place=FAKE,
+    entrytype="article",
+    ID="babaresearch2010",
+    gscholar2016="1",
+    placex="",
 ))
 
 balaji2010a = DB(WorkUnrelated(
@@ -239,6 +263,21 @@ daramola2010a = DB(WorkUnrelated(
     volume="6385 LNCS",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649805138&doi=10.1007%2f978-3-642-16985-4_50&partnerID=40&md5=2af8c8443e3dac550ada953deab272ae",
     scopus2016="1",
+))
+
+el2010a = DB(WorkUnrelated(
+    2010, "Domain ontology for processes in infrastructure and construction",
+    display="el",
+    authors="El-Gohary, Nora M and El-Diraby, Tamer E",
+    place=FAKE,
+    pp="730--744",
+    entrytype="article",
+    volume="136",
+    number="7",
+    publisher="American Society of Civil Engineers",
+    ID="el2010domain",
+    scholar2016="1",
+    placex="Journal of Construction Engineering and Management",
 ))
 
 ellis2010a = DB(WorkUnrelated(
@@ -544,6 +583,32 @@ lee2010c = DB(WorkUnrelated(
     placex="System Science and Engineering (ICSSE), 2010 International Conference on",
 ))
 
+lundin2010a = DB(WorkUnrelated(
+    2010, "Knowledge retention and reuse: using CAD models as carriers of knowledge in product development",
+    display="lundin",
+    authors="Lundin, Michael and Sandberg, Stefan and Näsström, Mats",
+    place=FAKE,
+    pp="1173--1182",
+    entrytype="inproceedings",
+    organization="American Society of Mechanical Engineers",
+    ID="lundin2010knowledge",
+    gscholar2016="1",
+    placex="ASME 2010 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference",
+))
+
+mastrogiovanni2010a = DB(WorkUnrelated(
+    2010, "From autonomous robots to artificial ecosystems",
+    display="mastrogiovanni",
+    authors="Mastrogiovanni, Fulvio and Sgorbissa, Antonio and Zaccaria, Renato",
+    place=FAKE,
+    pp="635--668",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="mastrogiovanni2010autonomous",
+    gscholar2016="1",
+    placex="Handbook of Ambient Intelligence and Smart Environments",
+))
+
 mehmood2010a = DB(WorkUnrelated(
     2010, "Conception des Systèmes d'Information: une approche centrée sur les Patrons de Gestion de la Qualité",
     display="mehmood",
@@ -608,6 +673,19 @@ moraa2010a = DB(WorkUnrelated(
     entrytype="article",
     ID="moraaontology",
     placex="",
+))
+
+moraes2010a = DB(WorkUnrelated(
+    2010, "Framework of integration for collaboration and spatial data mining among heterogeneous sources in the web",
+    display="moraes",
+    authors="de Moraes, André Fabiano and Bastos, Lia Caetano",
+    place=FAKE,
+    pp="19--28",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="de2010framework",
+    gscholar2016="1",
+    placex="Proceedings of the 1st ACM SIGSPATIAL International Workshop on Data Mining for Geoinformatics",
 ))
 
 moser2010a = DB(WorkUnrelated(
@@ -737,6 +815,19 @@ roedler2010a = DB(WorkUnrelated(
     placex="System Life Cycle Processes. Asian Pacific Council on Systems Engineering (APCOSE) Conference",
 ))
 
+salger2010a = DB(WorkUnrelated(
+    2010, "Knowledge transfer in global software development-leveraging ontologies, tools and assessments",
+    display="salger",
+    authors="Salger, Frank and Sauer, Stefan and Engels, Gregor and Baumann, Andrea",
+    place=ICSE,
+    pp="336--341",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="salger2010knowledge",
+    scholar2016="1",
+    placex="Global Software Engineering (ICGSE), 2010 5th IEEE International Conference on",
+))
+
 sarantis2010a = DB(WorkUnrelated(
     2010, "Knowledge exploitation via ontology development in e-government project management",
     display="sarantis",
@@ -750,6 +841,28 @@ sarantis2010a = DB(WorkUnrelated(
     cluster_id="17633945482365111096",
     scholar="http://scholar.google.com/scholar?cites=17633945482365111096&as_sdt=2005&sciodt=0,5&hl=en",
     placex="International Journal of Digital Society (IJDS)",
+))
+
+schugerl2010a = DB(WorkUnrelated(
+    2010, "Department of Computer Science and Software Engineering Concordia University, Montreal, Canada (p_schuge, da_wals, rilling) Gose. concordia. ca",
+    display="schugerl",
+    authors="Schugerl, Philipp and Walsh, David",
+    place=FAKE,
+    entrytype="article",
+    ID="schugerldepartment",
+    gscholar2016="1",
+    placex="",
+))
+
+shimomura2010a = DB(WorkUnrelated(
+    2010, "ICSEA 2010",
+    display="shimomura",
+    authors="Shimomura, Takao",
+    place=FAKE,
+    entrytype="article",
+    ID="shimomura2010icsea",
+    gscholar2016="1",
+    placex="",
 ))
 
 shoaib2010a = DB(WorkUnrelated(
@@ -792,6 +905,21 @@ simonsen2010a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="",
+))
+
+soto2010a = DB(WorkUnrelated(
+    2010, "Shaping human capital in software development teams: the case of mentoring enabled by semantics",
+    display="soto",
+    authors="Soto-Acosta, Pedro and Casado-Lumbreras, Cristina and Cabezas-Isla, Fernando",
+    place=IEEES,
+    pp="445--452",
+    entrytype="article",
+    volume="4",
+    number="6",
+    publisher="IET",
+    ID="soto2010shaping",
+    scholar2016="1",
+    placex="IET software",
 ))
 
 sousa2010a = DB(WorkUnrelated(

@@ -50,6 +50,19 @@ abrahão2010a = DB(WorkUnrelated(
     placex="Journal of Systems and Software",
 ))
 
+ahmed2010a = DB(WorkUnrelated(
+    2010, "Agile software development: Impact on productivity and quality",
+    display="ahmed",
+    authors="Ahmed, A and Ahmad, S and Ehsan, N and Mirza, E and Sarwar, SZ",
+    place=FAKE,
+    pp="287--291",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="ahmed2010agile",
+    scholar2016="1",
+    placex="Management of innovation and technology (ICMIT), 2010 IEEE international conference on",
+))
+
 alnatheer2010a = DB(WorkUnrelated(
     2010, "Agile security issues: an empirical study",
     display="alnatheer",
@@ -177,6 +190,19 @@ boehm2010b = DB(WorkUnrelated(
     placex="INCOSE International Symposium",
 ))
 
+boehm2010c = DB(WorkUnrelated(
+    2010, "Architected agile solutions for software-reliant systems",
+    display="boehm c",
+    authors="Boehm, Barry and Lane, Jo Ann and Koolmanojwong, Supannika and Turner, Richard",
+    place=FAKE,
+    pp="165--184",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="boehm2010architected",
+    gscholar2016="1",
+    placex="Agile software development",
+))
+
 bottani2010a = DB(WorkUnrelated(
     2010, "Profile and enablers of agile companies: An empirical investigation",
     display="bottani",
@@ -279,6 +305,7 @@ conforto2010a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Project Management Journal",
+    scholar2016="1",
 ))
 
 coplien2010a = DB(WorkUnrelated(
@@ -303,6 +330,20 @@ cp2010a = DB(WorkUnrelated(
     placex="cmmi",
 ))
 
+deemer2010a = DB(WorkUnrelated(
+    2010, "The scrum primer",
+    display="deemer",
+    authors="Deemer, Pete and Benefield, Gabrielle and Larman, Craig and Vodde, Bas",
+    place=FAKE,
+    pp="15",
+    entrytype="article",
+    volume="1285931497",
+    ID="deemer2010scrum",
+    gscholar2016="1",
+    placex="Scrum Primer is an in-depth introduction to the theory and practice of Scrum, albeit primarily from a software development perspective, available at: http://assets. scrumtraininginstitute. com/downloads/1/scrumprimer121. pdf",
+    scholar2016="1",
+))
+
 donaires2010a = DB(WorkUnrelated(
     2010, "Programming in the complex: Cybernetic insights into software process and architecture",
     display="donaires",
@@ -317,6 +358,19 @@ donaires2010a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Systems Research and Behavioral Science",
+))
+
+fernandes2010a = DB(WorkUnrelated(
+    2010, "Playscrum-a card game to learn the scrum agile method",
+    display="fernandes",
+    authors="Fernandes, João M and Sousa, Sónia M",
+    place=FAKE,
+    pp="52--59",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="fernandes2010playscrum",
+    scholar2016="1",
+    placex="Games and Virtual Worlds for Serious Applications (VS-GAMES), 2010 Second International Conference on",
 ))
 
 ferreira2010a = DB(WorkUnrelated(
@@ -545,6 +599,7 @@ hoda2010a = DB(WorkUnrelated(
     scopus2016="1",
     planilha_scopus2016="1",
     placex="Lecture Notes in Business Information Processing",
+    scholar2016="1",
 ))
 
 hoda2010b = DB(WorkUnrelated(
@@ -626,6 +681,17 @@ humble2010a = DB(WorkUnrelated(
     placex="Wesley",
 ))
 
+james2010a = DB(WorkUnrelated(
+    2010, "Scrum reference card",
+    display="james",
+    authors="James, Michael",
+    place=FAKE,
+    entrytype="article",
+    ID="james2010scrum",
+    gscholar2016="1",
+    placex="CollabNet Inc",
+))
+
 jenkin2010a = DB(WorkUnrelated(
     2010, "IS project alignment -- a process perspective",
     display="jenkin",
@@ -675,6 +741,20 @@ kamann2010a = DB(WorkUnrelated(
     placex="Journal of Supply Chain Management",
 ))
 
+karhatsu2010a = DB(WorkUnrelated(
+    2010, "Building blocks for self-organizing software development teams a framework model and empirical pilot study",
+    display="karhatsu",
+    authors="Karhatsu, Henri and Ikonen, Marko and Kettunen, Petri and Fagerholm, Fabian and Abrahamsson, Pekka",
+    place=FAKE,
+    pp="V1--297",
+    entrytype="inproceedings",
+    volume="1",
+    organization="IEEE",
+    ID="karhatsu2010building",
+    gscholar2016="1",
+    placex="Software Technology and Engineering (ICSTE), 2010 2nd International Conference on",
+))
+
 kerr2010a = DB(WorkUnrelated(
     2010, "Inserting innovations in-service",
     display="kerr",
@@ -693,6 +773,18 @@ kerr2010a = DB(WorkUnrelated(
     planilha_scopus2016="1",
     placex="Studies in Computational Intelligence",
     springer2016="1",
+))
+
+kniberg2010a = DB(WorkUnrelated(
+    2010, "Kanban and Scrum-making the most of both",
+    display="kniberg",
+    authors="Kniberg, Henrik and Skarin, Mattias",
+    place=Book,
+    entrytype="book",
+    publisher="Lulu. com",
+    ID="kniberg2010kanban",
+    gscholar2016="1",
+    placex="",
 ))
 
 kou2010a = DB(WorkUnrelated(
@@ -740,6 +832,19 @@ ktata2010a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of the Third C* Conference on Computer Science and Software Engineering",
+))
+
+larman2010a = DB(WorkUnrelated(
+    2010, "Practices for scaling lean & Agile development: large, multisite, and offshore product development with large-scale scrum",
+    display="larman",
+    authors="Larman, Craig",
+    place=Book,
+    entrytype="book",
+    publisher="Pearson Education India",
+    ID="larman2010practices",
+    gscholar2016="1",
+    placex="",
+    scholar2016="1",
 ))
 
 lee2010a = DB(WorkUnrelated(
@@ -1045,6 +1150,19 @@ ramesh2010a = DB(WorkUnrelated(
     placex="Information Systems Journal",
 ))
 
+rico2010a = DB(WorkUnrelated(
+    2010, "Lean and agile project management: for large programs and projects",
+    display="rico",
+    authors="Rico, David F",
+    place=FAKE,
+    pp="37--43",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="rico2010lean",
+    gscholar2016="1",
+    placex="Lean Enterprise Software and Systems",
+))
+
 rundqvist2010a = DB(WorkUnrelated(
     2010, "Lövsta skolhem: Ett förbättrat samarbete genom strukturförändring",
     display="rundqvist",
@@ -1215,6 +1333,19 @@ sutherland2010a = DB(WorkUnrelated(
     placex="accessed site",
 ))
 
+taipale2010a = DB(WorkUnrelated(
+    2010, "Huitale--a story of a Finnish lean startup",
+    display="taipale",
+    authors="Taipale, Marko",
+    place=FAKE,
+    pp="111--114",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="taipale2010huitale",
+    gscholar2016="1",
+    placex="Lean Enterprise Software and Systems",
+))
+
 topalian2010a = DB(WorkUnrelated(
     2010, "Living Briefs to Turn desired futures into reality",
     display="topalian",
@@ -1300,6 +1431,20 @@ wei2010a = DB(WorkUnrelated(
     entrytype="article",
     ID="wei2010a",
     placex="Eur. J. Inform. Syst.",
+))
+
+williams2010a = DB(WorkUnrelated(
+    2010, "Agile software development methodologies and practices",
+    display="williams",
+    authors="Williams, Laurie",
+    place=C,
+    pp="1--44",
+    entrytype="incollection",
+    volume="80",
+    publisher="Elsevier",
+    ID="williams2010agile",
+    gscholar2016="1",
+    placex="Advances in Computers",
 ))
 
 woodward2010a = DB(WorkUnrelated(

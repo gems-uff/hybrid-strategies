@@ -161,6 +161,20 @@ bozan2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+buzz2014a = DB(WorkUnrelated(
+    2014, "Change process for construction projects",
+    display="buzz",
+    authors="Buzz, Leonard",
+    place=FAKE,
+    entrytype="misc",
+    month="jan~16",
+    publisher="Google Patents",
+    note="US Patent App. 13/546,813",
+    ID="buzz2014change",
+    gscholar2016="1",
+    placex="",
+))
+
 chansylilath2014a = DB(WorkUnrelated(
     2014, "Evaluation and Improvement of MoSaIc Reference Models Comparison Approach",
     display="chansylilath",
@@ -201,6 +215,17 @@ colomo2014a = DB(WorkUnrelated(
     entrytype="article",
     ID="colomosocial",
     placex="",
+))
+
+cosic2014a = DB(WorkUnrelated(
+    2014, "Biometric system reliability as a important factor of influence on Chain of Custody of Digital Evidence",
+    display="",
+    authors="cosic, Zoran and {Ć}osi{ć}, Jasmin and Ba{č}a, Miroslav",
+    place=FAKE,
+    entrytype="inproceedings",
+    ID="cosic2014biometric",
+    gscholar2016="1",
+    placex="Central European Conference on Information and Intelligent Systems",
 ))
 
 damjanovic2014a = DB(WorkUnrelated(
@@ -313,6 +338,20 @@ forero2014a = DB(WorkUnrelated(
     entrytype="mastersthesis",
     ID="pena2014propuesta",
     local="Facultad de Ingeniería",
+    placex="",
+))
+
+fox2014a = DB(WorkUnrelated(
+    2014, "System and method of providing real-time updates related to in-use artifacts in a software development environment",
+    display="fox",
+    authors="Fox, Brian Edward and Orlina, Joel",
+    place=FAKE,
+    entrytype="misc",
+    month="feb~18",
+    publisher="Google Patents",
+    note="US Patent 8,656,343",
+    ID="fox2014system",
+    gscholar2016="1",
     placex="",
 ))
 
@@ -463,6 +502,18 @@ iso2014a = DB(WorkUnrelated(
     placex="",
 ))
 
+karwowski2014a = DB(WorkUnrelated(
+    2014, "The application of ontology for indexing of publications in the life sciences",
+    display="karwowski",
+    authors="Karwowski, Waldemar",
+    place=FAKE,
+    entrytype="article",
+    volume="3",
+    ID="karwowski2014application",
+    gscholar2016="1",
+    placex="Information Systems in Management",
+))
+
 kaufmann2014a = DB(WorkUnrelated(
     2014, "Extending the SPES Modeling Framework for Supporting Role-specific Variant Management in the Engineering Process of Embedded Software",
     display="kaufmann",
@@ -549,6 +600,7 @@ mcinerney2014a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Mallow Festival of Science",
+    gscholar2016="1",
 ))
 
 mehmood2014a = DB(WorkUnrelated(
@@ -657,6 +709,19 @@ muñoz2014b = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+ochara2014a = DB(WorkUnrelated(
+    2014, "Evaluating Creative Mobile Applications Development Using Emotional Design",
+    display="ochara",
+    authors="Ochara, Nixon Muganda and De Villiers, Carina and Twinomurinzi, Hossana and Pretorius, Jaco",
+    place=FAKE,
+    pp="132",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="ochara2014evaluating",
+    gscholar2016="1",
+    placex="Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology",
+))
+
 oconnor2014a = DB(WorkUnrelated(
     2014, "An innovative approach to the development of an international software process lifecycle standard for very small entities",
     display="o connor",
@@ -729,6 +794,18 @@ pettit2014a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+pouria2014a = DB(WorkUnrelated(
+    2014, "Product service system. A systematic review on its definition, design methodologies, value assessment, and guidelines for future research",
+    display="pouria",
+    authors="POURIA, MOHAMAD HOSSEIN",
+    place=FAKE,
+    entrytype="article",
+    publisher="Italy",
+    ID="pouria2014product",
+    gscholar2016="1",
+    placex="",
+))
+
 preneel2014a = DB(WorkUnrelated(
     2014, "SOFSEM 2014: Theory and Practice of Computer Science",
     display="preneel",
@@ -754,6 +831,17 @@ pérez2014a = DB(WorkUnrelated(
     googlescholar2016="1",
     planilha_googlescholar2016="1",
     placex="Agile Estimation Techniques and Innovative Approaches to Software Process Improvement",
+))
+
+rachmawati2014a = DB(WorkUnrelated(
+    2014, "E-HEALTH RESEARCH",
+    display="rachmawati",
+    authors="RACHMAWATI, UMMI AZIZAH",
+    place=FAKE,
+    entrytype="article",
+    ID="rachmawatihealth",
+    gscholar2016="1",
+    placex="",
 ))
 
 rosing2014a = DB(WorkUnrelated(

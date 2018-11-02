@@ -41,6 +41,17 @@ abidin2017a = DB(WorkUnrelated(
     placex="International Journal of Innovative Computing",
 ))
 
+abrahamsson2017a = DB(WorkUnrelated(
+    2017, "Agile software development methods: Review and analysis",
+    display="abrahamsson",
+    authors="Abrahamsson, Pekka and Salo, Outi and Ronkainen, Jussi and Warsta, Juhani",
+    place=FAKE,
+    entrytype="article",
+    ID="abrahamsson2017agile",
+    scholar2016="1",
+    placex="arXiv preprint arXiv:1709.08439",
+))
+
 alahyari2017a = DB(WorkUnrelated(
     2017, "A study of value in agile software development organizations",
     display="alahyari",
@@ -54,6 +65,7 @@ alahyari2017a = DB(WorkUnrelated(
     cluster_id="13534911479449146831",
     scholar="http://scholar.google.com/scholar?cites=13534911479449146831&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Systems and Software",
+    gscholar2016="1",
 ))
 
 alkema2017a = DB(WorkUnrelated(
@@ -773,6 +785,19 @@ klünder2017a = DB(WorkUnrelated(
     organization="Springer",
     ID="klunder2017different",
     placex="International Conference on Product-Focused Software Process Improvement",
+))
+
+kuhrmann2017a = DB(WorkUnrelated(
+    2017, "Hybrid software and system development in practice: waterfall, scrum, and beyond",
+    display="kuhrmann",
+    authors="Kuhrmann, Marco and Diebold, Philipp and Münch, Jürgen and Tell, Paolo and Garousi, Vahid and Felderer, Michael and Trektere, Kitija and McCaffery, Fergal and Linssen, Oliver and Hanser, Eckhart and others",
+    place=FAKE,
+    pp="30--39",
+    entrytype="inproceedings",
+    organization="ACM",
+    ID="kuhrmann2017hybrid",
+    gscholar2016="1",
+    placex="Proceedings of the 2017 International Conference on Software and System Process",
 ))
 
 kusters2017a = DB(WorkUnrelated(

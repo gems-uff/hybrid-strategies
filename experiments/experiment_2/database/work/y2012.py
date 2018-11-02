@@ -365,6 +365,7 @@ dingsøyr2012a = DB(WorkUnrelated(
     note="cited By 301",
     ID="Dingsøyr20121213",
     placex="Journal of Systems and Software",
+    scholar2016="1",
 ))
 
 dorairaj2012a = DB(WorkUnrelated(
@@ -437,6 +438,7 @@ felker2012a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Proceedings of the 43rd ACM technical symposium on Computer Science Education",
+    gscholar2016="1",
 ))
 
 ferreira2012a = DB(WorkUnrelated(
@@ -611,6 +613,19 @@ herzog2012a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+hildenbrand2012a = DB(WorkUnrelated(
+    2012, "Intertwining lean and design thinking: software product development from empathy to shipment",
+    display="hildenbrand",
+    authors="Hildenbrand, Tobias and Meyer, Johannes",
+    place=FAKE,
+    pp="217--237",
+    entrytype="incollection",
+    publisher="Springer",
+    ID="hildenbrand2012intertwining",
+    gscholar2016="1",
+    placex="Software for people",
 ))
 
 hoda2012a = DB(WorkUnrelated(
@@ -921,6 +936,18 @@ langford2012a = DB(WorkUnrelated(
     placex="Communications of the ACM",
 ))
 
+larman2012a = DB(WorkUnrelated(
+    2012, "Applying UML and patterns: an introduction to object oriented analysis and design and interative development",
+    display="larman",
+    authors="Larman, Craig",
+    place=Book,
+    entrytype="book",
+    publisher="Pearson Education India",
+    ID="larman2012applying",
+    gscholar2016="1",
+    placex="",
+))
+
 lepmets2012a = DB(WorkUnrelated(
     2012, "Process improvement for the small and agile",
     display="lepmets",
@@ -1013,6 +1040,37 @@ microsoft2012a = DB(WorkUnrelated(
     placex="Microsoft",
 ))
 
+middleton2012a = DB(WorkUnrelated(
+    2012, "Lean software management: BBC worldwide case study",
+    display="middleton",
+    authors="Middleton, Peter and Joyce, David",
+    place=FAKE,
+    pp="20--32",
+    entrytype="article",
+    volume="59",
+    number="1",
+    publisher="Institute of Electrical and Electronics Engineers, Inc., 345 E. 47 th St. NY NY 10017-2394 United States",
+    ID="middleton2012lean",
+    gscholar2016="1",
+    placex="IEEE Transactions on Engineering Management",
+))
+
+moe2012a = DB(WorkUnrelated(
+    2012, "Challenges of shared decision-making: A multiple case study of agile software development",
+    display="moe",
+    authors="Moe, Nils Brede and Aurum, Aybüke and Dybå, Tore",
+    place=IST,
+    pp="853--865",
+    entrytype="article",
+    volume="54",
+    number="8",
+    publisher="Elsevier",
+    ID="moe2012challenges",
+    gscholar2016="1",
+    placex="Information and Software Technology",
+    scholar2016="1",
+))
+
 myai2012a = DB(WorkUnrelated(
     2012, "The Action & Influence Solution",
     display="org",
@@ -1086,6 +1144,19 @@ niinimäki2012a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="Journal of Software: Evolution and Process",
+))
+
+nikitina2012a = DB(WorkUnrelated(
+    2012, "From scrum to scrumban: A case study of a process transition",
+    display="nikitina",
+    authors="Nikitina, Natalja and Kajko-Mattsson, Mira and Stråle, Magnus",
+    place=FAKE,
+    pp="140--149",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="nikitina2012scrum",
+    scholar2016="1",
+    placex="Software and System Process (ICSSP), 2012 International Conference on",
 ))
 
 olsson2012a = DB(WorkUnrelated(
@@ -1322,6 +1393,7 @@ rubin2012a = DB(WorkUnrelated(
     note="cited By 95",
     ID="Rubin2012",
     placex="Addison-Wesley",
+    gscholar2016="1",
 ))
 
 saddington2012a = DB(WorkSnowball(
@@ -1515,6 +1587,20 @@ squires2012a = DB(WorkUnrelated(
     wiley2016="1",
     planilha_wiley2016="1",
     placex="INCOSE International Symposium",
+))
+
+staron2012a = DB(WorkUnrelated(
+    2012, "Release readiness indicator for mature agile and lean software development projects",
+    display="staron",
+    authors="Staron, Miroslaw and Meding, Wilhelm and Palm, Klas",
+    place=FAKE,
+    pp="93--107",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="staron2012release",
+    gscholar2016="1",
+    placex="International Conference on Agile Software Development",
+    scholar2016="1",
 ))
 
 stoica2012a = DB(WorkUnrelated(
@@ -1838,6 +1924,7 @@ williams2012a = DB(WorkUnrelated(
     acm2016="1",
     planilha_acm2016="1",
     placex="Communications of the ACM",
+    gscholar2016="1",
 ))
 
 wolff2012a = DB(WorkUnrelated(

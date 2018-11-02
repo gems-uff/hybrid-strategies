@@ -32,6 +32,7 @@ april2005a = DB(WorkUnrelated(
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-20444462361&doi=10.1002%2fsmr.311&partnerID=40&md5=0dcc2afc60607347df5b9f60e9301066",
     scopus2016="1",
     gs2016="1",
+    scholar2016="1",
 ))
 
 berardi2005a = DB(WorkUnrelated(
@@ -40,6 +41,18 @@ berardi2005a = DB(WorkUnrelated(
     authors="Berardi, D., Calvanese, D., Giacomo, G.D.:",
     place=FAKE,
     placex="Artif. Intell. 168, 70–118",
+))
+
+bonilla2005a = DB(WorkUnrelated(
+    2005, "Agile Development and Maintenance of Applications based on Web Services (AgilWeb) TIC2003-02737-C02",
+    display="bonilla",
+    authors="Bonilla, Miguel Toro and Usaola, Macario Polo",
+    place=FAKE,
+    pp="9",
+    entrytype="article",
+    ID="bonilla2005agile",
+    gscholar2016="1",
+    placex="Jornada de Seguimiento de Proyectos en Tecnologıas Informáticas",
 ))
 
 bourque2005a = DB(WorkUnrelated(
@@ -78,6 +91,21 @@ burgués2005a = DB(WorkUnrelated(
     placex="International Conference on Conceptual Modeling",
     springer2016="1",
     planilha_springer2016="1",
+))
+
+burton2005a = DB(WorkUnrelated(
+    2005, "A semiotic metrics suite for assessing the quality of ontologies",
+    display="burton",
+    authors="Burton-Jones, Andrew and Storey, Veda C and Sugumaran, Vijayan and Ahluwalia, Punit",
+    place=FAKE,
+    pp="84--102",
+    entrytype="article",
+    volume="55",
+    number="1",
+    publisher="Elsevier",
+    ID="burton2005semiotic",
+    scholar2016="1",
+    placex="Data & Knowledge Engineering",
 ))
 
 carnegie2005a = DB(WorkUnrelated(
@@ -252,6 +280,7 @@ liao2005a = DB(WorkSnowball(
     scholar_ok=True,
     gs2016="1",
     googlescholar_search="1",
+    scholar2016="1",
 ))
 
 liao2005b = DB(WorkSnowball(
@@ -282,6 +311,19 @@ lin2005a = DB(WorkUnrelated(
     placex="Proc.10th Int’l Workshop on Exploring Modeling Methods for Systems Analysis and Design",
 ))
 
+nicola2005a = DB(WorkUnrelated(
+    2005, "A proposal for a unified process for ontology building: UPON",
+    display="nicola",
+    authors="De Nicola, Antonio and Missikoff, Michele and Navigli, Roberto",
+    place=FAKE,
+    pp="655--664",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="de2005proposal",
+    scholar2016="1",
+    placex="International Conference on Database and Expert Systems Applications",
+))
+
 ning2005a = DB(WorkUnrelated(
     2005, "Requirements engineering processes improvement: a systematic view",
     display="ning",
@@ -304,6 +346,18 @@ qu2005a = DB(WorkUnrelated(
     authors="Li Liao Yuzhong Qu and Hareton K. N. Leung",
     place=FAKE,
     placex="ISWC 2005 November",
+))
+
+recker2005a = DB(WorkUnrelated(
+    2005, "Do process modelling techniques get better? A comparative ontological analysis of BPMN",
+    display="recker",
+    authors="Recker, Jan C and Indulska, Marta and Rosemann, Michael and Green, Peter",
+    place=FAKE,
+    entrytype="article",
+    publisher="Australasian Chapter of the Association for Information Systems",
+    ID="recker2005process",
+    scholar2016="1",
+    placex="",
 ))
 
 rocha2005a = DB(WorkUnrelated(

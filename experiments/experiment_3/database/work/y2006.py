@@ -22,6 +22,21 @@ ahonen2006a = DB(WorkUnrelated(
     scopus2016="1",
 ))
 
+akerman2006a = DB(WorkUnrelated(
+    2006, "Using ontology to support development of software architectures",
+    display="akerman",
+    authors="Akerman, Art and Tyree, Jeff",
+    place=FAKE,
+    pp="813--825",
+    entrytype="article",
+    volume="45",
+    number="4",
+    publisher="IBM",
+    ID="akerman2006using",
+    scholar2016="1",
+    placex="IBM Systems Journal",
+))
+
 bella2006a = DB(WorkUnrelated(
     2006, "ASG Platform Development Process",
     display="bella",
@@ -142,6 +157,30 @@ carnegie2006a = DB(WorkUnrelated(
     placex="http://www.sei.cmu.edu/cmmi/appraisals.",
 ))
 
+cechich2006a = DB(WorkUnrelated(
+    2006, "Trends on COTS component identification",
+    display="cechich",
+    authors="Cechich, Alejandra and Requile-Romanczuk, Annya and Aguirre, Javier and Luzuriaga, Juan M",
+    place=FAKE,
+    pp="10--pp",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="cechich2006trends",
+    scholar2016="1",
+    placex="Commercial-off-the-Shelf (COTS)-Based Software Systems, 2006. Fifth International Conference on",
+))
+
+church2006a = DB(WorkUnrelated(
+    2006, "Decision support for managing security complexity in software development",
+    display="church",
+    authors="Church, Derek Kenneth",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="church2006decision",
+    gscholar2016="1",
+    placex="",
+))
+
 cmmi2006a = DB(WorkUnrelated(
     2006, "Carnegie Mellon Software Engineering Institute,",
     display="cmmi",
@@ -149,6 +188,33 @@ cmmi2006a = DB(WorkUnrelated(
     place=FAKE,
     other1="http://www.sei.cmu.edu/cmmi/appraisals",
     placex="CMMI Appraisals",
+))
+
+consortium2006a = DB(WorkUnrelated(
+    2006, "The gene ontology (GO) project in 2006",
+    display="consortium",
+    authors="Gene Ontology Consortium",
+    place=FAKE,
+    pp="D322--D326",
+    entrytype="article",
+    volume="34",
+    number="suppl_1",
+    publisher="Oxford University Press",
+    ID="gene2006gene",
+    scholar2016="1",
+    placex="Nucleic acids research",
+))
+
+croitoru2006a = DB(WorkUnrelated(
+    2006, "Autonomic systems modeling and development: a survey",
+    display="croitoru",
+    authors="Croitoru, Irina Daniela",
+    place=Thesis,
+    entrytype="phdthesis",
+    ID="croitoru2006autonomic",
+    local="Concordia University",
+    gscholar2016="1",
+    placex="",
 ))
 
 domínguez2006a = DB(WorkUnrelated(
@@ -239,6 +305,7 @@ garcía2006a = DB(WorkUnrelated(
     placex="Information and Software Technology",
     sciencedirect2016="1",
     planilha_sciencedirect2016="1",
+    scholar2016="1",
 ))
 
 garcía2006b = DB(WorkUnrelated(
@@ -361,6 +428,18 @@ horrocks2006a = DB(WorkUnrelated(
     placex="In: Doherty, P., Mylopoulos, J.,Welty, C. (eds.) Proceedings of the 10th International Conference on the Principles of Knowledge Representation and Reasoning KR, pp. 57–67. AAAI Press",
 ))
 
+hovland2006a = DB(WorkUnrelated(
+    2006, "Positive and negative factors in agent oriented software development: a case study",
+    display="hovland",
+    authors="Hovland, Einar Jakob",
+    place=Thesis,
+    entrytype="mastersthesis",
+    ID="hovland2006positive",
+    local="Høgskolen i Agder",
+    gscholar2016="1",
+    placex="",
+))
+
 hsieh2006a = DB(WorkUnrelated(
     2006, "A genetic agent using ontology model for meeting scheduling system",
     display="hsieh",
@@ -368,6 +447,19 @@ hsieh2006a = DB(WorkUnrelated(
     place=IC,
     other1="vol. 176 no. 9 pp. 1131-1155 May.",
     placex="Information Sciences",
+))
+
+kaiya2006a = DB(WorkUnrelated(
+    2006, "Using domain ontology as domain knowledge for requirements elicitation",
+    display="kaiya",
+    authors="Kaiya, Haruhiko and Saeki, Motoshi",
+    place=FAKE,
+    pp="189--198",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="kaiya2006using",
+    scholar2016="1",
+    placex="Requirements Engineering, 14th IEEE International Conference",
 ))
 
 lee2006a = DB(WorkUnrelated(
@@ -715,6 +807,18 @@ wang2006a = DB(WorkUnrelated(
     authors="Wang, S., Jin, L., Jin, C.",
     place=FAKE,
     placex="In: Proceedings of World Academy of Science, Engineering and Technology. 11 ISSN 1307-6884",
+))
+
+wautelet2006a = DB(WorkUnrelated(
+    2006, "Louvain School of Management",
+    display="wautelet",
+    authors="Wautelet, Yves and Kolp, Manuel and Achbany, Youssef",
+    place=FAKE,
+    entrytype="article",
+    publisher="Citeseer",
+    ID="wautelet2006louvain",
+    gscholar2016="1",
+    placex="",
 ))
 
 wu2006a = DB(WorkUnrelated(

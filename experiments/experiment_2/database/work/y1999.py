@@ -29,3 +29,18 @@ weich1999a = DB(WorkUnrelated(
     ID="Weich1999361",
     placex="Annual Review of Psychology",
 ))
+
+yusuf1999a = DB(WorkUnrelated(
+    1999, "Agile manufacturing:: The drivers, concepts and attributes",
+    display="yusuf",
+    authors="Yusuf, Yahaya Y and Sarhadi, Mansoor and Gunasekaran, Angappa",
+    place=FAKE,
+    pp="33--43",
+    entrytype="article",
+    volume="62",
+    number="1-2",
+    publisher="Elsevier",
+    ID="yusuf1999agile",
+    scholar2016="1",
+    placex="International Journal of production economics",
+))

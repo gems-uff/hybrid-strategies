@@ -1774,6 +1774,21 @@ samalikova2011a = DB(WorkUnrelated(
     placex="Software Quality Journal",
 ))
 
+sandberg2011a = DB(WorkUnrelated(
+    2011, "Agile collaborative research: Action principles for industry-academia collaboration",
+    display="sandberg",
+    authors="Sandberg, Anna and Pareto, Lars and Arts, Thomas",
+    place=IEEES,
+    pp="74--83",
+    entrytype="article",
+    volume="28",
+    number="4",
+    publisher="IEEE",
+    ID="sandberg2011agile",
+    scholar2015="1",
+    placex="IEEE software",
+))
+
 santos2011a = DB(WorkUnrelated(
     2011, "Action research can swing the balance in experimental software engineering",
     display="santos",
@@ -2007,6 +2022,7 @@ ullah2011a = DB(WorkUnrelated(
     scholar="http://scholar.google.com/scholar?cites=3546726514618726462&as_sdt=2005&sciodt=0,5&hl=en",
     placex="Journal of Computer Information Systems",
     gs="1",
+    scholar2015="1",
 ))
 
 unterkalmsteiner2011a = DB(WorkUnrelated(

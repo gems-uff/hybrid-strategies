@@ -1009,6 +1009,7 @@ lepmets2012a = DB(WorkUnrelated(
     publisher="Elsevier",
     scholar="http://scholar.google.com/scholar?cites=72631659526478855&as_sdt=2005&sciodt=0,5&hl=en",
     sciencedirect2015="1",
+    scholar2015="1",
 ))
 
 lepmets2012b = DB(WorkUnrelated(

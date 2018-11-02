@@ -599,6 +599,21 @@ mukhopadhyay2013a = DB(WorkUnrelated(
     placex="Decision Support Systems",
 ))
 
+nicholls2013a = DB(WorkUnrelated(
+    2013, "Parental decision-making and acceptance of newborn bloodspot screening: an exploratory study",
+    display="nicholls",
+    authors="Nicholls, Stuart G and Southern, Kevin W",
+    place=FAKE,
+    pp="e79441",
+    entrytype="article",
+    volume="8",
+    number="11",
+    publisher="Public Library of Science",
+    ID="nicholls2013parental",
+    gscholar2016="1",
+    placex="PloS one",
+))
+
 nijem2013a = DB(WorkUnrelated(
     2013, "Software Requirements Elicitation Tools for Service Oriented Architecture: Comparative Analysis",
     display="nijem",
@@ -803,6 +818,7 @@ souza2013b = DB(WorkUnrelated(
     cluster_id="7845582957003794355",
     scholar="http://scholar.google.com/scholar?cites=7845582957003794355&as_sdt=2005&sciodt=0,5&hl=en",
     placex="VI Seminar on Ontology Research in Brazil",
+    gscholar2016="1",
 ))
 
 stallinger2013a = DB(WorkUnrelated(
@@ -848,6 +864,18 @@ velkoski2013a = DB(WorkUnrelated(
     ID="velkoski2013analyzing",
     googlescholar2016="1",
     planilha_googlescholar2016="1",
+    placex="",
+))
+
+völter2013a = DB(WorkUnrelated(
+    2013, "Model-driven software development: technology, engineering, management",
+    display="völter",
+    authors="Völter, Markus and Stahl, Thomas and Bettin, Jorn and Haase, Arno and Helsen, Simon",
+    place=Book,
+    entrytype="book",
+    publisher="John Wiley & Sons",
+    ID="volter2013model",
+    scholar2016="1",
     placex="",
 ))
 

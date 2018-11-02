@@ -12,12 +12,50 @@ alonso1995a = DB(WorkUnrelated(
     placex="Real-Time Systems",
 ))
 
+boehm1995a = DB(WorkUnrelated(
+    1995, "Software requirements negotiation and renegotiation aids: A theory-W based spiral approach",
+    display="boehm",
+    authors="Boehm, Barry and Bose, Prasanta and Horowitz, Ellis and Lee, Ming June",
+    place=ICSE,
+    pp="243--243",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="boehm1995software",
+    scholar2016="1",
+    placex="Software Engineering, 1995. ICSE 1995. 17th International Conference on",
+))
+
 conradi1995a = DB(WorkUnrelated(
     1995, "Planning support for cooperating transactions in EPOS",
     display="conradi",
     authors="R. Conradi, C. Liu, and M. Hagaseth",
     place=FAKE,
     placex="Information Systems",
+))
+
+gómez1995a = DB(WorkUnrelated(
+    1995, "Evaluation and assessment of knowledge sharing technology",
+    display="gómez",
+    authors="Gómez-Pérez, Asunción and Juristo, Natalia and Pazos, Juan",
+    place=FAKE,
+    pp="289--296",
+    entrytype="article",
+    ID="gomez1995evaluation",
+    scholar2016="1",
+    placex="Towards very large knowledge bases",
+))
+
+gómez1995b = DB(WorkUnrelated(
+    1995, "Some ideas and examples to evaluate ontologies",
+    display="gómez b",
+    authors="Gómez-Pérez, Asunción",
+    place=FAKE,
+    pp="299--305",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="gomez1995some",
+    scholar2016="1",
+    placex="Artificial Intelligence for Applications, 1995. Proceedings., 11th Conference on",
 ))
 
 humphrey1995a = DB(WorkUnrelated(

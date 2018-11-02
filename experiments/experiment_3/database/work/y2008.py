@@ -339,6 +339,19 @@ ferchichi2008a = DB(WorkUnrelated(
     other1="Information Systems,",
 ))
 
+garcía2008a = DB(WorkUnrelated(
+    2008, "A pattern based approach for re-engineering non-ontological resources into ontologies",
+    display="garcía",
+    authors="García-Silva, Andrés and Gómez-Pérez, Asunción and Suárez-Figueroa, Mari Carmen and Villazón-Terrazas, Boris",
+    place=FAKE,
+    pp="167--181",
+    entrytype="inproceedings",
+    organization="Springer",
+    ID="garcia2008pattern",
+    gscholar2016="1",
+    placex="Asian Semantic Web Conference",
+))
+
 gonzalez2008a = DB(WorkUnrelated(
     2008, "A work product pool approach to methodology specification and enactment",
     display="gonzalez",
@@ -791,6 +804,7 @@ pino2008a = DB(WorkUnrelated(
     placex="Software Quality Journal",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-42149144165&doi=10.1007%2fs11219-007-9038-z&partnerID=40&md5=7873c84ff0384db40b1ebab2db030ae3",
     scopus2016="1",
+    scholar2016="1",
 ))
 
 protégé2008a = DB(WorkUnrelated(
@@ -969,6 +983,18 @@ santos2008a = DB(WorkUnrelated(
     placex="phdthesis",
 ))
 
+sao2008a = DB(WorkUnrelated(
+    2008, "Ontology-based Development of Testing Related Tools",
+    display="sao",
+    authors="do Trabalhador Sao-Carlense, Av",
+    place=FAKE,
+    pp="697",
+    entrytype="article",
+    ID="do2008ontology",
+    gscholar2016="1",
+    placex="SEKE 2008",
+))
+
 sharifloo2008a = DB(WorkUnrelated(
     2008, "An Ontology for CMMI-ACQ Model",
     display="sharifloo",
@@ -1005,6 +1031,19 @@ soto2008a = DB(WorkUnrelated(
     placex="Proceedings of the 2008 international workshop on Comparison and versioning of software models",
     link="https://www.scopus.com/inward/record.uri?eid=2-s2.0-79959453182&doi=10.1145%2f1370152.1370162&partnerID=40&md5=9f587f6f62dc11a72db935432922e324",
     scopus2016="1",
+))
+
+travassos2008a = DB(WorkUnrelated(
+    2008, "An environment to support large scale experimentation in software engineering",
+    display="travassos",
+    authors="Travassos, Guilherme H and dos Santos, Paulo Sérgio Medeiros and Mian, Paula Gomes and Neto, Arilo Cláudio Dias and Biolchini, Jorge",
+    place=FAKE,
+    pp="193--202",
+    entrytype="inproceedings",
+    organization="IEEE",
+    ID="travassos2008environment",
+    scholar2016="1",
+    placex="Engineering of Complex Computer Systems, 2008. ICECCS 2008. 13th IEEE International Conference on",
 ))
 
 tripathi2008a = DB(WorkUnrelated(

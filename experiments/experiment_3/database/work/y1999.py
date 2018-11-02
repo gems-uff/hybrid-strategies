@@ -21,6 +21,18 @@ chandrasekaran1999a = DB(WorkUnrelated(
     other1="14(1):20-26",
 ))
 
+fernández1999a = DB(WorkUnrelated(
+    1999, "Overview of methodologies for building ontologies",
+    display="fernández",
+    authors="Fernández-López, Mariano",
+    place=FAKE,
+    entrytype="article",
+    publisher="CEUR Publications (1999)",
+    ID="fernandez1999overview",
+    scholar2016="1",
+    placex="",
+))
+
 gasston1999a = DB(WorkUnrelated(
     1999, "The Role of the Client-Supplier Relationship in Achieving Software Quality",
     display="gasston",
@@ -67,6 +79,18 @@ pol1999a = DB(WorkUnrelated(
     authors="Koomen T. Pol M.",
     place=FAKE,
     placex="Addison-Wesley",
+))
+
+simon1999a = DB(WorkUnrelated(
+    1999, "Distance based cohesion measuring",
+    display="simon",
+    authors="Simon, Frank and Loffler, Silvio and Lewerentz, Claus",
+    place=FAKE,
+    entrytype="inproceedings",
+    volume="99",
+    ID="simon1999distance",
+    gscholar2016="1",
+    placex="proceedings of the 2nd European Software Measurement Conference (FESMA)",
 ))
 
 vetere1999a = DB(WorkUnrelated(

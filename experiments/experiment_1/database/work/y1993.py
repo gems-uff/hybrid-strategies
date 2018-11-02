@@ -136,6 +136,21 @@ dion1993a = DB(WorkUnrelated(
     placex="IEEE Software",
 ))
 
+dorling1993a = DB(WorkUnrelated(
+    1993, "SPICE: Software process improvement and capability determination",
+    display="dorling",
+    authors="Dorling, Alec",
+    place=SQJ,
+    pp="209--224",
+    entrytype="article",
+    volume="2",
+    number="4",
+    publisher="Springer",
+    ID="dorling1993spice",
+    scholar2015="1",
+    placex="Software Quality Journal",
+))
+
 drew1993a = DB(WorkUnrelated(
     1993, "Developing formal software process definitions",
     display="drew",
@@ -173,6 +188,21 @@ francis1993a = DB(WorkUnrelated(
     ID="Francis1993",
     springer2015="1",
     placex="Software Quality Journal",
+))
+
+guha1993a = DB(WorkUnrelated(
+    1993, "Business process reengineering: building a comprehensive methodology",
+    display="guha",
+    authors="Guha, Subashish and Kettinger, William J and Teng, James TC",
+    place=FAKE,
+    pp="13--22",
+    entrytype="article",
+    volume="10",
+    number="3",
+    publisher="Taylor & Francis",
+    ID="guha1993business",
+    scholar2015="1",
+    placex="Information systems management",
 ))
 
 hammer1993a = DB(WorkUnrelated(
@@ -236,6 +266,21 @@ lott1993a = DB(WorkUnrelated(
     ID="Lott1993407",
     sciencedirect="1",
     placex="Information and Software Technology",
+))
+
+luftman1993a = DB(WorkUnrelated(
+    1993, "Transforming the enterprise: The alignment of business and information technology strategies",
+    display="luftman",
+    authors="Luftman, Jerry N. and Lewis, Paul R. and Oldach, Scott H.",
+    place=FAKE,
+    pp="198--221",
+    entrytype="article",
+    volume="32",
+    number="1",
+    publisher="IBM",
+    ID="luftman1993transforming",
+    scholar2015="1",
+    placex="IBM systems journal",
 ))
 
 paulk1993a = DB(WorkUnrelated(

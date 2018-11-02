@@ -23,6 +23,8 @@ beck2001a = DB(WorkUnrelated(
     note="cited By 938",
     ID="Beck2001",
     placex="Manifesto for Agile Software Development",
+    gscholar2016="1",
+    scholar2016="1",
 ))
 
 beck2001b = DB(WorkUnrelated(
@@ -100,6 +102,22 @@ highsmith2001a = DB(WorkUnrelated(
     note="cited By 27",
     ID="Highsmith200129",
     placex="Software Development Magazine",
+    scholar2016="1",
+))
+
+highsmith2001b = DB(WorkUnrelated(
+    2001, "Agile software development: The business of innovation",
+    display="highsmith b",
+    authors="Highsmith, Jim and Cockburn, Alistair",
+    place=C,
+    pp="120--127",
+    entrytype="article",
+    volume="34",
+    number="9",
+    publisher="IEEE",
+    ID="highsmith2001agile",
+    scholar2016="1",
+    placex="Computer",
 ))
 
 hoyle2001a = DB(WorkUnrelated(

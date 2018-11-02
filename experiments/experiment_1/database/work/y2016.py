@@ -351,6 +351,18 @@ key2016a = DB(WorkUnrelated(
     placex="",
 ))
 
+keyes2016a = DB(WorkUnrelated(
+    2016, "Implementing the IT balanced scorecard: Aligning IT with corporate strategy",
+    display="keyes",
+    authors="Keyes, Jessica",
+    place=Book,
+    entrytype="book",
+    publisher="Auerbach Publications",
+    ID="keyes2016implementing",
+    scholar2015="1",
+    placex="",
+))
+
 khalifa2016a = DB(WorkUnrelated(
     2016, "The impact of strategic alignment on the performance of public organisations",
     display="khalifa",
